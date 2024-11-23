@@ -1,0 +1,288 @@
+{
+    "currentWord": {
+        "wordRoot": "discrepancy",
+        "id": 13148,
+        "phonemic": "dɪˈskrepənsi|dɪˈskrepənsi\r",
+        "bigId": "b2d9034e-6228-43b4-b136-eec7893fcbff",
+        "wordForms": [
+            "discrepancies",
+            "discrepancy"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b2d9034e-6228-43b4-b136-eec7893fcbff",
+            "de": "A difference between two things that should be the same",
+            "ty": "noun",
+            "ex": "There was a large discrepancy between the test results, causing confusion among the researchers.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "noticeable discrepancy",
+                " considerable discrepancy",
+                " slight discrepancy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b2d9034e-6228-43b4-b136-eec7893fcbff.webp",
+            "Tips": [
+                {
+                    "title": "Expectation Mismatch",
+                    "description": "Used when two similar items don't match as expected.",
+                    "example": "We found a discrepancy between the listed price and the checkout price.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/eAJH5bk34kXiMTDDVi8FX8V6yI.webp"
+                },
+                {
+                    "title": "Conflict Evidence",
+                    "description": "Indicates conflicting information found when comparing items.",
+                    "example": "Her alibi shows a discrepancy with the security footage.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/sA7u4qkj5ccjsuYbp909lU6xfqs.webp"
+                },
+                {
+                    "title": "Descriptive Nuance",
+                    "description": "Highlights small but significant differences.",
+                    "example": "He observed a slight discrepancy in the twins' behavior.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/E846uwnRiv5CiOW4S1mvLp2tpg.webp"
+                }
+            ]
+        },
+        {
+            "id": "4ff8b925-5744-4fcf-bee6-216bcf69d2d3",
+            "de": "A failure to match or correspond",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The court noted a discrepancy between the witness's testimony and the evidence presented.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal, Disapproving",
+            "tp": "",
+            "cl": [
+                "discrepancy in evidence",
+                " factual discrepancy",
+                " legal discrepancy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4ff8b925-5744-4fcf-bee6-216bcf69d2d3.webp",
+            "Tips": [
+                {
+                    "title": "Legal Inconsistency",
+                    "description": "Points out contradictions in legal documents or proceedings.",
+                    "example": "The lawyer exploited the discrepancy in the suspect's statements.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Evidence Analysis",
+                    "description": "Used to scrutinize inconsistencies in data or testimonies.",
+                    "example": "Discrepancies in the reports called for further investigation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4a81c80e-1526-4e2d-8814-3b2e8867fc6b",
+            "de": "An error in calculation or measurement",
+            "do": "Mathematics, Science",
+            "ty": "noun",
+            "ex": "A discrepancy in the calculations led to inaccurate conclusions.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "calculational discrepancy",
+                " measurement discrepancy",
+                " statistical discrepancy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4a81c80e-1526-4e2d-8814-3b2e8867fc6b.webp",
+            "Tips": [
+                {
+                    "title": "Accuracy Importance",
+                    "description": "Emphasizes the need for precise data in technical fields.",
+                    "example": "The engineer noted a discrepancy in the blueprint measurements.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Critical Errors",
+                    "description": "Refers to mistakes with impactful consequences.",
+                    "example": "A slight discrepancy in the dosage can have severe effects.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Precision Needed",
+                    "description": "Highlights situations where exactness is crucial.",
+                    "example": "Any discrepancy in the code caused the program to crash.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Consistency": {
+            "wordRoot": "Consistency",
+            "wordDefinition": "Consistency refers to the quality of being consistent or constant; it means that something always behaves or operates in the same way.\n\nDiscrepancy refers to a difference or inconsistency between two or more things. It means that there is a disagreement or variation between two or more items, datasets or individuals.\n\nConsistency is about something staying the same, while discrepancy is about identifying differences. Consistency is applicable when you want something to remain uniform, such as in a scientific experiment, where you want to keep all conditions the same to obtain accurate results.\n\nDiscrepancy is applicable when you need to identify errors, gaps or inconsistencies in data, such as in accounting, where the balance sheet must match up with the cash flow statement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dd12c7f2-58ec-47e8-ba69-d07537faba08.webp"
+        },
+        "Contradiction": {
+            "wordRoot": "Contradiction",
+            "wordDefinition": "A contradiction is when two statements or ideas cannot both be true at the same time. For example, saying \"I am always honest\" and then lying would be a contradiction.\n\nA contradiction means two things can't both be true, while a discrepancy means there's a difference between two things, but they may each still be true in their own way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/11657c50-808b-43d2-97a7-ada195c7da7c.webp"
+        },
+        "Difference": {
+            "wordRoot": "Difference",
+            "wordDefinition": "Difference refers to the distinction or variation between two or more things. For instance, a company can make a difference in the community by donating funds to a charity.\n\nDifference describes variations between two or more things, whereas discrepancy is used to indicate an inconsistency or a mismatch between data or expectation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/52bdeb7f-0de2-410b-ab56-0e479cb16cfa.webp"
+        },
+        "Disagree": {
+            "wordRoot": "Disagree",
+            "wordDefinition": "Disagree means to have a different opinion or belief from someone else.\n\nExample: John and Mary disagree on which movie to watch.\n\nDisagree is used when people don't agree with each other, while discrepancy is used when things don't match up or are inconsistent with each other.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed471efe-9631-47b4-8e94-18b85a1797f1.webp"
+        },
+        "Disparity": {
+            "wordRoot": "Disparity",
+            "wordDefinition": "Disparity refers to a difference or inequality between two or more things, such as ideas, values, or conditions.\n\nFor example, if one group of people has access to better healthcare than another group, there is a disparity in their access to healthcare.\n\nDiscrepancy refers to a difference in specific details, while disparity refers to a broader difference in overall conditions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9d5ad101-2540-4623-8cbf-a14fdbe3cdac.webp"
+        },
+        "Divergence": {
+            "wordRoot": "Divergence",
+            "wordDefinition": "Divergence means a separation or difference in opinions, beliefs, or paths taken.\n\nIt is used when two things that were once similar or connected begin to move apart or differ. For example, two friends who used to have similar interests may experience a divergence in their interests as they grow older and develop different hobbies.\n\nDiscrepancy describes a difference or inconsistency in information, while divergence describes a separation or difference in opinions, beliefs, or paths taken.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/52c251ae-4aa1-4177-bb41-db6d74aa45b6.webp"
+        },
+        "Imbalance": {
+            "wordRoot": "Imbalance",
+            "wordDefinition": "Imbalance refers to an uneven or unequal distribution of something, such as resources or power.\n\nIt is often used in situations where there is an unfairness or lack of equilibrium, such as an imbalance in the distribution of wealth or an imbalance of power between two groups.\n\nDiscrepancy is used when there is a difference between two things that are expected to be the same, while imbalance is used when there is a lack of equality or fairness in the distribution of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/86d05e7b-00bd-4749-b9bd-c532ce0a18b7.webp"
+        },
+        "Variance": {
+            "wordRoot": "Variance",
+            "wordDefinition": "Variance means a difference between an expected outcome and an actual outcome.\n\nIt is used when something deviates from what was predicted or planned. For example, if a business predicted it would earn $10,000 in a month but only earned $8,000, we would say there is a variance between the expected and actual earnings.\n\nDiscrepancy refers to a difference between two things that should be the same, while variance describes a difference between an expected outcome and an actual outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f8a2999-6057-4006-bbae-be6cc945e10b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " car claimed a scraggy haired stranger did it and you see when you see the video she can't even pretend to be an agonizing mother what you want to look for here is an incredible discrepancy between horrific events that she describes and her very very cool demeanor and if you look closely you'll see duping delight throughout this video but at night when",
+            "Title": "How to spot a liar -...",
+            "VideoId": "eZ4zlkhdcCw",
+            "Controls": "start=914"
+        },
+        {
+            "Text": " And you'll see when you see the video, she can't even pretend to be an agonizing mother. What you want to look for here is an incredible discrepancy between horrific events that she describes and her very, very cool demeanor. And if you look closely, you'll see duping delight throughout this video. Diane At night when I close my eyes,",
+            "Title": "How to spot a liar PIPE...",
+            "VideoId": "P_6vDLq64gE",
+            "Controls": "start=916"
+        },
+        {
+            "Text": " than feeding everything that's going on inside my body so one way to reconstruct that is to compare the prediction which is only based on your movie commands with the reality and any discrepancy should hopefully be external so as I go around the world I'm making predictions of what I should get subtract them off",
+            "Title": "The real reason for...",
+            "VideoId": "_DdU4ehCzUM",
+            "Controls": "start=657"
+        },
+        {
+            "Text": " often account for the discrepancies in longevity. So it's the combination of all these factors playing out to differing degrees in different animals that explains the variability we see in the animal kingdom. So what about us? Humans currently have an average life expectancy of 71 years,",
+            "Title": "Why do animals have such...",
+            "VideoId": "7m8QlSPP7t0",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " Why is there this discrepancy? It seems that we're doing a comparative evaluation. \"Compared to the victim, nothing really happened to me.\" But that's not really the right question. And support shouldn't be invisible just because you're less affected. Because we're all affected",
+            "Title": "How to support witnesses...",
+            "VideoId": "9ICjwQ_lJ8Y",
+            "Controls": "start=314"
+        },
+        {
+            "Text": " The well established principle of relativity, going all the way back to Galileo, stated that absolute motion could not be defined. Yet electromagnetic theory, also well established, asserted that absolute motion did exist. The discrepancy, and his inability to resolve it,",
+            "Title": "Einstein's miracle year...",
+            "VideoId": "91XI7M9l3no",
+            "Controls": "start=174"
+        },
+        {
+            "Text": " emphasizing a discrepancy between the person you want to be and the person you think you are and so what you should do about it is try to reduce that discrepancy or that gap between confidence and competence by working hard not by reading self-help books that tell you",
+            "Title": "Rethink how you think...",
+            "VideoId": "wxf9B2xn3Rc",
+            "Controls": "start=303"
+        },
+        {
+            "Text": " something lifts yellowwood I can't remember exactly which one it is but the yellow wood is second in a mere six hundred years old give or take ten years so I feel like there's a massive discrepancy here and I want to know why because how is it that they can get a",
+            "Title": "Safari Live - Day 198 PIPE...",
+            "VideoId": "XTt__c7bQz0",
+            "Controls": "start=10240"
+        },
+        {
+            "Text": " than feeling everything that's going on inside my body. So one way to reconstruct that is to compare the prediction -- which is only based on your movement commands -- with the reality. Any discrepancy should hopefully be external. So as I go around the world,",
+            "Title": "Daniel Wolpert: The real...",
+            "VideoId": "7s0CpRfyYp8",
+            "Controls": "start=657"
+        },
+        {
+            "Text": " size discrepancy here but they're also 11 years apart yet this animal is only four years older than this one yet is enormous ly bigger than this one what",
+            "Title": "T-Rex Growth Spurt PIPE How...",
+            "VideoId": "3YNwWlIvZXI",
+            "Controls": "start=42"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeremy-irons.webp",
+            "Text": "I believe that most people would like to cooperate in reducing waste, but to encourage them, the national policy should be clear, well advertised, and consistent. Even within Greater London, there is a huge discrepancy between council policies. I believe a national waste management initiative should be designed and implemented by government.",
+            "Title": "English Actor",
+            "Name": "Jeremy Irons"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wes-studi.webp",
+            "Text": "One of the things I learned early on was the system of believing: you have to believe in what you say. The camera is the arbiter of truth; it's the all-seeing eye that can pick out discrepancies. You can't lie to the camera. You must believe in what you're saying, or the audience won't believe you.",
+            "Title": "American Actor",
+            "Name": "Wes Studi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-horton-cooley.webp",
+            "Text": "If we divine a discrepancy between a man's words and his character, the whole impression of him becomes broken and painful; he revolts the imagination by his lack of unity, and even the good in him is hardly accepted.",
+            "Title": "American Sociologist",
+            "Name": "Charles Horton Cooley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rem-koolhaas.webp",
+            "Text": "Any architectural project we do takes at least four or five years, so increasingly there is a discrepancy between the acceleration of culture and the continuing slowness of architecture.",
+            "Title": "Dutch Architect",
+            "Name": "Rem Koolhaas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/carl-jung.webp",
+            "Text": "Sometimes, indeed, there is such a discrepancy between the genius and his human qualities that one has to ask oneself whether a little less talent might not have been better.",
+            "Title": "Swiss Psychologist",
+            "Name": "Carl Jung"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amy-adams.webp",
+            "Text": "I do love shoes that make my legs longer. I have the upper body of someone who's 5ft 8in, so high heels help me even out the discrepancy.",
+            "Title": "American Actress",
+            "Name": "Amy Adams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lascelles-abercrombie.webp",
+            "Text": "An epic is not made by piecing together a set of heroic lays, adjusting their discrepancies and making them into a continuous narrative.",
+            "Title": "British Poet",
+            "Name": "Lascelles Abercrombie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-grant.webp",
+            "Text": "You have to look at the discrepancy between what you hoped and imagined and the reality of yourself and all your shortcomings.",
+            "Title": "American Author",
+            "Name": "Richard Grant"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/roy-moore.webp",
+            "Text": "No, I think that we've got a basic discrepancy here between the rule of law versus the rule of man.",
+            "Title": "American Judge",
+            "Name": "Roy Moore"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vilayanur-s-ramachandran.webp",
+            "Text": "The brain abhors discrepancies.",
+            "Title": "Indian Scientist",
+            "Name": "Vilayanur S. Ramachandran"
+        }
+    ]
+}

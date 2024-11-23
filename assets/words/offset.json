@@ -1,0 +1,331 @@
+{
+    "currentWord": {
+        "wordRoot": "offset",
+        "id": 19227,
+        "phonemic": "ˈɒfset|ˈɔːfset\r",
+        "bigId": "5e25fa16-f05a-4317-9420-216f574b9ca8",
+        "wordForms": [
+            "offsets",
+            "offsetting",
+            "offsetted",
+            "offset"
+        ]
+    },
+    "senses": [
+        {
+            "id": "5e25fa16-f05a-4317-9420-216f574b9ca8",
+            "de": "An amount of something that balances, cancels, or compensates for something else.",
+            "ty": "noun",
+            "ex": "The increased cost of fuel was offset by the decrease in maintenance costs.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "offset costs",
+                " offset losses",
+                " offset emissions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5e25fa16-f05a-4317-9420-216f574b9ca8.webp",
+            "Tips": [
+                {
+                    "title": "Balancing Act",
+                    "description": "When offset is used as a noun, it often refers to something that equals out another, creating balance.",
+                    "example": "The earnings from the bake sale acted as an offset to the club's previous expenses.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/XaypZdrufihpcJff6RjMrGnI.webp"
+                },
+                {
+                    "title": "Financial Context",
+                    "description": "Offset is commonly used in financial situations to talk about balancing costs and benefits.",
+                    "example": "We must find an offset for the extra spending on new equipment.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OfHBkgvvk5QM6Id7jY2Hr2sE4.webp"
+                }
+            ]
+        },
+        {
+            "id": "092d146b-e947-4774-b701-44d8342b0704",
+            "de": "To balance, counteract, or compensate for something.",
+            "ty": "verb",
+            "ex": "His speed is offset by his lack of accuracy.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "offset costs",
+                " offset impact",
+                " offset emissions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/092d146b-e947-4774-b701-44d8342b0704.webp",
+            "Tips": [
+                {
+                    "title": "Action Result",
+                    "description": "As a verb, offset implies an action taken to create balance or to reduce an effect.",
+                    "example": "Planting trees may offset carbon emissions from driving cars.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cause and Effect",
+                    "description": "Offset as a verb suggests that one thing will make up for or neutralize another thing.",
+                    "example": "The scholarship will offset the cost of tuition for many students.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a8a2dc3c-81eb-4382-b4de-47a9591e1b04",
+            "de": "In printing, offset is a method where an image is transferred to a plate, then to rubber, then to the printing surface.",
+            "do": "Printing",
+            "ty": "noun",
+            "ex": "Offset printing provides a high quality of print and it is cost effective when used for a large number of prints.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a8a2dc3c-81eb-4382-b4de-47a9591e1b04.webp",
+            "Tips": [
+                {
+                    "title": "Printing Method",
+                    "description": "Offset in the printing context refers to a specific process used to create high-quality printed materials.",
+                    "example": "Magazines are often printed using the offset method for better image reproduction.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reproduction Quality",
+                    "description": "The term 'offset' in printing is associated with mass production and professional quality.",
+                    "example": "Offset printing is preferred for high-volume orders like newspapers.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "7714753e-3b97-447a-ba71-8ca6a9b27482",
+            "de": "In architecture, an offset is a change in direction of a building material or a set-back or step in a wall's face.",
+            "do": "Architecture",
+            "ty": "noun",
+            "ex": "The offset in the building's brickwork creates a distinct visual contrast.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7714753e-3b97-447a-ba71-8ca6a9b27482.webp",
+            "Tips": [
+                {
+                    "title": "Visual Dynamics",
+                    "description": "In architecture, an offset is not just structural but also adds visual interest to a building.",
+                    "example": "The architect designed an offset in the facade for a modern look.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "8867a66d-d1e4-44d7-baa8-ffc84012b815",
+            "de": "In automotive design, the distance from the mounting surface of an undriven wheel to the rim's centerline.",
+            "do": "Automotive",
+            "ty": "noun",
+            "ex": "A wrong wheel offset could cause problems with how your car handles.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8867a66d-d1e4-44d7-baa8-ffc84012b815.webp",
+            "Tips": [
+                {
+                    "title": "Wheel Alignment",
+                    "description": "Automotive offset affects how the wheels sit and can influence handling and performance.",
+                    "example": "The mechanic adjusted the offset to improve the steering.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Safe Driving",
+                    "description": "The correct offset in cars is critical for safe and stable driving conditions.",
+                    "example": "Choosing the right offset ensures the car does not rub against the wheel well.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Balance": {
+            "wordRoot": "Balance",
+            "wordDefinition": "Balance refers to the stability of something or the even distribution of weight or resources. For example, if you have two weights on a scale, you need to balance them so that they are equal and the scale is level.\n\nIn financial terms, balance can refer to having an equal amount of money on both sides of a ledger, which means expenses and revenue should match.\n\nOffset refers to a counterbalancing effect or compensation for something. For example, if you want to offset the carbon emissions from your car, you can plant trees, which absorb carbon dioxide from the atmosphere.\n\nBalance is about making sure things are equal and stable, while offset is about compensating for something or creating a counterbalancing effect.\n\nYou would use balance to ensure fairness or stability, and offset to make up for something, neutralize an effect, or improve something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/84cbbb2f-d484-4c04-80f0-43adc840181a.webp"
+        },
+        "Begin": {
+            "wordRoot": "Begin",
+            "wordDefinition": "Begin means to start something, while the word offset means to counterbalance or compensate for something.\n\nFor example, you can use begin when you're starting a project or a conversation.\n\nBegin is used to start something new, while offset is used to counterbalance or compensate for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/29d340d3-cd8a-42f2-992f-a0a0300a927e.webp"
+        },
+        "Compensate": {
+            "wordRoot": "Compensate",
+            "wordDefinition": "To compensate means to provide something good or positive to make up for something bad or negative. For example, if a company made a mistake that caused a customer inconvenience, they might compensate the customer by providing a discount or free product.\n\nIn general, compensating is used to make up for something negative that has already happened, while offsetting is used to prevent or counteract something negative that may happen in the future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ff601dcf-a210-4372-bf10-5def2702393c.webp"
+        },
+        "Counterbalance": {
+            "wordRoot": "Counterbalance",
+            "wordDefinition": "Counterbalance refers to a weight or force that is used to balance or offset another weight or force. For example, if you have a heavy weight on one side of a teeter-totter, you can add a counterweight to the other side to balance it out.\n\nCounterbalance is used to balance or counteract a weight, while offset is used to compensate or counteract a change in something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b842266d-6912-41f5-9db5-ebb8dfba27eb.webp"
+        },
+        "Equalize": {
+            "wordRoot": "Equalize",
+            "wordDefinition": "Equalize means to make things equal or have the same value, while offset means to counterbalance or balance out.\n\nFor example, if you have two lengths of rope and you want them to be the same length, you would equalize them by cutting or stretching one to match the other.\n\nEqualize is used when you want to make things even or equal, while offset is used when you need to compensate for something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/65afd042-4236-4312-96d0-9c43bfc8d78d.webp"
+        },
+        "Neutralize": {
+            "wordRoot": "Neutralize",
+            "wordDefinition": "Neutralize means to cancel out or eliminate the effect of something completely. For example, if you add an acid to a base, you can neutralize it with an alkaline substance.\n\nNeutralize is used when you want to completely eliminate something, while offset is used when you want to balance something out or minimize its impact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9c003d56-0a70-4f47-903b-afe9840deba1.webp"
+        },
+        "Set off": {
+            "wordRoot": "Set off",
+            "wordDefinition": "Offset and set off are two different phrases that have different meanings.\n\nOffset means to counterbalance or compensate for something. For example, if you owe someone money but they owe you money as well, you can say that their debt offsets yours.\n\nOr, if a company emits greenhouse gases, they may offset those emissions by planting trees or investing in renewable energy.\n\nSet off means to start or cause something, often with a sudden or explosive impact. For example, if a car alarm goes off, it sets off a series of loud noises.\n\nOr, if someone's comment makes you angry, it could set off an argument.\n\nOffset is used when talking about balancing or compensating for something, while set off is used when discussing starting or causing something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/29a07f9a-c1f4-40f2-aaa4-f2a428cec00a.webp"
+        },
+        "Start": {
+            "wordRoot": "Start",
+            "wordDefinition": "Start refers to the beginning point of something while offset refers to a shift or deviation from a particular starting point.\n\nFor example, if you are measuring the length of a piece of wood, the starting point will be at one end of the wood, while the offset will refer to a distance from that starting point (e.g.\n\n3 inches from the starting point). In programming, start may refer to the beginning of a program or process, while offset may refer to the displacement of data from a particular memory location.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed481109-dc07-4539-a428-fe9ac51ff40f.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " But you need more than just jokes to be able to cut it as a professional comedian. You need to be able to walk that fine line between being charming and disarming. And I discovered the most effective way to generate the amount of charm I needed to offset my disarming personality was through not jokes but stories.",
+            "Title": "Three ideas. Three...",
+            "VideoId": "87qLWFZManA",
+            "Controls": "start=295"
+        },
+        {
+            "Text": " know about the purpose of the ossicones which is the actual official word for the protrusions on top of a giraffe's head we don't call them horns because although they are solid bone just like horns giraffe are born with offset cones and I'm just gonna make life a little bit easier for Craig here I'm gonna",
+            "Title": "Safari Live - Day 35 PIPE...",
+            "VideoId": "H64rdhQhxM8",
+            "Controls": "start=1704"
+        },
+        {
+            "Text": " When viewed through this lens, restoration just seems like an easy way out, a chance for us to \"offset our emissions\" by planting a few trees and ignore the very real and urgent challenges of cutting emissions and protecting the ecosystems that we currently have. Restoration is not a silver bullet.",
+            "Title": "The global movement to...",
+            "VideoId": "yJX1Te0jey0",
+            "Controls": "start=281"
+        },
+        {
+            "Text": " If just three percent of the carbon locked up in the arctic permafrost is released as the world warms, it would offset all the savings that we need to make, in carbon, over the next 40 years to avoid runaway climate change. We have no choice other than deep and urgent decarbonization.",
+            "Title": "Rob Hopkins: Transition...",
+            "VideoId": "8meWY0W40OA",
+            "Controls": "start=290"
+        },
+        {
+            "Text": " things helps add some tension offset that force pushing them apart but even water's surface tension doesn't work all that well if that's a really heavy weight like a bowling ball so let's take something and put it in between the grains of sand",
+            "Title": "Sand: the unseen...",
+            "VideoId": "8N_FvVdpTso",
+            "Controls": "start=217"
+        },
+        {
+            "Text": " as did productivity and patient care. But in this trial, they hired new staff for the hours that weren't being covered. The striking finding was how much lower sick pay and unemployment benefits helped offset those additional salaries.",
+            "Title": "The Case for a 4-Day...",
+            "VideoId": "MyVfUaXyyqo",
+            "Controls": "start=411"
+        },
+        {
+            "Text": " One area that I do is I fund putting in electric heat-pumps into low-cost housing. And so instead of using natural gas, they get a lower bill because it's done with electricity. And I paid that extra capital cost as an offset.",
+            "Title": "Bill Gates: The...",
+            "VideoId": "rhNxDp8e7p8",
+            "Controls": "start=2413"
+        },
+        {
+            "Text": " will remain there, by human standards, forever. So we have to act. This is really a new phase in addressing the climate crisis and it demands new thinking. So, ideas like carbon offsets really don't make sense",
+            "Title": "Can seaweed help curb...",
+            "VideoId": "tuvxXnQrRv8",
+            "Controls": "start=105"
+        },
+        {
+            "Text": " to offset the scuffling buffalo? Consider the can-can. Can-can can-can can can can can can-can. Here, the word can comes in many guises. There's can-can, the flamboyant dance, can, that means able to,",
+            "Title": "Buffalo buffalo buffalo:...",
+            "VideoId": "TWbzjGIec20",
+            "Controls": "start=132"
+        },
+        {
+            "Text": " So inside our country, we are a net carbon sink. Outside, we are offsetting carbon. And this is important stuff. You see, the world is getting warmer, and climate change is a reality.",
+            "Title": "This country isn't just...",
+            "VideoId": "7Lc_dlVrg5M",
+            "Controls": "start=523"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pico-iyer.webp",
+            "Text": "Nearly everybody I know does something to try to remove herself to clear her head and to have enough time and space to think... All of us instinctively feel that something inside us is crying out for more spaciousness and stillness to offset the exhilarations of this movement and the fun and diversion of the modern world.",
+            "Title": "Indian Writer",
+            "Name": "Pico Iyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/toby-emmerich.webp",
+            "Text": "We made too many expensive movies trying to offset the loss of the 'LOTR' income. There was a lot of pressure to re-create that franchise, which turned out to be unhealthy for us, because it's such a once-in-a-lifetime success. It would be like trying to re-create 'Avatar' over and over again.",
+            "Title": "American Producer",
+            "Name": "Toby Emmerich"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fabrizio-moreira.webp",
+            "Text": "Raising the minimum wage represents a substantial financial burden for employers, particularly start-ups, early stage companies, and family-owned businesses. In response, business owners would be forced to either lay off workers or raise prices to offset the rise in labor costs.",
+            "Title": "Ecuadorian Politician",
+            "Name": "Fabrizio Moreira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jared-leto.webp",
+            "Text": "I think I remember from the offset I said, 'I've visited this territory. This isn't for me.' And then I read the script and I said, 'You know, this is completely something different. This is a whole new life.",
+            "Title": "American Actor",
+            "Name": "Jared Leto"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-cantalupo.webp",
+            "Text": "But we had a pretty diversified portfolio of businesses around the world and things tended to offset each other. But one or two years ago, we had a lot of things happening at the same time.",
+            "Title": "American Businessman",
+            "Name": "Jim Cantalupo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/abbe-pierre.webp",
+            "Text": "It's true that humanity has seen a succession of crises, wars and atrocities, but this negative side is offset by advances in technology and cultural exchanges.",
+            "Title": "French Clergyman",
+            "Name": "Abbe Pierre"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oliver-sykes.webp",
+            "Text": "We tour the world and my carbon footprint is massive. I feel like it's my responsibility to do something - not just to offset it but to help make a difference.",
+            "Title": "English Musician",
+            "Name": "Oliver Sykes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kendrick-lamar.webp",
+            "Text": "You can have the platinum album. But, you know, when you still feel like you haven't quite found your place in the world, it kind of gives a crazy offset.",
+            "Title": "American Musician",
+            "Name": "Kendrick Lamar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/janet-yellen.webp",
+            "Text": "Social safety-net spending is an important form of public funding that helps offset disparities in family resources for children.",
+            "Title": "American Public Servant",
+            "Name": "Janet Yellen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-d-hayworth.webp",
+            "Text": "The minimum wage was due for an increase, but it was important that we offset its cost to small businesses.",
+            "Title": "American Politician",
+            "Name": "J. D. Hayworth"
+        }
+    ]
+}

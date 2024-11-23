@@ -1,0 +1,313 @@
+{
+    "currentWord": {
+        "wordRoot": "description",
+        "id": 9763,
+        "phonemic": "dɪˈskrɪpʃn|dɪˈskrɪpʃn\r",
+        "bigId": "3c1e25a4-e120-474c-a73e-b99faa786db5",
+        "wordForms": [
+            "descriptions",
+            "description"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3c1e25a4-e120-474c-a73e-b99faa786db5",
+            "de": "A statement or account that tells you what something is like or what someone is like.",
+            "ty": "noun",
+            "ex": "The job advertisement gave a detailed description of the role responsibilities.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "detailed description",
+                " accurate description",
+                " written description"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3c1e25a4-e120-474c-a73e-b99faa786db5.webp",
+            "Tips": [
+                {
+                    "title": "Detail Importance",
+                    "description": "Adding details helps the listener understand the subject more thoroughly.",
+                    "example": "His description included the color, shape, and size, clarifying what he meant.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/U2NJggWbhTdrHElRe8Mzq40HU.webp"
+                },
+                {
+                    "title": "Objective or Subjective",
+                    "description": "Descriptions can be factual or influenced by personal feelings and opinions.",
+                    "example": "The scientist's description was objective, while the artist's was full of emotion.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/p13xeCairlHVDJNGXXKW9M7eu0.webp"
+                },
+                {
+                    "title": "Avoid Vagueness",
+                    "description": "Vague descriptions can lead to misunderstandings; be as specific as possible.",
+                    "example": "Instead of 'big dog', her description said 'a large, brown Great Dane'.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fvKvEsBVP4cgNqS1QVAxPWEPcQY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9575e1da-3841-41a9-b374-f53d5a0acd3b",
+            "de": "The process of using words to create a picture of something.",
+            "ty": "noun",
+            "ex": "Her description of the landscape brought it to life.",
+            "use": "",
+            "co": "Literary",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "vivid description",
+                " detailed description",
+                " brief description"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9575e1da-3841-41a9-b374-f53d5a0acd3b.webp",
+            "Tips": [
+                {
+                    "title": "Sensory Imagery",
+                    "description": "Use sensory details to make the description vivid and lively.",
+                    "example": "Her description of the perfume included its jasmine scent and velvety feel.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Stir Emotions",
+                    "description": "Good descriptions can evoke emotions and feelings in the reader.",
+                    "example": "His description of the abandoned house sent shivers down my spine.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f55d1604-ebf9-4c2e-a172-c57e73b6d392",
+            "de": "A type or category of something or someone.",
+            "do": "General",
+            "ty": "noun",
+            "ex": "There was nothing of any description to be seen.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "items of any description",
+                " thieves of this description",
+                " crimes of a serious description"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f55d1604-ebf9-4c2e-a172-c57e73b6d392.webp",
+            "Tips": [
+                {
+                    "title": "Clarify Ambiguity",
+                    "description": "Use descriptions to make unclear or general statements more specific.",
+                    "example": "The sign prohibiting 'vehicles of any description' was replaced with a detailed list.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Avoid Stereotyping",
+                    "description": "Description categories should not encourage stereotypes or overly broad generalizations.",
+                    "example": "He avoided using 'description' that would pigeonhole people into unfair categories.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "84020196-7374-4f16-83d7-378259045307",
+            "de": "The action of defining something.",
+            "ty": "noun",
+            "ex": "Through the description of the object, we understood what it was.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "theoretical description",
+                " scientific description",
+                " mathematical description"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/84020196-7374-4f16-83d7-378259045307.webp",
+            "Tips": [
+                {
+                    "title": "Communicate Precision",
+                    "description": "Descriptions in academic contexts aim to communicate with high precision and clarity.",
+                    "example": "Her mathematical description defined the problem precisely, using exact terms.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Facilitate Understanding",
+                    "description": "Descriptions should help others comprehend complex ideas or terms.",
+                    "example": "The professor's description made the complex theory understandable to all students.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Account": {
+            "wordRoot": "Account",
+            "wordDefinition": "Account is often used when talking about money or finances. It refers to a record of money that a person or organization has, for example in a bank account.\n\nIt can also refer to a report of how money was spent, such as an expense account.\n\nThe word description is more often used when talking about describing something or someone. It refers to a statement or an account that describes the characteristics, features, or qualities of a particular thing or person.\n\nAccount is used to talk about financial records or reports, while description is used to talk about statements or accounts that describe something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/250fda7e-1773-4c14-9bc9-cc54242073dc.webp"
+        },
+        "Characterization": {
+            "wordRoot": "Characterization",
+            "wordDefinition": "Characterization is the process of revealing the personality, traits, and qualities of a fictional or non-fictional character, whereas description is the process of depicting or representing something in detail.\n\nIn literature, characterization is important for understanding the motives and behavior of the characters, while description helps the reader better visualize and understand the setting or environment.\n\nFor example, characterization is applicable when analyzing a character's actions or thoughts, while description is useful when describing a place, object, or person's physical appearance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c32e9e30-c960-415f-b646-fde32bb62e1f.webp"
+        },
+        "Delineate": {
+            "wordRoot": "Delineate",
+            "wordDefinition": "Delineate means to outline or describe something very specifically and clearly, often with the goal of explaining its boundaries and characteristics.\n\nDescriptions can be of varying levels of detail, but are generally less specific than delineations. This is most applicable when you need to give an overview of something, such as describing a new restaurant to a friend or summarizing the plot of a book to a teacher.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc464258-8c74-4ef7-aaca-24401bbe2295.webp"
+        },
+        "Depict": {
+            "wordRoot": "Depict",
+            "wordDefinition": "Depict means to show or represent something through art, writing or other forms of visual media. Description refers to a statement or account that tells what something or someone is like, providing specific details or characteristics.\n\nFor example, you can depict a bird in a painting, which means you are showing how the bird looks visually. While describing the bird is explaining how the bird looks in words, such as its feathers, size, and color.\n\nDepict is more applicable to describe something visually, and description is more applicable to explain something in words.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14be40d4-c33e-4f55-90c7-514d0ed16b42.webp"
+        },
+        "Explanation": {
+            "wordRoot": "Explanation",
+            "wordDefinition": "Description is a detailed account of how something looks or is, while explanation is a statement that makes something clear by providing reasons or information.\n\nFor example, a description of a car would include its color, shape, size, and features, while an explanation of how the car works would detail the mechanics and components that enable it to function properly.\n\nExplanations are suitable when we want to provide information about why something happens or what the reasons are behind a particular occurrence or phenomenon.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/feb0709b-fed8-4186-9b24-c40a31a00d24.webp"
+        },
+        "Narrative": {
+            "wordRoot": "Narrative",
+            "wordDefinition": "A narrative is a story that tells about events, experiences or a sequence of happenings. It's like a written or spoken account of something that happened or imagined.\n\nExample: A narrative would be a story about the dog's life, including how it was adopted, what adventures it had, and how it overcame obstacles.\n\nBoth description and narrative can be used in writing, literature, and speech. Descriptions are used to help readers visualize and understand the details of an object, person, or place, while narratives are used to convey a story or to entertain readers or listeners.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/02dd567c-00b6-4dd7-bbba-9b1b4fa54fd8.webp"
+        },
+        "Portrayal": {
+            "wordRoot": "Portrayal",
+            "wordDefinition": "Description refers to the act of explaining or depicting something with words, while portrayal refers to the act of depicting something through a visual or artistic medium, such as painting or film.\n\nFor example, a description of a piece of artwork might use words to describe the colors, shapes, and textures of the piece, while a portrayal of the same artwork might involve creating a physical replica of the artwork or shooting a film of the artwork in motion.\n\nBoth description and portrayal can be used in a variety of contexts, such as describing a character in a book or portraying a historical event in a movie.\n\nThe choice between the two depends on the medium being used and the specific purpose of the description or portrayal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e756be9-afed-4b60-9379-38858c25ec0f.webp"
+        },
+        "Representation": {
+            "wordRoot": "Representation",
+            "wordDefinition": "Description refers to words that give an explanation or depiction of something. Representation refers to a visual or nonverbal portrayal of something.\n\nHowever, if they show you a picture of the painting, that is a representation.\n\nRepresentation is often used in art, such as paintings or sculptures, or even in diagrams or charts used to explain data or information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9d798560-3cbc-45aa-b376-7284d716660f.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And so, my role in helping to take the first image of a black hole is to design algorithms that find the most reasonable image that also fits the telescope measurements. Just as a forensic sketch artist uses limited descriptions to piece together a picture using their knowledge of face structure, the imaging algorithms I develop use our limited telescope data",
+            "Title": "How to take a picture of...",
+            "VideoId": "BIvezCVcsYs",
+            "Controls": "start=395"
+        },
+        {
+            "Text": " they understood the power of how you package and ideas just as important as the idea itself and I thought the term was really well it served those really good described description of the kind of videos that I was doing which are kind of these I called him shots philosophical espresso you know they crack a lot of ideas into",
+            "Title": "Expanding your mind with...",
+            "VideoId": "iDwIDf0HCew",
+            "Controls": "start=29"
+        },
+        {
+            "Text": " was remarkably close to the way turbulent flow works, although a complete description of turbulence remains one of the unsolved problems in physics. A turbulent flow is self-similar if there is an energy cascade. In other words, big eddies transfer their energy to smaller eddies, which do likewise at other scales.",
+            "Title": "The unexpected math...",
+            "VideoId": "PMerSm2ToFY",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " I look at this person and I momentarily get a shift in perception, and I stay open to the mysteries that are living right next to me. And then, more importantly, in this description about the other or myself -- it's the same -- what is most interesting is that there is no neediness in desire.",
+            "Title": "The secret to desire in...",
+            "VideoId": "sa0RUmGTCYY",
+            "Controls": "start=450"
+        },
+        {
+            "Text": " the detail-oriented, the big-picture perceivers, and flexible participants able to adapt their approach. Some people would get stuck, offering the same answer for multiple blots. Others gave unusual and delightful descriptions. Responses were as varied as the inkblots,",
+            "Title": "How does the Rorschach...",
+            "VideoId": "LYi19-Vx6go",
+            "Controls": "start=123"
+        },
+        {
+            "Text": " \"I only know that the apparent father has said publicly that he is the father of the baby. I also have not been engaged in any activity of any description that requested, agreed to, or supported payments of any kind to the woman or to the apparent father of the baby.\"",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=256"
+        },
+        {
+            "Text": " like repetition of memorized passages or set pieces. These included descriptions of scenery and lists of characters, and helped the rhapsode keep their place in the narrative, just as the chorus or bridge of a song helps us to remember the next verses.",
+            "Title": "Everything you need to...",
+            "VideoId": "8Z9FQxcCAZ0",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " Chances are the second description wasn't as vivid to you as the first. The point of fiction is to cast a spell, a momentary illusion that you are living in the world of the story. Fiction engages the senses, helps us create vivid mental simulacra",
+            "Title": "How to write descriptivel...",
+            "VideoId": "RSoRzTtwgP4",
+            "Controls": "start=70"
+        },
+        {
+            "Text": " window just constantly for about half an hour of every color shape description before you know it you're on the deep sea floor a big part of divas work is to understand the threats that the creatures of the deep are facing given",
+            "Title": "Diving 1000m Below The...",
+            "VideoId": "dEcDcbBRB04",
+            "Controls": "start=122"
+        },
+        {
+            "Text": " is one of the most important things is to have the genetic samples. So I'm going to pluck the tail feather first. Sorry, guy. The general sort of description of where the willow flycatcher",
+            "Title": "Feathers in Flight: The...",
+            "VideoId": "_p43ksRgIlk",
+            "Controls": "start=545"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/riz-ahmed.webp",
+            "Text": "You can read a character that feels amazing, but if the world around it and all the writing around it - even the way the stage descriptions are written - don't feel just right, then you know there's no point in doing the project. No character is ever bigger than the whole film.",
+            "Title": "British Musician",
+            "Name": "Riz Ahmed"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shigeru-miyamoto.webp",
+            "Text": "This is the entertainment industry, so game designers have to have a creative mind and also have to be able to stand up against the marketing people at their company - otherwise they cannot be creative. There are not that many people who fit that description.",
+            "Title": "Japanese Designer",
+            "Name": "Shigeru Miyamoto"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sabaa-tahir.webp",
+            "Text": "In fantasy and science fiction, world-building is an essential part of the story. But as a reader, I don't just want descriptions of food, clothing, and places. I want to understand the world to its core, through the eyes of those who live in it.",
+            "Title": "Pakistani Writer",
+            "Name": "Sabaa Tahir"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gilda-radner.webp",
+            "Text": "Sportswriting is fascinating - descriptions of the opponents and the details of an event in which someone is going to win and someone is going to lose. Life is much longer and more complicated, and the outcomes are less clear-cut.",
+            "Title": "American Comedian",
+            "Name": "Gilda Radner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-locke.webp",
+            "Text": "A sound mind in a sound body, is a short, but full description of a happy state in this World: he that has these two, has little more to wish for; and he that wants either of them, will be little the better for anything else.",
+            "Title": "English Philosopher",
+            "Name": "John Locke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ruben-blades.webp",
+            "Text": "The grandmother, the mother, the worker, the student, the intellectual, the professional, the unemployed, everybody identified with the songs because they were descriptions of life in the city.",
+            "Title": "Panamanian Musician",
+            "Name": "Ruben Blades"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/halima-aden.webp",
+            "Text": "There is not one description of beauty - that in fact it has different faces, different stories, and different background, and it's important to embrace all of those.",
+            "Title": "American Model",
+            "Name": "Halima Aden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sophia-amoruso.webp",
+            "Text": "A lot of young people who I employ expect a raise after three months or expect not to have to put in more work than what's in their job description.",
+            "Title": "American Businesswoman",
+            "Name": "Sophia Amoruso"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julia-restoin-roitfeld.webp",
+            "Text": "My job description? It is many things; it is a whole universe created around the things that I like.",
+            "Title": "French Model",
+            "Name": "Julia Restoin Roitfeld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dylan-sprouse.webp",
+            "Text": "Scripts that make characters a two-sentence description, I'm not interested in.",
+            "Title": "American Actor",
+            "Name": "Dylan Sprouse"
+        }
+    ]
+}

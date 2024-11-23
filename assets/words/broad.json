@@ -1,0 +1,364 @@
+{
+    "currentWord": {
+        "wordRoot": "broad",
+        "id": 23762,
+        "phonemic": "brɔːd|brɔːd\r",
+        "bigId": "86c50f20-f638-48ea-9a34-b0251ed13154",
+        "wordForms": [
+            "broader",
+            "broadly",
+            "broaden",
+            "broads",
+            "broadest",
+            "broadness",
+            "broad"
+        ]
+    },
+    "senses": [
+        {
+            "id": "86c50f20-f638-48ea-9a34-b0251ed13154",
+            "de": "Having a large size from side to side.",
+            "ty": "adjective",
+            "ex": "The river is very broad.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "broad street",
+                " broad river",
+                " broad smile"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/86c50f20-f638-48ea-9a34-b0251ed13154.webp",
+            "Tips": [
+                {
+                    "title": "Physical Width",
+                    "description": "Use 'broad' to describe something wide, like streets or rivers.",
+                    "example": "The table was so broad, all ten of us could sit around it comfortably.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/VvCfKdVyzHL6ONve7gGD6DrUk.webp"
+                },
+                {
+                    "title": "Not for Thickness",
+                    "description": "'Broad' refers to width, not thickness or depth.",
+                    "example": "Select a broad plank for the shelf, not a thick one.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GuGHAXRohUAGUilAueLFVYmAQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "89133d4c-cfa0-40a4-8450-18691dd19650",
+            "de": "Including a lot of different people or things.",
+            "ty": "adjective",
+            "ex": "The conference attracted a broad range of people.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "broad audience",
+                " broad range",
+                " broad variety"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/89133d4c-cfa0-40a4-8450-18691dd19650.webp",
+            "Tips": [
+                {
+                    "title": "Variety of Elements",
+                    "description": "Use 'broad' to emphasize diversity in groups or collections.",
+                    "example": "Her music tastes are very broad, spanning classical to hip-hop.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Specific",
+                    "description": "'Broad' implies a range without focusing on specifics or details.",
+                    "example": "We need a broad strategy that addresses all potential issues.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3dcab321-d6db-423a-8c5f-81533f3cfd3a",
+            "de": "General without detail.",
+            "ty": "adjective",
+            "ex": "He gave a broad outline of the plans.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "broad overview",
+                " broad outline",
+                " broad summary"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3dcab321-d6db-423a-8c5f-81533f3cfd3a.webp",
+            "Tips": [
+                {
+                    "title": "General Terms",
+                    "description": "'Broad' suggests an overview without going into specifics.",
+                    "example": "He provided a broad description, leaving out the technical details.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Initial Stages",
+                    "description": "'Broad' can indicate the starting point for a plan or idea before details are added.",
+                    "example": "Let's start with a broad concept and refine it later.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9f0d68b1-d757-42c4-82e6-60c6ccff0a5f",
+            "de": "Clear and easy to understand.",
+            "ty": "adjective",
+            "ex": "The guide gave broad instructions.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "broad instructions",
+                " broad explanation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9f0d68b1-d757-42c4-82e6-60c6ccff0a5f.webp",
+            "Tips": [
+                {
+                    "title": "Easily Understood",
+                    "description": "'Broad' means instructions or explanations are clear and simple.",
+                    "example": "She provided broad steps that anyone could follow.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "023453fa-30da-4e27-aba9-4cb4eb34600f",
+            "de": "Refer to an accent, especially British ones that are not considered standard.",
+            "ty": "adjective",
+            "ex": "She speaks with a broad Yorkshire accent.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "broad accent",
+                " broad dialect"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/023453fa-30da-4e27-aba9-4cb4eb34600f.webp",
+            "Tips": [
+                {
+                    "title": "Clear Accent",
+                    "description": "'Broad' refers to a strong and easily identifiable regional accent.",
+                    "example": "His broad Scottish accent made his hometown obvious.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Identity",
+                    "description": "A 'broad' accent often carries cultural implications and identity.",
+                    "example": "Her broad New Orleans accent revealed her cultural background.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f29b01d0-9576-4611-a1db-8172eeef5a57",
+            "de": "A derogatory term for a woman, considered disrespectful.",
+            "ty": "noun",
+            "ex": "He referred to her as a broad, which she found offensive.",
+            "use": "",
+            "co": "Colloquial",
+            "op": "",
+            "re": "Informal, Disapproving",
+            "tp": "",
+            "am": true,
+            "cl": [
+                "a tough broad",
+                " a brassy broad"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f29b01d0-9576-4611-a1db-8172eeef5a57.webp",
+            "Tips": [
+                {
+                    "title": "Dated Slang",
+                    "description": "Describing a woman as 'broad' is considered old-fashioned and offensive.",
+                    "example": "Refer to ladies respectfully, not as broads.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Avoid Using",
+                    "description": "Stay away from using 'broad' as slang for a woman to avoid disrespect.",
+                    "example": "Instead of 'broad', use 'woman' or 'lady'.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": ""
+        }
+    ],
+    "comparisons": {
+        "Ample": {
+            "wordRoot": "Ample",
+            "wordDefinition": "Ample means \"enough or more than enough\" and is commonly used to describe a sufficient amount of something. For example, \"There is ample time to finish the project before the deadline.\".\n\nFor example, \"The senator's platform had broad appeal across party lines.\"\n\nAmple describes the quantity of something, while broad describes the scope or range of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/661701d7-017a-47e3-95b8-84803877e3df.webp"
+        },
+        "Comprehensive": {
+            "wordRoot": "Comprehensive",
+            "wordDefinition": "Comprehensive means covering everything in great detail and leaving nothing out.\n\nA comprehensive report or study would include all relevant information and leave no stone unturned.\n\nComprehensive can describe things like a comprehensive health assessment or a comprehensive plan of action.\n\nSo while both words refer to covering a lot of ground, broad is used when you want to describe something on a high level, while comprehensive is used when you want to describe something in great detail.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e02c54f7-1056-40d1-a8b9-d88c7408a40f.webp"
+        },
+        "Extensive": {
+            "wordRoot": "Extensive",
+            "wordDefinition": "Broad usually refers to width or range, while extensive refers to the amount of something.\n\nFor example, a broad perspective means looking at something from a wide range of angles or viewpoints, while an extensive analysis means looking at a large amount of data or information.\n\nBroad is more appropriate when you want to discuss the coverage or scope of something, while extensive is better when you want to describe the amount or quantity of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78bfe93b-aad9-47f3-8a96-20175b283cec.webp"
+        },
+        "Liberal": {
+            "wordRoot": "Liberal",
+            "wordDefinition": "Liberal means open-minded and tolerant, willing to accept different ideas and lifestyles. It is applicable in situations where we want to express a willingness to allow for different opinions, religions, or ways of life.\n\nFor example, a liberal attitude towards homosexuality means accepting and supporting it as a valid lifestyle choice.\n\nBroad refers to something that is wide-ranging or general, while liberal refers to an open-minded and tolerant attitude towards different ideas or lifestyles.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36be4f9c-c80a-44e0-9116-690bcf5fce15.webp"
+        },
+        "Spacious": {
+            "wordRoot": "Spacious",
+            "wordDefinition": "Broad refers to something that is wide or large in size, while spacious refers to something that has a lot of room or is open.\n\nFor example, a highway can be described as broad because it is wide, while a room can be described as spacious if it has a lot of open floor space.\n\nBroad describes physical dimensions, while spacious describes the amount of room available within those dimensions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5b2d3f18-666f-4f61-aaac-6a5b7dd69821.webp"
+        },
+        "Tolerant": {
+            "wordRoot": "Tolerant",
+            "wordDefinition": "Broad means having a wide and open-minded perspective, while the word tolerant means accepting of different beliefs, opinions, and behaviors.\n\nTolerant is applicable when someone is able to respect and accept differences among people, such as different cultures or lifestyles.\n\nFor example, a person who is tolerant might be able to understand and accept someone who has a different religion or political belief.\n\nOverall, having a broad mindset and being tolerant are both important in building a more inclusive and understanding society.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9ba24157-be27-4a1c-b070-6eef94613e03.webp"
+        },
+        "Vast": {
+            "wordRoot": "Vast",
+            "wordDefinition": "The words broad and vast both describe things that are very large, but they differ in their specific meanings. Broad usually describes things that are wide or extensive, such as a broad road or a broad range of options.\n\nIt can also refer to a general or incomplete understanding of something, as in \"broad knowledge.\" Vast, on the other hand, refers to things that are expansive or immense in size, such as a vast ocean or a vast amount of information.\n\nBroad describes things that are wide or varied, while vast describes things that are incredibly large or expansive.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6f3ef61c-b8c0-43b4-ade1-0c4f8d71fb22.webp"
+        },
+        "Wide": {
+            "wordRoot": "Wide",
+            "wordDefinition": "The words broad and wide have similar meanings, but they do have some differences.\n\nBroad is typically used to describe something that has a large surface area or extensive range. For example, a broad smile is a big or wide smile that stretches across someone's face.\n\nA broad avenue or street is a wide street or road with a lot of space.\n\nWide usually describes something that has a great distance between the two sides or a significant degree of openness. For example, a wide river is a river that is very expansive and takes up a lot of space.\n\nA wide gap is a large space or opening between two things, and a wide screen TV is a television with a larger horizontal dimension compared to a traditional TV.\n\nBroad is usually about the extent of something while wide is typically about the distance or degree of openness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2c41bc29-25b6-4de2-821b-daac1ac9451a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " limiting congressional terms, or even repealing the Second Amendment. While many enjoy strong support, their likelihood of passing is slim. Americans today are the most politically polarized since the Civil War, making it nearly impossible to reach a broad consensus.",
+            "Title": "Why is the US...",
+            "VideoId": "FwREAW4SlVY",
+            "Controls": "start=149"
+        },
+        {
+            "Text": " The north's cold environment may have influenced neanderthals' physique. Their bodies were relatively short, with males averaging five feet, five inches and females five feet, one inch tall, and they were stocky with broad chests, bulky torsos, and muscular limbs.",
+            "Title": "Neanderthals 101 PIPE...",
+            "VideoId": "FMc81qpCQ3g",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " hsbc to help the bank expand globally real words like uber and slack are ripped right out of a dictionary and suggest attributes or benefits uber literally means an outstanding example so it works well for a company with big broad bold ambitions beyond",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " But with the incredibly broad history of tattoos giving you so many options, what are you going to get? This is a bold-lined expression of who you are, or you want to appear to be. As the naturalist aboard Cook's ship said of the tataoed Tahitians,",
+            "Title": "The history of tattoos -...",
+            "VideoId": "MYn15yDBvxM",
+            "Controls": "start=247"
+        },
+        {
+            "Text": " and necessary part of language. For much of history, the vast majority of language was spoken. But as people became more interconnected and writing gained importance, written language was standardized to allow broader communication",
+            "Title": "Does grammar matter? -...",
+            "VideoId": "Wn_eBrIDUuc",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " sleeping either too much or too little, restlessness or slowness, or persistent thoughts of suicide. Worldwide, about one to three percent of adults experience the broad range of symptoms that indicate bipolar disorder.",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=85"
+        },
+        {
+            "Text": " such as its role in rejuvenating cognitive capacity, cellular homeostasis, and strengthening memory. And more broadly, they are exploring how it is that brain can accomplish such important and complex tasks,",
+            "Title": "How spontaneous brain...",
+            "VideoId": "Rbp0co9pCUg",
+            "Controls": "start=271"
+        },
+        {
+            "Text": " Now there's plenty of room for critique that we haven't done enough, and what it is that we've done hasn't been effective enough, but the truth is The fight against global poverty is probably the broadest,",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " previously unobserved phenomena, like when Dmitri Mendeleev's theory about the periodic table predicted several undiscovered elements. The term scientific theory covers a broad swath.",
+            "Title": "What’s the difference...",
+            "VideoId": "GyN2RhbhiEU",
+            "Controls": "start=155"
+        },
+        {
+            "Text": " riding on the currents supported by its broad wing-shaped fins this one may not have eaten for two months",
+            "Title": "Sharks Feast On Whale PIPE...",
+            "VideoId": "W2e3GE5M3CY",
+            "Controls": "start=15"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/reid-hoffman.webp",
+            "Text": "What makes the meaning of life is people, so you try to be good to people immediately around you and in your broader community. So a lot of my projects are about how I can affect the world in the hundreds of millions.",
+            "Title": "American Businessman",
+            "Name": "Reid Hoffman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zelda-williams.webp",
+            "Text": "Every teenager, I think, thinks it's the end of the world whenever anything happens, and it's not. You'll get through it. Life will be much more interesting and will certainly be broader when you're older.",
+            "Title": "American Actress",
+            "Name": "Zelda Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "I believe everyone should have a broad picture of how the universe operates and our place in it. It is a basic human desire. And it also puts our worries in perspective.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "I would counsel people to go to college, because it's one of the best times in your life in terms of who you meet and develop a broad set of intellectual skills.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/benjamin-franklin.webp",
+            "Text": "He that raises a large family does, indeed, while he lives to observe them, stand a broader mark for sorrow; but then he stands a broader mark for pleasure too.",
+            "Title": "American Politician",
+            "Name": "Benjamin Franklin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/woody-norris.webp",
+            "Text": "I'm very simple. I have to be. I'm not very smart. I start broad, then go deep where I'm interested.",
+            "Title": "American Inventor",
+            "Name": "Woody Norris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/w-e-b-du-bois.webp",
+            "Text": "Believe in life! Always human beings will live and progress to greater, broader, and fuller life.",
+            "Title": "American Writer",
+            "Name": "W. E. B. Du Bois"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/deeyah-khan.webp",
+            "Text": "Honour'-based violence is a form of domestic violence. Domestic violence is a broad category.",
+            "Title": "Norwegian Director",
+            "Name": "Deeyah Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anton-yelchin.webp",
+            "Text": "I've been lucky to play characters that are really broad.",
+            "Title": "Russian Actor",
+            "Name": "Anton Yelchin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gabriel-e-gomez.webp",
+            "Text": "I have a very broad range of life experiences.",
+            "Title": "American Politician",
+            "Name": "Gabriel E. Gomez"
+        }
+    ]
+}

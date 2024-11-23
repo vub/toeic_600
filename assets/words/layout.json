@@ -1,0 +1,320 @@
+{
+    "currentWord": {
+        "wordRoot": "layout",
+        "id": 10157,
+        "phonemic": "ˈleɪaʊt|ˈleɪaʊt\r",
+        "bigId": "f8b2e039-4acc-4c54-973e-3159cccc640d",
+        "wordForms": [
+            "layouts",
+            "layout"
+        ]
+    },
+    "senses": [
+        {
+            "id": "f8b2e039-4acc-4c54-973e-3159cccc640d",
+            "de": "The way objects are arranged or set out in a space or page.",
+            "ty": "noun",
+            "ex": "The layout of the museum galleries allowed for a clear viewing of the exhibits.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f8b2e039-4acc-4c54-973e-3159cccc640d.webp",
+            "Tips": [
+                {
+                    "title": "Physical Space",
+                    "description": "Used to describe the arrangement of physical objects you can see and touch.",
+                    "example": "The layout of her apartment maximized the small space.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/82FKC2xR2zFQ4R4OeWEIyNq0Z7g.webp"
+                },
+                {
+                    "title": "Clarity and Flow",
+                    "description": "Used to create a logical flow that guides the observer through the space or information.",
+                    "example": "The layout of the magazine made the articles easy to follow.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/A7Wfv9Ho4BwVBHjHX9YziS2vzI.webp"
+                },
+                {
+                    "title": "Aesthetic Appeal",
+                    "description": "Refers to the visual appeal and how pleasing the arrangement is to the eye.",
+                    "example": "The vibrant colors and layout of the poster caught everyone's attention.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/osrni8OYsWwN5dHf3PfeuLALQ.webp"
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "d7096089-af04-4cb4-9015-bce1984c289f",
+            "de": "The process of setting up a printed product, like a newspaper, book or website.",
+            "do": "Printing, Publishing, Graphic Design",
+            "ty": "noun",
+            "ex": "The layout of this book was made by a well-known graphic designer.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "book layout",
+                " website layout",
+                " page layout"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d7096089-af04-4cb4-9015-bce1984c289f.webp",
+            "Tips": [
+                {
+                    "title": "Industry Specific",
+                    "description": "In technical domains, it indicates specialized knowledge of arranging content.",
+                    "example": "The website layout must be responsive to work on different devices.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Visual Hierarchy",
+                    "description": "In design, layout helps prioritize information through size, color, and position.",
+                    "example": "The book layout highlights chapter titles with bold fonts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reader Navigation",
+                    "description": "Good layout guides the reader naturally through the elements on the page.",
+                    "example": "A thoughtful page layout makes complex content accessible.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "1597c767-0a5c-4a68-bfc0-c777391d60d7",
+            "de": "The arrangement and style of content within a presentation slide.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "I used a pre-designed layout on my PowerPoint presentation.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "slide layout",
+                " presentation layout",
+                " template layout"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1597c767-0a5c-4a68-bfc0-c777391d60d7.webp",
+            "Tips": [
+                {
+                    "title": "Presentations",
+                    "description": "Refers to the digital placement of text, images, and other elements on a slide.",
+                    "example": "Choose a layout that makes your presentation clear and engaging.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Consistency",
+                    "description": "Maintaining a uniform layout across slides creates a cohesive look.",
+                    "example": "Her presentation's consistent layout impressed the audience.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d92f6ac2-9cab-433e-8ae1-d33f0e6e72ef",
+            "de": "The way machinery, equipment or tools are arranged in a factory or an industrial site.",
+            "do": "Industrial",
+            "ty": "noun",
+            "ex": "The layout of the manufacturing plant ensured optimal productivity.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "factory layout",
+                " plant layout",
+                " industrial layout"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d92f6ac2-9cab-433e-8ae1-d33f0e6e72ef.webp",
+            "Tips": [
+                {
+                    "title": "Efficiency",
+                    "description": "In industrial settings, layout is planned for smooth operations and workflow.",
+                    "example": "The new plant layout reduced the time for assembly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Safety Consideration",
+                    "description": "The layout must ensure safe pathways and clear emergency exits in industrial sites.",
+                    "example": "They updated the factory layout to improve safety standards.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Arrangement": {
+            "wordRoot": "Arrangement",
+            "wordDefinition": "Arrangement refers to the way things are organized or placed in relation to each other. It usually refers to a group of objects or things.\n\nFor example, the arrangement of furniture in a room.\n\nArrangement is used for physical things while layout is for design or digital things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp"
+        },
+        "Blueprint": {
+            "wordRoot": "Blueprint",
+            "wordDefinition": "A blueprint is a detailed drawing that shows how something is built or made, usually used for construction or manufacturing.\n\nSimply put, a blueprint is used for building or manufacturing while a layout is more focused on design and aesthetics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5c2db314-982c-4df5-80fa-b08ee51abf19.webp"
+        },
+        "Composition": {
+            "wordRoot": "Composition",
+            "wordDefinition": "Composition refers to the arrangement of different elements, such as text, images, and shapes, within a design. It's about creating a balanced, visually appealing structure that communicates a message effectively.\n\nIn simpler terms, composition is like the blueprint or plan for what goes where, while layout is the actual execution of that plan within a specific space.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5d7b27c3-abab-411b-9b84-7d15a91bd703.webp"
+        },
+        "Configuration": {
+            "wordRoot": "Configuration",
+            "wordDefinition": "Configuration refers to the arrangement or setting up of parts or elements in a system or device to make it work properly.\n\nIn simpler terms, configuration is used when talking about setting up systems correctly, while layout is used when talking about arranging things to look good.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/50a7f648-5d1d-4834-a5e1-ec1c495f7a56.webp"
+        },
+        "Design": {
+            "wordRoot": "Design",
+            "wordDefinition": "Design refers to the overall creative process of planning and creating something new or unique, whereas layout refers to the specific arrangement of different elements within that design, such as text, images, and graphics.\n\nFor example, when creating a website, design would refer to the artist's creative process of deciding on color schemes, typography, and things like how the website should feel and flow.\n\nLayout would refer to the more technical elements of arranging logos, menu bars, and a grid system to make the design become a reality.\n\nDesign is a broader term that encompasses the creative and artistic process, while layout is more about the technical implementation of that process.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5af82093-71d4-4dd9-88b8-a38181fc118f.webp"
+        },
+        "Format": {
+            "wordRoot": "Format",
+            "wordDefinition": "Format and layout are both related to the design and arrangement of text, images, and other elements.\n\nFormat refers to the way text is styled and structured, such as the font, size, color, and spacing of the text.\n\nFormat refers to the appearance and structure of text and files, while layout refers to the arrangement and design of elements on a page or screen.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/165c969c-8f32-4354-8742-e3dd64171ead.webp"
+        },
+        "Organization": {
+            "wordRoot": "Organization",
+            "wordDefinition": "Organization refers to how things are structured and managed within a system or group, such as a school, business, or government.\n\nTo summarize, layout is more about the physical arrangement, whereas organization is more about the structure and management of things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2366d93d-1c4c-4dde-9278-1078efab1c64.webp"
+        },
+        "Plan": {
+            "wordRoot": "Plan",
+            "wordDefinition": "Plan refers to a detailed proposal or strategy outlining how something will be accomplished. It is a comprehensive outline of steps to take and resources needed to attain a particular goal.\n\nIn simpler terms, layout deals with the physical arrangement of something, while a plan deals with the steps needed to get there.\n\nLayout is applicable in areas such as interior design, architecture, and manufacturing. Plan is applicable in areas such as business, project management, and construction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9400d7b7-c746-474a-9b35-7ea1c6436540.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " person who was in charge of ballot design and layout there wanted to do a thing that would help her many older voters she decided to increase the type size people often asked for larger type older people especially asked for a larger type the way this ballot was",
+            "Title": "Democracy is a design...",
+            "VideoId": "KOAuMQgBNt0",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " nothing in the actual layout of the above ground physical structure that indicates it to a uranium enriched facility it was only because of a tip-off from human intelligence that we know that that's what this purpose is initial reports suggest that six",
+            "Title": "Iran's Nuclear Program PIPE...",
+            "VideoId": "Aqu-OzmXROw",
+            "Controls": "start=17"
+        },
+        {
+            "Text": " and i always marvel at how each of these was captured in a fraction of a second they're just tiny slivers of time but they live forever like little visual milestones and that's actually why i'm here today to visit our layout room where photo",
+            "Title": "Capturing the Year in an...",
+            "VideoId": "SkCBHfIiL4M",
+            "Controls": "start=284"
+        },
+        {
+            "Text": " planning the layout of the nation's capitol. Meanwhile, Banneker turned his brilliant mind to farming. He used his scientific expertise to pioneer new agricultural methods on his family's tobacco farm. His fascination with the natural world",
+            "Title": "The exceptional life of...",
+            "VideoId": "DKnwyVR4P88",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " the layout of the entire site will be mapped and the precise location of every bone fragment recorded to help piece together the remains the more complete the skeleton the easier it will be to identify and the greater than likelihood",
+            "Title": "Hunting for Dinosaurs PIPE...",
+            "VideoId": "AgOMJCQzY-Q",
+            "Controls": "start=52"
+        },
+        {
+            "Text": " our thirsty world this is called the layout room we put the whole issue on the wall full size it's ironic that so many pictures actually art of places with a lot of water they're places without water it's a special issue a",
+            "Title": "Water: A Special Issue PIPE...",
+            "VideoId": "ylLRbs42_wk",
+            "Controls": "start=1"
+        },
+        {
+            "Text": " sort of discharge those people away from the natural reefs and bring them to an area of artificial reefs the layout is important basically Taylor envisions a big neighborhood for fish and other creatures",
+            "Title": "\"Bodies\" Make Up Fake...",
+            "VideoId": "7H0U4CvgiMk",
+            "Controls": "start=106"
+        },
+        {
+            "Text": " Additionally, the Y-shaped layout was specifically calibrated to minimize local wind forces. Every several floors, one of the wings recedes slightly, forming a series of setbacks in a clockwise pattern.",
+            "Title": "How the world’s tallest...",
+            "VideoId": "el1K-xILtwo",
+            "Controls": "start=259"
+        },
+        {
+            "Text": " to say that the world is changing so fast, and therefore, we have to go with the change. And also, this belief that the more sexy-looking the city, if the plan has a crazy-looking road layout,",
+            "Title": "The Architectural...",
+            "VideoId": "xnZjtR9z1qA",
+            "Controls": "start=661"
+        },
+        {
+            "Text": " the layout of the widow wreck the Widder is the first authenticated pirate shipwreck in the world she's packed full of preserved relics or artifacts for the next twenty three",
+            "Title": "Pirate Ship Wreck...",
+            "VideoId": "TZw4M1yHta8",
+            "Controls": "start=306"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kelly-sue-deconnick.webp",
+            "Text": "I'm not particularly good at page layouts. I make an effort to stay out of the way of the artist. What I'll try to express instead is, 'What we're going for here on this page is the idea of the containment of these women's bodies. So I want them framed as though they're bursting out of the panel borders.",
+            "Title": "American Writer",
+            "Name": "Kelly Sue DeConnick"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neal-adams.webp",
+            "Text": "I changed the layout of comic books in general. When I came in, layout design wasn't really part of what you did. It was all just panels, panels, panels. So when I came in, I thought, 'Nah, let's change that,' and I designed the page.",
+            "Title": "American Artist",
+            "Name": "Neal Adams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-schwartzman.webp",
+            "Text": "As far as loneliness, I feel Los Angeles and its layout, having to drive everywhere - it is a lonely place. It's an isolated city in that respect because you're driving to places alone listening to the radio.",
+            "Title": "American Actor",
+            "Name": "Jason Schwartzman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rob-liefeld.webp",
+            "Text": "My role as an artist helps me tremendously in breaking down each story. Pacing, layout, movement - having drawn a few thousand pages, I understand the language of comic books very well.",
+            "Title": "American Writer",
+            "Name": "Rob Liefeld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bjarke-ingels.webp",
+            "Text": "My drawing skills probably froze around when I was 18... Now I'm more interested in the story, how the drawings, the layout can help express the stories and communicate them.",
+            "Title": "Danish Architect",
+            "Name": "Bjarke Ingels"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pavel-durov.webp",
+            "Text": "Some things like the layout of the early VKontakte was very influenced by Facebook. Otherwise it could take ages for me to build, and I was not a professional designer.",
+            "Title": "Russian Businessman",
+            "Name": "Pavel Durov"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-maeda.webp",
+            "Text": "Anyone with a computer and a design program can create a page layout. But unless you're trained in design, it won't look very good and it won't communicate very well.",
+            "Title": "American Designer",
+            "Name": "John Maeda"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-lethem.webp",
+            "Text": "The past is still visible. The buildings haven't changed, the layout of the streets hasn't changed. So memory is very available to me as I walk around.",
+            "Title": "American Writer",
+            "Name": "Jonathan Lethem"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-madureira.webp",
+            "Text": "There's a creative freedom to comics, and a fulfillment I get out of panel layouts and storytelling that is hard for me to get anywhere else.",
+            "Title": "American Artist",
+            "Name": "Joe Madureira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-scott.webp",
+            "Text": "Paint and new flooring are simple refreshers. But it's not worth it to update all the kitchen cabinets if it's still the same bad layout.",
+            "Title": "Canadian Entertainer",
+            "Name": "Jonathan Scott"
+        }
+    ]
+}

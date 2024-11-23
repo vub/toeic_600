@@ -1,0 +1,322 @@
+{
+    "currentWord": {
+        "wordRoot": "experiment",
+        "id": 3137,
+        "phonemic": "ɪkˈsperɪmənt|ɪkˈsperɪmənt\r",
+        "bigId": "ae11bc5f-97f7-412a-8d92-2eb85f3ac9b6",
+        "wordForms": [
+            "experiments",
+            "experimenting",
+            "experimented",
+            "experimenter",
+            "experimentation",
+            "experiment"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ae11bc5f-97f7-412a-8d92-2eb85f3ac9b6",
+            "de": "A test to learn or prove something",
+            "ty": "noun",
+            "ex": "The scientists conducted an experiment to see the effect of the new drug on mice.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conduct an experiment",
+                " experiment results",
+                " experiment procedure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ae11bc5f-97f7-412a-8d92-2eb85f3ac9b6.webp",
+            "Tips": [
+                {
+                    "title": "Curiosity Driven",
+                    "description": "Use 'experiment' when highlighting an action taken to satisfy curiosity or explore possibilities.",
+                    "example": "Our class experiment on plant growth sparked many questions.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/q3qUd32GHkWlrkmDglxt4jGkFo.webp"
+                },
+                {
+                    "title": "Beyond Classrooms",
+                    "description": "'Experiment' isn't limited to science; it can describe trying out new ideas in various fields.",
+                    "example": "The marketing team's new ad campaign is an exciting experiment in social media.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gWckoNgpAiuPoQH8NIa5PzbwwJk.webp"
+                },
+                {
+                    "title": "Learning Process",
+                    "description": "'Experiment' emphasizes learning from the process, regardless of the outcome.",
+                    "example": "Their cooking experiment was a disaster, but they learned a lot.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1CYk6NzIlcniW1JXT1ImX8XMQc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "2e3a1732-df67-4403-8ea8-d290b055d0f5",
+            "de": "A situation done as a test to see what the result will be",
+            "ty": "noun",
+            "ex": "Starting my own business was an experiment to see if I could succeed.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "personal experiment",
+                " social experiment",
+                " business experiment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2e3a1732-df67-4403-8ea8-d290b055d0f5.webp",
+            "Tips": [
+                {
+                    "title": "Life Application",
+                    "description": "'Experiment' can refer to a personal test, like trying new activities or lifestyles.",
+                    "example": "She considered her year abroad as an experiment in independence.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Initiative Test",
+                    "description": "Starting something new with uncertain results can be called an 'experiment'.",
+                    "example": "Living off-grid for a month was a personal experiment for him.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "99ad81ba-cbf2-4092-8bc7-a64b5d0a9dcd",
+            "de": "To try something in order to learn more or test an idea",
+            "ty": "verb",
+            "ex": "He is experimenting with different materials in his sculptures.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "experiment with something",
+                " experiment on something",
+                " experiment for something"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/99ad81ba-cbf2-4092-8bc7-a64b5d0a9dcd.webp",
+            "Tips": [
+                {
+                    "title": "Creative Exploration",
+                    "description": "Use 'experiment' to describe playful attempts in the arts or innovation.",
+                    "example": "The band is experimenting with new genres in their latest album.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Informal Testing",
+                    "description": "'Experimenting' can mean casually testing things without strict procedures.",
+                    "example": "She's experimenting with various ingredients to perfect the recipe.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "87a3cca2-f6f1-409a-a2a7-e5eb009c4b52",
+            "de": "A test done in a controlled way to study what happens",
+            "do": "Scientific",
+            "ty": "noun",
+            "ex": "In the physics experiment, they observed the behavior of the light.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "physics experiment",
+                " biology experiment",
+                " chemistry experiment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/87a3cca2-f6f1-409a-a2a7-e5eb009c4b52.webp",
+            "Tips": [
+                {
+                    "title": "Controlled Conditions",
+                    "description": "'Experiment' in science implies conditions are controlled to get accurate results.",
+                    "example": "They kept the temperature constant during the chemistry experiment.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Objective Observations",
+                    "description": "In a scientific 'experiment', observations should be objective, not biased.",
+                    "example": "The researcher documented each reaction meticulously during the experiment.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reproducible Results",
+                    "description": "A key component of scientific 'experiments' is reproducibility of the results.",
+                    "example": "The physics experiment was repeated to confirm the initial findings.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Analysis": {
+            "wordRoot": "Analysis",
+            "wordDefinition": "Analysis refers to the process of examining and evaluating something using a methodical and logical approach. It involves breaking down a complex idea or problem into smaller parts to better understand it.\n\nAnalysis can be applied in a variety of fields such as science, mathematics, literature, and business.\n\nIn simpler terms, analysis is when you analyze something that already exists, while an experiment is when you create something new and test it out to see how it works.\n\nAnalysis is used to understand things, while experiments are used to find answers to questions or to solve problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/700e831c-1eea-46da-8ea6-370a42f046b9.webp"
+        },
+        "Examination": {
+            "wordRoot": "Examination",
+            "wordDefinition": "Examination refers to the process of observing, analyzing, and assessing something already existing to understand it better or to evaluate its condition.\n\nIt is usually a detailed investigation or inspection of something. An examination can be applied when you want to study and evaluate something that already exists.\n\nThe primary difference between examination and experiment is that the former focuses on analyzing existing things, while the latter is used to test a new idea or theory.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e65a64dc-c6ac-4d7d-a3e5-85970c3f0776.webp"
+        },
+        "Investigate": {
+            "wordRoot": "Investigate",
+            "wordDefinition": "Investigate means to investigate or to examine something to gain knowledge, to understand its nature, or to find out facts.\n\nInvestigation can be done in various fields such as science, law, journalism, or detective work. It involves gathering information, analyzing it, and drawing conclusions based on the findings.\n\nExperiment is applicable in the scientific field, while investigation can be used in a broader sense. Experimentation is a more formal process, while investigation can be less structured and can happen in various contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e835359-0865-4d86-ac05-e053e13feb1a.webp"
+        },
+        "Pilot": {
+            "wordRoot": "Pilot",
+            "wordDefinition": "A pilot is a trial or initial stage of a project or program.\n\nA pilot is applicable in various fields, including business, education, and healthcare, and is used to assess the feasibility, effectiveness, and efficiency of a particular concept, product, or service.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f9313c2c-c452-42ec-91ac-e333aef10218.webp"
+        },
+        "Probe": {
+            "wordRoot": "Probe",
+            "wordDefinition": "A probe generally refers to a tool or instrument used to gather information or data.\n\nIn simpler terms, an experiment is a test conducted in a controlled environment to learn or prove something, while a probe is a tool or method used to collect information or investigate something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf8038f1-c3ab-4b5b-85f2-0893fd584e71.webp"
+        },
+        "Study": {
+            "wordRoot": "Study",
+            "wordDefinition": "A study refers to a systematic investigation or examination of a topic.\n\nStudies can be used to understand the prevalence of a condition, to identify risk factors, or to explore the experiences of individuals.\n\nFor example, a researcher may conduct a study to investigate how teenagers are affected by social media.\n\nAn experiment is used when researchers want to isolate and manipulate variables to test cause-and-effect relationships, while a study is used to examine and analyze data to draw conclusions about a topic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/033e8ac6-c19b-46dc-8157-2a309125faee.webp"
+        },
+        "Test": {
+            "wordRoot": "Test",
+            "wordDefinition": "An experiment is a scientific procedure used to test a hypothesis or theory. It involves the manipulation of variables in a controlled environment to observe and measure the outcomes.\n\nA test is a procedure used to evaluate or measure the performance, skill or knowledge of an individual, system, or product.\n\nTests can be conducted in a variety of settings and can be used for different purposes than experiments. For example, a driving test is used to evaluate a person's ability to operate a vehicle safely, while a software test is used to check if a program works correctly.\n\nAn experiment is used to test a hypothesis or theory, while a test is used to assess the performance or knowledge of something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc02c21b-62fc-4d64-9b32-22953976e68b.webp"
+        },
+        "Trial": {
+            "wordRoot": "Trial",
+            "wordDefinition": "A trial is a legal process in which a person or organization is accused of committing a crime or breaking a law. The aim of a trial is to prove whether or not the accused party is guilty, and to determine an appropriate punishment if they are found guilty.\n\nFor example, a person might stand trial for theft if they are suspected of stealing something.\n\nIn general, experiments are used in scientific contexts to test theories and gather new knowledge, while trials are used in legal contexts to determine guilt or innocence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/812be838-b97f-4a97-a1c3-cbaad2f1785d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And if we want to create a world where the circumstances of your birth don't matter, we all have to be part of the solution. And interestingly, the author of the lab resume experiment offered some sort of a solution. She said the one thing that brought the successful women together, the one thing that they had in common,",
+            "Title": "What does my headscarf...",
+            "VideoId": "18zvlz5CxPE",
+            "Controls": "start=565"
+        },
+        {
+            "Text": " touch turns out to be crucial for romance. In this experiment, not realizing the study had begun, participants were asked to briefly hold the coffee, either hot or iced. Later, the participants read a story about a hypothetical person, and were asked to rate their personality.",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=149"
+        },
+        {
+            "Text": " The experiment asks us to consider a world in which scientists have developed a machine that would simulate real life while guaranteeing experiences of only pleasure and never pain. The catch? You have to permanently leave reality behind, but you'll hardly know the difference.",
+            "Title": "Would you opt for a life...",
+            "VideoId": "XNP1x11Z2Ig",
+            "Controls": "start=22"
+        },
+        {
+            "Text": " each electron on the far side is detected at a single place at a specific instant, like a particle. But if you repeat this experiment many times, keeping track of all the individual detections, you'll see them trace out a pattern that's characteristic of wave",
+            "Title": "Schrödinger's cat: A...",
+            "VideoId": "UjaAxUO6-Uw",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " A few minutes can feel like forever when you're waiting on the results of a pregnancy test. But in that brief time, you're witnessing the power of the scientific method. That one little stick lets you ask a question, perform a controlled experiment,",
+            "Title": "How do pregnancy tests...",
+            "VideoId": "aOfWTscU8YM",
+            "Controls": "start=232"
+        },
+        {
+            "Text": " issue that you need to deal with or a life change you need to deal with i urge you to imagine your healthy future self and start living that life now break your journey down into little battles you can win become your own science experiment and",
+            "Title": "The psychological weight...",
+            "VideoId": "DLYb3IgQ1Qk",
+            "Controls": "start=346"
+        },
+        {
+            "Text": " we've invited these babies puppies and their respective Guardians to take part in what might be the cutest experiment we've ever conducted our toddlers and pooches will be put through a series of tests to measure one thing jealousy the",
+            "Title": "Jealousy Bites PIPE Brain...",
+            "VideoId": "7tKZB2k14iY",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " The effects of stress may filter right down to your brain's DNA. An experiment showed that the amount of nurturing a mother rat provides its newborn baby plays a part in determining how that baby responds to stress later in life.",
+            "Title": "How stress affects your...",
+            "VideoId": "WuyPuH9ojCE",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " Luna is a young dolphin and as such a little bit more motivated. She she likes to play, to investigate things, and she's very eager to please the trainers. Each run of the experiment yields different results.",
+            "Title": "Super Smart Dolphin...",
+            "VideoId": "KMZ7oOCXfP8",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " Woolf experiments with collective consciousness, at times collapsing the six voices into one. \"It is not one life that I look back I am not one I am many I do not altogether know who I am,",
+            "Title": "Why should you read...",
+            "VideoId": "DcMLkce_BLg",
+            "Controls": "start=252"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emmy-rossum.webp",
+            "Text": "I've been in the studio experimenting on making a CD of my own. I'm trying out different producers, styles, sounds. With music, as opposed to acting, you are not playing a character. You are showing people who you are. I really want to have my spirit in it.",
+            "Title": "American Actress",
+            "Name": "Emmy Rossum"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mahatma-gandhi.webp",
+            "Text": "I have nothing new to teach the world. Truth and Non-violence are as old as the hills. All I have done is to try experiments in both on as vast a scale as I could.",
+            "Title": "Indian Leader",
+            "Name": "Mahatma Gandhi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "A lot of times, I run a thought experiment: 'If I were not at Facebook, what would I be doing to make the world more open?",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-chang.webp",
+            "Text": "Yes, natural is good and healthy, and whole foods are important. However, experimentation is important, too.",
+            "Title": "American Chef",
+            "Name": "David Chang"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ralph-waldo-emerson.webp",
+            "Text": "All life is an experiment. The more experiments you make the better.",
+            "Title": "American Philosopher",
+            "Name": "Ralph Waldo Emerson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gurmeet-choudhary.webp",
+            "Text": "I like experimenting and picking up trends from across the world.",
+            "Title": "Indian Actor",
+            "Name": "Gurmeet Choudhary"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erasmus-darwin.webp",
+            "Text": "A fool is a man who never tried an experiment in his life.",
+            "Title": "English Scientist",
+            "Name": "Erasmus Darwin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-leunig.webp",
+            "Text": "Have I got the right to experiment with my child's life?",
+            "Title": "Australian Cartoonist",
+            "Name": "Michael Leunig"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/terence-tao.webp",
+            "Text": "If I experiment enough, I get a deeper understanding.",
+            "Title": "Australian Mathematician",
+            "Name": "Terence Tao"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jamelia.webp",
+            "Text": "Life is too short not to experiment.",
+            "Title": "English Musician",
+            "Name": "Jamelia"
+        }
+    ]
+}

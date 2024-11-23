@@ -1,0 +1,59 @@
+{
+    "currentWord": {
+        "wordRoot": "down payment",
+        "id": 0,
+        "phonemic": "ˌdaʊn ˈpeɪmənt",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID_sense_1",
+            "de": "An initial payment made when something is bought on credit.  The rest of the amount is usually paid in installments.",
+            "ty": "noun",
+            "ex": "We made a 20% down payment on the house and took out a mortgage for the remaining amount.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "large down payment",
+                "small down payment",
+                "make a down payment",
+                "put down a down payment",
+                "require a down payment",
+                "down payment assistance",
+                "down payment on a house",
+                "down payment on a car"
+            ],
+            "ImageSrc": "./senses/0665fcb6-4259-4868-8e0a-50967bef7c2e.webp",
+            "Tips": [
+                {
+                    "title": "Real Estate",
+                    "description": "A down payment is a crucial part of buying a home.  A larger down payment can lead to a lower interest rate and smaller monthly payments.",
+                    "example": "They saved for years to make a substantial down payment on their dream home.",
+                    "imageUrl": "./tips/d9f95d20-324f-4bed-940b-dc1e1a5fb397.webp"
+                },
+                {
+                    "title": "Car Purchases",
+                    "description": "While a smaller down payment means lower upfront costs, it can result in higher monthly payments and more interest paid over the life of the loan.",
+                    "example": "She opted for a low down payment on her new car, but it meant higher monthly installments.",
+                    "imageUrl": "./tips/d9a33764-6158-43ed-bcce-c26be8069119.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Deposit": {
+            "wordRoot": "Deposit",
+            "wordDefinition": "Similar to 'down payment,' often used interchangeably, especially in British English.  However, 'deposit' can refer to any partial upfront payment, not necessarily for a large purchase like a house or car.",
+            "wordImage": ""
+        },
+        "Initial payment": {
+            "wordRoot": "Initial payment",
+            "wordDefinition": "A more general term encompassing down payments but also including other types of upfront payments.",
+            "wordImage": ""
+        }
+    }
+}

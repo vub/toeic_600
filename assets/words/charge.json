@@ -1,0 +1,417 @@
+{
+    "currentWord": {
+        "wordRoot": "charge",
+        "id": 1818,
+        "phonemic": "tʃɑːdʒ|tʃɑːrdʒ\r",
+        "bigId": "0ce82455-58ee-4af7-8e72-5c206b8731ac",
+        "wordForms": [
+            "charges",
+            "charging",
+            "charged",
+            "recharge",
+            "charge"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0ce82455-58ee-4af7-8e72-5c206b8731ac",
+            "de": "The price asked for goods or services",
+            "ty": "noun",
+            "ex": "There is a charge for the first checked bag on most airlines.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "service charge",
+                " delivery charge",
+                " extra charge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0ce82455-58ee-4af7-8e72-5c206b8731ac.webp",
+            "Tips": [
+                {
+                    "title": "Commercial Context",
+                    "description": "The word 'charge' often relates to money in shopping or services.",
+                    "example": "How much will you charge for shipping my package?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/XQ4RvMzDiesLSg8dIm9eRWd4SUY.webp"
+                },
+                {
+                    "title": "Extra Fees",
+                    "description": "'Charge' can imply additional fees on top of the main cost.",
+                    "example": "The hotel has a charge for using the minibar.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OHqb4FRA1hUANM2HOUzIQcYb6k.webp"
+                }
+            ]
+        },
+        {
+            "id": "0bed3009-94fe-4e4f-850c-86d8d3727d7e",
+            "de": "Ask someone for a price for providing a service or product",
+            "ty": "verb",
+            "ex": "The restaurant charged us for the bread they brought to the table.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "charge somebody for something",
+                " charge a fee",
+                " charge for a service"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0bed3009-94fe-4e4f-850c-86d8d3727d7e.webp",
+            "Tips": [
+                {
+                    "title": "Service Payment",
+                    "description": "When 'charge' is a verb, it means asking for payment in return for services.",
+                    "example": "The technician charged me for a home visit.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "07d7f434-f638-4cde-8ca8-b751f4f55e70",
+            "de": "A responsibility or duty assigned to someone",
+            "ty": "noun",
+            "ex": "As a project manager, the success of the project was my charge.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "in charge of",
+                " take charge",
+                " give charge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/07d7f434-f638-4cde-8ca8-b751f4f55e70.webp",
+            "Tips": [
+                {
+                    "title": "Authority Responsibility",
+                    "description": "'Charge' as a noun can mean being entrusted with a position of control.",
+                    "example": "Who is in charge of this department?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4d71cbb2-4332-41ab-8da1-a3c4b44a3ace",
+            "de": "Someone under the protection or care of another",
+            "ty": "noun",
+            "ex": "As a babysitter, her charge is to take care of the kids.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "take charge of someone",
+                " in charge of someone",
+                " give charge of"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4d71cbb2-4332-41ab-8da1-a3c4b44a3ace.webp",
+            "Tips": [
+                {
+                    "title": "Caretaking",
+                    "description": "'Charge' can refer to a person, often a child, someone is looking after.",
+                    "example": "The nanny's main charge is a three-year-old boy.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8f43d443-a2b5-486b-b7de-d7a23f7ba7f2",
+            "de": "An accusation made against someone, usually in legal context",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "He faced a charge of theft.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "face a charge",
+                " bring a charge",
+                " on a charge of"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8f43d443-a2b5-486b-b7de-d7a23f7ba7f2.webp",
+            "Tips": [
+                {
+                    "title": "Legal Accusation",
+                    "description": "In legal context, 'charge' is used for formal accusations against a person.",
+                    "example": "She was arrested on a charge of embezzlement.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "af6c3b39-fbef-48f3-847e-90c9b289f753",
+            "de": "An amount of electricity",
+            "do": "Physics",
+            "ty": "noun",
+            "ex": "The battery has a full charge.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "full charge",
+                " low charge",
+                " hold a charge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/af6c3b39-fbef-48f3-847e-90c9b289f753.webp",
+            "Tips": [
+                {
+                    "title": "Electricity Storage",
+                    "description": "In physics, 'charge' refers to the quantity of electricity stored.",
+                    "example": "My camera's battery doesn't hold a charge well anymore.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8e13d80e-9881-426e-b44e-8b09b54c4882",
+            "de": "To rush forward in attack",
+            "ty": "verb",
+            "ex": "The bull charged at the matador.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "charge at someone",
+                " charge towards",
+                " charge into"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8e13d80e-9881-426e-b44e-8b09b54c4882.webp",
+            "Tips": [
+                {
+                    "title": "Aggressive Action",
+                    "description": "The word 'charge' means to move quickly and directly towards something or someone.",
+                    "example": "The soldiers charged the enemy lines.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bbf0f925-0a18-4acd-82f3-42a64b7a9c13",
+            "de": "To give a task or responsibility to someone",
+            "ty": "verb",
+            "ex": "I was charged with the task of organizing the event.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "charge with a task",
+                " charge with a responsibility",
+                " charge with a duty"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bbf0f925-0a18-4acd-82f3-42a64b7a9c13.webp",
+            "Tips": [
+                {
+                    "title": "Entrusted Duty",
+                    "description": "To 'charge' someone with a task is to give them the responsibility for it.",
+                    "example": "You are charged with leading the new project team.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1a874242-d11c-4b4f-9090-d05ba3b544ea",
+            "de": "To store electrical energy in a battery",
+            "ty": "verb",
+            "ex": "I need to charge my phone, it's almost dead.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "charge a phone",
+                " charge a battery",
+                " charge an electronic device"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1a874242-d11c-4b4f-9090-d05ba3b544ea.webp",
+            "Tips": [
+                {
+                    "title": "Battery Recharge",
+                    "description": "'Charge' can mean to replenish energy in a battery or electronic device.",
+                    "example": "Can I use your charger to charge my tablet?",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Cost": {
+            "wordRoot": "Cost",
+            "wordDefinition": "Charge refers to the amount of money someone is asking for a product or service, while cost refers to the amount of money spent to produce or obtain that product or service.\n\nFor example, a store may charge $10 for a t-shirt, but the cost to produce that t-shirt may only be $3.\n\nCost is applicable when discussing the expenses involved in producing or obtaining something, such as the cost to build a house or the cost to purchase raw materials for a business.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/085b4924-fb2c-4f96-9948-826bd0b13358.webp"
+        },
+        "Duty": {
+            "wordRoot": "Duty",
+            "wordDefinition": "Charge means something that you are given responsibility for, such as a task or a duty.\n\nDuty means something that you have an obligation or responsibility to do, often because it is part of your job or because you are morally obligated to do it.\n\nFor example, a doctor has a duty to help their patients, and a police officer has a duty to protect the citizens in their community.\n\nCharge refers to being responsible for something, while duty refers to the responsibility or obligation that you have to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cfe1420e-b26e-4f5c-8633-1f0170966fe2.webp"
+        },
+        "Expense": {
+            "wordRoot": "Expense",
+            "wordDefinition": "Expense refers to the cost of something. This can include things like rent, food, transportation, and other items that cost money. An expense is money that you spend on something.\n\nTo summarize, charge refers to the act of billing or asking for payment, while expense refers to the cost of something.\n\nCharge is applicable when selling goods or services, while expense is applicable when talking about the cost of daily life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5341a6da-f595-44d4-8411-18052d842875.webp"
+        },
+        "Fee": {
+            "wordRoot": "Fee",
+            "wordDefinition": "Fee refers to a specific amount of money that you need to pay in exchange for a particular service or license.\n\nFor example, you may have to pay a fee to a government agency to get a passport.\n\nCharge is used more generally to refer to any payment for a service or product, while fee specifically refers to a set price for a particular service or license.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/48e2ac1f-1edf-4e91-a8e3-5db97e52b34a.webp"
+        },
+        "Levy": {
+            "wordRoot": "Levy",
+            "wordDefinition": "Levy means to impose or collect a tax or fee on something, usually by a government or authority.\n\nThe main difference between the two words is that charge refers to an amount of money requested for something that has already been provided, while levy refers to a tax or fee that is imposed before the goods or services are provided.\n\nFor example, a restaurant may charge a customer for the meal they have ordered, while a government may levy a tax on cigarettes before they are sold in stores.\n\nCharge relates to individual transactions between a customer and a business, while levy relates to larger tax policies imposed by a government or authority.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ba1eee3-5ffa-490f-8d52-d8956274c449.webp"
+        },
+        "Price": {
+            "wordRoot": "Price",
+            "wordDefinition": "Price refers to the monetary value or cost of a particular product or service. It is the amount of money that someone is willing to pay to acquire something.\n\nPrice is applicable when discussing the cost of goods, commodities, properties, or services.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b507483b-fbfc-4619-b904-b321a8a15d6d.webp"
+        },
+        "Tariff": {
+            "wordRoot": "Tariff",
+            "wordDefinition": "A tariff is a specific type of charge that is applied by governments on goods and services that are imported or exported to other countries.\n\nEssentially, it's a tax imposed on the products or services being traded across borders. Tariffs are used to protect domestic industries and can be designed to make foreign goods more expensive or to incentivize the purchase of local products.\n\nCharge refers to the price you pay for something, while tariff refers to a tax on goods being traded between countries.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2d563cde-db1f-4eb6-81f4-fe59a2919c80.webp"
+        },
+        "Toll": {
+            "wordRoot": "Toll",
+            "wordDefinition": "Toll refers specifically to a fee that is charged for using a specific road or crossing a specific bridge or tunnel.\n\nToll is usually used in transportation contexts. For example, when you drive on a toll road, you have to pay a toll. Or if you use a toll bridge or tunnel, you have to pay a fee.\n\nCharge is a general term for asking for money, while toll refers specifically to a fee charged for using a particular transportation route.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3fd54505-2ffc-4103-97e8-f8995781e545.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " The spatulae flatten, creating lots of surface area for their positively and negatively charged patches to find complimentary patches on the ceiling. Each spatula only contributes a minuscule amount of that van der Waals stickiness. But a gecko has about two billion of them, creating enough combined force to support its weight.",
+            "Title": "How do geckos defy...",
+            "VideoId": "YeSuQm7KfaE",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " deep, frozen versions of our solar system. In the sky, they look like this. We know them for their tails. There are actually two tails. One is a dust tail, which is blown away by the solar wind. The other one is an ion tail, which is charged particles, and they follow the magnetic field in the solar system.",
+            "Title": "Fred Jansen: How to land...",
+            "VideoId": "h27g5iT0tck",
+            "Controls": "start=114"
+        },
+        {
+            "Text": " Menstruation even begins and ends at different times in life for different women, too. In other words, variations between periods are normal. Appreciating these differences and learning about this monthly process can empower women, giving them the tools to understand and take charge of their own bodies.",
+            "Title": "How menstruation works -...",
+            "VideoId": "ayzN5f3qN8g",
+            "Controls": "start=208"
+        },
+        {
+            "Text": " just charge it. And I just looked at her, and she looked at me, and we kind of just both held it and just moved it through the wave. And that for me was really powerful, because sometimes you're not aware of when you need help. Sometimes you're not aware of when to reach out.",
+            "Title": "Surf Sisters - Ep. 2 PIPE...",
+            "VideoId": "F3LS8CQJW4A",
+            "Controls": "start=458"
+        },
+        {
+            "Text": " to do because you're not in charge and I don't particularly like you but we can start to look at human behavior now that is one of the issues because everything that's required for an interstellar journey are the same things that are required to support our life form here",
+            "Title": "Want interstellar...",
+            "VideoId": "LooEeJyd3AY",
+            "Controls": "start=719"
+        },
+        {
+            "Text": " to power the ticket gates and displays and a dance club where piezoelectricity helps power the lights. Could basketball players running back and forth power the scoreboard? Or might walking down the street charge your electronic devices? What's next for piezoelectricity?",
+            "Title": "How to squeeze...",
+            "VideoId": "YEJ2qryXcIQ",
+            "Controls": "start=253"
+        },
+        {
+            "Text": " in an attempt to restore the neutral charge equilibrium. And this quick movement of electrons, called static discharge, is what we recognize as that sudden spark. This process doesn't happen with just any objects. Otherwise you'd be getting zapped all the time.",
+            "Title": "The science of static...",
+            "VideoId": "yc2-363MIQs",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " and establish who is in charge of the group. They even perform actions that seem all too human. But while chimps across the world only have a limited repertoire of vocalizations, they constantly invent and share new gestures with each other.",
+            "Title": "How to Speak Chimpanzee...",
+            "VideoId": "NBFBbFcixRY",
+            "Controls": "start=179"
+        },
+        {
+            "Text": " while newer, advanced batteries can survive and function for thousands. Batteries of the future may be light, thin sheets that operate on the principles of quantum physics and last for hundreds of thousands of charge cycles.",
+            "Title": "How batteries work -...",
+            "VideoId": "9OVtk6G2TnQ",
+            "Controls": "start=209"
+        },
+        {
+            "Text": " After several years in charge, they've had their day. Now the interests of the new males and those of the lionesses differ. Without their fathers to protect them, the cubs are in peril.",
+            "Title": "Brutal Lion Infanticide...",
+            "VideoId": "KUGf-irpTMQ",
+            "Controls": "start=74"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jocko-willink.webp",
+            "Text": "Since the team understands that the leader is de facto in charge, in that respect, a leader has nothing to prove. But in another respect, a leader has everything to prove: Every member of the team must develop the trust and confidence that their leader will exercise good judgment, remain calm, and make the right decisions when it matters most.",
+            "Title": "American",
+            "Name": "Jocko Willink"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julia-fox.webp",
+            "Text": "My dad always told me that I should have been an actress, but that wasn't really my main focus. I really love to be the director, the person in charge, making my fantasy come to life. But if I love someone else's fantasy, I'll definitely help them bring theirs to life, too.",
+            "Title": "Italian Actress",
+            "Name": "Julia Fox"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lewis-black.webp",
+            "Text": "One of the most important things, especially when you're leaving school, is to realize you're going to be dealing with a lot of idiots. And a lot of those idiots are in charge of things, so if you're in an interview and you really want to tell the person off, don't do it.",
+            "Title": "American Comedian",
+            "Name": "Lewis Black"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sarah-michelle-gellar.webp",
+            "Text": "My family comes first, and you have to be in charge to be able to protect that. You have to be the one who says no or you don't have a life, which is what I found out the first time.",
+            "Title": "American Actress",
+            "Name": "Sarah Michelle Gellar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tina-weymouth.webp",
+            "Text": "We're not getting paid. We have these great musicians with us and it gives us a real charge. And the audience gives us a charge, because they keep it interesting all the time.",
+            "Title": "American Musician",
+            "Name": "Tina Weymouth"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-kay.webp",
+            "Text": "The best comedies are the ones where the person who's in charge is the one with the vision who's said, 'I'm staying with this till the very end.",
+            "Title": "English Comedian",
+            "Name": "Peter Kay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pete-buttigieg.webp",
+            "Text": "Our neighborhoods are safer when there is trust between communities and the police who are in charge of protecting them.",
+            "Title": "American Politician",
+            "Name": "Pete Buttigieg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tess-holliday.webp",
+            "Text": "I feel sexy when I can be in charge of how I present my body and how I am in this world.",
+            "Title": "American Model",
+            "Name": "Tess Holliday"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sophocles.webp",
+            "Text": "Don't you know that silence supports the accuser's charge?",
+            "Title": "Greek Poet",
+            "Name": "Sophocles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-weiner.webp",
+            "Text": "I'm not in charge of my life.",
+            "Title": "American Writer",
+            "Name": "Jennifer Weiner"
+        }
+    ]
+}

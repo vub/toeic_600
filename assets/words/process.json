@@ -1,0 +1,366 @@
+{
+    "currentWord": {
+        "wordRoot": "process",
+        "id": 18461,
+        "phonemic": "ˈprəʊses|ˈprɑːses\r",
+        "bigId": "214c3479-b2b3-46be-8d7c-976cb7fa0b51",
+        "wordForms": [
+            "processes",
+            "processing",
+            "processed",
+            "processor",
+            "processors",
+            "process"
+        ]
+    },
+    "senses": [
+        {
+            "id": "214c3479-b2b3-46be-8d7c-976cb7fa0b51",
+            "de": "A series of actions or steps taken to achieve a particular end",
+            "ty": "noun",
+            "ex": "The process of making bread takes about three hours.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "process of learning",
+                " manufacturing process",
+                " decision-making process"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/214c3479-b2b3-46be-8d7c-976cb7fa0b51.webp",
+            "Tips": [
+                {
+                    "title": "Action Sequence",
+                    "description": "Understand 'process' as a sequence; each step is essential to reach the final goal.",
+                    "example": "Learning to drive involves a process of theory and practice.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/LnjE7Ox9bcc17ZqJ9q9UkYQmm8.webp"
+                },
+                {
+                    "title": "Not Instant",
+                    "description": "'Process' implies the outcome takes time and does not happen instantly.",
+                    "example": "Recovering from an injury is a slow process.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Tl3e4pLFXgWFyXyhqPpjmIqLJos.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "97212eb3-14d1-4307-93da-8662874f9233",
+            "de": "A multi-step condition, event, or series of activities in a business",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "That's the standard process for dealing with customer complaints.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business process",
+                " process management",
+                " process improvement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/97212eb3-14d1-4307-93da-8662874f9233.webp",
+            "Tips": [
+                {
+                    "title": "Business Context",
+                    "description": "In business, 'process' often connects to daily operations or improvement strategies.",
+                    "example": "Implementing feedback is part of our business process.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "112dc7b7-7194-457e-9fc9-391900f46c59",
+            "de": "A systematic series of mechanized or chemical operations, followed in manufacturing",
+            "do": "Industry",
+            "ty": "noun",
+            "ex": "They've developed a more efficient process for extracting sunflower oil.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "industrial process",
+                " chemical process"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/112dc7b7-7194-457e-9fc9-391900f46c59.webp",
+            "Tips": [
+                {
+                    "title": "Manufacturing Focus",
+                    "description": "Industry processes usually relate to the physical production or transformation of goods.",
+                    "example": "The assembly line revolutionized the industrial process.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d83f8c2e-7e40-4eff-b5db-9a972349caaf",
+            "de": "To perform a series of operations on (something) in order to change or preserve it.",
+            "ty": "verb",
+            "ex": "The fish are caught and processed at sea.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "process data",
+                " process applications"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d83f8c2e-7e40-4eff-b5db-9a972349caaf.webp",
+            "Tips": [
+                {
+                    "title": "Change or Preserve",
+                    "description": "As a verb, 'process' means altering something systematically, usually for preservation or improvement.",
+                    "example": "We process raw data into understandable charts.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "59585948-bd4e-4347-8cc0-bad1ad4fe76a",
+            "de": "To take in (information) and understand it.",
+            "do": "Psychology",
+            "ty": "verb",
+            "ex": "I needed a moment to process everything that had happened.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "process information",
+                " process emotions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/59585948-bd4e-4347-8cc0-bad1ad4fe76a.webp",
+            "Tips": [
+                {
+                    "title": "Mental Absorption",
+                    "description": "'Process' in psychology implies mental assimilation or emotional adjustment.",
+                    "example": "She took time to process the sudden news.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ffc21de3-3362-4163-8017-ff4badf87abe",
+            "de": "A summons or writ requiring a person to appear in court.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "He was served with a process for misdemeanor.",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "due process",
+                " legal process",
+                " court process"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ffc21de3-3362-4163-8017-ff4badf87abe.webp",
+            "Tips": [
+                {
+                    "title": "Legal Requirements",
+                    "description": "Used legally, 'process' often means official documentation for court appearances or decisions.",
+                    "example": "The defendant received a legal process to testify.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "742e0404-89dc-4f2e-a226-1c8c02f64610",
+            "de": "The protruded part or extension of an organ or a tissue.",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "The mastoid process of the temporal bone extends downward behind the ear.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mastoid process",
+                " zygomatic process"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/742e0404-89dc-4f2e-a226-1c8c02f64610.webp",
+            "Tips": [
+                {
+                    "title": "Anatomical Part",
+                    "description": "In medical terminology, a 'process' is a part of the body that sticks out, like a bone.",
+                    "example": "A fractured mastoid process can affect hearing.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Approach": {
+            "wordRoot": "Approach",
+            "wordDefinition": "Approach refers to how you set out to do something or how you handle a situation. It's the method, strategy, or way you go about achieving a goal or dealing with an issue.\n\nFor example, if you're trying to improve your grades, you might take a disciplined approach and stick to a strict study schedule.\n\nAlternatively, you might take a more relaxed approach and focus on studying what you find interesting.\n\nApproach is about the strategy you use to tackle a task or issue, while process is about the specific steps you need to take to achieve a desired outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8c0eee9-ccef-4d22-b622-bb77972ccf69.webp"
+        },
+        "Mechanism": {
+            "wordRoot": "Mechanism",
+            "wordDefinition": "Mechanism refers to the physical or mechanical part that performs a specific task or function. For example, the mechanism of a clock is the gears and springs that make it work.\n\nBoth words can describe systems or methods for achieving a goal, but mechanism tends to be used more for physical devices or machines, while process is used more for complex procedures or systems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5acd6d3c-0fb2-47e9-b4c9-605861940cc3.webp"
+        },
+        "Method": {
+            "wordRoot": "Method",
+            "wordDefinition": "Method refers to a planned and organized way of doing something, usually with a set of steps or rules. For example, a scientific method or a study method.\n\nA method is a specific way of doing something while a process is a broader term that can refer to any series of steps taken to achieve a particular goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc357a41-70fc-422c-a299-6eaf9554a1a1.webp"
+        },
+        "Operation": {
+            "wordRoot": "Operation",
+            "wordDefinition": "An operation is a specific action that is performed to achieve a certain goal.\n\nIt is usually something that involves machinery or specific tools. For example, performing surgery on a patient is an operation that requires specific tools and procedures.\n\nAn operation is focused on achieving a specific task through the use of specific tools, while a process is a more general term that describes a series of steps or actions that are taken to achieve a certain result.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a9d6e3f-7145-4fb6-ac12-8ba80c9d4cf9.webp"
+        },
+        "Procedure": {
+            "wordRoot": "Procedure",
+            "wordDefinition": "Procedure generally refers to a set of specific steps that need to be followed in order to complete a task or achieve a specific goal.\n\nFor example, a medical procedure might involve following a specific set of steps to carry out a surgical operation.\n\nBoth words are applicable in a variety of contexts, but procedures tend to be more specific and precise, while processes tend to be more high-level and abstract.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8c7d8d5d-8f38-4591-9ea0-be5afd7003b2.webp"
+        },
+        "System": {
+            "wordRoot": "System",
+            "wordDefinition": "System refers to a collection of parts that work together to achieve a particular purpose. For instance, a computer system involves hardware, software, and human operators working together to process information.\n\nThe system emphasizes the interconnection and interdependence of its parts.\n\nTo summarize, a process refers to a series of steps taken to achieve a goal, whereas a system refers to a collection of parts working together to achieve a purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp"
+        },
+        "Technique": {
+            "wordRoot": "Technique",
+            "wordDefinition": "A technique is a specific method or approach used to accomplish a particular task or solve a problem. It is a more focused and specialized aspect of a process.\n\nTechniques are often used within a larger process to improve efficiency or effectiveness. Examples include using a specific stroke in swimming, performing a complex maneuver in gymnastics, or using a specific tool to create a painting.\n\nIn summary, processes are broader and involve multiple steps, while techniques are more specific approaches within those processes.\n\nProcesses are applicable in a wide variety of fields, including manufacturing, science, and service industries, while techniques are more commonly used in performance-based fields such as sports or the arts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b27dba19-a179-4291-ac8c-242b514e8876.webp"
+        },
+        "Way": {
+            "wordRoot": "Way",
+            "wordDefinition": "Way can refer to a method, manner or direction of doing something. For example, there are different ways to study for an exam - you could take notes, make flashcards or participate in a study group.\n\nSimilarly, you could take a different way home from school, which could be a different route or mode of transportation.\n\nIn essence, a process is a specific set of steps to achieve a goal, while a way is a more general concept relating to different approaches or directions to accomplish something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b6e98d3-1517-4e51-ba91-7ddfa14fa84d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " important thing the most important thing that indescribable feeling that sense of accomplishment that comes from having spent a day in the state of flow that we all love these processes they leave sparse time for people to experience the state of flow and they interrupt us all too frequently consider for example annual performance",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=158"
+        },
+        {
+            "Text": " the difference may not be apparent to a casual observer. But recent advances in brain imaging technology have given neurolinguists a glimpse into how specific aspects of language learning affect the bilingual brain. It's well known that the brain's left hemisphere is more dominant and analytical in logical processes,",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=110"
+        },
+        {
+            "Text": " in the form of amino acids. Adequate protein intake, along with naturally occurring hormones, like insulin-like growth factor and testosterone, help shift the body into a state where tissue is repaired and grown. This vital repair process mainly occurs when we're resting, especially at night while sleeping.",
+            "Title": "What makes muscles grow?...",
+            "VideoId": "2tM1LFFxeKg",
+            "Controls": "start=180"
+        },
+        {
+            "Text": " from some external source. Even if engineers could somehow design a machine that didn't violate the first law of thermodynamics, it still wouldn't work in the real world because of the second law. The second law of thermodynamics tells us that energy tends to spread out through processes like friction.",
+            "Title": "Why don't perpetual...",
+            "VideoId": "A-QgGXbDyR0",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " This process is important because our neural pathways serve as a map for everything we do. Using functional magnetic resonance imaging, scientists have discovered that the brain's pruning ability is disrupted in people with bipolar disorder. That means their neurons go haywire",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " No one to look at the diagnostics. No one to figure out what tools should be used. As an example, we could have taken the blood of survivors, processed it, and put that plasma back in people to protect them. But that was never tried. So there was a lot that was missing.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=155"
+        },
+        {
+            "Text": " Kind of, it symbolizes like there's no beginning or there's no end to this community that we've created. There's no right or wrong way to grieve. Grief and loss, it's a lifelong process. I really hope I am making an impact and making a difference in others lives.",
+            "Title": "Surf Sisters - Ep. 2 PIPE...",
+            "VideoId": "F3LS8CQJW4A",
+            "Controls": "start=620"
+        },
+        {
+            "Text": " a neurotransmitter that communicates between brain structures and helps regulate vital processes, such as mood, aggression, impulse control, sleep, appetite, body temperature and pain.",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=206"
+        },
+        {
+            "Text": " That protective process is known as menstruation, leading to the period. This biological trait, bizarre as it may be, sets us on course for the continuation of the human race.",
+            "Title": "Why do women have...",
+            "VideoId": "cjbgZwgdY7Q",
+            "Controls": "start=250"
+        },
+        {
+            "Text": " A digestive system processing piles of food deep inside. Even a coordinated system for dealing with all the waste.",
+            "Title": "Army Ants Rampage...",
+            "VideoId": "JsfiUR0ZzLw",
+            "Controls": "start=39"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oprah-winfrey.webp",
+            "Text": "I don't think you ever stop giving. I really don't. I think it's an on-going process. And it's not just about being able to write a check. It's being able to touch somebody's life.",
+            "Title": "American Entertainer",
+            "Name": "Oprah Winfrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lady-gaga.webp",
+            "Text": "What I want for my fans and for the world, for anyone who feels pain, is to lean into that pain and embrace it as much as they can and begin the healing process.",
+            "Title": "American Singer",
+            "Name": "Lady Gaga"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eleanor-roosevelt.webp",
+            "Text": "In the long run, we shape our lives, and we shape ourselves. The process never ends until we die. And the choices we make are ultimately our own responsibility.",
+            "Title": "American First Lady",
+            "Name": "Eleanor Roosevelt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/juan-manuel-santos.webp",
+            "Text": "That's what peace processes are about - changing bullets for votes.",
+            "Title": "Colombian Politician",
+            "Name": "Juan Manuel Santos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chadwick-boseman.webp",
+            "Text": "As a director, it is important to understand the actor's process.",
+            "Title": "American Actor",
+            "Name": "Chadwick Boseman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/juliana-hatfield.webp",
+            "Text": "Writing helps me process things that are happening to me.",
+            "Title": "American Musician",
+            "Name": "Juliana Hatfield"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ernst-mayr.webp",
+            "Text": "Life is simply the reification of the process of living.",
+            "Title": "German Scientist",
+            "Name": "Ernst Mayr"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/natasha-bedingfield.webp",
+            "Text": "I get very deep into the writing and recording process.",
+            "Title": "British Musician",
+            "Name": "Natasha Bedingfield"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-james.webp",
+            "Text": "Music is an important part of my writing process.",
+            "Title": "British Writer",
+            "Name": "Peter James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-butler.webp",
+            "Text": "Life is one long process of getting tired.",
+            "Title": "British Poet",
+            "Name": "Samuel Butler"
+        }
+    ]
+}

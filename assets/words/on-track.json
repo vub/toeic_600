@@ -1,0 +1,61 @@
+{
+    "currentWord": {
+        "wordRoot": "on track",
+        "id": 0,
+        "phonemic": "ɒn træk",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID_ontrack_sense1",
+            "de": "Making progress towards a goal and likely to achieve it.",
+            "ty": "idiom",
+            "ex": "The project is on track to be completed by the end of the year.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stay on track",
+                "get back on track",
+                "keep someone/something on track",
+                "be on track for something",
+                "be on track to do something"
+            ],
+            "ImageSrc": "./senses/39b10a78-c125-4fa7-a2af-cdb0dadc719e.webp",
+            "Tips": [
+                {
+                    "title": "Describing project progress",
+                    "description": "Use 'on track' to indicate that a project is progressing as planned and expected to meet its deadlines.",
+                    "example": "We're on track to finish the software development by next month.",
+                    "imageUrl": "./tips/fcbcc42e-74de-4334-9792-da422526d3de.webp"
+                },
+                {
+                    "title": "Talking about personal goals",
+                    "description": "Use 'on track' to describe progress towards personal goals like weight loss, saving money, or learning a new skill.",
+                    "example": "I'm on track to lose 10 pounds by the summer.",
+                    "imageUrl": "./tips/e2c3a437-366a-46c1-9fa8-93a447936073.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "on schedule": {
+            "wordRoot": "on schedule",
+            "wordDefinition": "'On schedule' emphasizes adherence to a timetable, while 'on track' emphasizes progress towards a goal.  'On schedule' can be used for events with fixed times, while 'on track' is more general.",
+            "wordImage": ""
+        },
+        "making progress": {
+            "wordRoot": "making progress",
+            "wordDefinition": "'Making progress' is a more general term. 'On track' implies not only progress but also that the progress is sufficient to reach the goal.",
+            "wordImage": ""
+        },
+        "in line with expectations": {
+            "wordRoot": "in line with expectations",
+            "wordDefinition": "'In line with expectations' focuses on meeting predicted outcomes. 'On track' suggests movement toward a goal and can imply overcoming obstacles.",
+            "wordImage": ""
+        }
+    }
+}

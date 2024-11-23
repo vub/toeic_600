@@ -1,0 +1,216 @@
+{
+    "currentWord": {
+        "wordRoot": "deduct",
+        "id": 13471,
+        "phonemic": "dɪˈdʌkt|dɪˈdʌkt\r",
+        "bigId": "8f85f2b1-4227-41d4-9c9f-4a78ece6212a",
+        "wordForms": [
+            "deducts",
+            "deducting",
+            "deducted",
+            "deduct"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8f85f2b1-4227-41d4-9c9f-4a78ece6212a",
+            "de": "To take away an amount or part from a total.",
+            "ty": "verb",
+            "ex": "The company will deduct the cost of the repairs from your salary.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "deduct from",
+                " deduct cost",
+                " deduct amount"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8f85f2b1-4227-41d4-9c9f-4a78ece6212a.webp",
+            "Tips": [
+                {
+                    "title": "Partial Deduction",
+                    "description": "Deduct often means removing part, not all, of something like money or points",
+                    "example": "If you are late, they'll deduct ten minutes from your break time.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vpGsqtvge6fUFrVGQpxuTUwLMs.webp"
+                },
+                {
+                    "title": "Total Calculation",
+                    "description": "Remember that 'deduct' involves calculating what remains after something is taken away.",
+                    "example": "After we deduct expenses, our net profit is $500.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4XughcCmeM9NsYXJO0kHR0QQ1k.webp"
+                },
+                {
+                    "title": "Negative Outcome",
+                    "description": "'Deduct' typically has a negative connotation since it means losing something.",
+                    "example": "The store will deduct the fee for the returned item.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xEZWZGZhrNtAwls0ZT01dJ1Uto.webp"
+                }
+            ]
+        },
+        {
+            "id": "c7039eb4-4841-4ff3-a95c-8c074812e85c",
+            "de": "In accounting, to take away an amount from taxable income or profits.",
+            "do": "Accounting",
+            "ty": "verb",
+            "ex": "You can deduct your office expenses when calculating your taxable income.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "deduct expenses",
+                " deduct loss",
+                " deduct cost"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c7039eb4-4841-4ff3-a95c-8c074812e85c.webp",
+            "Tips": [
+                {
+                    "title": "Tax Savings",
+                    "description": "In accounting, 'deduct' is a positive term as it often lowers taxable income.",
+                    "example": "You can deduct charity donations from your taxable income.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Eligible Expenses",
+                    "description": "Know what expenses are eligible to deduct to ensure correct tax reporting.",
+                    "example": "Travel expenses for business can be deducted.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Receipts Required",
+                    "description": "Keep receipts as proof for what you plan to deduct in your tax filings.",
+                    "example": "I saved all my receipts to deduct them later on my taxes.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Diminish": {
+            "wordRoot": "Diminish",
+            "wordDefinition": "To diminish means to make something smaller or reduce its size, value, or importance. For example, if your interest in a hobby dwindled or got smaller over time, someone might say that your enthusiasm for it diminished.\n\nDiminishing can happen in various contexts, such as a value, quantity, or intensity.\n\nTo put it simply, deducting is subtracting a specific amount from a total or whole, while diminishing is the act of making something smaller or less significant.\n\nDeduction is more associated with numbers, math, and finances, while diminishing has a broader application in terms of size and impact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4db99ecf-4dc9-4c74-b813-bd64a95f841f.webp"
+        },
+        "Discount": {
+            "wordRoot": "Discount",
+            "wordDefinition": "Discount means to reduce the original price of something by a certain percentage or amount. For example, if a dress is originally priced at $50, but it is on sale for 25% off, then the discount is $12.50, making the sale price $37.50.\n\nThe difference between deduct and discount is that deduct refers to taking something away from a larger amount, while discount refers to reducing the price of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3d1211f2-3c16-4457-9262-fa2ada395c35.webp"
+        },
+        "Lessen": {
+            "wordRoot": "Lessen",
+            "wordDefinition": "Lessen refers to reducing the intensity, magnitude, or severity of something. For example, if you have a headache and take medication to lessen the pain, it means that the pain will become less severe.\n\nDeduct is used when subtracting a specific amount from a total, while lessen is used when reducing the intensity or severity of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/418a20ae-cc6d-4e4e-800a-8852d9d76798.webp"
+        },
+        "Minimize": {
+            "wordRoot": "Minimize",
+            "wordDefinition": "Minimize means to make something smaller or reduce it. For example, if you wanted to minimize the amount of waste you produce, you might recycle more or use reusable products.\n\nBoth words are applicable in different situations. Deduct is used when there is a specific amount that needs to be subtracted from a total or amount, while minimize is used when you want to make something smaller or reduce it in general.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3080bd15-41fc-4e53-841c-e035bfa9b84d.webp"
+        },
+        "Reduce": {
+            "wordRoot": "Reduce",
+            "wordDefinition": "Reduce means to make something smaller or less in size or quantity. For example, if you want to reduce your spending, you might start bringing your own lunch to school instead of buying it every day.\n\nDeduct is used when you need to subtract one thing from another to find a total, while reduce is used when you want to make something smaller or less in size or quantity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46be9f28-a68f-4b62-a438-202a8a114804.webp"
+        },
+        "Subtract": {
+            "wordRoot": "Subtract",
+            "wordDefinition": "Both deduct and subtract refer to the act of taking away one quantity from another. The difference is that deduct is usually used in the context of removing an amount from a total or a sum, such as when calculating taxes or discounts.\n\nMeanwhile, subtract can be used in any context where one quantity is being taken away from another, not necessarily in the context of a total.\n\nFor example, you could subtract the number of hours you spent watching TV from the total number of hours in a day.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1d6e560e-d3fc-4d14-b7f2-3721232af6dc.webp"
+        },
+        "Take away": {
+            "wordRoot": "Take away",
+            "wordDefinition": "The words deduct and take away both mean to subtract.\n\nTake away is a more general term that can be used in any situation where you are subtracting something, such as taking away toys from a child who misbehaved.\n\nIf you're talking about numbers or money, use deduct, but if you're talking about anything else, take away is appropriate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c0ac17db-ecc6-4425-9245-1ddd9cb556a2.webp"
+        },
+        "Withdraw": {
+            "wordRoot": "Withdraw",
+            "wordDefinition": "Withdraw means to take something out or remove from a certain location.\n\nIt is typically used in reference to physical objects or money, for example, when you withdraw money from an ATM or withdraw your hand from a hot stove.\n\nDeduct is used when you are performing a mathematical or financial calculation, while withdraw is used when you are physically removing something from a location.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0f036228-2267-4efa-913a-dca6bccc0133.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " These costs are deducted from overall profits, leaving the amount subject to taxes at a bare minimum. These companies also buy gold on the black market. Local, small-scale miners often operate without a license, so the government is unaware of how much gold they mine. Corporations buy gold from these miners,",
+            "Title": "The true cost of gold - ...",
+            "VideoId": "1nglN3mfZUw",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " In the past two decades, we've begun to use digital money. So I get paid via direct deposit, I pay my rent via bank transfer, I pay my taxes online. And every month, a small amount of money is deducted from my paycheck",
+            "Title": "The future of money PIPE...",
+            "VideoId": "pPgd7Hj3ABQ",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " my lady be given deducted a nikunj including bigamy zero but I won't be going alone their wives are also",
+            "Title": "Tribal Beauty Pageant --...",
+            "VideoId": "Dm1tN3SmDWs",
+            "Controls": "start=126"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dev-anand.webp",
+            "Text": "A very small proportion of the country's black money is in the movie industry. Because we are written about, public attention is focused on us. Do you think there is no black money in other businesses? With the exception of government servants and others who have tax deducted at source, there are tax evaders in every walk of life.",
+            "Title": "Indian Actor",
+            "Name": "Dev Anand"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-brady.webp",
+            "Text": "The ability to immediately deduct the costs of capital investments will help employers improve worker productivity and output - which grows Main Street jobs. And with these savings, businesses across the country will have more freedom to grow, hire new workers, and increase wages.",
+            "Title": "American Politician",
+            "Name": "Kevin Brady"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-surowiecki.webp",
+            "Text": "Until the nineteen-seventies, Western countries paid little attention to corruption overseas, and bribery was seen as an unpleasant but necessary part of doing business there. In some European countries, businesses were even allowed to deduct bribes as an expense.",
+            "Title": "American Journalist",
+            "Name": "James Surowiecki"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arthur-schopenhauer.webp",
+            "Text": "A man's delight in looking forward to and hoping for some particular satisfaction is a part of the pleasure flowing out of it, enjoyed in advance. But this is afterward deducted, for the more we look forward to anything the less we enjoy it when it comes.",
+            "Title": "German Philosopher",
+            "Name": "Arthur Schopenhauer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/donella-meadows.webp",
+            "Text": "We don't need new laws that can be used by organizations with deep pockets and the ability to deduct legal expenses as a cost of doing business to intimidate individuals or organizations that voice legitimate concerns.",
+            "Title": "American Environmentalist",
+            "Name": "Donella Meadows"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-raymond.webp",
+            "Text": "Why do I have an issue with banks? They have their greedy fingers in everyone's money. No other industry has the power to deduct a bill or fees directly from your own bank account without so much as a notice.",
+            "Title": "American Writer",
+            "Name": "Jonathan Raymond"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dan-benishek.webp",
+            "Text": "I can understand where the oil company wants to deduct the cost of drilling a well. That's one of the tax breaks for oil companies - the subsidies - they get to deduct the cost of the well the year you drill.",
+            "Title": "American Politician",
+            "Name": "Dan Benishek"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/valerie-jarrett.webp",
+            "Text": "When you compare the relatively modest tax that will ensue from prohibiting companies from receiving a subsidy and deducting that subsidy, the benefits dramatically outweigh the costs.",
+            "Title": "American Lawyer",
+            "Name": "Valerie Jarrett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/georg-wilhelm-friedrich-hegel.webp",
+            "Text": "Governments have never learned anything from history, or acted on principles deducted from it.",
+            "Title": "German Philosopher",
+            "Name": "Georg Wilhelm Friedrich Hegel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/matthew-desmond.webp",
+            "Text": "All homeowners in America may deduct mortgage interest on their first and second homes.",
+            "Title": "American Sociologist",
+            "Name": "Matthew Desmond"
+        }
+    ]
+}

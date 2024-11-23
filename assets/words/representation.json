@@ -1,0 +1,349 @@
+{
+    "currentWord": {
+        "wordRoot": "representation",
+        "id": 16858,
+        "phonemic": "ˌreprɪzenˈteɪʃn|ˌreprɪzenˈteɪʃn\r",
+        "bigId": "9d798560-3cbc-45aa-b376-7284d716660f",
+        "wordForms": [
+            "representations",
+            "representation"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9d798560-3cbc-45aa-b376-7284d716660f",
+            "de": "A picture, model, or other thing that stands for something else, often something not seen",
+            "ty": "noun",
+            "ex": "The artist's representation of the woman was incredibly detailed.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "artistic representation",
+                " accurate representation",
+                " visual representation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9d798560-3cbc-45aa-b376-7284d716660f.webp",
+            "Tips": [
+                {
+                    "title": "Beyond Visual",
+                    "description": "Representation is not limited to visual forms; it can include other sensory depictions.",
+                    "example": "The statue is not just a representation, but a celebration of her achievements.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/64Iq6ezKJXNBqLNubaUrLtu2M.webp"
+                },
+                {
+                    "title": "Symbolic Significance",
+                    "description": "Sometimes, a representation holds deeper meanings or cultural significance beyond its appearance.",
+                    "example": "The flag is a powerful representation of our nation's values.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kk8NT01BfoO79GuTC1tZ4eod7ow.webp"
+                },
+                {
+                    "title": "Creative Interpretation",
+                    "description": "Artistic representations are often the artist's interpretation and can differ from real life.",
+                    "example": "Her painting is a dramatic representation of the landscape, intensified by her emotions.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Z2KuVJCBxCtCHjr8BISc9yO6udc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "252fc3b4-44c1-4e57-8f28-d3e2396e1960",
+            "de": "The act of speaking or acting for someone",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The lawyer provided representation for the defendant in court.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "legal representation",
+                " professional representation",
+                " political representation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/252fc3b4-44c1-4e57-8f28-d3e2396e1960.webp",
+            "Tips": [
+                {
+                    "title": "Voice of Others",
+                    "description": "Representation in a legal context means someone speaks or acts on another's behalf, especially in court.",
+                    "example": "Without proper representation, he struggled to defend his case.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Personal",
+                    "description": "Legal representation involves professional support rather than personal advice or friendship.",
+                    "example": "She sought qualified representation to navigate the complex legal system.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4a357ffe-1241-4bba-84f8-a1efdba1f155",
+            "de": "An individual or group that stands for a larger group or community",
+            "ty": "noun",
+            "ex": "The board of directors is the representation of the company's shareholders.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "political representation",
+                " group representation",
+                " democratic representation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4a357ffe-1241-4bba-84f8-a1efdba1f155.webp",
+            "Tips": [
+                {
+                    "title": "Broad Interests",
+                    "description": "Representatives often defend the interests of a group, not just individual concerns.",
+                    "example": "Our union representation is focused on improving conditions for all employees.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Election Matters",
+                    "description": "Democratic representation usually involves an election process where members choose their delegates.",
+                    "example": "The election resulted in a fair representation of our community's diverse population.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "41717015-53a2-41c8-af4b-309ae8d239b3",
+            "de": "The way something or someone is depicted or described",
+            "ty": "noun",
+            "ex": "The film offers a realistic representation of life in the country.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "media representation",
+                " cinema representation",
+                " public representation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/41717015-53a2-41c8-af4b-309ae8d239b3.webp",
+            "Tips": [
+                {
+                    "title": "Perception Influences",
+                    "description": "How something is represented can greatly influence public perception and opinion.",
+                    "example": "The documentary's representation of the events sparked a national debate.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Selective Highlighting",
+                    "description": "Representations may emphasize certain aspects while overlooking others, for effect or bias.",
+                    "example": "Critics argued that the series' representation of the era was romanticized.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "71729b39-42d3-4940-891c-3579cbc39e54",
+            "de": "In mathematics, a specific way of expressing or describing something",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "The representation of the function in the graph allowed us to analyze it easily.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "geometric representation",
+                " algebraic representation",
+                " binary representation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/71729b39-42d3-4940-891c-3579cbc39e54.webp",
+            "Tips": [
+                {
+                    "title": "Math Clarity",
+                    "description": "In math, representation helps visualize abstract concepts, like functions or data sets.",
+                    "example": "A pie chart is a clear representation of the survey results.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technical Precision",
+                    "description": "Mathematical representations require precision and adherence to formulas and definitions.",
+                    "example": "The geometric representation of the problem made it easier to prove the theorem.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Characterization": {
+            "wordRoot": "Characterization",
+            "wordDefinition": "Characterization refers to explaining or describing a fictional character's traits, such as their thoughts, actions, and relationships with others.\n\nIn simpler terms, characterization refers to understanding a character in a story, while representation refers to ensuring equal recognition and respect for all groups of people in society.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c32e9e30-c960-415f-b646-fde32bb62e1f.webp"
+        },
+        "Delegation": {
+            "wordRoot": "Delegation",
+            "wordDefinition": "Delegation means giving someone the authority to do something on behalf of the person who delegated.\n\nDelegation is about assigning tasks, while representation is about speaking or acting on behalf of others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b2bc96fd-abed-4295-b83f-2fd1c5eb5d08.webp"
+        },
+        "Depict": {
+            "wordRoot": "Depict",
+            "wordDefinition": "Depict means to show or illustrate something in a visual form, usually through art or pictures.\n\nFor example, a painting may depict a landscape, showing how the trees, mountains, and water appear visually. A graph may represent data about the population growth of a city, conveying an idea about how the population has changed over time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14be40d4-c33e-4f55-90c7-514d0ed16b42.webp"
+        },
+        "Impersonate": {
+            "wordRoot": "Impersonate",
+            "wordDefinition": "Impersonate means to pretend to be someone else by copying their behavior, speech, or appearance. For example, if someone puts on a wig and pretends to be the president, they are impersonating the president.\n\nSo, impersonation is when you're pretending to be someone you're not, while representation is when you're acting on behalf of someone or something.\n\nImpersonation is often a form of deception, while representation is often a way to communicate or advocate for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/44797b58-8762-4ecf-b2a9-0e672e2658e8.webp"
+        },
+        "Interpret": {
+            "wordRoot": "Interpret",
+            "wordDefinition": "Interpret means to explain or understand something by making sense of it. For example, if you read a complicated book, you might need to interpret the meaning of certain words or ideas.\n\nInterpret is often used when trying to understand complex ideas or information, while representation is used when trying to depict or show something to others.\n\nFor example, a lawyer might need to interpret a complex legal document, while an artist might create a representation of a beautiful landscape.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49bd269e-dd7f-491f-b014-39f55b252e53.webp"
+        },
+        "Manifestation": {
+            "wordRoot": "Manifestation",
+            "wordDefinition": "Manifestation refers to the act of making something visible or obvious, whereas representation refers to the way something is depicted or presented.\n\nFor example, if someone's positive attitude results in good things happening to them, that can be considered a manifestation of their positivity.\n\nManifestation is typically used to describe a result or outcome, while representation describes the way something is portrayed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2bd71f04-8358-4076-ac5a-8a1c5a6a88fc.webp"
+        },
+        "Portrayal": {
+            "wordRoot": "Portrayal",
+            "wordDefinition": "Portrayal refers to how something or someone is depicted or shown, often in a specific context like in a movie or book.\n\nFor example, the portrayal of a character in a movie can differ from how they're portrayed in the book.\n\nPortrayal often refers to a specific instance of depiction, while representation is a broader term that can apply to broader social and cultural issues.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e756be9-afed-4b60-9379-38858c25ec0f.webp"
+        },
+        "Proxy": {
+            "wordRoot": "Proxy",
+            "wordDefinition": "A proxy is a person or thing authorized to act on behalf of someone else, often in a legal or official capacity. For example, in a shareholder meeting, a shareholder may appoint a proxy to vote on their behalf.\n\nProxy is more commonly used in legal or official matters, while representation can apply in a broader range of contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5db64639-7d9d-4ab3-bee8-12eeb9288c5d.webp"
+        },
+        "Signification": {
+            "wordRoot": "Signification",
+            "wordDefinition": "Representation refers to the act of portraying or expressing something through words, images, or actions. Signification refers to the meaning or significance conveyed by a sign or symbol.\n\nRepresentation is applicable in various forms of communication, such as art, literature, and media. Signification is applicable in fields like linguistics and semiotics, where symbols and signs are analyzed for their meanings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7d9b51cd-0d43-4f66-8d69-e6306b099b3a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " or confusion between the representation of divinity and divinity itself. Keeping it real, so to speak, in the relationship between the individual and the divine. However, this can be a challenge to maintain, given that the urge to visually represent and interpret the world around us is a compulsion difficult to suppress.",
+            "Title": "A brief history of...",
+            "VideoId": "qfITRYcnP84",
+            "Controls": "start=84"
+        },
+        {
+            "Text": " representation it's not showing actual intercourse but rather kind of the dalliance that might lead up to it it's got lots of clues in it about ancient Roman sexual mores for one thing it doesn't have a sense of privacy we think that privacy is the most important thing about sexual activity but here we have a",
+            "Title": "Pompeiian Sexuality PIPE...",
+            "VideoId": "QOmB3QohaPA",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " to form what we call consciousness. From the day we're born, our mental development is formed through our body's interaction with the external world. Every sight, sound, and touch create new maps and representations in the brain that eventually become responsible for regulating our experience of self.",
+            "Title": "Are you a body with a...",
+            "VideoId": "ILDy6kYU-xQ",
+            "Controls": "start=185"
+        },
+        {
+            "Text": " told it a representation of music numerically.\" So this is what I call Lovelace's Leap. When you say she's a programmer, she did do some, but the real thing is to have said the future is going to be much, much more than this. Now, a hundred years later, this guy comes along,",
+            "Title": "John Graham-Cumming: The...",
+            "VideoId": "4BaJ8zS49v4",
+            "Controls": "start=524"
+        },
+        {
+            "Text": " to reveal truths hidden within their minds. Occasionally, instead of picturing something and then drawing it, they let their hands move automatically and would later tease out familiar figures that appeared in the scribbles. And after Pollock moved away from representation,",
+            "Title": "What is abstract...",
+            "VideoId": "oG9jQBj1eqE",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " A majority of these delegates favored introducing a new national constitution to create a stronger federal government. Thanks to compromises on issues like state representation, taxation power, and how to elect the president, their proposal gradually gained support.",
+            "Title": "Why wasn’t the Bill of...",
+            "VideoId": "aMCDikASE4o",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " things in the physical world are flawed reflections of ideal forms, such as roundness, or beauty. In this way, the cave leads to many fundamental questions, including the origin of knowledge, the problem of representation,",
+            "Title": "Plato’s Allegory of the...",
+            "VideoId": "1RWOpQXTltA",
+            "Controls": "start=185"
+        },
+        {
+            "Text": " or is math the native language of the universe itself, existing whether we find its truths or not? Are numbers, polygons and equations truly real, or merely ethereal representations of some theoretical ideal?",
+            "Title": "Is math discovered or...",
+            "VideoId": "X_xR5Kes4Rs",
+            "Controls": "start=25"
+        },
+        {
+            "Text": " it also puts representations of the world into society and into our minds when we engage with these products these novels these films this music it becomes part of our experience and so it also",
+            "Title": "Why invest in the...",
+            "VideoId": "i_eDYfKWptw",
+            "Controls": "start=292"
+        },
+        {
+            "Text": " this is actually the perfect visual representation of climate change it is one of the fastest carving glaciers in the world",
+            "Title": "Filming an Impenetrable...",
+            "VideoId": "GXx1bxRPmPM",
+            "Controls": "start=120"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-hanks.webp",
+            "Text": "The most accurate representation of how I feel is that I'm incredibly lucky to be working in this structure where people get paid millions to read the news on TV. And, yes, it is insane. And there is nothing I can say beyond acknowledging my immense good fortune, and being aware that I'm blessed, and aware that it isn't going to last forever.",
+            "Title": "American Actor",
+            "Name": "Tom Hanks"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jordan-peterson.webp",
+            "Text": "A properly balanced story provides an equal representation of the negative and positive attributes of, I could say the world, but it's actually a being. 'Harry Potter''s a good example. So Harry's the hero, right. But he's tainted with evil. There's a dark and a light in every bit of that narrative. It's well balanced.",
+            "Title": "Canadian Psychologist",
+            "Name": "Jordan Peterson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-p-feynman.webp",
+            "Text": "There is always another way to say the same thing that doesn't look at all like the way you said it before. I don't know what the reason for this is. I think it is somehow a representation of the simplicity of nature.",
+            "Title": "American Physicist",
+            "Name": "Richard P. Feynman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jessica-chastain.webp",
+            "Text": "For the most part, I was surprised by the representation of female characters onscreen. I do hope that when we include more female storytellers, we will have more of the women that I recognize in my day to day life.",
+            "Title": "American Actress",
+            "Name": "Jessica Chastain"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-debord.webp",
+            "Text": "In societies where modern conditions of production prevail, all of life presents itself as an immense accumulation of spectacles. Everything that was directly lived has moved away into a representation.",
+            "Title": "French Writer",
+            "Name": "Guy Debord"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joel-mchale.webp",
+            "Text": "It's important to have the right agent - people that are working hard for you. But an actor needs to be in control of their career no matter how good the representation is.",
+            "Title": "American Comedian",
+            "Name": "Joel McHale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franz-liszt.webp",
+            "Text": "The character of instrumental music... lets the emotions radiate and shine in their own character without presuming to display them as real or imaginary representations.",
+            "Title": "Hungarian Composer",
+            "Name": "Franz Liszt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-koons.webp",
+            "Text": "I love the gallery, the arena of representation. It's a commercial world, and morality is based generally around economics, and that's taking place in the art gallery.",
+            "Title": "American Artist",
+            "Name": "Jeff Koons"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johnny-lever.webp",
+            "Text": "Cinema is a larger-than-life representation. I wish to bring it to the small-screen.",
+            "Title": "Indian Actor",
+            "Name": "Johnny Lever"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/teyonah-parris.webp",
+            "Text": "It's so important... to have a variety of representation on television.",
+            "Title": "American Actress",
+            "Name": "Teyonah Parris"
+        }
+    ]
+}

@@ -1,0 +1,317 @@
+{
+    "currentWord": {
+        "wordRoot": "examine",
+        "id": 19224,
+        "phonemic": "ɪɡˈzæmɪn|ɪɡˈzæmɪn\r",
+        "bigId": "9624135c-7cec-4c0a-a399-a81e6fe400d4",
+        "wordForms": [
+            "examines",
+            "examining",
+            "examined",
+            "unexamined",
+            "reexamine",
+            "reexamining",
+            "examine"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9624135c-7cec-4c0a-a399-a81e6fe400d4",
+            "de": "To look at something closely and carefully",
+            "ty": "verb",
+            "ex": "The doctor examined the patient's eyes for any signs of infection.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "examine closely",
+                " examine carefully",
+                " examine thoroughly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9624135c-7cec-4c0a-a399-a81e6fe400d4.webp",
+            "Tips": [
+                {
+                    "title": "Visual Attention",
+                    "description": "Used when you need to observe something with great care, like checking for tiny details.",
+                    "example": "Archaeologists examine artifacts for minute engravings.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DVTODwjOTPHm1irKYVlYa4YJo.webp"
+                },
+                {
+                    "title": "Professional Assessment",
+                    "description": "Often involves a professional, like a doctor, checking for issues that require expertise.",
+                    "example": "The mechanic examined the engine to find the fault.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/VVsiKfDGVFgwtvvpd5nZ7WVI.webp"
+                }
+            ]
+        },
+        {
+            "id": "21433e00-dd05-49ad-aabe-654f92642437",
+            "de": "To test or check the knowledge or ability of someone",
+            "do": "Education",
+            "ty": "verb",
+            "ex": "The professor examined the students at the end of the semester.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "examine a student",
+                " examine a candidate",
+                " examine an applicant"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/21433e00-dd05-49ad-aabe-654f92642437.webp",
+            "Tips": [
+                {
+                    "title": "Knowledge Test",
+                    "description": "Specific to the context of education or training, where someone's learning is evaluated.",
+                    "example": "At the interview, they examined her knowledge of French.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Academic Evaluation",
+                    "description": "Can imply a formal test setting or an informal assessment by an educator.",
+                    "example": "The instructor examined our grasp of the concept through a pop quiz.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "700fff0e-f5f8-4088-816a-e9485919ba10",
+            "de": "To analyze or investigate a topic or idea",
+            "ty": "verb",
+            "ex": "The book examines the causes and effects of global warming.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "examine an issue",
+                " examine a case",
+                " examine a phenomenon"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/700fff0e-f5f8-4088-816a-e9485919ba10.webp",
+            "Tips": [
+                {
+                    "title": "Deep Analysis",
+                    "description": "In academic or intellectual contexts, it means to look into a topic deeply to understand all facets.",
+                    "example": "The study examines the long-term impacts of social media.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Critical Thinking",
+                    "description": "Encourages questioning and not just accepting information at face value in a given field.",
+                    "example": "Philosophers examine the nature of reality.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ada545e9-6e06-4604-8e3b-3447d0f07554",
+            "de": "To question someone in detail",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The lawyer examined the witness to uncover additional details.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "examine a witness",
+                " examine under oath",
+                " cross-examine"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ada545e9-6e06-4604-8e3b-3447d0f07554.webp",
+            "Tips": [
+                {
+                    "title": "Legal Questioning",
+                    "description": "Specific to law, where intense and often strategic questioning is used to discover facts.",
+                    "example": "The defense attorney examined the alibi's credibility.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Witness Credibility",
+                    "description": "Aims to assess the reliability of a witness or testimony in a legal context.",
+                    "example": "In court, the prosecutor thoroughly examined the witness's story.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Analyse": {
+            "wordRoot": "Analyse",
+            "wordDefinition": "Analyse and examine both mean to study something closely, but there is a slight difference in their usage.\n\nAnalyse, on the other hand, typically means to break something down into its smaller parts in order to understand how it works or to evaluate it.\n\nFor example, a chemist may analyze a compound to understand its chemical structure and properties.\n\nExamine means to observe while analyse means to observe and break down into smaller parts for a better understanding.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e4906935-5663-44a7-a9ee-eb4719d2801c.webp"
+        },
+        "Check": {
+            "wordRoot": "Check",
+            "wordDefinition": "Check means to quickly look over something or someone to make sure everything is okay, often with a specific purpose in mind.\n\nFor example, a teacher might check a student's homework to make sure they completed it, or a doctor might check a patient's heart rate to ensure it is normal.\n\nCheck is used to quickly verify that something is okay, while examine is used to investigate and learn more about something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3358b0cb-8094-47da-81a8-349bd29dc7f1.webp"
+        },
+        "Evaluate": {
+            "wordRoot": "Evaluate",
+            "wordDefinition": "Evaluate and examine are similar words, but they have different meanings.\n\nTo evaluate means to judge or assess the quality, value, or importance of something. It is when you think about something carefully, and then make a decision about it based on your thoughts.\n\nFor example, you might evaluate a new phone before deciding if it's worth buying.\n\nIn short, evaluating is about making a decision based on your thoughts, while examining is about trying to understand something better by studying it closely.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be62720b-6c1b-48e0-b518-8768e2efffd8.webp"
+        },
+        "Explore": {
+            "wordRoot": "Explore",
+            "wordDefinition": "Explore typically means to travel or investigate an area or idea in order to discover or learn more information.\n\nThis is often used in situations where you are trying to uncover new knowledge or experiences, like exploring a new city or researching a new topic.\n\nExamine is typically used when you need to carefully analyze or scrutinize something, while explore is typically used when you are seeking to learn more about something through investigation or discovery.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b648c8ad-e138-43d6-8513-3546dd23201d.webp"
+        },
+        "Inspect": {
+            "wordRoot": "Inspect",
+            "wordDefinition": "It describes a thorough inspection or exploration of an object or subject. For example, a doctor may examine a patient to evaluate their symptoms and diagnose an illness.\n\nInspect means to examine something carefully in order to detect any faults or problems that need fixing.\n\nIt is typically used to describe a closer inspection or review of an object or property to ensure that it meets certain standards, regulations or requirements.\n\nFor example, a building inspector may inspect a house to ensure it meets safety regulations and building codes.\n\nIn summary, while both words involve looking at something closely, examine is used to explore or investigate something in detail, while inspect is used to carefully analyze or evaluate something to detect any faults or problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62160a0b-b5c7-4529-b1e2-0c2b6cd9ce80.webp"
+        },
+        "Probe": {
+            "wordRoot": "Probe",
+            "wordDefinition": "Both examine and probe mean to investigate or inspect, but they are used in slightly different contexts.\n\nProbe, on the other hand, usually means to investigate more deeply or aggressively.\n\nIt can be used in a literal sense, like when a scientist probes deep into the earth to learn more about its composition, but it can also be used in a more figurative sense, like when a journalist probes a source for more information about a story.\n\nExamine is best used when you want to carefully observe and learn about something, while probe is better suited for when you want to delve deeper and uncover more information, often through questioning or exploration.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf8038f1-c3ab-4b5b-85f2-0893fd584e71.webp"
+        },
+        "Scrutinize": {
+            "wordRoot": "Scrutinize",
+            "wordDefinition": "Examine means to look at something carefully and in detail, while scrutinize means to examine something very closely and critically.\n\nScrutinize is typically used in situations where a closer inspection is required or where a critical eye is needed. For example, scrutinizing a contract before signing it, scrutinizing a political candidate's policies before voting for them, or scrutinizing a scientific study before drawing conclusions from it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53f17615-8dfe-4eba-9d1e-aef39e0ff54e.webp"
+        },
+        "Study": {
+            "wordRoot": "Study",
+            "wordDefinition": "Study means to spend time looking at and understanding something in depth.\n\nIt is often used when you want to gain a comprehensive understanding of a topic or subject. For example, you might study a particular piece of literature to understand broader themes and motifs?.\n\nExamine is more focused and narrow in scope, while study is more broad and comprehensive. Both words are applicable in a variety of situations, depending on what you are trying to achieve.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/033e8ac6-c19b-46dc-8157-2a309125faee.webp"
+        },
+        "Survey": {
+            "wordRoot": "Survey",
+            "wordDefinition": "Survey means to get a general idea of something- to look at it briefly in order to understand its shape, size, or layout.\n\nIt can also describe a process of asking people questions to gather information- like a survey that asks people for their opinions or preferences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a8e79ac-f73e-4d67-9757-3704e5b0c97a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " It may look like a lot of information, but there's a clear logical path to the solution. Solving the puzzle will be a lot like Sudoku, so you may find it helpful to organize your information in a grid, like this. Pause the video on the following screen to examine your clues and solve the riddle.",
+            "Title": "Can you solve...",
+            "VideoId": "1rDVz_Fb6HQ",
+            "Controls": "start=76"
+        },
+        {
+            "Text": " transforming what was once undrinkable into a life saver. Meanwhile in the medical world, blood tests are a vital tool for evaluating a person's health, but doctors typically can't examine blood samples until they've separated the solid blood cells from the liquid plasma they're dissolved in.",
+            "Title": "How do we separate the...",
+            "VideoId": "q8Ent5CXhfY",
+            "Controls": "start=123"
+        },
+        {
+            "Text": " by examining concepts like justice, truth and beauty. In the allegory, a group of prisoners have been confined in a cavern since birth, with no knowledge of the outside world. They are chained, facing a wall, unable to turn their heads, while a fire behind them gives off a faint light.",
+            "Title": "Plato’s Allegory of the...",
+            "VideoId": "1RWOpQXTltA",
+            "Controls": "start=49"
+        },
+        {
+            "Text": " That's ten thousand times more power than the planet's population uses. So is it possible that one day the world could be completely reliant on solar energy? To answer that question, we first need to examine how solar panels convert solar energy to electrical energy.",
+            "Title": "How do solar panels...",
+            "VideoId": "xKxrkht7CpY",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " this web and then goes into shock what happened one minute airborne the next minute fighting for your life now the spider examines its prey is there gloating going on here is the spider lording it over the bat herd just trying to figure out which part to eat first",
+            "Title": "Spider Kills Bat PIPE...",
+            "VideoId": "ZRQaCvCZeTo",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " There are many other people out there who can't stand this world of billionaires. Like, they are hugely offended by the notion that an individual can have the same wealth as, say, a billion or more of the world's poorest people. If they examine sort of --",
+            "Title": "Elon Musk: A future...",
+            "VideoId": "YRvf00NooN8",
+            "Controls": "start=3648"
+        },
+        {
+            "Text": " Let's return to the microraptor fossil. When scientists examined its feather imprints under a powerful microscope, they found nanostructures that look like melanosomes. X-ray analysis of the melanosomes further supported that theory.",
+            "Title": "How do we know what...",
+            "VideoId": "qYijAZWdnBk",
+            "Controls": "start=172"
+        },
+        {
+            "Text": " together some very young volunteers and secretly adored them with a spot of paint where's the mirror where's the mirror if they use the mirror to examine the spot they'll demonstrate that they understand that the image in the mirror",
+            "Title": "Incredible Orangutan...",
+            "VideoId": "lG491lUjDDQ",
+            "Controls": "start=505"
+        },
+        {
+            "Text": " compared their behavioral responses to the genetic profiles examining social and exploratory behavior plus their reactions to various unfamiliar situations provides deep clues into the behavioral tendencies of these potential",
+            "Title": "Finding landmines using...",
+            "VideoId": "fcLQQ9_OLfQ",
+            "Controls": "start=192"
+        },
+        {
+            "Text": " Natural gas is non-renewable, and the short-run economic interests supporting fracking may fall short in the face of global climate change. Experts are still examining fracking's overarching effects.",
+            "Title": "How does fracking work?...",
+            "VideoId": "Tudal_4x4F0",
+            "Controls": "start=296"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/garry-shandling.webp",
+            "Text": "That's what we were exploring on 'Larry Sanders' - the human qualities that have brought us to where we are now in the world: the addiction to needing more and wanting more and talking more. We were examining the labels put on success - is it successful to be on TV every day, to be famous, to have a paycheck?",
+            "Title": "American Comedian",
+            "Name": "Garry Shandling"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fred-frith.webp",
+            "Text": "There are always things to examine. What's great is not feeling that I have to refuse any of them. Maybe no good from a PR perspective, but from the point of view of everyday life, it keeps things interesting.",
+            "Title": "English Composer",
+            "Name": "Fred Frith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-lipton.webp",
+            "Text": "If I were to ask you for example right now to go back with me and define those moments in your life that shaped you as a person and you began to reexamine them, something would happen.",
+            "Title": "American Educator",
+            "Name": "James Lipton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jamie-cullum.webp",
+            "Text": "Having kids sets a bomb off in your life. It really makes you examine who you are, what you believe in and what you want to be. And that is magical for creativity.",
+            "Title": "English Musician",
+            "Name": "Jamie Cullum"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cher.webp",
+            "Text": "I can trust my friends These people force me to examine myself, encourage me to grow.",
+            "Title": "American Musician",
+            "Name": "Cher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-greenaway.webp",
+            "Text": "Cinema basically examines a personality first and the body afterward.",
+            "Title": "British Director",
+            "Name": "Peter Greenaway"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/angie-thomas.webp",
+            "Text": "Literature plays a huge role in examining difficult real-life issues.",
+            "Title": "American Author",
+            "Name": "Angie Thomas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-negron.webp",
+            "Text": "Everybody knows if you don't have an examined life, you go mad.",
+            "Title": "American Actor",
+            "Name": "Taylor Negron"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-whately.webp",
+            "Text": "To know your ruling passion, examine your castles in the air.",
+            "Title": "English Writer",
+            "Name": "Richard Whately"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/socrates.webp",
+            "Text": "The unexamined life is not worth living.",
+            "Title": "Greek Philosopher",
+            "Name": "Socrates"
+        }
+    ]
+}

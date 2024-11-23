@@ -1,0 +1,345 @@
+{
+    "currentWord": {
+        "wordRoot": "monitor",
+        "id": 10098,
+        "phonemic": "ˈmɒnɪtə(r)|ˈmɑːnɪtər\r",
+        "bigId": "4bf079be-d1c1-452a-a375-000dd0c6fc12",
+        "wordForms": [
+            "monitors",
+            "monitoring",
+            "monitored",
+            "monitor"
+        ]
+    },
+    "senses": [
+        {
+            "id": "4bf079be-d1c1-452a-a375-000dd0c6fc12",
+            "de": "A machine or device used to display, check, and keep track of something",
+            "ty": "noun",
+            "ex": "She checks her blood pressure daily using a monitor.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "computer monitor",
+                " heartbeat monitor",
+                " monitor screen"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4bf079be-d1c1-452a-a375-000dd0c6fc12.webp",
+            "Tips": [
+                {
+                    "title": "Not Just Computers",
+                    "description": "Monitor can refer to various tracking devices, not limited to computer screens.",
+                    "example": "The nurse attached a heart rate monitor to the patient.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7RIUBrz8BHUofMJ9sL51f1yS1Ds.webp"
+                },
+                {
+                    "title": "Usage Consistency",
+                    "description": "'Monitor' as a device is consistently used across different fields like medicine and technology.",
+                    "example": "Install a carbon monoxide monitor in your house for safety.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fdVTCbsa1r9BFXX4lNWLeFJK14.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7515b861-f766-4c36-96e6-9961cb9c631b",
+            "de": "To watch and check a situation carefully for a period of time in order to discover something about it",
+            "ty": "verb",
+            "ex": "The teacher monitors the students progress throughout the school year.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "monitor progress",
+                " monitor performance",
+                " monitor health"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7515b861-f766-4c36-96e6-9961cb9c631b.webp",
+            "Tips": [
+                {
+                    "title": "Continual Action",
+                    "description": "As a verb, 'monitor' implies ongoing observation, not just a one-time check.",
+                    "example": "We need to monitor the weather conditions before the hike.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0914399c-cac1-4224-98a4-c68aae498dfe",
+            "de": "A person who has the job of watching or noticing particular things",
+            "ty": "noun",
+            "ex": "She was appointed as the monitor for the class.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "classroom monitor",
+                " school monitor",
+                " monitor duties"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0914399c-cac1-4224-98a4-c68aae498dfe.webp",
+            "Tips": [
+                {
+                    "title": "Responsibility",
+                    "description": "A monitor as a person is often responsible for reporting any issues observed.",
+                    "example": "He is the safety monitor for our workshop.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d93ac599-5cf8-4c0d-900b-b0a467dc6a04",
+            "de": "The part of a computer that contains the screen where images and data are displayed",
+            "do": "computing",
+            "ty": "noun",
+            "ex": "My computer monitor stopped working.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flat-screen monitor",
+                " lcd monitor",
+                " desktop monitor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d93ac599-5cf8-4c0d-900b-b0a467dc6a04.webp",
+            "Tips": [
+                {
+                    "title": "Computing Specific",
+                    "description": "When used in computing, 'monitor' specifically refers to the part showing the display output.",
+                    "example": "My monitor displays in 4K resolution.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "87221b0b-21ef-435f-9152-a4c71b09c367",
+            "de": "A large reptile similar to a lizard",
+            "do": "biology",
+            "ty": "noun",
+            "ex": "The Komodo Dragon is a species of monitor lizard.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/87221b0b-21ef-435f-9152-a4c71b09c367.webp",
+            "Tips": [
+                {
+                    "title": "Biology Context",
+                    "description": "In biology, ‘monitor’ refers to a creature, not an electronic device.",
+                    "example": "We observed the monitor basking in the sun.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "bbc6c1a9-2fe3-4e67-bce7-0dbdf0f9c613",
+            "de": "A type of small warship",
+            "do": "military",
+            "ty": "noun",
+            "ex": "Monitors were used during the Civil War.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bbc6c1a9-2fe3-4e67-bce7-0dbdf0f9c613.webp",
+            "Tips": [
+                {
+                    "title": "Historic Use",
+                    "description": "The military use of 'monitor' is historical and may not be common in current contexts.",
+                    "example": "The old naval monitor was preserved as a museum piece.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Checker": {
+            "wordRoot": "Checker",
+            "wordDefinition": "A checker is someone who verifies or inspects for accuracy or completeness. This is often used in situations where something needs to be confirmed or verified, such as a test or an assignment.\n\nA checker is for verifying accuracy or completeness, while a monitor is for watching over a situation or activity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/607d8381-c25b-4c7c-80ad-4921fa72d3b3.webp"
+        },
+        "Controller": {
+            "wordRoot": "Controller",
+            "wordDefinition": "A controller is a device or person that manages or directs a system to achieve a particular goal or outcome. For example, a game controller directs the actions of a character in a game, while a traffic controller directs the movements of vehicles on a road.\n\nA controller is used to actively manage and direct a system, while a monitor is used to passively observe and detect changes in a system.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f9be612e-9a8f-4666-ba95-db6f2cc93689.webp"
+        },
+        "Inspector": {
+            "wordRoot": "Inspector",
+            "wordDefinition": "Inspector refers to someone who formally examines or assesses something or someone with the purpose of ensuring that certain standards or rules are being met.\n\nIn general, inspectors are associated with more formal and structured inspections while monitors tend to involve more ongoing and informal observation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8aff65b3-8e84-4021-9ecc-73902a43d346.webp"
+        },
+        "Observer": {
+            "wordRoot": "Observer",
+            "wordDefinition": "The words monitor and observer are similar in that they both involve watching or keeping track of something.\n\nHowever, monitor often implies an active process of checking or measuring something regularly, while observer more commonly refers to someone who watches or witnesses something without necessarily taking action.\n\nObserver is usually used in contexts where the focus is on watching or witnessing something, such as in sports, nature watching, or social interactions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d94a11a8-7a0b-4d1c-9748-846953bd6a12.webp"
+        },
+        "Recorder": {
+            "wordRoot": "Recorder",
+            "wordDefinition": "A recorder is a device used for capturing and storing information or data.\n\nIt is used to keep a record of an event or process. For example, a voice recorder is used to capture and store audio information.\n\nBoth monitors and recorders are applicable in various fields, including healthcare, security, and technology.\n\nA monitor is useful for keeping an eye on a situation, while a recorder is good for keeping a record of events.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/07ff3a7a-6491-46ad-aa81-d3c437cff97c.webp"
+        },
+        "Supervisor": {
+            "wordRoot": "Supervisor",
+            "wordDefinition": "A supervisor is someone who oversees a group of people or a process to make sure that everything is going according to plan.\n\nThey have the authority to make decisions and give instructions to the people they are supervising. For example, a supervisor at a factory would oversee the workers and make sure they are following the correct procedures to make the products.\n\nThe difference between a monitor and a supervisor is that a monitor watches to make sure things are happening correctly, while a supervisor is in charge and directs others to make sure things are happening correctly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/51f98a24-e5a7-467f-b939-ecdbdbf1fc23.webp"
+        },
+        "Surveyor": {
+            "wordRoot": "Surveyor",
+            "wordDefinition": "Surveyor refers to a person who inspects or examines land, buildings or other structures to determine their boundaries or quality.\n\nSurveyors use various tools to measure and map out the land. They are commonly used in construction, or to determine property boundaries when buying land, etc.\n\nA monitor checks things regularly and keeps an eye on them, while a surveyor is a professional who examines and maps out land or buildings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53305178-bcc6-4b4b-aece-382c32a264ac.webp"
+        },
+        "Tracker": {
+            "wordRoot": "Tracker",
+            "wordDefinition": "The word Tracker generally means actively following something, such as a movement or location. It is commonly used in the context of tracking devices that show the location of a person or object.\n\nA tracker is designed to actively take action based on the information it receives. For example, a GPS tracker can give directions to a lost person.\n\nA monitor observes and keeps track of something, while a tracker tracks and takes action based on what it observes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6f56b2cd-83a4-4341-8f3e-6c2d906071fe.webp"
+        },
+        "Watch": {
+            "wordRoot": "Watch",
+            "wordDefinition": "Both monitor and watch involve keeping an eye on something, but the difference between the two is the level of attention and the purpose.\n\nTo watch something means to observe it for a specific reason or objective, such as for safety or entertainment. For example, a lifeguard may watch a swimming pool to ensure nobody is in danger, while a person may watch a movie for enjoyment.\n\nIn summary, monitoring is a sustained and careful observation in order to track progress, while watching is a focused observation for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b3439fce-0379-4f6d-823d-5f84ac49bf71.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " you make a flower and I said yeah sure I don't know how but I will and I found that it was like a tennis ball and I covered it in a t-shirt and I put a spring in its mouth and I just did that so I did that you know I I did this and I I started practicing on on a monitor in my room I would just constantly do this with the puppets and learn how they did it I sent in a tape and I got on",
+            "Title": "Life lessons from a...",
+            "VideoId": "DKgzMjgbUbU",
+            "Controls": "start=219"
+        },
+        {
+            "Text": " in order to lower it as quickly as possible. After any athletic or protective gear has been removed from the victim, place them in an ice water tub while stirring the water and monitoring vitals continuously. If this is not possible, dousing in ice water and applying wet towels over the entire body can help.",
+            "Title": "What happens when you...",
+            "VideoId": "PpHM4DfPZQU",
+            "Controls": "start=151"
+        },
+        {
+            "Text": " in understanding how our brains work by monitoring them in real time with instruments like fMRI and PET scanners. When people are hooked up to these machines, tasks, such as reading or doing math problems, each have corresponding areas of the brain where activity can be observed.",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=33"
+        },
+        {
+            "Text": " processed it, and put that plasma back in people to protect them. But that was never tried. So there was a lot that was missing. And these things are really a global failure. The WHO is funded to monitor epidemics, but not to do these things I talked about.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " we have also deliberately brought our plants and animals along, rarely considering the consequences. But now that we're learning more about the effects of invasive species on ecosystems, many governments closely monitor the transport of plants and animals,",
+            "Title": "The threat of invasive...",
+            "VideoId": "spTWwqVP_2s",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " blood-pressure and breathing monitors, voice-stress analyzers, eye trackers, infrared brain scanners, and even the 400-pound electroencephalogram. But although such tools have worked under certain circumstances, most can be fooled with enough preparation,",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=30"
+        },
+        {
+            "Text": " mostly monitor and investigate violations, but they cannot force states to, say, change a policy or compensate a victim. That's why some critics say it's naive to consider human rights a given in a world where state interests wield so much power.",
+            "Title": "What are the universal...",
+            "VideoId": "nDgIVseTkuE",
+            "Controls": "start=178"
+        },
+        {
+            "Text": " can imagine how the croc might protect the dicker but what can a bird do for the croc this hungry monitor lizard hunting for crocodile eggs is about to find out the monitor lizard knows it's near what at once but on water nickim",
+            "Title": "Monitor Lizard vs. Croc...",
+            "VideoId": "-fqvw3lApC8",
+            "Controls": "start=14"
+        },
+        {
+            "Text": " a good night's sleep. Sleep is composed of four stages, the deepest of which are known as slow-wave sleep and rapid eye movement. EEG machines monitoring people during these stages have shown electrical impulses",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=227"
+        },
+        {
+            "Text": " a chunk of meat to an underwater camera with the underwater camera wired to a monitor on the boat charlie can get an otter's eye view of the murky world beneath him",
+            "Title": "Vicious Piranha Moments...",
+            "VideoId": "fHrM6vr-Cfk",
+            "Controls": "start=493"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kristin-cavallari.webp",
+            "Text": "I just want to raise a confident girl. I just want her to know that she doesn't need to be sending naked pictures and doing all that stuff - I'm definitely going to monitor everything. I want to raise her to know that she can go do whatever she wants in life and to be comfortable in her own skin, which I think also just comes with age and time.",
+            "Title": "American Actress",
+            "Name": "Kristin Cavallari"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vinnie-paul.webp",
+            "Text": "I don't ever have any bass in my monitors at all; I instead like to lock in with the guitar. I know the bass player has got to be locked in with the drummer, but to me, metal music is about the guitar and drums locking in and operating like a machine together. I played with my brother forever, and we were magically locked in together.",
+            "Title": "American Musician",
+            "Name": "Vinnie Paul"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adam-curtis.webp",
+            "Text": "Throughout the western world, new systems have risen up whose job is to constantly record and monitor the present - and then compare that to the recorded past. The aim is to discover patterns, coincidences and correlations, and from that, find ways of stopping change. Keeping things the same.",
+            "Title": "British Director",
+            "Name": "Adam Curtis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-thaler.webp",
+            "Text": "The ability of businesses to monitor our behavior is already a fact of life, and it isn't going away. Of course we must protect our privacy rights. But if we're smart, we'll also use the data that is being collected to improve our own lives.",
+            "Title": "American Economist",
+            "Name": "Richard Thaler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andrew-adonis-baron-adonis.webp",
+            "Text": "Tests account for only a couple of hours within the six years of a child's primary education, but parents expect to know how their children are doing and the government has a responsibility to monitor and control standards.",
+            "Title": "British Politician",
+            "Name": "Andrew Adonis, Baron Adonis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amala-akkineni.webp",
+            "Text": "Filmmaking these days is so technically advanced. When I started off, we had to wait for two to three months to see the rushes. But now you can see every scene on the monitor and you can see your work immediately.",
+            "Title": "Indian Actress",
+            "Name": "Amala Akkineni"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erik-brynjolfsson.webp",
+            "Text": "We're rapidly entering a world where everything can be monitored and measured. But the big problem is going to be the ability of humans to use, analyze and make sense of the data.",
+            "Title": "American Educator",
+            "Name": "Erik Brynjolfsson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-diamandis.webp",
+            "Text": "The constant monitoring of our emotional landscape and personal interactions is a bizarre concept. But it is one that could help many people.",
+            "Title": "American Businessman",
+            "Name": "Peter Diamandis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/garry-trudeau.webp",
+            "Text": "I'm still passionately interested in what my fellow humans are up to. For me, a day spent monitoring the passing parade is a day well-spent.",
+            "Title": "American Cartoonist",
+            "Name": "Garry Trudeau"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vivek-wadhwa.webp",
+            "Text": "You may not believe in anything called a work-life balance, but your body certainly does. You need to monitor and nurture your body.",
+            "Title": "Indian Businessman",
+            "Name": "Vivek Wadhwa"
+        }
+    ]
+}

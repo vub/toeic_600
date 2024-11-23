@@ -1,0 +1,293 @@
+{
+    "currentWord": {
+        "wordRoot": "initiative",
+        "id": 10543,
+        "phonemic": "ɪˈnɪʃətɪv|ɪˈnɪʃətɪv\r",
+        "bigId": "a2dfeada-9ea4-4ca8-8c08-5c54278d355d",
+        "wordForms": [
+            "initiatives",
+            "initiative"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a2dfeada-9ea4-4ca8-8c08-5c54278d355d",
+            "de": "The ability to identify tasks that need to be accomplished and make a decision to go ahead with them without being told by others.",
+            "ty": "noun",
+            "ex": "She showed great initiative when she started the new project on her own.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "show initiative",
+                "take the initiative",
+                "use your initiative"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a2dfeada-9ea4-4ca8-8c08-5c54278d355d.webp",
+            "Tips": [
+                {
+                    "title": "Self-starting Quality",
+                    "description": "Describes someone who begins work or tasks without prompting.",
+                    "example": "He takes initiative by volunteering for assignments before anyone asks.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1usbBAUyNqqWM7Rj1zSGLfXE.webp"
+                },
+                {
+                    "title": "Positive Trait",
+                    "description": "Often seen as a leadership quality and highly valued by employers.",
+                    "example": "Her initiative in streamlining the process impressed her superiors.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0vXNf267tIWqojo96ug9EfyRHzs.webp"
+                },
+                {
+                    "title": "Autonomous Action",
+                    "description": "Acting on one's own volition without waiting for direction.",
+                    "example": "Taking initiative, he resolved the customer's complaint immediately.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/YeeL0CmNnCiQ3223y8fzbSpP5Y.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e9cfddff-42a5-4017-9213-69d3f3c54be6",
+            "de": "A new plan or process to achieve something or solve a problem.",
+            "ty": "noun",
+            "ex": "The government's new initiative to reduce plastic waste has been welcomed by environmentalists.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "government initiative",
+                "new initiative",
+                "launch an initiative"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e9cfddff-42a5-4017-9213-69d3f3c54be6.webp",
+            "Tips": [
+                {
+                    "title": "Objective-oriented",
+                    "description": "Refers specifically to strategies designed to meet a goal.",
+                    "example": "Their initiative targeted childhood obesity reduction.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Problem-solving Method",
+                    "description": "Implies a response to a challenge or an issue that needs addressing.",
+                    "example": "The recycling initiative dealt with the city's waste management crisis.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Action Plan",
+                    "description": "A set of actions with intended results, often formal or official.",
+                    "example": "The mayor announced a new initiative to improve public transportation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b325ed96-ff41-42d7-b863-68e891563170",
+            "de": "The right or ability to introduce new laws or changes in a political context.",
+            "do": "Politics",
+            "ty": "noun",
+            "ex": "Voters will decide the outcome of the tax initiative in November.",
+            "use": "",
+            "co": "Academic",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "tax initiative",
+                " voter initiative",
+                " ballot initiative"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b325ed96-ff41-42d7-b863-68e891563170.webp",
+            "Tips": [
+                {
+                    "title": "Legislative Power",
+                    "description": "Gives citizens the ability to propose and vote on laws directly.",
+                    "example": "The clean air initiative will appear on the next ballot.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Democratic Process",
+                    "description": "Enables public participation in governmental decision-making.",
+                    "example": "Through a voter initiative, residents could push for new parks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Civil Engagement",
+                    "description": "Highlights community involvement in political processes.",
+                    "example": "The community's initiative helped change local zoning laws.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Creativity": {
+            "wordRoot": "Creativity",
+            "wordDefinition": "Creativity refers to the ability to come up with new and original ideas, concepts or solutions, while initiative is the willingness to take action and be proactive in pursuing a goal or objective.\n\nCreativity is more applicable in areas that require innovative thinking such as art, design, and problem-solving. Initiative is more applicable in areas that require action such as leadership positions, entrepreneurship, and community involvement.\n\nCreativity is about coming up with new ideas while initiative is about taking action to implement those ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2342af3f-11be-4f1c-826e-ddcdfab31f20.webp"
+        },
+        "Drive": {
+            "wordRoot": "Drive",
+            "wordDefinition": "Drive refers to a person's motivation and determination to achieve a goal. It is the force that pushes you towards success, while initiative is the first step or action taken to start a task, project or activity.\n\nFor example, if you have a drive to succeed in your studies, you will work hard, set goals, and take actions to achieve those goals.\n\nDrive is a person's motivation and determination towards achieving a goal, while initiative is taking the first step or action to start a task or project.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d7645102-1fc9-4211-b776-4a79dfea172c.webp"
+        },
+        "Enterprise": {
+            "wordRoot": "Enterprise",
+            "wordDefinition": "Enterprise refers to a large and organized business, typically with many employees and resources. It is applicable when referring to a company or corporation.\n\nFor example, \"Apple is a large enterprise that produces computers and phones.\"\n\nEnterprise refers to a large business, while initiative refers to taking action to start something new.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/82664114-bd70-4be7-b5de-27ff0345d692.webp"
+        },
+        "Ingenuity": {
+            "wordRoot": "Ingenuity",
+            "wordDefinition": "Ingenuity refers to the ability to think creatively and come up with clever solutions to problems. It usually involves using creativity and intelligence to solve complex problems.\n\nIngenuity is applicable in situations where there are technical or complex issues that need to be solved.\n\nIngenuity is about coming up with ideas and solutions while initiative is about taking action towards those solutions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/92a0c9ca-0b9c-4aaa-b1a6-0f869d270134.webp"
+        },
+        "Inventive": {
+            "wordRoot": "Inventive",
+            "wordDefinition": "Inventive refers to the ability to create or produce something new or original. This involves using creativity and imagination to come up with innovative ideas and solutions.\n\nInventiveness is useful in situations where someone needs to come up with new ideas or solutions to problems.\n\nFor example, someone with initiative might take the initiative to organize a school fundraiser without being asked, while someone who is inventive might come up with a new and creative way to raise money that nobody else has thought of before.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/58984e06-c336-4817-a30b-0b7d838c9a91.webp"
+        },
+        "Leadership": {
+            "wordRoot": "Leadership",
+            "wordDefinition": "Leadership is the ability to guide and motivate a group of people towards a common goal. It involves setting a direction, inspiring others, and coordinating efforts to achieve objectives.\n\nWhile initiative is applicable in a wide range of situations, leadership is specifically associated with guiding a group or organization.\n\nInitiative is about taking the first step, whereas leadership is about taking responsibility for the direction and success of a collective effort.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c88a2962-bc7b-4032-9529-113f64d862e5.webp"
+        },
+        "Originality": {
+            "wordRoot": "Originality",
+            "wordDefinition": "Initiative means taking action without being told or asked to, while originality means having new or creative ideas that are unique and not copied from others.\n\nOriginality is applicable in situations where one needs to come up with new ideas, concepts or solutions. It refers to creativity and imagination, and encourages people to think outside the box and bring fresh perspectives to the table.\n\nIn essence, initiative is about taking action while originality is about generating new and innovative ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3de1e577-d3dd-4032-88e9-9f563d71a157.webp"
+        },
+        "Resourceful": {
+            "wordRoot": "Resourceful",
+            "wordDefinition": "Resourceful refers to the ability to find solutions and be creative in solving problems, using whatever resources are available.\n\nBoth initiative and resourcefulness are important qualities to have, but they are applicable in different situations. Initiative is useful in situations where someone needs to take charge and be a leader, while resourcefulness is useful in situations where someone needs to come up with creative solutions to problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/07a6c3e3-04ce-40be-b318-449c1c5de964.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " get this collaboration with the snyder trust because they're protecting this environment which to me is amazing because in all conservation agreements and most conservation um initiatives there's always some kind of sacrifice but here there's no sacrifice whatsoever because these women who wouldn't typically be making their own income here now have",
+            "Title": "Snow Leopards: Ghosts in...",
+            "VideoId": "NXKzAJjeWB0",
+            "Controls": "start=522"
+        },
+        {
+            "Text": " Most societies throughout history employed some strategies to help people in poverty meet basic needs. Before the 20th century, religious groups and private charities often led such initiatives. Today, these are called welfare programs, and they usually take the form of government-provided subsidies",
+            "Title": "Why is it so hard to...",
+            "VideoId": "D9N7QaIOkG8",
+            "Controls": "start=73"
+        },
+        {
+            "Text": " There were many problems with this line of thinking, among them the idea that intelligence was not only fixed and inherited, but also linked to a person’s race. Under the influence of eugenics, scientists used the results of the military initiative to make erroneous claims that certain racial groups",
+            "Title": "The dark history of IQ...",
+            "VideoId": "W2bKaw2AJxs",
+            "Controls": "start=132"
+        },
+        {
+            "Text": " from breeding a given pairing. Since then, numerous breeding initiatives have made chickens bigger and meatier, and allowed them to lay more eggs than ever. Meanwhile, chicken production has shifted to an industrial, factory-like model, with birds raised in spaces with a footprint",
+            "Title": "History through the eyes...",
+            "VideoId": "KsuesiVJgtI",
+            "Controls": "start=240"
+        },
+        {
+            "Text": " As demand for those stocks increases, so does their price, increasing the cost for prospective buyers, and raising the value of the company's stocks people already own. For the company, this increased interest helps fund new initiatives, and also boosts its overall market value",
+            "Title": "How does the stock...",
+            "VideoId": "p7HKvqRI_Bo",
+            "Controls": "start=109"
+        },
+        {
+            "Text": " film and you can go to the website and see mission blue and you know sign in we have more than a hundred partners around the world who are lending their voices and their power to help with this initiative to take care of the blue and that's what's the film is about it it's",
+            "Title": "Taking care of the ocean...",
+            "VideoId": "4l3-uT9wZ_I",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " some of you are here in the audience -- pumping big money into decarceration initiatives In a deeply divided Congress, the work of reforming our criminal justice system is just about the only thing that the right and the left are coming together on.",
+            "Title": "Alice Goffman: How we're...",
+            "VideoId": "-2Dj9M71JAc",
+            "Controls": "start=858"
+        },
+        {
+            "Text": " Class sizes are smaller than in many countries. And there are hundreds of initiatives every year to try and improve education. The trouble is, it's all going in the wrong direction. There are three principles on which human life flourishes,",
+            "Title": "How to escape...",
+            "VideoId": "wX78iKhInsc",
+            "Controls": "start=180"
+        },
+        {
+            "Text": " citizen science outreach initiative and so the me or mites project is an extension of your wildlife this project is really unique in the fact that we get to engage the participants personally so they get to learn about their mites",
+            "Title": "Are Mites Having Sex on...",
+            "VideoId": "KHDDCySUCIk",
+            "Controls": "start=69"
+        },
+        {
+            "Text": " That's why TED's youth and education initiative, TED-Ed, has created a program that's dedicated to sparking and celebrating the best ideas of young people around the world.",
+            "Title": "TED-Ed Clubs:...",
+            "VideoId": "U2PG_R4wl-0",
+            "Controls": "start=36"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jameela-jamil.webp",
+            "Text": "So many people are campaigning, fighting, and even dying to make a statement in the name of humanity. These people have no voice that can be heard by many. I wish more celebrities would take the initiative to be that voice.",
+            "Title": "English Celebrity",
+            "Name": "Jameela Jamil"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-covey.webp",
+            "Text": "There is a heavy emphasis in Mormonism on initiative, on responsibility, on a work ethic, and on education. If you take those elements together with a free-enterprise system, you've got the chemistry for a lot of industry.",
+            "Title": "American Educator",
+            "Name": "Stephen Covey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ivanka-trump.webp",
+            "Text": "We launched our #WomenWhoWork initiative to show the world what today's modern, professional women really look like. They're invested in their careers, but they're also passionate about priorities outside the office.",
+            "Title": "American Businesswoman",
+            "Name": "Ivanka Trump"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/isabelle-adjani.webp",
+            "Text": "I'm a public figure. It's up to me to take the initiative to explain things. It's my responsibility.",
+            "Title": "French Actress",
+            "Name": "Isabelle Adjani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harry-browne.webp",
+            "Text": "The important thing is to concentrate upon what you can do - by yourself, upon your own initiative.",
+            "Title": "American Writer",
+            "Name": "Harry Browne"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jesse-jackson.webp",
+            "Text": "Time is neutral and does not change things. With courage and initiative, leaders change things.",
+            "Title": "American Activist",
+            "Name": "Jesse Jackson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gale-norton.webp",
+            "Text": "Local innovation and initiative can help us better understand how to protect our environment.",
+            "Title": "American Public Servant",
+            "Name": "Gale Norton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-j-h-boetcker.webp",
+            "Text": "You cannot build character and courage by destroying men's initiative and independence.",
+            "Title": "American Clergyman",
+            "Name": "William J. H. Boetcker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dave-heineman.webp",
+            "Text": "Economic growth is the most important initiative every governor faces.",
+            "Title": "American Politician",
+            "Name": "Dave Heineman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emmanuel-macron.webp",
+            "Text": "Believe in individual initiatives, in courage, in risk.",
+            "Title": "French Politician",
+            "Name": "Emmanuel Macron"
+        }
+    ]
+}

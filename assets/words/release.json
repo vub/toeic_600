@@ -1,0 +1,326 @@
+{
+    "currentWord": {
+        "wordRoot": "release",
+        "id": 18304,
+        "phonemic": "rɪˈliːs|rɪˈliːs\r",
+        "bigId": "77a54256-5d44-4b66-a83d-8a62f107edaa",
+        "wordForms": [
+            "releases",
+            "releasing",
+            "released",
+            "unreleased",
+            "rerelease",
+            "release"
+        ]
+    },
+    "senses": [
+        {
+            "id": "77a54256-5d44-4b66-a83d-8a62f107edaa",
+            "de": "to give freedom or allow to go",
+            "ty": "verb",
+            "ex": "The police officer had to release the arrested man because there was not enough proof against him.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "release the prisoners",
+                " release the birds",
+                " release him"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/77a54256-5d44-4b66-a83d-8a62f107edaa.webp",
+            "Tips": [
+                {
+                    "title": "Legal Context",
+                    "description": "Often used in legal situations when someone is set free.",
+                    "example": "After the hearing, the suspect was released on bail.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vADQULFZv9HMQJRQgggoln4FEVs.webp"
+                },
+                {
+                    "title": "Not Always Permanent",
+                    "description": "Release can be temporary, not necessarily a final action.",
+                    "example": "The journalist was released after questioning but remains under investigation.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/orUup9TzpZ991Qu1dhiM8mtt74.webp"
+                },
+                {
+                    "title": "Conditional Freedom",
+                    "description": "Release may come with conditions that limit one's actions.",
+                    "example": "He was released from jail on the condition that he would appear in court.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NAHhky9p7GyvrqX1jRoiWHoQU.webp"
+                }
+            ]
+        },
+        {
+            "id": "312f58cd-c88e-4fd3-9b67-6e00298c28dc",
+            "de": "to make something available to the public",
+            "ty": "verb",
+            "ex": "The band is expected to release their new album next month.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "release an album",
+                " release a film",
+                " release a product"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/312f58cd-c88e-4fd3-9b67-6e00298c28dc.webp",
+            "Tips": [
+                {
+                    "title": "Anticipation & Excitement",
+                    "description": "Often signifies excitement around a new product or artwork.",
+                    "example": "Fans lined up for the midnight release of the video game.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Marketing Buzz",
+                    "description": "Companies create buzz around a product by announcing its release.",
+                    "example": "The company teased the release of their new smartphone on social media.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Exclusive Release",
+                    "description": "Sometimes releases are limited or exclusive to generate more interest.",
+                    "example": "The designer announced an exclusive release of her new collection for VIP clients.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8d9f45ee-ab46-43a7-b8f0-87b4538df78d",
+            "de": "the act of making something available to the public",
+            "do": "media",
+            "ty": "noun",
+            "ex": "The latest movie release attracted a huge audience.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "new release",
+                " movie release",
+                " album release"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8d9f45ee-ab46-43a7-b8f0-87b4538df78d.webp",
+            "Tips": [
+                {
+                    "title": "Entertainment Industry",
+                    "description": "Commonly used to talk about movies, music, games availability.",
+                    "example": "The film's release was postponed due to unforeseen circumstances.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Release Date Importance",
+                    "description": "The release date can impact success, with holidays and weekends being prime.",
+                    "example": "The studio strategically scheduled the release for the Christmas season.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a7949d3d-cd5f-49e0-ab7f-163b66aa07a0",
+            "de": "to allow or cause something to escape",
+            "ty": "verb",
+            "ex": "Heat is released into the atmosphere through the process of radiation.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "release heat",
+                " release energy",
+                " release carbon dioxide"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a7949d3d-cd5f-49e0-ab7f-163b66aa07a0.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Use",
+                    "description": "Commonly appears in scientific and environmental contexts.",
+                    "example": "The factory was fined for the illegal release of toxins into the river.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Health and Safety",
+                    "description": "Can indicate the danger when harmful substances are involved.",
+                    "example": "Emergency services responded to the release of chlorine gas from the plant.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Announce": {
+            "wordRoot": "Announce",
+            "wordDefinition": "Announce means to make known or to declare something to the public.\n\nIn simpler terms, announce is telling people about something new, while release is making that new thing available for people to use or buy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b43be83-7ab9-4e9e-8121-b5761b16feab.webp"
+        },
+        "Deliver": {
+            "wordRoot": "Deliver",
+            "wordDefinition": "Deliver means to bring something to a person or place, while release means to set something free or let it go.\n\nFor example, you deliver a package to someone's doorstep, and you release a bird from a cage to let it fly away.\n\nDeliver is often used in the context of transportation or sending something to a specific destination, such as delivering a pizza to someone's home.\n\nTo simplify it, deliver means to bring something to someone or somewhere, while release means to set something free or let it go.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af460534-3278-47eb-afbd-fa9a61532406.webp"
+        },
+        "Discharge": {
+            "wordRoot": "Discharge",
+            "wordDefinition": "Discharge refers to the act of letting out something, such as a liquid, gas, or substance, from a container or a location, like a hospital or military service.\n\nFor example, a patient may be discharged from a hospital once they have recovered.\n\nDischarge is more commonly used in medical or military contexts, while release is more commonly used in everyday situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed651d4c-15e0-4894-9bef-e6e82bf9f44f.webp"
+        },
+        "Emit": {
+            "wordRoot": "Emit",
+            "wordDefinition": "emit and release are both verbs that relate to the act of letting something out or giving off.\n\nEmit is generally used when talking about things that are given off from a particular source or object, such as light or sound.\n\nFor example, when a light bulb emits light, it means that it is producing or giving off light.\n\nTo summarize, emit describes the act of giving off from a particular source or object, whereas release is used when describing the act of setting something free or letting it go from a confinement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3c68f318-5728-4666-9802-090d733d8ca3.webp"
+        },
+        "Exempt": {
+            "wordRoot": "Exempt",
+            "wordDefinition": "Exempt means to be excused or excluded from something. For example, if you are exempt from paying a certain fee, it means you do not have to pay that fee.\n\nExempt is applicable when you want to indicate that someone is excluded from something, while release is applicable when you want to indicate freedom or liberation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8bf49db3-6798-447f-8bc8-15008089ba8b.webp"
+        },
+        "Free": {
+            "wordRoot": "Free",
+            "wordDefinition": "Free typically means that something is available without any cost or fee. For example, a person can get a free candy from a vending machine.\n\nFree refers to something being available without cost, while release refers to making something available that was previously held or kept back.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dc6768d4-b432-4745-9a07-8367d471acb5.webp"
+        },
+        "Liberate": {
+            "wordRoot": "Liberate",
+            "wordDefinition": "Liberate means to set someone or something free from imprisonment, slavery, or oppression.\n\nIt is typically used in situations where someone is being held against their will. For example, the soldiers worked hard to liberate the prisoners from the enemy's camp.\n\nLiberate is used for freeing someone or something from captivity or oppression, while release is used in a broader sense of making something available or setting something free.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e2f174f6-cfe9-4077-9ff8-a2588c8a91dd.webp"
+        },
+        "Publish": {
+            "wordRoot": "Publish",
+            "wordDefinition": "Publish generally refers to making something available to the public, such as a book, article, or website. It involves distributing or displaying the content for others to access.\n\nWhile there may be some overlap between the two, the use of publish is typically more common in contexts related to written or electronic content, while release is often used in the context of physical products or media.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/64f0a04d-f594-4ccf-93a9-fe92e210aeee.webp"
+        },
+        "Unleash": {
+            "wordRoot": "Unleash",
+            "wordDefinition": "Unleash means to set something free but with more power, energy or intensity. It implies a sudden or forceful release, like unleashing a dog from its leash, or unleashing a storm.\n\nIt can also be used to refer to emotions or actions, like unleashing your creativity or unleashing your potential.\n\nRelease is used for a gentler or controlled release, while unleash is used for a more forceful, powerful or intense release.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e2684341-6cf0-4d6e-b439-ea396aa9e388.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " your pupils dilate, and your body releases glucose for additional energy, not because you're in danger but because your body is telling you that something important is happening. To help you focus, norepinephrine creates a sort of tunnel vision, blocking out surrounding distractions,",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " can stimulate brain cells to release mood-altering norepinephrine, dopamine, and serotonin. But getting to your brain cells is tricky, and amino acids have to compete for limited access. A diet with a range of foods helps maintain a balanced combination of brain messengers,",
+            "Title": "How the food you eat...",
+            "VideoId": "xyQY8a-ng6g",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " are digested easily, quickly releasing a whole bunch of glucose into your blood, exactly what would happen if you drank something high in glucose, like soda. These foods have a high glycemic index, the amount that a particular food raises the sugar level in your blood.",
+            "Title": "How do carbohydrates...",
+            "VideoId": "wxzc_2c6GMg",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " Neurons in your brain have receptors perfectly tailored to this molecule. When adenosine docks to these receptors, it activates a cascade of biochemical reactions that cause neurons to fire more sluggishly and slow the release of important brain-signaling molecules.",
+            "Title": "How does caffeine keep...",
+            "VideoId": "foLf5Bi9qXs",
+            "Controls": "start=90"
+        },
+        {
+            "Text": " Sugar also causes dopamine to be released, though not as violently as drugs. And sugar is rare among dopamine-inducing foods. Broccoli, for example, has no effect, which probably explains why it's so hard to get kids to eat their veggies. Speaking of healthy foods,",
+            "Title": "How sugar affects the...",
+            "VideoId": "lEXBxijQREo",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " against global warming are protected, and we are not releasing that carbon bomb into the atmosphere. And we need to all gather together and say no to the tar sands. And we can do that. there is a huge network all over the world, fighting to stop this project.",
+            "Title": "Garth Lenz: The true...",
+            "VideoId": "h9SKyrHRhDo",
+            "Controls": "start=930"
+        },
+        {
+            "Text": " live like wild ferrets if they make the grade they'll go back to the wild at one of the release sites program leader paul marinari has a series of outdoor pens where the kits and their mums can learn the basics of life in the wild",
+            "Title": "Baby Ferret Training...",
+            "VideoId": "sGVQe4Eb4RY",
+            "Controls": "start=21"
+        },
+        {
+            "Text": " I've seen these fish have a very delicate skin no scales and they have a slime layer that protects them from infection we're tagging and releasing these fish to learn about their behavior so this fat fish has an individual",
+            "Title": "River Catfish Release PIPE...",
+            "VideoId": "TFOPGg2YHAQ",
+            "Controls": "start=50"
+        },
+        {
+            "Text": " as visceral or deep belly fat. This type of fat doesn't just make it harder to button your pants. It is an organ that actively releases hormones and immune system chemicals called cytokines",
+            "Title": "How stress affects your...",
+            "VideoId": "v-t1Z5-oPtU",
+            "Controls": "start=155"
+        },
+        {
+            "Text": " forgiveness releases us forgiveness doesn't delete the past forgiveness enriches the future forgiveness doesn't mean that you give up your boundaries or",
+            "Title": "What forgiveness can...",
+            "VideoId": "TEfxPpnMuNQ",
+            "Controls": "start=686"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/felicity-kendal.webp",
+            "Text": "I don't think I've ever not had a dark side. But one of the wonderful reasons why you go into this business is that half your life you live in a fantasy, which is somebody else's life. It's actually a great release because you're not having to deal with the itty-bitty bits of life.",
+            "Title": "English Actress",
+            "Name": "Felicity Kendal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-systrom.webp",
+            "Text": "I actually think some of my best moments in life have been while I was with people from Instagram - whether it's super late nights getting a release out or being able to travel to places I'd never visited and meeting some of the most interesting people I've ever met.",
+            "Title": "American Businessman",
+            "Name": "Kevin Systrom"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/isaac-wright-jr.webp",
+            "Text": "You know, one of the disappointments about - for me, personally about being released - is that I left thousands of people behind. Now that 'For Life' is here, and here for everyone, it gives me the ability to touch millions at the same time.",
+            "Title": "",
+            "Name": "Isaac Wright Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-lucas.webp",
+            "Text": "Changes are not unusual - I mean, most movies, when they release them, they make changes. But somehow, when I make the slightest change, everybody thinks it's the end of the world.",
+            "Title": "American Director",
+            "Name": "George Lucas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zacky-vengeance.webp",
+            "Text": "We wanna be on the frontlines of everything new and exciting. The old world order of putting out four singles before you release an album is so boring to us.",
+            "Title": "American Musician",
+            "Name": "Zacky Vengeance"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-frey.webp",
+            "Text": "I'm just going to write my books and do my work and release it. Let the world decide what it is, and if it's any good or not.",
+            "Title": "American Writer",
+            "Name": "James Frey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wayne-dyer.webp",
+            "Text": "You leave old habits behind by starting out with the thought, 'I release the need for this in my life'.",
+            "Title": "American Psychologist",
+            "Name": "Wayne Dyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/heston-blumenthal.webp",
+            "Text": "You know how sad your life is when you know the release date of DVDs.",
+            "Title": "English Chef",
+            "Name": "Heston Blumenthal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/prosenjit-chatterjee.webp",
+            "Text": "I think, it's important to understand how to release a film.",
+            "Title": "Indian Actor",
+            "Name": "Prosenjit Chatterjee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bruce-springsteen.webp",
+            "Text": "The release date is just one day, but the record is forever.",
+            "Title": "American Musician",
+            "Name": "Bruce Springsteen"
+        }
+    ]
+}

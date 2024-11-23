@@ -1,0 +1,142 @@
+{
+    "currentWord": {
+        "wordRoot": "follow up",
+        "id": 37545,
+        "phonemic": "ˈfɒləʊ ʌp|ˈfɒləʊ ʌp",
+        "bigId": "b5465d5b-1bf3-487a-8eb2-d66392716fd1",
+        "wordForms": [
+            "follow up"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b5465d5b-1bf3-487a-8eb2-d66392716fd1",
+            "de": "To take additional steps or to continue a process after an event or situation.",
+            "ty": "verb",
+            "ex": "She will follow up the meeting with a detailed report.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "follow up with",
+                " follow up on",
+                " follow up about"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b5465d5b-1bf3-487a-8eb2-d66392716fd1.webp",
+            "Tips": [
+                {
+                    "title": "Continued Interest",
+                    "description": "Use 'follow up' to show you're keeping engaged or interested in the topic or task.",
+                    "example": "After our conversation, I'll follow up with an email.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xHYCDtR5DsAqnYgNjM2ZMWGEWy0.webp"
+                },
+                {
+                    "title": "Action Oriented",
+                    "description": "'Follow up' implies you're moving forward with steps towards a goal.",
+                    "example": "Let's follow up next week to see if our strategy worked.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JzXO713b96ERuV1LQS8iMytIlMw.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "2f05a7be-0739-44ad-932c-a3c4ba57c5da",
+            "de": "An action or thing that continues something that has already been started or that comes after something else that you have done.",
+            "ty": "noun",
+            "ex": "The doctor will give you a follow-up appointment next week.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "follow-up call",
+                " follow-up email",
+                " follow-up appointment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2f05a7be-0739-44ad-932c-a3c4ba57c5da.webp",
+            "Tips": [
+                {
+                    "title": "Sequential Process",
+                    "description": "A 'follow-up' often comes after an initial action or meeting.",
+                    "example": "The interview went well, my follow-up is scheduled for Monday.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reminder",
+                    "description": "Use 'follow-up' to gently remind someone about a shared matter.",
+                    "example": "I'm sending a follow-up message about our pending deal.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "aa5564e6-cbe9-4da6-b8a1-c66f6b4b50ec",
+            "de": "To check or investigate the current situation or the outcomes after an event, usually to see if further action is needed.",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The doctor will follow up the patient after the surgery to check his recovery.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "follow up treatment",
+                " follow up patient",
+                " follow up test"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/aa5564e6-cbe9-4da6-b8a1-c66f6b4b50ec.webp",
+            "Tips": [
+                {
+                    "title": "Care and Attention",
+                    "description": "In medical contexts, 'follow up' shows ongoing care for a patient's condition.",
+                    "example": "Your follow-up treatment starts in two weeks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Assess Progress",
+                    "description": "Use 'follow up' to check on progress after an initial event or treatment.",
+                    "example": "We'll follow up next month to review your recovery.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5da572a1-ecb2-4eac-a8cc-3ff735818c4f",
+            "de": "To take additional action about something, often in order to be sure that it is successful.",
+            "do": "Business",
+            "ty": "verb",
+            "ex": "We need to follow up the sales presentation with a client meeting.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "follow up business",
+                " follow up presentation",
+                " follow up opportunity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5da572a1-ecb2-4eac-a8cc-3ff735818c4f.webp",
+            "Tips": [
+                {
+                    "title": "Ensure Success",
+                    "description": "In business, 'follow up' is about making sure things are moving forward and succeeding.",
+                    "example": "After you submit the proposal, follow up with a call.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Show Initiative",
+                    "description": "Following up shows that you take initiative and are proactive in business situations.",
+                    "example": "I'll follow up with the team to expedite the project's timeline.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {},
+    "videos": [],
+    "quotes": []
+}

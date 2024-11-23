@@ -1,0 +1,287 @@
+{
+    "currentWord": {
+        "wordRoot": "customer",
+        "id": 7400,
+        "phonemic": "ˈkʌstəmə(r)|ˈkʌstəmər\r",
+        "bigId": "a81ac2b4-9575-4899-bd07-d73d427c9e32",
+        "wordForms": [
+            "customers",
+            "customer"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a81ac2b4-9575-4899-bd07-d73d427c9e32",
+            "de": "A person who buys goods or services from a shop or business",
+            "ty": "noun",
+            "ex": "The store provides discounts to regular customers.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "loyal customer",
+                " potential customer",
+                " satisfied customer"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a81ac2b4-9575-4899-bd07-d73d427c9e32.webp",
+            "Tips": [
+                {
+                    "title": "Purchasing Power",
+                    "description": "Understand 'customer' implies the power to choose where to buy.",
+                    "example": "As a customer, you have the right to return defective products.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/strUKvvaP5aSx7zlDIyDxxFSgbA.webp"
+                },
+                {
+                    "title": "Regular Visits",
+                    "description": "'Customer' often refers to someone who shops repeatedly at the same place.",
+                    "example": "The coffee shop has many customers who come in daily.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/AuLIOxzyiVv2DLpcGC3klttApU.webp"
+                },
+                {
+                    "title": "Impersonal Label",
+                    "description": "The term doesn't imply a personal relationship, unlike 'client'.",
+                    "example": "Supermarkets have thousands of customers they don't know personally.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/uhO9bpwf23cQ4CC4PG79KJgF8I.webp"
+                }
+            ]
+        },
+        {
+            "id": "8f6ebd24-8203-40d2-8aff-ca86431f8854",
+            "de": "A person or organization that uses a service",
+            "ty": "noun",
+            "ex": "Our software is user-friendly and thus preferred by many customers.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "end customer",
+                " customer satisfaction",
+                " customer service"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8f6ebd24-8203-40d2-8aff-ca86431f8854.webp",
+            "Tips": [
+                {
+                    "title": "Service Use",
+                    "description": "Highlights usage rather than buying; applicable to free services.",
+                    "example": "Even though our app is free, all users are considered customers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Shopping",
+                    "description": "'Customer' can refer to recipients of various types of services.",
+                    "example": "As an accountant, I provide financial advice to my customers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technology Context",
+                    "description": "Often used in tech to describe users of software or online services.",
+                    "example": "Our customers can access all features on our website.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "acd54d2f-f764-4966-9fdf-4f6631e63bde",
+            "de": "A person whose behavior is difficult to deal with",
+            "ty": "noun",
+            "ex": "Bob can be a difficult customer when he's angry.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "op": "",
+            "re": "Informal, Disapproving",
+            "tp": "",
+            "cl": [
+                "difficult customer",
+                " demanding customer",
+                " unhappy customer"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/acd54d2f-f764-4966-9fdf-4f6631e63bde.webp",
+            "Tips": [
+                {
+                    "title": "Behavioral Aspect",
+                    "description": "Describes someone who might cause trouble or be hard to satisfy.",
+                    "example": "That customer keeps sending back his food, complaining it's not cooked well.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Demanding Nature",
+                    "description": "Can be used to warn about someone with high or specific demands.",
+                    "example": "Prepare your best work; we're dealing with a very demanding customer today.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Buy": {
+            "wordRoot": "Buy",
+            "wordDefinition": "Buy refers to the act of purchasing a product or service. It is applicable when a person pays a certain amount of money in exchange for an item or service.\n\nCustomer refers to a person who purchases a product or service from a business. It is applicable to the person who is buying the product or service and engaging with the business.\n\nBuy is the action of purchasing something, while a customer is the person making the purchase.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/520de066-2bd6-4f2f-ba80-2a4a09b47c1d.webp"
+        },
+        "Client": {
+            "wordRoot": "Client",
+            "wordDefinition": "Both words client and customer refer to people who buy goods or services.\n\nA client is someone who has an ongoing business relationship with a company or individual. This relationship can be based on a contract, agreement or retainer.\n\nFor example, if a lawyer represents you in a legal matter, you are their client.\n\nThe main difference between a customer and a client is the duration and purpose of the relationship.\n\nA customer typically engages with a business on a transactional and infrequent basis, while a client has a sustained and ongoing relationship with a business or individual.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8df04670-7377-4c3f-9211-dc2597ba0352.webp"
+        },
+        "Consumer": {
+            "wordRoot": "Consumer",
+            "wordDefinition": "Consumer refers to a person who uses a product or service. They may or may not have paid for it. Customer refers to a person who has bought a product or service from a business.\n\nFor example, if someone goes to a grocery store and picks up a can of soda, they are a consumer of the soda. If they go to a restaurant and order a meal, they are a customer of the restaurant because they have paid for the meal.\n\nThe terms are interchangeable in some situations, but generally, consumer is used more broadly to refer to anyone who uses a product or service, while customer specifically refers to someone who has made a purchase or transaction with a business.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e4e002d3-9ed7-4c67-bd6e-5a5a8dcefc33.webp"
+        },
+        "Guest": {
+            "wordRoot": "Guest",
+            "wordDefinition": "Guest is used in the context of hospitality where people are welcomed and treated as visitors. For example, a person staying in a hotel or attending a wedding is called a guest.\n\nCustomer pertains to a person who pays for a product or service, while guest refers to a person who is welcomed and accommodated by a host.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4f5c2a3a-1d23-4607-9417-091586abab46.webp"
+        },
+        "Patron": {
+            "wordRoot": "Patron",
+            "wordDefinition": "A patron is someone who supports and regularly visits a particular establishment, such as a restaurant or theater.\n\nCustomers are typically only focused on transactions and purchasing products or services, whereas patrons are more invested in the overall experience and have a loyalty or connection to the establishment.\n\nThe term customer is used in a wider range of businesses, while patron is more commonly used in the context of arts and entertainment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c700fda0-4417-4305-b514-dc36fea86229.webp"
+        },
+        "Purchaser": {
+            "wordRoot": "Purchaser",
+            "wordDefinition": "A purchaser is someone who specifically buys something from a business. They have made a payment for something and are the owner of that product.\n\nBoth terms are applicable in business, but they describe different aspects of the buying process. The term customer is used more broadly to describe anyone who interacts with a business, while purchaser is used specifically to describe someone who has bought something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/200a1eed-2b71-4d3e-84ef-35006acf0407.webp"
+        },
+        "Shop": {
+            "wordRoot": "Shop",
+            "wordDefinition": "Shop can refer to either a physical retail store or the act of browsing for goods to purchase. It's applicable when a person is looking for something to buy, whether it's in a brick-and-mortar store or online.\n\nSo, in summary: customer describes the person making a purchase, while shop describes the place or activity where a purchase is made.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ae40cf7-1726-4d3a-a0a8-c532eb439f1f.webp"
+        },
+        "User": {
+            "wordRoot": "User",
+            "wordDefinition": "User refers to someone who uses a product or service, whether they paid for it or not. They may be using it for free or as part of a subscription or membership, but they are not necessarily paying for it directly.\n\nIn business, the term customer is often used in relation to sales and marketing, while user is more commonly used in relation to product development and design.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/39f81eb1-3867-4450-980e-e2e52c3122aa.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Think about all the fast food chains, clothing boutiques, or mobile phone kiosks at the mall. Customers may be better served by distributing services throughout a community, but this leaves businesses vulnerable to aggressive competition. In the real world, customers come from more than one direction, and businesses are free to compete with marketing strategies,",
+            "Title": "Why do competitors open...",
+            "VideoId": "jILgxeNBK_8",
+            "Controls": "start=205"
+        },
+        {
+            "Text": " to pair their instincts and experience with real-world analytics the results of the drivers are getting home earlier to see their families mileage is down which is good for profits in the environment customer satisfaction is actually up and they've been saving lives through an insight that they didn't have which is most accidents were happening during",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=327"
+        },
+        {
+            "Text": " Those put numbers on questions like how many potential customers there are and what price they'd be willing to pay. This part of the process changes as technology evolves. But focus groups have remained largely the same for decades. Perhaps when it comes to the big, important questions,",
+            "Title": "How do focus groups...",
+            "VideoId": "3TwgVQIZPsw",
+            "Controls": "start=247"
+        },
+        {
+            "Text": " despite the fact that SpaceX's first three launches blew up. I mean, how on earth did you do that? So actually, selling rockets is all about relationships and making a connection with these customers. When you don't have a rocket to sell, what's really important is selling your team,",
+            "Title": "SpaceX's plan to fly you...",
+            "VideoId": "Dar8P3r7GYA",
+            "Controls": "start=143"
+        },
+        {
+            "Text": " of economic stagnation, or maybe even a declining economic spiral, as there simply aren't enough customers out there to buy the products and services being produced. It's really important to realize that all of us as individuals rely on access to that market economy",
+            "Title": "How we'll earn money in...",
+            "VideoId": "swB7Ivct8d8",
+            "Controls": "start=572"
+        },
+        {
+            "Text": " So much about a team's execution is its ability to adapt to getting punched in the face by the customer. The customer is the true reality. And that's why I came to think that the team maybe was the most important thing. Then I started looking at the business model.",
+            "Title": "The single biggest...",
+            "VideoId": "bNpx7gpSqbY",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " some steam and his grain has found an enthusiastic local market artisanal baker don guerra often makes themselves a thousand loaves in three hours cheers cheers customers of barrio bread often tell him his loaves remind them of",
+            "Title": "The Water Crisis PIPE...",
+            "VideoId": "3VyfN30XzDM",
+            "Controls": "start=1825"
+        },
+        {
+            "Text": " Or have you been bumped off a flight that you paid for? These are all symptoms of overbooking, a practice where businesses and institutions sell or book more than their full capacity. While often infuriating for the customer,",
+            "Title": "Why do airlines sell too...",
+            "VideoId": "ZFNstNKgEDI",
+            "Controls": "start=14"
+        },
+        {
+            "Text": " green turtles are regular customers here a turtle shell is fused from its ribcage and covered in living skin she can feel the tickling on her shell to encourage the service a turtle adopts a special posture",
+            "Title": "Turtle Spa! PIPE Turtle's...",
+            "VideoId": "GF9OhpPX-lk",
+            "Controls": "start=8"
+        },
+        {
+            "Text": " and characterized by the same kinds of feedback loops you find in a natural ecosystem, a feedback loop between customers and businesses. Raising wages increases demand, which increases hiring,",
+            "Title": "Beware, fellow...",
+            "VideoId": "q2gO4DKVpa8",
+            "Controls": "start=345"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-jobs.webp",
+            "Text": "It took us three years to build the NeXT computer. If we'd given customers what they said they wanted, we'd have built a computer they'd have been happy with a year after we spoke to them - not something they'd want now.",
+            "Title": "American Businessman",
+            "Name": "Steve Jobs"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-bezos.webp",
+            "Text": "We see our customers as invited guests to a party, and we are the hosts. It's our job every day to make every important aspect of the customer experience a little bit better.",
+            "Title": "American Businessman",
+            "Name": "Jeff Bezos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sam-walton.webp",
+            "Text": "Each Wal-Mart store should reflect the values of its customers and support the vision they hold for their community.",
+            "Title": "American Businessman",
+            "Name": "Sam Walton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-marie-messier.webp",
+            "Text": "Our multiaccess approach will make the life of the customer simpler.",
+            "Title": "French Businessman",
+            "Name": "Jean-Marie Messier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lwren-scott.webp",
+            "Text": "It's so important your customer can rely on you for your classics.",
+            "Title": "American Designer",
+            "Name": "L'Wren Scott"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/howard-schultz.webp",
+            "Text": "Customers have different need states and life experiences.",
+            "Title": "American Businessman",
+            "Name": "Howard Schultz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giles-deacon.webp",
+            "Text": "The customer who likes to be noticed is important to us.",
+            "Title": "British Designer",
+            "Name": "Giles Deacon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/salt-bae.webp",
+            "Text": "I get all of my motivation from my customers.",
+            "Title": "Turkish Chef",
+            "Name": "Salt Bae"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-leboeuf.webp",
+            "Text": "Treat your customers like lifetime partners.",
+            "Title": "American Businessman",
+            "Name": "Michael LeBoeuf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/antoine-arnault.webp",
+            "Text": "I like to respect my customers.",
+            "Title": "French Businessman",
+            "Name": "Antoine Arnault"
+        }
+    ]
+}

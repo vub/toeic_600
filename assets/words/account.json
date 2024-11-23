@@ -1,0 +1,356 @@
+{
+    "currentWord": {
+        "wordRoot": "account",
+        "id": 10623,
+        "phonemic": "əˈkaʊnt|əˈkaʊnt\r",
+        "bigId": "250fda7e-1773-4c14-9bc9-cc54242073dc",
+        "wordForms": [
+            "accounts",
+            "accounting",
+            "accounted",
+            "account"
+        ]
+    },
+    "senses": [
+        {
+            "id": "250fda7e-1773-4c14-9bc9-cc54242073dc",
+            "de": "A report or description of an event or experience",
+            "ty": "noun",
+            "ex": "Her account of the accident is different from yours.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "give an account",
+                " on account of",
+                " take into account"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/250fda7e-1773-4c14-9bc9-cc54242073dc.webp",
+            "Tips": [
+                {
+                    "title": "Perspective Matters",
+                    "description": "Different people may give differing accounts of the same event, showing their perspective.",
+                    "example": "Eyewitnesses gave varying accounts of the incident.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZEoUQ4XYl3sgSLmda4tAEMgfE0.webp"
+                },
+                {
+                    "title": "Detailed Descriptions",
+                    "description": "An account can be a detailed narrative about experiences or events.",
+                    "example": "She gave a vivid account of her journey through the mountains.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yLWoLr3ej0qYGqFwi8rPnpUtEq4.webp"
+                },
+                {
+                    "title": "Figurative Expressions",
+                    "description": "'On account of' means because of something.",
+                    "example": "School was canceled on account of the snow.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/otKw81RkH6ggNDMmOGZdOGsnYGI.webp"
+                }
+            ]
+        },
+        {
+            "id": "97c754af-e2f4-4743-ab59-f6b27ae1a222",
+            "de": "An arrangement with a bank to keep your money there and to allow you to take it out when you need to",
+            "do": "Finance",
+            "ty": "noun",
+            "ex": "I paid the cheque into my account",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bank account",
+                " checking account",
+                " savings account"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/97c754af-e2f4-4743-ab59-f6b27ae1a222.webp",
+            "Tips": [
+                {
+                    "title": "Financial Storage",
+                    "description": "In a financial context, an account is where money is kept for safety and future use.",
+                    "example": "She has the majority of her funds in a savings account.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Transaction Accessibility",
+                    "description": "Accounts allow you to deposit and withdraw money.",
+                    "example": "He withdrew some cash from his checking account.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Various Types",
+                    "description": "There are different types of accounts for specific purposes, like savings or checking.",
+                    "example": "I'm transferring money to my checking account.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9bb725f3-b9e3-498f-a787-9e7250817fc3",
+            "de": "An arrangement with a store or a business, where you can buy goods or services now and pay for them later",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "We have an account at the local grocery store",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "credit account",
+                " charge account",
+                " open an account"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9bb725f3-b9e3-498f-a787-9e7250817fc3.webp",
+            "Tips": [
+                {
+                    "title": "Deferred Payment",
+                    "description": "A store account allows you to pay for goods or services at a later time.",
+                    "example": "They offered to put the charges on my store account.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Credit Relationship",
+                    "description": "Having an account with a business can establish a credit relationship.",
+                    "example": "Our long-standing account with the supplier secured us a discount.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "86b6dc2f-c963-4f82-98b2-90a2a97dbf85",
+            "de": "To consider or regard in a specified way",
+            "ty": "verb",
+            "ex": "His parents account him a genius.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "account something as",
+                " account something for",
+                " account oneself"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/86b6dc2f-c963-4f82-98b2-90a2a97dbf85.webp",
+            "Tips": [
+                {
+                    "title": "Personal Perception",
+                    "description": "To account something means regarding it from a personal or collective viewpoint.",
+                    "example": "The teacher accounts the new policy as essential.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implicit Value",
+                    "description": "This verb form can suggest an evaluation of worth or importance.",
+                    "example": "She's accounted an expert in her field.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ea93f3f9-9e96-4e24-9141-79c8257fc4f7",
+            "de": "To provide a report or explanation for something",
+            "ty": "verb",
+            "ex": "You will be asked to account for your actions",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "account for something",
+                " account for oneself",
+                " account to someone"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ea93f3f9-9e96-4e24-9141-79c8257fc4f7.webp",
+            "Tips": [
+                {
+                    "title": "Explanation Required",
+                    "description": "To account for something means to explain or justify it.",
+                    "example": "How do you account for the missing funds?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Contextual Reasoning",
+                    "description": "Using 'account for' can indicate a cause or reason behind an event or action.",
+                    "example": "The bad weather accounts for the traffic delay.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Chronicle": {
+            "wordRoot": "Chronicle",
+            "wordDefinition": "Chronicle refers to a historical record of events that have occurred over a period of time.\n\nIt is usually a detailed and comprehensive record of events. For example, a chronicle of the American Revolution would detail the events leading up to and during that period in history.\n\nAn account is a record of a single event or incident, while a chronicle is a historical record of events that have occurred over a period of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a9e8057-9621-4315-a1eb-22c05a1b3042.webp"
+        },
+        "Description": {
+            "wordRoot": "Description",
+            "wordDefinition": "Description is more often used when talking about describing something or someone. It refers to a statement or an account that describes the characteristics, features, or qualities of a particular thing or person.\n\nFor example, a job description describes the duties and responsibilities of a particular job.\n\nAccount is used to talk about financial records or reports, while description is used to talk about statements or accounts that describe something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3c1e25a4-e120-474c-a73e-b99faa786db5.webp"
+        },
+        "Explanation": {
+            "wordRoot": "Explanation",
+            "wordDefinition": "An explanation is a description or reason given for something that has happened or a particular behavior.\n\nIt is used when there is a need to clarify or justify an action or decision. An explanation provides a reason or understanding for why something has occurred.\n\nThe main difference between the words account and explanation is that an account provides a factual summary while an explanation provides a reason or justification for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/feb0709b-fed8-4186-9b24-c40a31a00d24.webp"
+        },
+        "History": {
+            "wordRoot": "History",
+            "wordDefinition": "Account refers to your current financial status, while the word history refers to your past transactions. For instance, your bank account is your current financial status, while your transaction history shows what you have bought or sold in the past.\n\nIn general terms, an account tracks your current situation, while history documents your past activities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5117c048-8839-47ed-b805-875abd7ebfec.webp"
+        },
+        "Narrative": {
+            "wordRoot": "Narrative",
+            "wordDefinition": "Narrative refers to a story or a description of events, often used in literary or creative contexts. It is applicable when one wants to tell a story or describe a situation in a way that is interesting or engaging.\n\nIn simpler terms, account is a straightforward report of something that happened, while narrative is a more creative and engaging way of describing the same thing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/02dd567c-00b6-4dd7-bbba-9b1b4fa54fd8.webp"
+        },
+        "Recital": {
+            "wordRoot": "Recital",
+            "wordDefinition": "Recital refers to a performance or rendition of something like a poem, music, or dance.\n\nAccount is used in the context of facts and figures, while recital is used in the context of performance and artistic expression.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/55de3e8e-9855-4e2f-902e-2c609e15953e.webp"
+        },
+        "Report": {
+            "wordRoot": "Report",
+            "wordDefinition": "A report is a written or spoken description of a situation, event, or series of events.\n\nAn account is used when referring to financial or administrative matters, whereas a report is usually used to summarize and communicate information about a broader range of topics.\n\nAccounts are usually more detailed and specific, while reports tend to be more general and descriptive.\n\nFor example, a bank would keep accounts for each of its customers detailing their financial transactions, while a journalist would write a report on a news event such as a political election.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a488d29-5711-4022-a4d7-16eca9db9e68.webp"
+        },
+        "Story": {
+            "wordRoot": "Story",
+            "wordDefinition": "A story is a narrative about events, often including characters and a plot, that may be fictional or based on real-life experiences.\n\nStories are used to entertain, educate, or inspire, and often involve elements of conflict or resolution.\n\nAn account is more fact-based and straightforward, while a story is more creative and imaginative. Accounts are applicable in situations that require objective reporting, while stories can be used in various settings to engage and entertain audiences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9312f5b6-ceba-47bf-9d17-c22b3100d09e.webp"
+        },
+        "Version": {
+            "wordRoot": "Version",
+            "wordDefinition": "Version typically refers to a particular form or edition of something.\n\nTo summarize, account refers to a personal profile, while version refers to a particular form or edition of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/716deb62-629f-4d5a-8bfd-3157028f26d3.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " very severe dental surgeries and then he got an infection in his spine it could have possibly come from the infection in his mouth and so with the help of the short-term care that we had money in our bank account and then our supporters helping us you know kind of top it off so that we could pay for it",
+            "Title": "Inside a Dog Retirement...",
+            "VideoId": "k8zqW2txy8g",
+            "Controls": "start=73"
+        },
+        {
+            "Text": " Maybe as civilizations develop, they quickly discover communication technologies far more sophisticated and useful than electromagnetic waves. Maybe all the action takes place inside the mysterious recently discovered dark matter, or dark energy, that appear to account for most of the universe's mass.",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=567"
+        },
+        {
+            "Text": " Cleopatra's story survived mainly in the accounts of her enemies in Rome, and later writers filled the gaps with rumors and stereotypes. We may never know the full truth of her life and her reign, but we can separate fact from rumor by putting history on trial.",
+            "Title": "History vs. Cleopatra -...",
+            "VideoId": "Y6EhRwn4zkc",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " but it can also raise your heart rate and blood pressure, cause increased urination or diarrhea, and contribute to insomnia and anxiety. Plus, the foods and beverages caffeine is found in have their own impacts on your body that have to be taken into account.",
+            "Title": "How does caffeine keep...",
+            "VideoId": "foLf5Bi9qXs",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " But thanks to Franklin's biographers, who investigated her life and interviewed many people close to her, we now know that that account is far from true, and her scientific contributions have been vastly underplayed. Let's hear the real story.",
+            "Title": "Rosalind Franklin: DNA's...",
+            "VideoId": "BIP0lYrdirI",
+            "Controls": "start=39"
+        },
+        {
+            "Text": " The habit of helping injured individuals extends across the species barrier as evidenced by the many accounts of dolphins carrying humans to the surface to breathe. And like us, dolphins mourn their dead. When we consider all the evidence,",
+            "Title": "How smart are dolphins?...",
+            "VideoId": "05PpTqtGhGU",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " and searched their pockets for drugs as they walked to class? Or had raided their frat parties in the middle of the night? Okay, you might say. But doesn't this high incarceration rate partly account for our really low crime rate?",
+            "Title": "Alice Goffman: How we're...",
+            "VideoId": "-2Dj9M71JAc",
+            "Controls": "start=633"
+        },
+        {
+            "Text": " His was a strict understanding of justice.\" \"Multiple accounts show his army's brutality going beyond ripping unborn children from mothers' wombs, using prisoners as human shields, or moat fillers to support siege engines,",
+            "Title": "History vs. Genghis Khan...",
+            "VideoId": "Eq-Wk3YqeH4",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " female it will be rare indeed for all four of them to reach maturity many dangers lie ahead at this size they make a snack for even the smallest predator their mother must make sure that everyone is accounted for",
+            "Title": "5 Amazing Animal...",
+            "VideoId": "uIKJgxbhAzM",
+            "Controls": "start=544"
+        },
+        {
+            "Text": " basics of how we've done that now today only about a dozen crops account for over 80 percent of what we grow and through the history of civilization the most important plants have been these",
+            "Title": "How to rebuild the world...",
+            "VideoId": "CdTzsbqQyhY",
+            "Controls": "start=331"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "I'm only going to stand before God and give an account for my life, not for somebody else's life. If I have a bad attitude, then I need to say there's no point in me blaming you for what's wrong in my life.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gunter-grass.webp",
+            "Text": "If we take into account the existence of our planet, we have to recognise that we are guests that spend a short and very determined period in this world, and all we leave behind is nuclear waste.",
+            "Title": "German Author",
+            "Name": "Gunter Grass"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/will-rogers.webp",
+            "Text": "On account of being a democracy and run by the people, we are the only nation in the world that has to keep a government four years, no matter what it does.",
+            "Title": "American Actor",
+            "Name": "Will Rogers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/warren-buffett.webp",
+            "Text": "If you get to my age in life and nobody thinks well of you, I don't care how big your bank account is, your life is a disaster.",
+            "Title": "American Businessman",
+            "Name": "Warren Buffett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/euripides.webp",
+            "Text": "Events will take their course, it is no good of being angry at them; he is happiest who wisely turns them to the best account.",
+            "Title": "Greek Poet",
+            "Name": "Euripides"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-meredith.webp",
+            "Text": "A human act once set in motion flows on forever to the great account. Our deathlessness is in what we do, not in what we are.",
+            "Title": "English Novelist",
+            "Name": "George Meredith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-henry-lewes.webp",
+            "Text": "Genius is rarely able to give any account of its own processes.",
+            "Title": "English Philosopher",
+            "Name": "George Henry Lewes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julian-robertson.webp",
+            "Text": "Accounting was the course that helped me more than anything.",
+            "Title": "American Businessman",
+            "Name": "Julian Robertson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/salman-rushdie.webp",
+            "Text": "Look at history. It's not the account of a species at peace.",
+            "Title": "Indian Novelist",
+            "Name": "Salman Rushdie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/matt-cassel.webp",
+            "Text": "Teams really take into account character.",
+            "Title": "American Athlete",
+            "Name": "Matt Cassel"
+        }
+    ]
+}

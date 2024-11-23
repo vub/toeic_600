@@ -1,0 +1,354 @@
+{
+    "currentWord": {
+        "wordRoot": "rate",
+        "id": 8821,
+        "phonemic": "reɪt|reɪt\r",
+        "bigId": "6758e7b0-f424-4b48-8b00-01ada4dbd27a",
+        "wordForms": [
+            "rates",
+            "rating",
+            "rated",
+            "ratings",
+            "rate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "6758e7b0-f424-4b48-8b00-01ada4dbd27a",
+            "de": "The speed at which something happens over a specific period of time.",
+            "ty": "noun",
+            "ex": "The car was moving at a rate of 60 miles per hour.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "growth rate",
+                " unemployment rate",
+                " birth rate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6758e7b0-f424-4b48-8b00-01ada4dbd27a.webp",
+            "Tips": [
+                {
+                    "title": "Time Frame",
+                    "description": "Contextualize the rate with a specific period to clarify speed.",
+                    "example": "The construction project progressed at a rate of two floors per month.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gXUrKyleoxxZWy8zzb7BAiFEBOY.webp"
+                },
+                {
+                    "title": "Rate Comparisons",
+                    "description": "Use rates to compare situations or items to imply faster or slower progress.",
+                    "example": "Her typing rate is faster than his, at 90 words per minute.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/k2MWGb6BCZKMfxLQfIzZpaJQ.webp"
+                },
+                {
+                    "title": "Variable Measurements",
+                    "description": "Rates can apply to various activities and different units of measure.",
+                    "example": "They read at a rate of one book per week.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/d4Y1v6dHp8sJRjukGGy1pojH1k.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c3e2cea0-36a8-4e4d-89a0-bf9fbfeb1a88",
+            "de": "A fixed price paid or charged for something.",
+            "ty": "noun",
+            "ex": "What is the current exchange rate of the dollar to the euro?",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "exchange rate",
+                " interest rate",
+                " tax rate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c3e2cea0-36a8-4e4d-89a0-bf9fbfeb1a88.webp",
+            "Tips": [
+                {
+                    "title": "Rate Stability",
+                    "description": "Some rates, like exchange rates, change frequently over time.",
+                    "example": "Check the exchange rate daily as it can fluctuate.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Contractual Rates",
+                    "description": "Rates can be fixed in contracts, like interest rates in loan agreements.",
+                    "example": "His mortgage has a fixed interest rate for five years.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Negotiable Rates",
+                    "description": "Some rates, like tax rates, are non-negotiable, while others can be haggled.",
+                    "example": "After a long discussion, the consultant lowered his hourly rate.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "2e7cc152-ec28-4d4a-81e6-e8e7ebd8f09e",
+            "de": "To give someone or something a score based on quality.",
+            "ty": "verb",
+            "ex": "He was rated as one of the best guitarists of all time.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "rate as",
+                " rate highly",
+                " poorly rated"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2e7cc152-ec28-4d4a-81e6-e8e7ebd8f09e.webp",
+            "Tips": [
+                {
+                    "title": "Quality Indicator",
+                    "description": "Rating can indicate the level of quality or satisfaction with a service or product.",
+                    "example": "This restaurant is rated four stars for its excellent cuisine.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subjective Assessment",
+                    "description": "Ratings are often subjective, influenced by personal opinions and feelings.",
+                    "example": "Critics rated the movie poorly, but audiences loved it.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c89c0008-d34f-45ba-800d-2c94f865b983",
+            "de": "A measure, quantity, or frequency as a proportion of another.",
+            "ty": "noun",
+            "ex": "There is a high rate of crime in that area.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "crime rate",
+                " fatality rate",
+                " success rate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c89c0008-d34f-45ba-800d-2c94f865b983.webp",
+            "Tips": [
+                {
+                    "title": "Statistical Context",
+                    "description": "Rates expressed as proportions are often used in statistics and reports.",
+                    "example": "The literacy rate of the country has improved to 95%.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Relative Measure",
+                    "description": "Understanding rates as ratios helps in comparing different populations or groups.",
+                    "example": "Researchers found a lower disease rate in the vaccinated group.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "2827c78a-1061-4ff9-8a83-404024db20fd",
+            "de": "To consider someone or something in a particular way.",
+            "ty": "verb",
+            "ex": "I rate him as an excellent chef.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "rate as",
+                " rate highly",
+                " rate above"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2827c78a-1061-4ff9-8a83-404024db20fd.webp",
+            "Tips": [
+                {
+                    "title": "Rank of Preference",
+                    "description": "Rating can also indicate the rank of preference among a range of options.",
+                    "example": "She rates the blue dress above the red one for the party.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Appraisal": {
+            "wordRoot": "Appraisal",
+            "wordDefinition": "An appraisal is an evaluation or assessment of something's value or worth.\n\nThe main difference between the two words is that an appraisal involves determining the value of a specific item or property, while rate involves measuring or comparing something to another standard.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/857941c3-2592-4cdb-8913-dfeacb63640b.webp"
+        },
+        "Assess": {
+            "wordRoot": "Assess",
+            "wordDefinition": "Assess means to evaluate, analyze or judge the quality or importance of something.\n\nSo, while assess involves looking at something carefully and forming an opinion, rate involves assigning a value or position based on specific standards.\n\nBoth words can be used in many contexts, but assess is more commonly used in professional contexts, while rate is more commonly used in everyday life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/442852dd-d9fe-4767-94a3-78d50c1c82d6.webp"
+        },
+        "Charge": {
+            "wordRoot": "Charge",
+            "wordDefinition": "Charge refers to an amount of money that is paid for a product or service. For example, you might see a charge on your credit card bill for buying a new phone.\n\nBoth words can describe the cost of something, but charge typically refers to a specific amount that is paid at one time, while rate refers to the cost per unit of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ce82455-58ee-4af7-8e72-5c206b8731ac.webp"
+        },
+        "Cost": {
+            "wordRoot": "Cost",
+            "wordDefinition": "Cost usually refers to the amount of money you pay for something. For example, if you go to a store and buy a shirt for $20, then $20 is the cost of the shirt.\n\nIn summary, while cost refers to the specific amount of money you need to pay for something, rate expresses the ratio of two quantities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/085b4924-fb2c-4f96-9948-826bd0b13358.webp"
+        },
+        "Evaluate": {
+            "wordRoot": "Evaluate",
+            "wordDefinition": "Evaluate means to assess or judge the quality, value, or importance of something using multiple criteria. It involves analyzing and examining something in-depth to form a conclusion or recommendation.\n\nTo simplify it further, evaluate is like giving a comprehensive review or analysis of something while rate is like giving a score or grading based on predetermined criteria.\n\nBoth words are applicable in various scenarios, but evaluate is more appropriate when you need to give a detailed analysis of something, such as a research paper, a company's performance or a product review.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be62720b-6c1b-48e0-b518-8768e2efffd8.webp"
+        },
+        "Fee": {
+            "wordRoot": "Fee",
+            "wordDefinition": "A fee is a fixed amount of money that is charged for a specific service, such as a bank fee or a fee for a doctor's visit.\n\nIt is usually a one-time cost or something that is charged on a regular basis, like a membership fee.\n\nIn simpler terms, fee is like a flat charge for a specific service, while rate is like the cost per unit time for a service, like an hourly or daily charge.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/48e2ac1f-1edf-4e91-a8e3-5db97e52b34a.webp"
+        },
+        "Pace": {
+            "wordRoot": "Pace",
+            "wordDefinition": "Pace refers to the speed at which something is done or achieved, while rate refers to the frequency or number of times something happens or is done within a certain time period.\n\nFor example, if you are running a race, your pace would refer to how quickly you are running, while your rate would refer to how many laps you are completing per minute.\n\nPace is used when describing movement or progress, while rate is used when describing frequency or occurrence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06b71547-24e3-4d02-983f-c524b2ef7ba0.webp"
+        },
+        "Price": {
+            "wordRoot": "Price",
+            "wordDefinition": "Price and rate are two different words that are often used interchangeably, but they are not the same thing.\n\nPrice refers to the amount of money that someone has to pay for a particular product or service. For example, the price of a chocolate bar might be $1.50.\n\nPrice describes the cost of an item, while rate describes how much of something is produced or consumed over a specific period of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b507483b-fbfc-4619-b904-b321a8a15d6d.webp"
+        },
+        "Ratio": {
+            "wordRoot": "Ratio",
+            "wordDefinition": "A ratio is a comparison of two or more quantities. It is a way of expressing how much of one thing there is in relation to another thing.\n\nFor example, the ratio of boys to girls in a classroom can be expressed as 2:3 (meaning there are two boys for every three girls).\n\nAnother example of a ratio is the ratio of the circumference of a circle to its diameter, which is always equal to pi (3.14159...).\n\nA ratio is used to compare two or more quantities, often in relation to one another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5159ac7b-ad0e-4222-813d-bc093baed460.webp"
+        },
+        "Value": {
+            "wordRoot": "Value",
+            "wordDefinition": "Value refers to how much something is worth or how important it is. For example, if you are talking about the value of a car, you are referring to how much it is worth in terms of money, or how useful it is to you personally.\n\nRate is often used in finance or economics to describe trends and changes over time, while value is often used in personal decision-making or valuation of assets.\n\nFor example, if you are trying to decide whether to buy a house, you may consider the interest rate on a mortgage as well as the overall value of the property.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3308a6e0-5f7b-47f5-8dee-72991f65f2e7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " by whichever measure -- PPP, market exchange rates -- the largest economy in the world over the course of the decade ahead. They're already the largest trading nation, already the largest exporting nation, already the largest manufacturing nation, and they're also the biggest emitters of carbon in the world.",
+            "Title": "Are China and the US...",
+            "VideoId": "8XQ1onjXJK0",
+            "Controls": "start=108"
+        },
+        {
+            "Text": " to rate their lives on a scale of zero to ten zero being the pits and ten being the happiest possible if you rate your lives on a seven or higher you're considered to be driving way to go what stands out when you dig deeper into these poll results one thing is clear different cultures have different ideas",
+            "Title": "How to Measure Happiness...",
+            "VideoId": "FfVrYX6dhDw",
+            "Controls": "start=22"
+        },
+        {
+            "Text": " Just as young potential golfers can more easily find a set of right-handed clubs, many of the important instruments that have shaped society were designed for the right-handed majority. Because lefties are worse at using these tools, and suffer from higher accident rates,",
+            "Title": "Why are some people...",
+            "VideoId": "TGLYcYCm2FM",
+            "Controls": "start=223"
+        },
+        {
+            "Text": " Initially, they help prepare to fight invaders and heal after injury, but chronic stress can dampen function of some immune cells, make you more susceptible to infections, and slow the rate you heal. Want to live a long life? You may have to curb your chronic stress.",
+            "Title": "How stress affects your...",
+            "VideoId": "v-t1Z5-oPtU",
+            "Controls": "start=179"
+        },
+        {
+            "Text": " the divorce rate and the annual advice on surviving the holidays tell us how often those relationships let us down and even if they don't you need a bench that's what I didn't have a nonk on backup are you living your life as if positive relationships matter most do",
+            "Title": "The science of...",
+            "VideoId": "8DbP34U3buY",
+            "Controls": "start=266"
+        },
+        {
+            "Text": " either hot or iced. Later, the participants read a story about a hypothetical person, and were asked to rate their personality. Those who had held the hot cup of coffee perceived the person in the story as happier, more social, more generous and better-natured",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=158"
+        },
+        {
+            "Text": " telling our brain we are tired, and signals from the environment telling us it's dark outside. The rise in sleep-inducing chemicals, like adenosine and melatonin, send us into a light doze that grows deeper, making our breathing and heart rate slow down",
+            "Title": "What would happen if you...",
+            "VideoId": "dqONk48l5vY",
+            "Controls": "start=62"
+        },
+        {
+            "Text": " to compete. Of course, not all of caffeine's effects are so helpful. It might make you feel better and more alert, but it can also raise your heart rate and blood pressure, cause increased urination or diarrhea, and contribute to insomnia and anxiety.",
+            "Title": "How does caffeine keep...",
+            "VideoId": "foLf5Bi9qXs",
+            "Controls": "start=209"
+        },
+        {
+            "Text": " by binding to oxalate in the digestive tract before it can be absorbed and reach the kidneys. If you do end up with a kidney stone, you're not alone. Data suggests that rates are rising, but that world record probably won't be broken any time soon.",
+            "Title": "What causes kidney...",
+            "VideoId": "W0GpIMNTPYg",
+            "Controls": "start=274"
+        },
+        {
+            "Text": " paid off the success rate with orphans has soared and has paid dividends for mutora who would almost certainly have died but for the success of the substitute milk the otter family have cubs seeing autocubs in the wild like this is extremely rare",
+            "Title": "Adorable Baby Animal...",
+            "VideoId": "W9zdyytICHU",
+            "Controls": "start=952"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/holly-johnson.webp",
+            "Text": "We have such a high drop-out rate from musicians, said the head of the college. He was right - I dropped out before I even dropped in. Months later they were still asking what had happened to me, not realising that I was on a UK tour.",
+            "Title": "English Musician",
+            "Name": "Holly Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-baca.webp",
+            "Text": "It is an honor to be awarded with such a high rating from an organization as well respected as the NAACP. I am pleased that the oldest and largest civil rights organization in the nation, has recognized my voting record.",
+            "Title": "American Politician",
+            "Name": "Joe Baca"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-baden-powell.webp",
+            "Text": "Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.",
+            "Title": "English Soldier",
+            "Name": "Robert Baden-Powell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ezra-pound.webp",
+            "Text": "Men do not understand books until they have a certain amount of life, or at any rate no man understands a deep book, until he has seen and lived at least part of its contents.",
+            "Title": "American Poet",
+            "Name": "Ezra Pound"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-kardashian.webp",
+            "Text": "My decision to end my marriage was such a risk to lose ratings and lose my fan base. I had to take that risk for my inner peace and to be happy with myself.",
+            "Title": "American Celebrity",
+            "Name": "Kim Kardashian"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-cohn.webp",
+            "Text": "We want to keep a preferred rate for capital gains - we think it is important to encourage investment.",
+            "Title": "American Businessman",
+            "Name": "Gary Cohn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sophocles.webp",
+            "Text": "Whoever thinks his friend more important than his country, I rate him nowhere.",
+            "Title": "Greek Poet",
+            "Name": "Sophocles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gerald-finzi.webp",
+            "Text": "There is no room in the world, as you say, for second rate work.",
+            "Title": "British Composer",
+            "Name": "Gerald Finzi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/declan-donnelly.webp",
+            "Text": "I think we're paid a going rate for how well our shows do.",
+            "Title": "English Producer",
+            "Name": "Declan Donnelly"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-o-selznick.webp",
+            "Text": "At this rate, I'll live forever.",
+            "Title": "American Producer",
+            "Name": "David O. Selznick"
+        }
+    ]
+}

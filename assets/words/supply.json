@@ -1,0 +1,322 @@
+{
+    "currentWord": {
+        "wordRoot": "supply",
+        "id": 11024,
+        "phonemic": "səˈplaɪ|səˈplaɪ\r",
+        "bigId": "f7e92a9c-75e5-4df6-94ba-00758c5a54d9",
+        "wordForms": [
+            "supplies",
+            "supplying",
+            "supplied",
+            "resupply",
+            "supply"
+        ]
+    },
+    "senses": [
+        {
+            "id": "f7e92a9c-75e5-4df6-94ba-00758c5a54d9",
+            "de": "The amount of something that is available to be used",
+            "ty": "noun",
+            "ex": "Water and electricity supplies are limited in remote regions.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "supply of food",
+                " water supply",
+                " supply chain"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f7e92a9c-75e5-4df6-94ba-00758c5a54d9.webp",
+            "Tips": [
+                {
+                    "title": "Limited Availability",
+                    "description": "Use 'supply' to discuss quantity constraints of resources or products.",
+                    "example": "The island's supply of fresh fruits is dwindling.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PFw729al90x363ZKmYNSn2PxG6A.webp"
+                },
+                {
+                    "title": "Not Always Physical",
+                    "description": "'Supply' can refer to intangibles like information or services, not just physical items.",
+                    "example": "She provides an endless supply of creative ideas.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/CVF5vQHftrEeNf15E4q5qSLSaI.webp"
+                }
+            ]
+        },
+        {
+            "id": "af14d2b6-b0d4-4473-8cae-6ec29c8ca0b1",
+            "de": "To give or provide what is necessary or needed",
+            "ty": "verb",
+            "ex": "The mother supplied her children with a healthy lunch.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "supply with",
+                " supply to",
+                " supply for"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/af14d2b6-b0d4-4473-8cae-6ec29c8ca0b1.webp",
+            "Tips": [
+                {
+                    "title": "Meeting Needs",
+                    "description": "'Supply' as a verb implies fulfilling a requirement or need.",
+                    "example": "The charity supplied blankets to the homeless.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Active Provision",
+                    "description": "Using 'supply' suggests an active role in giving what's needed.",
+                    "example": "Can you supply the meeting with enough chairs?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bf69df13-da2d-4653-be84-0ab98a166984",
+            "de": "The act of providing or supplying something",
+            "ty": "noun",
+            "ex": "The town has a constant supply of fresh water.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "supply of resources",
+                " power supply",
+                " supply and demand"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bf69df13-da2d-4653-be84-0ab98a166984.webp",
+            "Tips": [
+                {
+                    "title": "Regular Process",
+                    "description": "The noun form can imply a regular or ongoing act of providing something.",
+                    "example": "The supply of clean towels in the hotel is daily.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Systematic Effort",
+                    "description": "'Supply' can suggest a structured and organized method of distribution.",
+                    "example": "Government aid involves a large-scale supply of essentials.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "71ff701c-714f-4237-8796-e635456d4e9e",
+            "de": "To make something that is wanted or needed available to someone",
+            "ty": "verb",
+            "ex": "The company supplies uniforms for employees.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "supply to",
+                " supply for",
+                " supply with"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/71ff701c-714f-4237-8796-e635456d4e9e.webp",
+            "Tips": [
+                {
+                    "title": "Specification Implication",
+                    "description": "'Supply' often implies a specific demand or requirement that is being met.",
+                    "example": "The manufacturer supplies parts specifically for vintage cars.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Range of Uses",
+                    "description": "'Supply' can describe the provision of goods, services, or even manpower.",
+                    "example": "The agency supplies temporary staff for events.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Afford": {
+            "wordRoot": "Afford",
+            "wordDefinition": "Afford means to have enough money or resources to pay for something, or to be able to do something without causing financial difficulty.\n\nFor example, \"I can afford to buy a new phone because I have saved enough money for it.\" or \"I cannot afford to go on a trip this summer because I don't have enough money to cover the expenses.\"\n\nAfford is used when talking about the ability to pay for something, whereas supply is used when talking about providing something that is needed or wanted.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cddcf79e-81de-453c-aa0a-339b9453f3f6.webp"
+        },
+        "Cater": {
+            "wordRoot": "Cater",
+            "wordDefinition": "Cater means to provide food or a service for an event or occasion. For example, a company might cater a wedding by providing food and drinks for the guests.\n\nIt can also refer to providing specialized services or products to meet someone's specific needs or preferences, such as a restaurant that caters to vegetarians.\n\nIt can be used in a broader sense than cater, including things like goods, equipment, or services. For example, a company might supply building materials to a construction site or a hospital might supply medical equipment to a patient.\n\nCater is more specific to providing food or specialized services, while supply is more general and applicable to a wider range of goods and services.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f4e99078-3fc2-42ae-b5fb-f37f2568a49e.webp"
+        },
+        "Dispense": {
+            "wordRoot": "Dispense",
+            "wordDefinition": "Dispense means to distribute or give out something, particularly medication. This typically refers to giving out a specific amount of a substance or drug for a particular purpose, such as a prescription from a doctor or pharmacist.\n\nDispense is about giving out a specific amount of something, usually medicine, while supply is more about providing what is needed or required, whether that be goods or services.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5268b2f3-aab8-4cf5-acb8-eb72155807b7.webp"
+        },
+        "Equip": {
+            "wordRoot": "Equip",
+            "wordDefinition": "Equip refers to providing someone or something with the necessary items or skills needed to perform a task or function effectively.\n\nFor example, a carpenter may equip themselves with tools such as a hammer and nails to build a house or a football player may equip themselves with pads and a helmet to protect themselves during a game.\n\nEquip means to give someone or something what they need to do something successfully, while supply means to provide something that is needed or wanted.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a61d425-9c6a-4111-bf6e-8de710777ce1.webp"
+        },
+        "Furnish": {
+            "wordRoot": "Furnish",
+            "wordDefinition": "Furnish generally means to provide furniture or accessories for a room or building.\n\nFurnish refers to providing things that enhance a space or a person's experience, while supply refers to providing basic needs or necessities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/efc1ad7a-a919-4729-ab5d-846a85df671d.webp"
+        },
+        "Give": {
+            "wordRoot": "Give",
+            "wordDefinition": "Give generally means to provide something to someone without necessarily expecting anything in return. For example, you can give your friend a gift or give your time to help someone in need.\n\nWhile both words involve providing something, give is more about generosity or kindness, and supply is more about fulfilling a need or demand.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a61cc3f9-24c6-44d9-8743-000a68650bcf.webp"
+        },
+        "Offer": {
+            "wordRoot": "Offer",
+            "wordDefinition": "Offer means to present or suggest something for someone to consider accepting. For example, a store might offer a discount on a product to attract customers.\n\nOffer is used when someone is presenting or suggesting something as an option, while supply is used when someone is providing something that is needed or wanted.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5c1e662c-501d-4f76-9c09-a87453c02ada.webp"
+        },
+        "Provide": {
+            "wordRoot": "Provide",
+            "wordDefinition": "Both the words provide and supply mean to give or furnish something that is needed or wanted.\n\nProvide usually means to give something that is necessary or required, often in response to a request or a need.\n\nThe teacher provided the students with study guides before the test.\n\nThe hotel provided towels for the guests.\n\nSupply usually means to give or provide something in large quantities, often for ongoing use or consumption. It also suggests a continuous or regular source of something.\n\nIn general, both words can be used interchangeably in many contexts, but provide may emphasize a specific need or situation, while supply suggests a larger or ongoing source of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d71cc57f-96fe-4745-96ed-b60c61cf682b.webp"
+        },
+        "Purvey": {
+            "wordRoot": "Purvey",
+            "wordDefinition": "Purvey refers specifically to providing or supplying goods or services for a particular group or purpose.\n\nFor example, a company that purveys organic products focuses only on providing goods that are certified organic. It is a more specific term that indicates a particular focus or sector.\n\nSupply is a general term for providing something needed or requested, while purvey is a specific term for providing goods or services for a specific group or purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a39d0933-e896-421d-b57b-4e83daee9620.webp"
+        },
+        "Stock": {
+            "wordRoot": "Stock",
+            "wordDefinition": "Stock generally refers to the amount of goods or products a business currently possesses or owns, whereas supply refers to the act of providing or giving those goods or products to someone who needs them.\n\nFor example, a store may have a high stock of shoes in their inventory, but only supply a few pairs to a customer who wants to purchase them.\n\nStock is more focused on the quantity of goods available, while supply is concerned with the distribution and delivery of those goods to customers.\n\nStock refers to what a business has, and supply refers to what a business provides to others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2cd09697-f848-4bc1-b212-2f38f4ebd4d8.webp"
+        },
+        "Yield": {
+            "wordRoot": "Yield",
+            "wordDefinition": "Yield means the amount of a product or service that is produced or provided by a particular source or process.\n\nIn other words, supply refers to how much of something is available, while yield refers to how much of something is produced or provided.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/32e8d641-bbe4-4dd2-9239-d1f660d6c72d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and amino acids have to compete for limited access. A diet with a range of foods helps maintain a balanced combination of brain messengers, and keeps your mood from getting skewed in one direction or the other. Like the other organs in our bodies, our brains also benefit from a steady supply of micronutrients.",
+            "Title": "How the food you eat...",
+            "VideoId": "xyQY8a-ng6g",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " Its placenta, a solid disk of blood-rich tissue, attaches to the wall of the uterus to support the developing embryo. The placenta is what keeps the calf alive during pregnancy. Directly connected to the mother's blood supply, it funnels nutrients and oxygen straight into the calf's body",
+            "Title": "The three different ways...",
+            "VideoId": "sz3Yv3On4lE",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " it can actually help them remember and revisit flowers. In the human body, caffeine acts as a stimulant for the central nervous system. It keeps us awake by blocking one of the body's key sleep-inducing molecules, a substance called adenosine. Your body needs a constant supply of energy,",
+            "Title": "How does caffeine keep...",
+            "VideoId": "foLf5Bi9qXs",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " Their mom was struggling with addiction all while the boys were growing up. She never really was able to hold down a job for very long. It was their grandfather's pension that supported the family, not really enough to pay for food and clothes and school supplies for growing boys.",
+            "Title": "Alice Goffman: How we're...",
+            "VideoId": "-2Dj9M71JAc",
+            "Controls": "start=405"
+        },
+        {
+            "Text": " In most toothpastes and many water supplies, we use tiny amounts of fluoride. That strengthens teeth and encourages the growth of enamel crystals that build up a tooth's defenses against acid. When cavities do develop, we use tooth fillings to fill and close off the infected area,",
+            "Title": "What causes cavities? -...",
+            "VideoId": "zGoBFU1q4g0",
+            "Controls": "start=231"
+        },
+        {
+            "Text": " by offering cow petting experiences to tourists. JOHN They raise tiger cubs, so that people can pay money and take selfies, so they have to have this constant supply of these little tiny tiger cubs between one and four months.",
+            "Title": "Joe Exotic and the Tiger...",
+            "VideoId": "aDfEBgs6h20",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " Killing a competitor makes sense if you want to protect your food supply. But exactly why they cannibalise the dead chimp is not fully understood. It may simply be a chance for some extra protein.",
+            "Title": "Chimpanzee Cannibalism PIPE...",
+            "VideoId": "al-f_WWoHI4",
+            "Controls": "start=208"
+        },
+        {
+            "Text": " a lifetime supply of breathable air and food; a multibillion dollar spaceship; a desire to just get away from it all; and water. You're definitely going to need water.",
+            "Title": "Could we actually live...",
+            "VideoId": "DMMPYkRrd4o",
+            "Controls": "start=27"
+        },
+        {
+            "Text": " thousands upon thousands of boxes of games school supplies and toys and clothing that's an amazing outpouring of love and respect but the logistical challenge",
+            "Title": "The dark side of...",
+            "VideoId": "fX2ZmeUjwfc",
+            "Controls": "start=17"
+        },
+        {
+            "Text": " If the water gets too hot, he herds his tadpoles into cooler, deeper water with a better supply of oxygen.",
+            "Title": "African Bullfrog Dad...",
+            "VideoId": "xlPwPxHIzNg",
+            "Controls": "start=63"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeffrey-jones.webp",
+            "Text": "Every actor wants to have a character that changes, that has some kind of movement, that gets from point A to point B, that doesn't just supply one note.",
+            "Title": "American Actor",
+            "Name": "Jeffrey Jones"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mariella-frostrup.webp",
+            "Text": "I've been accused of riding roughshod over others' emotions, and I admit, when I feel a friend is being over-indulgent, my patience is in short supply.",
+            "Title": "British Journalist",
+            "Name": "Mariella Frostrup"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wendy-cope.webp",
+            "Text": "I think it's a question which particularly arises over women writers: whether it's better to have a happy life or a good supply of tragic plots.",
+            "Title": "English Poet",
+            "Name": "Wendy Cope"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paolo-bacigalupi.webp",
+            "Text": "A wise human would have an understanding of the supply chain and how the pieces fit together. But it's against our nature to think about it.",
+            "Title": "American Writer",
+            "Name": "Paolo Bacigalupi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ian-frazier.webp",
+            "Text": "I think what is important for things to be funny is if you the listener, or the reader, get a chance to supply the humor of it yourself.",
+            "Title": "American Writer",
+            "Name": "Ian Frazier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-johnson.webp",
+            "Text": "Some desire is necessary to keep life in motion, and he whose real wants are supplied must admit those of fancy.",
+            "Title": "English Writer",
+            "Name": "Samuel Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sam-shepard.webp",
+            "Text": "What I'm after is something different than supplying people with the idea that I'm writing an important play.",
+            "Title": "American Playwright",
+            "Name": "Sam Shepard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joey-chestnut.webp",
+            "Text": "It's pretty rare for them to not be in our fridge, I have usually a good supply of all-beef hot dogs.",
+            "Title": "American Celebrity",
+            "Name": "Joey Chestnut"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmer-fredette.webp",
+            "Text": "That's how I see myself, as a guy who can supply offense and help the team.",
+            "Title": "American Athlete",
+            "Name": "Jimmer Fredette"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-thiel.webp",
+            "Text": "We live in a world in which courage is in less supply than genius.",
+            "Title": "American Businessman",
+            "Name": "Peter Thiel"
+        }
+    ]
+}

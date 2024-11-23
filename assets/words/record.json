@@ -1,0 +1,345 @@
+{
+    "currentWord": {
+        "wordRoot": "record",
+        "id": 6669,
+        "phonemic": "ˈrekɔːd|ˈrekərd\r",
+        "bigId": "39d86227-3e4d-4457-95c0-d2441a2bfb8d",
+        "wordForms": [
+            "records",
+            "recording",
+            "recorded",
+            "recordings",
+            "record"
+        ]
+    },
+    "senses": [
+        {
+            "id": "39d86227-3e4d-4457-95c0-d2441a2bfb8d",
+            "de": "A written report or collection of information about a subject.",
+            "ty": "noun",
+            "ex": "She keeps a record of all her spending.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "set a record",
+                " break a record",
+                " keep a record"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/39d86227-3e4d-4457-95c0-d2441a2bfb8d.webp",
+            "Tips": [
+                {
+                    "title": "Tracking Progress",
+                    "description": "Use 'record' to describe keeping track of activities or progress over time for reference.",
+                    "example": "Our team maintains a record of each project's milestones.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0GGkvWY8wwC0HQokxwyJuHz6Qdo.webp"
+                },
+                {
+                    "title": "Evidence",
+                    "description": "'Record' often suggests formality and is used as evidence or official documentation.",
+                    "example": "The trial's proceedings are a matter of public record.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xmOURMvTGoxOAHKfuBNUrGsLGZQ.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b971b98b-c093-4128-b38e-c8cb0bbfac65",
+            "de": "Something that shows the best or highest level of something ever achieved.",
+            "ty": "noun",
+            "ex": "He holds the record for the fastest lap.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "break a record",
+                " set a record",
+                " holds the record"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b971b98b-c093-4128-b38e-c8cb0bbfac65.webp",
+            "Tips": [
+                {
+                    "title": "Achievement",
+                    "description": "A 'record' in this sense is a notable achievement, widely recognized and often official.",
+                    "example": "The athlete set a world record in the 100m dash.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Competitive Spirit",
+                    "description": "Talk about 'records' when highlighting the competitive nature of an activity.",
+                    "example": "This year's sales numbers will break last year's record.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a3def46d-f0e9-4819-a1f1-22833830d340",
+            "de": "To write down or store information to be remembered or used in the future.",
+            "ty": "verb",
+            "ex": "I recorded the meeting minutes for future reference.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "record a video",
+                " record a conversation",
+                " record a song"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a3def46d-f0e9-4819-a1f1-22833830d340.webp",
+            "Tips": [
+                {
+                    "title": "Preservation",
+                    "description": "Use the verb 'record' when you want to keep information for future use, not just note taking.",
+                    "example": "We recorded the lecture so students could review it later.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technology Use",
+                    "description": "'Record' implies using devices like phones or computers to store information.",
+                    "example": "Could you record the interview on your smartphone?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "895ad12a-d852-499c-b1bd-d2a9cc7e3a11",
+            "de": "A round, flat piece of vinyl that stores music and can be played on a turntable.",
+            "do": "Music",
+            "ty": "noun",
+            "ex": "She has a collection of old Beatles records.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "play a record",
+                " buy a record",
+                " sell a record"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/895ad12a-d852-499c-b1bd-d2a9cc7e3a11.webp",
+            "Tips": [
+                {
+                    "title": "Music Format",
+                    "description": "When 'record' is used in music, it refers to vinyl, symbolizing retro or classic taste.",
+                    "example": "He prefers the sound quality of a vinyl record.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Collectible Items",
+                    "description": "'Record' can suggest a collectible or hobbyist's item, particularly in music.",
+                    "example": "Her collection includes rare jazz records from the 1950s.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "61732f4e-dac4-48c9-b13b-06f4ed203b2a",
+            "de": "To make a video, sound, or performance so it can be watched or listened to later.",
+            "do": "Broadcasting",
+            "ty": "verb",
+            "ex": "She recorded her new song in the studio yesterday.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "record a video",
+                " record music",
+                " record a show"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/61732f4e-dac4-48c9-b13b-06f4ed203b2a.webp",
+            "Tips": [
+                {
+                    "title": "Media Creation",
+                    "description": "In broadcasting, 'record' means creating a copy of a performance to enjoy later.",
+                    "example": "They recorded the play to broadcast it on television next week.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Archive",
+                    "description": "Use 'record' to describe saving personal moments like family videos.",
+                    "example": "We recorded our baby's first steps to show our relatives.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Archive": {
+            "wordRoot": "Archive",
+            "wordDefinition": "Archive and record both refer to storing information for future reference, but there are slight differences in how they are used.\n\nAn archive is a collection of historical documents or records that are important for research or study.\n\nArchives can contain things like newspapers, photographs, letters, and government documents.\n\nThey are often organized and maintained by libraries, museums, or other institutions. An archive is typically used to store information that has historical, cultural, or academic value.\n\nIn summary, archives are used for long-term storage of historical or cultural information, while records are used for everyday data management in organizations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/52d17870-6b63-4f95-a147-4438a2139e27.webp"
+        },
+        "Chronicle": {
+            "wordRoot": "Chronicle",
+            "wordDefinition": "A chronicle is a written account of events in the order in which they happened, often with details and commentary included.\n\nWhile both words involve keeping track of events, a chronicle is typically used to describe a narrative of events while a record describes a collection of information.\n\nA chronicle is more suited for telling a story, while a record is more suited for keeping track of data.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a9e8057-9621-4315-a1eb-22c05a1b3042.webp"
+        },
+        "Diary": {
+            "wordRoot": "Diary",
+            "wordDefinition": "A diary is a personal book where someone writes down their thoughts, experiences, and feelings on a daily basis. It is generally meant to be private and is not typically shared with others.\n\nA diary can serve as a way for someone to reflect on their life and emotions.\n\nA diary is a personal reflection while a record is a formal documentation of information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/15d5c3d1-6886-4645-96e7-379f270ebcd3.webp"
+        },
+        "Document": {
+            "wordRoot": "Document",
+            "wordDefinition": "A document is a written or printed piece of information that is used to provide evidence, give instructions or communicate information.\n\nA document is something that is produced or created to convey information, while a record is something that is kept or stored to provide evidence or to keep track of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61984871-0b17-4e65-a80e-607a21f7a6fb.webp"
+        },
+        "History": {
+            "wordRoot": "History",
+            "wordDefinition": "History refers to the study of past events while a record refers to a written or recorded account of past events.\n\nIn simpler terms, history is the subject that deals with understanding and analyzing what happened in the past, while a record is a document that contains information about events that occurred in the past.\n\nHistory can be applicable in numerous settings, such as in classrooms, museums, archives, and libraries, as it can be used to help us better understand our cultural, social, and political heritage.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5117c048-8839-47ed-b805-875abd7ebfec.webp"
+        },
+        "Journal": {
+            "wordRoot": "Journal",
+            "wordDefinition": "A journal is a book or diary where you write down your personal thoughts, feelings or experiences.\n\nIn essence, a journal is a personal account while a record is an official or public account.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f13a5749-b7c0-440c-9937-45492849cc49.webp"
+        },
+        "Log": {
+            "wordRoot": "Log",
+            "wordDefinition": "The words log and record both refer to keeping a written account of something that happened.\n\nHowever, log typically implies a chronological sequence of events, often used in a scientific or technical context. For example, a ship's log would record each day's events and weather conditions.\n\nIn short, think of log as a specific type of record that has a particular structure and purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/02f41283-1877-493e-8420-68f905d3dacb.webp"
+        },
+        "Memoir": {
+            "wordRoot": "Memoir",
+            "wordDefinition": "A memoir is a written account of a person's own life experiences or memories.\n\nIn summary, memoirs are used to share personal experiences and reflections, while records are used to document factual information.\n\nMemoirs are applicable for personal storytelling and sharing life lessons, while records are necessary for keeping track of important events and transactions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dc1cd402-929c-4d00-aa40-5b204773d021.webp"
+        },
+        "Register": {
+            "wordRoot": "Register",
+            "wordDefinition": "Register means to formally sign up or enroll for something.\n\nIt is often used to refer to the act of entering information into an official system or list. For example, you might register for a class or register your car with the DMV.\n\nRecord refers to documenting information and register refers to formally signing up for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3d315ee-352d-4337-a592-7a5c9a8f9a0f.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Have you had this before? I need you to stick out your arm for science, roll up your sleeve a bit, So what I'm going to do, I'm putting electrodes on your arm, and you're probably wondering, I just said I'm going to record from your brain, what am I doing with your arm? Well, you have about 80 billion neurons inside your brain right now.",
+            "Title": "How to control someone...",
+            "VideoId": "rSQNi5sAwuc",
+            "Controls": "start=106"
+        },
+        {
+            "Text": " but the truth is, there's still a lot we don't know about how tornadoes form. The conditions that may give rise to one tornado won't necessarily cause another. But we have learned a lot since people first started recording tornadoes, like how to recognize the signs when one is brewing in the sky. Are you coming along for the ride?",
+            "Title": "How do tornadoes form? -...",
+            "VideoId": "lmWh9jV_1ac",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " and looking for regular patterns of sound changes and correspondences between languages, linguists can determine relationships, trace specific steps in their evolution and even reconstruct earlier languages with no written records. Linguistics can even reveal other important historical clues,",
+            "Title": "How languages evolve -...",
+            "VideoId": "iWDKsHm6gTA",
+            "Controls": "start=101"
+        },
+        {
+            "Text": " have given us our current model of how this consolidation process works. Sensory data is initially transcribed and temporarily recorded in the neurons as short-term memory. From there, it travels to the hippocampus, which strengthens and enhances the neurons in that cortical area.",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=173"
+        },
+        {
+            "Text": " by binding to oxalate in the digestive tract before it can be absorbed and reach the kidneys. If you do end up with a kidney stone, you're not alone. Data suggests that rates are rising, but that world record probably won't be broken any time soon.",
+            "Title": "What causes kidney...",
+            "VideoId": "W0GpIMNTPYg",
+            "Controls": "start=274"
+        },
+        {
+            "Text": " observe so we're going to draw them in with sound so what we are setting up right now is something called a call up and using these speakers in a wee laptop we have we've got recordings of lions and hyenas at kill sites we play these",
+            "Title": "Hair-Raising Hyena...",
+            "VideoId": "m3XuS8FN3Vg",
+            "Controls": "start=484"
+        },
+        {
+            "Text": " and accurately record what they see. But our eyes are remarkably efficient adaptations, the result of hundreds of millions of years of coevolution with our brains. And so what if we don't always see the world exactly as it is.",
+            "Title": "Eye vs. camera - Michael...",
+            "VideoId": "OGqAM2Mykng",
+            "Controls": "start=246"
+        },
+        {
+            "Text": " which are records of an animal's behavior, such as footprints. Together, they form the fossil record, a primary account that tells the story of life on Earth through stone. Fossilization or the process of preserving",
+            "Title": "Fossils 101 PIPE National...",
+            "VideoId": "bRuSmxJo_iA",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " Both are rooted in explaining and understanding the world. The key difference is that where mythology uses gods, monsters and magic, science uses measurements, records and experiments.",
+            "Title": "The scientific origins...",
+            "VideoId": "2aoIs-5zqoI",
+            "Controls": "start=251"
+        },
+        {
+            "Text": " Fischer's record becoming the youngest Grandmaster by this time I was the number one woman player in the world but my real dream",
+            "Title": "Giving checkmate is...",
+            "VideoId": "z-ttu7dyBCU",
+            "Controls": "start=348"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/snoop-dogg.webp",
+            "Text": "I want to write, direct, produce, but in steps. I want to take steps. I don't want to just jump in because I sold a lot of records and just feel like I can jump into the movie world. Naw, I want to learn the movie world like I learned the music world.",
+            "Title": "American Rapper",
+            "Name": "Snoop Dogg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rihanna.webp",
+            "Text": "It is one thing to record an album but it's a huge difference when people play it and listen to it and embrace it the way that I do. It has always been my dream to get my music out to the world and have people hear it.",
+            "Title": "American Musician",
+            "Name": "Rihanna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-harrison.webp",
+            "Text": "In the big picture, it doesn't really matter if we never made a record, or we never sang a song. That isn't important.",
+            "Title": "British Musician",
+            "Name": "George Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patti-smith.webp",
+            "Text": "We never threw a record together. Each record was done really seriously, as if our life depended on it.",
+            "Title": "American Musician",
+            "Name": "Patti Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/floyd-mayweather-jr.webp",
+            "Text": "God only made one thing in this world that's perfect - and that's my boxing record.",
+            "Title": "American Boxer",
+            "Name": "Floyd Mayweather, Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-lanegan.webp",
+            "Text": "In real life, I'm far more lighthearted than I come across on the records.",
+            "Title": "American Musician",
+            "Name": "Mark Lanegan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/india-arie.webp",
+            "Text": "I've never said anything that I didn't want to say on a record, ever.",
+            "Title": "American Musician",
+            "Name": "India Arie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-prefontaine.webp",
+            "Text": "If anybody wants to beat me, let them run a world record.",
+            "Title": "American Athlete",
+            "Name": "Steve Prefontaine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/muhammad-ali.webp",
+            "Text": "Old age is just a record of one's whole life.",
+            "Title": "American Boxer",
+            "Name": "Muhammad Ali"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dr-dre.webp",
+            "Text": "I'm going to record forever.",
+            "Title": "American Musician",
+            "Name": "Dr. Dre"
+        }
+    ]
+}

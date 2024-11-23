@@ -1,0 +1,330 @@
+{
+    "currentWord": {
+        "wordRoot": "volunteer",
+        "id": 5056,
+        "phonemic": "ˌvɒlənˈtɪə(r)|ˌvɑːlənˈtɪr\r",
+        "bigId": "9594dc37-2174-442f-a31b-518bfcb453d1",
+        "wordForms": [
+            "volunteers",
+            "volunteering",
+            "volunteered",
+            "volunteer"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9594dc37-2174-442f-a31b-518bfcb453d1",
+            "de": "A person who offers to do something without being paid.",
+            "ty": "noun",
+            "ex": "She is a volunteer in a charity organization.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "volunteer work",
+                " volunteer organization",
+                " volunteer service"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9594dc37-2174-442f-a31b-518bfcb453d1.webp",
+            "Tips": [
+                {
+                    "title": "Altruistic Connotation",
+                    "description": "The term conveys a sense of selflessness, often associated with helping others or supporting causes.",
+                    "example": "Volunteers at the hospital are valued for their altruism.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vGCOIJ0kJCjkyzP4nCRTTLfvo94.webp"
+                },
+                {
+                    "title": "Not Compulsory",
+                    "description": "'Volunteer' implies that the action is done by choice rather than obligation.",
+                    "example": "She became a volunteer, though no one required her to.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xq6rnOklxbbOerbj5gr72GgsAo.webp"
+                },
+                {
+                    "title": "Community Involvement",
+                    "description": "Volunteering is often linked with community service and civic engagement.",
+                    "example": "As a volunteer, he felt more connected to his community.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/co3qtoXaQChd2BVjuskBD4bL8g.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3a0b2490-7e8e-466d-bdf8-9b113831e3a2",
+            "de": "To offer to do something without being paid or without being asked.",
+            "ty": "verb",
+            "ex": "He volunteered to wash the dishes.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "volunteer for",
+                " volunteer to do",
+                " volunteer one's time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3a0b2490-7e8e-466d-bdf8-9b113831e3a2.webp",
+            "Tips": [
+                {
+                    "title": "Initiative Shown",
+                    "description": "Shows willingness to take initiative and contribute without being prompted.",
+                    "example": "He volunteered to lead the fundraising event.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Positive Impression",
+                    "description": "Volunteering can leave a positive impression, showcasing enthusiasm and proactivity.",
+                    "example": "She volunteered for the task and impressed her teachers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Pre-emptive Offer",
+                    "description": "Indicates offering help before someone asks for it.",
+                    "example": "When he saw the workload, he volunteered immediately.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "1d9ec441-aa5b-4fd7-a1de-74b52b51e33d",
+            "de": "Doing or being done without being paid or forced to do it.",
+            "ty": "adjective",
+            "ex": "He is a volunteer fireman.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "volunteer work",
+                " volunteer position",
+                " volunteer opportunity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1d9ec441-aa5b-4fd7-a1de-74b52b51e33d.webp",
+            "Tips": [
+                {
+                    "title": "Optional Participation",
+                    "description": "Emphasizes that participation is done by choice and without monetary incentives.",
+                    "example": "She took on a volunteer role in the event.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Informal Nature",
+                    "description": "May indicate a less formal context or arrangement than official employment.",
+                    "example": "As a volunteer tutor, he didn't need a formal contract.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Flexibility",
+                    "description": "Volunteer positions often offer flexibility in terms of time and commitment.",
+                    "example": "Volunteer opportunities can be more adaptable to your schedule.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3133a57d-cc75-492b-9224-2221ccd96783",
+            "de": "A plant that grows without being deliberately planted.",
+            "do": "Botany",
+            "ty": "noun",
+            "ex": "These tomatoes are volunteers from last year's crop.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3133a57d-cc75-492b-9224-2221ccd96783.webp",
+            "Tips": [
+                {
+                    "title": "Unplanned Growth",
+                    "description": "Refers to plants that grow on their own, without human intention or action.",
+                    "example": "The garden has several volunteer plants this season.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ecology Insight",
+                    "description": "Offers insight into local ecology by indicating which plants grow naturally.",
+                    "example": "Volunteer species in a garden may show the local habitat's preference.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No Human Selection",
+                    "description": "The plants have not been selected or bred by humans, which might result in genetic diversity.",
+                    "example": "Volunteer veggies in our garden might not look perfect, but they're hardy.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Assist": {
+            "wordRoot": "Assist",
+            "wordDefinition": "Assist means to give help or support to someone who needs it.\n\nAssist is applicable in situations where someone needs help with a specific task, while volunteer is applicable in situations where people want to offer their time and energy to help out their community or a cause they support.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/71981f28-6551-478c-b256-1b6aae999aeb.webp"
+        },
+        "Contribute": {
+            "wordRoot": "Contribute",
+            "wordDefinition": "Contribute means to provide or donate something, like money or supplies, to a cause or organization. It usually involves giving something valuable to help make something happen.\n\nBoth words can be used in different situations. For example, you might contribute money to a charity to help them reach their fundraising goal, or you might volunteer your time to help run a fundraiser event.\n\nThe main difference is that contributing usually involves giving something valuable, while volunteering involves giving your time and effort.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d5b4a24d-cf6d-486a-8bc5-0627401beaa8.webp"
+        },
+        "Enlist": {
+            "wordRoot": "Enlist",
+            "wordDefinition": "Enlist means to join a group or organization, usually in a formal way, like enlisting in the military or joining a sports team.\n\nEnlisting is often applicable when joining a structured organization with specific requirements, such as joining the military, whereas volunteering is applicable when offering help or services for a specific cause or organization, such as volunteering at a charity or community event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fbfa2b51-0087-4d05-ab0b-276576e3172a.webp"
+        },
+        "Help out": {
+            "wordRoot": "Help out",
+            "wordDefinition": "Help out usually refers to assisting someone with a task or chore that they are already doing, whereas volunteer refers to offering your time and skills to a cause or organization without expecting anything in return.\n\nFor example, if your friend needs help cleaning their room, you can help out by joining in and doing some of the cleaning with them.\n\nIf you volunteer at a local animal shelter, you are committing your time and energy to help the shelter care for animals in need.\n\nHelp out is more applicable in personal situations, where you are lending a hand to a friend or family member. Volunteer is more applicable in communal settings such as organizations or charities, where you are giving back to the community by committing your time and effort.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9bf76e33-d06c-4d33-858a-691040e3addf.webp"
+        },
+        "Join up": {
+            "wordRoot": "Join up",
+            "wordDefinition": "Join up usually refers to becoming a member of a group, organization or team by officially signing up or registering for it.\n\nIt is often used in the context of helping others or contributing to a cause without compensation. For example, people can volunteer to clean up a park or help out at a soup kitchen.\n\nJoin up implies becoming a member of a specific organization, while volunteer involves offering one's time, skills, or resources to help others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5ae78681-387f-4b01-8160-4093c695be37.webp"
+        },
+        "Offer": {
+            "wordRoot": "Offer",
+            "wordDefinition": "Offer means to suggest or present something to someone, often as a solution or assistance, and could be in exchange for something else.\n\nFor example, \"I can offer to help you with your homework if you help me with my project.\"\n\nVolunteer means to offer one's time, services, or effort without expecting anything in return. For example, \"I want to volunteer at the soup kitchen this weekend to help people in need.\".\n\nOffer is applicable when someone wants to suggest help or something of value for some kind of exchange, whereas volunteer is applicable when someone wants to help or contribute without any expectation of getting something in return.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5c1e662c-501d-4f76-9c09-a87453c02ada.webp"
+        },
+        "Pitch in": {
+            "wordRoot": "Pitch in",
+            "wordDefinition": "Pitch in means to help out or contribute to a group effort, usually when something needs to be done. For example, if your family is cleaning the house, you can pitch in by vacuuming the living room or washing the dishes.\n\nVolunteer means to offer to do something without being asked, usually for a specific cause or organization. For example, you can volunteer at a food bank to help pack meals for people in need.\n\nBoth pitch in and volunteer involve helping others, but pitch in is more informal and implies that there is already a group effort happening, while volunteer involves actively seeking out ways to help a specific cause or organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/519c5f5b-d686-41b6-a5db-7739e7a4b55c.webp"
+        },
+        "Serve": {
+            "wordRoot": "Serve",
+            "wordDefinition": "Serve refers to performing a duty or task that is required or expected of someone, usually within a formal setting such as a job or military service.\n\nFor example, a waiter serves food to customers or a soldier serves their country.\n\nServe typically implies a formal obligation or job duty, while volunteer implies a choice to perform a helpful act without expectation of payment or reward.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ba99342-015b-4fe5-9c3a-019af7f8c441.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " volunteer because at a time in the world where people can be very selfish and there's a lot of mimimi it's important to recognize that you need to help people and be selfless and give back NatGeo is bought us all together here to make a movie and now we're here at a food bank to put food together and we're encouraging everybody else to go to your",
+            "Title": "Cast Volunteer Day PIPE...",
+            "VideoId": "ueKmBqYbISI",
+            "Controls": "start=47"
+        },
+        {
+            "Text": " increasing pressure from human impact we've traveled to cornwall to meet dan jarvis from british divers marine life rescue organisation that works hard to protect marine mammals across the uk we have volunteers who are trained all the way around the country who are available to respond to",
+            "Title": "Rescuing Adorable Grey...",
+            "VideoId": "rXNVmpWRwkQ",
+            "Controls": "start=92"
+        },
+        {
+            "Text": " wore the same T-shirts for three nights. After male volunteers were randomly assigned to smell either one of the worn shirts, or a new unworn one, saliva samples showed an increase in testosterone in those who had smelled a shirt worn by an ovulating woman. Such a testosterone boost",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " possible this time of year we're getting a lot of migrants we're getting a good fall migration so we actually are seeing the number of birds that we normally see in this area this time of year delmas and the other longtime birders help the new volunteers identify species this",
+            "Title": "Citizen \"Scientists\"...",
+            "VideoId": "D8ueN8rhGsw",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " which is a digital platform and a database of free and low-cost volunteering opportunities. So, how did you evolve from a traveler to a voluntourist? It started when I decided to leave on my one-year round-the-world trip. I had already integrated service into my life.",
+            "Title": "Travelers of the Year...",
+            "VideoId": "ooqCP3DP_zs",
+            "Controls": "start=90"
+        },
+        {
+            "Text": " and we got that volunteer to then shake hands with a colleague and then that colleague got on with his day-to-day activities and what we observed was that that colleague not only had gunshot residue on them he hadn't fired a gun but he was also able to transfer that",
+            "Title": "The dangers of...",
+            "VideoId": "xclg8ikPAvI",
+            "Controls": "start=233"
+        },
+        {
+            "Text": " together some very young volunteers and secretly adored them with a spot of paint where's the mirror where's the mirror if they use the mirror to examine the spot they'll demonstrate that they understand that the image in the mirror",
+            "Title": "Incredible Orangutan...",
+            "VideoId": "lG491lUjDDQ",
+            "Controls": "start=505"
+        },
+        {
+            "Text": " First, we observed that not all mosquito species bite on the same part of the body. Strange. So we set up an experiment where we put a naked volunteer in a large cage, and in that cage, we released mosquitoes",
+            "Title": "Bart Knols: Cheese, dogs...",
+            "VideoId": "Fivy99RtMfM",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " linger so every year at this time nearly half a million people step forward to help to volunteer in an International Coastal Cleanup and the results can be staggering in the last couple of years",
+            "Title": "Coastal Cleanup PIPE...",
+            "VideoId": "73Yj-4TjSR8",
+            "Controls": "start=6"
+        },
+        {
+            "Text": " volunteer set up a crash giving all the child support and Lada could wish for this year rules including sentry duty it demands concentration and it's easy to lose focus",
+            "Title": "5 Amazing Animal...",
+            "VideoId": "uIKJgxbhAzM",
+            "Controls": "start=218"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/su-chin-pak.webp",
+            "Text": "Looking in a mirror and telling yourself to feel better doesn't work when you're a girl, but finding something that you love to do, something that makes you a better person like volunteering to help others, will definitely make a difference.",
+            "Title": "South Korean Journalist",
+            "Name": "Su-chin Pak"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-garner.webp",
+            "Text": "We all have a responsibility to volunteer somewhere and I'm lucky that I get the education and get taken to places to see what's out there and see what's happening and to then be a part of it in hopefully an impactful way.",
+            "Title": "American Actress",
+            "Name": "Jennifer Garner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pamela-anderson.webp",
+            "Text": "I do a lot for PETA. I do a lot of things I think are really important, I volunteer at school and I'm still amazed I can pay my bills because I feel like I don't work that much, I really don't.",
+            "Title": "American Actress",
+            "Name": "Pamela Anderson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karen-salmansohn.webp",
+            "Text": "Volunteering is a great way to look outside your own problems. Giving back to makes you happier by both giving you a sense of purpose and helping to put your problems in perspective.",
+            "Title": "American Author",
+            "Name": "Karen Salmansohn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-shirley.webp",
+            "Text": "I do try to be of some use in the world. I sometimes do volunteer work with kids, and manage to help some people a little, but really making a significant difference can be hard.",
+            "Title": "American Author",
+            "Name": "John Shirley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/isabella-rossellini.webp",
+            "Text": "I live in the country. I'm a bird-watcher, an oyster-raiser. You know, I'll do anything that - raise dogs for the blind as a volunteer.",
+            "Title": "Italian Actress",
+            "Name": "Isabella Rossellini"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-bush.webp",
+            "Text": "Whatever your cause, whatever your motivation, I hope you'll agree with me that volunteer service is an extraordinary gift.",
+            "Title": "American Businessman",
+            "Name": "Neil Bush"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rob-mckenna.webp",
+            "Text": "The best way to appreciate our political process is to volunteer for a campaign and support a candidate you believe in.",
+            "Title": "American Politician",
+            "Name": "Rob McKenna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "It's amazing to me the number of people who will volunteer to help at church but won't lift a finger to help at home!",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-sinise.webp",
+            "Text": "Yeah, I volunteered to support the troops, and get out there and show them that we care about them.",
+            "Title": "American Actor",
+            "Name": "Gary Sinise"
+        }
+    ]
+}

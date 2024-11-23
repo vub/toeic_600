@@ -1,0 +1,372 @@
+{
+    "currentWord": {
+        "wordRoot": "accept",
+        "id": 14280,
+        "phonemic": "əkˈsept|əkˈsept\r",
+        "bigId": "62e1ac07-7784-4922-819c-028a87b7ed7e",
+        "wordForms": [
+            "accepts",
+            "accepting",
+            "accepted",
+            "unaccepted",
+            "acceptable",
+            "acceptably",
+            "accept"
+        ]
+    },
+    "senses": [
+        {
+            "id": "62e1ac07-7784-4922-819c-028a87b7ed7e",
+            "de": "to receive or take something offered",
+            "ty": "verb",
+            "ex": "I accept your gift.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accept a gift",
+                " accept an offer",
+                " accept a proposal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/62e1ac07-7784-4922-819c-028a87b7ed7e.webp",
+            "Tips": [
+                {
+                    "title": "Offer Acceptance",
+                    "description": "Used when saying yes to something given or proposed.",
+                    "example": "When offered a scholarship, she quickly accepted it.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/AhiNCtKaIX7xoJjeROsIeN5JSc0.webp"
+                },
+                {
+                    "title": "Polite Response",
+                    "description": "Shows willingness to receive or welcome what's offered, often out of politeness.",
+                    "example": "She accepted his invitation to dinner with a smile.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/eUXiw9nnev7FScu1pVooN01z1MY.webp"
+                }
+            ]
+        },
+        {
+            "id": "c1938db9-5300-4dbb-a2fe-b28d5f6a11aa",
+            "de": "to agree or consent to",
+            "ty": "verb",
+            "ex": "I accept your apology.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accept an apology",
+                " accept a proposal",
+                " accept responsibility"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c1938db9-5300-4dbb-a2fe-b28d5f6a11aa.webp",
+            "Tips": [
+                {
+                    "title": "Acknowledging Apologies",
+                    "description": "Indicates forgiveness or understanding of an apology.",
+                    "example": "He accepted her apology, knowing everyone makes mistakes.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Consenting Decisions",
+                    "description": "Expresses agreement with a decision or arrangement.",
+                    "example": "She accepted the terms of the contract without any objections.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bb2c08c0-74e3-4dd7-ac3b-f87a7184b273",
+            "de": "to believe or come to recognize as valid or correct",
+            "ty": "verb",
+            "ex": "He has finally accepted the truth.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accept the truth",
+                " accept facts",
+                " accept reality"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bb2c08c0-74e3-4dd7-ac3b-f87a7184b273.webp",
+            "Tips": [
+                {
+                    "title": "Embracing Truth",
+                    "description": "Recognizing something as true, often reluctantly or after denial.",
+                    "example": "After the trial, he accepted the jury's verdict as the truth.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Acknowledging Reality",
+                    "description": "Admitting facts or reality, sometimes as a part of acceptance.",
+                    "example": "They had to accept the harsh realities of the business world.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6be73b4c-0dde-4543-9d16-68f326b6019f",
+            "de": "to endure a difficult or unpleasant situation",
+            "ty": "verb",
+            "ex": "We have to accept the situation as it is.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accept the situation",
+                " accept the consequences",
+                " accept hardships"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6be73b4c-0dde-4543-9d16-68f326b6019f.webp",
+            "Tips": [
+                {
+                    "title": "Dealing with Difficulty",
+                    "description": "Indicates surrendering to situations beyond one's control.",
+                    "example": "In times of crisis, people learn to accept and adapt.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Tolerating Situations",
+                    "description": "Implies bearing situations without trying to change them.",
+                    "example": "You must accept certain delays when traveling.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "12d194c4-2346-4559-a4de-67d8de658392",
+            "de": "to regard as true or suitable",
+            "ty": "verb",
+            "ex": "We don't accept your theory.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accept a theory",
+                " accept advice",
+                " accept a viewpoint"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/12d194c4-2346-4559-a4de-67d8de658392.webp",
+            "Tips": [
+                {
+                    "title": "Accepting Opinions",
+                    "description": "Use it to show agreement with or acknowledgement of someone's views.",
+                    "example": "Though controversial, the professor accepted their hypothesis.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "05ef45c5-46cb-4996-baca-51cd2a59808c",
+            "de": "to receive (a bill of exchange) or observe (a condition)",
+            "do": "finance",
+            "ty": "verb",
+            "ex": "The bank accepted the check.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accept a check",
+                " accept a bill",
+                " accept payment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/05ef45c5-46cb-4996-baca-51cd2a59808c.webp",
+            "Tips": [
+                {
+                    "title": "Financial Transactions",
+                    "description": "Used in banking or finance to acknowledge legal or financial instruments.",
+                    "example": "The cashier accepted the travelers' checks without hesitation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Observing Conditions",
+                    "description": "Financial or legal context implying compliance with terms.",
+                    "example": "The company accepted all conditions laid out in the agreement.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Acknowledge": {
+            "wordRoot": "Acknowledge",
+            "wordDefinition": "Acknowledge means to recognize or admit that something is true or real. For example, you can acknowledge a mistake you made, or acknowledge someone's hard work.\n\nAccept is used when you want to take something or agree to something, while acknowledge is used when you want to admit something or give recognition to someone or something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/09f474c2-c750-4257-a063-40f64d1f85a8.webp"
+        },
+        "Approve": {
+            "wordRoot": "Approve",
+            "wordDefinition": "Approve means to give permission or to think that something is good or right. For example, if your parents approve of your choice of friends, they think that your friends are good people.\n\nAccept is used when someone is simply receiving something, while approve is used when someone is giving permission or expressing a positive opinion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6fb1d5e8-037d-4744-8137-b3a38373a4a2.webp"
+        },
+        "Embrace": {
+            "wordRoot": "Embrace",
+            "wordDefinition": "Embrace means to fully accept and welcome something or someone with open arms, or to adopt an idea or belief enthusiastically.\n\nIt's like saying \"not only do I accept this, but I fully embrace and support it.\"\n\nEach word is applicable in different contexts. You might accept the fact that you have to do chores, but you might embrace a new hobby or interest.\n\nYou might accept criticism from someone, but you might embrace a new friendship or relationship.\n\nIn short, accepting is more passive while embracing is more active and enthusiastic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4cb90e41-d36e-4f28-9988-162686c0b434.webp"
+        },
+        "Endorse": {
+            "wordRoot": "Endorse",
+            "wordDefinition": "Endorse means to publicly support or promote something. For example, a celebrity might endorse a product by appearing in an advertisement or by giving a positive review.\n\nA politician might endorse a candidate by endorsing them in a speech or on social media.\n\nAccept is focused on receiving or acknowledging something, while endorse is focused on supporting or promoting something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d6371da8-9f69-4d21-bebb-f06a8cfd4a80.webp"
+        },
+        "Permit": {
+            "wordRoot": "Permit",
+            "wordDefinition": "Permit means to allow something to happen or be done. For example, your parents might permit you to go to a party if you promise to be home at a reasonable time.\n\nAccept is used when talking about your own feelings or beliefs, while permit is used when talking about allowing or disallowing someone else's actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3b308e0a-6f60-40ad-8907-0913004efaff.webp"
+        },
+        "Receive": {
+            "wordRoot": "Receive",
+            "wordDefinition": "Both the words accept and receive mean to get or take something, but there is a slight difference between them.\n\nReceive means to get or take something that is being given or delivered, whether you want it or not. For example, you receive a package from the mailman or receive a fine for breaking a traffic rule.\n\nAccept denotes a willingness to take something while receive means something is simply delivered or given to you.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c33f6543-24f3-4102-9669-59e5c016c3c1.webp"
+        },
+        "Recognize": {
+            "wordRoot": "Recognize",
+            "wordDefinition": "Recognize means to identify or acknowledge something or someone as familiar or known. It is applicable when someone identifies or acknowledges something, such as recognizing a friend at a distance or recognizing the importance of an achievement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/782e53b6-e1b3-4bc2-bc0f-c2ef081f0db2.webp"
+        },
+        "Support": {
+            "wordRoot": "Support",
+            "wordDefinition": "Support means to actively help or promote something. This can be anything from lending emotional support to a friend going through a tough time, to actively campaigning for a political cause or social issue.\n\nEssentially, accept means to acknowledge something without necessarily endorsing it, while support means actively aiding a cause or person.\n\nBoth words have their place depending on the situation - sometimes you might accept something you don't agree with, while other times you may actively support something you believe in.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f630745-f3a5-4454-92eb-c75d98a5f411.webp"
+        },
+        "Welcome": {
+            "wordRoot": "Welcome",
+            "wordDefinition": "Welcome generally means to greet someone or something warmly, or to show hospitality. For example, if someone visits your house, you might welcome them in and offer them something to drink.\n\nIf you express your happiness or excitement for someone's arrival, you might also say \"welcome!\"\n\nAccept is more about receiving or agreeing to something, while welcome is more about showing hospitality or greeting something/someone warmly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3bc353ce-ab6e-4878-ac61-07ea5cc0432c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and spent the last half of his life in and out of mental institutions. But eventually, his ideas won out. Today, they're considered fundamental and magnificent. All research mathematicians accept these ideas, every college math major learns them, and I've explained them to you in a few minutes. Some day, perhaps, they'll be common knowledge.",
+            "Title": "How big is infinity? -...",
+            "VideoId": "UPA3bwVVzGI",
+            "Controls": "start=341"
+        },
+        {
+            "Text": " It was in front of the whole class and I felt dreadful. But it's what I wanted, and as soon as I left school, I applied to the fire service and I was accepted. You know, I was thinking about that guy recently, just a few minutes ago when you were speaking, about this teacher, because six months ago, I saved his life.\"",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=610"
+        },
+        {
+            "Text": " and so the students spent a great deal of their time learning how to fight. To ensure resilience in battle, boys were encouraged to fight among themselves, and bullying, unlike today, was acceptable. In order to better prepare the boys for the conditions of war,",
+            "Title": "This is Sparta: Fierce...",
+            "VideoId": "M7V1a1I5BL0",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " to increase the chances of his plan being accepted. But it turns out he can do much better than that. Why? Like we said, the pirates all know each other to be top-notch logicians. So when each votes, they won't just be thinking about the current proposal,",
+            "Title": "Can you solve the pirate...",
+            "VideoId": "Mc6VA7Q1vXQ",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " Unlike variolation, which used actual smallpox virus to try to protect people, vaccination used the far less dangerous cowpox virus. The medical establishment, cautious then as now, deliberated at length over his findings before accepting them.",
+            "Title": "How we conquered the...",
+            "VideoId": "yqUFy-t4MlQ",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " Germany had to accept full responsibility for the war and pay reparations, debilitating its already weakened economy. All this was seen as a humiliation by many nationalists and veterans. They wrongly believed the war could have been won",
+            "Title": "How did Hitler rise to...",
+            "VideoId": "jFICRFKtAc4",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " acceptable once that person accepts that they are an extremist and when they act on that there are a violent extremists so first and foremost basic psychological discourse on nature versus nurture and this is how we grow up",
+            "Title": "An inside look at...",
+            "VideoId": "RK8zb8dA4G4",
+            "Controls": "start=471"
+        },
+        {
+            "Text": " not only pardoning him but even accepting him as a close advisor and elevating him to important posts. Brutus was hesitant to conspire against the man who had treated him like a son, but in the end,",
+            "Title": "The great conspiracy...",
+            "VideoId": "wgPymD-NBQU",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " upstairs or how breaking with what she going to do it's I said commitments to accept mmm I was a terrified them and I said come and I just like to enjoy new",
+            "Title": "Hear How Diana...",
+            "VideoId": "rLuEFN43CzM",
+            "Controls": "start=63"
+        },
+        {
+            "Text": " of life accepting change we discover freedom of mind",
+            "Title": "Decompress In The Dunes...",
+            "VideoId": "n3KjX6TMHZA",
+            "Controls": "start=151"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/future.webp",
+            "Text": "I like all types of women. I accept them as they are when they come into my life... But I'm not a romantic. I'm just up-front. I like to be a part of something real, not make-believe. I tell women to tell me the truth, to just lay it out. Let me be the judge and decide if I want you around or not. Let me have my choice.",
+            "Title": "American Musician",
+            "Name": "Future"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-frost.webp",
+            "Text": "Always fall in with what you're asked to accept. Take what is given, and make it over your way. My aim in life has always been to hold my own with whatever's going. Not against: with.",
+            "Title": "American Poet",
+            "Name": "Robert Frost"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/voltaire.webp",
+            "Text": "Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.",
+            "Title": "French Writer",
+            "Name": "Voltaire"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maya-angelou.webp",
+            "Text": "My great hope is to laugh as much as I cry; to get my work done and try to love somebody and have the courage to accept the love in return.",
+            "Title": "American Poet",
+            "Name": "Maya Angelou"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-ward-beecher.webp",
+            "Text": "God asks no man whether he will accept life. That is not the choice. You must take it. The only choice is how.",
+            "Title": "American Clergyman",
+            "Name": "Henry Ward Beecher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joseph-campbell.webp",
+            "Text": "We must let go of the life we have planned, so as to accept the one that is waiting for us.",
+            "Title": "American Author",
+            "Name": "Joseph Campbell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-miller.webp",
+            "Text": "Until we accept the fact that life itself is founded in mystery, we shall learn nothing.",
+            "Title": "American Author",
+            "Name": "Henry Miller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bette-davis.webp",
+            "Text": "The key to life is accepting challenges. Once someone stops doing this, he's dead.",
+            "Title": "American Actress",
+            "Name": "Bette Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jordan-peterson.webp",
+            "Text": "Accept the terrible responsibility of life with eyes wide open.",
+            "Title": "Canadian Psychologist",
+            "Name": "Jordan Peterson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-kerouac.webp",
+            "Text": "Accept loss forever.",
+            "Title": "American Novelist",
+            "Name": "Jack Kerouac"
+        }
+    ]
+}

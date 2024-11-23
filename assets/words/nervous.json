@@ -1,0 +1,330 @@
+{
+    "currentWord": {
+        "wordRoot": "nervous",
+        "id": 7658,
+        "phonemic": "ˈnɜːvəs|ˈnɜːrvəs\r",
+        "bigId": "8081e234-aa06-4fcf-95b2-702d559e11f4",
+        "wordForms": [
+            "nervously",
+            "nervousness",
+            "nervous"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8081e234-aa06-4fcf-95b2-702d559e11f4",
+            "de": "Feeling anxious or scared, often because of something that might happen",
+            "ty": "adjective",
+            "ex": "She felt very nervous before her exam.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "nervous about",
+                " nervous before",
+                " feel nervous"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8081e234-aa06-4fcf-95b2-702d559e11f4.webp",
+            "Tips": [
+                {
+                    "title": "Expectation Anxiety",
+                    "description": "Used when fear of the unknown or future events causes anxiety.",
+                    "example": "I'm nervous about the results; they could change everything.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GKAEYfOMiGfnSTpJL5uiz0PLY.webp"
+                },
+                {
+                    "title": "Emotion Intensity",
+                    "description": "The degree varies from slight unease to intense fear.",
+                    "example": "She was a bit nervous meeting his parents, but it went well.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/opN2kkv9hK4Sw1y7ulKtAXcKS4.webp"
+                },
+                {
+                    "title": "Non-Medical Use",
+                    "description": "Commonly used in everyday situations, not related to medical conditions.",
+                    "example": "Jack gets nervous before every football match.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/cOwBXbgpgc7F6YU9UZxlhD8CXI.webp"
+                }
+            ]
+        },
+        {
+            "id": "e19cca0c-bc2e-4163-a309-a952205e76f4",
+            "de": "Easily agitated or alarmed",
+            "ty": "adjective",
+            "ex": "You must be patient with him. He's a nervous type.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "nervous person",
+                " nervous type",
+                " nervous temperament"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e19cca0c-bc2e-4163-a309-a952205e76f4.webp",
+            "Tips": [
+                {
+                    "title": "Personality Trait",
+                    "description": "Describes someone inclined to anxiety, often generally, not just in one situation.",
+                    "example": "Mara is nervous by nature and worries over small things.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Composure Absence",
+                    "description": "Implies a lack of calmness or composure in one's manner.",
+                    "example": "He answered with a nervous laugh, avoiding eye contact.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Body Language Cues",
+                    "description": "Physical signs, like fidgeting or sweating, can show nervousness.",
+                    "example": "Her nervous fidgeting betrayed her confident tone.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ec15ca56-7a93-494a-966f-638c7d25d3c8",
+            "de": "Related to the nerves or nervous system",
+            "do": "Medical",
+            "ty": "adjective",
+            "ex": "He's suffering from a nervous disorder.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "nervous disorder",
+                " nervous system",
+                " nervous disease"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ec15ca56-7a93-494a-966f-638c7d25d3c8.webp",
+            "Tips": [
+                {
+                    "title": "Medical Context",
+                    "description": "Used in discussions about health, specifically regarding the nervous system.",
+                    "example": "After the accident, she developed a nervous twitch.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technical Language",
+                    "description": "Often found in medical or scholarly texts, not in casual conversation.",
+                    "example": "The neurologist specializes in nervous system pathologies.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Biology Classes",
+                    "description": "Might be used when learning about human anatomy and physiology.",
+                    "example": "During biology class, we studied the central nervous system.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3cbb4037-1b72-474f-843b-839279ecff26",
+            "de": "Showing skill or sensitivity in dealing with people or difficult issues",
+            "ty": "adjective",
+            "ex": "A nervous negotiation with the kidnappers",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "nervous negotiation",
+                " nervous handling",
+                " nervous approach"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3cbb4037-1b72-474f-843b-839279ecff26.webp",
+            "Tips": [
+                {
+                    "title": "Delicate Handling",
+                    "description": "Refers to careful, considerate management of tricky situations.",
+                    "example": "The peace talks required nervous diplomacy.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Skilled Performance",
+                    "description": "Indicates performing tasks with exceptional awareness and precision.",
+                    "example": "The bomb technician’s nervous handwork saved lives.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Anxious": {
+            "wordRoot": "Anxious",
+            "wordDefinition": "Anxious and nervous are two similar words, but they are used in slightly different situations.\n\nAnxious generally describes a feeling of worry or unease about something that might happen in the future. For example, a student might feel anxious about an upcoming exam.\n\nAnxious describes a general feeling of worry about something that hasn't happened yet, while nervous describes a specific feeling of unease in the present or near future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a5fa15b-9a5a-4460-913c-aa7f37c8b722.webp"
+        },
+        "Apprehensive": {
+            "wordRoot": "Apprehensive",
+            "wordDefinition": "Apprehensive means feeling worried or uneasy about something that may happen in the future, while nervous means feeling uneasy or anxious about something that is happening right now.\n\nFor example, someone might feel apprehensive about an upcoming exam because they are worried about how they will do. On the other hand, they might feel nervous during the exam because of the pressure they are feeling in that moment.\n\nApprehensive is more about future events that haven't happened yet, while nervous is more about present situations that are causing anxiety or unease.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a0bc347-1ae4-4678-9295-ad56faf0a57c.webp"
+        },
+        "Edgy": {
+            "wordRoot": "Edgy",
+            "wordDefinition": "Edgy means that someone is on the verge of being irritated or impatient, often with tension or anxiety. This is typically used when someone is \"on edge\" or easily agitated.\n\nEdgy describes a person who is easily agitated, while nervous describes a person who is feeling anxious or worried.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bb1b011a-8ab9-49d6-94aa-ec13e2d1cd0c.webp"
+        },
+        "Fidgety": {
+            "wordRoot": "Fidgety",
+            "wordDefinition": "Fidgety refers to the need to move around and the inability to sit or stand still.\n\nIt is used when someone feels anxious or apprehensive. Fidgety is applicable when someone is physically restless, while nervous is applicable when someone is emotionally unsettled.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cba5ba1b-9000-4082-aa2e-8d079b978781.webp"
+        },
+        "Jittery": {
+            "wordRoot": "Jittery",
+            "wordDefinition": "Both jittery and nervous refer to a feeling of anxiety or unease. Jittery usually means someone who is visibly restless and twitchy, while nervous typically refers to more of an emotional state of anxiety or fear.\n\nFor example, if someone is jittery, they might shake or fidget and seem unable to sit still. If someone is nervous, they might feel a knot in their stomach or be worried about something specific, like a test or a job interview.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f3880ebd-08fe-433f-a432-3203d2fba2ca.webp"
+        },
+        "Perturb": {
+            "wordRoot": "Perturb",
+            "wordDefinition": "Perturb means to disturb or unsettle someone, often to a greater extent than simply feeling nervous. It implies a more significant disruption or disturbance to one's emotional state, and can refer to a broader range of circumstances, such as being disturbed by a loud noise or upset by a traumatic event.\n\nNervous is a mild form of feeling uneasy, while perturb is a stronger state of being unsettled or disturbed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bae113a-a482-4cb0-a39b-13cbda0a7dae.webp"
+        },
+        "Restless": {
+            "wordRoot": "Restless",
+            "wordDefinition": "Restless is used when you feel unsettled or agitated, but you may not necessarily know the reason behind it.\n\nIt's like having a lot of energy but not knowing what to do with it. For example, you could feel restless when you're stuck at home on a rainy day and don't have anything to do.\n\nSo, nervousness is usually linked to a specific situation or object, whereas restlessness is more general and could stem from boredom, excitement, or just having excess energy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e1be1fa9-2e7f-49fe-a117-e4f200a65b6f.webp"
+        },
+        "Tense": {
+            "wordRoot": "Tense",
+            "wordDefinition": "Nervous and tense both describe feelings of discomfort or anxiety, but there are slight differences in their meanings.\n\nTense, on the other hand, describes a physical state of tightness or rigidity that can come from stress or anxiety. You might feel tense in your muscles when you're worried, especially in places like your shoulders, neck, or jaw.\n\nNervous refers more to an emotional or mental state, while tense refers more to a physical state.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/86a0fa1f-5cf4-4b3b-9627-3f8fa33831f1.webp"
+        },
+        "Uneasy": {
+            "wordRoot": "Uneasy",
+            "wordDefinition": "Nervous and uneasy both describe a feeling of discomfort and apprehension.\n\nFor example, a person might feel nervous before a job interview or a big test. Uneasy, on the other hand, is a more general feeling of discomfort, often related to a sense of unease or uncertainty about a particular situation or circumstance.\n\nFor example, a person might feel uneasy in a new social setting or when confronting a difficult choice. Nervous is more specific and related to anxiety or fear, while uneasy is more general and related to discomfort or uncertainty.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/54ef312f-d6e7-4053-9deb-cfed5a565cac.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " people here it just becomes like it becomes a lot so it's like a magician like you took something that wasn't alive and you made it come alive awesome what else is a puppeteer an actor you look at the puppet and you get it and you go what kind of character can this be well he could be nervous like he was or he could just be like you know mr. Chopra but hey guy welcome to the",
+            "Title": "Life lessons from a...",
+            "VideoId": "DKgzMjgbUbU",
+            "Controls": "start=265"
+        },
+        {
+            "Text": " observed along with physical symptoms such as increased heart rate, low blood pressure and rapid breathing or signs of central nervous system disfunction such as confused behavior, aggression or loss of consciousness. The most feasible and accurate way to assess core body temperature is with a rectal thermometer",
+            "Title": "What happens when you...",
+            "VideoId": "PpHM4DfPZQU",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " is reaching down from the cold world above the guys came up utterly exhausted and we set it to run for an eight hour eight hour time lapse and we knew we then had to go away and the next day uh come back to retrieve and we we came back and there was a you know we were very nervous you know with",
+            "Title": "Filming Antarctica's...",
+            "VideoId": "BtQhb8sWJNw",
+            "Controls": "start=378"
+        },
+        {
+            "Text": " or the body's tiniest skeletal muscle, a one-millimeter-long tissue fragment called the stapedius that's nestled deep inside the ear. Wherever they occur, skeletal muscles are connected to the somatic nervous system, which gives us almost complete control over their movements.",
+            "Title": "How your muscular system...",
+            "VideoId": "VVL-8zr2hk4",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " along their bodies. Together with the brain, these local ganglia form the insect nervous system. While an insect can do a lot with just its local ganglia, the brain is still crucial for its survival. An insect's brain lets it perceive the world through sight and smell.",
+            "Title": "Why the insect brain is...",
+            "VideoId": "OQw3TNRnJ1I",
+            "Controls": "start=84"
+        },
+        {
+            "Text": " and while I was out there floating, I started to get a little bit nervous. Actually, I was totally freaking out -- -- and I was borderline hypothermic, and my friends eventually had to help me out of the water. And I don't know if it was delirium setting in or what,",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=475"
+        },
+        {
+            "Text": " cardiovascular and nervous systems are also utilized by the lymphatic system a collection of lymph nodes and vessels that help regulate the body's defenses Also called the immune system the lymphatic system uses neural pathways to transmit information",
+            "Title": "Human Body 101 PIPE...",
+            "VideoId": "Ae4MadKPJC0",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " so your brain appeals to other muscles for help. You plant your feet, tighten your belly, and tense your back, generating enough force to yank it open. Your nervous system has just leveraged the resources you already have, other muscles,",
+            "Title": "What makes muscles grow?...",
+            "VideoId": "2tM1LFFxeKg",
+            "Controls": "start=68"
+        },
+        {
+            "Text": " The X chromosome, on the other hand, contains important genes for things other than sex determination or reproduction, like nervous system development, skeletal muscle function, and the receptors in the eyes that detect green light.",
+            "Title": "Secrets of the X...",
+            "VideoId": "veB31XmUQm8",
+            "Controls": "start=104"
+        },
+        {
+            "Text": " it's toxic to insects. But when they consume it in lower doses, as it's found in nectar, it can actually help them remember and revisit flowers. In the human body, caffeine acts as a stimulant for the central nervous system.",
+            "Title": "How does caffeine keep...",
+            "VideoId": "foLf5Bi9qXs",
+            "Controls": "start=53"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-ma.webp",
+            "Text": "I'm humble 'cause I think many years ago people say, 'Well, Alibaba's terrible company'. And I know we were not that terrible. We're pretty good; we're better than people thought. But today, when people have a high expectation on you, and I start to worry and nervous because we are not good yet.",
+            "Title": "Chinese Businessman",
+            "Name": "Jack Ma"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adele.webp",
+            "Text": "I get so nervous on stage I can't help but talk. I try. I try telling my brain: stop sending words to the mouth. But I get nervous and turn into my grandma. Behind the eyes it's pure fear. I find it difficult to believe I'm going to be able to deliver.",
+            "Title": "English Singer",
+            "Name": "Adele"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emmy-rossum.webp",
+            "Text": "Guys usually like a very natural look. I think it's bad idea to wear a strong lip on a first date - or for the first few dates. I'm always too nervous he'll kiss it off - if I'm lucky enough to get a kiss! I also think soft, sexy hair is important.",
+            "Title": "American Actress",
+            "Name": "Emmy Rossum"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-harrison.webp",
+            "Text": "They gave their money, and they gave their screams. But the Beatles kind of gave their nervous systems. They used us as an excuse to go mad, the world did, and then blamed it on us.",
+            "Title": "British Musician",
+            "Name": "George Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gabriela-sabatini.webp",
+            "Text": "When I got to match point in the final I was afraid I'd be a little nervous, but I just said, You have to stay focused, just think about what you have to do.",
+            "Title": "Argentinian Athlete",
+            "Name": "Gabriela Sabatini"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emily-browning.webp",
+            "Text": "In my everyday life I'm a little bit nervous and not particularly brave. I feel like if I can be completely brave in my work then I'm doing something right.",
+            "Title": "Australian Actress",
+            "Name": "Emily Browning"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hunter-hayes.webp",
+            "Text": "Anyone who tells you they're not nervous playing on the CMAs stage, I'm afraid they're not telling you the whole story.",
+            "Title": "American Musician",
+            "Name": "Hunter Hayes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/corin-nemec.webp",
+            "Text": "I very rarely get nervous as an actor. Very rarely.",
+            "Title": "American Actor",
+            "Name": "Corin Nemec"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sean-hayes.webp",
+            "Text": "I have the most nervous stomach in the world.",
+            "Title": "American Actor",
+            "Name": "Sean Hayes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andrew-neil.webp",
+            "Text": "I get nervous if the bath is too deep.",
+            "Title": "British Journalist",
+            "Name": "Andrew Neil"
+        }
+    ]
+}

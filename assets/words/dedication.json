@@ -1,0 +1,339 @@
+{
+    "currentWord": {
+        "wordRoot": "dedication",
+        "id": 6790,
+        "phonemic": "ˌdedɪˈkeɪʃn|ˌdedɪˈkeɪʃn\r",
+        "bigId": "6b856042-b99e-48fd-82af-a95ffdb6b929",
+        "wordForms": [
+            "dedications",
+            "dedication"
+        ]
+    },
+    "senses": [
+        {
+            "id": "6b856042-b99e-48fd-82af-a95ffdb6b929",
+            "de": "The feeling of very strong support for or loyalty to someone or something, the quality of being dedicated.",
+            "ty": "noun",
+            "ex": "His dedication to teaching is admirable.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "show dedication",
+                " lack of dedication",
+                " dedication towards"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6b856042-b99e-48fd-82af-a95ffdb6b929.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Strength",
+                    "description": "Indicates strong emotional ties to a cause or person, often involving personal sacrifice.",
+                    "example": "Her dedication to animal rights is inspiring.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/59hGuxI2ceYNOhVSJlyuvdSnKSk.webp"
+                },
+                {
+                    "title": "Not Fleeting",
+                    "description": "Suggests long-term commitment, rather than temporary interest.",
+                    "example": "His lifelong dedication to science has led to many discoveries.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QmbXWU4Skx611gKLjh3UljRMc.webp"
+                }
+            ]
+        },
+        {
+            "id": "3f50eaad-4096-4f44-a727-3740b35ec6c3",
+            "de": "The action of devoting time, effort, or yourself to a particular task or purpose.",
+            "ty": "noun",
+            "ex": "She thanked her parents for their dedication to her education.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "dedication to a cause",
+                " shows dedication",
+                " requires dedication"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3f50eaad-4096-4f44-a727-3740b35ec6c3.webp",
+            "Tips": [
+                {
+                    "title": "Active Contribution",
+                    "description": "Involves actively giving time and effort, not just emotional support.",
+                    "example": "The project required dedication from all team members.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Routine",
+                    "description": "It means going above what is ordinarily expected; extraordinary effort.",
+                    "example": "Her dedication to studying at weekends paid off with top grades.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9735db1e-9051-40c0-9120-af8174239251",
+            "de": "In religious context, the act of consecrating an altar, temple, church, or other sacred building.",
+            "do": "Religious",
+            "ty": "noun",
+            "ex": "The bishop will perform the dedication of the new church.",
+            "use": "",
+            "co": "Religious",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "dedication ceremony",
+                " church dedication",
+                " temple dedication"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9735db1e-9051-40c0-9120-af8174239251.webp",
+            "Tips": [
+                {
+                    "title": "Sacred Acts",
+                    "description": "Used for special religious rituals that set apart a place or object as holy.",
+                    "example": "The dedication of the new altar was a solemn occasion.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Community Events",
+                    "description": "Often involves a gathering of people to witness and celebrate the ritual.",
+                    "example": "The community joined the dedication of the renovated cathedral.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7fb3238a-362d-478f-b7b4-6b02987777d3",
+            "de": "In literature, a paragraph at the beginning of a book or a chapter where the author honors someone by saying that the book is written for or dedicated to that person.",
+            "do": "Literary",
+            "ty": "noun",
+            "ex": "The dedication in the book was to her grandparents.",
+            "use": "",
+            "co": "Literary",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "book dedication",
+                " write a dedication",
+                " dedication page"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7fb3238a-362d-478f-b7b4-6b02987777d3.webp",
+            "Tips": [
+                {
+                    "title": "Personal Tribute",
+                    "description": "Reflects a personal connection or gratitude to someone influential.",
+                    "example": "She included a heartfelt dedication to her mentor in her thesis.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Public Acknowledgment",
+                    "description": "It's a way to publicize respect or love for someone within a professional work.",
+                    "example": "The novel's dedication to his parents was printed on the first page.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "e0ee8d32-9d19-4eaa-88ec-3c76c0706b5f",
+            "de": "A ceremony to mark the official completion or opening of something such as a building.",
+            "ty": "noun",
+            "ex": "The dedication ceremony will take place next week.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "dedication ceremony",
+                " monument dedication",
+                " plaque dedication"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e0ee8d32-9d19-4eaa-88ec-3c76c0706b5f.webp",
+            "Tips": [
+                {
+                    "title": "Recognizing Effort",
+                    "description": "Celebrates the hard work and achievement involved in completing a project.",
+                    "example": "At the building's dedication, the mayor thanked the construction workers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Milestone Event",
+                    "description": "Marks the significance of achieving a major goal or opening.",
+                    "example": "The new library's dedication invited the whole town to celebrate.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Allegiance": {
+            "wordRoot": "Allegiance",
+            "wordDefinition": "Allegiance means to be loyal and devoted to a particular group, cause, or leader. It is mostly used in a political or national context, where citizens pledge their allegiance to their country or government.\n\nFor example, citizens of the United States pledge allegiance to their country by reciting the Pledge of Allegiance.\n\nAllegiance refers to loyalty to a group or cause, while dedication refers to commitment towards a particular task or goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8c846aa0-5603-4341-8708-fe9843ce8da3.webp"
+        },
+        "Ardour": {
+            "wordRoot": "Ardour",
+            "wordDefinition": "Ardour and dedication are both words that describe strong feelings towards something or someone.\n\nHowever, ardor is more commonly associated with passion or enthusiasm, while dedication is more focused on commitment or perseverance.\n\nFor example, someone might have ardor for a hobby like painting, meaning they feel a strong excitement or joy when doing it.\n\nBoth ardor and dedication can be applicable in many areas of life, including work, hobbies, relationships, and personal goals.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/28968ad7-c102-461d-a6e6-95c1768981d8.webp"
+        },
+        "Commitment": {
+            "wordRoot": "Commitment",
+            "wordDefinition": "Commitment and dedication both involve giving something one's full attention and effort, but they differ in their focus.\n\nCommitment refers to a promise or obligation to do something, often involving a specific task or goal. For example, a student may make a commitment to study hard and do well in school, or an athlete may make a commitment to train regularly and strive for success in their sport.\n\nDedication refers to a strong passion or loyalty to a particular cause or activity. It often involves a long-term commitment or investment of time and energy.\n\nBoth commitment and dedication are important qualities to have in various areas of life, and they often go hand in hand.\n\nHowever, commitment is typically more focused on achieving a specific goal, while dedication is more focused on pursuing a particular passion or cause.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f647871-5fd1-40e5-830c-b930c2d65a92.webp"
+        },
+        "Consecrate": {
+            "wordRoot": "Consecrate",
+            "wordDefinition": "The words consecrate and dedication both mean to dedicate something to a higher purpose or to make something sacred.\n\nHowever, consecrate typically refers to a religious or spiritual act of making something holy or setting it apart for a sacred purpose.\n\nFor example, a church may consecrate its altar or a piece of land for a sacred purpose, while a person may dedicate their life to a particular cause or profession.\n\nBoth words can be used in a spiritual context, but consecrate is more specific to religious practices, while dedication can be used more broadly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ebbe205d-6b74-48a9-9751-2a2acfc0e13f.webp"
+        },
+        "Devotion": {
+            "wordRoot": "Devotion",
+            "wordDefinition": "Devotion means showing loyalty, love, or commitment to someone or something.\n\nIt doesn't necessarily involve hard work, but rather a deep emotional connection or attachment. For example, a person may have a deep devotion to their family, their religion, or their favorite hobby.\n\nBoth dedication and devotion can be applicable in different situations depending on what is required. If you want to accomplish a specific goal or achieve success in a particular area, dedication is important.\n\nIf you want to show loyalty, love, or commitment to someone or something, devotion is more appropriate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2383f53a-40f0-4845-acd2-fb2c4a3ab7ea.webp"
+        },
+        "Fidelity": {
+            "wordRoot": "Fidelity",
+            "wordDefinition": "Fidelity refers to loyalty, faithfulness, and commitment to a particular person or group. For example, a dog may show fidelity to their owner by always being by their side, while a soldier may show fidelity to their country by serving in the military.\n\nFidelity is applicable in situations where loyalty and commitment to someone or something is important.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/924c20a4-0311-4ce5-a472-128244541aee.webp"
+        },
+        "Loyalty": {
+            "wordRoot": "Loyalty",
+            "wordDefinition": "Loyalty is the act of being faithful and committed to someone or something. It involves standing by someone or something even during difficult times.\n\nLoyalty is often seen in relationships, friendships, and business partnerships.\n\nBoth dedication and loyalty involve commitment, but dedication is more about effort and hard work towards a goal, while loyalty is more about being faithful to a person or thing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/40be2735-2ae0-4f66-b61a-b6b6083afd98.webp"
+        },
+        "Zeal": {
+            "wordRoot": "Zeal",
+            "wordDefinition": "Zeal means having enthusiasm and passion for something.\n\nZeal is often associated with excitement, energy, and a strong desire to succeed.\n\nDedication is about putting in the effort required to achieve something, while zeal is about being enthusiastic and passionate about it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/297a8f3d-3210-4440-a415-0438925a0451.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " to high quality healthcare? Did your brother have to overcome his dyslexia, and you helped him with his reading? And so, you became really attuned to education policy. When you're in an interview, go ahead and talk about them, because it will show your passion and your dedication to the work.",
+            "Title": "How your unique story...",
+            "VideoId": "wY7Tn-JW9No",
+            "Controls": "start=133"
+        },
+        {
+            "Text": " people really inspired me and and I admired their dedication and their passion but most of all I also appreciated that each one of them seemed to share a similar philosophy they seemed to understand that it would take careful long-term investigation to unravel ecological mysteries and they",
+            "Title": "Andrea Marshall: Queen...",
+            "VideoId": "0k_Ky_H8Ods",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " There's a trust and an understanding and a dedication to an ideal that I simply don't have to do what I thought I had to do as a beginning control every conversation and response in the classroom. It's impossible. Their collective wisdom is much greater than mine,",
+            "Title": "John Hunter: Teaching...",
+            "VideoId": "0_UTgoPUTLQ",
+            "Controls": "start=729"
+        },
+        {
+            "Text": " so for the first few weeks they were left as undisturbed as possible and was she a good mother was she looking after them as well yeah yeah she was licking them with dedication you know and very protective is that normal would you",
+            "Title": "New-born Amur Leopards PIPE...",
+            "VideoId": "q_qmD8BIh8w",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " so claims the man himself it's possible this puff ignited what some historians call the rage to master a voracious dedication to push the boundaries of one's craft this obsessive personality led Picasso down a lifelong path of",
+            "Title": "Where Did Pablo...",
+            "VideoId": "57lrZZt4Cc0",
+            "Controls": "start=8"
+        },
+        {
+            "Text": " and then we were on the right track thirty years of research and dedication paid off the success rate with orphans soared and has paid dividends for matora who would almost certainly have died but for the success",
+            "Title": "Feeding Baby Orphaned...",
+            "VideoId": "qoXBIDikriU",
+            "Controls": "start=321"
+        },
+        {
+            "Text": " But when he glanced back, he was astounded to see the bedraggled princess stumbling along. He’d never seen such devotion to the dead, and he honored her dedication with one final wish.",
+            "Title": "Savitri and Satyavan:...",
+            "VideoId": "1vB0gFi8uow",
+            "Controls": "start=261"
+        },
+        {
+            "Text": " years of research and dedication paid off the success rate with orphans has soared and has paid dividends for mutora who would almost certainly have died but for the success",
+            "Title": "Adorable Baby Animal...",
+            "VideoId": "W9zdyytICHU",
+            "Controls": "start=950"
+        },
+        {
+            "Text": " dedication it's a constant work it's a humbling road where the respect for whole life form grows with the deep",
+            "Title": "A journey around the...",
+            "VideoId": "caA5YRF6S9Q",
+            "Controls": "start=967"
+        },
+        {
+            "Text": " the sense of commitment, responsibility, generosity and dedication to others,",
+            "Title": "José Antonio Abreu: The...",
+            "VideoId": "Uintr2QX-TU",
+            "Controls": "start=562"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-schwarzkopf.webp",
+            "Text": "A great deal of the capability of an army is its dedication to its cause and its will to fight. You can have the best equipment in the world, you can have the largest numbers in the world, but, if you're not dedicated to your cause, if you don't have the will to fight, then, you are not going to have a very good army.",
+            "Title": "American General",
+            "Name": "Norman Schwarzkopf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-thomas.webp",
+            "Text": "Everyone with a cell phone thinks they're a photographer. Everyone with a laptop thinks they're a journalist. But they have no training, and they have no idea of what we keep to in terms of standards, as in what's far out and what's reality. And they have no dedication to truth.",
+            "Title": "American Journalist",
+            "Name": "Helen Thomas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuan-yuan-tan.webp",
+            "Text": "For me, dance is about the aesthetics and the hard work that goes into creating something so beautiful. Motivation and dedication to the craft is what pushes me to do my best, to always strive to do better, and the outcome is always worth it.",
+            "Title": "Chinese Dancer",
+            "Name": "Yuan Yuan Tan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sergio-ramos.webp",
+            "Text": "To become a great player, you've got to show real dedication and commitment to football, and you've got to be very humble and hard-working. And, above all, you've got to fight to make your dreams come true.",
+            "Title": "Spanish Athlete",
+            "Name": "Sergio Ramos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dr-dre.webp",
+            "Text": "Everything in my life has been about sound and making music, so Beats represents just that - the improvement of sound and the dedication to everything I've been doing from the day I started.",
+            "Title": "American Musician",
+            "Name": "Dr. Dre"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ezra-taft-benson.webp",
+            "Text": "Unless you and your mate are united in purpose, dedication, and loyalty, you will not succeed to the extent you otherwise could.",
+            "Title": "American Leader",
+            "Name": "Ezra Taft Benson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marlon-brando.webp",
+            "Text": "To grasp the full significance of life is the actor's duty, to interpret it is his problem, and to express it his dedication.",
+            "Title": "American Actor",
+            "Name": "Marlon Brando"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mary-gauthier.webp",
+            "Text": "When you see validation for a life's work and dedication, it's a beautiful day.",
+            "Title": "American Musician",
+            "Name": "Mary Gauthier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ashish-vidyarthi.webp",
+            "Text": "Doing anything with dedication impacts life positively.",
+            "Title": "Indian Actor",
+            "Name": "Ashish Vidyarthi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brie-bella.webp",
+            "Text": "People's passion and dedication can conquer anything.",
+            "Title": "American Athlete",
+            "Name": "Brie Bella"
+        }
+    ]
+}

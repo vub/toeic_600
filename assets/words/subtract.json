@@ -1,0 +1,256 @@
+{
+    "currentWord": {
+        "wordRoot": "subtract",
+        "id": 3608,
+        "phonemic": "səbˈtrækt|səbˈtrækt\r",
+        "bigId": "1d6e560e-d3fc-4d14-b7f2-3721232af6dc",
+        "wordForms": [
+            "subtracts",
+            "subtracting",
+            "subtracted",
+            "subtract"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1d6e560e-d3fc-4d14-b7f2-3721232af6dc",
+            "de": "To take away a number or amount from another number or amount.",
+            "ty": "verb",
+            "ex": "If you subtract 2 from 5, you get 3.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subtract one number",
+                " subtract from total",
+                " subtract a certain amount"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1d6e560e-d3fc-4d14-b7f2-3721232af6dc.webp",
+            "Tips": [
+                {
+                    "title": "Math Operations",
+                    "description": "Used mainly for describing actions in basic math calculations.",
+                    "example": "Children learn how to subtract numbers in elementary school.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/eYa9IoTfKeQNy6XNPsL0jmGuSx0.webp"
+                },
+                {
+                    "title": "Beyond Numbers",
+                    "description": "Can describe reducing anything in quantity, not just numerical values.",
+                    "example": "If you subtract three apples from the basket, how many are left?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Q28iyj4kj3Se5y9onQgzwrFHqJc.webp"
+                },
+                {
+                    "title": "Negative Result",
+                    "description": "Subtracting a larger number from a smaller one gives a negative result.",
+                    "example": "Subtract 5 from 3, and you end up with negative two.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9vgq0lNPtHhzhM5b4wwio0g4B4.webp"
+                }
+            ]
+        },
+        {
+            "id": "26e83970-0f5a-4b97-bbee-669066e53dee",
+            "de": "To remove or take away something from an original total or group, often to make it smaller or less.",
+            "ty": "verb",
+            "ex": "You have to subtract the cost of production from the sales revenue to calculate the profit.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subtract the cost",
+                " subtract the amount",
+                " subtract the difference"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/26e83970-0f5a-4b97-bbee-669066e53dee.webp",
+            "Tips": [
+                {
+                    "title": "Financial Context",
+                    "description": "Often used in finance to explain calculating profits by removing costs.",
+                    "example": "To find net profit, subtract expenses from the gross income.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reducing Sizes",
+                    "description": "Applies to physically removing parts from a whole, resulting in a smaller size.",
+                    "example": "Subtract unwanted elements from the design to make it cleaner.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Abstract Concepts",
+                    "description": "Can be used metaphorically to describe removing non-physical items, like rights or privileges.",
+                    "example": "The new policy will subtract certain freedoms from the citizens.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Cut down": {
+            "wordRoot": "Cut down",
+            "wordDefinition": "Cut down implies reducing the quantity of something physical, such as a tree or a list of items.\n\nIt is usually used in a physical context. For example, \"The construction crew cut down the trees in the park to make space for the new building.\".",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dcd8f7bc-a35c-455a-a32b-714465e14a7a.webp"
+        },
+        "Decrease": {
+            "wordRoot": "Decrease",
+            "wordDefinition": "Decrease means to make something smaller or reduce its amount. It is applicable to any quantity or value that needs to be reduced.\n\nFor example, a company may decrease its expenses or a person may decrease their sugar intake.\n\nDecrease is used to make something smaller in general, while subtract is specifically used in mathematical calculations to find the difference between two values.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49f4a8f8-d896-4ab3-8eea-99e6df95bdf2.webp"
+        },
+        "Deduct": {
+            "wordRoot": "Deduct",
+            "wordDefinition": "Both deduct and subtract refer to the act of taking away one quantity from another. The difference is that deduct is usually used in the context of removing an amount from a total or a sum, such as when calculating taxes or discounts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f85f2b1-4227-41d4-9c9f-4a78ece6212a.webp"
+        },
+        "Diminish": {
+            "wordRoot": "Diminish",
+            "wordDefinition": "Diminish means to make something smaller or reduce its size, amount, or intensity. For example, if you have a full glass of water and you drink some, the amount of water in the glass diminishes.\n\nSubtract is used when you take away a specific quantity from a total, while diminish describes a reduction or decrease in something's size, amount, or intensity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4db99ecf-4dc9-4c74-b813-bd64a95f841f.webp"
+        },
+        "Minus": {
+            "wordRoot": "Minus",
+            "wordDefinition": "Both ‘minus’ and ‘subtract’ mean to take away, but they are used in different ways. ‘Minus’ is typically used when you are talking about numbers and their values, for example: 6 minus 2 equals 4.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20dc3db0-5fb0-4c90-848b-f46b15ab6a6b.webp"
+        },
+        "Reduce": {
+            "wordRoot": "Reduce",
+            "wordDefinition": "Reduce usually means making something smaller, while subtract means taking something away from a larger amount.\n\nFor example, if you reduce the size of a balloon, you make it smaller. If you subtract 2 from 5, you take away two and are left with 3.\n\nReduce is usually used when talking about size or amount, while subtract is typically used in math when solving equations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46be9f28-a68f-4b62-a438-202a8a114804.webp"
+        },
+        "Take away": {
+            "wordRoot": "Take away",
+            "wordDefinition": "Subtract and take away are both mathematical terms used to describe the process of finding the difference between two numbers.\n\nTake away is a more casual term and is often used in everyday language. It usually implies the physical act of removing something.\n\nFor example, \"I'm going to take away the toys from the children.\"\n\nIn summary, both terms describe the same process of finding the difference between two numbers, but subtract is a more formal term used in mathematics, while take away is a more casual term used in everyday language.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c0ac17db-ecc6-4425-9245-1ddd9cb556a2.webp"
+        },
+        "Withdraw": {
+            "wordRoot": "Withdraw",
+            "wordDefinition": "Withdraw means to take something back or remove it.\n\nIt is usually used in a non-mathematical sense. For example, if you deposited money in a bank and then you decide to take it out, you are withdrawing the money from the bank.\n\nSubtract is used in mathematical contexts when taking away an amount, while withdraw is used when taking something back or removing it in non-mathematical contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0f036228-2267-4efa-913a-dca6bccc0133.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " With that scare, I got busy changing my diet radically, adding and subtracting things most of you would find almost assuredly shocking. I did this and lost 40 pounds, weirdly while exercising less. I, as you can see, I guess I'm not overweight anymore. More importantly, I don't have insulin resistance.",
+            "Title": "Peter Attia: What if...",
+            "VideoId": "UMhLBPPtlrY",
+            "Controls": "start=259"
+        },
+        {
+            "Text": " which shows a patch of the universe where the expansions have subtracted out. But you see, as time goes on in gigayears at the bottom, you will see structures evolve as gravity feeds on small, dense irregularities, and structures develop. And we'll end up after 13 billion years",
+            "Title": "Sir Martin Rees: Earth...",
+            "VideoId": "3qF26MbYgOA",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " seemed to pick up maths at the age of six months these children have been learning maths for three years at the age four or five they'll start playing with the numbers not necessarily adding them together subtracting them it's more just being able to identify one through",
+            "Title": "Dog Does Maths PIPE...",
+            "VideoId": "xGWAZtD3IsQ",
+            "Controls": "start=19"
+        },
+        {
+            "Text": " So one way to reconstruct that is to compare the prediction -- which is only based on your movement commands -- with the reality. Any discrepancy should hopefully be external. So as I go around the world, I'm making predictions of what I should get, subtracting them off.",
+            "Title": "Daniel Wolpert: The real...",
+            "VideoId": "7s0CpRfyYp8",
+            "Controls": "start=660"
+        },
+        {
+            "Text": " about the universe at large scales, such as, how does gravity work? might be answered by studying these systems. So that was very big. The second things is very hot. Okay, if I take an image of a galaxy cluster, and I subtract away all of the starlight,",
+            "Title": "What we can learn from...",
+            "VideoId": "kpzEsgSBUqc",
+            "Controls": "start=103"
+        },
+        {
+            "Text": " about the universe at large scales, such as, how does gravity work? might be answered by studying these systems. So that was very big. The second things is very hot. Okay, if I take an image of a galaxy cluster, and I subtract away all of the starlight,",
+            "Title": "Henry Lin: What we can...",
+            "VideoId": "YA87VEeoZLI",
+            "Controls": "start=103"
+        },
+        {
+            "Text": " to add a new habit or subtract a habit -- like watching the news -- from your life. There's a few things I learned while doing these 30-day challenges. The first was, instead of the months flying by, forgotten, the time was much more memorable.",
+            "Title": "Try something new for 30...",
+            "VideoId": "JnfBXjWm7hc",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " days is just about the right amount of time to add a new habit or subtract a habit like watching the news from your life there's a few things that I learned while doing these 30-day challenges the first was instead of the months flying",
+            "Title": "Try something new for 30...",
+            "VideoId": "UNP03fDSj1U",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " I want to summarize with an equation. Take your science, subtract your bullet points and your jargon, divide by relevance, meaning share what's relevant to the audience, and multiply it by the passion that you have for",
+            "Title": "Melissa Marshall: Talk...",
+            "VideoId": "y66YKWz_sf0",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " instead, with your eyes open. And sit up! Laws of sines and cosines? c squared equals a squared plus b squared, subtract",
+            "Title": "Time Is But a Stubborn...",
+            "VideoId": "ZyYqyYAKGC0",
+            "Controls": "start=161"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nick-petrie.webp",
+            "Text": "I love the beautiful distractions of the world - television and movies, video games, the Internet in general. But I try really hard to avoid them, because they don't help me become a better writer. They subtract hours from my day. And a writer's main currency is time. Time to daydream, time to walk and think, time to sit and do the work.",
+            "Title": "American Writer",
+            "Name": "Nick Petrie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-wahlberg.webp",
+            "Text": "When I - when I was going to school, I knew how to read, write, add and subtract and I - I basically said, 'What else do I need? I'm never going to be able to go to college. I'm not going to be able to afford to go to college. I'm not going to be able to get a scholarship.",
+            "Title": "American Actor",
+            "Name": "Mark Wahlberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/caroline-knapp.webp",
+            "Text": "These are big trade-offs for a simple piece of cake - add five hundred calories, subtract well-being, allure, and self-esteem - and the feelings behind them are anything but vain or shallow.",
+            "Title": "American Writer",
+            "Name": "Caroline Knapp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/federica-montseny.webp",
+            "Text": "Authority is something from which we are constantly subtracting, of which there remains always a residue, and which we attempt to make smaller and smaller.",
+            "Title": "Spanish Activist",
+            "Name": "Federica Montseny"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/benjamin-franklin.webp",
+            "Text": "Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones.",
+            "Title": "American Politician",
+            "Name": "Benjamin Franklin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amitava-kumar.webp",
+            "Text": "A character takes shape in the act of writing. You start with something, and you add or subtract.",
+            "Title": "Indian Writer",
+            "Name": "Amitava Kumar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/josef-albers.webp",
+            "Text": "Any ground subtracts its own hue from the colors which it carries and therefore influences.",
+            "Title": "German Artist",
+            "Name": "Josef Albers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/huston-smith.webp",
+            "Text": "You subtract Christianity from Huston Smith, and there is no Huston Smith left.",
+            "Title": "American Theologian",
+            "Name": "Huston Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aleksandr-solzhenitsyn.webp",
+            "Text": "Everything you add to the truth subtracts from the truth.",
+            "Title": "Russian Author",
+            "Name": "Aleksandr Solzhenitsyn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/petrarch.webp",
+            "Text": "A short cut to riches is to subtract from our desires.",
+            "Title": "Italian Poet",
+            "Name": "Petrarch"
+        }
+    ]
+}

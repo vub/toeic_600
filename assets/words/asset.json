@@ -1,0 +1,346 @@
+{
+    "currentWord": {
+        "wordRoot": "asset",
+        "id": 13243,
+        "phonemic": "ˈæset|ˈæset\r",
+        "bigId": "73590cc4-a025-4748-bfb8-4f0d0c582013",
+        "wordForms": [
+            "assets",
+            "asset"
+        ]
+    },
+    "senses": [
+        {
+            "id": "73590cc4-a025-4748-bfb8-4f0d0c582013",
+            "de": "Something valuable that a person or company owns which can be used to pay its debts.",
+            "ty": "noun",
+            "ex": "Your house is probably your most valuable asset.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "financial assets",
+                " valuable assets",
+                " asset management"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/73590cc4-a025-4748-bfb8-4f0d0c582013.webp",
+            "Tips": [
+                {
+                    "title": "Tangible Value",
+                    "description": "Assets are often physical items but can also include virtual goods or debts.",
+                    "example": "The factory machines are tangible assets.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/TKlsCxJhQmLbY0ggnUMYW60UY0.webp"
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "While assets add value, managing them poorly can become a liability.",
+                    "example": "He invested poorly, turning his assets into burdens.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/3Un5htebfILKFejs0jvcE3NFL7E.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0878088d-8d7c-4d24-9f64-90b57d67065a",
+            "de": "A quality, skill, or person which is useful or helps you to succeed.",
+            "ty": "noun",
+            "ex": "Her ability to speak French is a great asset in her job.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "great asset",
+                " asset to the team",
+                " cultural asset"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0878088d-8d7c-4d24-9f64-90b57d67065a.webp",
+            "Tips": [
+                {
+                    "title": "Personal Traits",
+                    "description": "An 'asset' can describe personal qualities that give someone an advantage.",
+                    "example": "His patience is an asset in negotiations.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Interchangeable Use",
+                    "description": "The word 'asset' can be used instead of 'advantage' in many contexts.",
+                    "example": "Experience with kids is an asset for teaching.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d7b94c55-3c97-4f00-96a2-5e80d776d96a",
+            "de": "In accounting, assets are properties owners' equity.",
+            "do": "Accounting",
+            "ty": "noun",
+            "ex": "The company's balance sheet shows its assets and liabilities.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fixed assets",
+                " intangible assets",
+                " current assets"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d7b94c55-3c97-4f00-96a2-5e80d776d96a.webp",
+            "Tips": [
+                {
+                    "title": "Accounting Balance",
+                    "description": "In accounting, 'asset' specifically relates to what a business owns.",
+                    "example": "Our company's assets exceed our liabilities.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Types of Assets",
+                    "description": "Understanding different asset types is key in business and finance.",
+                    "example": "They discussed liquid assets in the meeting.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "a559dc41-d0f4-4d9f-9ad9-8eccafcff720",
+            "de": "In computing, an asset is an identifiable piece of data in electronic format.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "This video game has many high-quality assets such as characters and environments.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "digital assets",
+                " asset library",
+                " game assets"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a559dc41-d0f4-4d9f-9ad9-8eccafcff720.webp",
+            "Tips": [
+                {
+                    "title": "Digital Components",
+                    "description": "In computing, assets are items like images, sounds, or code.",
+                    "example": "We added new assets to the game's files.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Asset vs Data",
+                    "description": "While both are digital, an asset is a useful and reusable item.",
+                    "example": "All icons in the app are designed as scalable assets.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "9665f9ed-e7d0-4413-902c-d42a4c3d3ea1",
+            "de": "In legal terms, assets are the properties subject to distribution in a deceased person's will.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "All of the deceased's assets will be distributed among his heirs.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "estate assets",
+                " asset distribution",
+                " inheritable assets"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9665f9ed-e7d0-4413-902c-d42a4c3d3ea1.webp",
+            "Tips": [
+                {
+                    "title": "Inheritance Context",
+                    "description": "Legally, 'assets' often refers to items that can be inherited.",
+                    "example": "Her paintings became valuable assets after she passed away.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Asset Distribution",
+                    "description": "Assets are distributed according to a person's will or laws.",
+                    "example": "The lawyer explained the asset distribution to the family.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Advantage": {
+            "wordRoot": "Advantage",
+            "wordDefinition": "An advantage is something that gives you a better chance of succeeding, while an asset is something valuable that you own that can help you succeed.\n\nFor example, if you are taking a test and you have good study habits, that is an advantage because it increases your chances of doing well on the test.\n\nEssentially, an advantage is an attribute or skill that benefits you, while an asset is a possession that benefits you.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a4104053-7e5e-4240-a9c2-939aecc24043.webp"
+        },
+        "Belongings": {
+            "wordRoot": "Belongings",
+            "wordDefinition": "Belongings refer to all the personal items that one owns, such as clothing, furniture, and electronics. It is a broader term that can encompass both valuable and non-valuable possessions.\n\nIn simpler terms, an asset is something that can be sold or used to generate income, whereas belongings are personal items that hold sentimental or practical value.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3265e3bd-285c-4c76-aea5-c92a222dba6e.webp"
+        },
+        "Benefit": {
+            "wordRoot": "Benefit",
+            "wordDefinition": "A benefit is something that you gain or receive from a particular thing or activity.\n\nBenefits can be tangible or intangible and can vary depending on the situation.\n\nSome examples of benefits include improved health, increased productivity, or financial gain.\n\nAn asset is a valuable possession that can be used to create benefits while the benefit is the advantage or gain from that possession.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f97464b3-84a6-4dae-aab6-db5804f59c6c.webp"
+        },
+        "Hold": {
+            "wordRoot": "Hold",
+            "wordDefinition": "Hold is a term used to describe the act of possessing or keeping something.\n\nAn asset is what you own, while hold is what you're doing with it. You can hold an asset, such as property or stocks, to increase its value or sell it in the future.\n\nUltimately, an asset can be held for various reasons, like investment or personal use, but holding is just one of the ways to manage an asset.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a44c22f-2f82-4be1-a349-027dee75a292.webp"
+        },
+        "Investment": {
+            "wordRoot": "Investment",
+            "wordDefinition": "An investment is something you put money into with the hope of getting more back in the future, such as a stock or a savings account.\n\nThe purpose of an investment is to grow or increase the value of the money you put in.\n\nAn asset is something you own, and an investment is something you buy with the hopes of making a profit or getting a return on your money.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e661f24a-635e-4fbc-abc9-249ad780bc77.webp"
+        },
+        "Possession": {
+            "wordRoot": "Possession",
+            "wordDefinition": "Possession refers to the actual ownership or control of something. This can be anything from a physical item like a car to intangible items like digital files or passwords.\n\nIn simpler terms, an asset is something you own that has value and can earn money or increase in value, while possession refers to anything you physically have in your possession or control.\n\nA house can be an asset that you own, while a car in your possession is something you physically have control over.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fcc6ee8b-3c64-4334-ba02-f2fb487eef05.webp"
+        },
+        "Property": {
+            "wordRoot": "Property",
+            "wordDefinition": "Property refers to something that is owned, including assets.\n\nProperty can refer to physical items like a car, a house, or a piece of land.\n\nIt can also refer to intellectual property like a patent, trademark, or copyright.\n\nIn simpler terms, an asset is something that can be sold or converted into cash, while property refers to anything that is owned.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b9a412b4-7f0f-407f-8641-f10849a57dec.webp"
+        },
+        "Resource": {
+            "wordRoot": "Resource",
+            "wordDefinition": "A resource is something that can be used to achieve a particular purpose. It could be a natural resource like water, oil, minerals, or a human resource like labor or expertise.\n\nResources can be tangible or intangible.\n\nIn simpler terms, an asset is a valuable possession or property, while a resource is something that can be used to achieve a desired outcome.\n\nFor example, a building is an asset owned by a company, while the knowledge and skills of its employees are resources that can be utilized to achieve business objectives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0514343-9551-4fe5-b8af-31d8624da6ca.webp"
+        },
+        "Value": {
+            "wordRoot": "Value",
+            "wordDefinition": "An asset is something that a person or company owns that can be used to generate income or provide some other value. For example, a car, a house, or a piece of equipment can be considered assets.\n\nValue refers to the worth or usefulness of something.\n\nAn asset is something that can be owned, while value is something that can be created or assigned to something else. Both terms are used in finance, business, and economics, but they have slightly different meanings and applications.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3308a6e0-5f7b-47f5-8dee-72991f65f2e7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " thinking it's the way the brain is built in the womb and they're imaginative as a matter of fact there's many more women in this category and I do think that this imagination the way the brain is built gives women a tremendous asset in the in the modern business world they tend to have executive social skills they can",
+            "Title": "Love and hormones PIPE...",
+            "VideoId": "PgoN0k0_0bg",
+            "Controls": "start=352"
+        },
+        {
+            "Text": " like opening bank accounts, buying and owning assets, and transferring money. What's more, it can be listed as the owner of other companies, including ones opened in places with stricter disclosure rules. This allows someone to create a complex world-wide chain of ownership that can take years to unravel.",
+            "Title": "How exposing anonymous...",
+            "VideoId": "FyOVMqAIFw8",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " conservation of nature and when you give people ownership of their natural resources every elephant and every Rhino becomes a valuable asset instead of something to poach away in secret this mans proudly displaying the inventory of his conservancies wildlife now keep in",
+            "Title": "Jewel of Namibia PIPE Nat...",
+            "VideoId": "hv-JMEOYl8M",
+            "Controls": "start=1097"
+        },
+        {
+            "Text": " and buying the normal financial assets won't work. They have to buy the debt of the government and the government, or the many governments, have to be effective in getting buying power and production to those who need it around the world. I have one last question,",
+            "Title": "What coronavirus means...",
+            "VideoId": "yrxYhv2O3wU",
+            "Controls": "start=1107"
+        },
+        {
+            "Text": " If people were only fighting and competing throughout human evolution, natural selection would lead to more lefties being the ones that made it until there were so many of them, that it was no longer a rare asset. So in a purely competitive world,",
+            "Title": "Why are some people...",
+            "VideoId": "TGLYcYCm2FM",
+            "Controls": "start=185"
+        },
+        {
+            "Text": " or even money. And all of you -- we -- create this data. We create this asset, and we leave this trail of digital crumbs behind us as we go throughout life. And these crumbs are collected into a mirror image of you, the virtual you.",
+            "Title": "How the blockchain is...",
+            "VideoId": "Pl8OlkkwRpc",
+            "Controls": "start=862"
+        },
+        {
+            "Text": " to financial assets and living arrangements. Cults also demand obedience to human leaders who tend to be highly persuasive people with authoritarian and narcissistic streaks motivated by money, sex, power, or all three.",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " helping this situation?\" And we developed a plan in conversation with these youths. We stopped looking at them as the problem to be solved, and we started looking at them as partners, as assets,",
+            "Title": "Jeffrey Brown: How we...",
+            "VideoId": "yeVz0rtXCmw",
+            "Controls": "start=763"
+        },
+        {
+            "Text": " now if you look up asset the power winding its way up the tree is another snake that's much harder to spot the vine snake fine snakes are brilliantly camouflaged all over the world you can",
+            "Title": "Costa Rican Jungle 360°...",
+            "VideoId": "TeOPj_whUMw",
+            "Controls": "start=98"
+        },
+        {
+            "Text": " It was simply going to be an occasion where I didn't have AIDS and I wasn't dying, but could tolerate the fact that they did and they were. Our needs are our greatest assets.",
+            "Title": "Depression, the secret...",
+            "VideoId": "-eBUcBfkVCo",
+            "Controls": "start=1622"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/evelyn-glennie.webp",
+            "Text": "I just assumed the world was full of solo percussionists. I couldn't find sticks or music or anything where I was, but that was expected because there was nothing there anyway. And I think that was possibly the greatest asset for me, just not knowing.",
+            "Title": "Scottish Musician",
+            "Name": "Evelyn Glennie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harvey-s-firestone.webp",
+            "Text": "If you have ideas, you have the main asset you need, and there isn't any limit to what you can do with your business and your life. Ideas are any man's greatest asset.",
+            "Title": "American Businessman",
+            "Name": "Harvey S. Firestone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eric-trump.webp",
+            "Text": "I believe with great fortunes come great responsibility, so with our family's assets and many wealthy friends, we could help raise a lot of money to help others.",
+            "Title": "American Businessman",
+            "Name": "Eric Trump"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harvey-mackay.webp",
+            "Text": "If you believe, as I do, that your employees truly are your most valuable asset, you will do whatever you can to help them do their jobs as well as possible.",
+            "Title": "American Businessman",
+            "Name": "Harvey Mackay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oprah-winfrey.webp",
+            "Text": "With age comes the understanding and appreciation of your most important asset, your health.",
+            "Title": "American Entertainer",
+            "Name": "Oprah Winfrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arlen-specter.webp",
+            "Text": "There's nothing more important than our good health - that's our principal capital asset.",
+            "Title": "American Politician",
+            "Name": "Arlen Specter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zig-ziglar.webp",
+            "Text": "Honesty and integrity are by far the most important assets of an entrepreneur.",
+            "Title": "American Author",
+            "Name": "Zig Ziglar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gina-mckee.webp",
+            "Text": "My instinct is probably one of the strongest assets I've got, workwise.",
+            "Title": "English Actor",
+            "Name": "Gina McKee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeanie-buss.webp",
+            "Text": "I've always said that our fans are our most important asset.",
+            "Title": "American Businesswoman",
+            "Name": "Jeanie Buss"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brittany-kaiser.webp",
+            "Text": "Data is the most valuable asset in the world.",
+            "Title": "American Businesswoman",
+            "Name": "Brittany Kaiser"
+        }
+    ]
+}

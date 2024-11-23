@@ -1,0 +1,347 @@
+{
+    "currentWord": {
+        "wordRoot": "illuminate",
+        "id": 5579,
+        "phonemic": "ɪˈluːmɪneɪt|ɪˈluːmɪneɪt\r",
+        "bigId": "be28c599-764e-4efb-9f28-772ce9d219c9",
+        "wordForms": [
+            "illuminates",
+            "illuminating",
+            "illuminated",
+            "illumine",
+            "illuminate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "be28c599-764e-4efb-9f28-772ce9d219c9",
+            "de": "To shine light on something",
+            "ty": "verb",
+            "ex": "He used his flashlight to illuminate the dark room.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "illuminate the room",
+                " illuminate the path",
+                " illuminate the darkness"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/be28c599-764e-4efb-9f28-772ce9d219c9.webp",
+            "Tips": [
+                {
+                    "title": "Literal Brightness",
+                    "description": "Used when talking about actual light shining on objects.",
+                    "example": "Can you illuminate the sign so we can read it?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4uhNRrux2tGyRIeTXFdzAtzAwg.webp"
+                },
+                {
+                    "title": "Visibility Increase",
+                    "description": "To make something visible or prominent with light.",
+                    "example": "We used spotlights to illuminate the artwork.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OKg9x5Csl5UaBsnpcixnaSGYUHQ.webp"
+                },
+                {
+                    "title": "Seeking Attention",
+                    "description": "Highlighting an area to draw attention or interest.",
+                    "example": "The guide used a torch to illuminate the cave paintings.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/BYHqbhGuUf2wp5sXckPCcH0wAI.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c0169f4d-4bb9-406a-8d4d-a0a8d16a8359",
+            "de": "To provide insight or clarity",
+            "ty": "verb",
+            "ex": "The teacher's explanation illuminated the complex topic.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "illuminate the topic",
+                " illuminate the mystery",
+                " illuminate the subject"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c0169f4d-4bb9-406a-8d4d-a0a8d16a8359.webp",
+            "Tips": [
+                {
+                    "title": "Clarity in Explanation",
+                    "description": "Making a difficult subject clear with a thorough explanation.",
+                    "example": "Her lecture really helped to illuminate the complexities of quantum physics.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Revealing Understanding",
+                    "description": "To shed light on a topic means to enhance one's understanding of it.",
+                    "example": "This study illuminates the social dynamics of the group.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bbdd4053-4526-4c9c-b8fb-8e6037cbbd82",
+            "de": "To decorate with lights",
+            "ty": "verb",
+            "ex": "The city was illuminated with thousands of festive lights during the holidays.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "illuminate the city",
+                " illuminate the tree",
+                " illuminate the streets"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bbdd4053-4526-4c9c-b8fb-8e6037cbbd82.webp",
+            "Tips": [
+                {
+                    "title": "Festivity Highlight",
+                    "description": "Often used during special events to describe decorative lighting.",
+                    "example": "The entire street was illuminated for the festival.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Transformative Effect",
+                    "description": "Lights can change the ambience or perception of a place.",
+                    "example": "The lanterns illuminated the garden, transforming it into a wonderland.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f6f37e38-58dc-4688-8de4-ad6320f87ef5",
+            "de": "To lit up by lighting",
+            "ty": "verb",
+            "ex": "The skyline was illuminated by the setting sun.",
+            "use": "",
+            "co": "Poetic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "illuminate the skyline",
+                " illuminate the landscape",
+                " illuminate the horizon"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f6f37e38-58dc-4688-8de4-ad6320f87ef5.webp",
+            "Tips": [
+                {
+                    "title": "Natural Lighting",
+                    "description": "Describes how daylight or natural light sources brighten up an area.",
+                    "example": "As dawn broke, the rising sun illuminated the mountains.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Dramatic Backdrop",
+                    "description": "Use to describe dramatic lighting in nature or in art.",
+                    "example": "The fireworks illuminated the night sky behind the statue.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "96037024-b748-4a1b-b515-9165c4242513",
+            "de": "In historical context or manuscripts, illuminate means to decorate or enlighten with knowledge",
+            "ty": "verb",
+            "ex": "In the Middle Ages Books were illuminated with pictures and ornate lettering.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "illuminated manuscript",
+                " illuminated text",
+                " illuminated page"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/96037024-b748-4a1b-b515-9165c4242513.webp",
+            "Tips": [
+                {
+                    "title": "Historical Decoration",
+                    "description": "Refers to adding visual details to texts or objects in history.",
+                    "example": "Monks would often illuminate manuscripts with gold leaf.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Artifacts",
+                    "description": "Understanding that this use of 'illuminate' is linked to historical art forms.",
+                    "example": "The museum exhibit featured beautifully illuminated ancient scrolls.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Brighten": {
+            "wordRoot": "Brighten",
+            "wordDefinition": "Brighten means to make something lighter or more glowing.\n\nIt is often used to describe a room, a person's face, or a mood. For example, you might say that the sun brightened up the room, or that a good joke brightened someone's day.\n\nSo, in short, brighten is used when you want to make something more cheerful or pleasant, while illuminate is used when you want to make something more visible or clear.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/971220b8-8bdc-4c19-b202-af0ed103b753.webp"
+        },
+        "Flash": {
+            "wordRoot": "Flash",
+            "wordDefinition": "Flash usually implies a sudden burst of light that is brief and intense, like a camera flash or a burst of lightning.\n\nFlash refers to a sudden and brief burst of light, while illuminate refers to gradually lighting up a space or object.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/99f6b032-7bef-4ffa-a983-bf1b5a260985.webp"
+        },
+        "Gleam": {
+            "wordRoot": "Gleam",
+            "wordDefinition": "Gleam refers to a small, bright and typically fleeting light that flashes or reflects off something.\n\nGleam refers to a small and fleeting burst of light, while illuminate refers to a more general process of lighting something up.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/457eb313-cc01-4903-8177-dcdb661af5b5.webp"
+        },
+        "Glow": {
+            "wordRoot": "Glow",
+            "wordDefinition": "Glow usually refers to a faint or soft light that comes from a source, such as a fireplace, a lamp, or the sun when it sets.\n\nBoth can apply in different situations depending on the intended meaning. Glow may be applied to describe the lighting effect of decorative lights or lighting fixtures in a room, while illuminate may be used to describe the lighting effect needed in a working environment, such as laboratories or factories.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9585a210-aa80-4bc3-8470-d79affdd134c.webp"
+        },
+        "Irradiate": {
+            "wordRoot": "Irradiate",
+            "wordDefinition": "The words illuminate and irradiate both mean to light up, but they are used in different contexts. Illuminate is used when you want to make something brighter or clearer, like turning on a lamp to illuminate a room so you can read a book.\n\nIrradiate is used when you want to emit radiation, like using an X-ray machine to irradiate a part of the body for medical testing.\n\nIlluminate is used when you want to make something brighter or clearer through light, and irradiate is used when you want to emit radiation for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/098ad0c5-6f56-487e-9acc-1b22a3e75949.webp"
+        },
+        "Light up": {
+            "wordRoot": "Light up",
+            "wordDefinition": "Both words refer to providing light, but illuminate carries a connotation of intellectual or spiritual enlightenment, whereas light up is more commonly used to describe physically making something bright or visible.\n\nFor example, a teacher might illuminate a difficult concept to help a student understand it better, while a lamp might light up a room that was previously dark.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0004ebe2-16ee-485f-b79f-1831b2088a24.webp"
+        },
+        "Lighten": {
+            "wordRoot": "Lighten",
+            "wordDefinition": "Lighten means to make something less heavy, burdensome, or serious.\n\nIt is often used in a more literal sense, such as lightening a load or lightening the mood.\n\nFor example: \"The comedian's jokes helped to lighten the mood of the audience.\"\n\nTo sum up, illuminate is used when talking about making something brighter in order to make it easier to understand, while lighten is used when talking about making something less heavy or serious.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6d009b4d-7448-43f9-90a0-8e2bfa997435.webp"
+        },
+        "Shine": {
+            "wordRoot": "Shine",
+            "wordDefinition": "Both illuminate and shine can mean to emit light or brightness, but illuminate also means to clarify or explain something, while shine can also refer to a polished or glossy surface.\n\nFor example, you might say \"the streetlights illuminated the path in front of us\" because the lights provided actual light that helped you see, while \"the diamond shone in the sunlight\" because it reflected brightness rather than producing it.\n\nAs for the non-light-related meanings, you might say \"the teacher illuminated the difficult concept for us\" to mean that the teacher explained it in a way that made it easier to understand, while \"the polished silverware shone on the table\" to describe something with a smooth, bright surface.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/201ae3f1-2343-49ed-b22e-c4bf5aa367a7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And his work illuminated for me what the molecular world inside us is like. So this is a transection through blood. In the top left-hand corner, you've got this yellow-green area. The yellow-green area is the fluid of blood, which is mostly water, but it's also antibodies, sugars, hormones, that kind of thing.",
+            "Title": "Drew Berry: Animations...",
+            "VideoId": "WFCvkkDSfIU",
+            "Controls": "start=132"
+        },
+        {
+            "Text": " It may be that the size of strongly electric fish allows them to withstand their own shocks, or that the current passes out of their bodies too quickly. Some scientists think that special proteins may shield the electric organs, but the truth is, this is one mystery science still hasn't illuminated.",
+            "Title": "How do fish make...",
+            "VideoId": "z0M7_HPSi14",
+            "Controls": "start=277"
+        },
+        {
+            "Text": " underneath the reservoir, illuminating with light in the ultraviolet region. Now, the key is that this window in the bottom of this reservoir, it's a composite, it's a very special window. It's not only transparent to light but it's permeable to oxygen. It's got characteristics like a contact lens.",
+            "Title": "What if 3D printing was...",
+            "VideoId": "ihR9SX7dgRo",
+            "Controls": "start=266"
+        },
+        {
+            "Text": " in the face of what was often a xenophobic and narrow-minded public. As a poet, Apollinaire was passionate about all forms of art and a connoisseur of medieval literature, especially calligraphy and illuminated initials. As a visionary, Apollinaire saw a gap between two artistic institutions.",
+            "Title": "The poet who painted...",
+            "VideoId": "YJ0x1YOuMwQ",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " But the painting obscures their struggle to provide food for their household. Even the monarch's advanced age is concealed through the blurring of the mirror. What we do see in the geometric center of the canvas, brightly illuminated by the light from the window,",
+            "Title": "Why is this painting so...",
+            "VideoId": "loMy3sbW64g",
+            "Controls": "start=98"
+        },
+        {
+            "Text": " which is really characteristic and it's basically this fleshy lump which has lots of bacteria in it, which is able to illuminate and then that attracts in all their prey and they're able to eat it with their incredibly wide mouths.",
+            "Title": "Deep Sea Anglerfish Sex...",
+            "VideoId": "mHxNrcED4CY",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " that's quite awkward and uncomfortable to discuss; empower a whole front line, namely friends, to help; and, in the process, improve all of our ability to love better. To do this, it's always important to start by illuminating",
+            "Title": "The difference between...",
+            "VideoId": "ON4iy8hq2hM",
+            "Controls": "start=160"
+        },
+        {
+            "Text": " or revealing the path of critical molecules. Scientists have used the glow of GFP to watch cancer cells proliferate, track the development of Alzheimer's, and illuminate countless other biological processes.",
+            "Title": "Jellyfish predate...",
+            "VideoId": "yQduHyiWe9o",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " that's what it's like for people so the counterintuitive point that I want to illuminate today is that you can actually be one of the most generous",
+            "Title": "How to take a compliment...",
+            "VideoId": "ceRHQtLDoTw",
+            "Controls": "start=126"
+        },
+        {
+            "Text": " diaphanous creatures time jellies squids silvery fish creatures that illuminate the deep-sea darkness with their own living white",
+            "Title": "Overview PIPE Exploring...",
+            "VideoId": "3GRA7ilM708",
+            "Controls": "start=182"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oprah-winfrey.webp",
+            "Text": "My whole reason for creating a network is literally to bring little pieces of light. It's to continue to spread little pieces of light in the world, to illuminate the possibility of the human spirit.",
+            "Title": "American Entertainer",
+            "Name": "Oprah Winfrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francis-ford-coppola.webp",
+            "Text": "That's part of the requirement for me to be an artist is that you're trying to share your personal existence with others and trying to illuminate modern life, trying to understand life.",
+            "Title": "American Director",
+            "Name": "Francis Ford Coppola"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alice-walker.webp",
+            "Text": "On a spiritual level, it's as though with my sighted eye I see what's before me, and with my unsighted eye I see what's hidden. It's illuminated life more than darkened it.",
+            "Title": "American Author",
+            "Name": "Alice Walker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/will-smith.webp",
+            "Text": "I've trained myself to illuminate the things in my personality that are likable and to hide and protect the things that are less likeable.",
+            "Title": "American Actor",
+            "Name": "Will Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-baldwin.webp",
+            "Text": "The questions which one asks oneself begin, at least, to illuminate the world, and become one's key to the experience of others.",
+            "Title": "American Novelist",
+            "Name": "James Baldwin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-aquinas.webp",
+            "Text": "Better to illuminate than merely to shine, to deliver to others contemplated truths than merely to contemplate.",
+            "Title": "Italian Theologian",
+            "Name": "Thomas Aquinas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/louis-pasteur.webp",
+            "Text": "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.",
+            "Title": "French Scientist",
+            "Name": "Louis Pasteur"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viola-davis.webp",
+            "Text": "Acting is not rocket science, but it is an art form. What you are doing is illuminating humanity. Or not.",
+            "Title": "American Actress",
+            "Name": "Viola Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harvey-fierstein.webp",
+            "Text": "Art has the power to transform, to illuminate, to educate, inspire and motivate.",
+            "Title": "American Actor",
+            "Name": "Harvey Fierstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/faith-salie.webp",
+            "Text": "Sometimes art helps illuminate science.",
+            "Title": "American Journalist",
+            "Name": "Faith Salie"
+        }
+    ]
+}

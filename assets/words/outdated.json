@@ -1,0 +1,258 @@
+{
+    "currentWord": {
+        "wordRoot": "outdated",
+        "id": 26161,
+        "phonemic": "ˌaʊtˈdeɪtɪd|ˌaʊtˈdeɪtɪd\r",
+        "bigId": "0c51c609-40e8-42fc-8886-5803d60a2837",
+        "wordForms": [
+            "outdated"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0c51c609-40e8-42fc-8886-5803d60a2837",
+            "de": "Something that is no longer in use or fashionable",
+            "ty": "adjective",
+            "ex": "Her computer is outdated because it can't run the latest software.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "outdated technology",
+                " outdated regulations",
+                " outdated model"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0c51c609-40e8-42fc-8886-5803d60a2837.webp",
+            "Tips": [
+                {
+                    "title": "Technological Context",
+                    "description": "Use when discussing old technology that's replaced by newer inventions.",
+                    "example": "VHS tapes are outdated due to digital streaming services.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JFcadIPlVCrE3PfY8PE3U1LiHI.webp"
+                },
+                {
+                    "title": "Fashion and Trends",
+                    "description": "Describes clothing or styles that are no longer popular.",
+                    "example": "Bell-bottom jeans are considered outdated in most fashion circles.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0ihip5p0Sik5RXwu306Lyt1I.webp"
+                },
+                {
+                    "title": "Avoid for People",
+                    "description": "Not polite to describe people as outdated, implies irrelevance.",
+                    "example": "Calling a dancer outdated is disrespectful; say their style is classic instead.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gqmu12Su0pHYDxceyoFNd5Erbs.webp"
+                }
+            ]
+        },
+        {
+            "id": "bbf0ec53-f481-4ba7-8065-cc67d7d8b91f",
+            "de": "Something that is no longer considered effective or useful",
+            "ty": "adjective",
+            "ex": "His management tips are outdated and don't work today's workplace",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "outdated information",
+                " outdated advice",
+                " outdated method"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bbf0ec53-f481-4ba7-8065-cc67d7d8b91f.webp",
+            "Tips": [
+                {
+                    "title": "Relative Effectiveness",
+                    "description": "Indicates a method or idea that's been surpassed by better options.",
+                    "example": "Using a phone book to find a number is now outdated.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Modern Practices",
+                    "description": "Refers to practices that no longer align with current standards or expectations.",
+                    "example": "Outdated hiring practices can overlook talented candidates.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Updated Information",
+                    "description": "Information can be outdated if it doesn't reflect recent changes or data.",
+                    "example": "An atlas from the 1990s would have outdated country borders.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Ancient": {
+            "wordRoot": "Ancient",
+            "wordDefinition": "Ancient refers to something that is very old, often with a sense of historical or cultural significance. For example, people might use ancient to describe the ruins of a long-dead civilization or a valuable artifact.\n\nAncient emphasizes the age and historical significance of something, while outdated emphasizes the fact that it is no longer relevant or useful in the present day.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/23da44a9-80c4-40bb-b6d5-b047459c07b9.webp"
+        },
+        "Antiquated": {
+            "wordRoot": "Antiquated",
+            "wordDefinition": "Antiquated refers to something that is very old-fashioned or outdated, but still holds some historical or sentimental value.\n\nFor example, an antiquated piece of furniture might be an old wooden rocking chair that has been passed down through generations.\n\nAntiquated suggests something old but charming, while outdated suggests something that is old and no longer useful.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b18217f6-d2a9-4a40-85cb-fed5c2eaf676.webp"
+        },
+        "Archaic": {
+            "wordRoot": "Archaic",
+            "wordDefinition": "Archaic refers to something that is ancient or from an earlier time period. It typically carries a sense of importance or significance in history or culture.\n\nIn essence, archaic is a more specific and meaningful term, while outdated is a more general and neutral term. Archaic is applicable when discussing history or cultural heritage, while outdated is applicable when discussing things that have become irrelevant or replaced by newer alternatives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/31ab11a6-d4e6-416c-9f40-69e515657a69.webp"
+        },
+        "Defunct": {
+            "wordRoot": "Defunct",
+            "wordDefinition": "Defunct means that something is no longer functioning or operating. For example, a company that has gone out of business is defunct.\n\nThe difference between the two words is that defunct refers to something that has completely stopped existing, while outdated refers to something that is still around but is no longer useful or popular.\n\nDefunct is applicable when something has ceased to exist, while outdated is applicable when something is old-fashioned or no longer relevant.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/441a67a3-4be7-4e34-83dc-7edd0e16c782.webp"
+        },
+        "Extinct": {
+            "wordRoot": "Extinct",
+            "wordDefinition": "Extinct refers to something that no longer exists, such as a species of animal that has died out completely. This term can also describe something that is no longer in use or available, such as a product that has been discontinued.\n\nExtinct refers to something that no longer exists at all, whereas outdated refers to something that still exists but is no longer current or widely used.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c1e925fe-e818-4ed6-8497-e88e7a57b447.webp"
+        },
+        "Obsolete": {
+            "wordRoot": "Obsolete",
+            "wordDefinition": "Obsolete refers to something that is no longer in use or has been replaced by a newer and better version. For example, rotary phones are obsolete because most people use smartphones now.\n\nSo, while both terms signify something that is no longer current, obsolete is more precisely used when referring to something that is no longer used or no longer exists, while outdated refers to something that may still be in use but is considered outmoded or inferior compared to new things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e115a662-ff91-493c-a649-281d14d1ab31.webp"
+        },
+        "Outmoded": {
+            "wordRoot": "Outmoded",
+            "wordDefinition": "Both outdated and outmoded refer to something that is no longer useful or relevant.\n\nOutmoded suggests that something is old-fashioned or obsolete. For example, an outmoded fashion trend would refer to something that is no longer popular or fashionable.\n\nSo, both words refer to something that is no longer useful or relevant, but outdated refers to something that is old and no longer in use while outmoded refers to something that is old-fashioned or obsolete.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/758ccc7e-c797-4e3d-a299-5087a58ba73d.webp"
+        },
+        "Prehistoric": {
+            "wordRoot": "Prehistoric",
+            "wordDefinition": "Prehistoric refers to things that existed before recorded history. This term describes things that are ancient and typically associated with early human cultures, such as prehistoric fossils or cave paintings.\n\nOutdated refers to something that is old-fashioned while prehistoric refers to something that is very old and existed before recorded history.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62f50e54-6741-45ef-af9a-e75a559aeeeb.webp"
+        },
+        "Supersede": {
+            "wordRoot": "Supersede",
+            "wordDefinition": "Supersede means that something newer, better, or more advanced has replaced or taken the place of something else. It implies that the old thing is no longer useful or necessary.\n\nFor example, digital cameras have superseded film cameras because they are easier to use and store photos on.\n\nIn simpler terms, outdated means old and not really useful anymore, while supersede means replaced by something better.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f83406d3-f7e9-4996-9d3b-f5cc069f1b68.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Caring for reptiles? Yeah. The care requirements are pretty vast. Most of the time when you get a reptile, it's basically up to you to do that research. And then one of the biggest issues is that a lot of especially like chain pet stores, they'll give out little pamphlets with little booklets of care, and that care is super outdated.",
+            "Title": "The Reality Behind...",
+            "VideoId": "r-Do3cRZCWM",
+            "Controls": "start=256"
+        },
+        {
+            "Text": " However, missing teeth, those empty lots can be issues as well, and if you have a missing corner because of an outdated zoning code, then you could have a missing nose in your neighborhood. That's what we had in my neighborhood. This was the zoning code that said I couldn't build on that site.",
+            "Title": "4 ways to make a city...",
+            "VideoId": "6cL5Nud8d7w",
+            "Controls": "start=973"
+        },
+        {
+            "Text": " to see the world from the other side. And, I mean, let's be honest, that doesn't just go for progressives, but also to the right wing and conservatives. You know, as fair as some of their points were, they were still trapped in their own echo chambers, recycling old, outdated points of view,",
+            "Title": "A Black man goes...",
+            "VideoId": "OqUaEJLfrLo",
+            "Controls": "start=735"
+        },
+        {
+            "Text": " outdated I'm using on the wall as I was being that was right in front of me so I think that the more that we talk about it like we talk about labels now the more that we will get away from defining ourselves and other women like that wonderful and I think the other thing",
+            "Title": "Love doesn’t need labels...",
+            "VideoId": "inD_248hMI4",
+            "Controls": "start=818"
+        },
+        {
+            "Text": " seismic shift from individual getting a spending towards a rediscovery of collective good I'm on a mission I'm on a mission to make sharing cool I'm on a mission to make sharing hip because I really believe it can disrupt outdated modes of business help us leapfrog over",
+            "Title": "The case for collaborativ...",
+            "VideoId": "X6FOp65MvxE",
+            "Controls": "start=961"
+        },
+        {
+            "Text": " I said schools as we know them now, they're obsolete. I'm not saying they're broken. It's quite fashionable to say that the education system's broken. It's not broken. It's wonderfully constructed. It's just that we don't need it anymore. It's outdated.",
+            "Title": "Sugata Mitra: Build a...",
+            "VideoId": "y3jYVe1RGaU",
+            "Controls": "start=181"
+        },
+        {
+            "Text": " Well, I like schools, but teachers tend to teach outdated worldviews, because they learned something when they went to school, and now they describe this world to the students without any bad intentions, and those books, of course, that are printed",
+            "Title": "How not to be ignorant...",
+            "VideoId": "Sm5xF-UYgdg",
+            "Controls": "start=585"
+        },
+        {
+            "Text": " and determine what those differences were between the mother, the father and the child. In doing so, I apologize, I'm going to use an outdated analogy of encyclopedias rather than Wikipedia, but I'm going to do so to try and help make the point",
+            "Title": "Autism — what we know...",
+            "VideoId": "wKlMcLTqRLs",
+            "Controls": "start=551"
+        },
+        {
+            "Text": " other animals leave behind has made them a highly successful species loving devoted and intelligent animals with a strong sense of family perhaps it's time we update our outdated perception of the humble hyena",
+            "Title": "Top 5 Best Animal...",
+            "VideoId": "Ge0xHkgL1zs",
+            "Controls": "start=799"
+        },
+        {
+            "Text": " creatures as big as whales or elephants flying not through air but a liquid atmosphere so get rid of those outdated alien stereotypes yeah much better the universe now you know",
+            "Title": "Imagine Alien Life PIPE...",
+            "VideoId": "AEq793g8Ivc",
+            "Controls": "start=45"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kangana-ranaut.webp",
+            "Text": "I feel that we, as Indians, have a knack for loving a stereotypical, sobbing, sympathy-seeking personality. I feel that we need to promote quirky, cool and youthful talent. We have to stop propagating the sob-story angle of celebs, where they try to be larger-than-life. That is very outdated. It is so boring that it puts you to sleep.",
+            "Title": "Indian Actress",
+            "Name": "Kangana Ranaut"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/margaret-d-nadauld.webp",
+            "Text": "The world will try to make you think that being good is outdated and old-fashioned and that popularity comes from breaking the rules and lowering your standards. Don't buy into that way of thinking. As you watch TV or read magazines, you might be made to feel abnormal when, really, you are the one who has it figured out.",
+            "Title": "American Clergyman",
+            "Name": "Margaret D. Nadauld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/renee-ellmers.webp",
+            "Text": "If technology and communications can adapt to people's modern lifestyles, then why can't our labor laws follow suit? Private-sector businesses continue to live under an outdated federal mandate that says the only way to compensate for overtime is through cash wages.",
+            "Title": "American Politician",
+            "Name": "Renee Ellmers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lee-kuan-yew.webp",
+            "Text": "China itself is now in the process of sloughing off not only the communist system, but also those outdated parts of Confucianism that prevent the rapid acquisition of knowledge needed to adjust to new ways of life and work.",
+            "Title": "Statesman",
+            "Name": "Lee Kuan Yew"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dick-vitale.webp",
+            "Text": "The NCAA model is outdated. If Steve Serby's a great player in high school, and an agent wants to represent you and wants to advance you money as a loan based on the fact that you're gonna be a high draft choice, so be it.",
+            "Title": "American Celebrity",
+            "Name": "Dick Vitale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/douglas-alexander.webp",
+            "Text": "As times change, so do the way each generation see the world. It is rather like the way our generation came to see our grandparents' views on the Empire and colonies as outdated.",
+            "Title": "British Politician",
+            "Name": "Douglas Alexander"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-plant.webp",
+            "Text": "How can you consider flower power outdated? The essence of my lyrics is the desire for peace and harmony. That's all anyone has ever wanted. How could it become outdated?",
+            "Title": "British Musician",
+            "Name": "Robert Plant"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barack-obama.webp",
+            "Text": "Building new roads and bridges creates jobs. Growing our exports creates jobs. Reforming our outdated tax system and our broken immigration system creates jobs.",
+            "Title": "American President",
+            "Name": "Barack Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kareena-kapoor-khan.webp",
+            "Text": "I am passionate about acting. 'Girls in our family are not allowed to act' is quite an outdated thought to have. They did it till my mother, but now no more.",
+            "Title": "Indian Actress",
+            "Name": "Kareena Kapoor Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dalai-lama.webp",
+            "Text": "I always believe the rule by king or official leader is outdated. Now we must catch up with the modern world.",
+            "Title": "Tibetan Leader",
+            "Name": "Dalai Lama"
+        }
+    ]
+}

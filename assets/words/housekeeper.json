@@ -1,0 +1,249 @@
+{
+    "currentWord": {
+        "wordRoot": "housekeeper",
+        "id": 16884,
+        "phonemic": "ˈhaʊskiːpə(r)|ˈhaʊskiːpər\r",
+        "bigId": "4f197452-aa4b-451e-825e-caece5ed163b",
+        "wordForms": [
+            "housekeepers",
+            "housekeeper"
+        ]
+    },
+    "senses": [
+        {
+            "id": "4f197452-aa4b-451e-825e-caece5ed163b",
+            "de": "A person who manages a home as a job including cleaning and shopping.",
+            "ty": "noun",
+            "ex": "She was hired as a housekeeper to take care of the daily chores and maintenance of the house.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hire a housekeeper",
+                " housekeeper's duties",
+                " live-in housekeeper"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4f197452-aa4b-451e-825e-caece5ed163b.webp",
+            "Tips": [
+                {
+                    "title": "Not a Guest",
+                    "description": "A housekeeper is part of the staff, not a member of the family or a visitor.",
+                    "example": "The housekeeper has her own room in the quarters downstairs.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ET5O6wGv5XvqlX9khBXXSzlRCQ.webp"
+                },
+                {
+                    "title": "Job Variation",
+                    "description": "Their tasks vary; some may cook, others might not, depending on the agreement.",
+                    "example": "Our housekeeper is in charge of grocery shopping and laundry.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ID57VZ65xT5c1rI3uq6lfVwNNg.webp"
+                },
+                {
+                    "title": "Professional Boundaries",
+                    "description": "It's a paid position with set responsibilities and hours, filtering out personal favors.",
+                    "example": "The housekeeper scheduled her cleaning duties from 9 to 5.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qO3dnxPzQFIC7jYBnMGosl1cvKU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "27fbbf69-b714-497c-bb42-75af71d63aed",
+            "de": "A person employed by a hotel or inn to manage domestic duties and, sometimes, to have charge of female servants.",
+            "ty": "noun",
+            "ex": "As a housekeeper at the hotel, she ensures all rooms are clean and ready for guests.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hotel housekeeper",
+                " housekeeper's cart",
+                " chief housekeeper"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/27fbbf69-b714-497c-bb42-75af71d63aed.webp",
+            "Tips": [
+                {
+                    "title": "Hotel Hierarchy",
+                    "description": "In hotels, housekeepers can have different levels, from entry to chief housekeeper.",
+                    "example": "She was promoted from a cleaning maid to a housekeeper position.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Service Focus",
+                    "description": "Hotel housekeepers focus on guest satisfaction and room standards.",
+                    "example": "The housekeeper checks that all hotel rooms have clean towels and toiletries.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Personal Staff",
+                    "description": "A hotel housekeeper is not personal to a guest; they provide service to many rooms.",
+                    "example": "The housekeeper is responsible for maintaining the cleanliness of 20 different rooms daily.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Caretaker": {
+            "wordRoot": "Caretaker",
+            "wordDefinition": "A caretaker is someone who looks after a certain property, such as a large estate or a public park. Their duties typically involve maintenance and upkeep of the property, as well as security and making sure everything is in order.\n\nA caretaker looks after a property while a housekeeper looks after a living space.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8aa70738-c6cf-4fc7-ae7f-5f3eed333173.webp"
+        },
+        "Clean": {
+            "wordRoot": "Clean",
+            "wordDefinition": "Clean refers to the act of making something free from dirt, dust, and other unwanted substances.\n\nIt can be used in various contexts like cleaning a room, cleaning dishes, or cleaning clothes.\n\nA housekeeper is a person who is responsible for keeping a house clean and organized. Their duties can include cleaning, laundry, cooking, shopping, and other household tasks.\n\nClean describes the action of removing dirt from something, while a housekeeper is a person who is responsible for keeping a home clean and organized.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6c058f96-72b8-4185-8a93-e85eabc06519.webp"
+        },
+        "Custodian": {
+            "wordRoot": "Custodian",
+            "wordDefinition": "A custodian is responsible for maintaining and cleaning a building, usually a school, office, or hospital. They ensure that common areas such as hallways, bathrooms, and classrooms are clean, safe, and well-maintained.\n\nThe main difference is that a custodian works in a larger public or commercial building, while a housekeeper works in a private home.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d52331d5-fe0e-4741-8ef5-6f672e8fc7bc.webp"
+        },
+        "Governess": {
+            "wordRoot": "Governess",
+            "wordDefinition": "A governess is a woman who is employed to teach and educate children in a private household. She is responsible for their education, manners, and behavior.\n\nA governess focuses on teaching and education of children, while a housekeeper focuses on managing the household and domestic staff.\n\nGovernesses are typically needed when a family has children who need specialized education, while housekeepers are needed to manage the daily upkeep of a household.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f4195ecc-29ed-4116-85f9-741b338b508f.webp"
+        },
+        "Housemaid": {
+            "wordRoot": "Housemaid",
+            "wordDefinition": "A housemaid typically performs more specific cleaning duties, such as dusting, vacuuming, doing laundry, and general tidying up.\n\nA housekeeper is more of a general manager for a household, while a housemaid is a specific cleaner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e9ce82cf-5a3e-483a-8d61-76e80bd9fb6c.webp"
+        },
+        "Maid": {
+            "wordRoot": "Maid",
+            "wordDefinition": "Maid usually refers to a person who is specifically hired to clean and tidy up a home or a commercial space.\n\nA maid may be responsible for tasks such as sweeping, vacuuming, dusting, washing dishes and laundry, and making beds.\n\nA housekeeper is responsible for managing and maintaining a household, while a maid is responsible for cleaning and tidying up a space.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7d35a080-48ce-44e8-b2f4-8cc46d9f7a3d.webp"
+        },
+        "Stewardess": {
+            "wordRoot": "Stewardess",
+            "wordDefinition": "A stewardess is a person who works on board a ship, aircraft, or other transportation vehicles to ensure the comfort and safety of passengers.\n\nStewardess or Flight Attendant is a term used specifically for women in the airline industry.\n\nA housekeeper is a person who works in a household to keep it clean and organized and a stewardess is a person who works on transportation vehicles to ensure that the passengers are safe and comfortable during their journey.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed9e802f-0ff5-41f5-8d23-9c7eced72715.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " They need solidarity, because they're behind some of the most exciting social justice movements out there today. The nannies and housekeepers who marched with their families and their employers' families -- their activism got us an international treaty on domestic workers' rights.",
+            "Title": "Noy Thrupkaew: Human...",
+            "VideoId": "oIGBBPspTKM",
+            "Controls": "start=930"
+        },
+        {
+            "Text": " early sci-fi robots sometimes tried to destroy humanity but often they were helpful assistants doing menial chores for humans carpet's a bit dirty leave it to robert he's the perfect household help all right like rosie the jetsons family's housekeeper who cooked cleaned and",
+            "Title": "Science Fiction Inspires...",
+            "VideoId": "IAZAIdLwhGw",
+            "Controls": "start=477"
+        },
+        {
+            "Text": " occasion when a group of ladies turned their backs as but love owed by the general said in a loud voice ha ha those women never didn't they know which the end of them looks best a female spat at two federal officers then a housekeeper emptied her slop jar",
+            "Title": "\"The Cross-Eyed Beast\" PIPE...",
+            "VideoId": "oN10lbo2B78",
+            "Controls": "start=200"
+        },
+        {
+            "Text": " This is the global diaspora; people have left their ancestral lands, and they're sending money back to their families at home. This is 600 billion dollars a year, and it's growing, and these people are getting ripped off. Analie Domingo is a housekeeper.",
+            "Title": "How the blockchain is...",
+            "VideoId": "Pl8OlkkwRpc",
+            "Controls": "start=770"
+        },
+        {
+            "Text": " it makes a mockery of who we are as a nation. These are absurdities. These are atrocities. This is unbelievable. And we're looking at a bunch of statistics, but I want you to understand, this is happening to the housekeeper who brought up your kids.",
+            "Title": "Juan Enriquez: A...",
+            "VideoId": "9KvZy09vaNg",
+            "Controls": "start=275"
+        },
+        {
+            "Text": " and housekeeper Mrs. Hudson have become part of the popular consciousness, as have his extraordinary, infallible powers of deduction utilized in the name of the law, his notorious drug use, and his popular catchphrase, \"Elementary, my dear Watson.\"",
+            "Title": "Who IS Sherlock Holmes -...",
+            "VideoId": "I8992A5oAWM",
+            "Controls": "start=29"
+        },
+        {
+            "Text": " then triumphantly claim student body diversity ignores the fact that these students are locals of the same milieu. The same holds true on the other end of the economic spectrum. A Mexican gardener in Los Angeles and a Nepali housekeeper in Delhi",
+            "Title": "Taiye Selasi: Don't ask...",
+            "VideoId": "LYCKzpXEW6E",
+            "Controls": "start=844"
+        },
+        {
+            "Text": " destroy humanity but often they were helpful assistants doing menial chores for humans topics a buddy leave it to Robin he's the big household help all right like Rosie The Jetsons family's housekeeper who cooked cleaned and",
+            "Title": "Will future robots & AI...",
+            "VideoId": "oRJf8NGkxaI",
+            "Controls": "start=65"
+        },
+        {
+            "Text": " You have a housekeeper? I depend on her as she is a woman. And she may test you. She may throw curses at you. Then you must put her in her place. She has long since forgotten her place, I'm afraid. Come.",
+            "Title": "Surprises Ahead PIPE...",
+            "VideoId": "w7mAiT5Uc2g",
+            "Controls": "start=114"
+        },
+        {
+            "Text": " You are Mari the housekeeper. He's told me of you.",
+            "Title": "Visit Her at Your Peril...",
+            "VideoId": "0IzkbosmTMA",
+            "Controls": "start=12"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-banks.webp",
+            "Text": "God bless my mother - she's long gone now, but she'd work all day and go to school at night. She started out in life as a housekeeper at 15 years old, totally on her own, and she retired as a college professor. But there were some hard times. It's not easy for a woman who's only trying to do the best for her kid but who could never be home.",
+            "Title": "American Actor",
+            "Name": "Jonathan Banks"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tate-taylor.webp",
+            "Text": "I met this woman who was a hundred, this housekeeper, a hundred years old. I interviewed her. She just told me about her whole life. She's like, 'I can't read, I can't write; I can tell you who I was working for, and I can tell you the year, but who was president?",
+            "Title": "American Actor",
+            "Name": "Tate Taylor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jesmyn-ward.webp",
+            "Text": "My mom worked as a housekeeper, and I saw her relationship with her employers - how on the one hand she spent more time with these women than with a lot of her friends, and how in certain ways they were friends. But then they weren't.",
+            "Title": "American Novelist",
+            "Name": "Jesmyn Ward"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/prue-leith.webp",
+            "Text": "One summer I was made housekeeper to my own family, making menus and shopping lists. It was my mother's idea of teaching me to be a grown-up. The main thing I remember is my father being so delighted to get roast duck.",
+            "Title": "South African Chef",
+            "Name": "Prue Leith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eleanor-roosevelt.webp",
+            "Text": "The only advantage of not being too good a housekeeper is that your guests are so pleased to feel how very much better they are.",
+            "Title": "American First Lady",
+            "Name": "Eleanor Roosevelt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gwen-stefani.webp",
+            "Text": "The one thing that makes me feel super lucky about my financial success is that I have a housekeeper.",
+            "Title": "American Musician",
+            "Name": "Gwen Stefani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-condon.webp",
+            "Text": "In Hollywood through the 50s, there were black, English, and Middle European housekeepers and maids.",
+            "Title": "American Director",
+            "Name": "Bill Condon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zsa-zsa-gabor.webp",
+            "Text": "I am a marvelous housekeeper. Every time I leave a man I keep his house.",
+            "Title": "Hungarian Actress",
+            "Name": "Zsa Zsa Gabor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ivana-trump.webp",
+            "Text": "There's nothing my housekeeper does that I can't do - and maybe better!",
+            "Title": "Czechoslovakian Celebrity",
+            "Name": "Ivana Trump"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grace-lee-boggs.webp",
+            "Text": "I warn you, I'm a terrible housekeeper.",
+            "Title": "American Author",
+            "Name": "Grace Lee Boggs"
+        }
+    ]
+}

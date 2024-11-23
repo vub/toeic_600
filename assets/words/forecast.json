@@ -1,0 +1,297 @@
+{
+    "currentWord": {
+        "wordRoot": "forecast",
+        "id": 355,
+        "phonemic": "ˈfɔːkɑːst|ˈfɔːrkæst\r",
+        "bigId": "92824039-ea75-434e-b8b1-e40edfa506d6",
+        "wordForms": [
+            "forecasts",
+            "forecasting",
+            "forecasted",
+            "forecaster",
+            "forecasters",
+            "forecast"
+        ]
+    },
+    "senses": [
+        {
+            "id": "92824039-ea75-434e-b8b1-e40edfa506d6",
+            "de": "To predict or estimate a future event or trend",
+            "ty": "verb",
+            "ex": "Meteorologists forecast a heavy rain for tomorrow.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "weather forecast",
+                " financial forecast",
+                " sales forecast"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/92824039-ea75-434e-b8b1-e40edfa506d6.webp",
+            "Tips": [
+                {
+                    "title": "Future Events",
+                    "description": "Use 'forecast' when talking about events that are expected to happen.",
+                    "example": "The company forecasts increased profits next year.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1S89Ha5mMVe5vnvVQhHEz8VZKuM.webp"
+                },
+                {
+                    "title": "Non-Physical Prediction",
+                    "description": "It's common to use 'forecast' for non-physical predictions like market trends, not just weather.",
+                    "example": "Experts forecast a rise in tech jobs.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nKk6WWFsPJfk6uIGxv3YgurOig.webp"
+                },
+                {
+                    "title": "Use with Caution",
+                    "description": "'Forecast' implies a calculated guess; it's more than a spontaneous prediction.",
+                    "example": "After analysis, we forecast a busy holiday season.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/73me85f1M70VyRErdn9if47PoU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f67b84ed-18e0-469a-a97e-53e07c23d841",
+            "de": "A prediction or estimate of future events, especially coming weather or a financial trend",
+            "ty": "noun",
+            "ex": "The forecast for tomorrow is sunny with a chance of showers in the evening.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "weather forecast",
+                " financial forecast",
+                " sales forecast"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f67b84ed-18e0-469a-a97e-53e07c23d841.webp",
+            "Tips": [
+                {
+                    "title": "Broad Uses",
+                    "description": "'Forecast' as a noun covers a wide range of topics from weather to finances.",
+                    "example": "The economic forecast shows signs of improvement.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Time Frame",
+                    "description": "Forecasts often imply short to medium time frames, rather than distant future.",
+                    "example": "This week's forecast includes a chance of frost.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conveys Planning",
+                    "description": "A 'forecast' often relates to preparation and planning efforts.",
+                    "example": "The city's rain forecast led to flood prevention measures.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9e778b4a-6a30-4b79-b666-b92b14e556e9",
+            "de": "To serve as an early indication of",
+            "do": "Finance",
+            "ty": "verb",
+            "ex": "The dip in housing sales may forecast an economic downturn.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "forecast an event",
+                " forecast a situation",
+                " forecast a trend"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9e778b4a-6a30-4b79-b666-b92b14e556e9.webp",
+            "Tips": [
+                {
+                    "title": "Economic Indicators",
+                    "description": "In finance, 'forecast' can indicate a movement in economic indicators before they occur.",
+                    "example": "Interest rate hikes forecast inflation control efforts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cautious Language",
+                    "description": "Use 'forecast' in finance to suggest trends without committing to certainty.",
+                    "example": "The CEO forecasted a challenging quarter ahead.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Pre-Emptive Measures",
+                    "description": "In business, a 'forecast' guides preparations for potential scenarios.",
+                    "example": "They forecasted a product shortage and increased production early.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Anticipation": {
+            "wordRoot": "Anticipation",
+            "wordDefinition": "Anticipation and forecast both refer to predicting something that may happen in the future, but they have different meanings.\n\nAnticipation means having an expectation or excitement about something that is going to happen in the near future. For example, you might feel anticipation before a big exam, a sports game, or a concert.\n\nAnticipation is a feeling of excitement or expectation about something that is going to happen, while forecast is a prediction or projection of something that may happen based on data and trends.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0a14ebd9-1b7a-461d-b94d-91b51e2ba400.webp"
+        },
+        "Estimate": {
+            "wordRoot": "Estimate",
+            "wordDefinition": "An estimate is a rough calculation or approximation of something. It is based on limited information and may not be very accurate.\n\nEstimates are often used when there is a lack of data or when the situation is uncertain.\n\nA forecast is a prediction of what will happen in the future. Forecasts are based on data, statistics, and trends. They are usually more accurate than estimates, but there is still some level of uncertainty.\n\nTo summarize, estimates are used when there is uncertainty or a lack of data, while forecasts are used when there is more information available and a prediction of the future is needed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20b933e6-66cb-46e9-bf0d-1797ef8852d6.webp"
+        },
+        "Expect": {
+            "wordRoot": "Expect",
+            "wordDefinition": "Expect means that you think something is likely to happen based on your knowledge or experience. For example, you might expect that it will rain tomorrow because it's cloudy outside today.\n\nExpect is used more in everyday conversation when talking about personal opinions and beliefs, while forecast is used more in formal settings like weather reports or economic predictions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1bfd0899-956b-40e7-a206-d38e9f9c80ef.webp"
+        },
+        "Guess": {
+            "wordRoot": "Guess",
+            "wordDefinition": "Guess is an estimate made without any data or evidence. It is merely an opinion or assumption. For example, if someone asks you to guess what the temperature will be tomorrow, you may say something like, \"I guess it will be sunny and warm,\" but you do not have any data to back up your statement.\n\nA forecast is a calculated prediction based on data and research, while a guess is an estimate made without any evidence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3c7ab18-0ea1-4648-a057-a4ca700b099b.webp"
+        },
+        "Outlook": {
+            "wordRoot": "Outlook",
+            "wordDefinition": "Outlook, on the other hand, refers to a general perspective or attitude about a situation or event. This term is usually used in a more personal or subjective context, and it can describe someone's mood or expectations.\n\nFor example, someone might have a positive outlook on their future career prospects, or a negative outlook on the current political climate.\n\nTo summarize, forecast is more of a factual prediction, while outlook is more of a personal perspective. Forecast is typically used in scientific and business contexts, while outlook is used more in personal interactions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46368196-468a-4e1c-8d47-c80a13b71433.webp"
+        },
+        "Prediction": {
+            "wordRoot": "Prediction",
+            "wordDefinition": "Forecast and prediction are both methods to make assumptions about future events, but there is a subtle difference between them.\n\nA prediction is a more general statement about what may happen in the future, without necessarily relying on specific evidence or data.\n\nFor example, people may make predictions about who will win a sports game or who will win an election. Predictions may be based on personal opinion, intuition, or emotional factors.\n\nIn summary, forecasts are more precise and scientific estimates of the future, while predictions are more general and subjective assumptions about what may happen.\n\nForecasts are used mostly in scientific and business contexts, while predictions are more common in everyday conversation and casual settings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4cb86d54-04cc-4b8e-aa5d-9a9e37ee2793.webp"
+        },
+        "Prognostication": {
+            "wordRoot": "Prognostication",
+            "wordDefinition": "Both forecast and prognostication refer to predictions about the future, but there are some differences in their usage.\n\nA prognostication often implies a more subjective and speculative prediction about the future. It may not be based on hard data or analysis, but rather on intuition, personal belief, or fortune-telling.\n\nHoroscope readings and predictions about the end of the world are examples of prognostications.\n\nForecast is usually a more reliable and evidence-based prediction, while prognostication is often more speculative and subjective.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0de1da4f-a78f-4467-a0ab-d26502740f08.webp"
+        },
+        "Projection": {
+            "wordRoot": "Projection",
+            "wordDefinition": "Projection refers to a theoretical estimation of future outcomes based on certain assumptions.\n\nIt is often used in the context of business, finance or science. For example, a financial projection may estimate the future growth of a company based on its current financial performance.\n\nIn short, forecasts are based on analysis of past and present data while projections are based on assumptions of what may happen in the future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ef04a541-2c29-44dd-b34b-d30ef757a72c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And it's essentially just deterministic guidance overlaid with a bunch of ensemble guidance. So you can really see a lot of information on one screen. When they're closer together, you know you have higher confidence in your forecast. There's more certainty in your forecast. And then as you go out in time, solutions begin to diverge.",
+            "Title": "The Future of Weather...",
+            "VideoId": "kJkOPLJhKDU",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " I'm going to ignore their cautions and make one very specific forecast. In the world that we are creating very quickly, we're going to see more and more things that look like science fiction, and fewer and fewer things that look like jobs. Our cars are very quickly going to start driving themselves,",
+            "Title": "What will future jobs...",
+            "VideoId": "cXQrbxD9_Ng",
+            "Controls": "start=28"
+        },
+        {
+            "Text": " I mean, if we can know that a hurricane is going to explosively gain in strength and advance. We can get people out of the way in time, for example, if we can better forecast tornadoes. It's also big business, right? If we can help inform people on when they should plant crops,",
+            "Title": "Improving Weather...",
+            "VideoId": "yCYH5lcS-4A",
+            "Controls": "start=104"
+        },
+        {
+            "Text": " Wind turbines already provide essential energy for communities around the world. And for many farmers, hosting a wind turbine can be a reliable source of additional income. With continued improvements in wind forecasting, electrical grid infrastructure and energy storage,",
+            "Title": "How do wind turbines...",
+            "VideoId": "xy9nj94xvKA",
+            "Controls": "start=259"
+        },
+        {
+            "Text": " actually forecast and make prediction as to what it should do in a different location just because in areas protected the sharks themselves don't actually know that they're within a protected zone there's no underwater wolf stopping them from leaving that protected area",
+            "Title": "The Man Who Swims...",
+            "VideoId": "ufjTOfBHxMQ",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " for weather forecasters and scientists alike. How does a barometer work, and how was it invented? Well, it took awhile. Because the theory of Aristotle and other ancient philosophers regarding the impossibility of a vacuum seemed to hold true in everyday life,",
+            "Title": "The history of the...",
+            "VideoId": "EkDhlzA-lwI",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " issued a forecast seven days in advance, it was off by over six degrees Fahrenheit. At one day in advance, their forecast was only off by about three degrees. But even though better modeling and better technology is expected to bring us better forecasts,",
+            "Title": "How accurate is the...",
+            "VideoId": "_H4C-08GkKo",
+            "Controls": "start=44"
+        },
+        {
+            "Text": " While tornadoes cannot be prevented, measures are being taken to protect communities. Meteorologists closely monitor storm fronts in high-risk areas and try to forecast possible tornadic events. In doing so, they help mitigate damages to neighborhoods",
+            "Title": "Tornadoes 101 PIPE National...",
+            "VideoId": "aacHWoB7cmY",
+            "Controls": "start=281"
+        },
+        {
+            "Text": " temperatures mean for the planet some climate models predict subtle changes others forecast rising sea levels which could flood coastal areas around the world weather patterns could change making hurricanes more frequent severe",
+            "Title": "Global Warming 101 PIPE...",
+            "VideoId": "oJAbATJCugs",
+            "Controls": "start=129"
+        },
+        {
+            "Text": " forecast okay Africa today is experiencing the highest growth rate on mobile subscription so something is happening if you look at the developed world and the developing world you will",
+            "Title": "Globalizing communication...",
+            "VideoId": "j-b0o4zhrzk",
+            "Controls": "start=578"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barry-ritholtz.webp",
+            "Text": "It is important for investors to understand what they do and don't know. Learn to recognize that you cannot possibly know what is going to happen in the future, and any investment plan that is dependent on accurately forecasting where markets will be next year is doomed to failure.",
+            "Title": "American Author",
+            "Name": "Barry Ritholtz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frances-beinecke.webp",
+            "Text": "I have been fighting climate change for two decades, and people often ask me how I remain hopeful in the face of extreme weather and grim forecasts. The answer is simple: I see countless solutions spreading across the nation and across the world. But we need more investment.",
+            "Title": "American Activist",
+            "Name": "Frances Beinecke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/antoine-lavoisier.webp",
+            "Text": "It is almost possible to predict one or two days in advance, within a rather broad range of probability, what the weather is going to be; it is even thought that it will not be impossible to publish daily forecasts, which would be very useful to soci.",
+            "Title": "French Scientist",
+            "Name": "Antoine Lavoisier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/piers-corbyn.webp",
+            "Text": "The weather records of the U.S.A. are the best kept and most accessible in the world, thanks to consistent government/military taxpayer support. There are longer European data sets, but the U.S.A. data is enough to forecast major extreme events.",
+            "Title": "English Scientist",
+            "Name": "Piers Corbyn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anand-mahindra.webp",
+            "Text": "I do believe it is important to be future-ready with a portfolio to be able to deal with however the market evolves. This is better than just forecasting accurately but in having the weapons ready to deal with the uncertainties.",
+            "Title": "Indian Businessman",
+            "Name": "Anand Mahindra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-j-shiller.webp",
+            "Text": "One thing I've noticed about history - you can search on newspapers going back hundreds of years, search for 'economic forecast,' you don't find it. It would be very rare to find it.",
+            "Title": "American Economist",
+            "Name": "Robert J. Shiller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/phil-anselmo.webp",
+            "Text": "The success that Pantera had, I could have never, ever forecasted or predicted, and I always felt a responsibility to try to pay even a bit of it forward.",
+            "Title": "American Musician",
+            "Name": "Phil Anselmo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nate-silver.webp",
+            "Text": "You don't want to influence the same system you are trying to forecast.",
+            "Title": "American Writer",
+            "Name": "Nate Silver"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-osborne.webp",
+            "Text": "The rise in world oil prices has been larger than anyone forecast.",
+            "Title": "British Politician",
+            "Name": "George Osborne"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-carlin.webp",
+            "Text": "Weather forecast for tonight: dark.",
+            "Title": "American Comedian",
+            "Name": "George Carlin"
+        }
+    ]
+}

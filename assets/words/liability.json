@@ -1,0 +1,324 @@
+{
+    "currentWord": {
+        "wordRoot": "liability",
+        "id": 19869,
+        "phonemic": "ˌlaɪəˈbɪləti|ˌlaɪəˈbɪləti\r",
+        "bigId": "ff76edeb-7ee4-47cf-a2fd-d9ad42183f31",
+        "wordForms": [
+            "liabilities",
+            "liability"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ff76edeb-7ee4-47cf-a2fd-d9ad42183f31",
+            "de": "The state of being responsible for something, especially by law",
+            "ty": "noun",
+            "ex": "The company is under no legal liability to compensate you",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assume liability",
+                " legal liability",
+                " limited liability"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ff76edeb-7ee4-47cf-a2fd-d9ad42183f31.webp",
+            "Tips": [
+                {
+                    "title": "Legal Significance",
+                    "description": "In law, liability comes with consequences. It means owing a duty that, if unmet, can lead to lawsuits or penalties.",
+                    "example": "If they prove negligence, you might face legal liability.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tpWkiR06pQOzjMM7FADUatte3F8.webp"
+                },
+                {
+                    "title": "Not Always Negative",
+                    "description": "'Liability' sounds negative but in legal terms, it simply refers to a bound duty or obligation, not a fault.",
+                    "example": "As a director, she accepted her liability for the company's actions.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/XV4jTaZcAOXUaJyoIMxARMKta8Y.webp"
+                },
+                {
+                    "title": "Beyond Money",
+                    "description": "Liability isn't just about financial responsibilities; it covers any legal responsibility, like safety obligations.",
+                    "example": "The landlord has liability for tenant's safety.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Owh9KxV48PziRqAkVfyv7wWV8.webp"
+                }
+            ]
+        },
+        {
+            "id": "7c2442ce-b628-431e-ab7b-721b46bc8a0a",
+            "de": "A person or thing whose presence or behavior is likely to cause embarrassment or put one at a disadvantage",
+            "ty": "noun",
+            "ex": "Your erratic attendance could become a liability",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "financial liability",
+                " potential liability",
+                " absolute liability"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7c2442ce-b628-431e-ab7b-721b46bc8a0a.webp",
+            "Tips": [
+                {
+                    "title": "Negative Connotation",
+                    "description": "'Liability' can imply that someone or something is a burden or problem in non-legal contexts.",
+                    "example": "His lack of experience is a liability to the team.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Comparative Assessment",
+                    "description": "When weighing options, being 'a liability' means it may have more disadvantages than advantages.",
+                    "example": "While skilled, his short temper is a liability.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9907f472-b09f-4b79-9644-43022f8ba337",
+            "de": "The amount of money that a company or person owes to others",
+            "do": "Finance",
+            "ty": "noun",
+            "ex": "The company has liabilities of $10 million",
+            "use": "",
+            "co": "Financial",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "long-term liabilities",
+                " current liabilities",
+                " total liabilities"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9907f472-b09f-4b79-9644-43022f8ba337.webp",
+            "Tips": [
+                {
+                    "title": "Not Always Debt",
+                    "description": "In finance, liabilities are not just loans; they include wages payable, taxes owed, and accounts payable.",
+                    "example": "The balance sheet listed taxes as the largest liability.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Balance Sheet Term",
+                    "description": "Liability is a key term in balance sheets, and is crucial for understanding a company's financial health.",
+                    "example": "Accountants differentiate between short-term and long-term liabilities.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Business Structure",
+                    "description": "Certain business types, like limited liability companies, are named after the concept to describe owners' financial risk.",
+                    "example": "He favored the limited liability structure to protect personal assets.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7f5c1ef2-8d3f-4277-97ad-667458558d3f",
+            "de": "An obligation, such as a legal or monetary debt",
+            "ty": "noun",
+            "ex": "He got into a liability of $50000 due to credit card loans",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "joint liability",
+                " legal liability",
+                " limited liability"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7f5c1ef2-8d3f-4277-97ad-667458558d3f.webp",
+            "Tips": [
+                {
+                    "title": "Legal Commitments",
+                    "description": "Liabilities as obligations can happen out of legal requirements, such as a court order to pay alimony.",
+                    "example": "Failure to fulfill his liability for alimony could result in legal action.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Financial Impact",
+                    "description": "Personal liabilities affect your credit score and borrowing capacity, reflecting your debt responsibilities.",
+                    "example": "His car loan is his biggest personal liability.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accountability": {
+            "wordRoot": "Accountability",
+            "wordDefinition": "Accountability means being answerable for your actions or decisions. It implies taking responsibility for your actions and their consequences.\n\nAccountability is about taking responsibility for your actions, while liability is about legal responsibility for the consequences of your actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0e4b457c-1f1f-4895-8c98-ebccae721e68.webp"
+        },
+        "Burden": {
+            "wordRoot": "Burden",
+            "wordDefinition": "Burden refers to something that is difficult or unpleasant to deal with.\n\nIt can be a physical or emotional weight that is carried by someone or something. For example, a heavy workload can be a burden.\n\nA burden is something that causes hardship, while a liability is something that involves legal or moral responsibility.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/43769e46-bf98-4b00-88a8-5411156fb918.webp"
+        },
+        "Charge": {
+            "wordRoot": "Charge",
+            "wordDefinition": "Charge refers to the action of making someone pay for something or imposing a responsibility on them. For example, if you use your credit card, you may be charged interest on the balance.\n\nIn legal terms, you may be charged with a crime if you break the law.\n\nCharge usually refers to the act of making payment or imposing a responsibility, while liability refers to being held responsible for any loss or damage incurred.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ce82455-58ee-4af7-8e72-5c206b8731ac.webp"
+        },
+        "Debt": {
+            "wordRoot": "Debt",
+            "wordDefinition": "Debt is money that one person or entity owes to another person or entity. For example, if you borrow $50 from a friend, you have a debt of $50 to repay.\n\nIt can include debts, but it can also include other things like legal obligations or contractual commitments. For example, a company may have a liability to pay employee salaries or a liability to provide certain services to customers.\n\nDebt is a specific type of liability that refers to money owed, while liability is a broader term that encompasses broader financial obligations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3dda4422-e4b7-4f1d-87ac-64f9e1084ca3.webp"
+        },
+        "Duty": {
+            "wordRoot": "Duty",
+            "wordDefinition": "Duty refers to a responsibility or obligation that a person has to do something, either because of their job or position or because of moral or ethical principles.\n\nFor example, a doctor has a duty to provide medical care to their patients.\n\nIn essence, duty refers to a sense of obligation or responsibility, while liability refers to legal responsibility for something that has gone wrong.\n\nDuty is applicable to a wide range of situations, both personal and professional, while liability is typically only applicable in legal matters.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cfe1420e-b26e-4f5c-8633-1f0170966fe2.webp"
+        },
+        "Encumbrance": {
+            "wordRoot": "Encumbrance",
+            "wordDefinition": "Encumbrance refers to any legal claim or burden on a property, such as a mortgage or lien. It limits the ownership rights of the property owner.\n\nEncumbrances can also refer to a restriction or limitation on a property, such as an easement or zoning regulation.\n\nEncumbrance refers to a legal claim on a property, while liability refers to a legal responsibility for something.\n\nEncumbrances are typically applicable in real estate transactions, while liabilities can arise in various legal and financial contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/25ec20c6-4790-49b2-aace-c66ab2405549.webp"
+        },
+        "Obligation": {
+            "wordRoot": "Obligation",
+            "wordDefinition": "Obligation refers to a duty or responsibility to do something, typically because of a moral or legal duty. If you have an obligation to do something, it means you must do it, but it doesn't necessarily mean you will be legally held accountable if you don't.\n\nSo in short, liability is about legal responsibility, while obligation is about moral or legal duty to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a56fcd05-e7ab-4e4c-9029-262fa52f9a98.webp"
+        },
+        "Onus": {
+            "wordRoot": "Onus",
+            "wordDefinition": "Liability refers to being legally responsible for something, such as a debt or damages caused to someone or something. Onus refers to a responsibility or duty to do something, often implying a moral obligation rather than a legal one.\n\nIf someone witnesses a dangerous situation and doesn't speak up or take action, there may be an onus on that person to report it or do something to prevent harm.\n\nLiability is more associated with legal or financial obligations, while onus is more associated with ethical or personal responsibilities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f0d2d67e-d789-446f-b5a1-391dae8c7d40.webp"
+        },
+        "Responsibility": {
+            "wordRoot": "Responsibility",
+            "wordDefinition": "Responsibility refers to the duty or obligation to do something. It is more about taking ownership and being accountable for one's actions.\n\nFor example, a student has the responsibility to turn in their homework on time, which may not have legal or financial consequences but still has consequences in terms of their academic performance.\n\nBoth words can be applicable in various contexts, but liability is usually associated with legal and financial consequences, while responsibility is more related to moral and personal obligations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e1aa0157-7e04-42ef-931f-32e1822a0685.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " is not because of that most of it is because of ways that the liabilities are building up and the trends and that creates a huge challenge in fact this is the forecast picture there's various things in here I could say you know we might raise more revenue or medical innovation will make the",
+            "Title": "How state budgets are...",
+            "VideoId": "sbWju-Pt4fk",
+            "Controls": "start=126"
+        },
+        {
+            "Text": " to a syndrome that has some homogeneity? And the answer is what lies in between, which is development. And in fact, we are very interested in those first two years of life, because those liabilities don't necessarily convert into autism. Autism creates itself.",
+            "Title": "Ami Klin: A new way to...",
+            "VideoId": "JcJ3MfJNm6g",
+            "Controls": "start=679"
+        },
+        {
+            "Text": " seemed rare for a week to go by without a colossal scandal that would shake the world of the circus and I had to find myself a boyfriend because otherwise the girls were considered me a liability like Perla here and the guy from the circus would",
+            "Title": "Emily Ainsworth: Inside...",
+            "VideoId": "4TApVPuTSPw",
+            "Controls": "start=395"
+        },
+        {
+            "Text": " pumped blood from an aorta to another part of the heart, and as you can see at the bottom there, it was controlled by a computer controller, and if you ever thought that software liability was very important, get one of these inside of you.",
+            "Title": "Avi Rubin: All your...",
+            "VideoId": "66-mr600NjU",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " Because you see, what kindness does, it distributes the joy, actually, of problem-solving to everyone. It creates a safe environment that unleashes innovation, especially the unselfish kind. And it turns perceived liabilities into assets,",
+            "Title": "James Rhee: The value of...",
+            "VideoId": "sRoqDVgFgSw",
+            "Controls": "start=461"
+        },
+        {
+            "Text": " For many of us in midlife, this isn't just a feeling, it is a harsh reality, when we suddenly lose our job and the phone stops ringing. For many of us, justifiably, we worry that people see our experience as a liability, not an asset.",
+            "Title": "What baby boomers can...",
+            "VideoId": "7p1nCRQCiUM",
+            "Controls": "start=312"
+        },
+        {
+            "Text": " state owned corporation and its debt and then lastly not a direct debt of the country but it's the contingent liabilities which we saw in the recent crisis is very important the too big to fail those institutions in a country",
+            "Title": "Pulling back the curtain...",
+            "VideoId": "OuBsqIFouVo",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " Most of it is because of ways that the liabilities are building up and the trends, and that creates a huge challenge. In fact, this is the forecast picture. There are various things in I could say we might raise more revenue,",
+            "Title": "How state budgets are...",
+            "VideoId": "jiUKpX09zo4",
+            "Controls": "start=128"
+        },
+        {
+            "Text": " a world where a girl like me is no longer a liability or a burden but a person of use, a person of value and a person of worthiness. By the time my fellowship ended, my life had changed.",
+            "Title": "How education helped me...",
+            "VideoId": "Bg7hbA6IwBM",
+            "Controls": "start=383"
+        },
+        {
+            "Text": " only her tail betrays her emotion now even padded souls are a liability she turns her foot fur is quarter in her",
+            "Title": "Hunting Lesson PIPE...",
+            "VideoId": "CzkeqNcupCs",
+            "Controls": "start=87"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/herbert-hoover.webp",
+            "Text": "The great liability of the engineer compared to men of other professions is that his works are out in the open where all can see them. His acts, step by step, are in hard substance. He cannot bury his mistakes in the grave like the doctors. He cannot argue them into thin air or blame the judge like the lawyers.",
+            "Title": "American President",
+            "Name": "Herbert Hoover"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kresley-cole.webp",
+            "Text": "One of my favorite things to do is formulate powers for a character, then come up with their corresponding weaknesses and liabilities. And I delight in world-building: melding the supernatural with the natural, then tweaking and polishing until it feels organic.",
+            "Title": "American Novelist",
+            "Name": "Kresley Cole"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dennis-cardoza.webp",
+            "Text": "Now is not the time to give greater protections to pharmaceutical companies that put unsafe drugs like Vioxx on the market. Such protections have nothing to do with the liability insurance crisis facing doctors and should be stripped from this bill.",
+            "Title": "American Politician",
+            "Name": "Dennis Cardoza"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-abagnale.webp",
+            "Text": "Banks are so protected from liability they would have to really do something that was their mistake in order for them to be liable for it. Banks don't look at signatures. They're processing millions of checks and they have very little liability.",
+            "Title": "American Celebrity",
+            "Name": "Frank Abagnale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/inzamam-ul-haq.webp",
+            "Text": "The thing that forced me to think about my retirement was that I had played my cricket with honour and distinction, and I did not want to put myself in a position where I was considered a liability or unwanted by the selectors.",
+            "Title": "Pakistani Coach",
+            "Name": "Inzamam-ul-Haq"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grover-norquist.webp",
+            "Text": "Tax increases slow economic growth. Why would you raise taxes? We need to reform spending, the tens of trillions of unfunded liabilities can never be funded by tax increases, that can only be fixed by reducing spending.",
+            "Title": "American Politician",
+            "Name": "Grover Norquist"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeremy-rifkin.webp",
+            "Text": "The public should know that the liability issues here have yet to be resolved, or even raised. If you're a farmer and you're growing a genetically engineering food crop, those genes are going to flow to the other farm.",
+            "Title": "American Economist",
+            "Name": "Jeremy Rifkin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katie-pavlich.webp",
+            "Text": "Just like every other industry, the firearms industry can in fact be sued - a far cry from being immune or 'wholly protected' of any liability.",
+            "Title": "American Journalist",
+            "Name": "Katie Pavlich"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-j-knowles.webp",
+            "Text": "President Trump's greatest political liabilities revolve around questions of personality and character.",
+            "Title": "American Author",
+            "Name": "Michael J. Knowles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ken-salazar.webp",
+            "Text": "Liability does apply with respect to the amount of the oil spill.",
+            "Title": "American Politician",
+            "Name": "Ken Salazar"
+        }
+    ]
+}

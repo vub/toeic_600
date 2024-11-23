@@ -1,0 +1,309 @@
+{
+    "currentWord": {
+        "wordRoot": "duration",
+        "id": 5692,
+        "phonemic": "djuˈreɪʃn|duˈreɪʃn\r",
+        "bigId": "1ad6260d-2d04-4290-9150-6dd11c5fc984",
+        "wordForms": [
+            "duration"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1ad6260d-2d04-4290-9150-6dd11c5fc984",
+            "de": "The amount of time that something lasts.",
+            "ty": "noun",
+            "ex": "The duration of the movie is two hours.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "long duration",
+                " short duration",
+                " duration of time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1ad6260d-2d04-4290-9150-6dd11c5fc984.webp",
+            "Tips": [
+                {
+                    "title": "Context Matters",
+                    "description": "The meaning of 'duration' can change slightly based on context, referring to entertainment, events, or experiences.",
+                    "example": "The average duration of a concert is about two hours.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Il6yWxwQzVMFzimPkthjOLlegF0.webp"
+                },
+                {
+                    "title": "Adjective Form",
+                    "description": "'Duration' is often preceded by descriptive adjectives like 'long', 'brief', 'average', indicating the length.",
+                    "example": "They enjoyed a brief duration of peace before the storm.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/hhJxtdIu3Acxd4wirtbD8k2MrTY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a18a9a43-4b3e-4483-bf69-8d74f6c66f78",
+            "de": "The time during which something continues.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "His prison sentence is for a duration of five years.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "duration of sentence",
+                " duration of term",
+                " duration of imprisonment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a18a9a43-4b3e-4483-bf69-8d74f6c66f78.webp",
+            "Tips": [
+                {
+                    "title": "Legal Time Span",
+                    "description": "In a legal context, 'duration' usually refers to the time assigned for punishments or contractual terms.",
+                    "example": "The duration of the non-disclosure agreement is 10 years.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Fixed vs Variable",
+                    "description": "In legal contexts, 'duration' can be set (fixed) or changeable (variable), impacting rights or penalties.",
+                    "example": "The duration of his parole is variable, based on behavior.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "90816541-653a-4e8f-853f-b613a39bc10c",
+            "de": "The continuity in time of an object or process.",
+            "do": "Physics",
+            "ty": "noun",
+            "ex": "In physics, we study the duration of various processes.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "duration of process",
+                " duration of motion",
+                " duration of action"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/90816541-653a-4e8f-853f-b613a39bc10c.webp",
+            "Tips": [
+                {
+                    "title": "Duration Intuition",
+                    "description": "In physics, the concept of duration can be intuitive, like the time it takes for a ball to drop.",
+                    "example": "Measure the duration of the pendulum's swing.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Duration vs Instant",
+                    "description": "Unlike an instant, duration implies a process or event with a distinguishable time length.",
+                    "example": "The laser's pulse had a duration of milliseconds.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fd8eb965-b240-40b9-b60a-8ee0f4d931ab",
+            "de": "A measure of the sensitivity of the price of a bond or other debt instrument to a change in interest rates.",
+            "do": "Finance",
+            "ty": "noun",
+            "ex": "Longer duration bonds are usually riskier than shorter duration bonds.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "duration of bond",
+                " duration of debt",
+                " duration of investment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fd8eb965-b240-40b9-b60a-8ee0f4d931ab.webp",
+            "Tips": [
+                {
+                    "title": "Investment Timeframe",
+                    "description": "In finance, 'duration' helps investors understand how long their money will be tied up in an investment.",
+                    "example": "The bond's duration influences its interest rate risks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Interest Rate Impact",
+                    "description": "Bond 'duration' affects how sensitive the investment is to the changes in interest rates.",
+                    "example": "An increase in interest rates affected the bond's duration.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Continuation": {
+            "wordRoot": "Continuation",
+            "wordDefinition": "Continuation refers to the action or process of carrying on something that has already started or been happening before, such as a story, activity, or process.\n\nFor example, if you say \"the continuation of the story\", it means that you want to continue or pick up where the story left off.\n\nSo, while continuation refers to the ongoing action or process, duration refers to the length of time that it takes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6acbbb9c-cad1-431b-b5a0-f049f2fb5a2a.webp"
+        },
+        "Endurance": {
+            "wordRoot": "Endurance",
+            "wordDefinition": "Endurance refers to the ability to withstand or persevere through a difficult or challenging situation. For example, a marathon runner needs to have endurance to be able to complete the race.\n\nDuration is about time, while endurance is about resilience.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc675203-db04-46e0-8b1e-6919315821d6.webp"
+        },
+        "Length": {
+            "wordRoot": "Length",
+            "wordDefinition": "Duration and length are two different ways of measuring time or space.\n\nLength refers to the size of something in terms of distance or space. For example, the length of a piece of string is how far it extends from one end to the other.\n\nAnother example would be the length of a car, which is how much space it takes up on the road.\n\nDuration is used when talking about time and measuring how long something lasts, while length is used when talking about physical size or distance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b55b71ef-1e8a-4b8c-9c00-c368a1b5500b.webp"
+        },
+        "Period": {
+            "wordRoot": "Period",
+            "wordDefinition": "Period refers to a general length of time that is usually specified. It focuses on a range of time or a specific date range.\n\nPeriod is typically used when discussing time in relation to a cycle or trend.\n\nFor example, the duration of a movie would refer to the time it takes to watch the entire movie from beginning to end. The period of a movie franchise would refer to the length of time the movies have been in production or released.\n\nDuration is more specific and focused on a single, discrete event, while period is more general and focused on a longer time frame or trend.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1cef547a-54e0-4ab1-9a35-c7ec7228d51b.webp"
+        },
+        "Persistence": {
+            "wordRoot": "Persistence",
+            "wordDefinition": "Persistence refers to the act of continuing to do something even when faced with difficulties or obstacles. It is applicable in situations where we want to describe someone's determination or perseverance in pursuing a goal.\n\nFor example, a person who persists in studying even though it is challenging is said to have persistence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1d32d59a-7a26-455a-b93b-b5cb8df9b791.webp"
+        },
+        "Span": {
+            "wordRoot": "Span",
+            "wordDefinition": "Span refers to the length of time that something covers or encompasses.\n\nIt can describe a range or period of time, such as the span of someone's career or the span of a historical event.\n\nDuration describes a specific length of time for a particular event, while span describes the overall length of time something takes place or covers.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a3ea2c9-da72-4a51-90d0-d0d162b77dee.webp"
+        },
+        "Tenure": {
+            "wordRoot": "Tenure",
+            "wordDefinition": "Tenure generally refers to the length of time that someone holds a position or role, such as a professor's tenure at a university or an employee's tenure at a company.\n\nDuration refers more generally to the length of time that something lasts, while tenure refers specifically to the length of time someone holds a position or role.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d379b8df-9007-48c7-95af-457b2a8c4411.webp"
+        },
+        "Term": {
+            "wordRoot": "Term",
+            "wordDefinition": "Duration refers to the length of time something lasts or continues for, while term is a specific period of time that is assigned to something.\n\nFor example, if you were talking about a movie, the duration would be the length of time the movie runs for (e.g. 2 hours), while the term would be when the movie is released and available to watch (e.g.\n\nit's in theaters for a limited term of 4 weeks).\n\nIn simpler terms, duration is the length of time something goes on for, while term is a specific period of time that something is scheduled to happen or exist for.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/198a81dc-8444-4f80-9cb2-de85b23fa92b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " So how did the idea for this come about? As an architect, I've been working for most of my adult life on better ways to build for natural disasters. Oh, everyone's familiar with big earthquakes here in the Bay Area. If you want to separate a house or a structure from the earth for the duration of an earthquake,",
+            "Title": "How To Levitate PIPE The...",
+            "VideoId": "xDyJkFehDk0",
+            "Controls": "start=896"
+        },
+        {
+            "Text": " It's not because I think I'm special. This story is important precisely because I'm not special; because nothing that happened to me was all that unique. My dependence on opioids was entirely predictable given the amount that I was prescribed and the duration for which I was prescribed it.",
+            "Title": "The agony of opioid...",
+            "VideoId": "WhpAYw9kCt8",
+            "Controls": "start=568"
+        },
+        {
+            "Text": " college test on and on have far less impact less intensity and much less duration that people expect them to have effect a recent study this almost fleurs me a recent study showing how major life traumas affect people suggests that if it happened over three months ago with",
+            "Title": "The surprising science...",
+            "VideoId": "4q1dgn_C0AU",
+            "Controls": "start=223"
+        },
+        {
+            "Text": " In the long duration chairs, you're transported to the big place where you're going to see the work. And if you fall asleep, which is very possible because it's been a long day, you're going to be transported to the parking lot. And you know, sleeping is very important.",
+            "Title": "An Art Made of Trust,...",
+            "VideoId": "M4so_Z9a_u0",
+            "Controls": "start=702"
+        },
+        {
+            "Text": " who haven't yet developed Alzheimer's disease, worsening sleep quality and sleep duration are associated with a greater amount of amyloid-beta building up in the brain, and while it's important to point out that these studies don't prove that lack of sleep or poor sleep",
+            "Title": "One more reason to get a...",
+            "VideoId": "MJK-dMlATmM",
+            "Controls": "start=585"
+        },
+        {
+            "Text": " age varies when you're five years old one year is twenty percent of your life but when you're 50 years old one year is only two percent of your life we may be constantly comparing intervals with time with the duration that we've already lived third with aging they come",
+            "Title": "What does your time feel...",
+            "VideoId": "846pTCfCv_A",
+            "Controls": "start=240"
+        },
+        {
+            "Text": " In an instant, the palace dissolved around them. The doctor found himself in an immense cave lined with countless quivering candles, each representing the duration of a life. As punishment for his Godson’s foolish attempt to master mortality,",
+            "Title": "The tale of the doctor...",
+            "VideoId": "yJ9UtAmjs7Y",
+            "Controls": "start=241"
+        },
+        {
+            "Text": " In every duration, whether it is peace, whether it is trouble, whether it is earthquake, whether it is something calamity. So, Inshallah the world will come very peaceful and we shall be one. And because the world is becoming now",
+            "Title": "We Are What We Eat:...",
+            "VideoId": "-SzoHL7j-SU",
+            "Controls": "start=361"
+        },
+        {
+            "Text": " it was never explained to me the commonness of these factors that women consider, like the risk of passing on hereditary illness, the danger of having to stop life-saving medication for the duration of your pregnancy,",
+            "Title": "I don't want children --...",
+            "VideoId": "A_xXC37CDSw",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " the virus may reappear seasonally, so vaccines will continue to protect people. And although it may take years to create, disruptions to most people’s lives won’t necessarily last the full duration.",
+            "Title": "When is a pandemic over?",
+            "VideoId": "Qi0edf_nJDo",
+            "Controls": "start=279"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-deyoung.webp",
+            "Text": "Many people suffer at the hands of others. The world can be unfair, at times mercilessly so. Millions of people in the world are genuine victims, right now. All of us will be at some point, whether it's for small matters or large, for a long duration or short. But we aren't all victims, not all the time anyway, not for everything.",
+            "Title": "American Theologian",
+            "Name": "Kevin DeYoung"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mikhail-khodorkovsky.webp",
+            "Text": "Fortunes are made, and disappear, over the lifetime of a single generation. Today, a person in essence takes his wealth from society just for the duration of his or her lifetime. The next generation has to create it anew.",
+            "Title": "Russian Businessman",
+            "Name": "Mikhail Khodorkovsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sunita-williams.webp",
+            "Text": "When you are thinking about going away for a long duration mission, it has to be part of your mindset that you're leaving your family, but it's for the right reasons, for good reasons, and hopefully helping humanity.",
+            "Title": "American Astronaut",
+            "Name": "Sunita Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adewale-akinnuoye-agbaje.webp",
+            "Text": "To play these twisted, tormented characters is very draining. You have to sit in the pocket of that character for the duration of the shoot, which is normally an average of three months, and that can be taxing!",
+            "Title": "British Actor",
+            "Name": "Adewale Akinnuoye-Agbaje"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ludwig-wittgenstein.webp",
+            "Text": "Death is not an event in life: we do not live to experience death. If we take eternity to mean not infinite temporal duration but timelessness, then eternal life belongs to those who live in the present.",
+            "Title": "Austrian Philosopher",
+            "Name": "Ludwig Wittgenstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lisa-gansky.webp",
+            "Text": "Insurance and funding traditionally drive capital investment. But in a world based on access, not ownership, the duration, value, cost and extent of financial services is distinctly different.",
+            "Title": "American Businesswoman",
+            "Name": "Lisa Gansky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/myles-munroe.webp",
+            "Text": "The value of life is not in its duration, but in its donation. You are not important because of how long you live, you are important because of how effective you live.",
+            "Title": "Bahamian Clergyman",
+            "Name": "Myles Munroe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jessica-simpson.webp",
+            "Text": "Through a huge duration of my life, someone has always picked up after me. And when you're on your own and you're trying to be independent, it's definitely different.",
+            "Title": "American Musician",
+            "Name": "Jessica Simpson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/s-jay-olshansky.webp",
+            "Text": "The only control we have over the duration of our life is to shorten it, and we do that all the time.",
+            "Title": "American Scientist",
+            "Name": "S. Jay Olshansky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-marshall.webp",
+            "Text": "The measure of life is not its duration, but its donation.",
+            "Title": "Scottish Clergyman",
+            "Name": "Peter Marshall"
+        }
+    ]
+}

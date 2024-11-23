@@ -1,0 +1,329 @@
+{
+    "currentWord": {
+        "wordRoot": "strict",
+        "id": 16509,
+        "phonemic": "strɪkt|strɪkt\r",
+        "bigId": "2214d182-9a9e-4e5b-9c01-ee50a1a2881c",
+        "wordForms": [
+            "stricter",
+            "strictest",
+            "strictly",
+            "strictness",
+            "strict"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2214d182-9a9e-4e5b-9c01-ee50a1a2881c",
+            "de": "Following rules or standards very closely",
+            "ty": "adjective",
+            "ex": "The teacher is strict about homework.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "strict regulations",
+                " strict rules",
+                " strict teacher"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2214d182-9a9e-4e5b-9c01-ee50a1a2881c.webp",
+            "Tips": [
+                {
+                    "title": "Authority figure",
+                    "description": "Often used to describe someone in charge, like a parent or teacher, who enforces rules",
+                    "example": "He grew up with a strict father who had firm rules.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ppChyCZZSuwkUHZPr1mKWQw.webp"
+                },
+                {
+                    "title": "Expect compliance",
+                    "description": "Used where rules must be followed without exception, showing no leniency",
+                    "example": "The military training was strict and allowed no room for error.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OSssbe35S6t91T8CVyUsPtjelk.webp"
+                },
+                {
+                    "title": "Severity",
+                    "description": "Conveys a sense of harshness or lack of flexibility in rules or discipline",
+                    "example": "The school's strict dress code prohibited casual wear.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qyMhBUmOnY226wJ6B8csabhrKEU.webp"
+                }
+            ]
+        },
+        {
+            "id": "e468d9f7-10ad-4f3e-9a78-4e9e71350680",
+            "de": "Very exact and accurate",
+            "ty": "adjective",
+            "ex": "I made a strict comparison between the two products.",
+            "use": "",
+            "co": "Academic,Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "strict accuracy",
+                " strict adherence",
+                " strict comparison"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e468d9f7-10ad-4f3e-9a78-4e9e71350680.webp",
+            "Tips": [
+                {
+                    "title": "Attention to detail",
+                    "description": "Emphasizes the importance of accuracy and careful execution in work or study",
+                    "example": "The scientist's strict methodology yielded reliable results.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No deviations",
+                    "description": "Used to describe situations where precision is critical and variations are unacceptable",
+                    "example": "Strict measurements are vital in construction to ensure structural integrity.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "High standards",
+                    "description": "Refers to maintaining very high criteria or expectations, usually in quality or performance",
+                    "example": "The editor was strict with her writers, demanding high-quality content.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4f7b723b-bb9c-4228-b08c-41cb2d3ec0c3",
+            "de": "Specifies that a code or program can only be executed in its exact form with no changes",
+            "do": "Computing",
+            "ty": "adjective",
+            "ex": "The strict mode in javascript does not allow undeclared variables.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "strict mode",
+                " strict syntax",
+                " strict code"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4f7b723b-bb9c-4228-b08c-41cb2d3ec0c3.webp",
+            "Tips": [
+                {
+                    "title": "Programming precision",
+                    "description": "In computing, indicates code must be written and executed without any errors or variations",
+                    "example": "He enabled strict mode to avoid issues during the program's execution.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Error prevention",
+                    "description": "Using strict settings in programming helps to prevent unintended behaviors or bugs",
+                    "example": "Strict error checking helped find faults in the code early.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ac616083-ea99-4c3e-98f5-f48e19025a77",
+            "de": "Describes an inequality that is not equal or equivalent",
+            "do": "Mathematics",
+            "ty": "adjective",
+            "ex": "In a strict inequality, the values are not the same and are not equal.",
+            "use": "",
+            "co": "Technical,Academic",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "strict inequality",
+                " strict dominance",
+                " strict subset"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ac616083-ea99-4c3e-98f5-f48e19025a77.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical precision",
+                    "description": "In math, refers to precise inequality where equality is not permitted",
+                    "example": "For x < y, called a strict inequality, x can never equal y.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No equality allowed",
+                    "description": "Used in mathematics to indicate a relationship where one value is strictly less than or greater than another",
+                    "example": "She learned that 'strictly greater than' excludes the possibility of being equal.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Authoritative": {
+            "wordRoot": "Authoritative",
+            "wordDefinition": "Authoritative means having power or knowledge and being respected because of it. It is applicable when someone knows a lot about a certain topic or subject and is able to give information or direction with confidence and credibility.\n\nSo, in short, authoritative is about having knowledge and being respected for it, while strict is about enforcing rules and not allowing exceptions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b2657033-8e8e-4742-97ef-c110e47f610f.webp"
+        },
+        "Exact": {
+            "wordRoot": "Exact",
+            "wordDefinition": "Exact means completely accurate, without any mistakes or errors. It is applicable when someone wants a precise or accurate answer or measurement.\n\nFor example, if a teacher asks a student to give an exact answer to a mathematical problem, the student should provide an answer that is 100% correct.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0b360822-2977-4243-97e0-44b1e54e2a84.webp"
+        },
+        "Firm": {
+            "wordRoot": "Firm",
+            "wordDefinition": "Firm means having a strong and steady attitude towards something. This may involve being assertive and confident while setting limits and boundaries.\n\nFor example, a parent might have a firm parenting style that involves being consistent and clear with their expectations.\n\nFirm suggests a strong and assertive approach, while strict suggests a harsh and inflexible approach. Both can be applicable in different contexts, depending on the situation and the person involved.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/befc5594-3d66-4ae1-84bf-268f99b7ce27.webp"
+        },
+        "Harsh": {
+            "wordRoot": "Harsh",
+            "wordDefinition": "Harsh means cruel, unpleasant, or severe, and it's often used to describe punishment or criticism that is overly harsh.\n\nStrict means rigid, demanding, or exacting, and it's often used to describe rules or expectations. For example, a teacher might have strict rules for their classroom, while a parent might be harsh in their discipline.\n\nOverall, while both words are used to describe someone who is firm or uncompromising, harsh has a more negative connotation than strict.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c7461930-117e-400c-b193-aa0a4650eb02.webp"
+        },
+        "Inflexible": {
+            "wordRoot": "Inflexible",
+            "wordDefinition": "Inflexible means something that cannot be bent or changed, while strict refers to being firm in enforcing rules or standards.\n\nFor example, an inflexible rule may mean that there is no room for negotiation or flexibility, and the rule must be followed exactly.\n\nInflexible refers to something that is unchangeable or immovable, while strict refers to someone who is firm, but may still be open to exceptions or different interpretations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fa83432d-dffc-4592-82f6-81c4a373fdef.webp"
+        },
+        "Rigorous": {
+            "wordRoot": "Rigorous",
+            "wordDefinition": "Rigorous means very thorough and precise, with attention to detail and accuracy.\n\nRigorous emphasizes thoroughness and attention to detail, whereas strict emphasizes strict adherence to rules and regulations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fe6c2805-5c88-4c60-b033-41c8d1f16f8b.webp"
+        },
+        "Severe": {
+            "wordRoot": "Severe",
+            "wordDefinition": "Severe means extremely serious or intense, while strict means following rules or requirements very closely.\n\nFor example, a severe weather condition would refer to a very extreme or intense weather event like a hurricane or tornado, whereas a strict teacher would enforce classroom rules consistently and not tolerate any deviation from those rules.\n\nSevere is more appropriate for situations that are extreme or intense, while strict is more appropriate for situations that involve rules or guidelines that need to be followed closely.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/25357da7-655a-4e28-8611-d828939bbe89.webp"
+        },
+        "Stern": {
+            "wordRoot": "Stern",
+            "wordDefinition": "Stern means showing a serious and unfriendly attitude. It is applicable when someone wants to convey a severe and uncompromising tone to someone else, like a parent scolding a child for misbehaving.\n\nStern is for conveying an unfriendly tone, while strict is for conveying a rigid adherence to rules or principles.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad84b452-b731-4a31-b4f6-ac610b424ad2.webp"
+        },
+        "Stringent": {
+            "wordRoot": "Stringent",
+            "wordDefinition": "Stringent means something that is very strict and demanding. For instance, stringent security measures are required to enter a bank vault.\n\nTo summarize, strict is used in situations where someone follows rules closely while stringent applies to situations that require strict rules and regulations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/72547944-c8e1-4477-be93-85f52997f7bc.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Herbivores time their births to coincide with the rains, as there's then much more lush grass to eat to raise their young. By all giving birth around the same time, there's less chance of your offspring being the one to get eaten by a predator. As a wildlife cameraman, I'm always on the lookout for interesting behaviours, even if they're not strictly on the script.",
+            "Title": "Fatal Encounter with...",
+            "VideoId": "wR27BeVvU-w",
+            "Controls": "start=96"
+        },
+        {
+            "Text": " like opening bank accounts, buying and owning assets, and transferring money. What's more, it can be listed as the owner of other companies, including ones opened in places with stricter disclosure rules. This allows someone to create a complex world-wide chain of ownership that can take years to unravel.",
+            "Title": "How exposing anonymous...",
+            "VideoId": "FyOVMqAIFw8",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " driving the blue forward steadily exhausting him it is the females who are actually calling the shots coordinating the efforts of the group as killer whale pods are generally matriarchal the exhibit is strict dominance hierarchy ranked in order top to bottom with the adult females generally at the top of",
+            "Title": "Killer whale society PIPE...",
+            "VideoId": "Y0Pd5G2H6CM",
+            "Controls": "start=234"
+        },
+        {
+            "Text": " and we started using expressions like \"lifesaving.\" I really apologize to everybody for doing that, because obviously, we don't. What we do is prolong people's lives, and delay death, and redirect death, but we can't, strictly speaking, save lives on any sort of permanent basis.",
+            "Title": "Peter Saul: Let's talk...",
+            "VideoId": "bJ7rCIq9Lc0",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " A typical cult requires a high level of commitment from its members and maintains a strict hierarchy, separating unsuspecting supporters and recruits from the inner workings. It claims to provide answers to life's biggest questions through its doctrine,",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=116"
+        },
+        {
+            "Text": " Some of these are helpful predators of plant pests or vital pollinators, so erasing them from agriculture wipes out their benefits, too. Pesticides have improved over time and are currently regulated by strict safety standards,",
+            "Title": "Do we really need...",
+            "VideoId": "GLllZ-qiXJA",
+            "Controls": "start=201"
+        },
+        {
+            "Text": " His was a strict understanding of justice.\" \"Multiple accounts show his army's brutality going beyond ripping unborn children from mothers' wombs, using prisoners as human shields, or moat fillers to support siege engines,",
+            "Title": "History vs. Genghis Khan...",
+            "VideoId": "Eq-Wk3YqeH4",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " Although many musicians agree that music is a language, it is rarely treated as such. Many of us treat it as something that can only be learned by following a strict regimen, under the tutelage of a skilled teacher.",
+            "Title": "Music as a language -...",
+            "VideoId": "3yRMbH36HRE",
+            "Controls": "start=57"
+        },
+        {
+            "Text": " across the world whale sharks are facing threats from overfishing pollution and habitat loss but here they live in a marine protected area and fishing forum is strictly prohibited",
+            "Title": "Swim With The Biggest...",
+            "VideoId": "FOKHJcRvElI",
+            "Controls": "start=144"
+        },
+        {
+            "Text": " be friendly peaceful and we need to treat each other with respect that's why political talks are strictly",
+            "Title": "Take a Tour of a...",
+            "VideoId": "1_jYGVHRkuQ",
+            "Controls": "start=278"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kajol.webp",
+            "Text": "I think I am very hands-on mother. I am very strict, and my daughter keeps telling me, 'You are too hard on me,' and I keep telling her, 'I have to be hard because if I am not hard, you will not learn the lessons that I want you to learn.' I think it is really important to be that way.",
+            "Title": "Indian Actress",
+            "Name": "Kajol"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hisham-matar.webp",
+            "Text": "My parents were fairly laid-back, but there were certain things about which they were very strict. My brother and I were told never to turn away a person in need. And it didn't matter what we thought of their motives, whether they were truly in need or not.",
+            "Title": "American Writer",
+            "Name": "Hisham Matar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-j-cale.webp",
+            "Text": "Sometimes I make up songs, and they're just strictly fiction. Other times, I draw on things that have happened in my life or friends, women, all sorts of things.",
+            "Title": "American Musician",
+            "Name": "J. J. Cale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-kidd.webp",
+            "Text": "If there wasn't any business and it was just strictly basketball, then there would be no issue, it would probably be done by now. But the team has to protect.",
+            "Title": "American Athlete",
+            "Name": "Jason Kidd"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emmanuel-macron.webp",
+            "Text": "I am attached to a strict approach to Brexit: I respect the British vote, but the worst thing would be a sort of weak E.U. vis-a-vis the British.",
+            "Title": "French Politician",
+            "Name": "Emmanuel Macron"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karisma-kapoor.webp",
+            "Text": "I won't say I am a strict mother, but discipline is important. Timing and routine are important for kids.",
+            "Title": "Indian Actress",
+            "Name": "Karisma Kapoor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/glover-teixeira.webp",
+            "Text": "Good conditioning helps you prepare your muscles, so I make sure I'm always strict with my conditioning.",
+            "Title": "Brazilian Mixed Martial Artist",
+            "Name": "Glover Teixeira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geeta-phogat.webp",
+            "Text": "It's important for parents to be strict if you want the kids to succeed.",
+            "Title": "American Wrestler",
+            "Name": "Geeta Phogat"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tobias-forge.webp",
+            "Text": "My first teacher... was extremely strict, mean, and deeply religious.",
+            "Title": "Swedish Musician",
+            "Name": "Tobias Forge"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shinsuke-nakamura.webp",
+            "Text": "WWE, time-wise, is so strict.",
+            "Title": "Japanese Athlete",
+            "Name": "Shinsuke Nakamura"
+        }
+    ]
+}

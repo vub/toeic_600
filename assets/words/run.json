@@ -1,0 +1,456 @@
+{
+    "currentWord": {
+        "wordRoot": "run",
+        "id": 1094,
+        "phonemic": "rʌn|rʌn\r",
+        "bigId": "9b4f2bc9-8161-44e3-bf7e-dc86178fe2cb",
+        "wordForms": [
+            "runs",
+            "running",
+            "ran",
+            "run"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9b4f2bc9-8161-44e3-bf7e-dc86178fe2cb",
+            "de": "move swiftly by foot",
+            "ty": "verb",
+            "ex": "He can run really fast.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run fast",
+                " run away",
+                " run towards"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9b4f2bc9-8161-44e3-bf7e-dc86178fe2cb.webp",
+            "Tips": [
+                {
+                    "title": "Physical Movement",
+                    "description": "Used to describe someone or something moving quickly on their feet.",
+                    "example": "She could run faster than anyone on the team.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/KKOV7gONa6hqapOAVxR2pCoHplY.webp"
+                },
+                {
+                    "title": "Figurative Expression",
+                    "description": "Sometimes used figuratively to indicate something is operating, e.g., a rumor running through a crowd.",
+                    "example": "A sense of excitement ran through the audience.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/rohP53xAAjfR8qOEHOqIdbbG8s.webp"
+                }
+            ]
+        },
+        {
+            "id": "52377245-6936-4064-aed3-677b6d773b85",
+            "de": "manage or operate",
+            "ty": "verb",
+            "ex": "She runs a successful business.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run a business",
+                " run a household",
+                " run a country"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/52377245-6936-4064-aed3-677b6d773b85.webp",
+            "Tips": [
+                {
+                    "title": "Responsibility Clue",
+                    "description": "Suggests being in charge and responsible for something's operation or function.",
+                    "example": "As the mayor, he runs the city's day-to-day affairs.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Metaphorical Use",
+                    "description": "Can be metaphorical, as in guiding or leading an operation or process.",
+                    "example": "Run your ideas through the team before executing them.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "580a59f4-717d-427f-8552-a27cacff1b11",
+            "de": "continue without stopping",
+            "ty": "verb",
+            "ex": "The movie runs for two hours.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run for",
+                " run to",
+                " run through"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/580a59f4-717d-427f-8552-a27cacff1b11.webp",
+            "Tips": [
+                {
+                    "title": "Time Duration",
+                    "description": "Indicates the duration of an event or action without interruption.",
+                    "example": "The festival runs from Friday to Sunday.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sequence Understanding",
+                    "description": "Can imply a sequence of actions or processes carrying on.",
+                    "example": "Let's run through the schedule one more time.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "edae44ce-b72d-4cd3-ac5a-378e7ca7106e",
+            "de": "cause to function",
+            "ty": "verb",
+            "ex": "You need to run the washing machine.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run a machine",
+                " run a program",
+                " run a test"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/edae44ce-b72d-4cd3-ac5a-378e7ca7106e.webp",
+            "Tips": [
+                {
+                    "title": "Activate Machines",
+                    "description": "Refers to starting or operating machines or electronic devices.",
+                    "example": "Run the dishwasher once it's full.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7d834c89-e8af-4be5-b9b6-e445045d5758",
+            "de": "flow, especially of liquids",
+            "ty": "verb",
+            "ex": "The water is running from the faucet.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run hot",
+                " run cold",
+                " run clear"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7d834c89-e8af-4be5-b9b6-e445045d5758.webp",
+            "Tips": [
+                {
+                    "title": "Liquid Motion",
+                    "description": "Used when water or another liquid moves or flows in a certain direction.",
+                    "example": "Don't let the tap run; you'll waste water.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b61be8f0-3a6f-4ea9-a1e3-672ea4278e5d",
+            "de": "an act or instance of running",
+            "ty": "noun",
+            "ex": "He went for a five-mile run.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "cl": [
+                "morning run",
+                " run home",
+                " run back"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b61be8f0-3a6f-4ea9-a1e3-672ea4278e5d.webp",
+            "Tips": [],
+            "tp": ""
+        },
+        {
+            "id": "c372a9d7-6a55-408d-82ae-3613541a5bde",
+            "de": "stand as a candidate",
+            "ty": "verb",
+            "ex": "He is going to run for president.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run for office",
+                " run for election",
+                " run a campaign"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c372a9d7-6a55-408d-82ae-3613541a5bde.webp",
+            "Tips": [
+                {
+                    "title": "Political Context",
+                    "description": "Commonly used in political contexts to talk about competing in elections.",
+                    "example": "After much deliberation, she decided to run for mayor.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Campaign Connotation",
+                    "description": "Carries a connotation of undertaking a campaign with a goal to win.",
+                    "example": "They will run a strong campaign to gather support.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8c1037e5-7cf4-4f72-9ef1-060c2e091808",
+            "de": "escape or flee",
+            "ty": "verb",
+            "ex": "The thief tried to run but was caught.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run away",
+                " run off",
+                " run from"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8c1037e5-7cf4-4f72-9ef1-060c2e091808.webp",
+            "Tips": [
+                {
+                    "title": "Urgency or Danger",
+                    "description": "Conveys urgency or escape, often from danger or law enforcement.",
+                    "example": "When the alarm sounded, they had to run for safety.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2e0686b5-2ccb-44b6-822f-a079374eeda1",
+            "de": "drive fast",
+            "ty": "verb",
+            "ex": "He runs his car at high speed.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run through",
+                " run over",
+                " run around"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2e0686b5-2ccb-44b6-822f-a079374eeda1.webp",
+            "Tips": [
+                {
+                    "title": "Colloquial Speed",
+                    "description": "A casual way to talk about driving at high speed, often in a boastful manner.",
+                    "example": "He loves to run his new sports car on empty highways.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0e6c1756-368a-47c5-96f9-6a4dc2610fc0",
+            "de": "test, trial, or review",
+            "ty": "noun",
+            "ex": "We are going to do a run for the new software.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "test run",
+                " dry run",
+                " trial run"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0e6c1756-368a-47c5-96f9-6a4dc2610fc0.webp",
+            "Tips": [
+                {
+                    "title": "Testing Phases",
+                    "description": "Refers to trials or tests, especially in the context of performance or feasibility.",
+                    "example": "We'll run a simulated scenario to test the software under stress.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Bolt": {
+            "wordRoot": "Bolt",
+            "wordDefinition": "Bolt usually means to move quickly and suddenly, like a sprinter running a race.\n\nIt can also mean to manage an organization or event. Bolt implies a sudden, quick movement, while run implies a steady pace over some distance, and can also be used in the organizational sense.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2b102208-cd1e-4ed1-b948-13f4184c7c27.webp"
+        },
+        "Dash": {
+            "wordRoot": "Dash",
+            "wordDefinition": "Dash usually means to move quickly for a short distance in a specific direction, while the word run usually implies a longer distance of continuous movement.\n\nFor example, you might dash to catch a bus that's about to leave, or dash across the street to avoid a car. You might run a marathon or run on a treadmill for exercise.\n\nDash is used for short bursts of movement, while run is used for longer distances or sustained periods of movement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1c10b77b-d0e2-4a61-9d11-606bb356418f.webp"
+        },
+        "Gallop": {
+            "wordRoot": "Gallop",
+            "wordDefinition": "Gallop and run are both verbs that refer to the movement of animals or people on their legs, but the main difference between them is the speed and style of movement.\n\nGallop typically refers to a fast, bounding gait of a horse or similar animal, where all four legs leave the ground at the same time.\n\nGallop is applicable for describing a fast, bounding gait of a horse or similar animal, while run is more general and can describe a variety of movements on foot, from a slow jog to a sprint.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f5a2f49-a2b2-42fb-8276-dab604843ff1.webp"
+        },
+        "Hurtle": {
+            "wordRoot": "Hurtle",
+            "wordDefinition": "Run generally refers to moving quickly and steadily, while the word hurtle suggests moving rapidly and uncontrollably, often with a sense of danger or violence.\n\nFor example, you might run to catch a train, but a car might hurtle down a steep hill. Hurtle is typically used in situations where there is a risk of collision or danger, whereas run generally does not imply the same level of hazard.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bb3c92d9-caea-4090-9738-2fe98cb20331.webp"
+        },
+        "Jog": {
+            "wordRoot": "Jog",
+            "wordDefinition": "Jogging is a slower way of moving forward, with a consistent pace that requires less effort than running.\n\nIt is used in sports such as track and field, soccer, and basketball. Jogging is more casual and relaxed, while running is faster and more strenuous.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/062316bd-e644-4c15-8de5-029113576a28.webp"
+        },
+        "Race": {
+            "wordRoot": "Race",
+            "wordDefinition": "Race refers to a competition in which people or animals compete to be the first to reach the finish line.\n\nRace is applicable in a competitive setting where the goal is to be the first to finish, whereas run describes the simple act of moving quickly on foot.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5f21cbe2-3673-453d-a115-609452733f78.webp"
+        },
+        "Rush": {
+            "wordRoot": "Rush",
+            "wordDefinition": "Run refers to moving at a steady pace with force, while rush means to move quickly with urgency or desperation. For example, when you go for a jog, you run, but when you're late for an appointment, you may rush to get there on time.\n\nRun is usually used for normal activities whereas rush is used when things are hurried or in a hurry.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c0beb8c3-5734-4ea0-939b-f9aa969511b5.webp"
+        },
+        "Scamper": {
+            "wordRoot": "Scamper",
+            "wordDefinition": "Scamper means to run quickly with short, light steps.\n\nSo, while both words describe a fast movement on foot, run is a more general term for any kind of quick walking or jogging, while scamper is more specific to small, quick movements.\n\nEssentially, scamper adds a bit of extra detail to the description of a fast movement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/81a9618a-bfe7-49ac-9704-e482c36fb884.webp"
+        },
+        "Sprint": {
+            "wordRoot": "Sprint",
+            "wordDefinition": "Run refers to moving forward quickly using both legs in a steady rhythm, which can be done at a moderate or fast pace. Sprint refers to moving as fast as possible for a short distance, typically done in a competition or to reach a specific goal quickly.\n\nHowever, if you were participating in a track meet, you might sprint the last 100 meters to try to win the race.\n\nIn summary, running can refer to a moderate or fast-paced movement, while sprinting refers to a short burst of maximum effort to reach a specific goal quickly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2660b1d9-e3db-45fc-b021-86e19c26a23d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " which trigger two responses. First, the vagus nerve, which runs through the body into the brain, quickly transmits the information to the brain stem, passing near an important area of pain processing. Second, cytokines travel through the body to the hypothalamus, the part of the brain responsible for controlling temperature,",
+            "Title": "The surprising reason...",
+            "VideoId": "gVdY9KXF_Sg",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " no longer trust us because we're no longer predictable and it's fantastic for our enemies because they can exploit it ideally what we do is we run all decisions through our values first and though it may not always go our way just like I said we make decisions all the time that aren't always in our",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=525"
+        },
+        {
+            "Text": " comes with a high cost. As for the question of running out of space, the issue isn't so much about total land in the world as it is that large populations cluster together within cities. Most of the big cities in the world may run out of suitable burial grounds within a century.",
+            "Title": "What happens to our...",
+            "VideoId": "mRsa2wb0aTs",
+            "Controls": "start=174"
+        },
+        {
+            "Text": " The combined running, jumping, wrestling, javelin throwing, and hurling the discus events known as the pentathlon inspired world-class competition, and the pankration, a no holds barred fight where only biting and eye-gouging were prohibited,",
+            "Title": "The ancient origins of...",
+            "VideoId": "VdHHus8IgYA",
+            "Controls": "start=85"
+        },
+        {
+            "Text": " that's almost as deep as any divide can be between two animals with three hearts no bones a beak with a venomous bite and a gut that runs through its brain to one point of view the octopus is completely alien",
+            "Title": "Octopus Playtime PIPE...",
+            "VideoId": "mnZ9wF-Bv1w",
+            "Controls": "start=246"
+        },
+        {
+            "Text": " the U.S. EPA warns against eating food off of them. Though we still occasionally run into issues with synthetic food dyes, our scientific understanding has helped us prune hazardous colors out of our lives.",
+            "Title": "History’s deadliest...",
+            "VideoId": "gKfjHTk8KrY",
+            "Controls": "start=276"
+        },
+        {
+            "Text": " but over long distances it's the world champion. But all large herbivores have to be able to run fast. They run on tip-toe, so that they cover more ground with each stride.",
+            "Title": "Triumph of the...",
+            "VideoId": "RtnLNmB3ZNE",
+            "Controls": "start=42"
+        },
+        {
+            "Text": " So, after I lost Audrey, I've started running grief support groups for women working through various forms of trauma. Surf therapy is about finding comfort in your body and",
+            "Title": "Surf Sisters - Ep. 2 PIPE...",
+            "VideoId": "F3LS8CQJW4A",
+            "Controls": "start=203"
+        },
+        {
+            "Text": " that they put into their affairs, they probably would never need to see me. So how do we heal from an affair? Desire runs deep. Betrayal runs deep.",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=887"
+        },
+        {
+            "Text": " during the winter the Buffalo will have to break trail running through the deep snow they tire more quickly than the wolves",
+            "Title": "Wolf Pack Hunts Buffalo...",
+            "VideoId": "6NPe4QReznM",
+            "Controls": "start=97"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bob-dylan.webp",
+            "Text": "This land is your land and this land is my land, sure, but the world is run by those that never listen to music anyway.",
+            "Title": "American Musician",
+            "Name": "Bob Dylan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/clint-eastwood.webp",
+            "Text": "As you get older, you're not afraid of doubt. Doubt isn't running the show. You take out all the self-agonizing.",
+            "Title": "American Actor",
+            "Name": "Clint Eastwood"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/will-smith.webp",
+            "Text": "So if you stay ready, you ain't gotta get ready, and that is how I run my life.",
+            "Title": "American Actor",
+            "Name": "Will Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/diego-maradona.webp",
+            "Text": "To see the ball, to run after it, makes me the happiest man in the world.",
+            "Title": "Argentinian Athlete",
+            "Name": "Diego Maradona"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jake-peavy.webp",
+            "Text": "Music runs my life. I can't imagine going a day without it.",
+            "Title": "American Athlete",
+            "Name": "Jake Peavy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-prefontaine.webp",
+            "Text": "If anybody wants to beat me, let them run a world record.",
+            "Title": "American Athlete",
+            "Name": "Steve Prefontaine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ice-t.webp",
+            "Text": "Everything we do helps the new artists in the long run.",
+            "Title": "American Musician",
+            "Name": "Ice T"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-sehorn.webp",
+            "Text": "I said it for a long time I could run a marathon.",
+            "Title": "",
+            "Name": "Jason Sehorn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hannah-teter.webp",
+            "Text": "Funny how one halfpipe run can change your life.",
+            "Title": "American Athlete",
+            "Name": "Hannah Teter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grace-poe.webp",
+            "Text": "I will continue to help run my father's company.",
+            "Title": "Filipino Businesswoman",
+            "Name": "Grace Poe"
+        }
+    ]
+}

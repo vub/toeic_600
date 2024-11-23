@@ -1,0 +1,319 @@
+{
+    "currentWord": {
+        "wordRoot": "hire",
+        "id": 18349,
+        "phonemic": "ˈhaɪə(r)|ˈhaɪər\r",
+        "bigId": "d2c4a2f9-483f-4a1a-8526-e5d7a3161b5e",
+        "wordForms": [
+            "hires",
+            "hiring",
+            "hired",
+            "rehire",
+            "rehired",
+            "hire"
+        ]
+    },
+    "senses": [
+        {
+            "id": "d2c4a2f9-483f-4a1a-8526-e5d7a3161b5e",
+            "de": "To give someone a job",
+            "ty": "verb",
+            "ex": "The restaurant will hire more waiters to handle the rush hour crowd.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hire someone",
+                " hire for a job",
+                " hire employees"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d2c4a2f9-483f-4a1a-8526-e5d7a3161b5e.webp",
+            "Tips": [
+                {
+                    "title": "Job Offer Perspective",
+                    "description": "Refers to employer's action to provide a job, not the candidate's perspective of obtaining one.",
+                    "example": "The company plans to hire ten new employees next month.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zuzSEjZHLGNbZO2cp1BgRsxYo4.webp"
+                },
+                {
+                    "title": "Start of Employment",
+                    "description": "Implies the beginning of a working relationship, potentially long-term engagement.",
+                    "example": "After they hire you, you'll start with a training session.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZHhCGX9SjP5vCNdXXSL1gTOuxI4.webp"
+                },
+                {
+                    "title": "Skill-based Selection",
+                    "description": "Indicates preference for specific skills or qualifications when hiring for a job.",
+                    "example": "We only hire experienced chefs who can handle the grill station.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zxGVyqBgG4IHuOSjlW3pgvRBY.webp"
+                }
+            ]
+        },
+        {
+            "id": "2b2c9cd3-b0da-4693-aad6-eefc864392d4",
+            "de": "The act of hiring someone or something",
+            "ty": "noun",
+            "ex": "His hire by the company was a controversial decision.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "under hire",
+                " on hire",
+                " for hire"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2b2c9cd3-b0da-4693-aad6-eefc864392d4.webp",
+            "Tips": [
+                {
+                    "title": "Focus on Process",
+                    "description": "Emphasizes the hiring process or event, rather than the individual hired.",
+                    "example": "The hire of the new manager took two months to finalize.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "Can imply a controversial or questionable hiring decision.",
+                    "example": "Her hire raised quite a few eyebrows due to her lack of experience.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "015201af-a883-4d24-b308-23dfe8bbd324",
+            "de": "To pay to use something for a short period",
+            "ty": "verb",
+            "ex": "We decided to hire a car for our weekend getaway.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hire a car",
+                " hire a bike",
+                " hire equipment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/015201af-a883-4d24-b308-23dfe8bbd324.webp",
+            "Tips": [
+                {
+                    "title": "Temporary Possession",
+                    "description": "Stresses the short-term nature of the agreement for use of an item or service.",
+                    "example": "If you're only in town for a day, it might be best to hire a bike.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cost Implication",
+                    "description": "Involves payment, often calculated by the hour or day, for temporary use.",
+                    "example": "How much does it cost to hire a kayak for an afternoon?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d90350f0-6b20-4031-aae1-175bf8ecd5ee",
+            "de": "A person who has been hired for a job",
+            "ty": "noun",
+            "ex": "The new hires underwent a week of training before starting work.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "new hire",
+                " first hire",
+                " direct hire"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d90350f0-6b20-4031-aae1-175bf8ecd5ee.webp",
+            "Tips": [
+                {
+                    "title": "New Addition",
+                    "description": "Refers to individuals recently recruited and joining a team or company.",
+                    "example": "All new hires must attend an orientation on their first day.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Training Period",
+                    "description": "Often implies a period of learning or probation for the person hired.",
+                    "example": "New hires are usually given extra support during the first few weeks.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Appoint": {
+            "wordRoot": "Appoint",
+            "wordDefinition": "Appoint is usually used when someone is selected for a position or role, and they are given the authority to carry out certain tasks or responsibilities.\n\nFor example, a manager might appoint someone to lead a new project.\n\nAppoint implies a more specific designation of duties or responsibilities, while hire is a more general term for bringing someone on to work for an organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b1a459ac-0c26-479d-84ec-b3a22e8d9eda.webp"
+        },
+        "Commission": {
+            "wordRoot": "Commission",
+            "wordDefinition": "Commission refers to a payment made to someone for completing a project or task. For example, an artist may be commissioned to paint a portrait for a client and will receive payment once the portrait is completed.\n\nGenerally, commission work is temporary and paid on a project basis.\n\nHiring is a long-term commitment, whereas commission work tends to be short-term or project-based.\n\nCommission refers to a payment for a specific task or project, while hire refers to employing someone for a long-term position or job.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/262b4d97-a1e2-48d1-8ebf-1109fa580c10.webp"
+        },
+        "Contract": {
+            "wordRoot": "Contract",
+            "wordDefinition": "Contract and hire are both terms related to employment, but they are used in different situations.\n\nContract refers to a specific agreement between an employer and an employee, usually for a fixed period of time or project.\n\nThe terms of the agreement are outlined in a legal document, and both parties are bound to fulfill their obligations. For example, if a company needs a graphic designer to create a brochure, they may hire a freelance designer on a contract basis for a set fee and time period.\n\nSo, while contract is used for temporary or project-based work, hire is used for longer-term employment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/16e3c77a-4f67-49c3-9516-58b201dd0037.webp"
+        },
+        "Employ": {
+            "wordRoot": "Employ",
+            "wordDefinition": "Both employ and hire have similar meanings but there are slight differences.\n\n- Employ: This means to offer someone a job, giving them a particular role or responsibility.\n\nIt is usually used in a more formal setting, such as a company or organization. For example, \"I am employed as a marketing manager at XYZ Corporation.\".\n\nSo in short, if you are giving someone a long-term job with specific duties and responsibilities, use 'employ.' If you need someone to do a specific project or task temporarily, use 'hire.'",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eb0baa3c-93ef-4ada-ac90-abce85747e48.webp"
+        },
+        "Engage": {
+            "wordRoot": "Engage",
+            "wordDefinition": "Engage means to involve someone in a task or activity, whereas the word hire means to pay someone for their services for a specific task or job.\n\nFor example, you would engage a friend to help you with a project, meaning you would involve them in the work.\n\nEngage is more commonly used in casual or collaborative situations, while hire is used in professional or employment situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/57b50e24-a47a-455a-851d-79d8b5894869.webp"
+        },
+        "Lease": {
+            "wordRoot": "Lease",
+            "wordDefinition": "Lease means to rent something for a period of time, usually for a longer duration than hiring. For example, you can lease an apartment or lease a car.\n\nYou hire something or someone for a short-term use or employment, while you lease something for a longer-term rental agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/661c03fe-9bde-44d1-bec7-588ff4bec134.webp"
+        },
+        "Recruit": {
+            "wordRoot": "Recruit",
+            "wordDefinition": "Recruit means to seek and hire new employees.\n\nHire is used when an immediate position needs to be filled, and recruit is used when there is a need to look and select candidates for future job openings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/17911cdb-189f-44f6-83ba-8952c9023a76.webp"
+        },
+        "Rent": {
+            "wordRoot": "Rent",
+            "wordDefinition": "The words hire and rent both mean to pay for temporary use of something but hire is mostly used for services, professionals or people like hiring a plumber, a babysitter or an employee while rent is usually used for objects like renting a car, a house or equipment for a specific period of time.\n\nHire is used for people and services while rent is used for objects.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/28846e2b-c63c-44c8-b96b-56f4ab6763a5.webp"
+        },
+        "Utilize": {
+            "wordRoot": "Utilize",
+            "wordDefinition": "Utilize means to make use of something for a specific purpose. For example, a company can utilize a software program to manage their finances.\n\nHire is used when referring to people and their employment status, while utilize is used when referring to resources or tools being used for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e4bc24f5-89a9-4a75-8fc7-8e78db7d52d7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " to vote for you, or buy something from you, or, more importantly, be loyal and want to be a part of what it is that you do. The goal is not just to sell to people who need what you have; the goal is to sell to people who believe what you believe. The goal is not just to hire people who need a job;",
+            "Title": "How great leaders...",
+            "VideoId": "qp0HIF3SfI4",
+            "Controls": "start=460"
+        },
+        {
+            "Text": " the difference between legal and okay and and definitely obnoxious and so the question is which humans you know make make that core i mean do you have do you have a picture of that right now twitter and facebook and others you know they've hired thousands of people to try to help",
+            "Title": "Elon Musk talks Twitter,...",
+            "VideoId": "cdZZpaB2kDM",
+            "Controls": "start=1168"
+        },
+        {
+            "Text": " looking at the effects of our body language, or other people's body language, on judgments. And we make sweeping judgments and inferences from body language. And those judgments can predict really meaningful life outcomes like who we hire or promote, who we ask out on a date.",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=135"
+        },
+        {
+            "Text": " administrator who couldn't believe they gave her the job once she got there she found out the hiring committee had come directly from a wine function she said AHA they were drunk or maybe you've said if I can do it how hard can it be I actually heard he got a if I can get a",
+            "Title": "Thinking your way out of...",
+            "VideoId": "h7v-GG3SEWQ",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " amazing sound I reckon we've got our first fully mature stag said to rest it up on the skyline up there it's way way larger than any of the males we've seen so far and peppered around the hillsides here there's lots of other days as well they're probably his hiring he's",
+            "Title": "Deer Stalking PIPE Secret...",
+            "VideoId": "deOUQwSW16U",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " as a sort of universal personality test. Employers made prejudiced hiring decisions based on reductive decoding charts. As the test left clinics and entered popular culture its reputation among medical professionals plummeted,",
+            "Title": "How does the Rorschach...",
+            "VideoId": "LYi19-Vx6go",
+            "Controls": "start=224"
+        },
+        {
+            "Text": " A job is so much more than a paycheck, especially for marginalized populations. By finding and hiring those you might otherwise overlook, you will not only benefit your own company, you will literally transform people's lives.",
+            "Title": "How we can use the...",
+            "VideoId": "6UiU99_tE7I",
+            "Controls": "start=255"
+        },
+        {
+            "Text": " Find an architect, hire an architect, work with us to design better buildings, better cities, and a better world, because the stakes are high. Buildings don't just reflect our society, they shape our society",
+            "Title": "Why the buildings of the...",
+            "VideoId": "hha0NsYXS5c",
+            "Controls": "start=1041"
+        },
+        {
+            "Text": " takes a lot of hard work and sacrifice. But if your whole life has been engineered toward success, how will you handle the tough times? One person I hired felt that because he attended an elite university,",
+            "Title": "Why the best hire might...",
+            "VideoId": "jiDQDLnEXdA",
+            "Controls": "start=138"
+        },
+        {
+            "Text": " he said well that's for you to find out that was her dream catherine johnson found her way to hampton virginia and there is nasa nasa was hiring black mathematicians",
+            "Title": "NASA Trailblazer:...",
+            "VideoId": "E4j_LpKzcZQ",
+            "Controls": "start=55"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-wiles.webp",
+            "Text": "I like doing what I do, but I like having the opportunity to do different things, and obviously comedy would be a fun jump. I've just been lucky enough to stay working. In my case, playing intense roles or playing character roles is something that people will hire me for, but yeah, I'd like somebody to think I'm funny. I guess we all do, right?",
+            "Title": "American Actor",
+            "Name": "Jason Wiles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-welch.webp",
+            "Text": "I was never the smartest guy in the room. From the first person I hired, I was never the smartest guy in the room. And that's a big deal. And if you're going to be a leader - if you're a leader and you're the smartest guy in the world - in the room, you've got real problems.",
+            "Title": "American Businessman",
+            "Name": "Jack Welch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harvey-fierstein.webp",
+            "Text": "When I write stuff and I help cast it, I turn away good people all the time. I may turn them down because this one's too tall and that one doesn't have a high enough voice or this one looks to old to match up with that one - there's a billion reasons not to hire somebody.",
+            "Title": "American Actor",
+            "Name": "Harvey Fierstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jello-biafra.webp",
+            "Text": "What I'm getting at is, you know, if we really want to get serious about helping all the people living in the street and getting people jobs, we could just hire half the people in the country to spy on the other half.",
+            "Title": "American Musician",
+            "Name": "Jello Biafra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-dimaggio.webp",
+            "Text": "Any good production team is going to allow an actor to breathe life into the characters - that's why they hired that woman, that man, whatever the case.",
+            "Title": "American Actor",
+            "Name": "John DiMaggio"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-mirren.webp",
+            "Text": "Wherever I am in the world, if I get free time when I'm filming I always hire a car, take to the road, drive for miles and explore.",
+            "Title": "British Actress",
+            "Name": "Helen Mirren"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-de-niro.webp",
+            "Text": "The director respects what they've hired you for and chosen you for: to do the part and respect what you're doing.",
+            "Title": "Actor",
+            "Name": "Robert De Niro"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ben-mendelsohn.webp",
+            "Text": "If you're a 'character actor,' you get hired to play baddies a lot.",
+            "Title": "Australian Actor",
+            "Name": "Ben Mendelsohn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-jobs.webp",
+            "Text": "We hire people who want to make the best things in the world.",
+            "Title": "American Businessman",
+            "Name": "Steve Jobs"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christina-romer.webp",
+            "Text": "Making labor less expensive helps firms hire people.",
+            "Title": "American Economist",
+            "Name": "Christina Romer"
+        }
+    ]
+}

@@ -1,0 +1,355 @@
+{
+    "currentWord": {
+        "wordRoot": "party",
+        "id": 14195,
+        "phonemic": "ˈpɑːti|ˈpɑːrti\r",
+        "bigId": "1cca2239-04d8-41b1-bece-9c8d6f8b1ac4",
+        "wordForms": [
+            "parties",
+            "partying",
+            "party"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1cca2239-04d8-41b1-bece-9c8d6f8b1ac4",
+            "de": "A gathering of people for entertainment or celebration",
+            "ty": "noun",
+            "ex": "She's hosting a birthday party at her house",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "birthday party",
+                " party-goer",
+                " host a party"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1cca2239-04d8-41b1-bece-9c8d6f8b1ac4.webp",
+            "Tips": [
+                {
+                    "title": "Social Gathering",
+                    "description": "Often implies fun and celebration, usually among friends and family.",
+                    "example": "You're invited to our Halloween party next week!\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/e9LVzZVinrkxkzmveRkIMJVGA0.webp"
+                },
+                {
+                    "title": "Planning Required",
+                    "description": "Usually involves organization for food, music, and activities.",
+                    "example": "They spent weeks planning their wedding party.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/C4f51erTwe3zVwtEu5cofSTNtsU.webp"
+                },
+                {
+                    "title": "Event Invitation",
+                    "description": "An event where guests are usually invited with a notice in advance.",
+                    "example": "Did you get an invite to her birthday party?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SJMMv4kkcSExRgsEgdfylzwhCo.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "696628f7-28c2-4ece-854e-b38da90a7cc7",
+            "de": "One of the groups involved in a legal matter, dispute or deal",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The parties agreed to settle out of court",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "third party",
+                " party to the contract",
+                " opposing party"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/696628f7-28c2-4ece-854e-b38da90a7cc7.webp",
+            "Tips": [
+                {
+                    "title": "Legal Context",
+                    "description": "Refers strictly to participants in legal matters, not social events.",
+                    "example": "The party of the first part shall pay all fees within 30 days.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Legal Relationship",
+                    "description": "Indicates a relationship between entities under legal discussion.",
+                    "example": "All parties to the agreement must sign the document.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "May Involve Conflict",
+                    "description": "In disputes, parties often have opposing views.",
+                    "example": "The parties couldn't reach an agreement and went to trial.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9e8a4bd2-26f9-4934-a3b7-7bc398872d5d",
+            "de": "A political group with common ideals or practices",
+            "do": "Political",
+            "ty": "noun",
+            "ex": "He's a member of the Democratic Party",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "political party",
+                " ruling party",
+                " opposition party"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9e8a4bd2-26f9-4934-a3b7-7bc398872d5d.webp",
+            "Tips": [
+                {
+                    "title": "Shared Ideals",
+                    "description": "Political parties unite people with similar political goals and views.",
+                    "example": "She voted for the Green Party because of their environmental policies.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Election Participation",
+                    "description": "Political parties often run candidates in elections to gain power.",
+                    "example": "The party is campaigning hard for the upcoming elections.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Governance Role",
+                    "description": "A ruling party sets and implements government policies.",
+                    "example": "The current ruling party is focusing on economic reforms.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3ef96efc-2c15-4e9c-8648-7a626dd8a1b2",
+            "de": "To enjoy oneself at a social gathering or event",
+            "ty": "verb",
+            "ex": "We partied all night after the concert",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "op": "",
+            "re": "Informal",
+            "tp": "",
+            "cl": [
+                "party hard",
+                " party all night",
+                " party till dawn"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3ef96efc-2c15-4e9c-8648-7a626dd8a1b2.webp",
+            "Tips": [
+                {
+                    "title": "Enjoyment Focus",
+                    "description": "Emphasizes having fun and often includes dancing, music, or games.",
+                    "example": "They partied until sunrise after the graduation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Casual Event",
+                    "description": "Usually less formal and happens in relaxed settings like clubs or homes.",
+                    "example": "We decided to party at my place after the movie.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Late Hours Common",
+                    "description": "Partying often occurs at night and can last until morning.",
+                    "example": "After the show, everyone was ready to party all night.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "92dd9d67-ea42-4c41-baf5-fe43429ed798",
+            "de": "A group of people assembled for a particular activity or journey",
+            "ty": "noun",
+            "ex": "A search party was dispatched to find the missing hiker",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "search party",
+                " fishing party",
+                " expedition party"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/92dd9d67-ea42-4c41-baf5-fe43429ed798.webp",
+            "Tips": [
+                {
+                    "title": "Specific Purpose",
+                    "description": "A group formed with a specific objective in mind, like a rescue or trip.",
+                    "example": "The tour guide led our party through the ancient ruins.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporary Formation",
+                    "description": "This type of party is often created for a single event or short-term goal.",
+                    "example": "A party of volunteers was organized to clean the park.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Group Unity",
+                    "description": "Members share a common task and are usually cooperative with each other.",
+                    "example": "The fishing party worked together to navigate the rough waters.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Bash": {
+            "wordRoot": "Bash",
+            "wordDefinition": "Both bash and party refer to a social gathering, but there are subtle differences in connotation and usage.\n\nBash typically implies a larger, more raucous gathering with a celebratory atmosphere - it may involve loud music, alcohol, and a lot of people.\n\nIf you're planning a louder, more energetic gathering, you might use the word bash. If you're planning a more casual, laid-back social event, party may be more appropriate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/de40599b-6a7d-466a-840a-8af3d74845a5.webp"
+        },
+        "Celebrate": {
+            "wordRoot": "Celebrate",
+            "wordDefinition": "Celebrate refers to acknowledging and commemorating a special occasion or event in a joyful manner, often with expressions of gratitude or appreciation.\n\nParty refers to a social gathering or event where people come together to celebrate, often with food, drinks and entertainment.\n\nCelebrate is more focused on the significance of the event, while party emphasizes the social aspect of the gathering.\n\nCelebrate can be applicable in any situation that calls for acknowledging or honoring an occasion, while party can be applicable when people want to come together and enjoy themselves.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f1a887ce-ced0-4bdd-a508-95e395bfde73.webp"
+        },
+        "Festivity": {
+            "wordRoot": "Festivity",
+            "wordDefinition": "Festivity and party both convey a sense of celebration or enjoyment, but festivity typically refers to a more formal or traditional celebration, while party is a more casual or informal gathering.\n\nFestivities may involve specific rituals or customs, such as religious or cultural festivals, while parties are usually more open-ended and focused on socializing and having fun.\n\nFestivities may also be associated with a specific time or place, such as a holiday or annual event, while parties can happen anytime and anywhere.\n\nOverall, both words can describe enjoyable gatherings, but festivity is more formal and structured, while party is more casual and spontaneous.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b42f1aa8-0d9b-4509-959a-9d94815a299d.webp"
+        },
+        "Gather": {
+            "wordRoot": "Gather",
+            "wordDefinition": "Gather means to come together or assemble, usually for a specific purpose or reason.\n\nIt can be used in a variety of settings, such as a gathering of friends or family for a meal or a gathering of employees for a meeting.\n\nIt is usually more informal and celebratory than a 'gathering'.\n\nA gather is a general term for people coming together, whereas a party is a specific kind of gathering that usually involves food, drinks, and celebrations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e0ed609-a4a1-4831-88cf-4a316f42e7c9.webp"
+        },
+        "Reception": {
+            "wordRoot": "Reception",
+            "wordDefinition": "A reception is a more formal gathering that usually follows a ceremony, like a wedding or a graduation. It is a way for the hosts to welcome and thank their guests for attending the ceremony.\n\nThe reception usually includes a sit-down meal and formalities like speeches, toasts, and first dances.\n\nA party is more casual and can be held for various occasions, while a reception is a formal gathering that usually follows a ceremony.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/35bb065b-1522-444c-9999-272ed463bb3c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " to grant him emergency powers. Within a matter of months, freedom of the press was abolished, other parties were disbanded, and anti-Jewish laws were passed. Many of Hitler's early radical supporters were arrested and executed, along with potential rivals,",
+            "Title": "How did Hitler rise to...",
+            "VideoId": "jFICRFKtAc4",
+            "Controls": "start=254"
+        },
+        {
+            "Text": " But that's not the most ridiculous thing I've ever heard anyone say about my work. The most ridiculous thing I ever heard is, I was at a dinner party, and a woman heard that I work in computer security, and she asked me if -- she said her computer had been",
+            "Title": "Avi Rubin: All your...",
+            "VideoId": "66-mr600NjU",
+            "Controls": "start=46"
+        },
+        {
+            "Text": " with another student at a party over a mathematical formula, resulting in a sword duel and Tycho losing a good-sized chunk of his nose. After that, he was said to have worn a realistic prosthetic of gold and silver that he would glue onto his face.",
+            "Title": "Tycho Brahe, the...",
+            "VideoId": "7QDvKzY4aqA",
+            "Controls": "start=69"
+        },
+        {
+            "Text": " not one has yet been removed from office as a result of an impeachment. One of their roles is to protect the fundamental rights of all Americans, even as different parties take power. With the tremendous impact of this responsibility,",
+            "Title": "How do US Supreme Court...",
+            "VideoId": "0xnzGSV66x4",
+            "Controls": "start=206"
+        },
+        {
+            "Text": " and finds the love of his life at a party, Juliet. But, Juliet is from a different family that just so happens to hate his family. Instead of being patient and working through the family feud, Romeo decides he must have his love now,",
+            "Title": "A host of heroes - April...",
+            "VideoId": "_p9Q8Dj3X2c",
+            "Controls": "start=158"
+        },
+        {
+            "Text": " and searched their pockets for drugs as they walked to class? Or had raided their frat parties in the middle of the night? Okay, you might say. But doesn't this high incarceration rate partly account for our really low crime rate?",
+            "Title": "Alice Goffman: How we're...",
+            "VideoId": "-2Dj9M71JAc",
+            "Controls": "start=633"
+        },
+        {
+            "Text": " The taller letters have been named gallows characters. The manuscript is highly decorated throughout with scroll-like embellishments. It appears to be written by two or more hands, with the painting done by yet another party.",
+            "Title": "The world’s most...",
+            "VideoId": "8NS4CbBJQ84",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " interesting people around he was a bohemian world she loved entertaining and there would be raucous parties on weeknights I would be in my bed trying to go to sleep and I would be woken up with drunken laughter",
+            "Title": "How to deal with...",
+            "VideoId": "v4P2Qwh1QCU",
+            "Controls": "start=162"
+        },
+        {
+            "Text": " the raiding parties head out to the last place they had found food",
+            "Title": "5 Reasons Ants Are...",
+            "VideoId": "T8aAu2dUg2w",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " parties are a part of life in our 20s",
+            "Title": "Hangovers vs. Health PIPE...",
+            "VideoId": "oKHQJc5mG8Y",
+            "Controls": "start=23"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/selena-gomez.webp",
+            "Text": "I think I take my job seriously, but I enjoy my life and I enjoy my friends, and I never really allowed myself to do that before. So I just kind of want to party with everyone.",
+            "Title": "American Actress",
+            "Name": "Selena Gomez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-nietzsche.webp",
+            "Text": "Madness is rare in individuals - but in groups, parties, nations, and ages it is the rule.",
+            "Title": "German Philosopher",
+            "Name": "Friedrich Nietzsche"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paris-hilton.webp",
+            "Text": "I get half a million just to show up at parties. My life is, like, really, really fun.",
+            "Title": "American Celebrity",
+            "Name": "Paris Hilton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pilou-asbaek.webp",
+            "Text": "Eurovision' is a party. I've never said no to a party, so I'm not saying no to this.",
+            "Title": "Danish Actor",
+            "Name": "Pilou Asbaek"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/princess-michael-of-kent.webp",
+            "Text": "I cook. Well, if I'm giving a dinner party I get in help.",
+            "Title": "",
+            "Name": "Princess Michael of Kent"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-prince-boateng.webp",
+            "Text": "In my life, there's been a lot of partying.",
+            "Title": "German Athlete",
+            "Name": "Kevin-Prince Boateng"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/redfoo.webp",
+            "Text": "I think that party music will live forever.",
+            "Title": "American Musician",
+            "Name": "Redfoo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zell-miller.webp",
+            "Text": "My family is more important than my party.",
+            "Title": "American Politician",
+            "Name": "Zell Miller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neelam-kothari.webp",
+            "Text": "I rarely go to film parties.",
+            "Title": "",
+            "Name": "Neelam Kothari"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ezra-miller.webp",
+            "Text": "Life is a grand party.",
+            "Title": "American Actor",
+            "Name": "Ezra Miller"
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "currentWord": {
+        "wordRoot": "transaction",
+        "id": 15890,
+        "phonemic": "trænˈzækʃn|trænˈzækʃn\r",
+        "bigId": "256c8d4f-6974-4dea-931e-e8f1d6b0fe46",
+        "wordForms": [
+            "transactions",
+            "transactional",
+            "transaction"
+        ]
+    },
+    "senses": [
+        {
+            "id": "256c8d4f-6974-4dea-931e-e8f1d6b0fe46",
+            "de": "An instance of buying or selling something; a business deal.",
+            "ty": "noun",
+            "ex": "I've made a transaction of 100 dollars with the online store.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business transaction",
+                " financial transaction",
+                " online transaction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/256c8d4f-6974-4dea-931e-e8f1d6b0fe46.webp",
+            "Tips": [
+                {
+                    "title": "Often Monetary",
+                    "description": "Transactions usually involve the exchange of money or something valuable.",
+                    "example": "Paying rent monthly is a financial transaction with your landlord.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bJxB2NKNVesrTjf9UVusXq28.webp"
+                },
+                {
+                    "title": "Business Context",
+                    "description": "In a business environment, 'transaction' implies a formal or legal exchange.",
+                    "example": "Finalizing a transaction requires both parties to agree on the price.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/63rS0fQrGLbTdkhad9KfukJi15I.webp"
+                },
+                {
+                    "title": "Requires Agreement",
+                    "description": "Most transactions need consent from the people or entities involved.",
+                    "example": "The art transaction was completed after both galleries consented on the terms.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MM4VRHYEP5lbKr4jNY5QAzyLY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "22fd09f5-8f07-40bd-9d9e-3266e6394314",
+            "de": "The process of carrying out an action or operation.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The system ensures the integrity of transactions in the database.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "database transaction",
+                " transaction processing",
+                " transaction management"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/22fd09f5-8f07-40bd-9d9e-3266e6394314.webp",
+            "Tips": [
+                {
+                    "title": "Tech Specific",
+                    "description": "In computing, 'transaction' often refers to a series of operations treated as a unit.",
+                    "example": "Database transactions are atomic, maintaining data integrity even during system failures.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Data Integrity",
+                    "description": "Technical transactions ensure correct data manipulation, avoiding errors and inconsistencies.",
+                    "example": "The bank's software rolled back the transaction when it detected an error.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9206fed8-6f93-4973-8e46-a718b7de32fe",
+            "de": "A communicative action involving two parties or objects that reciprocally affect or influence each other.",
+            "ty": "noun",
+            "ex": "Verbal and non-verbal actions in a conversation can be seen as transactions.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "social transaction",
+                " conversational transaction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9206fed8-6f93-4973-8e46-a718b7de32fe.webp",
+            "Tips": [
+                {
+                    "title": "Social Interaction",
+                    "description": "Social transactions involve exchanges in behavior and can shape relationships.",
+                    "example": "A simple 'thank you' is a courteous social transaction in many cultures.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Business",
+                    "description": "Transactions aren't always business; they can be conversational and emotional.",
+                    "example": "His smile in exchange for a friendly greeting was a warm transaction.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Bargain": {
+            "wordRoot": "Bargain",
+            "wordDefinition": "A bargain refers to a deal or arrangement where something is bought or sold at a lower price than its original value. It usually involves negotiating the price between two parties to reach an agreement that is favorable to both sides.\n\nA bargain refers to a specific type of transaction where the price is negotiated to reach a favorable deal, while a transaction is a broader term that encompasses all types of exchanges between parties.\n\nBargain is applicable when someone is trying to get a good deal or negotiate a price, while transaction is applicable whenever there is an exchange of goods or services between two or more parties.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5594d17e-daae-49c9-b0f0-437a32ac0558.webp"
+        },
+        "Deal": {
+            "wordRoot": "Deal",
+            "wordDefinition": "Deal generally refers to a negotiation or an agreement made between two or more individuals or parties regarding buying, selling or exchanging something.\n\nIt can be applied to various situations like a business deal, a trade deal, or a real estate deal.\n\nIn simpler terms, a deal is an agreement that is made before a transaction takes place, while a transaction is the actual exchange of something that occurs as a result of the deal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c1b20aaa-581c-4adb-b5dd-ff5a35709733.webp"
+        },
+        "Exchange": {
+            "wordRoot": "Exchange",
+            "wordDefinition": "Exchange and transaction are two words that relate to the buying and selling of goods or services, but they have different meanings.\n\nExchange refers to the act of giving one thing in return for another. It involves two parties trading goods or services of equal value.\n\nFor example, if you exchange money for goods at a store, you are giving the store money in exchange for the goods you want to buy.\n\nSimilarly, if you exchange your old phone for a new one at a mobile store, you are giving your old phone in exchange for the new one.\n\nTransaction refers to any type of exchange, whether it involves money or not.\n\nIt can refer to the act of exchanging goods for money, but it can also include other forms of exchange. For example, if you lend someone money and they pay you back, that is a transaction.\n\nExchange refers specifically to the act of giving one thing in return for another of equal value, while transaction is a more general term that refers to any type of exchange between two parties.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e99727f-5e15-46be-b642-e663786b5987.webp"
+        },
+        "Negotiate": {
+            "wordRoot": "Negotiate",
+            "wordDefinition": "Negotiate means to discuss or bargain with someone to reach an agreement or solution. For example, if you want to buy a car from a seller, you might negotiate the price with them to get a better deal.\n\nSo, while negotiation is a part of a transaction, not all negotiations end in a transaction. Negotiation can happen in any kind of decision-making process where multiple parties need to agree on something, while a transaction specifically refers to a buying and selling process.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1142fbcf-63ee-40de-a2c4-de59fbdced58.webp"
+        },
+        "Purchase": {
+            "wordRoot": "Purchase",
+            "wordDefinition": "Purchase refers to when someone buys something. For example, if someone goes to a store and buys a shirt, they are making a purchase.\n\nTransaction refers to any type of exchange that involves money or goods being traded. This can include purchases, but it can also include things like deposits or withdrawals from a bank account.\n\nSo, while a purchase is a specific type of transaction, not all transactions are purchases. Transactions are used in a variety of contexts, such as banking, business, and commerce.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/673f3ed4-9aaa-409c-90eb-254062ea20c9.webp"
+        },
+        "Sale": {
+            "wordRoot": "Sale",
+            "wordDefinition": "Sale refers to the process of exchanging goods or services for money or something of value. It typically involves the transfer of ownership from the seller to the buyer.\n\nIt can include sales, but it can also include other types of exchanges such as refunds, exchanges, or payments for services.\n\nSale specifically refers to the act of selling a product or service, while transaction refers to any type of exchange between two parties.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f2f471f1-10bc-45fe-868e-2282368e1a4a.webp"
+        },
+        "Trade": {
+            "wordRoot": "Trade",
+            "wordDefinition": "Trade refers to the exchange of goods or services between two or more parties, whereas a transaction refers to any kind of exchange or transfer of something of value or significance between two parties, including goods, services, money, or even ideas.\n\nA trade takes place when one party gives something to another party in exchange for something else. For example, when you buy groceries at a store, you are engaging in a trade - you hand over money (something of value) in exchange for food (something of greater value to you).\n\nIn summary, trades involve the exchange of goods or services between parties, while transactions involve any kind of exchange or transfer between parties, including goods, services, and money.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7063edb3-761d-4ff3-b6f4-4b235b85c54f.webp"
+        },
+        "Transfer": {
+            "wordRoot": "Transfer",
+            "wordDefinition": "A transfer refers to moving something from one place to another, often without exchanging it for something else. For example, transferring money from a savings account to a checking account, or transferring files from one device to another.\n\nA transaction involves an exchange, while a transfer involves a movement from one place to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1fe3c27f-7f43-47bf-a69b-656cff334342.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " mathematical calculations which increase the security of the transactions on the network so that the more miners there are making these calculations the stronger the network encryption become the Bitcoin network has already become ten times more powerful than any supercomputer in the world within three",
+            "Title": "Unpacking the nuts and...",
+            "VideoId": "rla5w2ubISE",
+            "Controls": "start=314"
+        },
+        {
+            "Text": " that you need to keep your partners happy. So if you come to power with the support of an old male, you need to let that old male mate with females. If you don't do that, that old male is going to get mad at you, and you're going to lose him as a partner. So there's a transaction going on.",
+            "Title": "The surprising science...",
+            "VideoId": "BPsSKKL8N0s",
+            "Controls": "start=541"
+        },
+        {
+            "Text": " And four years later, we're analyzing over 25 million transactions, providing real-time analytics on thousands of sneakers. Now sneakerheads check prices while camping out for releases. Others have used the data to validate insurance claims. And the top investment banks in the world",
+            "Title": "The secret sneaker...",
+            "VideoId": "q49LtMyXK7Q",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " We typically think of honesty in terms of actively telling the truth in our interpersonal relationships. But in fact, every healthy society relies on a shared foundation of honesty. Using public services, making business transactions, and deciding government policies",
+            "Title": "Would you pass the...",
+            "VideoId": "7Z8TyGKOLys",
+            "Controls": "start=65"
+        },
+        {
+            "Text": " It could be a certificate, a contract, real world objects, even personal identifiable information. There are of course other technical details to the blockchain, but at its core, that's how it works. It's this public registry that stores transactions in a network",
+            "Title": "How the blockchain will...",
+            "VideoId": "RplnSVTzvnU",
+            "Controls": "start=308"
+        },
+        {
+            "Text": " A lot of these services don't inter-operate, and as a result, this blocks what we can do with payment. And it makes transaction costs go up. So far, we've been through two phases of money. In an analog world, we had to deal with these physical objects,",
+            "Title": "The future of money PIPE...",
+            "VideoId": "pPgd7Hj3ABQ",
+            "Controls": "start=321"
+        },
+        {
+            "Text": " transactions but one of the features of currency paper of course is anonymity I think that's partly why it's valued by many around the world as they can conduct transactions using money without having traceability to it so a lot of",
+            "Title": "What's Inside Your Paper...",
+            "VideoId": "RcRlKLnyqDY",
+            "Controls": "start=101"
+        },
+        {
+            "Text": " Because in the next few hours, the world economy shuts down. Satellite-based timestamps play a critical part in everything from credit card readers and stock exchanges to the systems that keep track of transactions.",
+            "Title": "What if every satellite...",
+            "VideoId": "jVzbs81bDy0",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " And this cryptocurrency enabled people to establish trust and do transactions without a third party. And this seemingly simple act set off a spark that ignited the world,",
+            "Title": "How the blockchain is...",
+            "VideoId": "Pl8OlkkwRpc",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " otherwise known as a carbon tax. This would discourage carbon emissions in every single economic transaction, every day of the year.",
+            "Title": "A climate solution where...",
+            "VideoId": "ta2Wvy9F_gA",
+            "Controls": "start=282"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mitch-kapor.webp",
+            "Text": "A typical medical practice is like an old-fashioned business which keeps all of its records on paper. It can probably track down any individual transaction if it needs to, but it's basically helpless when it comes to overall measurements of performance. And that's the big problem.",
+            "Title": "American Businessman",
+            "Name": "Mitch Kapor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sue-monk-kidd.webp",
+            "Text": "Empathy is the most mysterious transaction that the human soul can have, and it's accessible to all of us, but we have to give ourselves the opportunity to identify, to plunge ourselves in a story where we see the world from the bottom up or through another's eyes or heart.",
+            "Title": "American Writer",
+            "Name": "Sue Monk Kidd"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fawad-khan.webp",
+            "Text": "I think there comes a time when you start dropping expectations. Because the world doesn't owe you anything, and you don't owe the world anything in return. Things, feelings, are a very simple transaction. If you get it, be grateful. If you don't, be alright with it.",
+            "Title": "Pakistani Actor",
+            "Name": "Fawad Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lloyd-dorfman.webp",
+            "Text": "We are quite a way off before people travel around the world without cash in their pockets. The growth of plastic and electronic transactions have tended to impact traveller's cheques rather than cash.",
+            "Title": "British Businesswoman",
+            "Name": "Lloyd Dorfman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mindy-grossman.webp",
+            "Text": "Content is power in today's world, and if you can own that content, create it and make interaction more of an experience than a transaction, you create a different kind of loyalty.",
+            "Title": "American Businesswoman",
+            "Name": "Mindy Grossman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-buchanan-robinson.webp",
+            "Text": "Large sums were paid for the use of money, because the available amount of gold and silver was far less than was needed to carry on the commercial transactions of the times.",
+            "Title": "American Politician",
+            "Name": "John Buchanan Robinson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kathryn-harrison.webp",
+            "Text": "Because the kind of nonfiction I write has a plot, the events and transactions that make up a life, nonfiction offers me a break from plotting.",
+            "Title": "American Author",
+            "Name": "Kathryn Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arundhati-bhattacharya.webp",
+            "Text": "The capping of cash transactions will help the banks reduce cash intensity.",
+            "Title": "Indian Businesswoman",
+            "Name": "Arundhati Bhattacharya"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jose-manuel-barroso.webp",
+            "Text": "Financial transaction tax raises problems of competition.",
+            "Title": "Portuguese Politician",
+            "Name": "Jose Manuel Barroso"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gavin-esler.webp",
+            "Text": "Life is about relationships, not transactions.",
+            "Title": "Scottish Journalist",
+            "Name": "Gavin Esler"
+        }
+    ]
+}

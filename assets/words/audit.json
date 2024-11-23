@@ -1,0 +1,319 @@
+{
+    "currentWord": {
+        "wordRoot": "audit",
+        "id": 9505,
+        "phonemic": "ˈɔːdɪt|ˈɔːdɪt\r",
+        "bigId": "c23fe809-a0cb-45c9-bb63-cea8f1ae012f",
+        "wordForms": [
+            "audits",
+            "auditing",
+            "audited",
+            "auditors",
+            "audit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c23fe809-a0cb-45c9-bb63-cea8f1ae012f",
+            "de": "A formal check of a person's or organization's accounts, typically by an independent body.",
+            "do": "Accounting, Finance",
+            "ty": "noun",
+            "ex": "The company's accounts are subject to an annual audit.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "annual audit",
+                " internal audit",
+                " external audit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c23fe809-a0cb-45c9-bb63-cea8f1ae012f.webp",
+            "Tips": [
+                {
+                    "title": "Trust and Transparency",
+                    "description": "An audit enhances trust by showing that an organization's financial information is accurate.",
+                    "example": "Investors felt assured after the audit confirmed the company's financial health.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jZFvoULWxqz0zQBzWTOA9RcI1Kw.webp"
+                },
+                {
+                    "title": "Expert Process",
+                    "description": "Audits are usually conducted by experts in accounting and finance to ensure precision.",
+                    "example": "Certified auditors will handle our annual financial review.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1TGl4F7jehugBcXPZFNTP7S123o.webp"
+                },
+                {
+                    "title": "Independent Assessment",
+                    "description": "An external body conducting the audit helps maintain objectivity and prevents bias.",
+                    "example": "The firm brought in an independent auditor to review the accounts.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/x4YdJ5GRaoBGZi6rOwcKunsmUc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "35a523b7-7385-49ad-bf27-28cacc26a79f",
+            "de": "Examine and evaluate (accounts or financial records).",
+            "do": "Accounting, Finance",
+            "ty": "verb",
+            "ex": "The bank decided to audit its customers' accounts.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "audit accounts",
+                " audit records",
+                " audit files"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/35a523b7-7385-49ad-bf27-28cacc26a79f.webp",
+            "Tips": [
+                {
+                    "title": "Verification Action",
+                    "description": "Auditing involves verifying records to find errors or fraud.",
+                    "example": "The tax authorities audited the company's financial records.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Financial Responsibility",
+                    "description": "Auditing as a verb often relates to ensuring ethical handling of finances.",
+                    "example": "She audits the school's finances to keep everything in check.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "732e969a-0dac-416d-a3fc-0648f2a6df0f",
+            "de": "A course of study taken for interest and not for examination or certification.",
+            "do": "Education",
+            "ty": "noun",
+            "ex": "He's auditing a course just for personal interest.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "audit a course",
+                " audit a class"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/732e969a-0dac-416d-a3fc-0648f2a6df0f.webp",
+            "Tips": [
+                {
+                    "title": "Learning for Interest",
+                    "description": "Auditing a course means engaging with the material without worrying about grades.",
+                    "example": "Auditing history classes allows you to enjoy learning without exams.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No Credit Earned",
+                    "description": "Remember, when you audit a course, you won't earn official credit or a certificate.",
+                    "example": "He audited the workshop but did not receive certification.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a250d0be-71ae-469c-b357-5c4d8021eabf",
+            "de": "Attend (a course) without working for or expecting to receive formal credit.",
+            "do": "Education",
+            "ty": "verb",
+            "ex": "She decided to audit the class to refresh her knowledge.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "audit a course",
+                " audit a class"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a250d0be-71ae-469c-b357-5c4d8021eabf.webp",
+            "Tips": [
+                {
+                    "title": "Access Without Pressure",
+                    "description": "Auditing a class allows you to participate without the stress of grading.",
+                    "example": "She audited the lecture series for the experience, not for a grade.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Full Participation",
+                    "description": "While auditing, you can engage in discussions and activities like regular students.",
+                    "example": "Even though I'm auditing this course, I still take part in all discussions.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Analysis": {
+            "wordRoot": "Analysis",
+            "wordDefinition": "Analysis refers to the process of examining something in detail, identifying its essential features, and drawing conclusions or making recommendations based on the information gathered.\n\nAnalysis is a more general term that refers to the process of examining something in detail and drawing conclusions, while audit is a specific type of analysis that focuses on verifying the accuracy and compliance of financial or operational records.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/700e831c-1eea-46da-8ea6-370a42f046b9.webp"
+        },
+        "Appraisal": {
+            "wordRoot": "Appraisal",
+            "wordDefinition": "An appraisal is an evaluation or assessment of the value or worth of something – it’s often used for financial purposes, like when a property is being bought or sold.\n\nAn appraisal can also be used to evaluate an employee’s job performance.\n\nTo sum up, appraisal relates to determining the value or worth of something, while an audit is an examination to determine if something is accurate and compliant with regulations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/857941c3-2592-4cdb-8913-dfeacb63640b.webp"
+        },
+        "Assess": {
+            "wordRoot": "Assess",
+            "wordDefinition": "Assess means to evaluate or determine the value of something.\n\nIt is typically used to describe the process of analyzing something to determine its effectiveness, quality, or worth. For example, a teacher might assess a student's performance in a class by assigning a grade.\n\nAssess is used to evaluate something's quality or worth, while audit is used to examine something closely to ensure accuracy and compliance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/442852dd-d9fe-4767-94a3-78d50c1c82d6.webp"
+        },
+        "Examination": {
+            "wordRoot": "Examination",
+            "wordDefinition": "Audit and examination are both terms used to describe a detailed analysis of something, but they have slightly different meanings.\n\nAn examination can refer to a more general analysis of any type of information or situation. For example, a doctor might perform an examination of a patient to identify the cause of their symptoms.\n\nAn audit focuses specifically on financial records and practices, while an examination can refer to a broader range of assessments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e65a64dc-c6ac-4d7d-a3e5-85970c3f0776.webp"
+        },
+        "Inspection": {
+            "wordRoot": "Inspection",
+            "wordDefinition": "An inspection is a process of examining, testing, or evaluating something to determine its condition or quality.\n\nIt can be conducted for various purposes, such as safety, quality control, or compliance with regulations. For example, a health inspector may conduct a food safety inspection of a restaurant to ensure that it meets health standards.\n\nAn audit is a financial examination, while an inspection is a broader assessment of quality or compliance. Audits are mostly related to financial records, while inspections can be related to different aspects of an activity, business or product.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a90dd837-d149-48d9-be1f-a6c07e3514dc.webp"
+        },
+        "Review": {
+            "wordRoot": "Review",
+            "wordDefinition": "A review is a less exhaustive examination of records or financial statements aimed at providing assurance that there are no errors or issues that need correction.\n\nA review can also include the identification of areas that require improvements or may benefit from further analysis.\n\nA review can be used in situations where a lower level of assurance is sufficient, such as for small businesses or non-profit organizations.\n\nAn audit is a more thorough examination while a review is less exhaustive but still provides assurance of accuracy and validity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/80d28f29-3a49-4e69-8234-361471244a1c.webp"
+        },
+        "Scrutiny": {
+            "wordRoot": "Scrutiny",
+            "wordDefinition": "Scrutiny refers to a detailed and thorough examination of something. This examination can be carried out for various purposes such as to investigate a crime, scrutinize a proposal or to evaluate the performance of an individual or organization.\n\nUnlike an audit, scrutiny may not involve a formal analysis of financial records.\n\nAn audit is focused on financial records, while scrutiny can apply to any area that requires thorough examination and evaluation.\n\nWhile an audit is, in essence, a type of scrutiny, the latter term can refer to a much broader range of examinations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4c078715-a98d-4d5c-87e1-3dac427911c3.webp"
+        },
+        "Verification": {
+            "wordRoot": "Verification",
+            "wordDefinition": "Verification refers to the process of confirming the accuracy and truthfulness of a particular claim, statement, or fact.\n\nVerification can be done by an internal or external party.\n\nIn simpler terms, an audit focuses on checking if an organization is doing things correctly and following the rules, while verification is about making sure a specific piece of information is accurate.\n\nAudits are typically applied to financial records and operations, whereas verification can be applied to any type of information or claim.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/85d52eda-8099-462d-9199-d931f77a2be6.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " bean foam earn high marks for their eco-friendliness we've offered you a few tips today to help make your home more comfortable and efficient but that said every home is unique to get the best results for your home call your local utility company and schedule an energy audit changes that you make today will",
+            "Title": "Green Home Makeover PIPE...",
+            "VideoId": "PFjc52NrfP8",
+            "Controls": "start=213"
+        },
+        {
+            "Text": " But then we've got to look beyond our operations, and I think everybody would agree that now business has to take full responsibility for the impacts of your supply chain. Many businesses now, fortunately, have codes of conduct and audit their supply chains, but not every business. Far from it.",
+            "Title": "Steve Howard: Let's go...",
+            "VideoId": "buH_vs7LFzw",
+            "Controls": "start=551"
+        },
+        {
+            "Text": " you need to consult with experts to get the advice on how to leave safely. But it's not just about romantic relationships and it's not just about violence. Understanding the signs of unhealthy love can help you audit and understand nearly every relationship in your life.",
+            "Title": "The difference between...",
+            "VideoId": "ON4iy8hq2hM",
+            "Controls": "start=555"
+        },
+        {
+            "Text": " We have to check them for fairness. The good news is, we can check them for fairness. Algorithms can be interrogated, and they will tell us the truth every time. And we can fix them. We can make them better. I call this an algorithmic audit, and I'll walk you through it.",
+            "Title": "The era of blind faith...",
+            "VideoId": "_2u_eHHzRto",
+            "Controls": "start=623"
+        },
+        {
+            "Text": " So you would think that the disintegration of basic law enforcement in the developing world would be a huge priority for the global fight against poverty. But it's not. Auditors of international assistance recently couldn't find",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=825"
+        },
+        {
+            "Text": " so I want to start by offering you a free no tech life hack and all it requires of you is this that you change your posture for two minutes but before I give it away I want to ask you to right now do a little audit of your body",
+            "Title": "Your body language...",
+            "VideoId": "RWZluriQUzE",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " She recently told me, \"My spreadsheet is basically a story of my life's progression and I can see it through the numbers.” I believe we can all do this type of audit of our own financial behavior",
+            "Title": "Robert A. Belle: The...",
+            "VideoId": "X65jxnKiJpM",
+            "Controls": "start=380"
+        },
+        {
+            "Text": " Audits are great and important, but they don't solve all our problems. Take Facebook's powerful news feed algorithm -- you know, the one that ranks everything and decides what to show you",
+            "Title": "Machine intelligence...",
+            "VideoId": "hSSmmlridUM",
+            "Controls": "start=768"
+        },
+        {
+            "Text": " where anyone who cares about fairness can help fight the coded gaze. On codedgaze.com, you can report bias, request audits, become a tester and join the ongoing conversation, #codedgaze.",
+            "Title": "How I'm fighting bias in...",
+            "VideoId": "UG_X_7g63rY",
+            "Controls": "start=472"
+        },
+        {
+            "Text": " there's rules regulation training auditing and in some extreme cases in the state there are spies but go into hospitals have observed the staff and if they're not compliant the original",
+            "Title": "Employees must wash...",
+            "VideoId": "dmd4GvWofWs",
+            "Controls": "start=91"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/reid-hoffman.webp",
+            "Text": "Trump often says he needs to keep his tax returns private until the IRS finishes auditing him. But the IRS itself has said this isn't necessary. And recently, Trump changed his tune, saying he'll release his returns as soon as Hillary Clinton releases the 33,000 emails she deleted from her email server.",
+            "Title": "American Businessman",
+            "Name": "Reid Hoffman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/betsy-devos.webp",
+            "Text": "We'll be examining and auditing and reviewing all of the programs of the department and really figuring out what is the core mission and how can the federal department of education really support and enhance the role of the departments in the states.",
+            "Title": "American Public Servant",
+            "Name": "Betsy DeVos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/apldeap.webp",
+            "Text": "I like to be hands-on because that's what motivates me. I like to involved from the ground-breaking to ribbon-cutting to auditing the funds. Just giving money away is a little discouraging because I don't know where it is going.",
+            "Title": "Filipino Musician",
+            "Name": "apl.de.ap"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christian-bale.webp",
+            "Text": "I will never say never, but I will say never to doing the more typical romantic comedies. You know, unless I'm getting audited and I'm on the street and I desperately need some dough and that's the only thing that I'm getting.",
+            "Title": "Welsh Actor",
+            "Name": "Christian Bale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paul-manafort.webp",
+            "Text": "You talk to tax attorneys who are not politically motivated, and they will tell you they would never advise their client to release any tax information in the course of an audit.",
+            "Title": "American Businessman",
+            "Name": "Paul Manafort"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-pauley.webp",
+            "Text": "I think women think a lot about cycles, biological and personal. This year another cycle came around: my contract was up. It seemed an opportunity to take a life audit.",
+            "Title": "American Journalist",
+            "Name": "Jane Pauley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jill-wagner.webp",
+            "Text": "I always do a mental audit at the end of the week to make sure I'm balancing time between my career and my personal life.",
+            "Title": "American Actress",
+            "Name": "Jill Wagner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aldous-huxley.webp",
+            "Text": "Writers write to influence their readers, their preachers, their auditors, but always, at bottom, to be more themselves.",
+            "Title": "English Novelist",
+            "Name": "Aldous Huxley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/imran-khan.webp",
+            "Text": "I feel an independent accountability commission should audit all government services.",
+            "Title": "Pakistani Leader",
+            "Name": "Imran Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-budi-hartono.webp",
+            "Text": "I always assign auditors to strictly supervise the businesses.",
+            "Title": "Indonesian Businessman",
+            "Name": "Robert Budi Hartono"
+        }
+    ]
+}

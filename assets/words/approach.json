@@ -1,0 +1,348 @@
+{
+    "currentWord": {
+        "wordRoot": "approach",
+        "id": 585,
+        "phonemic": "əˈprəʊtʃ|əˈprəʊtʃ\r",
+        "bigId": "a8c0eee9-ccef-4d22-b622-bb77972ccf69",
+        "wordForms": [
+            "approaches",
+            "approaching",
+            "approached",
+            "approach"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a8c0eee9-ccef-4d22-b622-bb77972ccf69",
+            "de": "To come near or closer to something or someone",
+            "ty": "verb",
+            "ex": "The train is approaching the station.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "approach the topic",
+                " approach the situation",
+                " approach the problem"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a8c0eee9-ccef-4d22-b622-bb77972ccf69.webp",
+            "Tips": [
+                {
+                    "title": "Physical Proximity",
+                    "description": "Often indicates movement towards a place or object, not just being close.",
+                    "example": "She approached the desk quietly.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zcNCwpG1NUcJLyau1LiXvdw3lng.webp"
+                },
+                {
+                    "title": "Impending Event",
+                    "description": "Can suggest an event is about to occur or something is soon to happen.",
+                    "example": "The holidays are fast approaching.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/3gHGcHvhnjE24sOGY0iLxtDM.webp"
+                }
+            ]
+        },
+        {
+            "id": "aad12757-d6d5-4b51-b83e-ef43ad399947",
+            "de": "A way of doing or thinking about something",
+            "ty": "noun",
+            "ex": "We need a new approach to solve this problem.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "practical approach",
+                " theoretical approach",
+                " holistic approach"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/aad12757-d6d5-4b51-b83e-ef43ad399947.webp",
+            "Tips": [
+                {
+                    "title": "Solution Strategy",
+                    "description": "Describes a specific plan or technique for dealing with a situation or problem.",
+                    "example": "Let's try a different approach to answer this question.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0165e4e7-7a01-4aa4-9072-d4d6ce9c9365",
+            "de": "To ask someone for something, often at an inappropriate time",
+            "ty": "verb",
+            "ex": "I was approached by a stranger asking for money.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "approach for help",
+                " approach with a request",
+                " approach for advice"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0165e4e7-7a01-4aa4-9072-d4d6ce9c9365.webp",
+            "Tips": [
+                {
+                    "title": "Timing Sensitivity",
+                    "description": "Used when referring to the delicacy or inappropriateness of the timing of a request.",
+                    "example": "He approached the boss for a raise at a bad time.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "27bdfefb-d8f9-445d-9d60-292247981a1f",
+            "de": "The action of coming near or nearer to someone or something in distance or time",
+            "ty": "noun",
+            "ex": "The approach of winter always depresses me.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "approach of dawn",
+                " approach of winter",
+                " approach of death"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/27bdfefb-d8f9-445d-9d60-292247981a1f.webp",
+            "Tips": [
+                {
+                    "title": "Event Horizon",
+                    "description": "Speaks of an event or time as if it is moving closer to us.",
+                    "example": "With the deadline approaching, stress levels rose.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a003e238-ec71-4f62-a6ac-a1cb808f604c",
+            "de": "A means of attaining an end, in the realm of computer programming or system design",
+            "do": "computing",
+            "ty": "noun",
+            "ex": "He used a bottom-up approach in his software design.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bottom-up approach",
+                " top-down approach",
+                " object-oriented approach"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a003e238-ec71-4f62-a6ac-a1cb808f604c.webp",
+            "Tips": [
+                {
+                    "title": "Technical Context",
+                    "description": "Used within specialized fields like programming to describe problem-solving methods.",
+                    "example": "The developer's approach was efficient and clean.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "60eee651-78fd-4e77-ba5f-52c3010ec1d6",
+            "de": "The final path followed by an aircraft as it is landing",
+            "do": "aviation",
+            "ty": "noun",
+            "ex": "Pilots practice approach and landing during training.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "final approach",
+                " visual approach",
+                " instrument approach"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/60eee651-78fd-4e77-ba5f-52c3010ec1d6.webp",
+            "Tips": [
+                {
+                    "title": "Aviation Specific",
+                    "description": "In aviation, indicates the specific route or method an aircraft uses to land.",
+                    "example": "The plane made a smooth approach to runway four.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Safety Critical",
+                    "description": "In aviation, a correct approach is vital for a safe landing.",
+                    "example": "Pilots are trained rigorously in various types of approaches.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Method": {
+            "wordRoot": "Method",
+            "wordDefinition": "Approach and method are commonly used in academic and scientific circles.\n\nA method refers to the specific tools, techniques, or procedures used to solve a particular problem or accomplish a specific task.\n\nYour method would be to outline the specific steps you need to take to do the experiments such as developing a study design, sampling methods, recruitment, data collection, and analysis.\n\nThe approach is the overall plan or strategy, whereas the method is the specific tool or technique used to achieve the goals of the approach.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc357a41-70fc-422c-a299-6eaf9554a1a1.webp"
+        },
+        "Procedure": {
+            "wordRoot": "Procedure",
+            "wordDefinition": "Procedure refers to a set of specific steps or actions that need to be taken in a particular order to complete a task or achieve an objective.\n\nProcedures are more specific and detailed than approaches and are often used in situations where there are established rules or protocols that need to be followed.\n\nMeanwhile, the procedure for submitting a paper involves researching, writing, editing, and submitting the final draft according to the guidelines set by your teacher.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8c7d8d5d-8f38-4591-9ea0-be5afd7003b2.webp"
+        },
+        "Process": {
+            "wordRoot": "Process",
+            "wordDefinition": "Process refers to the series of steps or actions required to achieve a particular outcome. It's the sequence of tasks or procedures that need to be completed in order to reach a goal or solve a problem.\n\nFor example, if you're baking a cake, you need to follow a specific process by measuring out ingredients, mixing them together, and baking them for a certain amount of time.\n\nSimilarly, if you want to apply for a job, you need to follow a process that might include writing a resume, filling out an application, and participating in interviews.\n\nApproach is about the strategy you use to tackle a task or issue, while process is about the specific steps you need to take to achieve a desired outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/214c3479-b2b3-46be-8d7c-976cb7fa0b51.webp"
+        },
+        "Strategy": {
+            "wordRoot": "Strategy",
+            "wordDefinition": "Strategy refers to a plan of action that is designed to achieve a specific goal. It is a more detailed and specific plan than an approach.\n\nFor example, if a company wants to increase its market share, its strategy might be to introduce a new product, offering discounts to customers, and increasing its advertising.\n\nIn simple terms, Approach is like the manner in which you plan to do something while Strategy is a much more detailed and specific plan of how to achieve a particular goal.\n\nApproach is generally applicable in any area of life where one needs to deal with situations while Strategy is usually applicable in business and military contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3d77d040-d0b5-4d95-98db-6f0658ec2c99.webp"
+        },
+        "System": {
+            "wordRoot": "System",
+            "wordDefinition": "System refers to a set of rules, procedures, or processes designed to achieve a specific objective in a structured and organized way.\n\nIt is applicable in situations where there is a fixed way of doing things that has been proven to be effective. For example, a factory may have a system in place for managing inventory or a school may have a system for managing student attendance.\n\nThe difference between approach and system lies in the level of flexibility and structure involved in achieving a particular goal.\n\nWhile an approach requires individual decision-making and flexibility, a system involves following a pre-determined set of rules and procedures.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp"
+        },
+        "Tactic": {
+            "wordRoot": "Tactic",
+            "wordDefinition": "Tactic refers to a specific action or strategy used to achieve a particular goal. It involves using a certain method or technique to achieve a specific outcome.\n\nFor instance, a soccer coach may use a tactic of passing the ball quickly among the players to create scoring opportunities.\n\nApproach is the overall plan, while tactic is a specific action within that plan. The appropriate word to use depends on the level of specificity needed in a given situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9bf3cd5a-16d5-455e-a7b2-86c5aa589cba.webp"
+        },
+        "Technique": {
+            "wordRoot": "Technique",
+            "wordDefinition": "Approach refers to a general way of doing something, while technique refers to a specific method or skill used to achieve a particular goal.\n\nFor example, if you're trying to learn a new language, your approach might be to practice every day and immerse yourself in the culture, while your technique might be to use flashcards or a language-learning app to memorize vocabulary.\n\nAn approach is more flexible and adaptable, while a technique is more structured and specific. Both words are applicable in a wide range of contexts, from sports and the arts to business and science.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b27dba19-a179-4291-ac8c-242b514e8876.webp"
+        },
+        "Way": {
+            "wordRoot": "Way",
+            "wordDefinition": "Way usually refers to a general manner or direction in which something is done or achieved. For example, a student may have their own way of studying for exams.\n\nA person may have their own way of handling a particular task or situation.\n\nApproach is more specific and focused on a particular method or plan of action, while way is more general and refers to a more individualized manner or direction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b6e98d3-1517-4e51-ba91-7ddfa14fa84d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Apologies. Mozart helps me think. I'm not sure this assignment requires much thought. Well, not if we were to follow these inelegant instructions. There must be a better approach, don't you think? I think following the instructions is the way to pass the class. Is that all you want from an education,",
+            "Title": "Mozart Helps Me Think PIPE...",
+            "VideoId": "yj8sAnZ6c3g",
+            "Controls": "start=65"
+        },
+        {
+            "Text": " try being playful with math and focusing on the creative aspects. That can build the numerical skills that help students approach math with confidence later on. Importantly, you should give children the time and space to work through their answers. And if you're an administrator,",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=198"
+        },
+        {
+            "Text": " They descend from the canopy just once a week for a bathroom break. When sloths do move, it's not very fast. It would take a sloth about five minutes to cross an average neighborhood street. This unhurried approach to life means that sloths don't need very much muscle.",
+            "Title": "Why are sloths so slow?...",
+            "VideoId": "-64U7WoBrqM",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " There was no one there to look at treatment approaches. No one to look at the diagnostics. No one to figure out what tools should be used. As an example, we could have taken the blood of survivors, processed it, and put that plasma back in people to protect them.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " With its fluid language and approach to identity, \"Orlando\" is considered a key text in gender studies. The mind can only fly so far from the body before it returns to the constraints of life. Like many of her characters, Woolf's life ended in tragedy",
+            "Title": "Why should you read...",
+            "VideoId": "DcMLkce_BLg",
+            "Controls": "start=289"
+        },
+        {
+            "Text": " these men would look like religious men and I approached them to seek some wisdom from them they were not religious men and I don't know if they had wisdom to impart on me but they said to me look if you want to bring about a change in",
+            "Title": "An inside look at...",
+            "VideoId": "RK8zb8dA4G4",
+            "Controls": "start=174"
+        },
+        {
+            "Text": " which they called logos. And while we may not always have control over the events affecting us, we can have control over how we approach things. Rather than imagining an ideal society, the Stoic tries to deal with the world as it is",
+            "Title": "The philosophy of...",
+            "VideoId": "R9OCA6UFE-0",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " There are many different ways of approaching critical thinking, but here's one five-step process that may help you solve any number of problems. formulate your question. In other words, know what you're looking for.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=69"
+        },
+        {
+            "Text": " Before long, Psyche was pregnant. She rejoiced, but was also conflicted. How could she raise her baby with a man she'd never seen? That night, Psyche approached her sleeping husband holding an oil lamp.",
+            "Title": "The myth of Cupid and...",
+            "VideoId": "Gjj_-CPxjCM",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " To help her in her quest, she's equipped with three superpowers. First, an amazing approach to getting about.",
+            "Title": "Spider With Three Super...",
+            "VideoId": "UDtlvZGmHYk",
+            "Controls": "start=0"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johnny-depp.webp",
+            "Text": "You start getting hit with some very interesting situations in life - you as a parent - when they approach that teenage area, which is frightening because you still have memories of that age and the things you were doing at that age... Please don't do what I did.",
+            "Title": "American Actor",
+            "Name": "Johnny Depp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-cruise.webp",
+            "Text": "I've never made a film that I didn't believe in, you know? However the picture turns out, I've always given everything to it. That's kind of how I approach life. I can't help it. There's no part-way with me on anything in any area of my life.",
+            "Title": "American Actor",
+            "Name": "Tom Cruise"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "The devil is a peace stealer, and he works hard to set us up to get upset. But we can learn how to change our approach so we don't live upset all of the time. And Jesus gives us the best example to follow.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karl-jaspers.webp",
+            "Text": "Only then, approaching my fortieth birthday, I made philosophy my life's work.",
+            "Title": "German Psychologist",
+            "Name": "Karl Jaspers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ezra-taft-benson.webp",
+            "Text": "Essentially, pride is a 'my will' rather than 'thy will' approach to life.",
+            "Title": "American Leader",
+            "Name": "Ezra Taft Benson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-marie-messier.webp",
+            "Text": "Our multiaccess approach will make the life of the customer simpler.",
+            "Title": "French Businessman",
+            "Name": "Jean-Marie Messier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmy-smits.webp",
+            "Text": "As an actor, it's hard to approach any character with negatives.",
+            "Title": "American Actor",
+            "Name": "Jimmy Smits"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fred-armisen.webp",
+            "Text": "You should approach everything in life like, 'What is this?",
+            "Title": "American Comedian",
+            "Name": "Fred Armisen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nina-arianda.webp",
+            "Text": "I never approach a character from a negative place.",
+            "Title": "American Actress",
+            "Name": "Nina Arianda"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nelsan-ellis.webp",
+            "Text": "I can't approach a character with judgment.",
+            "Title": "American Actor",
+            "Name": "Nelsan Ellis"
+        }
+    ]
+}

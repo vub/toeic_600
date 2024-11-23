@@ -1,0 +1,287 @@
+{
+    "currentWord": {
+        "wordRoot": "compile",
+        "id": 24442,
+        "phonemic": "kəmˈpaɪl|kəmˈpaɪl\r",
+        "bigId": "a84ee1a0-7341-4ed1-96b4-827bbbed35db",
+        "wordForms": [
+            "compile"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a84ee1a0-7341-4ed1-96b4-827bbbed35db",
+            "de": "To gather together different pieces of information to produce a comprehensive report or list.",
+            "ty": "verb",
+            "ex": "I will compile the documents needed for the meeting.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "compile a list",
+                " compile a report",
+                " compile data"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a84ee1a0-7341-4ed1-96b4-827bbbed35db.webp",
+            "Tips": [
+                {
+                    "title": "Research Oriented",
+                    "description": "Used when one thoroughly searches and combines information for clarity and wholeness.",
+                    "example": "Anthropologists must compile years of fieldwork into their final reports.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vuJf58NsmN1zL7LWfhPg9nuRQ.webp"
+                },
+                {
+                    "title": "Action Process",
+                    "description": "It involves actively selecting and bringing together diverse sources, not randomly gathering them.",
+                    "example": "For my science project, I had to compile all relevant experiments and studies.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yEo0i77Kwg8ob0mRDNG2UQkmE.webp"
+                },
+                {
+                    "title": "Purpose Specific",
+                    "description": "The act of compiling is driven by a specific goal, such as creating a list or report.",
+                    "example": "The lawyer compiled evidence to support the case.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/70kcF8vTsnMVfmXRNpbWZRFAc0.webp"
+                }
+            ]
+        },
+        {
+            "id": "c6bbc770-1dec-4864-918e-591add3f65b3",
+            "de": "In computing, to translate a program written in a high-level language into machine code or into a form suitable for execution.",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "After modifying the code, we need to compile it again before running the program.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "compile a program",
+                " compile code",
+                " recompile"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c6bbc770-1dec-4864-918e-591add3f65b3.webp",
+            "Tips": [
+                {
+                    "title": "Technical Task",
+                    "description": "It's a specialized action in programming, not just a general collection of information.",
+                    "example": "Before submitting the software, ensure that all the code compiles without errors.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Prerequisite Step",
+                    "description": "In computing, one must compile code before it can be executed as a program.",
+                    "example": "She spent hours writing the code and is now ready to compile it.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Error Check",
+                    "description": "Compilation can also help find errors in the code to be corrected.",
+                    "example": "The developer compiled the code to diagnose the syntax errors.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "be704dd0-e154-4139-ac59-ddbbe49c891a",
+            "de": "To compose, create or put together something such as a song, poem or piece of music from various elements.",
+            "ty": "verb",
+            "ex": "He compiled a beautiful melody from a few simple notes.",
+            "use": "",
+            "co": "Literary",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "compile a song",
+                " compile a melody",
+                " compile a poem"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/be704dd0-e154-4139-ac59-ddbbe49c891a.webp",
+            "Tips": [
+                {
+                    "title": "Creative Combination",
+                    "description": "Refers to the artistic process of selecting and uniting elements into a new creation.",
+                    "example": "The artist compiled sounds from nature to craft an immersive musical piece.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Thoughtful Selection",
+                    "description": "It implies a deliberate choice of components that contribute to the whole piece’s effect.",
+                    "example": "The poet compiled only the most powerful words for his latest poem.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accumulate": {
+            "wordRoot": "Accumulate",
+            "wordDefinition": "Accumulate means to gather or collect things gradually over time. For example, you can accumulate a collection of books by buying them one at a time.\n\nBoth words deal with collecting and organizing information, but accumulate implies a gradual process of adding to a collection, while compile implies a deliberate and organized process of creating a final product from various sources.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ac84393-8701-422d-81d8-b8ff647c5b21.webp"
+        },
+        "Assemble": {
+            "wordRoot": "Assemble",
+            "wordDefinition": "Assemble means to put together various parts or components to make a whole. This is often used in reference to physical things like furniture or machines.\n\nFor example, you would assemble a bookshelf by putting together its pieces.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc520a7d-c7a6-4a48-ad5b-c700a58fca2d.webp"
+        },
+        "Collate": {
+            "wordRoot": "Collate",
+            "wordDefinition": "Collate means to gather or sort different pieces of information or documents together in a specific order or sequence.\n\nFor example, if you were compiling a report using multiple sources, you might need to collate those sources and put them in the right order.\n\nThe main difference between the two words is that collate refers to the act of organizing information, while compile refers to the act of gathering and merging information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/58f0c1e8-3569-4099-852e-93523d8efdff.webp"
+        },
+        "Collect": {
+            "wordRoot": "Collect",
+            "wordDefinition": "Collecting refers to the act of gathering or bringing together a group or a set of things.\n\nIt can be done randomly or through a structured process. Collecting can involve physical or digital items.\n\nIt involves sorting, organizing, and analyzing the collected data. Compiling can lead to the creation of documents, reports, or databases.\n\nBoth collecting and compiling are applicable in different contexts. For example, collecting may be used to gather information for market research, while compiling may be used to create a database of customer information.\n\nIn summary, collecting involves acquiring items, while compiling involves organizing and analyzing them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1273f9c2-bfaf-4207-9c5a-4207a4b99f6e.webp"
+        },
+        "Combine": {
+            "wordRoot": "Combine",
+            "wordDefinition": "Combine means to bring two or more things together to make one single thing.\n\nCombine is used when you are bringing together physical things, while compile is used when you are putting together information or data from different sources to create a complete document or program.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/344ceaa8-b8c4-4983-b0cb-841e8c66de83.webp"
+        },
+        "Gather": {
+            "wordRoot": "Gather",
+            "wordDefinition": "Compile means to gather information, data, or materials from different sources and put them together in an organized way.\n\nGather means to collect things together from one or more places.\n\nIt usually describes the process of bringing things that are scattered in different places to one particular place. For example, you can gather apples from the trees into a basket or gather your friends together for a party.\n\nCompile is used to express the organization of information while gather is for the collection of elements from different places into a unified location.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e0ed609-a4a1-4831-88cf-4a316f42e7c9.webp"
+        },
+        "Merge": {
+            "wordRoot": "Merge",
+            "wordDefinition": "Compile and merge are both terms used in computer science and programming.\n\nOn the other hand, merging is the process of combining multiple sets of data or files into one cohesive unit. In programming, this might involve combining multiple lines of code from different developers into a single codebase.\n\nIn summary, compilation is the process of transforming code into a different format, while merging is the process of combining multiple sets of data or files.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5831c29f-179a-4844-907c-55ae932eaeac.webp"
+        },
+        "Organize": {
+            "wordRoot": "Organize",
+            "wordDefinition": "Organize means to arrange things systematically or in a structured way. For instance, if you are organizing your closet, you are putting your clothes in a particular order and grouping similar items together.\n\nIn summary, we use compile when we're bringing together different pieces of information, while we use organize when we're sorting things into a particular order.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3903046-39b4-4ebe-802d-acb22458ee6f.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " compile our stories and experiences in a documentary conveniently Lina has a bachelors in video production and a master's in journalism and olivia has a bachelor's in International Studies and a minor in Arabic between the two of us we speak English Arabic or the Portuguese and Spanish for the countries where we don't speak the language will be hiring translators with the money",
+            "Title": "2014 Expedition Granted...",
+            "VideoId": "72g6-3EZBBM",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " and collect data on tornadoes -- we compile a lot of observations. I work with this group who operates mobile radars, and they're exactly what they say -- basically, a radar on the back of a big blue truck, and we drive up really close to tornadoes to map out the winds. We map out the precipitation. We map out all these different things that are going on",
+            "Title": "How to track a tornado -...",
+            "VideoId": "qhbX_BPrJwU",
+            "Controls": "start=161"
+        },
+        {
+            "Text": " that everyone in the world is essentially contributing to this process. But it is such a stopgap solution. If we're really serious about stopping climate change, you can only manage what you can measure, and we need to have more information. We need to have information, not like letting it take years to compile manual reports.",
+            "Title": "Gavin McCormick:...",
+            "VideoId": "zaTH7LnyCdE",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " You can compile it to molecules, send it to a synthesizer, and it actually works. And it turns out that a company has made a nice program that's much better than my code, which was kind of ugly, and will allow us to do this in a nice, visual, computer-aided design way. So, now you can say, all right,",
+            "Title": "Paul Rothemund: The...",
+            "VideoId": "WhGG__boRxU",
+            "Controls": "start=584"
+        },
+        {
+            "Text": " A list, though, would last. To chronicle a life year by vulnerable year would be to clasp and to ground what was fleeting, would be to provide myself and others a glimpse into the future, whether we made it there or not. And when I then began to compile my list, I was quickly obsessed,",
+            "Title": "Wisdom from great...",
+            "VideoId": "fhCY_8avhWM",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " that we're a mixed grill of happy anticipation and dread. So I sat down a few days before my 61st birthday, and I decided to compile a list of everything I know for sure. There's so little truth in the popular culture, and it's good to be sure of a few things.",
+            "Title": "12 truths I learned from...",
+            "VideoId": "X41iulkRqZU",
+            "Controls": "start=33"
+        },
+        {
+            "Text": " Chimps don't need language in their environment because they have a very complex communicative system based on nonverbal communication. By observing many different groups of chimpanzees, Katja hopes to compile the world's first chimp dictionary.",
+            "Title": "How to Speak Chimpanzee...",
+            "VideoId": "NBFBbFcixRY",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " gems don't need language in their environment because they have a very complex communicative system based on non-verbal communication by observing many different groups of chimpanzees catcher hopes to compile the world's first chimp dictionary",
+            "Title": "Thought-provoking...",
+            "VideoId": "QXlTZu5ugAM",
+            "Controls": "start=888"
+        },
+        {
+            "Text": " by observing many different groups of chimpanzees catcher hopes to compile the world's first chimp dictionary the twycross chimps are a useful group to study there's an ongoing power struggle",
+            "Title": "4 Things You Didn't Know...",
+            "VideoId": "wmStqt_0Ja4",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " search for man shot woman shot child shot teen shot accidentally shot I would gather as much information as I could find about each story and compile it into a daily report though it started",
+            "Title": "Gun violence as told by...",
+            "VideoId": "gjh6o0Cw7ZY",
+            "Controls": "start=146"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marc-racicot.webp",
+            "Text": "You're trying too hard to find a correlation here. You don't know these people, you don't know what they intended. You try to compile statistics and correlate them to a result that amounts to nothing more than speculation.",
+            "Title": "American Politician",
+            "Name": "Marc Racicot"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wil-s-hylton.webp",
+            "Text": "Exactly who does use the safe-haven laws is difficult to discern. Most states make no effort to study the cases or compile any data, and the anonymous nature of the process makes outside research nearly impossible.",
+            "Title": "American Journalist",
+            "Name": "Wil S. Hylton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/timothy-noah.webp",
+            "Text": "If we were to compile a list of the ways in which the United States has made both itself and the wider world a better place, then at or very near the top would be its commitment to universal education.",
+            "Title": "American Journalist",
+            "Name": "Timothy Noah"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-de-leon.webp",
+            "Text": "I believe strongly that when you have political capital, you should use it in a manner that helps improve the human condition. You shouldn't just compile power and hold onto power for power's sake.",
+            "Title": "American Politician",
+            "Name": "Kevin de Leon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joan-blades.webp",
+            "Text": "When we compile a petition, we often have members go to their representative's or Senator's offices and deliver it in person. This way they can experience a real connection with the staff.",
+            "Title": "American Businesswoman",
+            "Name": "Joan Blades"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/justin-halpern.webp",
+            "Text": "I just wanted to compile these stories about growing up with my father and I wanted people to be able to enjoy them individually, but also the entire book as a whole.",
+            "Title": "American Author",
+            "Name": "Justin Halpern"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rebecca-mackinnon.webp",
+            "Text": "As it turns out, American-made technology had helped Mubarak and his security state collect, compile, and parse vast amounts of data about everyday citizens.",
+            "Title": "American Journalist",
+            "Name": "Rebecca MacKinnon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rob-pike.webp",
+            "Text": "Dynamic typing is not necessarily good. You get static errors at run time, which you really should be able to catch at compile time.",
+            "Title": "Canadian Author",
+            "Name": "Rob Pike"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mouni-roy.webp",
+            "Text": "I want to write a script, but before that, I am planning to compile a book of short stories.",
+            "Title": "Indian Actress",
+            "Name": "Mouni Roy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wayne-lapierre.webp",
+            "Text": "There are only two reasons to compile list of gun owners: to tax them or to take them.",
+            "Title": "American Activist",
+            "Name": "Wayne LaPierre"
+        }
+    ]
+}

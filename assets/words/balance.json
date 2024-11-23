@@ -1,0 +1,349 @@
+{
+    "currentWord": {
+        "wordRoot": "balance",
+        "id": 1932,
+        "phonemic": "ˈbæləns|ˈbæləns\r",
+        "bigId": "84cbbb2f-d484-4c04-80f0-43adc840181a",
+        "wordForms": [
+            "balances",
+            "balancing",
+            "balanced",
+            "unbalanced",
+            "rebalance",
+            "balance"
+        ]
+    },
+    "senses": [
+        {
+            "id": "84cbbb2f-d484-4c04-80f0-43adc840181a",
+            "de": "Equilibrium, or the state of having one's weight evenly distributed, not inclined to any side.",
+            "ty": "noun",
+            "ex": "She lost her balance and fell.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "maintain balance",
+                " lose balance",
+                " regain balance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/84cbbb2f-d484-4c04-80f0-43adc840181a.webp",
+            "Tips": [
+                {
+                    "title": "Metaphorical Use",
+                    "description": "Used metaphorically to describe a state of emotional or mental stability.",
+                    "example": "After a rough week, she found her balance through meditation.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/idaPHKF1aHznQ651kxM9tajuu8E.webp"
+                },
+                {
+                    "title": "Physical Stability",
+                    "description": "Relates to physical stability; often used in sports or physical activities.",
+                    "example": "Gymnasts must have great balance to perform on the beam.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/x2NWgSCCCVDH5TlMSzrBSrmakM.webp"
+                },
+                {
+                    "title": "Common Expressions",
+                    "description": "'Off balance' means unprepared or surprised, not just physically unsteady.",
+                    "example": "The sudden question caught her off balance.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/49xTduUSg16GaNKZRvEYkH1P0M.webp"
+                }
+            ]
+        },
+        {
+            "id": "35271fd7-06e6-4024-9100-5553a19ce4e8",
+            "de": "The difference in value between a country's imports and exports.",
+            "do": "Economic",
+            "ty": "noun",
+            "ex": "The balance of trade figures were released today.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "balance of trade",
+                " balance of payments",
+                " current account balance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/35271fd7-06e6-4024-9100-5553a19ce4e8.webp",
+            "Tips": [
+                {
+                    "title": "Economics Term",
+                    "description": "Often connected to economics; understanding the basic economy can help.",
+                    "example": "Economists analyze the balance of trade to predict financial trends.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Indicator of Health",
+                    "description": "A positive or negative balance can indicate an economy's health.",
+                    "example": "A negative trade balance suggests the country imports more than it exports.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "34b3fffb-2516-4847-81e8-2491ffc84177",
+            "de": "The amount of money that you have in a bank account.",
+            "do": "Financial",
+            "ty": "noun",
+            "ex": "Please check your balance before withdrawing money.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "check balance",
+                " balance inquiry",
+                " account balance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/34b3fffb-2516-4847-81e8-2491ffc84177.webp",
+            "Tips": [
+                {
+                    "title": "Financial Planning",
+                    "description": "Understanding your account balance is crucial for budgeting and planning.",
+                    "example": "I always check my balance before making a large purchase.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Bank Communications",
+                    "description": "Banks use 'balance' often in statements and alerts.",
+                    "example": "My bank sends a monthly balance update via text.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "662d7fdc-da1c-4d18-92af-e9fface36713",
+            "de": "To keep or make things equal and right. Like making sure everything in a diet or lifestyle is balanced.",
+            "ty": "verb",
+            "ex": "She tries to balance her diet by eating lots of fruits and vegetables.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "balance diet",
+                " balance work and life",
+                " balance asset"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/662d7fdc-da1c-4d18-92af-e9fface36713.webp",
+            "Tips": [
+                {
+                    "title": "Life Management",
+                    "description": "Used to discuss managing different areas of life harmoniously.",
+                    "example": "Many people find it hard to balance work with their personal lives.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Equality and Fairness",
+                    "description": "Conveys the idea of fairness, equal attention or resource distribution.",
+                    "example": "The manager worked hard to balance responsibilities among her team.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e865375d-6ad2-4b0b-b65a-a96913b82489",
+            "de": "A device used in physics and chemistry to measure mass precisely.",
+            "do": "Physics",
+            "ty": "noun",
+            "ex": "He used a balance to weigh the chemicals for his experiment.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "chemical balance",
+                " weight balance",
+                " electronic balance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e865375d-6ad2-4b0b-b65a-a96913b82489.webp",
+            "Tips": [
+                {
+                    "title": "Precise Instrument",
+                    "description": "Refers specifically to an instrument for measuring weight in science.",
+                    "example": "In chemistry class, we used a balance for every experiment.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Equality": {
+            "wordRoot": "Equality",
+            "wordDefinition": "Equality refers to the state of being equal, in terms of opportunities, rights, and treatment, regardless of differences in gender, ethnicity, religion, or social status.\n\nSo, while both balance and equality aim to achieve fairness, they focus on different areas. Balance is applicable more to personal situations, while equality is more applicable to social situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6b446061-7b6a-4a37-8fb1-a3ffde234df2.webp"
+        },
+        "Equilibrium": {
+            "wordRoot": "Equilibrium",
+            "wordDefinition": "Balance and equilibrium both refer to states of stability or harmony, but they are used in slightly different contexts.\n\nEquilibrium refers to a state of balance that is characterized by a lack of change or motion. It often refers to a state in which opposing forces or elements are not just balanced, but also cancel each other out, resulting in a state of rest.\n\nThis could be seen in a physics experiment, where two equal and opposite forces cancel each other out to create a state of static equilibrium.\n\nBalance refers to an even distribution or proportion of opposing forces, while equilibrium refers to a state of balance in which no change or motion is occurring.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a3fa46e-580d-4ed6-a78c-7160899d7ab9.webp"
+        },
+        "Evenness": {
+            "wordRoot": "Evenness",
+            "wordDefinition": "Evenness refers to the quality of being consistent or uniform in some respect, like the evenness of a surface or the evenness of someone's character.\n\nEvenness means having a level and consistent state and not showing excessive fluctuations, variations, or irregularities.\n\nBoth words are useful depending on the context. Balance is typically used when referring to tasks, activities, or priorities that need to be managed, while evenness is used when describing the nature or appearance of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3445e4cc-ec35-4a4b-9af9-de1e1205c8fa.webp"
+        },
+        "Fair": {
+            "wordRoot": "Fair",
+            "wordDefinition": "Balance means having equal distribution or proportion of something, whereas the word fair means treating everyone equally and without discrimination.\n\nHowever, being fair means that each person's preferences and needs are taken into consideration, such as if one person is vegetarian and the other is not, they may get different toppings on their slices to accommodate their individual preferences.\n\nBalance is applicable in situations where there is a need for equal distribution, while fair is applicable in situations where there is a need for equal treatment and consideration of individual differences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74354f57-c96e-4d39-bf18-0d45703e089d.webp"
+        },
+        "Harmony": {
+            "wordRoot": "Harmony",
+            "wordDefinition": "Harmony refers to the state of agreement or peaceful coexistence between two or more things. It is applicable in situations where there is a need to create a pleasing or calming effect, such as in music, art, and interpersonal relationships.\n\nHarmony involves a sense of unity and coherence, where all elements work together in a positive way.\n\nBalance is about equal distribution and stability, while harmony is about peaceful coexistence and unity. Both concepts are important in different contexts and can have a positive impact on our lives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6f8ec2f7-4138-4f28-ae1c-28e7a191ddb2.webp"
+        },
+        "Poise": {
+            "wordRoot": "Poise",
+            "wordDefinition": "Poise refers to an elegant composure in one's behavior or posture. It is about projecting a confident and graceful demeanor, even in situations where one may feel nervous or uncomfortable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5d4cf97d-ba61-4d91-98fe-3aaa562ced47.webp"
+        },
+        "Proportion": {
+            "wordRoot": "Proportion",
+            "wordDefinition": "Balance refers to an equal distribution of weight or force, whereas proportion refers to the relative size or scale of something in comparison to other things.\n\nProportion describes how the different parts of a whole relate to each other.\n\nIn art, balance is used to create a sense of stability and harmony, while proportion is used to create a sense of realism and accuracy in the depiction of objects and figures.\n\nIn cooking, balance refers to the correct combination of flavors, while proportion refers to the correct amount of each ingredient used in a recipe.\n\nBalance is used when referring to an equal distribution of weight or force, while proportion refers to the relative size or scale of something in comparison to other things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/21471e26-8bda-4b8b-b59a-87cda9f2e23b.webp"
+        },
+        "Stability": {
+            "wordRoot": "Stability",
+            "wordDefinition": "Stability refers to the ability of something to resist being toppled or overthrown. It refers to the ability of an object or situation to maintain its position, even in the face of external forces or pressure.\n\nFor example, a well-built house can withstand strong winds or earthquakes because of its stability.\n\nBalance applies to situations where there is a need for harmony, coordination, and coherence. Stability applies to situations where there is a need for resistance, endurance, and firmness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d8caac6-4d23-479a-ab57-65b1a7a471b9.webp"
+        },
+        "Symmetry": {
+            "wordRoot": "Symmetry",
+            "wordDefinition": "Symmetry refers to having corresponding or equal proportions on both sides of an axis or plane.\n\nBalance refers to equal distribution of weight or quantity, while symmetry refers to corresponding or equal proportions on both sides of an axis or plane.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a42cceaa-b791-41bd-b564-c31886da4b84.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and see a lot of starving horses running around,' and he goes, 'and that's what's happening,' And he said to me 'this is what happens when things are out of balance' and he said, 'so even something as powerful the horse that represents, in my eyes on my journey, something really good and when things are out of balance, it also causes problems.'",
+            "Title": "Erika Larsen: People of...",
+            "VideoId": "u5X7iKWDILA",
+            "Controls": "start=659"
+        },
+        {
+            "Text": " While a balanced bilingual has near equal abilities across the board in two languages, most bilinguals around the world know and use their languages in varying proportions. And depending on their situation and how they acquired each language, they can be classified into three general types.",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=44"
+        },
+        {
+            "Text": " can stimulate brain cells to release mood-altering norepinephrine, dopamine, and serotonin. But getting to your brain cells is tricky, and amino acids have to compete for limited access. A diet with a range of foods helps maintain a balanced combination of brain messengers,",
+            "Title": "How the food you eat...",
+            "VideoId": "xyQY8a-ng6g",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " with the external world. Every sight, sound, and touch create new maps and representations in the brain that eventually become responsible for regulating our experience of self. And we have other senses, besides the typical five, such as the sense of balance",
+            "Title": "Are you a body with a...",
+            "VideoId": "ILDy6kYU-xQ",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " And sugar is rare among dopamine-inducing foods. Broccoli, for example, has no effect, which probably explains why it's so hard to get kids to eat their veggies. Speaking of healthy foods, let's say you're hungry and decide to eat a balanced meal.",
+            "Title": "How sugar affects the...",
+            "VideoId": "lEXBxijQREo",
+            "Controls": "start=181"
+        },
+        {
+            "Text": " through a combination of medical treatments doing their work internally, friends and family fostering acceptance and understanding on the outside, and people with bipolar disorder empowering themselves to find balance in their lives.",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=318"
+        },
+        {
+            "Text": " We can witness a milkmaid serenely pouring a bowl of milk, but that milk isn't for us. We're only onlookers. The studied composition in Vermeer's paintings invokes a balanced harmony. With the checkered floor in many of his works,",
+            "Title": "Why is Vermeer's \"Girl...",
+            "VideoId": "pM_IzEAv5d4",
+            "Controls": "start=52"
+        },
+        {
+            "Text": " and I spent a year at home with my wife and four young children. But all I learned about work-life balance from that year was that I found it quite easy to balance work and life when I didn't have any work.",
+            "Title": "How to make work-life...",
+            "VideoId": "jdpIKXLLYYM",
+            "Controls": "start=65"
+        },
+        {
+            "Text": " way to find balance detaching from gaslighting does not mean total detachment it means distinguishing between the world of the gas lighter and the real world so you can let people have their",
+            "Title": "How to deal with...",
+            "VideoId": "v4P2Qwh1QCU",
+            "Controls": "start=618"
+        },
+        {
+            "Text": " Her large paws give an excellent grip and that long tail helps her balance.",
+            "Title": "Snow Leopard Hunting PIPE...",
+            "VideoId": "Uj0EVT-Ekog",
+            "Controls": "start=123"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-obama.webp",
+            "Text": "My family didn't have a lot of money, so I worked my heart out to get my degrees. But the minute I graduated, suddenly everyone was asking me, 'Well, when are you going to get married and start having kids?' And the truth is I had no idea how I would balance the expected role of wife and mother with a challenging career.",
+            "Title": "American First Lady",
+            "Name": "Michelle Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gordon-b-hinckley.webp",
+            "Text": "The major work of the world is not done by geniuses. It is done by ordinary people, with balance in their lives, who have learned to work in an extraordinary manner.",
+            "Title": "American Clergyman",
+            "Name": "Gordon B. Hinckley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-butler-yeats.webp",
+            "Text": "I balanced all, brought all to mind, the years to come seemed waste of breath, a waste of breath the years behind, in balance with this life, this death.",
+            "Title": "Irish Poet",
+            "Name": "William Butler Yeats"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/selena-gomez.webp",
+            "Text": "I don't trust anyone... It's something that I have to live with, and I have to find the balance of who I want in my life and who isn't good for me.",
+            "Title": "American Actress",
+            "Name": "Selena Gomez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-welch.webp",
+            "Text": "There's no such thing as work-life balance. There are work-life choices, and you make them, and they have consequences.",
+            "Title": "American Businessman",
+            "Name": "Jack Welch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-covey.webp",
+            "Text": "The challenge of work-life balance is without question one of the most significant struggles faced by modern man.",
+            "Title": "American Educator",
+            "Name": "Stephen Covey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-lopez.webp",
+            "Text": "Beauty is only skin deep. I think what's really important is finding a balance of mind, body and spirit.",
+            "Title": "American Musician",
+            "Name": "Jennifer Lopez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-j-orourke.webp",
+            "Text": "A person has got to balance work and life and family in order to be a balanced person.",
+            "Title": "American Comedian",
+            "Name": "P. J. O'Rourke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-santayana.webp",
+            "Text": "Almost every wise saying has an opposite one, no less wise, to balance it.",
+            "Title": "Spanish Philosopher",
+            "Name": "George Santayana"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tiger-woods.webp",
+            "Text": "I know that balance that I need to have in my life.",
+            "Title": "American Golfer",
+            "Name": "Tiger Woods"
+        }
+    ]
+}

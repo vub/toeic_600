@@ -1,0 +1,334 @@
+{
+    "currentWord": {
+        "wordRoot": "equivalent",
+        "id": 15690,
+        "phonemic": "ɪˈkwɪvələnt|ɪˈkwɪvələnt\r",
+        "bigId": "1d1bd6a7-cab1-467c-9bbf-9bbe3c8f2f5a",
+        "wordForms": [
+            "equivalents",
+            "equivalent"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1d1bd6a7-cab1-467c-9bbf-9bbe3c8f2f5a",
+            "de": "Equal in value, amount, function, or meaning",
+            "ty": "adjective",
+            "ex": "A life sentence is equivalent to 25 years in prison.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1d1bd6a7-cab1-467c-9bbf-9bbe3c8f2f5a.webp",
+            "Tips": [
+                {
+                    "title": "Value Equivalence",
+                    "description": "Use 'equivalent' to compare things that can replace each other due to similar value.",
+                    "example": "An e-book might be considered equivalent to a printed copy in content.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/hSfxpi9BAufFPS7t79TnFJncI.webp"
+                },
+                {
+                    "title": "Not Always Interchangeable",
+                    "description": "'Equivalent' suggests equality but doesn't mean the two can always be used interchangeably.",
+                    "example": "An assistant manager's duties are equivalent to those of a manager, but the titles aren't interchangeable.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/plfwJ3bpRpcA0kWuWukbDtmQA.webp"
+                }
+            ]
+        },
+        {
+            "id": "a11bc8ae-2731-40b8-b53b-99f59b4084cb",
+            "de": "One thing that is the same as another thing in certain ways",
+            "ty": "noun",
+            "ex": "To him, lying and stealing are equivalent crimes.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "equivalent value",
+                " equivalent amount",
+                " equivalent function"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a11bc8ae-2731-40b8-b53b-99f59b4084cb.webp",
+            "Tips": [
+                {
+                    "title": "Broad Comparisons",
+                    "description": "Use 'equivalent' to speak broadly about similar things, even if they're not exactly the same.",
+                    "example": "For vegans, tofu is an equivalent source of protein to meat.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Context Matters",
+                    "description": "The context in which 'equivalent' is used can imply positive or negative comparisons.",
+                    "example": "Some say fast food's convenience is the equivalent of home-cooked meal's wholesomeness.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "985b784a-02e6-4082-81c5-c3526a56cff3",
+            "de": "Having the same or a similar effect or result",
+            "ty": "adjective",
+            "ex": "These two sentences are equivalent in meaning.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "equivalent effect",
+                " equivalent result",
+                " equivalent scale"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/985b784a-02e6-4082-81c5-c3526a56cff3.webp",
+            "Tips": [
+                {
+                    "title": "Effect Equality",
+                    "description": "When comparing actions, 'equivalent' stresses that they lead to the same result, not that they're the same action.",
+                    "example": "Walking for an hour is equivalent in exercise to running for 30 minutes.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Perception Variance",
+                    "description": "Different listeners might perceive 'equivalent' differently based on their personal views.",
+                    "example": "To some, a high-five is equivalent in friendliness to a handshake.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2e2df2f3-270a-43a7-abbc-11c10eeb4dad",
+            "de": "A person or thing that performs the same function as another",
+            "ty": "noun",
+            "ex": "A lieutenant in the navy is equivalent to a captain in the army.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "equivalent rank",
+                " equivalent position",
+                " equivalent role"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2e2df2f3-270a-43a7-abbc-11c10eeb4dad.webp",
+            "Tips": [
+                {
+                    "title": "Functional Equivalence",
+                    "description": "Emphasize function, not form, when considering if two roles or objects are 'equivalent'.",
+                    "example": "A smartphone can be the equivalent of a computer for certain tasks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Rank and Responsibility",
+                    "description": "Use 'equivalent' to compare hierarchical positions in different systems of rank.",
+                    "example": "In some companies, a 'Director' is equivalent to a 'Senior Manager' in others.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e0be1e11-766d-4248-b008-83e76f731993",
+            "de": "An amount or quantity of something that is equivalent to something else",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "In terms of calories, 30 minutes of jogging is equivalent to one chocolate bar.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "equivalent quantity",
+                " equivalent in terms of",
+                " equivalent measure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e0be1e11-766d-4248-b008-83e76f731993.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical Precision",
+                    "description": "In math, 'equivalent' means two expressions represent the same value exactly, without approximation.",
+                    "example": "50% is the fractional equivalent of 0.5.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Quantitative Measure",
+                    "description": "Quantities can be 'equivalent' when they're expressed differently but represent the same amount.",
+                    "example": "One liter is equivalent to 1000 milliliters.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Commensurate": {
+            "wordRoot": "Commensurate",
+            "wordDefinition": "When something is commensurate, it means that it is equal in measure or proportion to something else. For example, if you get paid a salary that is commensurate with your skills and experience, it means that you are paid a fair amount based on those factors.\n\nCommensurate describes something that is proportional to something else, while equivalent describes something that is equal in value or function to something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/feebfc2e-2078-4d38-8d48-490f5ab1de70.webp"
+        },
+        "Correspond": {
+            "wordRoot": "Correspond",
+            "wordDefinition": "Correspond implies similarity or compatibility between two things, while equivalent suggests that two things have the same value or meaning.\n\nFor example, if you are learning a new language, you may find that a word in English corresponds to a word in another language, meaning that they have a similar meaning and can be used in similar ways.\n\nCorrespond is used when describing things that are similar or match up in some way, while equivalent describes things that are essentially the same.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/862dff42-ec45-4dbb-9f13-8b31e1d72e39.webp"
+        },
+        "Equal": {
+            "wordRoot": "Equal",
+            "wordDefinition": "Equal means that two things are exactly the same in size, amount or value. For example, 5 is equal to 5 or 1 dollar is equal to 100 cents.\n\nEquivalent means that two things are similar or interchangeable. It implies that even though they might not be exactly the same, they can be considered as equal in certain situations.\n\nTo summarize, equal refers to things that are exactly the same while equivalent refers to things that are comparable, similar or interchangeable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/690cd2ad-2e94-4761-a9ad-cfd1a03f7938.webp"
+        },
+        "Identical": {
+            "wordRoot": "Identical",
+            "wordDefinition": "Equivalent means having the same value, function or meaning as another thing, while not necessarily being identical in appearance or form.\n\nIdentical means being exactly the same in appearance or form. For example, identical twins have the same DNA, which makes them look almost exactly alike.\n\nIn math, two equations are identical if they have exactly the same terms and expressions.\n\nEquivalent is used when things have the same value or function, while identical is used when things are exactly the same in appearance or form.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d2e656e5-de28-4fec-810e-e6b4869b1f4c.webp"
+        },
+        "Parallel": {
+            "wordRoot": "Parallel",
+            "wordDefinition": "Parallel means that two things are side by side and never cross paths. For instance, two parallel lines in geometry do not intersect.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a77c712c-9c63-4541-9642-a9c56ab85c9f.webp"
+        },
+        "Resemble": {
+            "wordRoot": "Resemble",
+            "wordDefinition": "Resemble means to be similar or alike in appearance or nature. For example, two people may resemble each other in the way they look.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a23fe0d-a6fc-40cb-8e68-1c9d62d3a6da.webp"
+        },
+        "Same": {
+            "wordRoot": "Same",
+            "wordDefinition": "Equivalent means two things that have the same value, but may look different or be used in different ways. For example, one dollar is equivalent to four quarters.\n\nThey are not exactly the same, but they have the same value.\n\nSame means two things that are identical or exactly alike. For example, if you have two apples that are the same, they look exactly alike and have the same characteristics.\n\nEquivalent means two things that have the same value, but may not be the same physically or functionally, while same means two things that are identical or exactly alike.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/718c331d-6b35-4038-b5db-8d8b83e9199f.webp"
+        },
+        "Tantamount": {
+            "wordRoot": "Tantamount",
+            "wordDefinition": "Tantamount means being equal to something in seriousness, effect, or consequence. For example, disobeying your parents is tantamount to breaking the law.\n\nIn simpler terms, equivalent refers to things that have the same value or meaning, while tantamount refers to things that have the same level of importance or seriousness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5fdca13b-9ebd-4468-a82b-4fefb22435b9.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " world there'll be mainly eating fruits and that lays of studies have shown that actually the fruit they eat in the world is the same sugar content of the vegetables that we have here so if we do give them fruit it's the equivalent to giving them like loads of sugar and sweets so what we've done is we just",
+            "Title": "4 Adorable Animals That...",
+            "VideoId": "gk064yxlDXk",
+            "Controls": "start=722"
+        },
+        {
+            "Text": " at levels that are equivalent to some other physical processes that are associated with winds and tides. But before I finish, I want to leave you all with a question because I think it's important to keep in mind that technologies today that we take for granted started somewhere.",
+            "Title": "The surprising (and...",
+            "VideoId": "s0yJwZGxvBA",
+            "Controls": "start=308"
+        },
+        {
+            "Text": " and handle a multitude of foreign accents. They may resort to acronyms to shorten long names, choose generic terms over specific, or refer to slides and other visual aides. They can even leave a term in the original language, while they search for the most accurate equivalent.",
+            "Title": "How interpreters juggle...",
+            "VideoId": "cXNTArhA0Jg",
+            "Controls": "start=173"
+        },
+        {
+            "Text": " so we estimated that during one lifetime they can swim the equivalent of going around the planet 12 times but this is very amazing because we are talking about a guy of this size you know and they swim all their lives and it's that's really amazing and shows the adaptations",
+            "Title": "Protecting a Penguin...",
+            "VideoId": "Qrm_iD-uAco",
+            "Controls": "start=243"
+        },
+        {
+            "Text": " pairs will make for life and will be seen stalking together when raising chicks when hunting they use their exceptionally long legs to strike their prey delivering a fatal blow with a single kick their kicks are indeed that powerful they are the equivalent to five",
+            "Title": "Top 5 Animal Adaptations...",
+            "VideoId": "ZT8YswmQuAg",
+            "Controls": "start=289"
+        },
+        {
+            "Text": " they were doing something else they were sitting in close proximity and doing the human equivalent of grooming laughing and talking and strengthening their bond sure they watched or they play too many video games but they were about to leave",
+            "Title": "The science of...",
+            "VideoId": "8DbP34U3buY",
+            "Controls": "start=343"
+        },
+        {
+            "Text": " their trek is about the length of two football pitches laid end to end and they're not traveling empty-handed each ant carries a lava or a pupa hung below her body the equivalent of us running a marathon while carrying a sack of potatoes",
+            "Title": "5 Reasons Ants Are...",
+            "VideoId": "T8aAu2dUg2w",
+            "Controls": "start=837"
+        },
+        {
+            "Text": " enters the sea from land every year the equivalent of five plastic bags filled with trash for every foot of coastline in the world across our ocean plastic trash flows into circulation dispersed almost everywhere but concentrating in",
+            "Title": "How We Can Keep Plastics...",
+            "VideoId": "HQTUWK7CM-Y",
+            "Controls": "start=6"
+        },
+        {
+            "Text": " medium-sized mammals their legs can span a metre and they're strong enough to lift the equivalent of ten house bricks being big has allowed them to cultivate some rare talents",
+            "Title": "This Crab Can't Swim,...",
+            "VideoId": "4d4wjNDGMZE",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " So long as these two wings are not equivalent in strength, the bird will not fly.\" So women, on behalf of men all over the world who feel similar to me,",
+            "Title": "Why I'm done trying to...",
+            "VideoId": "Cetg4gu0oQQ",
+            "Controls": "start=975"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jenova-chen.webp",
+            "Text": "Look at the genres women like: a romantic comedy game doesn't exist. Few examples of a documentary game exist. What is the equivalent of a real drama game? They don't exist. Emotion with that complexity for a more mature, older audience are necessary to make medium-like video games healthy so it can be highly respected like the film industry.",
+            "Title": "Chinese Designer",
+            "Name": "Jenova Chen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rose-george.webp",
+            "Text": "Usually, there is no equivalent of air traffic control at sea. Some busy areas operate 'traffic separation schemes,' but mostly, ships are treated like cars on roads where there are rules and codes of behavior, and successful, accident-free outcomes depend on everyone respecting them. As on roads, this doesn't always work.",
+            "Title": "British Journalist",
+            "Name": "Rose George"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-ocean.webp",
+            "Text": "I need to know how many records I've sold, how many album equivalents from streaming, which territories are playing my music more than others, because it helps me in conversations about where we're gonna be playing shows or where I might open a retail location, like a pop-up store or something.",
+            "Title": "American Musician",
+            "Name": "Frank Ocean"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joseph-hume.webp",
+            "Text": "I am willing to admit that if the agriculturists are oppressed by peculiar burdens, they ought to be relieved from them, or be allowed a fair and just protection equivalent to all such peculiar burdens.",
+            "Title": "Scottish Scientist",
+            "Name": "Joseph Hume"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/terry-teachout.webp",
+            "Text": "I believe deeply that jazz is still a very vital music that has much to say, not just to eggheads, or whatever the musical equivalent of an egghead is, but to ordinary people.",
+            "Title": "American Critic",
+            "Name": "Terry Teachout"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/larry-elder.webp",
+            "Text": "To bring a child into the world that you cannot feed, clothe, house, and educate is the moral equivalent, in my opinion, of a drive-by shooting.",
+            "Title": "American Journalist",
+            "Name": "Larry Elder"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kate-crawford.webp",
+            "Text": "We should have equivalent due-process protections for algorithmic decisions as for human decisions.",
+            "Title": "Australian Writer",
+            "Name": "Kate Crawford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mahmoud-ahmadinejad.webp",
+            "Text": "Crime against the individual is the equivalent of crime against humanity.",
+            "Title": "Iranian Statesman",
+            "Name": "Mahmoud Ahmadinejad"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ayn-rand.webp",
+            "Text": "Achieving life is not the equivalent of avoiding death.",
+            "Title": "Russian Writer",
+            "Name": "Ayn Rand"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/laura-riding.webp",
+            "Text": "There can be no literary equivalent to truth.",
+            "Title": "American Poet",
+            "Name": "Laura Riding"
+        }
+    ]
+}

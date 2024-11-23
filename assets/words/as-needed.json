@@ -1,0 +1,49 @@
+{
+    "currentWord": {
+        "wordRoot": "as needed",
+        "id": 0,
+        "phonemic": "əz ˈnēdəd",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID-2",
+            "de": "To the extent required; as much as is necessary",
+            "ty": "phrase",
+            "ex": "Add water as needed to reach the desired consistency.",
+            "use": "Commonly used in instructions or descriptions where a flexible amount is required.",
+            "sy": "if necessary, as required",
+            "op": "as strictly required",
+            "re": "Used in conditional or flexible requirements",
+            "tp": "used in recipes, instructions, guidelines",
+            "cl": [
+                "Add sugar as needed.",
+                "Use the tools as needed in the project.",
+                "Adjust settings as needed for optimal performance."
+            ],
+            "ImageSrc": "./senses/75350f43-2c56-4226-9a03-71b5011c5961.webp",
+            "Tips": [
+                {
+                    "title": "Flexible Quantities in Recipes",
+                    "description": "Used when the exact amount may vary depending on taste or need.",
+                    "example": "Add salt as needed based on preference.",
+                    "imageUrl": "./tips/1700841f-3747-4c41-98d0-9b7aaad3d37b.webp"
+                },
+                {
+                    "title": "Situational Use in Instructions",
+                    "description": "Indicates to apply or add an element only if required, without strict necessity.",
+                    "example": "Use the extra support as needed for stability.",
+                    "imageUrl": "./tips/d3924867-7abf-4fd8-98ff-f5812053810e.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Elementary": {
+            "wordRoot": "Elementary",
+            "wordDefinition": "Elementary implies a simpler or essential aspect, while 'as needed' specifies a conditional or flexible use.",
+            "wordImage": ""
+        }
+    }
+}

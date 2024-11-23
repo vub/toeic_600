@@ -1,0 +1,310 @@
+{
+    "currentWord": {
+        "wordRoot": "confusion",
+        "id": 4155,
+        "phonemic": "kənˈfjuːʒn|kənˈfjuːʒn\r",
+        "bigId": "67fb5e28-cd98-42d4-b235-d3abab549a90",
+        "wordForms": [
+            "confusions",
+            "confusion"
+        ]
+    },
+    "senses": [
+        {
+            "id": "67fb5e28-cd98-42d4-b235-d3abab549a90",
+            "de": "Being unsure, unclear or mixed up.",
+            "ty": "noun",
+            "ex": "There was confusion about the meeting's time.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cause confusion",
+                " create confusion",
+                " add to the confusion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/67fb5e28-cd98-42d4-b235-d3abab549a90.webp",
+            "Tips": [
+                {
+                    "title": "Situational Use",
+                    "description": "Used when events or information cause uncertainty in a specific situation.",
+                    "example": "The power outage added confusion to the crowded theater.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ix46nQOS8xHKJISuRDYiOIr0o.webp"
+                },
+                {
+                    "title": "Common Misuse",
+                    "description": "Don't say 'confusion of' to refer to debates; 'confusion about' is correct.",
+                    "example": "There's a lot of confusion about the new schedule.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1zHVHojj2gEN0BbHUi6cbFaXpv4.webp"
+                },
+                {
+                    "title": "Emotional Impact",
+                    "description": "Can express frustration when plans go wrong or misunderstandings happen.",
+                    "example": "Her sudden departure caused confusion among us.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/BzlXtTxK1qvatPjBUzy1qzNcj5I.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "584f6493-609e-4b3c-9fc0-462b241e7654",
+            "de": "A situation or condition where things are messy or not organized.",
+            "ty": "noun",
+            "ex": "The room was in a state of confusion after the party.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "in a confusion",
+                " a state of confusion",
+                " utter confusion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/584f6493-609e-4b3c-9fc0-462b241e7654.webp",
+            "Tips": [
+                {
+                    "title": "Physical Misorder",
+                    "description": "Especially refers to a space that is cluttered to the point of being disorienting.",
+                    "example": "His desk was a confusion of papers and books.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Negative Always",
+                    "description": "Sometimes it's used humorously or affectionately about a minor mess.",
+                    "example": "The puppies left the room in adorable confusion.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "bf558659-3c4d-4b59-b61c-f242f48f8239",
+            "de": "A feeling or condition where a person cannot think clearly or understand something.",
+            "ty": "noun",
+            "ex": "The illness caused him to suffer periods of confusion.",
+            "use": "",
+            "sy": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "moment of confusion",
+                " deep confusion",
+                " complete confusion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bf558659-3c4d-4b59-b61c-f242f48f8239.webp",
+            "Tips": [
+                {
+                    "title": "Personal Experience",
+                    "description": "Highlights the personal, internal struggle to understand something.",
+                    "example": "He stared at the puzzle in confusion.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporary State",
+                    "description": "Implies that confusion is often a short-term reaction to a complex situation.",
+                    "example": "After waking up, she looked around in confusion.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8e70d9d9-1c24-41b6-afe5-e71eca00452c",
+            "de": "Mistake that comes from being confused.",
+            "ty": "noun",
+            "ex": "A confusion between the twins led to the wrong one being blamed.",
+            "use": "",
+            "sy": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "common confusion",
+                " easy confusion",
+                " avoid the confusion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8e70d9d9-1c24-41b6-afe5-e71eca00452c.webp",
+            "Tips": [
+                {
+                    "title": "Error Source",
+                    "description": "Refers to a mistake specifically stemming from misunderstanding something or someone.",
+                    "example": "The confusion over names led to the wrong delivery.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Clarification Need",
+                    "description": "Signals a need for additional information or clarification to resolve the confusion.",
+                    "example": "To avoid confusion, please ask questions if you're uncertain.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Bafflement": {
+            "wordRoot": "Bafflement",
+            "wordDefinition": "Bafflement refers to a state of being completely puzzled or bewildered by something, and it is typically used when someone is faced with a situation that is completely unexpected or difficult to understand, while confusion refers to a state of being uncertain or unclear about something, and it tends to be used in situations where there are multiple possibilities or explanations, but none of them seem to fit perfectly.\n\nBafflement is used when something is perplexing or hard to make sense of, while confusion is used when there is a lack of clarity or understanding.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6aabbb7e-9afe-401a-9abc-aae989b57c4b.webp"
+        },
+        "Chaos": {
+            "wordRoot": "Chaos",
+            "wordDefinition": "Chaos refers to a state of complete disorder and confusion in which things seem to be happening randomly and without control.\n\nChaos usually describes a situation where everything is out of control and unpredictable.\n\nAn example of chaos would be a riot on the streets, where people are running around, breaking things, and causing chaos.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1c6e99de-8810-48e0-9264-b7a18f0ee600.webp"
+        },
+        "Disarray": {
+            "wordRoot": "Disarray",
+            "wordDefinition": "Disarray refers to a state of disorder or chaos. It is when things are not in their proper place or functioning as they should.\n\nFor example, if you walk into a messy room where things are scattered all over the place, you might say that the room is in disarray.\n\nConfusion is a feeling of uncertainty or lack of knowledge, while disarray is a state of disorder or chaos.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b311ca1-8aa5-414e-9354-b21712ed811b.webp"
+        },
+        "Disorder": {
+            "wordRoot": "Disorder",
+            "wordDefinition": "Disorder means a lack of order or organization, characterized by chaos or a messy environment.\n\nBoth confusion and disorder can occur in various settings, such as in one's personal life, at school, or in the workplace.\n\nConfusion is usually applicable when one is unsure about a particular situation, while disorder is applicable when there is an absence of order or organization in a particular space or situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ddc40e3c-a6d4-416f-96ac-50bf5952123e.webp"
+        },
+        "Jumble": {
+            "wordRoot": "Jumble",
+            "wordDefinition": "Jumble refers to a disorderly mixture or arrangement of things.\n\nIt describes a physical or visual mess, such as a jumble of clothes on the floor or a jumble of letters in a scrambled word puzzle.\n\nConfusion relates to mental confusion or lack of clarity, while jumble relates to physical disorder or a mixture of things that are difficult to separate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4dde899b-5d38-4efc-9946-2724ed72eb4f.webp"
+        },
+        "Muddle": {
+            "wordRoot": "Muddle",
+            "wordDefinition": "Confusion and muddle both refer to a lack of clarity or understanding, but they can differ in their application.\n\nMuddle often refers to a situation that is disorganized or chaotic. This could be caused by a lack of direction, unclear instructions, or a messy environment.\n\nFor example, a kitchen might be in a muddle if the ingredients are scattered around and there is no clear plan for cooking a meal.\n\nConfusion refers to a mental state of uncertainty or disorientation while muddle refers to a physical state of disorder or chaos.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7c248e6a-c901-49c9-862c-4feba3c5de1a.webp"
+        },
+        "Perplexity": {
+            "wordRoot": "Perplexity",
+            "wordDefinition": "Perplexity refers to a state of confusion or uncertainty due to something that is difficult to understand. For example, if you are trying to solve a complex math problem, you might feel perplexed because you cannot figure out the solution.\n\nConfusion is more a feeling of disorientation, while perplexity implies difficulty in understanding or solving a problem.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dececade-63b2-4453-bcbb-74204f7e419b.webp"
+        },
+        "Turmoil": {
+            "wordRoot": "Turmoil",
+            "wordDefinition": "Turmoil refers to a state of great disturbance or upheaval. For example, when there is turmoil, there may be chaos, conflict, or unrest.\n\nConfusion relates to a lack of understanding, while turmoil relates to a state of great disturbance. Confusion is applicable in situations where there is uncertainty or lack of clarity, while turmoil is applicable in situations where there is great upheaval or unrest.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/04cf421e-3576-4ebd-bec1-c8a25d406ed2.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " or confusion between the representation of divinity and divinity itself. Keeping it real, so to speak, in the relationship between the individual and the divine. However, this can be a challenge to maintain, given that the urge to visually represent and interpret the world around us is a compulsion difficult to suppress.",
+            "Title": "A brief history of...",
+            "VideoId": "qfITRYcnP84",
+            "Controls": "start=84"
+        },
+        {
+            "Text": " Have you ever talked with a friend about a problem only to realize that he just doesn't seem to grasp why the issue is so important to you? Have you ever presented an idea to a group and it's met with utter confusion? Or maybe you've been in an argument when the other person suddenly accuses you",
+            "Title": "How miscommunication...",
+            "VideoId": "gCfzeONu3Mo",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " because, in a sense, it has. Our next theory deals with a confusion of the past rather than a mistake in the present. This is the hologram theory, and we'll use that tablecloth to examine it. As you scan its squares, a distant memory swims up from deep within your brain. According to the theory,",
+            "Title": "What is déjà vu? What is...",
+            "VideoId": "foVMwJtlR5s",
+            "Controls": "start=107"
+        },
+        {
+            "Text": " is the way your photo receptors and brain assemble visual information into the three-dimensional world you see around you, where edges should get extra attention because things with edges can help you or kill you. Look at that muffin pan again. You know what causes confusion here?",
+            "Title": "How optical illusions...",
+            "VideoId": "rfdJyDfIHIc",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " waking in a state of exhaustion, confusion, and stress, which starts the process all over again. When these cycles of stress and restlessness last several months, they’re diagnosed as chronic insomnia. And while insomnia rarely leads to death,",
+            "Title": "What causes insomnia? -...",
+            "VideoId": "j5Sl8LyI7k8",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " dark claustrophobic environment Carlos must remain calm and focused confusion can be death Carlos tries not to think about the soup of bacteria he's swimming in including tetanus typhoid and cholera his suit protects him but it is an armor",
+            "Title": "Sewer Diving PIPE National...",
+            "VideoId": "TlRjbV-rT-E",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " And that can also come from some kind of confusions. One of the most common ones is happiness and pleasure. But if you look at the characteristics of those two, pleasure is contingent upon time, upon its object, upon the place.",
+            "Title": "The habits of happiness...",
+            "VideoId": "vbLEf4HR74E",
+            "Controls": "start=254"
+        },
+        {
+            "Text": " all 12 infants confusion reigns if one gets left behind it's sure to be lost forever but if they don't find a new refuge that's out of reach of the stripes then they're in grave danger",
+            "Title": "Deadly Mongoose Battle PIPE...",
+            "VideoId": "KAxmAk7woyA",
+            "Controls": "start=151"
+        },
+        {
+            "Text": " that keeps him moving forward. Gradually he comes to accept his inner confusion. In the end, his experience echoes the the deeper you go, the more you find.",
+            "Title": "Why should you read...",
+            "VideoId": "mB4FO1itCi0",
+            "Controls": "start=248"
+        },
+        {
+            "Text": " right now the world is experiencing what I experienced everyday as a child there is chaos there is confusion everything is upside-down reality is being",
+            "Title": "How to deal with...",
+            "VideoId": "v4P2Qwh1QCU",
+            "Controls": "start=14"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/t-c-boyle.webp",
+            "Text": "It's just my natural way - to be funny. I don't know why that is. But as I've said, humor is a quick cover for shock, horror, confusion. The critics hate funny writers for the most part. They think funny is not serious, but I think that funny can be even more serious than nonfunny. And it can be more affecting, too.",
+            "Title": "American Novelist",
+            "Name": "T. C. Boyle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lucy-dacus.webp",
+            "Text": "I think 'Historian' is ultimately a positive record, but I was a little bit worried about taking people into a dark world. I tried to do it with as much care as possible, but it's not easy to ask people to think about death or loss or confusion.",
+            "Title": "American Musician",
+            "Name": "Lucy Dacus"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-fielding.webp",
+            "Text": "I think that when you're writing fiction what you're doing is reflecting life as you see it, and putting down how you think and how other people think, and the sort of confusions that you don't normally like to admit to.",
+            "Title": "British Author",
+            "Name": "Helen Fielding"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/matthew-underwood.webp",
+            "Text": "Life is full of confusion. Confusion of love, passion, and romance. Confusion of family and friends. Confusion with life itself. What path we take, what turns we make. How we roll our dice.",
+            "Title": "American Actor",
+            "Name": "Matthew Underwood"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/larry-king.webp",
+            "Text": "Getting your house in order and reducing the confusion gives you more control over your life. Personal organization some how releases or frees you to operate more effectively.",
+            "Title": "American Entertainer",
+            "Name": "Larry King"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mary-lynn-rajskub.webp",
+            "Text": "I personally have a background of many days on end of confusion, understimulation, overstimulation, and uncomfortableness with the world around me.",
+            "Title": "American Actress",
+            "Name": "Mary Lynn Rajskub"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sonny-sandoval.webp",
+            "Text": "We grew up on hip-hop, metal, and hard core, which... reflect a certain amount of the chaos and confusion that are part of daily life.",
+            "Title": "American Musician",
+            "Name": "Sonny Sandoval"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brandon-boyd.webp",
+            "Text": "Very rarely is there any confusion as to when a painting or a song is finished. You just know when it's done.",
+            "Title": "American Musician",
+            "Name": "Brandon Boyd"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michiko-kakutani.webp",
+            "Text": "For most of us, art is supposed to do something more than simply mirror the confusions of the world.",
+            "Title": "American Critic",
+            "Name": "Michiko Kakutani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rudy-ruettiger.webp",
+            "Text": "Eliminate the confusion in your life.",
+            "Title": "",
+            "Name": "Rudy Ruettiger"
+        }
+    ]
+}

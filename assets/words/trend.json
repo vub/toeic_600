@@ -1,0 +1,311 @@
+{
+    "currentWord": {
+        "wordRoot": "trend",
+        "id": 19450,
+        "phonemic": "trend|trend\r",
+        "bigId": "c14aab72-0a55-4bce-bd90-036354a39026",
+        "wordForms": [
+            "trends",
+            "trending",
+            "trend"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c14aab72-0a55-4bce-bd90-036354a39026",
+            "de": "The general direction in which something is changing or developing",
+            "ty": "noun",
+            "ex": "The trend in fashion this season is towards bright colors.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fashion trend",
+                " market trend",
+                " growing trend"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c14aab72-0a55-4bce-bd90-036354a39026.webp",
+            "Tips": [
+                {
+                    "title": "Context Matters",
+                    "description": "The word 'trend' is often used in discussing topics like fashion, technology, and social changes.",
+                    "example": "There's a trend towards remote working in the tech industry.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PsCathEnZyUfCP3j4E5FVGH6fKw.webp"
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "'Trend' doesn't imply good or bad, it just shows direction of change.",
+                    "example": "There is a disturbing trend of increasing pollution in urban areas.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JlSzyyYv21zPFEdIL3Qttj1ZMYA.webp"
+                }
+            ]
+        },
+        {
+            "id": "6764cbb3-6fb8-45ed-b209-212d99506ed6",
+            "de": "To change or develop in a general direction",
+            "ty": "verb",
+            "ex": "Unemployment has been trending downward.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "trending upwards",
+                " trending downwards",
+                " trending on social media"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6764cbb3-6fb8-45ed-b209-212d99506ed6.webp",
+            "Tips": [
+                {
+                    "title": "Social Media Jargon",
+                    "description": "In social media, 'trending' often means becoming popular or viral at a given moment.",
+                    "example": "The dance challenge started trending on social media.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporal Aspect",
+                    "description": "When 'trend' is used as a verb, it often indicates a temporary or current movement.",
+                    "example": "During winter, the temperatures have been trending lower.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "be627349-eb45-4bad-a119-2d9c9e04a828",
+            "de": "A fashion",
+            "ty": "noun",
+            "ex": "Wearing vintage clothes is a trend among young people.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fashion trend",
+                " new trend",
+                " popular trend"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/be627349-eb45-4bad-a119-2d9c9e04a828.webp",
+            "Tips": [
+                {
+                    "title": "Cultural Nuance",
+                    "description": "'Trend' can reflect cultural shifts and generational preferences.",
+                    "example": "Minimalist lifestyles are a trend among millennials trying to declutter their lives.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Time Frame Reference",
+                    "description": "Fashion and lifestyle 'trends' can be short-lived, changing from season to season.",
+                    "example": "Floral patterns are the trend for this spring's clothing lines.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "db944318-8a7f-48e2-b919-ab0e5610895c",
+            "de": "To go in a specific direction",
+            "ty": "verb",
+            "ex": "The river trends southward.",
+            "use": "",
+            "co": "Geographical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "trending north",
+                " trending south",
+                " trending east"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/db944318-8a7f-48e2-b919-ab0e5610895c.webp",
+            "Tips": [
+                {
+                    "title": "Physical Direction",
+                    "description": "In geography, 'trend' describes the direction something moves or faces, like a mountain range.",
+                    "example": "The Andes mountain range trends north-south.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Literal",
+                    "description": "'Trend' in geography doesn't mean moving, but the alignment or general direction it follows.",
+                    "example": "The coral reef trends towards the northeast, parallel to the shoreline.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Craze": {
+            "wordRoot": "Craze",
+            "wordDefinition": "Craze refers to something that becomes very popular for a short time, but then quickly fades away.\n\nAn example of a craze would be a popular toy that kids want to own, but eventually loses its popularity.\n\nA craze is something that becomes very popular for a short period of time, while a trend is something that becomes popular over a longer period and has a lasting impact on society.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bb76a99e-5362-4698-ad7f-96e0667842e2.webp"
+        },
+        "Current": {
+            "wordRoot": "Current",
+            "wordDefinition": "Current refers to what is happening now at this moment.\n\nIt describes something that is existing or happening in the present. For example, the current temperature is 70 degrees Fahrenheit.\n\nCurrent refers to something happening right now and trend refers to how something is changing over time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/15515abc-5af0-4f70-9a38-7a80b4e1a137.webp"
+        },
+        "Direction": {
+            "wordRoot": "Direction",
+            "wordDefinition": "Direction refers to the path or course that something is headed in. It's applicable when talking about specific movements or aims of something.\n\nFor example, \"The company is headed in a new direction with their marketing strategy.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/96ef0d15-a293-4dfc-8ee1-de42ed919036.webp"
+        },
+        "Drift": {
+            "wordRoot": "Drift",
+            "wordDefinition": "Drift refers to a gradual change or movement in a particular direction.\n\nIt can describe a slow and subtle shift in opinions, attitudes or behaviors. For example, if a person's political beliefs slowly shift towards the left over time, this could be described as a drift in their political views.\n\nSo, in simple terms, the difference between drift and trend is that drift refers to a gradual change over time, while trend refers to a general direction that things are moving in.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49516086-8d17-4047-87e5-2f6a3c410b6d.webp"
+        },
+        "Fad": {
+            "wordRoot": "Fad",
+            "wordDefinition": "A fad is a short-lived trend that is popular for a brief period of time and then fades quickly. Fads are often characterized by their novelty and unusualness.\n\nExamples of fads could be trendy clothes, viral dances or memes, or popular gadgets that disappear quickly.\n\nA fad is a temporary craze that quickly fades, while a trend is a more significant shift that is gradually adopted by a large group over time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/de46235c-6baa-403f-82ed-b21d90c42c84.webp"
+        },
+        "Fashion": {
+            "wordRoot": "Fashion",
+            "wordDefinition": "Fashion refers to a general style or design that lasts for a long time, while a trend refers to a popular style that is temporary and changes frequently.\n\nFashion is applicable to clothes, accessories, and even furniture, and it often reflects the culture and society of a particular era.\n\nIn simpler terms, fashion is timeless and classic, while trends are fun and fleeting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1119f48e-a9ec-4dff-8f4b-d5bbaf836f56.webp"
+        },
+        "Movement": {
+            "wordRoot": "Movement",
+            "wordDefinition": "Movement generally refers to a group of people who are actively working towards a common goal or belief, often with a sense of urgency or significance.\n\nThis can include social, political, or cultural movements, such as the civil rights movement or the women's rights movement.\n\nBoth words can be applicable to a variety of situations, but movement is typically associated with more significant and impactful changes, while trends are often more superficial or fleeting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eb2b6861-f647-4aa6-a385-662b3be9bfa3.webp"
+        },
+        "Style": {
+            "wordRoot": "Style",
+            "wordDefinition": "Style refers to a way of doing things or a particular manner in which something is done. It typically pertains to individual choices and preferences.\n\nFor example, an individual can have their own personal style in terms of clothing, music, and art.\n\nIt is often temporary and tends to change frequently based on current popular culture. For example, wearing ripped jeans or off-shoulder tops may be considered a trend in fashion in a particular year, but it may not necessarily be a personal style for everyone.\n\nStyle is individual, long-lasting, and based on personal choices and tastes, while a trend is popular, short-term, and often influenced by popular culture.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be3fb9ca-91a0-4015-ad43-727145c97a2c.webp"
+        },
+        "Tendency": {
+            "wordRoot": "Tendency",
+            "wordDefinition": "Tendency refers to a general inclination or direction towards something.\n\nIt is often used to describe a person's natural disposition or a gradual change in behavior or attitude over time. For example, a person may have a tendency to procrastinate, meaning they often put off tasks until the last minute.\n\nHowever, tendency is more focused on an individual's natural predisposition, while trend is more focused on larger societal influences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/394133e3-fa84-4ca6-b375-48e8d02de560.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " but now when it comes to the worldview, it is the exact reason why it's upside down. The trends that are increasing are instead falling, and the other way around, and in this case, the chimps use our intuition against us, and it becomes our weakness instead of our strength. It was supposed to be our strength, wasn't it?",
+            "Title": "How not to be ignorant...",
+            "VideoId": "Sm5xF-UYgdg",
+            "Controls": "start=688"
+        },
+        {
+            "Text": " In the UK alone we spent 1.6 billion pounds on perfumes in 2020. The market is teeming with the latest new and on trend products, which are endlessly pushed by celebrities and influencers on social media. Known as liquid gold, oud is one of the most expensive and sought after ingredients in perfumes.",
+            "Title": "Is Your Perfume Made...",
+            "VideoId": "OYe5zWZDsc0",
+            "Controls": "start=3"
+        },
+        {
+            "Text": " underway people are moving to cities we're getting more food from less land and we're using denser forms of energy by embracing and accelerating these trends rather than fighting them we can create the kind of world we'd all want to live in and redefine what it means to be",
+            "Title": "An eco-modernist...",
+            "VideoId": "PcAKs7DVkPw",
+            "Controls": "start=287"
+        },
+        {
+            "Text": " is by analyzing movements and trends in society, and charting the paths they are likely to follow into the future with varying degrees of probability. Their work informs the decisions of policymakers and world leaders, enabling them to weigh options for the future",
+            "Title": "How science fiction can...",
+            "VideoId": "paXKoZ1pr5w",
+            "Controls": "start=50"
+        },
+        {
+            "Text": " Now, there's a similar situation in the classical music world, because there are some people who think that classical music is dying. And there are some of us who think you ain't seen nothing yet. And rather than go into statistics and trends,",
+            "Title": "The transformative power...",
+            "VideoId": "r9LCwI5iErE",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " But even sometimes a cheaper version can actually have some charming aspects, can breathe a little extra life into a dying trend. There's lots of virtues of copying. One that a lot of cultural critics have pointed to is that we now have",
+            "Title": "Johanna Blakely: Lessons...",
+            "VideoId": "zL2FOrx41N0",
+            "Controls": "start=359"
+        },
+        {
+            "Text": " driven by large corporations and the trend of fast fashion has cost the environment, the health of farmers, and driven questionable human labor practices. It's also turned fashion into the second largest polluter in the world after oil.",
+            "Title": "The life cycle of a...",
+            "VideoId": "BiSYoeqb_VY",
+            "Controls": "start=261"
+        },
+        {
+            "Text": " imagining a world where certain trends in contemporary society are taken to extremes, exposing their underlying flaws. And the next few centuries would provide plenty of material. Industrial technology that promised to free laborers",
+            "Title": "How to recognize a...",
+            "VideoId": "6a6kbU88wu0",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " leash we can't observe climate directly all we see is the weather the average weather over the course of years reveals a pattern I represent that long-term trend",
+            "Title": "Weather Versus Climate...",
+            "VideoId": "cBdxDFpDp_k",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " and deeply affect the decision making of this body through animations of global data, trends and other information regarding the globe, on this sphere.",
+            "Title": "Nick Sears: Presenting...",
+            "VideoId": "YYtr9us2pGw",
+            "Controls": "start=37"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yossi-ghinsberg.webp",
+            "Text": "The corporate sector in my view is the most important since it is actively involved in the shaping of our life on the planet. The corporate world has the power and the means to influence politics and public trends.",
+            "Title": "Israeli Entertainer",
+            "Name": "Yossi Ghinsberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuna.webp",
+            "Text": "The fashion world is so interesting because it's always changing, but if you know yourself really well, despite of all the changes in the fashion trends, you know how to stay true to yourself.",
+            "Title": "Malaysian Musician",
+            "Name": "Yuna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harold-ramis.webp",
+            "Text": "I used to be married to a woman who pursued every spiritual trend with tremendous passion and dragged me along. I don't believe in anything. I'd seen mediums and readers.",
+            "Title": "American Actor",
+            "Name": "Harold Ramis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/estella-warren.webp",
+            "Text": "It's hard to go with a trend. As soon as it's out, everyone picks it up. It's important to stay true to yourself. Have fun with fashion instead of letting it dictate.",
+            "Title": "Canadian Model",
+            "Name": "Estella Warren"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jenny-packham.webp",
+            "Text": "I think it's very important to women what they want to watch. They're looking all the time to the red carpet to see what to wear, and it sets off all sorts of trends.",
+            "Title": "British Designer",
+            "Name": "Jenny Packham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jenny-slate.webp",
+            "Text": "I do think that character types trend. As a female comedian, the parts that come my way are often terrible women.",
+            "Title": "American Actress",
+            "Name": "Jenny Slate"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/meryl-streep.webp",
+            "Text": "For me, clothes are kind of character; I don't follow fashion or understand trends.",
+            "Title": "American Actress",
+            "Name": "Meryl Streep"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gurmeet-choudhary.webp",
+            "Text": "I like experimenting and picking up trends from across the world.",
+            "Title": "Indian Actor",
+            "Name": "Gurmeet Choudhary"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/max-levchin.webp",
+            "Text": "The single most important top-level trend is the shift to mobile.",
+            "Title": "Ukrainian Businessman",
+            "Name": "Max Levchin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zach-ertz.webp",
+            "Text": "I rarely drop the ball, and hopefully that trend continues.",
+            "Title": "American Athlete",
+            "Name": "Zach Ertz"
+        }
+    ]
+}

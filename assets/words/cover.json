@@ -1,0 +1,388 @@
+{
+    "currentWord": {
+        "wordRoot": "cover",
+        "id": 7065,
+        "phonemic": "ˈkʌvə(r)|ˈkʌvər\r",
+        "bigId": "f9081b2e-54ef-4411-b0f4-fd6ddb8d022f",
+        "wordForms": [
+            "covers",
+            "covering",
+            "covered",
+            "uncovered",
+            "cover"
+        ]
+    },
+    "senses": [
+        {
+            "id": "f9081b2e-54ef-4411-b0f4-fd6ddb8d022f",
+            "de": "To place something over or on top of something",
+            "ty": "verb",
+            "ex": "She used a blanket to cover the baby.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cover the surface",
+                " cover the pot",
+                " cover one's face"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f9081b2e-54ef-4411-b0f4-fd6ddb8d022f.webp",
+            "Tips": [
+                {
+                    "title": "Physical concealment",
+                    "description": "Use 'cover' to talk about hiding or protecting something by putting it under another thing.",
+                    "example": "He covered the leftover food with foil.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/myZdEt52zYewuag19hdTy5xg.webp"
+                },
+                {
+                    "title": "Implicit protection",
+                    "description": "Something covered is often shielded from harm, like covering a wound.",
+                    "example": "You should cover the cut to prevent infection.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NaOcPOj8PDeQUPOms9jMLiuuZw.webp"
+                },
+                {
+                    "title": "Disguise",
+                    "description": "Cover can mean to disguise something’s true appearance or nature.",
+                    "example": "They covered the old walls with a fresh coat of paint.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ocHcfYtDIn2AkfSSWbdsBwcA8.webp"
+                }
+            ]
+        },
+        {
+            "id": "c0927abe-33d2-4868-82b6-b237a633a743",
+            "de": "To deal with a particular subject or topic",
+            "ty": "verb",
+            "ex": "The book covers the basics of programming.",
+            "use": "",
+            "co": "Academic, Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cover the topic",
+                " cover a subject",
+                " cover the basics"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c0927abe-33d2-4868-82b6-b237a633a743.webp",
+            "Tips": [
+                {
+                    "title": "Scope of content",
+                    "description": "‘Cover’ often refers to the range or breadth of material tackled.",
+                    "example": "Our history class covers the period from the Renaissance to the present.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Depth of discussion",
+                    "description": "Can imply varying depth, from a brief mention to a thorough exploration.",
+                    "example": "Does this article cover the cause of the crisis in detail?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5a7a375e-bb96-4471-8731-cbea3b5f90dd",
+            "de": "To travel or pass across",
+            "ty": "verb",
+            "ex": "He covered 300 miles in two days.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cover a distance",
+                " cover a route",
+                " cover miles"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5a7a375e-bb96-4471-8731-cbea3b5f90dd.webp",
+            "Tips": [
+                {
+                    "title": "Geographical journeys",
+                    "description": "Use 'cover' to describe the extent of a journey over distance.",
+                    "example": "The delivery service covers the entire city.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Measure progression",
+                    "description": "Can be used to measure progress in reaching a point or completing routes.",
+                    "example": "How much ground do we need to cover before we reach the camp?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1799e17a-7945-403a-b527-c402ec24c5e9",
+            "de": "The outside part or uppermost layer of something",
+            "ty": "noun",
+            "ex": "He put a cover on the book to protect it.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "book cover",
+                " magazine cover",
+                " album cover"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1799e17a-7945-403a-b527-c402ec24c5e9.webp",
+            "Tips": [
+                {
+                    "title": "Physical layer",
+                    "description": "A 'cover' can be a tangible layer that sits on something else.",
+                    "example": "Put a cover on your tablet to protect the screen.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Concealment",
+                    "description": "As a noun, 'cover' sometimes means an attempt to conceal something.",
+                    "example": "He used his charm as a cover for his lack of experience.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "60494ae9-eebf-40ee-b53a-07405bb03605",
+            "de": "To protect or defend someone by providing security",
+            "do": "Insurance, legal",
+            "ty": "verb",
+            "ex": "Our insurance covers damage from natural disasters.",
+            "use": "",
+            "co": "Academic, Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cover the costs",
+                " cover damages",
+                " coverage area"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/60494ae9-eebf-40ee-b53a-07405bb03605.webp",
+            "Tips": [
+                {
+                    "title": "Financial safety",
+                    "description": "In legal or insurance terms, ‘cover’ suggests providing financial safety or reimbursement.",
+                    "example": "Will my travel insurance cover lost luggage?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Extent of protection",
+                    "description": "Understand the details to know what is included or excluded in coverage.",
+                    "example": "This warranty does not cover accidental damage.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "23747f95-adc9-4e1a-bf56-3b649f387c5b",
+            "de": "To play or perform a version of a song originally done by someone else",
+            "ty": "verb",
+            "ex": "She covered a famous song by The Beatles at the concert.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cover a song",
+                " cover version",
+                " play a cover"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/23747f95-adc9-4e1a-bf56-3b649f387c5b.webp",
+            "Tips": [
+                {
+                    "title": "Musical rendition",
+                    "description": "A 'cover' in music means performing a song made popular by another artist.",
+                    "example": "His cover of the classic hit brought him fame.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Creative interpretation",
+                    "description": "Covering a song can involve personal interpretation, giving it a new style.",
+                    "example": "She loves covering old jazz songs in a modern way.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Blanket": {
+            "wordRoot": "Blanket",
+            "wordDefinition": "A blanket is usually used for warmth or comfort and is made of thicker material. It's often used while sleeping, on sofas, or for outdoor activities such as camping.\n\nA cover can be used to conceal or protect an object or piece of furniture. It's often made of thinner material than a blanket and is designed to fit a specific item, such as a sofa cover, car cover, or book cover.\n\nA blanket is used for warmth and comfort, while a cover is used for protection or concealment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b0cdc537-042b-4832-9658-fd76851a7103.webp"
+        },
+        "Coat": {
+            "wordRoot": "Coat",
+            "wordDefinition": "Coat is usually used to refer to a piece of clothing worn over other garments to keep a person warm. For example, a winter coat is worn over a shirt or sweater to protect from the cold.\n\nCoat refers to a specific garment used for warmth, while cover is a general term that can refer to a variety of items used to protect or hide something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aeedd9f1-97ec-4fa8-8f62-5239cee486ce.webp"
+        },
+        "Conceal": {
+            "wordRoot": "Conceal",
+            "wordDefinition": "Conceal means to hide something completely. It suggests that the item or information is deliberately and carefully hidden so it cannot be seen or found.\n\nFor example, a spy might conceal a secret document in a hidden compartment in a book.\n\nConceal means hiding something completely, while cover means placing something over or around something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a14e576d-140b-4b2a-80a4-d1f68cb8d601.webp"
+        },
+        "Envelop": {
+            "wordRoot": "Envelop",
+            "wordDefinition": "Envelop means to completely surround or enclose something. For example, a letter or package is enveloped in an envelope or a cocoon envelops a caterpillar as it transforms into a butterfly.\n\nCover usually means to place something over the top to protect or hide it while envelop means to surround or enclose something completely.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2738c0ab-6635-4123-9f3a-35a8e145f76b.webp"
+        },
+        "Hide": {
+            "wordRoot": "Hide",
+            "wordDefinition": "Hide means to conceal or keep something secret.\n\nIt can be used when you want to keep something out of sight, for example, you might hide a present under your bed. In other cases, it can describe the act of taking shelter in order to avoid danger or harm, for example, you might hide behind a tree during a game of hide and seek.\n\nCover is used when you want to protect or conceal something, while hide is used when you want to keep something out of view or avoid danger.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bad6856c-8ad2-4dae-9b5b-c41558f0b006.webp"
+        },
+        "Mask": {
+            "wordRoot": "Mask",
+            "wordDefinition": "Mask means to hide or obscure something completely by covering it up or putting on a disguise. For example, wearing a mask for a costume party or wearing a face mask to protect against germs.\n\nIn general, we use cover to protect and mask to hide.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/546f92ac-0d6c-4712-a31d-daca2010d864.webp"
+        },
+        "Protect": {
+            "wordRoot": "Protect",
+            "wordDefinition": "Cover means to place something over another thing, often to conceal or hide it. For example, a book cover is put over a book to protect it from damage or dirt.\n\nProtect means to prevent something from being harmed or damaged. For example, a helmet protects the head from getting injured during activities like biking or skateboarding.\n\nThe main difference between the two is that cover is putting something on top of another thing while protect is doing something to keep something else safe.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/55d2edfc-5b8d-4916-b17e-0bf2cc0245d2.webp"
+        },
+        "Shelter": {
+            "wordRoot": "Shelter",
+            "wordDefinition": "Shelter typically refers to a place that offers protection or a safe place to stay in. For example, a building or tent can provide shelter from adverse weather conditions.\n\nShelter can also refer to a place that provides refuge or assistance for those in need such as a homeless shelter.\n\nCover is generally used to describe protection from the elements or concealment, while shelter refers to a place that provides protection or assistance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cd59ad2e-df16-4bb8-8522-002637c9810d.webp"
+        },
+        "Veil": {
+            "wordRoot": "Veil",
+            "wordDefinition": "Veil means to cover or wrap something completely, especially with a fabric that is translucent or opaque.\n\nA veil is often worn over a person's face, for example, a bride's veil at a wedding.\n\nVeil is applicable to situations where you want to conceal the appearance or identity of something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3625891f-c15f-4915-bbc6-6d046267261d.webp"
+        },
+        "Wrap": {
+            "wordRoot": "Wrap",
+            "wordDefinition": "Wrap, on the other hand, means to enclose an object completely by putting a material (such as paper or plastic) around it.\n\nFor example, you might wrap a gift in wrapping paper, or wrap leftovers in plastic wrap.\n\nCover implies a partial or temporary covering, while wrap implies a complete or more permanent covering.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/73a6f92b-8971-4023-a761-a0f9f6ceb212.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " this was a dress I covered in iron filings and I buried it in the ground for several months and after I dug out the dress I felt that the dress actually acquired his own life and became what I call a piece of future archaeology here I was interested in the idea that a garment that has a certain value now",
+            "Title": "My life as an outsider PIPE...",
+            "VideoId": "-gMZeql_3Uw",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " Waves, on the other hand, are disturbances spread out in space, like ripples covering the surface of a pond. We can clearly identify features of the wave pattern as a whole, most importantly, its wavelength, which is the distance between two neighboring peaks, or two neighboring valleys.",
+            "Title": "What is the Heisenberg...",
+            "VideoId": "TQKELOE9eY4",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " darting between tentacles without ever touching them. Nudibranchs, which are sea slugs covered in protective slime, can actually steal the jelly's defenses by eating the cnidocytes and transferring them to specialized sacks for later use, as weapons against their own predators.",
+            "Title": "How does a jellyfish...",
+            "VideoId": "Pu_ijC8HFRU",
+            "Controls": "start=200"
+        },
+        {
+            "Text": " that draw out the details of my fictional world. What rules are in place here? This covers everything from laws of gravity, or not, to the rules of society and the punishments for individuals who break them. What kind of government does this world have?",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " an eternal truth, or theorem, and a mere conjecture. You need proof. For example, let's say I have a big, enormous, infinite field. I want to cover it with equal pieces, without leaving any gaps. I could use squares, right?",
+            "Title": "Eduardo Sáenz de...",
+            "VideoId": "pGlZi2SwETc",
+            "Controls": "start=333"
+        },
+        {
+            "Text": " but over long distances it's the world champion. But all large herbivores have to be able to run fast. They run on tip-toe, so that they cover more ground with each stride.",
+            "Title": "Triumph of the...",
+            "VideoId": "RtnLNmB3ZNE",
+            "Controls": "start=42"
+        },
+        {
+            "Text": " masses of life and cover a surface comparable in size to Greece amazingly census of marine life estimates that all microbes in the global ocean collectively weigh the",
+            "Title": "Tiny New Sea Species...",
+            "VideoId": "K08AiYDVDZc",
+            "Controls": "start=98"
+        },
+        {
+            "Text": " by covering his body with a pheromone that the queen bee uses to control her hive he has them at his command they react by protecting him with their bodies",
+            "Title": "The Man Who Can Control...",
+            "VideoId": "7LSFOqnBbpk",
+            "Controls": "start=124"
+        },
+        {
+            "Text": " Mission accomplished. Now she must protect her kill. The boar is as big as she is It takes all her strength to drag it into cover.",
+            "Title": "Mother Lioness Hunts...",
+            "VideoId": "U9JXMNVRf-U",
+            "Controls": "start=124"
+        },
+        {
+            "Text": " Right in the cover. Deep, deep, deep, deep, deep in there.",
+            "Title": "For When you Need a Good...",
+            "VideoId": "NbLeGMHFAkE",
+            "Controls": "start=614"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-saunders.webp",
+            "Text": "There were a lot of areas we didn't cover that I'm hoping to cover if we do some specials. One is to see more of Patsy's home and her home life, which is just the saddest thing.",
+            "Title": "British Comedian",
+            "Name": "Jennifer Saunders"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/heather-cox-richardson.webp",
+            "Text": "Nixon clearly broke laws. He clearly believed he needed to stay in power to protect the country. But he recognized that he was breaking the law, and he tried to cover it up.",
+            "Title": "American Historian",
+            "Name": "Heather Cox Richardson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jenna-bush.webp",
+            "Text": "The world is such a big place, and there's so much that goes on, but a lot of the media really just cover the same thing over and over again.",
+            "Title": "American Celebrity",
+            "Name": "Jenna Bush"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nico-mirallegro.webp",
+            "Text": "I love film, and I think it's so important for kids to be educated about films and real life subjects that films cover.",
+            "Title": "English Actor",
+            "Name": "Nico Mirallegro"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dan-gable.webp",
+            "Text": "The easiest thing to do in the world is pull the covers up over your head and go back to sleep.",
+            "Title": "American Wrestler",
+            "Name": "Dan Gable"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kaley-cuoco.webp",
+            "Text": "A 'Cosmo' cover has been my dream my entire life. I cried when I found out.",
+            "Title": "American Actress",
+            "Name": "Kaley Cuoco"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/martin-gore.webp",
+            "Text": "Record covers helped me discover a lot of music that I wasn't aware of.",
+            "Title": "English Musician",
+            "Name": "Martin Gore"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-j-cale.webp",
+            "Text": "I rarely have any contact with the artists who cover my songs.",
+            "Title": "American Musician",
+            "Name": "J. J. Cale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/janice-dickinson.webp",
+            "Text": "I've been on the cover of every magazine in the world.",
+            "Title": "American Model",
+            "Name": "Janice Dickinson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ed-dwight.webp",
+            "Text": "I wanted to be on the cover of Life magazine.",
+            "Title": "American Soldier",
+            "Name": "Ed Dwight"
+        }
+    ]
+}

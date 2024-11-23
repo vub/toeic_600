@@ -1,0 +1,301 @@
+{
+    "currentWord": {
+        "wordRoot": "adjacent",
+        "id": 4636,
+        "phonemic": "əˈdʒeɪsnt|əˈdʒeɪsnt\r",
+        "bigId": "bec036c8-d363-4a0f-b49a-16eedec94867",
+        "wordForms": [
+            "adjacent"
+        ]
+    },
+    "senses": [
+        {
+            "id": "bec036c8-d363-4a0f-b49a-16eedec94867",
+            "de": "Next to or near something",
+            "ty": "adjective",
+            "ex": "My house is adjacent to the supermarket.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bec036c8-d363-4a0f-b49a-16eedec94867.webp",
+            "Tips": [
+                {
+                    "title": "Physical Proximity",
+                    "description": "Use 'adjacent' to describe things side by side, touching or very close.",
+                    "example": "The pool is adjacent to the hotel.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/2TL5LMLUekbvL8Mo6CQD90ANA.webp"
+                },
+                {
+                    "title": "Not Direct Access",
+                    "description": "'Adjacent' implies closeness but not necessarily a direct entrance from one to another.",
+                    "example": "The parking lot is adjacent to the building, but you have to walk around to enter.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Bl4B9VpHyv1zdvHEsqzbuoAVZTg.webp"
+                }
+            ]
+        },
+        {
+            "id": "1e146d66-4615-40f9-b26b-ebe28722f94f",
+            "de": "Having a common point or border with something",
+            "ty": "adjective",
+            "ex": "The two states are adjacent to each other, they share the same border.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1e146d66-4615-40f9-b26b-ebe28722f94f.webp",
+            "Tips": [
+                {
+                    "title": "Common Boundary",
+                    "description": "'Adjacent' can also mean sharing a boundary or border, not just being close.",
+                    "example": "Canada and the United States have adjacent national parks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Geographical Context",
+                    "description": "In geography, 'adjacent' often refers to areas of land or countries.",
+                    "example": "Alaska is adjacent to the Yukon Territory of Canada.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2ecd27f7-6a2b-4f6c-b806-dfe20f57e63a",
+            "de": "In mathematics, having a side or vertex in common with",
+            "do": "Mathematics",
+            "ty": "adjective",
+            "ex": "In a square, all four sides are adjacent to each other.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "adjacent angles",
+                " adjacent sides",
+                " adjacent vertices"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2ecd27f7-6a2b-4f6c-b806-dfe20f57e63a.webp",
+            "Tips": [
+                {
+                    "title": "Geometry Usage",
+                    "description": "In geometry, 'adjacent' refers to sides or angles that meet or connect.",
+                    "example": "Adjacent angles together make a straight line.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Shared Vertex",
+                    "description": "Shapes with a common corner point are 'adjacent' in mathematics.",
+                    "example": "Two triangles are adjacent if they share a common vertex.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9c5f9a7e-7a9b-4f9e-ab77-c59053774513",
+            "de": "In graphs theory, having a direct connection or path",
+            "do": "Computer Science, Mathematics",
+            "ty": "adjective",
+            "ex": "In a graph, two nodes are considered adjacent if there is a direct edge connecting them.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9c5f9a7e-7a9b-4f9e-ab77-c59053774513.webp",
+            "Tips": [
+                {
+                    "title": "Graph Theory",
+                    "description": "In computer science, 'adjacent' describes nodes with a direct link in a network.",
+                    "example": "If a computer is adjacent to a server, they can communicate directly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Direct Connections",
+                    "description": "'Adjacent' infers a one-step relationship in network or graph theory.",
+                    "example": "Data can be quickly transferred between adjacent devices.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Abut": {
+            "wordRoot": "Abut",
+            "wordDefinition": "Abut means to touch or be next to something, usually at the edge or boundary. For example, two houses may abut each other or a park may abut a residential area.\n\nThe main difference between abut and adjacent is that abut implies physical contact, while adjacent implies proximity without contact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dc71cc51-cc0b-4681-b5a1-757076876848.webp"
+        },
+        "Adjoin": {
+            "wordRoot": "Adjoin",
+            "wordDefinition": "Adjoin means to be next to or touching something.\n\nHowever, it is often used to describe two things that are connected or share a boundary. For example, two pieces of land that share a border are said to adjoin each other.\n\nThe main difference is that adjacent describes things that are next to each other, while adjoin describes things that are connected or share a boundary.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53ed15b1-ac38-4769-8947-c8ff0d2c9a9f.webp"
+        },
+        "Border": {
+            "wordRoot": "Border",
+            "wordDefinition": "Border means the edge or boundary of something. For example, the border between two countries or states is the line that separates them.\n\nAdjacent refers to things that are physically next to each other, while border refers to the line or boundary between two things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a891395-5e21-4e5e-8279-ced24111a9d7.webp"
+        },
+        "Close": {
+            "wordRoot": "Close",
+            "wordDefinition": "Adjacent means next to or adjoining something, while the word close means near or in proximity to something.\n\nOn the other hand, two buildings could be considered close if they are nearby each other, but not necessarily touching, such as in a neighborhood where houses are spaced out.\n\nAdjacent refers specifically to something that is right next to or touching another thing, while close refers more generally to something that is near or in proximity to another thing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/80d2c5c2-3879-4040-b1df-040c1f579e8b.webp"
+        },
+        "Connect": {
+            "wordRoot": "Connect",
+            "wordDefinition": "Connect means to join or link something together. For example, a bridge connects two sides of a river, or a person can connect two hoses together to increase the range of their watering.\n\nAdjacent describes something's position relative to another thing, while connect describes when two things are joined or linked together.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5610d91a-3dce-41ff-9a46-5aebc8cfd751.webp"
+        },
+        "Contiguous": {
+            "wordRoot": "Contiguous",
+            "wordDefinition": "The words adjacent and contiguous both mean close together, but they can have slightly different meanings depending on the context.\n\nContiguous means sharing a common boundary or touching each other, without any separation or gap. For example, a field and a forest can be contiguous, meaning they share a common boundary without any space in between.\n\nAdjacent is applicable when there is a clear separation or boundary between two things that are close together, while contiguous is applicable when two things share a common boundary or touch each other without any separation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a4f8cce6-be06-4ce9-a0fa-539b075d7289.webp"
+        },
+        "Neighbouring": {
+            "wordRoot": "Neighbouring",
+            "wordDefinition": "The words adjacent and neighbouring both describe something that is close to another thing, but there is a slight difference in their use.\n\nNeighbouring, however, can describe things that are near each other, but not necessarily directly next to each other.\n\nFor example, your house may have neighbouring houses on either side, but there may be a few meters of space between them.\n\nAdjacent means things that are directly next to each other, while neighbouring means things that are close by but not necessarily touching.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b5a8fc0d-e99d-48a2-a72a-bcddde2684ed.webp"
+        },
+        "Proximate": {
+            "wordRoot": "Proximate",
+            "wordDefinition": "Proximate means things that are near or close to each other in proximity, whether or not they are physically touching.\n\nFor example, two houses that are across the street from each other could be described as proximate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c727f137-f74d-4424-8480-a5f6064ab6be.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " scarring continues to be a major clinical issue for doctors around the world. And even though researchers have made significant strides in understanding the healing process, many fundamental mysteries remain unresolved. For instance, do fibroblast cells arrive from the blood vessels or from skin tissue adjacent to the wound?",
+            "Title": "How a wound heals itself...",
+            "VideoId": "TLVwELDMDWs",
+            "Controls": "start=189"
+        },
+        {
+            "Text": " even adjacent reefs, helping guide them toward their preferred adult habitats. Many will head for far-flung locales miles away from their birth place. But some will use smell and other sensory cues to navigate back to the reefs where they were born, even if they remain in the larval stage for months.",
+            "Title": "The secret lives of baby...",
+            "VideoId": "iCM6CawGBRk",
+            "Controls": "start=148"
+        },
+        {
+            "Text": " So, every brain region is wired to every other region, and these are trimmed down to create the characteristic modular architecture of the adult brain. So, if there's a gene causing this trimming and if that gene mutates, then you get deficient trimming between adjacent brain areas.",
+            "Title": "3 clues to understanding...",
+            "VideoId": "Rl2LwnaUA-k",
+            "Controls": "start=1206"
+        },
+        {
+            "Text": " and an adjacent area called the lateral occipital complex, that is especially attuned to processing objects. In addition, attractive faces activate parts of our reward and pleasure centers in the front and deep in the brain, and these include areas that have complicated names,",
+            "Title": "How your brain decides...",
+            "VideoId": "Wgt8QUHQjw8",
+            "Controls": "start=571"
+        },
+        {
+            "Text": " fashion in fact what happens is the neurotransmitters spill out in three dimensions laterally vertically up and down in the spinal cord and they start interacting with other adjacent cells these cells called glial cells where once thought to be unimportant",
+            "Title": "The mystery of chronic...",
+            "VideoId": "CZ0gIiwjk_0",
+            "Controls": "start=271"
+        },
+        {
+            "Text": " were not adjacent, then injuring the area connecting them might result in a special type of language loss, now known as receptive aphasia. Wernicke's connectionist model helped explain disorders that didn't result from the dysfunction of just one area.",
+            "Title": "The great brain debate -...",
+            "VideoId": "pv6QHxkBFzY",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " plus neither side completely surrounds the other, peace will prevail. Anyone can move to a horizontally or vertically adjacent camp, but never diagonally. The problem is, they’re currently arranged like this.",
+            "Title": "Can you solve the Trojan...",
+            "VideoId": "MJ5CRZFSlAU",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " I also used museum two samples in adjacent I joined some Paulo state police in raids to get as many blood samples as I could from traffic and animals which are animals which were seized from traffickers then",
+            "Title": "Using genetic data to...",
+            "VideoId": "lkQvMo9p_T8",
+            "Controls": "start=271"
+        },
+        {
+            "Text": " in the world and there's a hope to record the shamans knowledge before the forest disappears the journey begins in paraguay's isolated badhak au Forest Nature Reserve and the adjacent",
+            "Title": "Rain Forest Shaman PIPE...",
+            "VideoId": "RbxT2-jAQzE",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " they're spaced out onto adjacent tables",
+            "Title": "Coral Gardening PIPE South...",
+            "VideoId": "0UlnRnHWFqU",
+            "Controls": "start=153"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mellody-hobson.webp",
+            "Text": "When you feel house poor, you don't buy anything. Housing immediately impacts the job numbers because there are so many housing-related jobs within the industry, and in adjacent industries.",
+            "Title": "American Businessman",
+            "Name": "Mellody Hobson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andy-jassy.webp",
+            "Text": "A lot of companies really will only pursue businesses that are adjacent or look like an extension of their current business - which by the way is a completely rational strategy.",
+            "Title": "American Businessman",
+            "Name": "Andy Jassy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gavin-newsom.webp",
+            "Text": "We can build new housing while preserving the quality and character of adjacent residential districts and ensuring infill development strengthens the surrounding neighborhood.",
+            "Title": "American Politician",
+            "Name": "Gavin Newsom"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stefan-hell.webp",
+            "Text": "Eventually I realised there must be a way by playing with the molecules; trying to turn the molecules on and off allows you to see adjacent things you couldn't see before.",
+            "Title": "Romanian Physicist",
+            "Name": "Stefan Hell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julian-treasure.webp",
+            "Text": "Noise is the number one problem in modern offices. A big part of addressing this issue is making sure unwanted sound from adjacent spaces doesn't intrude or interfere.",
+            "Title": "American",
+            "Name": "Julian Treasure"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shaquill-griffin.webp",
+            "Text": "We plan ahead so we know what's to come. By eighth grade, we knew we would never leave each other. We talk about having adjacent houses when we get older.",
+            "Title": "",
+            "Name": "Shaquill Griffin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-johnson.webp",
+            "Text": "If we didn't have genetic mutations, we wouldn't have us. You need error to open the door to the adjacent possible.",
+            "Title": "American Author",
+            "Name": "Steven Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rana-el-kaliouby.webp",
+            "Text": "Make sure you give credit to those technologies adjacent to your own - even if they are your competitors.",
+            "Title": "Egyptian Scientist",
+            "Name": "Rana el Kaliouby"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stewart-rahr.webp",
+            "Text": "I like getting massages regularly. So much so, that I built a massage room adjacent to my office.",
+            "Title": "American Businessman",
+            "Name": "Stewart Rahr"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeremy-strong.webp",
+            "Text": "Being an actor adjacent to the media industry, I pay attention to that landscape.",
+            "Title": "",
+            "Name": "Jeremy Strong"
+        }
+    ]
+}

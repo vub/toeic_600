@@ -1,0 +1,325 @@
+{
+    "currentWord": {
+        "wordRoot": "interaction",
+        "id": 8421,
+        "phonemic": "ˌɪntərˈækʃn|ˌɪntərˈækʃn\r",
+        "bigId": "b9c17123-4eb6-41d4-bfbd-0855cd47ddb0",
+        "wordForms": [
+            "interactions",
+            "interaction"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b9c17123-4eb6-41d4-bfbd-0855cd47ddb0",
+            "de": "When two or more things or people influence each other",
+            "ty": "noun",
+            "ex": "There's little interaction between the two colleagues.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "social interaction",
+                " direct interaction",
+                " meaningful interaction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b9c17123-4eb6-41d4-bfbd-0855cd47ddb0.webp",
+            "Tips": [
+                {
+                    "title": "Personal Influence",
+                    "description": "Focus on the personal aspect when people impact each other's thoughts or actions.",
+                    "example": "Their interaction changed his perspective on the topic.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ynXunYaaXldijZwdSQcqrY5nYA.webp"
+                },
+                {
+                    "title": "Subtle Effects",
+                    "description": "Consider the small but significant ways things or people can affect one another.",
+                    "example": "The subtle interaction between her calm demeanor and his anxiety was fascinating.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0lVcWPtU4KVbM9xgk9Py3IU870.webp"
+                },
+                {
+                    "title": "Reciprocal Action",
+                    "description": "Understand that interaction often implies a two-way or mutual influence.",
+                    "example": "The players' interaction on the field improved team performance.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/49HrB8lo3id2kTP5J0cy2g2NUBc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "97851d98-c156-4a4c-8059-b046f45e05cf",
+            "de": "The communication or direct involvement with someone or something",
+            "do": "General",
+            "ty": "noun",
+            "ex": "The museum encourages interaction between the displays and the audience.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "human interaction",
+                " customer interaction",
+                " user interaction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/97851d98-c156-4a4c-8059-b046f45e05cf.webp",
+            "Tips": [
+                {
+                    "title": "Cultural Dimensions",
+                    "description": "Be aware that the way people interact can be affected by cultural norms and expectations.",
+                    "example": "Their interaction was polite yet distant, reflective of their cultural backgrounds.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Inclusive Language",
+                    "description": "Note that interaction should be inclusive and acknowledge all participants.",
+                    "example": "Their group interaction included everyone's input and ideas.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e2750214-b0dd-4090-8da0-cbeec6ca9785",
+            "de": "Effect on each other, particularly for things or substances when combined or mixed",
+            "do": "Scientific",
+            "ty": "noun",
+            "ex": "The interaction of the drug with alcohol can be dangerous.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "interaction effect",
+                " interaction process",
+                " interaction mechanism"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e2750214-b0dd-4090-8da0-cbeec6ca9785.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Context",
+                    "description": "Recognize that in scientific contexts, interactions often refer to physical or chemical processes.",
+                    "example": "The scientists examined the interaction between the two compounds.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Quantifiable Effects",
+                    "description": "In scientific study, interactions are usually observed, measured, and quantified.",
+                    "example": "Research focuses on the quantifiable interaction among variables.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "65d4f10c-eb9c-450c-9284-531a0ce27888",
+            "de": "The transmission of data between a user and a computer system, especially through a user interface",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The design of the application allows for easy interaction.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "interaction design",
+                " interaction flow",
+                " interaction model"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/65d4f10c-eb9c-450c-9284-531a0ce27888.webp",
+            "Tips": [
+                {
+                    "title": "User Experience",
+                    "description": "In computing, interaction often relates to how user-friendly and efficient a digital interface is.",
+                    "example": "He admired the smooth interaction within the new app.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Feedback Loop",
+                    "description": "Interaction in computing may involve an exchange where the system responds to user actions.",
+                    "example": "The game's interaction provided real-time feedback to players.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Association": {
+            "wordRoot": "Association",
+            "wordDefinition": "Association refers to the relationship between two or more things, where they may be linked in some way but not necessarily interacting with each other directly.\n\nFor example, there may be an association between smoking and lung cancer, without any direct interaction between the two.\n\nIn simpler terms, association is like a general connection between things, while interaction involves direct engagement or communication between those things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c54148ba-af1d-467e-ae47-181c288af7f7.webp"
+        },
+        "Collaborate": {
+            "wordRoot": "Collaborate",
+            "wordDefinition": "Collaborate means to work together with others to achieve a common goal, while interaction means communicating or working with someone else, even if the goal isn't necessarily the same.\n\nCollaboration implies a shared objective or outcome that all parties are working towards, while interaction can be more casual or spontaneous.\n\nFor example, students collaborating on a group project are working together towards a specific grade or assignment. On the other hand, students interacting with each other during class discussion might not be working towards a specific goal, but are still engaging with each other in a learning environment.\n\nIn summary, collaboration is more intentional and goal-oriented, while interaction is a broader term that can describe any kind of communication or engagement with others, even if the goal isn't as focused.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e67fffdb-9b97-44f1-bd6e-c2f49a82213b.webp"
+        },
+        "Communicate": {
+            "wordRoot": "Communicate",
+            "wordDefinition": "Communication is the act of expressing thoughts, ideas or information to someone else through words, gestures, writing, or other means.\n\nIn simpler words, communication is the way we convey a message. It's mostly one-way.\n\nCommunication is applicable when we want to convey a message or information to someone else, for example, in writing an email, giving a speech or presentation, or talking on the phone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/317f2fe9-c72e-4dc1-a989-f113602e64c9.webp"
+        },
+        "Connection": {
+            "wordRoot": "Connection",
+            "wordDefinition": "Connection refers to the state of being linked or joined together, often in a physical or emotional sense.\n\nIt describes the bond or relationship between people, ideas, or things. For example, you might say that you have a connection with your best friend because you share similar interests and values.\n\nConnection describes the relationship between two or more things, while interaction describes the behavior or communication between them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14ffe5ed-b0c3-4d57-9700-40b30db152c0.webp"
+        },
+        "Contact": {
+            "wordRoot": "Contact",
+            "wordDefinition": "Contact refers to when two things touch or communicate with each other. For example, if you call someone on the phone, you have made contact with them.\n\nInteraction refers to when two things have a relationship or impact on each other. For example, if you have a conversation with someone on the phone, you are not only making contact with them but also interacting with them.\n\nContact refers to a physical or verbal connection, while interaction refers to a relationship or effect on each other.\n\nBoth words can be used in social situations, but contact is more limited to physical touch or communication, while interaction encompasses a wider range of relationships or exchanges.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/65cad936-8831-4f78-a99e-6653bdb39a75.webp"
+        },
+        "Engagement": {
+            "wordRoot": "Engagement",
+            "wordDefinition": "Engagement refers to the level of commitment someone has towards a particular activity or event. It is a measure of how actively involved someone is with the said activity, whether mentally or emotionally.\n\nEngagement can be applicable to anything from work to school to social life.\n\nEngagement measures the level of involvement someone has with an activity, while interaction describes the act of communicating and exchanging information with others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ead6110-798f-4128-8600-606a35199704.webp"
+        },
+        "Intercommunication": {
+            "wordRoot": "Intercommunication",
+            "wordDefinition": "Intercommunication refers specifically to communication between individuals or different groups. This often involves exchanging information through speech or writing, but can also involve other forms of communication such as body language.\n\nFor instance, when a manager communicates with their employees, they are engaging in intercommunication.\n\nInteraction is a broader term that can involve any type of mutual exchange or action, while intercommunication specifically refers to communication between individuals or groups.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24460c28-c8f5-4a9a-99fe-454965106299.webp"
+        },
+        "Involvement": {
+            "wordRoot": "Involvement",
+            "wordDefinition": "Involvement refers to being a part of something or participating actively in it.\n\nInteraction is more focused on communication while involvement is more focused on active participation. Both words are applicable in different contexts depending on the situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4fccb719-5a7b-46bc-80bb-dbd67ecefcf6.webp"
+        },
+        "Participate": {
+            "wordRoot": "Participate",
+            "wordDefinition": "Participate refers to the act of taking part or engaging in a particular activity or event. Participation involves active involvement in an activity, which might involve interaction with others or not.\n\nFor example, participating in a sport involves actively engaging in the game, following the rules and playing to win.\n\nInteraction involves communication and exchange of ideas between two or more parties, while participation involves actively engaging or taking part in an activity or event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/599ea823-70c4-41a9-89b6-bc70d8f67d68.webp"
+        },
+        "Relationship": {
+            "wordRoot": "Relationship",
+            "wordDefinition": "Interaction refers to the act of communicating or doing something together, while relationship refers to the way in which two or more people or things are connected or their feelings towards one another.\n\nHowever, two students who have become close friends have a relationship beyond simple interactions, as they have a emotional connection that extends beyond academic pursuits.\n\nThe word interaction describes the action of communication or an event in which people or things act upon each other, while the word relationship describes the more complex and emotional connections between people or things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf882de7-8175-4922-b9ec-054d65021b69.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " explaining gravity. Together with quantum mechanics, the geometry of this shape could describe everything about how the universe works at the tiniest scales. The pattern of this shape living in eight-dimensional charge space is exquisitely beautiful, and it summarizes thousands of possible interactions between these elementary particles,",
+            "Title": "A theory of everything PIPE...",
+            "VideoId": "y-Gk_Ddhr0M",
+            "Controls": "start=783"
+        },
+        {
+            "Text": " How incredible is that? I mean, it's just mind blowing. And of course, the octopus is, miles, more intelligent than those fish. So essentially what it's doing is putting these fish to work to help it find food. And that's often indicative of intelligence. It's these social interactions which can be used to harness.",
+            "Title": "Float Like a Butterfly…...",
+            "VideoId": "9nC2W4SgizA",
+            "Controls": "start=414"
+        },
+        {
+            "Text": " that didn't violate the first law of thermodynamics, it still wouldn't work in the real world because of the second law. The second law of thermodynamics tells us that energy tends to spread out through processes like friction. Any real machine would have moving parts or interactions with air or liquid molecules",
+            "Title": "Why don't perpetual...",
+            "VideoId": "A-QgGXbDyR0",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " than known stars in the universe. Now, all of these molecules are in constant motion, moving, vibrating, and rotating. What prevents almost all of those molecules from just flying out of the glass are the attractive interactions between molecules. The strength of the interactions",
+            "Title": "Why don't oil and water...",
+            "VideoId": "h5yIJXdItgo",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " Neuroscience suggests that our bodies, along with their physical senses, are deeply integrated with the activity in our brains to form what we call consciousness. From the day we're born, our mental development is formed through our body's interaction with the external world.",
+            "Title": "Are you a body with a...",
+            "VideoId": "ILDy6kYU-xQ",
+            "Controls": "start=178"
+        },
+        {
+            "Text": " Fiction engages the senses, helps us create vivid mental simulacra of the experiences the characters are having. Stage and screen engage some of our senses directly. We see and hear the interactions of the characters and the setting. But with prose fiction,",
+            "Title": "How to write descriptivel...",
+            "VideoId": "RSoRzTtwgP4",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " Because of these interactions, knowing both parents' blood types lets us predict the relative probability of their children's blood types. Why do blood types matter? For blood transfusions, finding the correct one is a matter of life and death.",
+            "Title": "Why do blood types...",
+            "VideoId": "xfZhb6lmxjk",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " While it does seem that entanglement between two particles helps transfer a qubit instantaneously across the space between them, there's a catch. This interaction must begin locally. The two electrons must be entangled in close proximity",
+            "Title": "Will we ever be able to...",
+            "VideoId": "JMdO5KyjwAw",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " this brings me to what I've been doing for the last ten years one project is called psycho geographies and I like to think of it as a catalogue of humanity as a composite of infinite interactions",
+            "Title": "Why I think inside the...",
+            "VideoId": "C4JGP44jAZk",
+            "Controls": "start=340"
+        },
+        {
+            "Text": " matter, and the world as we know it together. Electromagnetism is a branch of physics that studies the interactions between electric and magnetic fields. All matter has an electric charge",
+            "Title": "Electromagnetism 101 PIPE...",
+            "VideoId": "Elv3WpL32UE",
+            "Controls": "start=11"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "We have a very open culture at the company, where we foster a lot of interaction between not just me and people but between everyone else. It's an open floor plan. People have these desks where no one really has an office. I mean, I have a room where I meet with people. But it has all glass, so everyone can see into it and see what's going on.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/douglas-adams.webp",
+            "Text": "Computers are still technology because we are still wrestling with it: it's still being invented; we're still trying to work out how it works. There's a world of game interaction to come that you or I wouldn't recognise. It's time for the machines to disappear. The computer's got to disappear into all of the things we use.",
+            "Title": "English Writer",
+            "Name": "Douglas Adams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ze-frank.webp",
+            "Text": "Most of us yearn for really intimate, healthy, in-person relationships. People have a deep desire to be understood, to be told that it's OK, that you're not isolated and broken, that this is part of the human challenge, and that there is hope. The capacity for online interactions to do that is powerful.",
+            "Title": "American Comedian",
+            "Name": "Ze Frank"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dakota-fanning.webp",
+            "Text": "I think sometimes people can get lost in the bigger special effects, science fiction, robot stuff, and those are cool and fun to watch, too, but I think it's so important to sometimes step back and watch something that's about life and human interaction.",
+            "Title": "American Actress",
+            "Name": "Dakota Fanning"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alicia-keys.webp",
+            "Text": "I love children and I love family and I love that interaction. Because I had a really close relationship with my mother, I understand that deep powerful love, and it's so beautiful. To be a mother to a child is the most brilliant gift; it's gorgeous.",
+            "Title": "American Musician",
+            "Name": "Alicia Keys"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fred-saberhagen.webp",
+            "Text": "There are interactions with characters within the game which I think are pretty neatly done considering the limitations that you have to work with. I mean, a computer can't really generate a character that talks back and forth with you successfully.",
+            "Title": "American Author",
+            "Name": "Fred Saberhagen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eric-betzig.webp",
+            "Text": "It's nice to be able to look at one protein, but life is driven by the interactions between proteins, so it's really essential to be able to see multiple proteins at a time to understand these interactions.",
+            "Title": "American Physicist",
+            "Name": "Eric Betzig"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/faith-hill.webp",
+            "Text": "It's okay to take time for yourself. We give so much of ourselves to others and we need to be fueled both physically and mentally. If we are in balance, it helps us in all our interactions.",
+            "Title": "American Musician",
+            "Name": "Faith Hill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/keanu-reeves.webp",
+            "Text": "I do think there must be some kind of interaction between your living life and the life that goes on from here.",
+            "Title": "Canadian Actor",
+            "Name": "Keanu Reeves"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/heidi-hammel.webp",
+            "Text": "Ultimately, life is a chemical interaction.",
+            "Title": "American Scientist",
+            "Name": "Heidi Hammel"
+        }
+    ]
+}

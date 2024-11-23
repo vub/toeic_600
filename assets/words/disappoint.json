@@ -1,0 +1,225 @@
+{
+    "currentWord": {
+        "wordRoot": "disappoint",
+        "id": 3891,
+        "phonemic": "ˌdɪsəˈpɔɪnt|ˌdɪsəˈpɔɪnt\r",
+        "bigId": "0c7b5ab9-6803-4bd0-956c-b0d2cd1b4239",
+        "wordForms": [
+            "disappoints",
+            "disappointing",
+            "disappointed",
+            "disappointment",
+            "disappoint"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0c7b5ab9-6803-4bd0-956c-b0d2cd1b4239",
+            "de": "To make sad or unsatisfied by not being as good as expected or desired",
+            "ty": "verb",
+            "ex": "Her performance in the match disappointed her coach.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "disappoint someone",
+                " disappoint in performance",
+                " disappoint expectations"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0c7b5ab9-6803-4bd0-956c-b0d2cd1b4239.webp",
+            "Tips": [
+                {
+                    "title": "Anticipation Matters",
+                    "description": "The sense of failure is stronger if high expectations are not met.",
+                    "example": "He disappointed his fans by cancelling the highly anticipated concert.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PlI6GFiTdRFNbSLywxXo3SE.webp"
+                },
+                {
+                    "title": "Subjectivity",
+                    "description": "What disappoints someone may not disappoint another; it's often a personal feeling.",
+                    "example": "The movie disappointed me, but my sister loved it.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/wyCh4xGWmWGiXt3lSqS3Jus3smM.webp"
+                },
+                {
+                    "title": "Not Always Serious",
+                    "description": "'Disappoint' can be used in light situations and doesn't always mean deep sadness.",
+                    "example": "I was disappointed by the lack of chocolate chips in my cookie.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/TYz99Lw8MOXCBMcdeD8IADU0AA.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Defeat": {
+            "wordRoot": "Defeat",
+            "wordDefinition": "Defeat means to overcome or conquer someone or something in a competition or battle. It is applicable in situations where there is a clear winner and loser, like in a sports match or a war.\n\nTo summarize, defeat refers to winning or losing in a competition, while disappoint refers to failing to meet expectations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/66b93863-ffb4-4f21-9140-af2019a64004.webp"
+        },
+        "Depress": {
+            "wordRoot": "Depress",
+            "wordDefinition": "Depress refers to a feeling of sadness, hopelessness, and a loss of motivation or energy. This feeling can be long-term or short-term and can be caused by a variety of factors such as a difficult situation, a loss, or a chemical imbalance in the brain.\n\nThis can be due to a failure or a letdown, but it typically does not have the same level of severity or long-term impact as depression.\n\nTo put it in a simple way, depression is a feeling of sadness and hopelessness which can last for a long time, while disappointment is a feeling of sadness or dissatisfaction in response to a specific event or situation that did not meet one's expectations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9cd03881-3bc9-46c8-8f18-ea6f9eeeebec.webp"
+        },
+        "Dismay": {
+            "wordRoot": "Dismay",
+            "wordDefinition": "Dismay means to cause someone to feel distress or fear. For example, if you found out that your house was broken into, you would feel dismayed.\n\nDisappoint is used when something doesn't live up to your expectations and dismay is used when something causes you to feel distress or fear.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f06abe01-5889-4c06-970a-96f7acd3dd54.webp"
+        },
+        "Displease": {
+            "wordRoot": "Displease",
+            "wordDefinition": "Displease means to make someone unhappy or unsatisfied. This means that the person may not necessarily have expected something better, but they are not happy with what they received.\n\nDisappoint is used when expectations are unmet, and displease is used when something fails to make someone happy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/59c57a44-aa2d-40e2-8697-7780adce21b2.webp"
+        },
+        "Fail": {
+            "wordRoot": "Fail",
+            "wordDefinition": "Fail means to not succeed in achieving a goal or objective. It is applicable in situations where there is a clear and defined outcome that was not achieved, like failing an exam or losing a competition.\n\nDisappoint is a subjective feeling of unhappiness or dissatisfaction while fail is an objective result of not achieving a goal or objective.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6f9337a7-4780-4c69-b867-f169606c46ab.webp"
+        },
+        "Frustrate": {
+            "wordRoot": "Frustrate",
+            "wordDefinition": "Frustrate means to feel annoyed or irritated when something is not working the way you want it to. For example, if you were trying to assemble a puzzle but kept getting stuck, you would feel frustrated.\n\nThe difference between the two words is that disappoint is more related to emotions and expectations, while frustrate is more related to obstacles and challenges.\n\nBoth words describe feelings of unhappiness, but disappoint has more to do with disappointment in a person or situation, while frustrate has more to do with the annoyance caused by a problem or obstacle.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b1a1eb07-6c7b-458a-9b6a-b2b6558df100.webp"
+        },
+        "Hinder": {
+            "wordRoot": "Hinder",
+            "wordDefinition": "Hinder means to create an obstacle or barrier that stops someone or something from making progress or achieving a goal.\n\nFor example, if you were trying to write an essay but your noisy neighbors kept talking loudly outside your window, they would be hindering your ability to concentrate.\n\nDisappoint relates to emotions, while hinder relates to obstacles or barriers that prevent progress.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bbf77ffd-2b7d-4d4b-af6b-3ef868702502.webp"
+        },
+        "Let down": {
+            "wordRoot": "Let down",
+            "wordDefinition": "The phrase let down means to feel disappointed or betrayed by someone who didn't do what they said they would do. For example, if your friend promised to help you with a project but didn't show up, you would feel let down.\n\nBoth words imply a feeling of sadness or upset, but disappoint is more about events or circumstances not meeting expectations, while let down is more about people not living up to their promises or obligations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/54ba94a5-bd21-4bbc-8773-60a735b8d4be.webp"
+        },
+        "Sadden": {
+            "wordRoot": "Sadden",
+            "wordDefinition": "Sadden means to feel sad or unhappy, often because of something upsetting or tragic that has happened. For example, if you heard about a friend's pet passing away, you might be saddened by the news.\n\nDisappoint is used when something doesn't live up to expectation whereas sadden is used when something makes one feel sad.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2124b9b0-41f3-468d-b6db-7a85a151624d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And so I compared what I got to what I expected, and what I got was disappointing in comparison to what I expected. Adding options to people's lives can't help but increase the expectations people have about how good those options will be. And what that's going to produce is less satisfaction with results,",
+            "Title": "The paradox of choice PIPE...",
+            "VideoId": "VO6XEQIsCoM",
+            "Controls": "start=842"
+        },
+        {
+            "Text": " at the present time who feel keenly disappointed. They've come thousands of miles on a perilous trip, risked life, health and property, spent months of the most arduous labor a man can perform and at length with expectations raised to the highest pitch have reached the coveted goal only to discover",
+            "Title": "Jeff Bezos: The...",
+            "VideoId": "vMKNUylmanQ",
+            "Controls": "start=415"
+        },
+        {
+            "Text": " and yes, sometimes sadness and disappointment. There might not be a word in the dictionary that more of us are connected to than love. Yet, given its central importance in our lives, isn't it interesting that we're never explicitly taught how to love? We build friendships,",
+            "Title": "The difference between...",
+            "VideoId": "ON4iy8hq2hM",
+            "Controls": "start=26"
+        },
+        {
+            "Text": " you're going to be very disappointed in the long-term impact of your efforts. So you would think that the disintegration of basic law enforcement in the developing world would be a huge priority for the global fight against poverty. But it's not.",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=820"
+        },
+        {
+            "Text": " official face transplant list every day I you kind of wake up you think this could be the day and and then you get through tons where there's not a call or anything and you kind of get a little discouraged and disappointed but",
+            "Title": "Watch One Family's...",
+            "VideoId": "fFua9-Rc4pw",
+            "Controls": "start=328"
+        },
+        {
+            "Text": " no human has ever gotten a single one of these exotic deep subsurface microbes to grow in a petri dish. And it's not for lack of trying. That may sound disappointing, but I actually find it exhilarating,",
+            "Title": "This deep-sea mystery is...",
+            "VideoId": "PbgB2TaYhio",
+            "Controls": "start=413"
+        },
+        {
+            "Text": " The three companions prepared to leave, disappointed and humbled. But as the king escorted them out, he revealed that nothing in the castle had been what it seemed.",
+            "Title": "The myth of Thor's...",
+            "VideoId": "e6XeP9gQPmg",
+            "Controls": "start=213"
+        },
+        {
+            "Text": " could fund more wardens like mr. could the team could find unprotect more crucial nests after this disappointment mr. another crocodiles been seen in the area this",
+            "Title": "Baby Siamese Crocodiles...",
+            "VideoId": "CUQMkS8Et2s",
+            "Controls": "start=99"
+        },
+        {
+            "Text": " despite any kind of accomplishment that we might have in life we will both still disappoint our parents because they wanted us to be engineers mostly you",
+            "Title": "TEDWomen 2015 in review...",
+            "VideoId": "BvsSf3Uk0j8",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " and I'm never disappointed. You do the same thing. Go out, talk to people, listen to people, and, most importantly, be prepared to be amazed. Thanks.",
+            "Title": "Celeste Headlee: 10 ways...",
+            "VideoId": "R1vskiVDwl4",
+            "Controls": "start=684"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mary-j-blige.webp",
+            "Text": "I've done well, I've been disappointed, and I think it all goes back to you. Of course the labels are going to be the labels. It's the music business. You are a business. That's what they do. So you've got to protect yourself.",
+            "Title": "American Musician",
+            "Name": "Mary J. Blige"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mel-gibson.webp",
+            "Text": "Life is life, and one has experiences that are painful and some that are very pleasant, and one has reward and sacrifice and more reward and disappointment and joy and happiness, and it's always going to be the same.",
+            "Title": "Actor",
+            "Name": "Mel Gibson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-wadsworth-longfellow.webp",
+            "Text": "It is foolish to pretend that one is fully recovered from a disappointed passion. Such wounds always leave a scar.",
+            "Title": "American Poet",
+            "Name": "Henry Wadsworth Longfellow"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alain-ducasse.webp",
+            "Text": "I don't like being disappointed by somebody I trust. Fortunately, it rarely happens.",
+            "Title": "French Chef",
+            "Name": "Alain Ducasse"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elon-musk.webp",
+            "Text": "If humanity doesn't land on Mars in my lifetime, I would be very disappointed.",
+            "Title": "South African Businessman",
+            "Name": "Elon Musk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/selena-gomez.webp",
+            "Text": "My fans are so important to me, and I would never want to disappoint them.",
+            "Title": "American Actress",
+            "Name": "Selena Gomez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/martin-luther-king-jr.webp",
+            "Text": "There can be no deep disappointment where there is not deep love.",
+            "Title": "American Leader",
+            "Name": "Martin Luther King, Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ryan-reynolds.webp",
+            "Text": "I feared disappointing my father more than anything in the world.",
+            "Title": "Canadian Actor",
+            "Name": "Ryan Reynolds"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kitty-kelley.webp",
+            "Text": "Presidents often disappoint, but first ladies rarely do.",
+            "Title": "American Journalist",
+            "Name": "Kitty Kelley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nafessa-williams.webp",
+            "Text": "Disappointment builds character and strength.",
+            "Title": "American Actress",
+            "Name": "Nafessa Williams"
+        }
+    ]
+}

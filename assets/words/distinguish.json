@@ -1,0 +1,315 @@
+{
+    "currentWord": {
+        "wordRoot": "distinguish",
+        "id": 1137,
+        "phonemic": "dɪˈstɪŋɡwɪʃ|dɪˈstɪŋɡwɪʃ\r",
+        "bigId": "bae6d370-8693-4ea5-a478-8b87618e053a",
+        "wordForms": [
+            "distinguishes",
+            "distinguishing",
+            "distinguished",
+            "undistinguished",
+            "distinguishable",
+            "distinguish"
+        ]
+    },
+    "senses": [
+        {
+            "id": "bae6d370-8693-4ea5-a478-8b87618e053a",
+            "de": "Notice or understand the difference between two things or people",
+            "ty": "verb",
+            "ex": "She could distinguish the difference between the two types of wine.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "distinguish between",
+                " distinguish from",
+                " distinguish the difference"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bae6d370-8693-4ea5-a478-8b87618e053a.webp",
+            "Tips": [
+                {
+                    "title": "Not Always Visual",
+                    "description": "Distinguishing can involve senses other than sight, like taste or hearing.",
+                    "example": "He could distinguish the song by its unique guitar riff.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bfnuvUaGWxmYLnFo0z9Soe5AY.webp"
+                },
+                {
+                    "title": "Subtle Differences",
+                    "description": "Sometimes the differences you distinguish are not obvious, but very slight.",
+                    "example": "An expert could distinguish the painting as a forgery by the brushstrokes.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fR9Siz27uCazhGrp8hRSAzw8H44.webp"
+                },
+                {
+                    "title": "Context Clues",
+                    "description": "Context, like specific details or background info, helps to distinguish meaning.",
+                    "example": "With the context of the story, she could distinguish the author's intent.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/S3igatenkFDTvUkxHGvpWRBHKk.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ce587ed0-b74d-4387-863c-0e52020cb33f",
+            "de": "Making someone or something special, noticeable or different",
+            "ty": "verb",
+            "ex": "She distinguished herself by her outstanding performance in the exams.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "distinguish oneself",
+                " distinguish in",
+                " distinguish by"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ce587ed0-b74d-4387-863c-0e52020cb33f.webp",
+            "Tips": [
+                {
+                    "title": "Personal Achievements",
+                    "description": "People often distinguish themselves through talent or hard work, not luck.",
+                    "example": "He distinguished himself from his peers with his dedication.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Positive Connotation",
+                    "description": "Distinguishing usually suggests something positive or admirable.",
+                    "example": "Her innovative approach distinguished her project.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "20a8c8ef-8bf5-4fd9-8262-d29ca0146534",
+            "de": "Recognize or treat as different",
+            "ty": "verb",
+            "ex": "It was hard to distinguish one twin from the other.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "distinguish from",
+                " distinguish one from the other",
+                " distinguish a from b"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/20a8c8ef-8bf5-4fd9-8262-d29ca0146534.webp",
+            "Tips": [
+                {
+                    "title": "Equal Treatment",
+                    "description": "When distinguishing, it implies fairness by recognizing differences.",
+                    "example": "The judge distinguished between the two cases fairly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Clarity in Comparison",
+                    "description": "Distinguishing helps clarify by comparing and contrasting features.",
+                    "example": "She distinguished her response to make her point clear.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f142240a-08a1-4fba-bad1-329fdfed41d6",
+            "de": "See, hear, or understand something with difficulty",
+            "do": "Colloquial",
+            "ty": "verb",
+            "ex": "In the darkness, I was barely able to distinguish the shape of a man.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "barely distinguish",
+                " distinguish in the darkness",
+                " distinguish faintly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f142240a-08a1-4fba-bad1-329fdfed41d6.webp",
+            "Tips": [
+                {
+                    "title": "Effort Needed",
+                    "description": "Sometimes you need to try hard to distinguish something, like in poor conditions.",
+                    "example": "In the foggy weather, he could barely distinguish the path.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Certain",
+                    "description": "Distinguishing can involve uncertainty; you're not always 100% sure.",
+                    "example": "From the distance, she could only just distinguish the flag's color.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Categorize": {
+            "wordRoot": "Categorize",
+            "wordDefinition": "Categorize means to group things or objects based on similarities or characteristics. For example, you can categorize books as fiction or non-fiction, or you can categorize animals as mammals, reptiles, or birds.\n\nCategorize is applicable when you want to group objects based on similarities or characteristics, while distinguish is applicable when you want to recognize or identify the differences between two or more objects.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a4147269-8453-49a1-ad62-77e2d299aa4f.webp"
+        },
+        "Classify": {
+            "wordRoot": "Classify",
+            "wordDefinition": "Classify means to put things into groups or categories based on their similarities or properties. For example, you can classify books based on their genres or classify animals based on their habitats.\n\nBoth words can be used in various contexts, but classify is more applicable when we want to organize or group things, while distinguish is more applicable when we want to recognize or identify differences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49e78b5b-0f9a-4557-be54-3e73d88df7ac.webp"
+        },
+        "Delineate": {
+            "wordRoot": "Delineate",
+            "wordDefinition": "Delineate means to describe or show something in detail, whereas the word distinguish means to recognize the differences between two or more things.\n\nFor example, if you were asked to delineate the features of a character in a book, you would describe their appearance, personality, and behavior in detail.\n\nHowever, the word delineate is used more when you need to describe or explain something in detail, while distinguish is used more when you need to compare or differentiate between two or more things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc464258-8c74-4ef7-aaca-24401bbe2295.webp"
+        },
+        "Differentiate": {
+            "wordRoot": "Differentiate",
+            "wordDefinition": "Differentiate means to recognize the differences between two or more things that may seem similar. For example, you can differentiate between a lemon and a lime by their color and taste.\n\nBoth words involve recognizing differences, but differentiate is used when two or more things need to be identified and separated based on their specific characteristics, while distinguish is used when an individual needs to be recognized based on their unique traits.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f1399742-6c9b-450a-894f-1eb44d8206e7.webp"
+        },
+        "Discriminate": {
+            "wordRoot": "Discriminate",
+            "wordDefinition": "Discriminate means to unfairly treat or judge someone based on things like race, gender, or religion.\n\nTo put it simply, discriminating is bad because it involves treating someone unfairly. Distinguishing is neutral and can be either good or bad depending on the situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74a5705c-9ccb-4a35-9f00-b4a692a9b4a2.webp"
+        },
+        "Identify": {
+            "wordRoot": "Identify",
+            "wordDefinition": "Identify means to recognize or name something or someone. For example, if you are able to identify a bird, you can name the species.\n\nIn simpler terms, distinguishing is about telling apart things that are similar, while identifying is about recognizing or naming something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d9232bce-3681-4269-a981-ea83ff23904c.webp"
+        },
+        "Recognize": {
+            "wordRoot": "Recognize",
+            "wordDefinition": "The main difference between distinguish and recognize is that distinguish means to notice differences or distinctions between things, while recognize means to identify something or someone as familiar or known.\n\nIf you see a friend across the street, you might immediately recognize them based on their appearance.\n\nDistinguish is often used when trying to separate things that are similar, while recognize is used when trying to identify something that is already known or familiar.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/782e53b6-e1b3-4bc2-bc0f-c2ef081f0db2.webp"
+        },
+        "Separate": {
+            "wordRoot": "Separate",
+            "wordDefinition": "Separate means to divide or split something into two or more distinct parts, or to keep something apart from something else.\n\nFor example, we might separate different types of recycling in order to properly dispose of them or we might separate ourselves from people or things that are causing us harm.\n\nDistinguish is used when we want to identify differences or unique qualities between two or more things, while separate is used when we want to divide or split something into distinct parts or keep something apart from something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3476e4d4-f1bd-49ed-93bd-3d0a9bb05d6b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " but I'm not challenging this just because I'm weird, the challenge actually has a very, very long and distinguished history. Here's the common-sense idea. There is you. You are the individuals you are, and you have this kind of core. Now in your life, what happens is that you, of course, accumulate different experiences and so forth.",
+            "Title": "Julian Baggini: Is there...",
+            "VideoId": "Q80MfH7xPPE",
+            "Controls": "start=122"
+        },
+        {
+            "Text": " by encoding important experiences into long-term memories. The ability to distinguish this importance makes elephant memory a complex and adaptable faculty beyond rote memorization. It's what allows elephants who survived a drought in their youth to recognize its warning signs in adulthood,",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=122"
+        },
+        {
+            "Text": " and right now, technology advances extremely rapidly -- that is the proximate cause, that's why we are currently so very productive. But I like to think back further to the ultimate cause. Look at these two highly distinguished We have Kanzi --",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " Conventional wisdom about diets, including government health recommendations, seems to change all the time. And yet, ads routinely come about claiming to have the answer about what we should eat. So how do we distinguish what's actually healthy",
+            "Title": "How to spot a fad diet -...",
+            "VideoId": "8V15Z-yyiVg",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " he rarely spends time with his family but his presence in the neighborhood keeps away young males looking for territory who might attack the cubs the male cubs are already becoming distinguishable from their sisters",
+            "Title": "Best Tiger Cub Moments...",
+            "VideoId": "qg35FMoOwb0",
+            "Controls": "start=840"
+        },
+        {
+            "Text": " and in her words, distinguish the carpenter from the iron worker, the artist from the mason or the chemist, by a simple inhale. Follow these steps and you too can change the way the world smells to you.",
+            "Title": "How to master your sense...",
+            "VideoId": "ynrbxy36erE",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " detecting both sound and smell. Odor, in particular, allows larvae to distinguish between different environments, even adjacent reefs, helping guide them toward their preferred adult habitats.",
+            "Title": "The secret lives of baby...",
+            "VideoId": "iCM6CawGBRk",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " gaslighting does not mean total detachment it means distinguishing between the world of the gas lighter and the real world so you can let people have their",
+            "Title": "How to deal with...",
+            "VideoId": "v4P2Qwh1QCU",
+            "Controls": "start=622"
+        },
+        {
+            "Text": " essential if sees to distinguish her prey in all this cutter because her prey doesn't stray Portia is a spider eating spider this raises a few problems her",
+            "Title": "Top 5 Animals Living In...",
+            "VideoId": "rfNiBFACjJ0",
+            "Controls": "start=831"
+        },
+        {
+            "Text": " opens up an opportunity to distinguish um to deepen",
+            "Title": "Reframing Black History...",
+            "VideoId": "eA84cIYbxOc",
+            "Controls": "start=285"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-zukav.webp",
+            "Text": "The first step is to distinguish the loving parts of your personality that are active from the frightened parts of your personality that are active - in other words, to learn to distinguish love from fear in you. The second step is to choose love, no matter what.",
+            "Title": "American Author",
+            "Name": "Gary Zukav"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-b-kellogg.webp",
+            "Text": "I further value this gift as it gave me an opportunity to accept this distinguished honor in a country so devoted to this cause and whose history marks a wonderful chapter in world development.",
+            "Title": "American Politician",
+            "Name": "Frank B. Kellogg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dr-dre.webp",
+            "Text": "You just have to find that thing that's special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.",
+            "Title": "American Musician",
+            "Name": "Dr. Dre"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ernest-hemingway.webp",
+            "Text": "Every man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.",
+            "Title": "American Novelist",
+            "Name": "Ernest Hemingway"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/diogenes.webp",
+            "Text": "Wise leaders generally have wise counselors because it takes a wise person themselves to distinguish them.",
+            "Title": "Greek Philosopher",
+            "Name": "Diogenes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emily-vancamp.webp",
+            "Text": "It's very important to be able to distinguish the actors from the characters they play.",
+            "Title": "Canadian Actress",
+            "Name": "Emily VanCamp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edward-dowden.webp",
+            "Text": "Sometimes a noble failure serves the world as faithfully as a distinguished success.",
+            "Title": "Irish Critic",
+            "Name": "Edward Dowden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edward-m-lerner.webp",
+            "Text": "The distinguishing characteristic of the techno-thriller is technical detail.",
+            "Title": "American Author",
+            "Name": "Edward M. Lerner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/confucius.webp",
+            "Text": "Without feelings of respect, what is there to distinguish men from beasts?",
+            "Title": "Chinese Philosopher",
+            "Name": "Confucius"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lucy-liu.webp",
+            "Text": "I try to distinguish my characters from each other.",
+            "Title": "American Actress",
+            "Name": "Lucy Liu"
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "currentWord": {
+        "wordRoot": "category",
+        "id": 10627,
+        "phonemic": "ˈkætəɡəri|ˈkætəɡɔːri\r",
+        "bigId": "70c91c7a-32b9-4256-af81-912baef0aa5c",
+        "wordForms": [
+            "categories",
+            "category"
+        ]
+    },
+    "senses": [
+        {
+            "id": "70c91c7a-32b9-4256-af81-912baef0aa5c",
+            "de": "A group of things or people that have common characteristics",
+            "ty": "noun",
+            "ex": "There are three categories of people in this company: employees, contractors, and interns",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "category of",
+                " fall into a category",
+                " belong to a category"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/70c91c7a-32b9-4256-af81-912baef0aa5c.webp",
+            "Tips": [
+                {
+                    "title": "Shared Traits",
+                    "description": "Think of 'category' as a box where you put things that share specific features.",
+                    "example": "Different breeds of dogs fall into the category of 'pets'.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bODtB5Mf7P8iuGUHer0S0i6pT5Y.webp"
+                },
+                {
+                    "title": "Broad and Specific",
+                    "description": "'Category' can refer to a broad group or a more specific subgroup.",
+                    "example": "In the category of beverages, tea is a more specific category.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/XYwBDOB90Bziknk7rugGqwqP3k.webp"
+                },
+                {
+                    "title": "Common Confusion",
+                    "description": "Don't confuse 'category' with 'example'. Categories are general; examples are specific items within them.",
+                    "example": "Fruit is a category; an apple is an example.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8wKwqdysbtum4rifnF0ts0XaNAY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "409843f6-2be3-4b12-862b-aaa84f57d699",
+            "de": "In philosophy, a basic characteristic or property that all entities or concepts have",
+            "do": "Philosophy",
+            "ty": "noun",
+            "ex": "In Aristotle's philosophy, there are ten categories of being",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "aristotelian categories",
+                " category of existence",
+                " category of substance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/409843f6-2be3-4b12-862b-aaa84f57d699.webp",
+            "Tips": [
+                {
+                    "title": "Philosophy Context",
+                    "description": "In philosophy, 'category' reflects fundamental aspects of existence, not just any common traits.",
+                    "example": "Aristotle's categories include substance, quantity, and relation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Deep Understanding",
+                    "description": "Philosophical categories are about deep concepts; they require abstract thinking.",
+                    "example": "Time is a philosophical category that has puzzled thinkers for centuries.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b18c9b2d-2fb7-408b-933c-d41afc779dc7",
+            "de": "In mathematics, especially in category theory, a collection of objects and morphisms",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "One of the foundational ideas of category theory is the notion of a category",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Technical",
+            "tp": "",
+            "cl": [
+                "category theory",
+                " category of sets ",
+                " morphisms in a category"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b18c9b2d-2fb7-408b-933c-d41afc779dc7.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical Structure",
+                    "description": "In math, 'category' refers to a structured collection with specific rules.",
+                    "example": "The category of numbers includes integers, fractions, and decimals.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Abstract Relations",
+                    "description": "Mathematical categories are abstract; they focus on the relationships more than the objects.",
+                    "example": "A category in math can represent different structures and their interactions.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "04b2efd9-9dec-40f8-83a7-3d1f95136095",
+            "de": "In computing, a collection of related topics in a database or on a website",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "In this database, each movie is sorted into a category according to its genre",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "category in a database",
+                " category in a website",
+                " category of information"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/04b2efd9-9dec-40f8-83a7-3d1f95136095.webp",
+            "Tips": [
+                {
+                    "title": "Computing Organization",
+                    "description": "In computing, 'category' helps organize information systematically for easy retrieval.",
+                    "example": "Search filters often use categories to sort information, like 'price range'.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "User-friendly",
+                    "description": "Categories in computing are designed to make finding information user-friendly.",
+                    "example": "Clicking the 'sports' category brings up all related articles on the website.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "1b7928bf-200f-40bc-b7c4-18d18879a3d6",
+            "de": "A level or rank in a system, such as in a grading or ranking system",
+            "ty": "noun",
+            "ex": "The earthquake was a category 5 on the Richter scale",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "category 5 hurricane",
+                " category 3 storm",
+                " category a prison"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1b7928bf-200f-40bc-b7c4-18d18879a3d6.webp",
+            "Tips": [
+                {
+                    "title": "Hierarchy and Rank",
+                    "description": "'Category' can indicate a position within a hierarchy, from lowest to highest.",
+                    "example": "The film received a category IIB rating, meaning it's unsuitable for young children.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Fixed",
+                    "description": "Some categories, like storm strength, can change as new information arises.",
+                    "example": "The storm was upgraded to a category 4 as the winds increased.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Class": {
+            "wordRoot": "Class",
+            "wordDefinition": "The words category and class both mean a group of things that share similar characteristics.\n\nClass, on the other hand, refers to a more specific grouping of things within a larger category. For example, within the category of animals, there are different classes such as mammals, reptiles, and birds.\n\nCategory describes a larger, more general grouping of things, while class describes a more specific and detailed grouping within that category.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2bd498c8-cf93-4921-b01e-802bbc33e8ee.webp"
+        },
+        "Classification": {
+            "wordRoot": "Classification",
+            "wordDefinition": "Classification is the act of organizing things or people into categories. It is a system of arranging things or people into groups based on their similarities and differences.\n\nFor example, in a library, books are classified into genres like fiction, nonfiction, poetry, etc. Classification is used to organize things or people into different categories.\n\nIn simpler terms, category is the group or type that something belongs to, while classification is the act of organizing things into those groups or types.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bbfc123c-aa5d-4768-b787-d031e3ac15ae.webp"
+        },
+        "Division": {
+            "wordRoot": "Division",
+            "wordDefinition": "For example, animals can be divided into categories such as mammals, reptiles, and birds.\n\nDivision refers to separating something into distinct parts or sections. This can be used with objects, groups of people, or even subjects in school.\n\nFor example, a pie can be divided into equal pieces or students can be divided into groups for a team activity.\n\nIn summary, categories group things together based on shared characteristics, while divisions separate things into distinct sections or parts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e22a2313-fb18-48a1-b83d-b1c0c75fdf71.webp"
+        },
+        "Genre": {
+            "wordRoot": "Genre",
+            "wordDefinition": "Both the words category and genre refer to grouping or classification of things.\n\nGenre is a more specific term that is commonly used in reference to art, literature, music, or film.\n\nIt refers to a particular style or type of such works that share similar traits or characteristics. For example, the genres of music include pop, rock, country, jazz, and classical.\n\nIn simple terms, think of category as a general term for any type of grouping, while genre is a specific term for classification within a particular field, such as music or literature.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d540ea1b-b612-474b-a615-5b2b530834a2.webp"
+        },
+        "Group": {
+            "wordRoot": "Group",
+            "wordDefinition": "Both category and group refer to the classification of objects or people based on certain characteristics.\n\nHowever, category usually describes a broader classification or grouping, while group describes a specific collection of things or people that share a common trait or purpose.\n\nFor example, 'animals' could be a category that includes many different types of creatures, while 'mammals' would be a more specific group within that category that only includes animals that give live birth and nurse their young.\n\nAnother example could be 'sports' as a category, while 'basketball' would be a group within that category that involves a specific set of rules and equipment.\n\nCategory is a more general term used to describe a larger class of things, while group is a more specific term used to describe a smaller subset of things within a certain category or classification.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f08b0a2a-1d76-4a9e-a0c2-d082dfd479ac.webp"
+        },
+        "Kind": {
+            "wordRoot": "Kind",
+            "wordDefinition": "Both the words category and kind indicate a group or a type of something.\n\nHowever, category is generally used to describe different classes or groups that can be formed by applying certain criteria or characteristics, while kind describes a natural grouping of things that share similarities.\n\nFor example, we can put books into categories based on genres like fiction, non-fiction, mystery, romance, etc. But we can also say that books of a certain kind (e.g.\n\nCategory is used for grouping based on some classification or criteria, while kind describes a natural grouping or similarity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/00de2b81-e6fa-447d-a0f2-91670117c1a8.webp"
+        },
+        "Species": {
+            "wordRoot": "Species",
+            "wordDefinition": "Category refers to a group or classification of things, while species refers to a group of organisms that can breed and produce viable offspring.\n\nSpecies only applies to living organisms.\n\nFor example, dogs are a species of animal that can breed with each other and produce viable offspring, while cats are a separate species that cannot reproduce with dogs.\n\nIn summary, categories can be applied to any group of objects, while species only applies to living organisms and refers to groups that can interbreed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a1acb333-19e1-4c4a-a01c-c6aac9e0e628.webp"
+        },
+        "Type": {
+            "wordRoot": "Type",
+            "wordDefinition": "Category refers to a broader grouping or classification of things, while the word type refers to a specific kind or variety of something within a category.\n\nFor example, 'animals' would be a category that includes types such as 'mammals', 'reptiles', and 'birds'. 'Cars' would be a category that includes types such as 'sedans', 'SUVs', and 'sports cars'.\n\nA category is a bigger group and a type is a subgroup within that bigger group.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/44b8a87c-cc94-4750-98c1-8b55dbfc7dd7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " than data divided into misleading or arbitrary categories. All we can do is carefully study the actual situations the statistics describe and consider whether lurking variables may be present. Otherwise, we leave ourselves vulnerable to those who would use data to manipulate others and promote their own agendas.",
+            "Title": "How statistics can be...",
+            "VideoId": "sxYrzzy3cq8",
+            "Controls": "start=220"
+        },
+        {
+            "Text": " It doesn't work for me to go on with this thing, with such a wide gulf between those who understand, love and are passionate about classical music, and those who have no relationship to it at all. The tone-deaf people, they're no longer here. But even between those three categories, it's too wide a gulf.",
+            "Title": "The transformative power...",
+            "VideoId": "r9LCwI5iErE",
+            "Controls": "start=343"
+        },
+        {
+            "Text": " to create and find a unique name so how do you create a great brand name how can you play and win the name game you start with three steps first select what type of name you want there are seven different categories of names and pretty much every brand in the world falls within one of these seven",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=17"
+        },
+        {
+            "Text": " us understand how it works your brain stores information in general categories like colors tools or furniture in each category has its own best example these examples help your brain quickly and efficiently find what it needs without having a dig through everything you know for most people the",
+            "Title": "Tap Into Your Brain's...",
+            "VideoId": "QelK8rDrbpM",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " One with eight petals is part of the fourfold category, and so on. There's another secret ingredient in these an underlying grid. Invisible, but essential to every pattern, the grid helps determine the scale of the composition before work begins, keeps the pattern accurate,",
+            "Title": "The complex geometry of...",
+            "VideoId": "pg1NpMmPv48",
+            "Controls": "start=121"
+        },
+        {
+            "Text": " and that's that's why they are the world's deadliest birds and why when you're filming them you have to do it with respect categories are very secretive so we had to spend several weeks putting up camera traps to look for areas where we thought the category might pass",
+            "Title": "Filming The World's...",
+            "VideoId": "SuVjOqtcHxE",
+            "Controls": "start=140"
+        },
+        {
+            "Text": " whole idea it's what in perpetuity period forever but not only we're gonna have the Brand X title sponsor but we're gonna make sure we sellout every category we can in the film so maybe we sell a shoe and it becomes the greatest shoe you ever wore",
+            "Title": "The greatest TED Talk...",
+            "VideoId": "Y2jyjfcp1as",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " Now, these three categories -- classification, using logic on abstractions, taking the hypothetical seriously -- how much difference do they make in the real world beyond the testing room? And let me give you a few illustrations.",
+            "Title": "Why our IQ levels are...",
+            "VideoId": "9vpqilhW9uI",
+            "Controls": "start=409"
+        },
+        {
+            "Text": " Faster than some category five hurricanes. The atmosphere is so thick that it creates a surface pressure similar to what it would be about half a mile deep in the Earth's oceans. This pressure is heavy enough",
+            "Title": "Venus 101 PIPE National...",
+            "VideoId": "BvXa1n9fjow",
+            "Controls": "start=58"
+        },
+        {
+            "Text": " 24 hours from landfall the hurricane has strengthened to category 5",
+            "Title": "Hurricane Surge PIPE...",
+            "VideoId": "4gkIpmlFMLw",
+            "Controls": "start=0"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gretchen-rubin.webp",
+            "Text": "Putting myself into categories is fun, and I think it also gives me insight into my own nature. When I see myself more clearly, I can more easily see ways that I might do things differently, to make myself happier. Categories can be unhelpful, however, when they become too all-defining, or when they become an excuse.",
+            "Title": "American Author",
+            "Name": "Gretchen Rubin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emily-v-gordon.webp",
+            "Text": "In my professional and personal life, when I meet people who feel broken after a divorce, they can usually be divided into two categories: those who truly believe there's something wrong with them, and those that are using their status as armor.",
+            "Title": "American Writer",
+            "Name": "Emily V. Gordon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grant-imahara.webp",
+            "Text": "On 'MythBusters,' a lot of what we do does not fall into any category of things we have ever done before. There's a lot of problem solving to figure out how to even approach a given problem. A background in science or engineering helps a lot.",
+            "Title": "American Celebrity",
+            "Name": "Grant Imahara"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jami-attenberg.webp",
+            "Text": "In the past, I was sometimes put in this women's lit category, and I was never really sure that was the appropriate place for me - although I certainly recognize it can be helpful and correct for other people.",
+            "Title": "American Author",
+            "Name": "Jami Attenberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-redford.webp",
+            "Text": "I think the environment should be put in the category of our national security. Defense of our resources is just as important as defense abroad. Otherwise what is there to defend?",
+            "Title": "American Actor",
+            "Name": "Robert Redford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noam-chomsky.webp",
+            "Text": "The government of Israel doesn't like the kinds of things I say, which puts them into the same category as every other government in the world.",
+            "Title": "American Activist",
+            "Name": "Noam Chomsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/deeyah-khan.webp",
+            "Text": "Honour'-based violence is a form of domestic violence. Domestic violence is a broad category.",
+            "Title": "Norwegian Director",
+            "Name": "Deeyah Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francis-picabia.webp",
+            "Text": "The world is divided into two categories: failures and unknowns.",
+            "Title": "French Artist",
+            "Name": "Francis Picabia"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/abhinav-shukla.webp",
+            "Text": "I might be a celebrity but I belong to the humble category.",
+            "Title": "Indian Actor",
+            "Name": "Abhinav Shukla"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jan-blachowicz.webp",
+            "Text": "205 is my category. I do this all my life.",
+            "Title": "",
+            "Name": "Jan Blachowicz"
+        }
+    ]
+}

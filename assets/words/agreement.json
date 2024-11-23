@@ -1,0 +1,330 @@
+{
+    "currentWord": {
+        "wordRoot": "agreement",
+        "id": 2440,
+        "phonemic": "əˈɡriːmənt|əˈɡriːmənt\r",
+        "bigId": "fb58f305-e166-422a-87a3-28f4bf1160c7",
+        "wordForms": [
+            "agreements",
+            "agreement"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fb58f305-e166-422a-87a3-28f4bf1160c7",
+            "de": "When people have the same opinion or understand each other.",
+            "ty": "noun",
+            "ex": "They had an agreement to meet at the coffee shop at 6pm.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "come to an agreement",
+                " reach an agreement",
+                " make an agreement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fb58f305-e166-422a-87a3-28f4bf1160c7.webp",
+            "Tips": [
+                {
+                    "title": "Social norms",
+                    "description": "Agreement often involves compromise or negotiation in social contexts.",
+                    "example": "They reached an agreement to split the bill after some discussion.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/dyDXFoshZkeos5qvPZ1mN0JR4TM.webp"
+                },
+                {
+                    "title": "Group decisions",
+                    "description": "Agreement means all members give consent in group decisions.",
+                    "example": "The family had an agreement on where to spend their vacation.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/166mwkcutCjztjP592U0r8UsO8I.webp"
+                },
+                {
+                    "title": "Explicit expression",
+                    "description": "Agreements should be clearly stated to avoid misunderstandings.",
+                    "example": "They made an agreement to share responsibilities equally.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Cs6ghpb11e6uORPun4Sj0cNczJo.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "934b5e3e-7a4e-48e8-9c7a-c631636a459c",
+            "de": "A deal or contract in which everyone involved agrees to something.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "He signed a rental agreement before moving into the apartment.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "sign an agreement",
+                " breach of agreement",
+                " legal agreement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/934b5e3e-7a4e-48e8-9c7a-c631636a459c.webp",
+            "Tips": [
+                {
+                    "title": "Binding promise",
+                    "description": "In legal contexts, agreements are binding and breaking them may have consequences.",
+                    "example": "His breach of the lease agreement resulted in eviction.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Written agreements",
+                    "description": "Legal agreements are usually documented in writing for clarity and evidence.",
+                    "example": "She requested a written agreement for the job offer.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Terms and conditions",
+                    "description": "Legal agreements include specific terms that each party must follow.",
+                    "example": "The agreement detailed the payment schedule and delivery timelines.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d8ec2ae2-bbd4-4ecd-aef3-c2043f30329f",
+            "de": "In grammar, the rule that subjects and verbs must both be singular or plural.",
+            "do": "Linguistics",
+            "ty": "noun",
+            "ex": "In the sentence 'The dogs bark', dogs and bark are in an agreement.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subject-verb agreement",
+                " gender agreement",
+                " agreement in number"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d8ec2ae2-bbd4-4ecd-aef3-c2043f30329f.webp",
+            "Tips": [
+                {
+                    "title": "Grammar consistency",
+                    "description": "Agreement maintains sentence harmony by matching grammatical numbers and genders.",
+                    "example": "Maria and her dogs have an agreement; she feeds them, and they protect the house.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Language fluency",
+                    "description": "Proper use of grammatical agreement can demonstrate language mastery.",
+                    "example": "His impeccable agreement in English sentences impressed the examiners.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "eb09b861-7af5-4d35-be22-10ca2827d393",
+            "de": "A situation where different elements work well together.",
+            "do": "General",
+            "ty": "noun",
+            "ex": "There's a perfect agreement between the colors of the walls and furniture.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "agreement of colors",
+                " agreement of shapes",
+                " agreement of ideas"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/eb09b861-7af5-4d35-be22-10ca2827d393.webp",
+            "Tips": [
+                {
+                    "title": "Aesthetic cohesion",
+                    "description": "Agreement in design elements can create a visually pleasing or coherent appearance.",
+                    "example": "The interior designer ensured agreement in the room’s color scheme.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cohesive thinking",
+                    "description": "When ideas or concepts agree, they are consistent or don't contradict each other.",
+                    "example": "Their plans showed agreement on the main goals of the project.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accord": {
+            "wordRoot": "Accord",
+            "wordDefinition": "Accord usually refers to a formal agreement between two or more parties. It often carries a legal connotation, and describes agreements that are binding and enforceable.\n\nFor example, two countries may sign a peace accord to formally end a war.\n\nAccord usually refers to a formal agreement that is legally binding, while agreement can refer to any kind of understanding or arrangement between people or organizations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a5b6a89c-40bf-4039-8a24-9345b7b8d28c.webp"
+        },
+        "Arrangement": {
+            "wordRoot": "Arrangement",
+            "wordDefinition": "An arrangement refers to a plan or a preparation made in advance for something to happen.\n\nIt can be a formal or informal plan to do something, like a schedule for a meeting or a social event. An arrangement is not necessarily legally binding and can be flexible, based on the circumstances.\n\nAn agreement is a formal, legal understanding between parties, while an arrangement is a more general plan or preparation for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp"
+        },
+        "Concordance": {
+            "wordRoot": "Concordance",
+            "wordDefinition": "Agreement and concordance are similar words that denote the same idea of coming to a mutual understanding or harmonious relationship between two or more parties.\n\nConcordance refers to a state of agreement or harmony between two or more things.\n\nIt is used more in literary or linguistic contexts. For example, a concordance of a book is a list of every word used in the book, along with the page numbers where they appear.\n\nSo, in short, agreement denotes the act of coming to a mutual understanding, whereas concordance refers to a state of mutual agreement or harmony.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5b0ce95e-e7e1-486c-8406-ea5181959b47.webp"
+        },
+        "Contract": {
+            "wordRoot": "Contract",
+            "wordDefinition": "A contract is a formal written agreement between two or more parties that outlines the terms and conditions of their arrangement.\n\nAgreements are typically used for less formal situations such as agreements between friends, while contracts are used for more formal situations such as business deals, employment agreements, and rental agreements.\n\nAn agreement is a less formal understanding, while a contract is a formal written agreement that is legally binding.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/16e3c77a-4f67-49c3-9516-58b201dd0037.webp"
+        },
+        "Covenant": {
+            "wordRoot": "Covenant",
+            "wordDefinition": "A covenant is a more serious and formal agreement that is often seen as a promise or a commitment. It is a binding agreement where both parties have obligations to fulfill.\n\nFor example, a marriage is a covenant between two people where they promise to love and support each other.\n\nIn general, agreements are more casual and less binding than covenants.\n\nAgreements can be made between friends or strangers, whereas covenants are usually made between people who have a deeper relationship or a stronger commitment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f9c5c32c-a693-41d7-abdb-e3d77f9ce7c8.webp"
+        },
+        "Deal": {
+            "wordRoot": "Deal",
+            "wordDefinition": "A deal is a business transaction where goods or services are exchanged for money or other items of value.\n\nAn agreement is a formal understanding between parties while a deal is a one-time transaction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c1b20aaa-581c-4adb-b5dd-ff5a35709733.webp"
+        },
+        "Pact": {
+            "wordRoot": "Pact",
+            "wordDefinition": "The words agreement and pact both refer to a promise or commitment made between two or more parties.\n\nA pact is generally used to describe an agreement that is made between countries or larger organizations to bring about a specific outcome or result.\n\nIn summary, while both words refer to a promise or commitment made between parties, agreement is used in formal and informal contexts while pact is more commonly used when referring to agreements between large organizations or countries.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5d44692a-a976-4f5a-82fc-f50124d23523.webp"
+        },
+        "Settlement": {
+            "wordRoot": "Settlement",
+            "wordDefinition": "Agreement and settlement both mean reaching an understanding or coming to a conclusion in a dispute, but they are used in different contexts.\n\nSettlement is often used when there is a legal dispute or lawsuit. In this context, settlement means a resolution that occurs before the case goes to trial.\n\nAgreement is used in informal negotiations while settlement is used in formal legal disputes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8bbff294-8989-4df2-9625-04dad0cab710.webp"
+        },
+        "Treaty": {
+            "wordRoot": "Treaty",
+            "wordDefinition": "It is usually less formal than a treaty and can be reached through negotiations or discussions. For example, you and your friends might make an agreement to meet at a certain time and place to go to a movie.\n\nA treaty is a more formal agreement between two or more nations or entities. It outlines specific terms and conditions that each party must adhere to.\n\nTreaties are often used to settle disputes or establish relationships between countries. For example, the Paris Climate Agreement was a treaty signed by a large number of countries to address climate change.\n\nAn agreement is a general term used to describe a decision made between two or more parties, while a treaty is a formal agreement between nations or entities that outlines specific terms and conditions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e532e29c-d40a-4ce0-8ad8-d8713bb66890.webp"
+        },
+        "Understand": {
+            "wordRoot": "Understand",
+            "wordDefinition": "Understand refers to a situation where an individual comprehends or grasps a particular concept, idea, or information. For example, when someone reads a book, they understand the contents of the book by comprehending its ideas and concepts.\n\nAn agreement is when two or more parties come to an understanding and reach a decision together, while understanding is when an individual grasps a concept or information.\n\nAgreement is applicable in situations where negotiations are taking place, while understanding is applicable when learning new things or gathering knowledge.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70a3474d-00c4-4e2d-9d98-5234b1a544d3.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " get this collaboration with the snyder trust because they're protecting this environment which to me is amazing because in all conservation agreements and most conservation um initiatives there's always some kind of sacrifice but here there's no sacrifice whatsoever because these women who wouldn't typically be making their own income here now have",
+            "Title": "Snow Leopards: Ghosts in...",
+            "VideoId": "NXKzAJjeWB0",
+            "Controls": "start=522"
+        },
+        {
+            "Text": " was bent over backwards to help us with anything we needed. So now we had a hangar space to work in, and prototypes to demo with. So in one year, we've negotiated manufacturing agreements, been awarded one patent, filed our second patent, talked to multiple people, demoed this to FEMA",
+            "Title": "Michael McDaniel: Cheap,...",
+            "VideoId": "rx1cyKs3ysg",
+            "Controls": "start=392"
+        },
+        {
+            "Text": " And a few philosophers and mystics might argue that even our own universe is an illusion. So, as you can see, right now there is no agreement on this question, not even close. All we know is the answer is somewhere between zero and infinity. Well, I guess we know one other thing.",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=340"
+        },
+        {
+            "Text": " My work was to document the violence. As a photographer, I took thousands of images, and after two months, the two politicians came together, had a cup of tea, signed a peace agreement, and the country moved on. I was a very disturbed man because I saw the violence firsthand.",
+            "Title": "Boniface Mwangi: The day...",
+            "VideoId": "W1KIgMXPR28",
+            "Controls": "start=114"
+        },
+        {
+            "Text": " almost complete agreement that we as humans want more time there's never enough time but I don't think it's just time that we want instead we long to lead a full life now what I want to share with you is if time is memory and we want more time than what we really",
+            "Title": "Time is memory and you...",
+            "VideoId": "zUqs3y9ucaU",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " How and when did our universe begin? How did it get to look like this? How will it end? Humans have been discussing these questions for as long as they've been around without ever reaching much agreement. Today, cosmologists are working hard to find the answers.",
+            "Title": "What light can teach us...",
+            "VideoId": "HZ7hwUduMoU",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " while the other six will always tell the truth. When each group returns to the hall, all of its members will either give the same report or argue about whether they found the exit. If a trio returns in total agreement, then you know none of them are lying.",
+            "Title": "Can you solve the temple...",
+            "VideoId": "nSbvlktToSY",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " In addition, little incentive exists to publish results unsupportive of the expected hypothesis. That results in a deluge of agreement between what was expected and what was found. In rare occasions, this can even lead to deliberate fabrication,",
+            "Title": "Is there a reproducibilit...",
+            "VideoId": "FpCrY7x5nEE",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " only one universe. And a few philosophers and mystics might argue that even our own universe is an illusion. So, as you can see, right now there is no agreement on this question, not even close.",
+            "Title": "How many universes are...",
+            "VideoId": "a1bWKZFP2Tc",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " from today to the end the bride's family paid a dowry months ago this is a final symbolic exchange that formalizes the agreement as the officials leave the",
+            "Title": "The Man with Three Wives...",
+            "VideoId": "Fk8inFlY7Rs",
+            "Controls": "start=129"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/liz-mitchell.webp",
+            "Text": "It's never one thing it's a lot of things because you learn that show business is one of the most complicated industries in the world. The agreement you make is based on you not knowing what's going to happen next. So, it's a guessing game and you've got to really believe in yourself and know who you are.",
+            "Title": "",
+            "Name": "Liz Mitchell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-dangermond.webp",
+            "Text": "My parents had no money, but they had strong values that I've carried throughout my life - things like not going into debt, never borrowing money, never leveraging, paying your bills on time, keeping your agreements, selling customers the right things, treating employees right, and growing things.",
+            "Title": "American Businessman",
+            "Name": "Jack Dangermond"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-king.webp",
+            "Text": "I've always believed in God. I also think that's the sort of thing that either comes as part of the equipment, the capacity to believe, or at some point in your life, when you're in a position where you actually need help from a power greater than yourself, you simply make an agreement.",
+            "Title": "Author",
+            "Name": "Stephen King"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sanjay-kumar.webp",
+            "Text": "As I said before, a big part of my strategy says - and the management team I think is in agreement with this - we don't have to be out there with a lot of noise all the time. What we need to do is paint a vision for customers, promise them deliverables, and go hit at it.",
+            "Title": "Businessman",
+            "Name": "Sanjay Kumar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jules-massenet.webp",
+            "Text": "If I were to agree to write the music for your beautiful poem, it would tie your poem up for some years as I have agreements and obligations which I must respect.",
+            "Title": "French Composer",
+            "Name": "Jules Massenet"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-holbrooke.webp",
+            "Text": "A peace deal requires agreements, and you don't make agreements with your friends, you make agreements with your enemies.",
+            "Title": "American Public Servant",
+            "Name": "Richard Holbrooke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-hume.webp",
+            "Text": "Therefore they should come to the table and reach an agreement that would protect their identity.",
+            "Title": "Irish Politician",
+            "Name": "John Hume"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/louise-berliawsky-nevelson.webp",
+            "Text": "What we call reality is an agreement that people have arrived at to make life more livable.",
+            "Title": "American Sculptor",
+            "Name": "Louise Berliawsky Nevelson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sara-gideon.webp",
+            "Text": "We're all in agreement that our children deserve a world-class education.",
+            "Title": "American Politician",
+            "Name": "Sara Gideon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/werner-erhard.webp",
+            "Text": "Your life works to the degree you keep your agreements.",
+            "Title": "American Educator",
+            "Name": "Werner Erhard"
+        }
+    ]
+}

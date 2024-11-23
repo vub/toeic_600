@@ -1,0 +1,308 @@
+{
+    "currentWord": {
+        "wordRoot": "disruption",
+        "id": 18167,
+        "phonemic": "dɪsˈrʌpʃn|dɪsˈrʌpʃn\r",
+        "bigId": "c3a0d42f-c6f0-4286-bd97-b2e376874d29",
+        "wordForms": [
+            "disruptions",
+            "disruption"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c3a0d42f-c6f0-4286-bd97-b2e376874d29",
+            "de": "The act of making something unable to continue or work in the usual or expected way.",
+            "ty": "noun",
+            "ex": "The strike caused major disruption to train services.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cause a disruption",
+                " major disruption",
+                " disruption to services"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c3a0d42f-c6f0-4286-bd97-b2e376874d29.webp",
+            "Tips": [
+                {
+                    "title": "Unplanned Interruptions",
+                    "description": "Used to describe unexpected events that interrupt usual routines or activities.",
+                    "example": "Severe weather led to the disruption of the outdoor concert.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PQvX9LfheDUS0JvfJ1GrwPQjrWA.webp"
+                },
+                {
+                    "title": "Negative Impact",
+                    "description": "The word often implies that the interruption causes inconvenience or trouble.",
+                    "example": "Due to a roadblock, there was a disruption in the city's traffic flow.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Gh5cP6uOaoB0BkD0KrOLPkqvgXY.webp"
+                }
+            ]
+        },
+        {
+            "id": "8224a9eb-681f-43d6-b671-3efd917c785c",
+            "de": "An event that causes an organization or system to not function properly.",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "The unexpected power outage caused a disruption in the company's operations.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business disruption",
+                " organizational disruption",
+                " operational disruption"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8224a9eb-681f-43d6-b671-3efd917c785c.webp",
+            "Tips": [
+                {
+                    "title": "Corporate Context",
+                    "description": "In business, disruption usually relates to events that affect normal operations.",
+                    "example": "The computer virus caused widespread disruption throughout the corporation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Negative",
+                    "description": "In business, sometimes a disruption can lead to positive change or growth.",
+                    "example": "The new CEO's strategies caused some initial disruption but ultimately improved efficiency.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "250bce58-2e46-45fe-a58a-ee4edc2fc726",
+            "de": "A new way of doing something that causes a big change and helps to establish a new order or system.",
+            "do": "Technology",
+            "ty": "noun",
+            "ex": "Digital technology has brought about significant disruption in many industries.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "technological disruption",
+                " digital disruption",
+                " disruption in the industry"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/250bce58-2e46-45fe-a58a-ee4edc2fc726.webp",
+            "Tips": [
+                {
+                    "title": "Innovative Shift",
+                    "description": "Refers to groundbreaking changes brought about by innovation, often in technology.",
+                    "example": "Online streaming services created a disruption in how we consume media.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Change Agents",
+                    "description": "Often associated with individuals or companies that change industry standards.",
+                    "example": "Ride-sharing apps have been a major disruption to traditional taxi services.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "778e934c-bb76-426b-bdbb-897faea9f782",
+            "de": "A break or interruption in the continuity of a structure.",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "A disruption of the epidermal layer results in wounds and injuries.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "disruption of the epidermis",
+                " tissue disruption",
+                " cell disruption"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/778e934c-bb76-426b-bdbb-897faea9f782.webp",
+            "Tips": [
+                {
+                    "title": "Medical Specificity",
+                    "description": "In medical terms, disruption refers to physical breaks or discontinuities in body structures.",
+                    "example": "An X-ray confirmed the disruption in the bone structure.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Clinical Tone",
+                    "description": "The term has a clinical, technical feel to it when used in a medical context.",
+                    "example": "Following the surgery, the patient experienced a disruption in normal healing.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Anarchy": {
+            "wordRoot": "Anarchy",
+            "wordDefinition": "Anarchy refers to a situation where there is no government or authority to control people's actions. It often results in chaos, violence, and societal breakdown.\n\nAnarchy is rarely applicable in a positive sense, as it often leads to negative consequences.\n\nAnarchy describes a lack of control and disruption describes a change to something that was previously predictable or stable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/227fc1f6-0264-4a35-893a-32fcbe9241d0.webp"
+        },
+        "Chaos": {
+            "wordRoot": "Chaos",
+            "wordDefinition": "Chaos refers to a state of confusion, disorder, and unpredictability. It is a condition where things are seemingly out of control and can be overwhelming.\n\nChaos can be seen in situations such as a riot, a natural disaster or an accident.\n\nChaos is a state of disorder while disruption is a temporary interruption. Chaos is more severe and can cause fear and anxiety, while disruption can be seen as an opportunity for growth and improvement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1c6e99de-8810-48e0-9264-b7a18f0ee600.webp"
+        },
+        "Commotion": {
+            "wordRoot": "Commotion",
+            "wordDefinition": "Commotion and disruption both represent disturbances, but the former is more disordered and noisy, while the latter could entail breaking of flow, changing a pattern or interfering with normalcy in a more general sense.\n\nCommotion can describe a loud disturbance or riot, while disruption can apply to anything that interrupts the natural flow of things, such as an unexpected event causing delay.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/696478cc-e1a4-4501-a3e4-a09b834b49a6.webp"
+        },
+        "Disorder": {
+            "wordRoot": "Disorder",
+            "wordDefinition": "Disorder refers to a state of chaos or confusion caused by a lack of organization or structure.\n\nDisorder describes situations where things are not in their proper place or cannot be easily understood.\n\nFor example, a messy room could be considered disordered.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ddc40e3c-a6d4-416f-96ac-50bf5952123e.webp"
+        },
+        "Disturbance": {
+            "wordRoot": "Disturbance",
+            "wordDefinition": "The words disruption and disturbance both refer to something that interrupts the normal functioning of something else, but they have different nuances of meaning.\n\nDisturbance usually implies a temporary interruption or interference with something that is expected or desired to be peaceful, calm or orderly.\n\nFor example, a loud noise from a construction site can cause a disturbance in a neighborhood, or a noisy party can disturb a person's sleep.\n\nDisruption typically implies a more significant and long-lasting disturbance or interruption that fundamentally changes the way things are normally done.\n\nDisturbance is more appropriate for describing minor or temporary interruptions, whereas disruption is better used for describing major or lasting changes that affect the normal functioning of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0e31cb4a-8be6-4871-b833-b13b6dd4d57a.webp"
+        },
+        "Interruption": {
+            "wordRoot": "Interruption",
+            "wordDefinition": "Interruption refers to a temporary break or pause in a process or activity. It is applicable in situations where there is a brief pause or break, such as a phone call interrupting a conversation or a brief power outage.\n\nIn simpler terms, disruption refers to a big change or disturbance while interruption is a small break or pause.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24a2a4a1-b46b-46ec-8682-ec09d1096abf.webp"
+        },
+        "Turmoil": {
+            "wordRoot": "Turmoil",
+            "wordDefinition": "Turmoil refers to a situation of great confusion, uncertainty or disturbance. It implies more chaos and disorder than disruption.\n\nFor example, a country going through a political turmoil might experience riots, violence, and instability.\n\nHowever, disruption is usually considered as a positive word whereas turmoil has a negative connotation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/04cf421e-3576-4ebd-bec1-c8a25d406ed2.webp"
+        },
+        "Upheaval": {
+            "wordRoot": "Upheaval",
+            "wordDefinition": "Disruption and upheaval are similar in that they both refer to a major change or disturbance.\n\nHowever, disruption generally implies a temporary interruption or disturbance of the status quo, while upheaval implies a more significant, long-lasting shift or upheaval.\n\nFor example, a traffic jam may cause disruption to your commute, but it does not represent an upheaval in your daily routine.\n\nA political revolution or a natural disaster may cause significant upheaval and lasting changes in society.\n\nDisruption can apply to a wide range of situations, including business, technology, and social interactions, while upheaval tends to be reserved for more extreme situations such as natural disasters, wars, or major cultural shifts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/afb04909-92f1-4bb7-b3da-f4dadcc9a589.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " can cause massive ecological disruption. This is why the second graph, which show the average temperature variation each year, is far more significant. When they're used well, graphs can help us intuitively grasp complex data. But as visual software has enabled more usage of graphs throughout all media,",
+            "Title": "How to spot a misleading...",
+            "VideoId": "E91bGT9BjYk",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " So we have evidence of a genuine mechanistic overlap between these two important systems. Other work flowed from these studies. The first was that sleep disruption actually precedes certain types of mental illness, and we've shown that in those young individuals",
+            "Title": "Why do we sleep? PIPE...",
+            "VideoId": "LWULB9Aoopc",
+            "Controls": "start=1137"
+        },
+        {
+            "Text": " around the green stalks and sway like the weeds the divers carefully measure each little seahorse and record observations and notebooks the fish are replaced where they're found to minimize any disruption in their feeding and mating habits pairs mate for life",
+            "Title": "Fathers That Give Birth...",
+            "VideoId": "6yjoEctCXPI",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " have multiple personalities, but these symptoms indicate a disruption of thought processes, rather than the manifestation of another personality. Schizophrenia also has negative symptoms, these are qualities that are reduced in people with schizophrenia,",
+            "Title": "What is schizophrenia? -...",
+            "VideoId": "K2sc_ck5BZU",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " nationalism is just not on the right level to tackle the problems, whether it's climate change or whether it's technological disruption. So it was a beautiful idea in a world where most of the action, most of the issues, took place on national scale,",
+            "Title": "Nationalism vs....",
+            "VideoId": "szt7f5NmE9E",
+            "Controls": "start=607"
+        },
+        {
+            "Text": " So it helps to start with the big recessions occur when there is a negative disruption to the balance between supply and demand. There’s a mismatch between how many goods people want to buy, how many products and services producers can offer,",
+            "Title": "What causes an economic...",
+            "VideoId": "SwaCg7Gwtzw",
+            "Controls": "start=57"
+        },
+        {
+            "Text": " understanding the central importance of zangarbai places an even bigger burden on andrea's shoulders her presence here is not just preventing elephant deaths but the possible disruption of their entire way of",
+            "Title": "Protecting The Elephant...",
+            "VideoId": "LZoX8jwlbSc",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " Who I am the first disruption is the disruption of dominant powerful narratives what are narratives they're the stories that we tell about others in ourselves and about how the world works sometimes they can",
+            "Title": "How to disrupt...",
+            "VideoId": "UQ6pyNY33Dc",
+            "Controls": "start=308"
+        },
+        {
+            "Text": " the virus may reappear seasonally, so vaccines will continue to protect people. And although it may take years to create, disruptions to most people’s lives won’t necessarily last the full duration.",
+            "Title": "When is a pandemic over?",
+            "VideoId": "Qi0edf_nJDo",
+            "Controls": "start=279"
+        },
+        {
+            "Text": " they are significantly interrelated. And it suggests that the disruption of deep sleep is an underappreciated factor that is contributing to cognitive decline or memory decline",
+            "Title": "Sleep is your superpower...",
+            "VideoId": "5MuIMqhT8DM",
+            "Controls": "start=384"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-franti.webp",
+            "Text": "If we do not change our negative habits toward climate change, we can count on worldwide disruptions in food production, resulting in mass migration, refugee crises and increased conflict over scarce natural resources like water and farm land. This is a recipe for major security problems.",
+            "Title": "American Musician",
+            "Name": "Michael Franti"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brianna-wu.webp",
+            "Text": "The truth is, you cannot run a political campaign like a tech startup. Technology is a field that fetishizes disruption. The old ways are suspect, and we place an almost irrational trust on new tools. That's fine for developing games, but it was a failing playbook for politics.",
+            "Title": "American Businesswoman",
+            "Name": "Brianna Wu"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuval-noah-harari.webp",
+            "Text": "All the major problems of the world today are global in essence, and they cannot be solved unless through some kind of global cooperation. It's not just climate change, which is, like, the most obvious example people give. I think more in terms of technological disruption.",
+            "Title": "Israeli Historian",
+            "Name": "Yuval Noah Harari"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nick-hanauer.webp",
+            "Text": "Tech innovation is something societies have to pursue as vigorously as they can. We have to innovate civically and socially at the same rate; otherwise, you create unfortunate disruptions, and that's where you have people opposing technological innovations.",
+            "Title": "American Businessman",
+            "Name": "Nick Hanauer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brad-feld.webp",
+            "Text": "In entrepreneurial circles, it's clear to me that violence, hatred, and discrimination - or whatever you want to label it - is another category where we need to pay attention to disruption before it changes the world in ways we don't want it to.",
+            "Title": "American Businessman",
+            "Name": "Brad Feld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noah-baumbach.webp",
+            "Text": "I thought at the time of my parents' divorce that I was upset by deeper, more profound things and I was just taking it out on the joint custody agreement. But that disruption was bad enough. That was a huge deal for a teenager.",
+            "Title": "American Writer",
+            "Name": "Noah Baumbach"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jo-swinson.webp",
+            "Text": "While the problems facing the country are huge, it is in times of great disruption that we can make the most important changes to our society and help to rebuild our fractured, broken politics.",
+            "Title": "British Politician",
+            "Name": "Jo Swinson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andrew-ng.webp",
+            "Text": "I am super optimistic about the near-term prospects of AI because every time there is a technological disruption, it gives us the opportunity of making the world a little different.",
+            "Title": "Chinese Scientist",
+            "Name": "Andrew Ng"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kris-gopalakrishnan.webp",
+            "Text": "FreshWorld is in line with my vision of supporting sustainable technologies in solving problems. I feel this is the next-level disruption in the fruits and vegetables industry.",
+            "Title": "Indian Businessman",
+            "Name": "Kris Gopalakrishnan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sarah-gadon.webp",
+            "Text": "Without disruptions in life, where would we be?",
+            "Title": "Canadian Actress",
+            "Name": "Sarah Gadon"
+        }
+    ]
+}

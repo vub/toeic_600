@@ -1,0 +1,333 @@
+{
+    "currentWord": {
+        "wordRoot": "profile",
+        "id": 21957,
+        "phonemic": "ˈprəʊfaɪl|ˈprəʊfaɪl\r",
+        "bigId": "7a3daf7d-6fd5-4275-ab48-9037e2c4b234",
+        "wordForms": [
+            "profiles",
+            "profiled",
+            "profilers",
+            "profile"
+        ]
+    },
+    "senses": [
+        {
+            "id": "7a3daf7d-6fd5-4275-ab48-9037e2c4b234",
+            "de": "A view or representation of someone or something, especially as seen from the side",
+            "ty": "noun",
+            "ex": "The suspects were described to the police using a written profile",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "profile view",
+                " profile picture",
+                " profile drawing"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7a3daf7d-6fd5-4275-ab48-9037e2c4b234.webp",
+            "Tips": [
+                {
+                    "title": "Visual Aspect",
+                    "description": "The term 'profile' often refers to physical appearance from a side view.",
+                    "example": "The artist captured her profile perfectly.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vbv6Hl7LymP3L2Do6YHWeQZVmvU.webp"
+                },
+                {
+                    "title": "Not Full Face",
+                    "description": "A 'profile view' specifically excludes the front or full-face view.",
+                    "example": "Please turn your head for a profile shot.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/u8e06AGVkp6bAdnSze9gggk6X0.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "17e0d845-827b-4cb5-8cef-9d8e920a6c69",
+            "de": "A description or summary of a person's abilities or achievements",
+            "ty": "noun",
+            "ex": "The human resources department created a profile for each employee",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "employee profile",
+                " user profile",
+                " company profile"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/17e0d845-827b-4cb5-8cef-9d8e920a6c69.webp",
+            "Tips": [
+                {
+                    "title": "Biographical Summary",
+                    "description": "'Profile' can summarize a person's skills or history, often used in professional contexts.",
+                    "example": "The job candidate's profile highlighted her experience.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impress Profiles Matter",
+                    "description": "Online profiles should be taken seriously, as they can affect personal and professional opportunities.",
+                    "example": "He updated his LinkedIn profile to find a job.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Essential Details",
+                    "description": "A person's 'profile' includes key facts, skipping minor details, much like a highlight reel.",
+                    "example": "His executive profile focused on his decision-making skills.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d036ddfb-72be-4aa4-bdff-341dacaf21af",
+            "de": "A outline of something especially as seen from one side",
+            "ty": "noun",
+            "ex": "The city has a beautiful profile against the sky",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mountain profile",
+                " building profile",
+                " landscape profile"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d036ddfb-72be-4aa4-bdff-341dacaf21af.webp",
+            "Tips": [
+                {
+                    "title": "Not Always Physical",
+                    "description": "'Profile' describes an outline which can be literal physical shape or a metaphorical concept.",
+                    "example": "The skyline's profile is iconic.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Silhouettes Matter",
+                    "description": "In design, the 'profile' of objects can be crucial for aesthetic and functional purposes.",
+                    "example": "The car's sleek profile reduces air resistance.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8c881a5c-3159-4e8e-89ff-1fe8a6993007",
+            "de": "A set of characteristics that identify or are thought to identify a particular type of person",
+            "do": "Psychology",
+            "ty": "noun",
+            "ex": "The police have a profile of the likely perpetrator",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "criminal profile",
+                " psychological profile",
+                " behaviour profile"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8c881a5c-3159-4e8e-89ff-1fe8a6993007.webp",
+            "Tips": [
+                {
+                    "title": "Behavioral Insights",
+                    "description": "'Profile' in psychology helps understand particular behavior patterns or personality types.",
+                    "example": "Her behavior matched the profile of a confidant individual.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fb79ffd9-d5d2-4853-98f8-d78ba62140e6",
+            "de": "To represent in profile or to give a brief description",
+            "ty": "verb",
+            "ex": "The magazine profiled the movie star in their latest issue",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "profile someone",
+                " profile something",
+                " profile in a magazine"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fb79ffd9-d5d2-4853-98f8-d78ba62140e6.webp",
+            "Tips": [
+                {
+                    "title": "Exposure Through Writing",
+                    "description": "To 'profile' someone in writing is to give them attention and reveal their story to others.",
+                    "example": "The inventor was profiled in a technology magazine.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Characterization": {
+            "wordRoot": "Characterization",
+            "wordDefinition": "Characterization refers to the process of describing or developing a character's personality, behavior, and motivations in a story.\n\nA profile is a brief description of a person's traits or characteristics, while characterization is the way an author develops and presents fictional characters in a story.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c32e9e30-c960-415f-b646-fde32bb62e1f.webp"
+        },
+        "Configuration": {
+            "wordRoot": "Configuration",
+            "wordDefinition": "Configuration refers to the settings or arrangement of something, such as a computer system or a device like a router.\n\nConfiguration is often used in a technical context to describe how something is set up or formatted.\n\nSo the difference between the two words is that configuration is about how something is set up or organized, while profile is about describing a person or an organization.\n\nConfiguration is applicable in technical settings, while profile is applicable in social and personal settings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/50a7f648-5d1d-4834-a5e1-ec1c495f7a56.webp"
+        },
+        "Contour": {
+            "wordRoot": "Contour",
+            "wordDefinition": "Contour refers to the outline or shape of an object, especially its surface features, while profile refers to a view of something from the side that shows its outline or shape.\n\nContour is often used to describe the curves and bumps of natural features like hills, while profile describes the shape of human faces or objects like buildings or machines.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d2988afb-f733-495b-a456-d105ee2f0759.webp"
+        },
+        "Form": {
+            "wordRoot": "Form",
+            "wordDefinition": "Form refers to a document that you fill out with information about yourself or a particular matter, like an application form for a job or a registration form for an event.\n\nThe information is usually basic and straightforward.\n\nA profile refers to a more detailed description of a person, place, or thing. It usually includes a variety of information, including personal details, interest, and skills.\n\nThis information is often used to create a picture of a person's abilities, background, or identity.\n\nA form is used to gather basic information, while a profile is a more detailed description of a person or situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/773d1904-d590-4d92-b6e6-daf6279fd9f8.webp"
+        },
+        "Outline": {
+            "wordRoot": "Outline",
+            "wordDefinition": "Outline refers to a basic sketch or plan of something, usually the general shape or structure without any details. It is applicable in writing an essay or creating a drawing, where you need to organize your thoughts or ideas in a coherent way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a89cf131-12bc-45e1-8b68-ec5522fecd0f.webp"
+        },
+        "Persona": {
+            "wordRoot": "Persona",
+            "wordDefinition": "Persona refers to the image that a person presents to others, which may or may not accurately reflect their true personality.\n\nProfile refers to a complete record or summary of someone's personal, professional, or social history. This term is commonly used in online platforms like social media, where users create a profile that includes information about their interests, hobbies, and personal details.\n\nPersona is about how someone acts or behaves, while profile is about what information they share about themselves.\n\nPersona is applicable in understanding others' behaviour in social settings, while profile is applicable in creating an online presence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8753292-3724-4444-8bc5-d67ce54e465f.webp"
+        },
+        "Shape": {
+            "wordRoot": "Shape",
+            "wordDefinition": "Shape is a more general term that can refer to the overall form or structure of something.\n\nThis word might be used to describe the appearance of something from all angles, rather than just the side or edge. For example, you might talk about the shape of a building or the shape of a puddle.\n\nProfile is a more specific and detailed term that is often used in technical or artistic contexts, while shape is a more general and versatile term that can be used in a wide range of situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a264ddba-fed2-45e8-b7b3-3fe7851599a3.webp"
+        },
+        "Silhouette": {
+            "wordRoot": "Silhouette",
+            "wordDefinition": "A silhouette is a dark outline of someone's body, usually simplified to show just the basic shape. This can be used for artistic purposes or to conceal a person's identity.\n\nA profile shows details of a person's features, while a silhouette shows just the basic shape.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bce50701-2207-483e-b4de-a1a0aa6833fd.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " can actually give us an idea of the location of the sharks and where they spend most of their time for example the profiles from the fatty acid analysis have shown that although the Sharks do mostly feed in the shrimp here they also have other diet preferences out in deep litter at night so we can actually use it to show that the Sharks often stay in",
+            "Title": "Investigating the...",
+            "VideoId": "E9tpPWK7sag",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " at the end of your teens. You're learning about laughter throughout your entire early adult life. If we turn the question around and now say not, what does the laughter sound like in terms of being real or posed, but we say, how much does this laughter make you want to laugh, how contagious is this laughter to you, we see a different profile.",
+            "Title": "Why we laugh PIPE Sophie...",
+            "VideoId": "UxLRv0FEndM",
+            "Controls": "start=654"
+        },
+        {
+            "Text": " distribute their creative works, not for financial profit, but to raise their social profile or establish their community role. And even potluck dinners and holiday gift traditions involve some degree of reciprocity and social norms. We might wonder if a gift is truly a gift if it comes with obligations or involves some social pay off.",
+            "Title": "What is a gift economy?...",
+            "VideoId": "EaxjxICgahc",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " to keep this innovation engine going, so companies are finding innovative ways to overcome this, but in the end it does not absolve the government of the responsibility for creating this educational structure. So finally, I want to conclude by showing you the profile of one company, IBM.",
+            "Title": "Nirmalya Kumar: India's...",
+            "VideoId": "iyfdWsa1zns",
+            "Controls": "start=805"
+        },
+        {
+            "Text": " But in the study, when participants viewed their stress response as helpful, their blood vessels stayed relaxed like this. Their heart was still pounding, but this is a much healthier cardiovascular profile. It actually looks a lot like what happens",
+            "Title": "How to make stress your...",
+            "VideoId": "RcGyVTAoXEU",
+            "Controls": "start=371"
+        },
+        {
+            "Text": " that is a very important distinction we're also looking at trace DNA how that transfers and how it moves and our studies are showing that it is possible to identify the DNA profile of somebody who's handled a knife on that knife",
+            "Title": "The dangers of...",
+            "VideoId": "xclg8ikPAvI",
+            "Controls": "start=279"
+        },
+        {
+            "Text": " chili has to navigate through the thicket to the prey rich area on the other side her best bet is to proceed with caution and keep a low profile nature has given newborn cheetahs a helping hand to deter",
+            "Title": "Cheetahs Enter Stealth...",
+            "VideoId": "wlEZ08LpkBM",
+            "Controls": "start=68"
+        },
+        {
+            "Text": " shot of anti-venom fast red eyed tree frogs that keep a lower profile generally mate successfully they are careful breeders their spawn is not laid in the cut and thrust environment of the forest pond",
+            "Title": "Top 5 Slithering Snake...",
+            "VideoId": "RKTnxc9sfSQ",
+            "Controls": "start=549"
+        },
+        {
+            "Text": " she's been using her considerable public profile to seek help for pangolins angela baby is a perfect ambassador for penguins she's hitting this whole new young generation people really love her",
+            "Title": "The Perils of Pangolins...",
+            "VideoId": "WgAQo8C7Dpo",
+            "Controls": "start=181"
+        },
+        {
+            "Text": " one of the shortest legs of any cat and that helps by giving them a low profile when stalking but it's not so good for wading through deep snow",
+            "Title": "World’s Grumpiest Cat I...",
+            "VideoId": "rlSTBvViflc",
+            "Controls": "start=44"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/enya.webp",
+            "Text": "It's very easy for me to keep a low profile because the focus I feel is always on the music. Success and fame are two different things. And so I feel the success is always towards the music, which means that I can have a very normal and private lifestyle.",
+            "Title": "Irish Musician",
+            "Name": "Enya"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-spacey.webp",
+            "Text": "Over the years, I've been trying to build a relationship with an audience. I've tried to maintain as much of a low profile as I could so that those characters would emerge and their relationship with audiences would be protected.",
+            "Title": "American Actor",
+            "Name": "Kevin Spacey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sara-davies.webp",
+            "Text": "By becoming an MBE, I hope it helps raise the profile of our sector and what a thriving industry it is. I also hope it inspires others entrepreneurs in craft to believe, innovate and put our industry firmly on the map.",
+            "Title": "British Businesswoman",
+            "Name": "Sara Davies"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/imelda-staunton.webp",
+            "Text": "The one good thing is that I get a lot more good scripts coming through my letterbox. 'Vera Drake' raised my profile in one way, and then 'Harry Potter' in another.",
+            "Title": "English Actress",
+            "Name": "Imelda Staunton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erik-griffin.webp",
+            "Text": "I love doing stand-up, and the more you do outside of stand-up to raise your profile, the better your stand-up becomes in terms of the quality of gigs.",
+            "Title": "American Comedian",
+            "Name": "Erik Griffin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hikaru-nakamura.webp",
+            "Text": "It's certainly an honor to have kids who are looking up to me, but at the same time, I'm just trying to do what I can to raise the profile of chess.",
+            "Title": "Japanese Celebrity",
+            "Name": "Hikaru Nakamura"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "I hope I have helped to raise the profile of science and to show that physics is not a mystery but can be understood by ordinary people.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/toni-duggan.webp",
+            "Text": "It was always our aim to raise the profile of the game, and I believe it's only going to get bigger.",
+            "Title": "English Athlete",
+            "Name": "Toni Duggan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lawrence-wright.webp",
+            "Text": "The ideal 'New Yorker' profile is a person, an interesting person, at a critical point in his life.",
+            "Title": "American Author",
+            "Name": "Lawrence Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-gleeson.webp",
+            "Text": "Interviews are good if you want to be an actor because they raise your profile.",
+            "Title": "American Actor",
+            "Name": "Jack Gleeson"
+        }
+    ]
+}

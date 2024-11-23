@@ -1,0 +1,315 @@
+{
+    "currentWord": {
+        "wordRoot": "minimize",
+        "id": 21633,
+        "phonemic": "ˈmɪnɪmaɪz|ˈmɪnɪmaɪz\r",
+        "bigId": "3080bd15-41fc-4e53-841c-e035bfa9b84d",
+        "wordForms": [
+            "minimizes",
+            "minimizing",
+            "minimized",
+            "minimise",
+            "minimising",
+            "minimize"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3080bd15-41fc-4e53-841c-e035bfa9b84d",
+            "de": "To make something as small as possible",
+            "ty": "verb",
+            "ex": "We should minimize waste to help the environment.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "minimize waste",
+                " minimize risk",
+                " minimize damage"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3080bd15-41fc-4e53-841c-e035bfa9b84d.webp",
+            "Tips": [
+                {
+                    "title": "Environmental Focus",
+                    "description": "Often used regarding sustainability goals or practices that aim to reduce waste or resources.",
+                    "example": "Businesses are trying to minimize their carbon footprint.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/CyRwJhMWFcSHeAgiQg3A7MXchXw.webp"
+                },
+                {
+                    "title": "Not Eliminate",
+                    "description": "Minimize means to reduce significantly, but not necessarily to remove completely or eliminate.",
+                    "example": "The plan aims to minimize risks, not eliminate them entirely.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6kZeubn9oqX18oFAXV2FapXJMjA.webp"
+                },
+                {
+                    "title": "Emotional Impact",
+                    "description": "Can describe reducing negative feelings or the impact of stressful events.",
+                    "example": "Deep breathing exercises can minimize anxiety.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yKEjN4AkkUufgRky17wQquNivDQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "5c6571b1-2174-41e9-a9c7-8b4610c0856b",
+            "de": "To lessen the severity of something.",
+            "ty": "verb",
+            "ex": "He tried to minimize the damage caused by his mistake.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "minimize the impact",
+                " minimize the damage",
+                " minimize the effect"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5c6571b1-2174-41e9-a9c7-8b4610c0856b.webp",
+            "Tips": [
+                {
+                    "title": "Conflict Mitigation",
+                    "description": "Used in contexts of resolving disputes, emphasizing reducing tensions or consequences.",
+                    "example": "Mediation can minimize the conflict between parties.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Proactive Steps",
+                    "description": "Can imply taking actions in advance to reduce the severity of potential problems.",
+                    "example": "Regular maintenance minimizes the risk of breakdowns.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4183b26f-7f37-42c6-b895-1d8a19c0e600",
+            "de": "To belittle or underestimate the importance of something or someone.",
+            "ty": "verb",
+            "ex": "Do not minimize your own abilities and achievements.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "minimize one's abilities",
+                " minimize one's achievements",
+                " minimize the importance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4183b26f-7f37-42c6-b895-1d8a19c0e600.webp",
+            "Tips": [
+                {
+                    "title": "Conversational Nuance",
+                    "description": "In casual speech, minimize may suggest invalidating someone's feelings or opinions.",
+                    "example": "When you said it was 'just a joke', you minimized my concerns.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Interpersonal Sensitivity",
+                    "description": "Avoid using 'minimize' to describe personal issues; it could sound dismissive.",
+                    "example": "I don't want to minimize your experience, but we need to find a solution.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d23dc800-5e60-40ed-9a74-02ffc7e009fa",
+            "de": "To make a window or an application on a computer's screen smaller.",
+            "do": "computing",
+            "ty": "verb",
+            "ex": "Minimize the windows that you are not working on to avoid distraction.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "minimize a window",
+                " minimize an application"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d23dc800-5e60-40ed-9a74-02ffc7e009fa.webp",
+            "Tips": [
+                {
+                    "title": "Usability Enhancement",
+                    "description": "In computer contexts, it helps users focus on specific tasks by clearing space.",
+                    "example": "Minimize all open applications to see your desktop.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporary Action",
+                    "description": "In computing, minimizing doesn't close the program; it's still running and accessible.",
+                    "example": "I minimized the game to check the time.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Curtail": {
+            "wordRoot": "Curtail",
+            "wordDefinition": "Curtail means to reduce or cut back on something that is excessive or unnecessary.\n\nIt is usually used to refer to cutting back on spending, regulations, or activities. For example: The government is trying to curtail spending on defense.\n\nCurtail is used when there is an excess or something unnecessary that needs to be reduced, while minimize is used when there is something harmful or undesirable that needs to be reduced as much as possible.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7b486497-a3da-475b-9f46-a29343ffcf2c.webp"
+        },
+        "Cut down": {
+            "wordRoot": "Cut down",
+            "wordDefinition": "The phrase cut down means to reduce, decrease or diminish the quantity, size or level of something.\n\nCut down is applicable when you need to reduce the quantity or size of something, while minimize is applicable when you need to make something as small or insignificant as possible.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dcd8f7bc-a35c-455a-a32b-714465e14a7a.webp"
+        },
+        "Decrease": {
+            "wordRoot": "Decrease",
+            "wordDefinition": "Decrease means to make something smaller or less in quantity, size, or extent.\n\nFor example, if you decrease the amount of sugar in a recipe, it means you are making it less sweet.\n\nBoth words involve reducing something, but decrease focuses on the amount or size, while minimize focuses on the harmful or negative effects.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49f4a8f8-d896-4ab3-8eea-99e6df95bdf2.webp"
+        },
+        "Diminish": {
+            "wordRoot": "Diminish",
+            "wordDefinition": "Diminish means to make something smaller or less important. It is applicable when talking about things that can be quantified, such as numbers, size, or quantity.\n\nFor example, \"The number of students taking math classes has diminished this year.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4db99ecf-4dc9-4c74-b813-bd64a95f841f.webp"
+        },
+        "Lessen": {
+            "wordRoot": "Lessen",
+            "wordDefinition": "Lessen means to make something smaller or decrease in size or amount. For example, if you lessen your workload, you would do fewer tasks.\n\nLessen means to decrease, while minimize means to reduce to the minimum possible level. Both words can be used in a variety of situations, but lessen is generally used when referring to reducing an amount or size, and minimize is usually used when referring to minimizing the impact or importance of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/418a20ae-cc6d-4e4e-800a-8852d9d76798.webp"
+        },
+        "Low": {
+            "wordRoot": "Low",
+            "wordDefinition": "Low means something is not very high or small in amount, while minimize means to reduce something to the smallest possible level.\n\nFor example, the price of a product can be low, meaning it is inexpensive. A company can try to minimize its expenses by reducing unnecessary costs, which means they are trying to make the expenses as small as possible.\n\nLow refers to a relative amount or size, while minimize refers to actively trying to make something smaller or less significant.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9fcb71e-92d0-4f8e-8c53-94f8689bd437.webp"
+        },
+        "Reduce": {
+            "wordRoot": "Reduce",
+            "wordDefinition": "Minimize means to make something as small as possible or to keep it to a minimum. It's used when you want to reduce the amount of something to the lowest possible level.\n\nReduce means to make something smaller or to decrease its quantity or size. It's used when you want to make something less or decrease its amount.\n\nFor example, cutting back on food intake can reduce weight.\n\nMinimize is used when you want to make something as small as possible, while reduce is used when you want to make something smaller or decrease its quantity or size.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46be9f28-a68f-4b62-a438-202a8a114804.webp"
+        },
+        "Trim": {
+            "wordRoot": "Trim",
+            "wordDefinition": "Trim means to cut off the unwanted or excess parts of something.\n\nThis word is generally used to cut off the edges, modify, or refine something. For example, we trim our hair to make it a certain length.\n\nMinimize means to decrease something while trim means to modify or remove unwanted parts of something. Both words can be used in different scenarios, but minimize is often used when reducing quantity, while trim is used when someone wants to refine, adapt, or cut off the parts that are not necessary.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c8f34f43-cc4f-446e-aa71-24d45cec8160.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Some people don't have insurance that would cover it. Some have been dismissed or minimized in the past, and don't think seeking help will do any good. Some worry about the stigma and whether it could affect future jobs or relationships. But severe anxiety isn't a moral or personal failing.",
+            "Title": "What's normal anxiety --...",
+            "VideoId": "xsEJ6GeAGb0",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " decreased harmful emissions, and minimized unproductive and stressful driving time. But accidents can and will still happen, and when they do, their outcomes may be determined months or years in advance by programmers or policy makers. And they'll have some difficult decisions to make.",
+            "Title": "The ethical dilemma of...",
+            "VideoId": "ixIoDYVfKA0",
+            "Controls": "start=93"
+        },
+        {
+            "Text": " in this next chapter of your life when they shouldn't be an extra. Getting over heartbreak is hard, but if you refuse to be misled by your mind and you take steps to heal, you can significantly minimize your suffering. And it won't just be you who benefit from that.",
+            "Title": "How to fix a broken...",
+            "VideoId": "k0GQSJrpVhM",
+            "Controls": "start=675"
+        },
+        {
+            "Text": " we generally advocate that people keep their cats indoors but if you do let your cat out we just want to know where are they going and try to understand some of the biological phenomenon so that we can help in the future minimize the impacts of cats on wildlife",
+            "Title": "Where Your Cat Goes May...",
+            "VideoId": "-0n2kxkdJgM",
+            "Controls": "start=168"
+        },
+        {
+            "Text": " However, we have developed other ways of minimizing cavities besides reducing our intake of sugar and starch. In most toothpastes and many water supplies, we use tiny amounts of fluoride. That strengthens teeth and encourages the growth of enamel crystals",
+            "Title": "What causes cavities? -...",
+            "VideoId": "zGoBFU1q4g0",
+            "Controls": "start=224"
+        },
+        {
+            "Text": " eight other factors that came out time and time again we heard it over and over and over where first do they make safe and reliable products do they protect employee rights are they well governed and generated profit do they minimize",
+            "Title": "America’s most just...",
+            "VideoId": "5vucpGk46DU",
+            "Controls": "start=187"
+        },
+        {
+            "Text": " I think the important point here is recognizing that all of us are flawed. We all are going to fail now and then. The idea is to think ahead to what those failures might be, to put systems in place that will help minimize the damage,",
+            "Title": "How to stay calm when...",
+            "VideoId": "8jPQjjsBbIc",
+            "Controls": "start=685"
+        },
+        {
+            "Text": " but the pressure for women is to hide, minimize and deny, which isn't surprising when you consider that there are still nine countries where women can be killed for straying. Now, monogamy used to be one person for life.",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=153"
+        },
+        {
+            "Text": " hairs have been dated back over a hundred thousand years adopting a spherical ball of fluff pose helps the hair stay warm by minimizing the surface area of their body exposed to the bitter cold wedging themselves in",
+            "Title": "Sophisticated Mountain...",
+            "VideoId": "Ds3JsU5Vwg4",
+            "Controls": "start=126"
+        },
+        {
+            "Text": " we must focus on how we can help children grow up healthy. We must ask if farmers in rural communities can thrive, and if everyone can afford the food. We must try to minimize environmental degradation.",
+            "Title": "Pamela Ronald: The case...",
+            "VideoId": "wZ2TF8-PGQ4",
+            "Controls": "start=809"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judith-butler.webp",
+            "Text": "Cameras help to minimize collateral damage, and very often, without a camera a missile cannot fire. Certainly, without a camera a drone can't function, which means that the very ways in which we wage war are determined in part by how cameras work and whether they work at all.",
+            "Title": "American Philosopher",
+            "Name": "Judith Butler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-kenji-lopez-alt.webp",
+            "Text": "Air is the enemy of most foods and can increase their rate of spoilage. By transferring them to smaller containers, you not only minimize air contact, but you also help keep your fridge organized and easy to navigate.",
+            "Title": "American Chef",
+            "Name": "J. Kenji Lopez-Alt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jackie-speier.webp",
+            "Text": "We must start to prepare for a warming world in the same way that we prepare for the possibility of terrorism - by making sure our infrastructure is secure and by working to minimize threats as much as possible.",
+            "Title": "American Politician",
+            "Name": "Jackie Speier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hugh-mackay.webp",
+            "Text": "One reason we resist making deliberate choices is that choice equals change and most of us, feeling the world is unpredictable enough, try to minimise the trauma of change in our personal lives.",
+            "Title": "Australian Scientist",
+            "Name": "Hugh Mackay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hope-jahren.webp",
+            "Text": "Women live in a world where we are forced to consider our safety at every turn. We minimize risk while we maximize activity. It's this constant balancing act that we do.",
+            "Title": "American Scientist",
+            "Name": "Hope Jahren"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nick-saban.webp",
+            "Text": "I said as soon as we had a playoff, we were going to minimize the importance of all the other bowl games. I'm not saying it's good or bad; it kind of is what it is.",
+            "Title": "American Coach",
+            "Name": "Nick Saban"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-darnton.webp",
+            "Text": "I would not minimize the digital divide, which separates the computerized world from the rest, nor would I underestimate the importance of traditional books.",
+            "Title": "American Historian",
+            "Name": "Robert Darnton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-t-chambers.webp",
+            "Text": "There is no secure data center in the world; they have all been broken into. We can help you prepare for it and minimize the damage when it does occur.",
+            "Title": "American Businessman",
+            "Name": "John T. Chambers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jake-pavelka.webp",
+            "Text": "My goal in life is to make decisions that minimize regrets. I don't regret anything I've done.",
+            "Title": "American Celebrity",
+            "Name": "Jake Pavelka"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alex-trebek.webp",
+            "Text": "Don't minimize the importance of luck in determining life's course.",
+            "Title": "Canadian Entertainer",
+            "Name": "Alex Trebek"
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "currentWord": {
+        "wordRoot": "merchandise",
+        "id": 14769,
+        "phonemic": "ˈmɜːtʃəndaɪz|ˈmɜːrtʃəndaɪs,ˈmɜːrtʃəndaɪz\r",
+        "bigId": "bc55fbb1-4cba-4ce0-a3f7-8992709e5810",
+        "wordForms": [
+            "merch",
+            "merchandise"
+        ]
+    },
+    "senses": [
+        {
+            "id": "bc55fbb1-4cba-4ce0-a3f7-8992709e5810",
+            "de": "Goods that are bought and sold in business",
+            "ty": "noun",
+            "ex": "The store has a wide selection of merchandise.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "buy merchandise",
+                " sell merchandise",
+                " promotional merchandise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bc55fbb1-4cba-4ce0-a3f7-8992709e5810.webp",
+            "Tips": [
+                {
+                    "title": "Business Context",
+                    "description": "The term is widely used in trade and retail settings to refer to products for sale.",
+                    "example": "The new merchandise will hit the shelves next week.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PPvJ0XtA9DbDruHAy6G8sytBPOs.webp"
+                },
+                {
+                    "title": "Physical Items",
+                    "description": "'Merchandise' often implies a tangible product rather than a service.",
+                    "example": "Tourists love to bring back local merchandise as souvenirs.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/KFIHB2TvSHy7eEfVmka3n7oxRI.webp"
+                },
+                {
+                    "title": "Variety of Goods",
+                    "description": "Merchandise can range from clothes and toys to food and electronics.",
+                    "example": "This store's merchandise caters to all age groups.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bSl5L172yDNubkeglh2wGkPUAo.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c6c01353-a5c8-41ac-998b-3aeb42340d64",
+            "de": "To present or promote for commercial purposes or for public view",
+            "ty": "verb",
+            "ex": "Sports stars often merchandise their name and image.",
+            "use": "",
+            "co": "Business, Marketing",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "merchandise a product",
+                " merchandise a brand",
+                " merchandise a service"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c6c01353-a5c8-41ac-998b-3aeb42340d64.webp",
+            "Tips": [
+                {
+                    "title": "Commercial Promotion",
+                    "description": "As a verb, it means to actively promote and increase the sales of a product.",
+                    "example": "The author merchandised her book through social media platforms.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Endorsements",
+                    "description": "Celebrities may 'merchandise' products by endorsing or being associated with them.",
+                    "example": "The athlete was paid to merchandise the sportswear brand.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Create Desire",
+                    "description": "Merchandising is about making products appealing, to entice customers.",
+                    "example": "Good merchandising can make even the most common item seem like a must-have.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Article": {
+            "wordRoot": "Article",
+            "wordDefinition": "An article is a written piece of content that provides information about a particular subject or topic.\n\nArticle describes written content, while merchandise refers to physical or digital products that are bought and sold.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24bc00eb-0fe4-4d33-aeb8-73141e68a03d.webp"
+        },
+        "Commodity": {
+            "wordRoot": "Commodity",
+            "wordDefinition": "A commodity is a raw material or agricultural product that can be bought and sold. Examples of commodities include corn, wheat, gold, and oil.\n\nCommodities are usually traded on global markets and their prices fluctuate depending on supply and demand.\n\nIn summary, commodities are raw materials bought and sold on global markets, while merchandise refers to finished goods sold in retail stores or online.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d824e134-e9cc-4492-b08c-05a3b319e535.webp"
+        },
+        "Good": {
+            "wordRoot": "Good",
+            "wordDefinition": "Good refers to a tangible or intangible item, service or product that fulfills a need, want or desire.\n\nGood is a general term for any kind of item, while merchandise specifically refers to goods that are being sold by a business.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cbe50d1f-f390-4699-8bb4-ca4a0e6d29c0.webp"
+        },
+        "Inventory": {
+            "wordRoot": "Inventory",
+            "wordDefinition": "Inventory refers to all the goods or supplies that a company or business has on hand, including raw materials, finished products, and supplies used to produce the goods.\n\nFor example, a grocery store's inventory might include produce, meat, dairy products, cleaning supplies, and office equipment.\n\nInventory is everything a business has on hand, while merchandise is the specific goods that the business intends to sell to customers.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1.webp"
+        },
+        "Item": {
+            "wordRoot": "Item",
+            "wordDefinition": "Item refers to a single object.\n\nIt can be anything from a pencil to a book to a chair. When we use the word item, we're generally referring to one specific thing.\n\nMerchandise refers to goods that are produced for sale. This can be anything from clothing to electronics to toys. When we use the word merchandise, we're generally referring to a group of items that are being sold together.\n\nIf you go to a store and buy a single book, that's an \"item.\" If you go to a store and buy a bunch of books, along with some other things like toys and electronics, that's \"merchandise.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e249a45f-10c4-466c-86d7-6b35f9477096.webp"
+        },
+        "Product": {
+            "wordRoot": "Product",
+            "wordDefinition": "Product refers more specifically to an item that is manufactured or produced for sale. This could also refer to a service that is offered for sale.\n\nMerchandise is a broader term that includes all items for sale, while product refers specifically to a manufactured or produced item for sale.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/98b141d7-c75f-41a0-aeff-e5d0f46a0e5b.webp"
+        },
+        "Stock": {
+            "wordRoot": "Stock",
+            "wordDefinition": "Merchandise and stock can have overlapping meanings, but generally refer to different things.\n\nStock generally refers to the total amount of goods or products that a business has on hand or available for sale. For example, a grocery store's stock might include all of the different types of food and household products that it carries.\n\nWhile both terms are related to products that a business sells, merchandise is more specific to the product itself, while stock refers more broadly to the overall supply of goods that a business has available.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2cd09697-f848-4bc1-b212-2f38f4ebd4d8.webp"
+        },
+        "Ware": {
+            "wordRoot": "Ware",
+            "wordDefinition": "Both merchandise and ware refer to products that are sold, but there are slight differences in their usage.\n\nWare, on the other hand, is a broader term that can refer to any product that is manufactured or sold.\n\nHowever, it is often used to describe products that are specifically related to a certain industry or trade. For instance, 'tableware' refers to dishes and cutlery used for eating, while 'hardware' refers to tools and equipment used for construction and repair.\n\nSo while merchandise is commonly used in the context of retail, ware covers a wider range of products and industries.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ebdec295-066e-43e4-85a9-5ec07f207086.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " is I had to sell my work, and not myself. And the way I sold livestock jobs is I showed off my drawings, I showed off pictures of things. Another thing that helped me as a little kid is, boy, in the '50s, you were taught manners. You were taught you can't pull the merchandise off the shelves in the store and throw it around.",
+            "Title": "The world needs all...",
+            "VideoId": "fn_9f5x0f1Q",
+            "Controls": "start=286"
+        },
+        {
+            "Text": " most of time he's yelling and screaming that's one fish you had three on and he barely said two words all right we just see a little glimpse into the type of food that you guys prepare when you're out in the water waiting for a bite each boats a little bit different we've seen Jay on hard merchandise each straight",
+            "Title": "Reel Talk Ep. 13 - Tuna...",
+            "VideoId": "SgGrcm7islk",
+            "Controls": "start=693"
+        },
+        {
+            "Text": " the way I sold livestock jobs as I showed off my drawings I showed off pictures of things another thing that helped me as a little kid is boy in the 50s you were taught manners you were taught you can't pull the merchandise off the shelves in a store and throw it around now when kids get to be in third",
+            "Title": "The world needs all...",
+            "VideoId": "UKhg68QJlo0",
+            "Controls": "start=290"
+        },
+        {
+            "Text": " because every point is either good for both of you -- positive, win-win -- or bad for both of you, it's lose-lose. That's a non-zero-sum game. And in real life, there are lots of non-zero-sum games. In the realm of economics, say, if you buy that means you'd rather have the merchandise than the money,",
+            "Title": "Robert Wright: The...",
+            "VideoId": "N4wFyRGilp4",
+            "Controls": "start=513"
+        },
+        {
+            "Text": " develop merch like T-shirts and dad hats, mention how much money you've helped your clients generate. Or, if you've created a diversity and inclusion training program for corporations, talk about how much time and money a company saves purchasing your product instead of developing their own.",
+            "Title": "The secret to being a...",
+            "VideoId": "-UV3xm9pZ0g",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " that much about the hard merchandise yet we look up today at this stage right at the end here he is ahead of you the word hubris comes to mind how do you how do you feel about about Marciano being ahead of you hey I've said it before I'll say it again I always say I don't believe in",
+            "Title": "Reel Talk Ep. 10 - When...",
+            "VideoId": "mgAlwGH1CcY",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " Brotherhood our friendship stay strong with that yeah just take a little slice off here see what that looks like before Carl will make any deal he needs to inspect the merchandise yeah that'll be nice or burl isn't is an unusual",
+            "Title": "A Visit to the Leather...",
+            "VideoId": "hbuMIj9wrH0",
+            "Controls": "start=43"
+        },
+        {
+            "Text": " and lights up a patch of the land, highlighting it compared to the dim environment. Or it can be in today's retail, in the shopping environment -- lighting the merchandise and creating accents that help you to get around.",
+            "Title": "Rogier van der Heide:...",
+            "VideoId": "qKmuMQT5E6Y",
+            "Controls": "start=400"
+        },
+        {
+            "Text": " And he said, \"Well, I have to work in order to pay the rent.\" A second patient to that same clinic, a trucker, drove three days with a raging infection, only coming to see me after he had delivered his merchandise.",
+            "Title": "What the US health care...",
+            "VideoId": "n3ZbjsS4TCc",
+            "Controls": "start=197"
+        },
+        {
+            "Text": " erasing the prices of the merchandise while you were in line to pay you could see the perverse effect of inflation working at fast speed as the prices of the goods you were expecting to buy were",
+            "Title": "The Latin America that...",
+            "VideoId": "By77dzA595w",
+            "Controls": "start=341"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-cena.webp",
+            "Text": "I'm the one person who wears the words 'hustle, loyalty, respect' on my T-shirts and merchandise. My audience is children. It's very flattering to see a kid wear your T-shirt; it's even more flattering to have a dad come up to you and say, 'I watch you with my kid. Keep doing what you're doing. You're a role model for my son.",
+            "Title": "American Actor",
+            "Name": "John Cena"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/big-krit.webp",
+            "Text": "Everyone should still want to put their music out because it's important that people still think that you are still willing to come to them. When you're dealing with the Internet, it's a 'come to me' situation. But when people see you out-and-about, promoting your merch and in the club, people enjoy that, too.",
+            "Title": "American Musician",
+            "Name": "Big K.R.I.T."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karen-katz.webp",
+            "Text": "Today, fashion shows are now blogged and broadcast all over the world via social media. By the time the merchandise ships many months later, the newness and excitement has worn off, and in many cases, the customer has moved on.",
+            "Title": "American Author",
+            "Name": "Karen Katz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-g-rubin.webp",
+            "Text": "Being able to make sure we have exactly what the fan wants at any time, that's what really drives our business. And having a supply chain that's vertical, and can get that merchandise to the fan, is incredibly important.",
+            "Title": "",
+            "Name": "Michael G. Rubin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jessica-lange.webp",
+            "Text": "Successful model? That's a myth. The year I modeled was the most painful year of my life. Editors would always talk to you in the third person as though you were merely a piece of merchandise.",
+            "Title": "American Actress",
+            "Name": "Jessica Lange"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alan-moore.webp",
+            "Text": "It may be true that the only reason the comic book industry now exists is for this purpose, to create characters for movies, board games and other types of merchandise.",
+            "Title": "British Writer",
+            "Name": "Alan Moore"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pete-wentz.webp",
+            "Text": "Ultimately, people do want to buy merch and tickets to support their favorite bands, but they don't want to feel like it's the only thing going on.",
+            "Title": "American Musician",
+            "Name": "Pete Wentz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/freddie-wong.webp",
+            "Text": "When you have a home and create a brand people believe in and want to support, it makes it easier for you to control merchandise and sell it.",
+            "Title": "American Director",
+            "Name": "Freddie Wong"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chance-the-rapper.webp",
+            "Text": "I make my money off of touring and merchandise. And I'm lucky I have really loyal fans that understand how it works and support.",
+            "Title": "American Musician",
+            "Name": "Chance The Rapper"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-harrison.webp",
+            "Text": "I tell people, 'I'm the only business in the world where I don't pick my merchandise.",
+            "Title": "American Businessman",
+            "Name": "Rick Harrison"
+        }
+    ]
+}

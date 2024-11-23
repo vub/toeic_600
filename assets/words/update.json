@@ -1,0 +1,295 @@
+{
+    "currentWord": {
+        "wordRoot": "update",
+        "id": 18521,
+        "phonemic": "ˌʌpˈdeɪt|ˌʌpˈdeɪt\r",
+        "bigId": "0fc00ef1-0968-4ca9-ae1f-5cea5ecd12f2",
+        "wordForms": [
+            "updates",
+            "updating",
+            "updated",
+            "update"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0fc00ef1-0968-4ca9-ae1f-5cea5ecd12f2",
+            "de": "To make something more modern or suitable for use now by adding new information or changing its design",
+            "ty": "verb",
+            "ex": "Please update your mailing address on the form.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "update your address",
+                "update the system",
+                "update your profile"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0fc00ef1-0968-4ca9-ae1f-5cea5ecd12f2.webp",
+            "Tips": [
+                {
+                    "title": "Continuous Action",
+                    "description": "Use 'update' to show ongoing improvements or changes.",
+                    "example": "We continuously update our menu to offer fresh flavors.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/rhdtkSiYGIhrgBqzEQlqeIuxXo.webp"
+                },
+                {
+                    "title": "Frequency",
+                    "description": "Indicate how often updates occur, such as 'regularly' or 'periodically'.",
+                    "example": "The team updates the project plan weekly.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7GsCOztxkzCZ44QZba7ooywmpE.webp"
+                },
+                {
+                    "title": "Immediacy",
+                    "description": "Use 'update' when timely changes are applied.",
+                    "example": "Please update me on any changes before noon.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tELRn82UbVkyrW1JzcoUdkF8oSM.webp"
+                }
+            ]
+        },
+        {
+            "id": "6997145c-605a-4f4b-8b50-49406b5ff141",
+            "de": "A piece of new information that corrects or changes an understanding of something",
+            "ty": "noun",
+            "ex": "I will give you an update on your application next week.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "get an update",
+                "wait for an update",
+                "send an update"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6997145c-605a-4f4b-8b50-49406b5ff141.webp",
+            "Tips": [
+                {
+                    "title": "New Development",
+                    "description": "An update informs about recent changes or developments.",
+                    "example": "We received an update on the case's progress today.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Expectation Setting",
+                    "description": "Use 'update' to set expectations for future communication.",
+                    "example": "I'll need weekly updates on your project's status.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Correcting Info",
+                    "description": "Updates often clarify or correct previous information.",
+                    "example": "An update to the earlier report corrected some errors.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "84d1040d-bca4-4067-bc1e-dc04f0dcd3cc",
+            "de": "In computing, to replace a program with a newer version",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "It's important to regularly update your antivirus software to protect your computer.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "update software",
+                "update firmware",
+                "update app"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/84d1040d-bca4-4067-bc1e-dc04f0dcd3cc.webp",
+            "Tips": [
+                {
+                    "title": "Technical Improvement",
+                    "description": "In computing, it's about improving software or fixing issues.",
+                    "example": "The latest update improved the software's speed.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Security Enhancement",
+                    "description": "Updates in computing often patch security vulnerabilities.",
+                    "example": "The security update addressed the newly found bugs.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Feature Addition",
+                    "description": "Updates can add new functionalities to applications.",
+                    "example": "The app's update included new photo editing tools.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Enhance": {
+            "wordRoot": "Enhance",
+            "wordDefinition": "Enhance means to improve, make better or increase the quality of something that already exists. For instance, a musician may enhance a song by adding more instruments or changing the arrangement to make it sound better.\n\nIn simple terms, enhancing refers to improving while updating refers to making something more modern or bringing it to its latest version.\n\nEnhancing can be applied to anything that already exists while updating can be applied to anything that has a newer version or when something becomes out-of-date.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/acf0f29a-905b-473f-86f6-4995fffdc23c.webp"
+        },
+        "Improve": {
+            "wordRoot": "Improve",
+            "wordDefinition": "Improvement refers to enhancing or making something better than it was before. It typically involves identifying areas that need improvement and taking steps to address them.\n\nImprovement is generally applicable to things that are functional but need enhancement, such as a product's efficiency or a student's grades.\n\nIn summary, improvement is about making something better and update is about making something current.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/63b01303-49f7-4564-9030-12f8b6e51cc2.webp"
+        },
+        "Modernize": {
+            "wordRoot": "Modernize",
+            "wordDefinition": "Modernize refers to making something more modern in terms of technology or design. For example, modernizing a house may include adding smart technology or updating the design to be sleek and contemporary.\n\nBoth terms are applicable in different contexts but modernize typically implies a more significant change while update refers to smaller, incremental changes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a79f7e45-14e2-41fb-8134-f7f7762d2cc9.webp"
+        },
+        "Refresh": {
+            "wordRoot": "Refresh",
+            "wordDefinition": "Refresh means to renew or restart something, such as a webpage or a computer screen.\n\nRefresh means to start something again and update means to make something better.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/322142da-2dea-4335-aa05-d1a5a083362b.webp"
+        },
+        "Refurbish": {
+            "wordRoot": "Refurbish",
+            "wordDefinition": "Refurbish means to repair or renovate something so that it looks and functions as if it were new. This is generally used for older items or buildings that need a lot of work to make them useful again.\n\nSo, in short, refurbish means to restore an older item to its original condition, while update means to make improvements or changes to something to keep it current or better than before.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/41f6c95f-844c-44c2-93bc-c3d723e76794.webp"
+        },
+        "Renew": {
+            "wordRoot": "Renew",
+            "wordDefinition": "Renew means to make something new again, or to restart something that has ended.\n\nIt is often used when talking about things like renewing a passport or renewing a subscription to a magazine.\n\nThe difference between the two is that renewing is about starting something again, while updating is about making something current.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8300e292-f9df-40a9-bd3b-2bd79bb8ca91.webp"
+        },
+        "Revise": {
+            "wordRoot": "Revise",
+            "wordDefinition": "Revise means to make changes to something based on feedback or to make it better. It usually involves looking at the original work and making major changes to improve it.\n\nFor example, a student might revise their paper based on feedback from their teacher. They'd go through it carefully and make big changes to the structure, content, or organization.\n\nRevise is used when you want to make major changes while update is used when you want to make small changes or keep something current.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/58b6aaf2-ab96-4d37-be86-d6b86b52fcfd.webp"
+        },
+        "Upgrade": {
+            "wordRoot": "Upgrade",
+            "wordDefinition": "Upgrade implies that there is a new and improved version of something. For example, upgrading your phone or computer means getting a better, advanced or faster version of that device.\n\nUpgrades typically involve replacing the old thing with the new version.\n\nIn short, updates are small changes while upgrades are significant improvements.\n\nUpdates can be done frequently while upgrades are done once in a while.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e832f761-afa7-4748-9114-c4063ba4b00e.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " used it to dispense news and updates as well. At this event, dozens of people here are Twittering and thousands of people around the world are following along because they want to know what it feels like to be here and what's happening. Among the other interesting things that have cropped up are many things from businesses,",
+            "Title": "Evan Williams on what's...",
+            "VideoId": "3n_EitPb7BU",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " that cannot be updated over the air. Where if you, for example, were to say, “Stop, stop, stop,” if anyone said that, then the robot would stop, you know, type of thing. And that's not updatable remotely. I think it's going to be important to have safety features like that. Yeah, that sounds wise.",
+            "Title": "Elon Musk: A future...",
+            "VideoId": "YRvf00NooN8",
+            "Controls": "start=1404"
+        },
+        {
+            "Text": " dystopian situation um like i think one of the things that's going to be important is to have a localized rom chip on the robot that cannot be updated over the air uh where if you for example were to say stop stop stop that would if anyone said that then the robot would stop you",
+            "Title": "Elon Musk talks Twitter,...",
+            "VideoId": "cdZZpaB2kDM",
+            "Controls": "start=430"
+        },
+        {
+            "Text": " it helps to have a clear idea of one important way the brain processes information from our senses. Based on sensory input, it builds models, which are continuously updating, simplified descriptions of objects and events in the world. Everything we know is based on these models.",
+            "Title": "What is consciousness? -...",
+            "VideoId": "MASBIB7zPo4",
+            "Controls": "start=104"
+        },
+        {
+            "Text": " positioned things are moving in all the right ways the world is changing it is changing but it's not fast enough so that's my little update guys it's hard to do it quickly it really is but I need to reach out to tedsters again I do need help and I need funding the next",
+            "Title": "Launching a Food...",
+            "VideoId": "QwCCBsANmCY",
+            "Controls": "start=424"
+        },
+        {
+            "Text": " Or they could just abuse their emergency powers and try to stay in office indefinitely. So we've got some real problems in our system. The best way to stop a coup is to update and strengthen our democratic system as soon as this election is over.",
+            "Title": "What if a US presidential...",
+            "VideoId": "WZWRhLW7Y8w",
+            "Controls": "start=875"
+        },
+        {
+            "Text": " and keeps getting updated, because we humans reflect on our world through symbolic stories of our own lives. You leave your comfort zone, have an experience that transforms you, and then you recover and do it again.",
+            "Title": "What makes a hero? -...",
+            "VideoId": "Hhk4N9A0oCA",
+            "Controls": "start=202"
+        },
+        {
+            "Text": " There are times when it is important to convey information quickly, to present bulleted facts and updates. When a situation is urgent, when action is required now, when you need to know where the tornado will hit,",
+            "Title": "Capturing authentic...",
+            "VideoId": "4mQN1hcFJwU",
+            "Controls": "start=148"
+        },
+        {
+            "Text": " other animals leave behind has made them a highly successful species loving devoted and intelligent animals with a strong sense of family perhaps it's time we update our outdated perception of the humble hyena",
+            "Title": "Top 5 Best Animal...",
+            "VideoId": "Ge0xHkgL1zs",
+            "Controls": "start=799"
+        },
+        {
+            "Text": " series they've been updated they've had new lighting system new graphics additional pipe work it's very much been and that you know we try to actually give the sense that there has been life",
+            "Title": "Live from Mars 360° PIPE...",
+            "VideoId": "3EgmQYx8ax4",
+            "Controls": "start=948"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mike-krieger.webp",
+            "Text": "Innovation happens best when people of different backgrounds come together to solve the world's toughest challenges and, in the process, can create new jobs and opportunities. I'm hopeful that updated immigration policies will encourage entrepreneurs from around the world to help tackle these opportunities in the U.S.",
+            "Title": "Brazilian Businessman",
+            "Name": "Mike Krieger"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/a-p-j-abdul-kalam.webp",
+            "Text": "The world has today 546 nuclear plants generating electricity. Their experience is being continuously researched, and feedback should be provided to all. Nuclear scientists have to interact with the people of the nation, and academic institutions continuously update nuclear power generation technology and safety.",
+            "Title": "Indian Statesman",
+            "Name": "A. P. J. Abdul Kalam"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/glennon-doyle-melton.webp",
+            "Text": "When I was detoxing from social media, I realized that I was thinking in status updates. It seemed I had trained my brain to translate everything I experienced throughout the day into 140 characters or less.",
+            "Title": "American Author",
+            "Name": "Glennon Doyle Melton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ariel-winter.webp",
+            "Text": "Filming a movie is different from a TV show because film is a lot quicker, you get to see the character progress and grow all in one script, and in television, you wait for a weekly update on each character.",
+            "Title": "American Actress",
+            "Name": "Ariel Winter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julie-sweet.webp",
+            "Text": "In the old, on-premises world, we had to make updates client by client. With digital, companies need to move quickly and change quickly, and cloud provides a competitive advantage.",
+            "Title": "American Businesswoman",
+            "Name": "Julie Sweet"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "I updated my grilling app, iGrill, today and it now has Facebook integration that lets you see what other people are grilling right now around the world. Awesome.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kamal-haasan.webp",
+            "Text": "I'd like to keep updating myself. That's the only way to make life interesting. And because I am a performer, I like to do it deliberately and with purpose.",
+            "Title": "Indian Actor",
+            "Name": "Kamal Haasan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sonam-wangchuk.webp",
+            "Text": "I expect nothing from the government but I expect everything from people. There is a need to update ourselves, our values and lifestyle.",
+            "Title": "Indian Activist",
+            "Name": "Sonam Wangchuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gabrielle-giffords.webp",
+            "Text": "Even though many couples are choosing to marry later in life, our laws haven't been updated to address dating partner abuse.",
+            "Title": "American Politician",
+            "Name": "Gabrielle Giffords"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/warren-spector.webp",
+            "Text": "I would love to take 'Ultimata Underworld' and literally update the graphics.",
+            "Title": "American Designer",
+            "Name": "Warren Spector"
+        }
+    ]
+}

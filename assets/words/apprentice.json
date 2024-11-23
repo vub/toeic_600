@@ -1,0 +1,261 @@
+{
+    "currentWord": {
+        "wordRoot": "apprentice",
+        "id": 21934,
+        "phonemic": "əˈprentɪs|əˈprentɪs\r",
+        "bigId": "772716a9-4f60-422f-9312-1cfb100b8822",
+        "wordForms": [
+            "apprentices",
+            "apprenticing",
+            "apprenticed",
+            "apprentice"
+        ]
+    },
+    "senses": [
+        {
+            "id": "772716a9-4f60-422f-9312-1cfb100b8822",
+            "de": "A person who is learning a job by working for an expert in the field",
+            "ty": "noun",
+            "ex": "Tom is an apprentice in a hair salon where he learns styling techniques from master stylists.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "apprentice plumber",
+                " apprentice carpenter",
+                " apprentice mechanic"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/772716a9-4f60-422f-9312-1cfb100b8822.webp",
+            "Tips": [
+                {
+                    "title": "Working While Learning",
+                    "description": "An apprentice gains hands-on experience while being taught by a professional.",
+                    "example": "Maria became an apprentice at the bakery to learn decorating cakes professionally.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/epyAqbJlR0JrmwQirGFPfLa3zak.webp"
+                },
+                {
+                    "title": "Paid to Learn",
+                    "description": "Unlike interns, apprentices are usually paid as they are training on the job.",
+                    "example": "As an apprentice electrician, Leo earns a wage while he masters his skills.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7GbBwhUs4nChCqBfCYsmhSR5ziY.webp"
+                },
+                {
+                    "title": "Formal Training",
+                    "description": "Apprenticeship often includes structured training and might lead to a qualification.",
+                    "example": "After completing her apprenticeship, Jenna received a certificate in carpentry.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MZepWhv69hYRRhx2cJNt6wdG9gA.webp"
+                }
+            ]
+        },
+        {
+            "id": "6c56acc9-bded-419f-bb5e-4d9270ff3bdb",
+            "de": "To work as an apprentice",
+            "ty": "verb",
+            "ex": "She was apprenticed to a local baker to learn the trade.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "apprenticed to a",
+                " apprenticed in",
+                " apprenticed with"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6c56acc9-bded-419f-bb5e-4d9270ff3bdb.webp",
+            "Tips": [
+                {
+                    "title": "Becoming Skilled",
+                    "description": "To apprentice in a job is to begin learning the skills necessary for that profession.",
+                    "example": "He apprenticed with a tailor for two years before opening his own shop.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Starting Young",
+                    "description": "Apprenticing typically involves younger individuals starting a career path, but not exclusively.",
+                    "example": "She apprenticed at the flower shop right after high school.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mentorship Relationship",
+                    "description": "Apprenticeship involves learning under the supervision of a more experienced mentor.",
+                    "example": "Apprenticed to the city's finest chef, he quickly learned the secrets of the kitchen.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Acolyte": {
+            "wordRoot": "Acolyte",
+            "wordDefinition": "An acolyte is usually a religious term used to describe someone who assists a priest or minister during religious ceremonies, such as lighting candles or carrying the cross.\n\nAn acolyte is applicable in religious contexts, while an apprentice is applicable in trades or professions that require a certain level of skill or expertise.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/19e22f76-d9a1-45dd-ad43-5aadb91e3618.webp"
+        },
+        "Beginner": {
+            "wordRoot": "Beginner",
+            "wordDefinition": "Beginner refers to someone who is new to a particular activity or skill and has little to no experience in it.\n\nFor example, someone who has never played basketball before might be considered a beginner if they join a basketball team for the first time.\n\nApprentice suggests formal training and a desire to become an expert in a particular field, while beginner simply refers to someone who is new to a particular activity or skill.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c991c22a-9809-4620-b80a-499c97c25df7.webp"
+        },
+        "Intern": {
+            "wordRoot": "Intern",
+            "wordDefinition": "An intern is someone who usually completes a temporary work placement or internship to gain practical experience and exposure to a particular industry or field.\n\nInterns may perform a range of tasks and duties, such as administrative work, data entry, research, or assisting with projects or events.\n\nThe main difference between apprenticeships and internships is that apprenticeships are focused on developing a specific skill or trade, while internships are more broad-based opportunities to explore a particular industry or field.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ac325e5-0f69-4e59-a348-34e2c5d1487c.webp"
+        },
+        "Learn": {
+            "wordRoot": "Learn",
+            "wordDefinition": "Apprentice refers to the person who is learning a skill or trade under the guidance of a skilled worker, while learn is the act of acquiring knowledge or skill through study, experience, or teaching.\n\nIf you want to learn how to play the piano, you might take lessons or study online tutorials in order to acquire the necessary skills and knowledge.\n\nApprentice is used when referring to more hands-on, practical training while learn can apply to a wider range of learning experiences, including academic or self-directed study.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0598e34c-6350-4a72-a6af-1e398a321971.webp"
+        },
+        "Novice": {
+            "wordRoot": "Novice",
+            "wordDefinition": "Novice generally refers to someone who is new to a particular activity, skill or field of knowledge, and lacks experience or expertise in that area.\n\nAn apprentice is someone who is specifically learning and training for a skilled trade or profession, while a novice is someone who is new to something and has yet to gain significant experience or mastery.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ca68823-c3f5-49c6-831b-5d360db4eef8.webp"
+        },
+        "Protege": {
+            "wordRoot": "Protege",
+            "wordDefinition": "An apprentice is a person who is learning a skill or trade from a more experienced person, while a protege is a person who is guided and supported in their professional or personal development by someone more experienced or influential.\n\nA protege is usually someone who has already established themselves in their career or chosen field. They are being mentored by someone who is more experienced or successful than they are, with the goal of advancing to a higher level of success or influence themselves.\n\nA protege may receive coaching, advice, and networking opportunities from their mentor.\n\nAn apprentice is someone who is learning from an experienced mentor to develop their skills and gain experience, while a protege is being guided and supported by a mentor to achieve greater success in their established career or field.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/185ac20a-48b2-4c22-a07d-aeea4dff3ebc.webp"
+        },
+        "Rookie": {
+            "wordRoot": "Rookie",
+            "wordDefinition": "A rookie is someone who is new to a particular profession or activity. They lack experience, but they are typically enthusiastic and eager to learn.\n\nRookies are common in sports, where young athletes are just starting their professional careers, but the term can be used in a variety of contexts.\n\nSo, in short, an apprentice is someone who is learning a specific skill or trade from an experienced professional, while a rookie is someone who is new to a particular profession or activity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/52db1639-2889-46cc-98ec-e1c54b16f0f6.webp"
+        },
+        "Trainee": {
+            "wordRoot": "Trainee",
+            "wordDefinition": "In contrast, a trainee refers to a person who is learning through instruction, observation, and practice under the supervision of a trainer.\n\nMeanwhile, traineeships are more likely to be seen in professional settings such as business, healthcare, and information technology, where practical skills and theoretical knowledge both are significant.\n\nThe primary difference between these two terms is that an apprentice is trained through work, while a trainee receives instruction and practical experience.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/409b6624-5d4c-45cc-bf9c-2c284c8e1eaa.webp"
+        },
+        "Tyro": {
+            "wordRoot": "Tyro",
+            "wordDefinition": "Tyro refers to a person who is new to a particular skill or activity, and is still in the early stages of learning. For example, a person who is new to playing basketball and is still learning the basics.\n\nAn apprentice is someone who is learning a skill or trade from a mentor, while a tyro is someone who is new to a skill or activity and is still in the early stages of learning.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/40d314bd-e0c6-4f7e-b9b4-4847506535ef.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Melanie picks up the lamb, one hand on both legs on the right, likewise on the left. Lamb goes on the post, she opens it up. Alright. Great. Albert goes in, I follow Albert, the crew is around. I always watch the process done the first time before I try it. Being an apprentice, you know, you do that.",
+            "Title": "Learning from dirty jobs...",
+            "VideoId": "IRVdiHu1VCc",
+            "Controls": "start=128"
+        },
+        {
+            "Text": " and I'm actually redesigning the robot, so, unbeknownst to itself, it's kind of digging its own grave by helping me. I wanted it to be less of a mechanical structure giving me light, and more of a helpful, kind of quiet apprentice that's always there when you need it and doesn't really interfere.",
+            "Title": "Robots with \"soul\" PIPE Guy...",
+            "VideoId": "utV1sdjr4PY",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " birds that was his specialty and i convinced him that we have a forest in india the western ghats a mountain range similar to this cloud forest which has an even more incredible amount of biodiversity and why not he come to india and and and um and i'd be his apprentice and he said yes",
+            "Title": "Sandesh Kadur: The Art...",
+            "VideoId": "QOuc23Us8Zk",
+            "Controls": "start=425"
+        },
+        {
+            "Text": " rates the exchange rates when he started and I think he's putting much more money than any of his classmates who got cushy jobs in fancy firms when they finished from the NBA those are pictures of some other artisans he helped many of whom today the way apprentice when he started",
+            "Title": "Creating job creators  PIPE...",
+            "VideoId": "VeCqj32D5dw",
+            "Controls": "start=232"
+        },
+        {
+            "Text": " are on hand. This is not to de-emphasize the essential requirement of broad training, or the value of apprenticing yourself in ongoing research to programs of high quality. It is important also to acquire older mentors within these successful",
+            "Title": "E.O. Wilson: Advice to...",
+            "VideoId": "IzPcu0-ETTU",
+            "Controls": "start=575"
+        },
+        {
+            "Text": " using government dollars. Miguel veered just to the left of computer programming, landed neck-deep in analytics and website funnels. He apprenticed for our digital marketing program. Eighteen months later, Miguel has a full-time job,",
+            "Title": "Irma L. Olguin Jr.: How...",
+            "VideoId": "1TzlzuW1uGA",
+            "Controls": "start=632"
+        },
+        {
+            "Text": " students and researchers are on hand this is not to de-emphasize the essential requirement of broad training or the value of apprenticing yourself in ongoing research to programs of high quality it is important also to acquire",
+            "Title": "Advice to young...",
+            "VideoId": "ptJg2GScPEQ",
+            "Controls": "start=574"
+        },
+        {
+            "Text": " when I went and I started my apprenticeship there isn't anybody that can ever explain to you what that means an apprentice is somebody who's going to not only learn a craft but also grow as a person and observe the humility",
+            "Title": "The Art of Shaping a...",
+            "VideoId": "TwqZ32TmbIU",
+            "Controls": "start=334"
+        },
+        {
+            "Text": " what makes local a good student he carries the tools well he takes responsibility very serious I think importance of teaching you know and having the apprentice you know what",
+            "Title": "Learning the Art of...",
+            "VideoId": "v0mInLBgdKM",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " i look at him like what the apprentice points down at a valley and in the middle of all these beautiful deep dark green canopy trees right there's this cloud of vapor",
+            "Title": "Solving the Mystery of...",
+            "VideoId": "MOvS7w9ceFY",
+            "Controls": "start=670"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marc-randolph.webp",
+            "Text": "If you apprentice yourself to the smartest people who will take you seriously, you will learn at every step. You'll learn their special language. You'll see what real people do. Your interests might surprise you. They will evolve. And you'll be well-positioned to take advantage of whatever opportunity life throws your way.",
+            "Title": "American Businessman",
+            "Name": "Marc Randolph"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wayne-dyer.webp",
+            "Text": "Everything you need you already have. You are complete right now, you are a whole, total person, not an apprentice person on the way to someplace else. Your completeness must be understood by you and experienced in your thoughts as your own personal reality.",
+            "Title": "American Psychologist",
+            "Name": "Wayne Dyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jhumpa-lahiri.webp",
+            "Text": "With 'Interpreter,' I didn't know it was ever going to be a book, that they were going to be published. I was writing them in a vacuum for the most part. They were my apprentice work. Then the stories happened to become a book.",
+            "Title": "American Author",
+            "Name": "Jhumpa Lahiri"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hilda-solis.webp",
+            "Text": "We need women to go through apprentice programs. I've seen women who did, and who are now highly trained electricians and welders. These are jobs that women are capable of doing.",
+            "Title": "American Politician",
+            "Name": "Hilda Solis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-fripp.webp",
+            "Text": "If an apprentice does not hear what a master hears, is then that quality not present in the music? Yes and no. In the world in which the apprentice lives no.",
+            "Title": "English Musician",
+            "Name": "Robert Fripp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aleksandr-solzhenitsyn.webp",
+            "Text": "It is the artist who realizes that there is a supreme force above him and works gladly away as a small apprentice under God's heaven.",
+            "Title": "Russian Author",
+            "Name": "Aleksandr Solzhenitsyn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-booth.webp",
+            "Text": "The profession of a prostitute is the only career in which the maximum income is paid to the newest apprentice.",
+            "Title": "British Leader",
+            "Name": "William Booth"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ernest-hemingway.webp",
+            "Text": "We are all apprentices in a craft where no one ever becomes a master.",
+            "Title": "American Novelist",
+            "Name": "Ernest Hemingway"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-oz.webp",
+            "Text": "Always two there are, a master and an apprentice.",
+            "Title": "American Actor",
+            "Name": "Frank Oz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frederik-crown-prince-of-denmark.webp",
+            "Text": "I am just an apprentice.",
+            "Title": "Royalty",
+            "Name": "Frederik, Crown Prince of Denmark"
+        }
+    ]
+}

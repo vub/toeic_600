@@ -1,0 +1,340 @@
+{
+    "currentWord": {
+        "wordRoot": "protect",
+        "id": 5992,
+        "phonemic": "prəˈtekt|prəˈtekt\r",
+        "bigId": "55d2edfc-5b8d-4916-b17e-0bf2cc0245d2",
+        "wordForms": [
+            "protects",
+            "protecting",
+            "protected",
+            "protect"
+        ]
+    },
+    "senses": [
+        {
+            "id": "55d2edfc-5b8d-4916-b17e-0bf2cc0245d2",
+            "de": "To keep safe from harm or danger",
+            "ty": "verb",
+            "ex": "Wear your helmet to protect your head while riding a bike.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "protect oneself",
+                " protect the environment",
+                " protect your eyes"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/55d2edfc-5b8d-4916-b17e-0bf2cc0245d2.webp",
+            "Tips": [
+                {
+                    "title": "Physical Safety",
+                    "description": "Often used when advising measures to prevent physical harm or injury.",
+                    "example": "Protect your feet by wearing shoes on hot sand.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RP4BAOhkXmFeeG2wBEjD7dYa2Pg.webp"
+                },
+                {
+                    "title": "Emotional Nuance",
+                    "description": "Sometimes implies care or love towards what is being protected.",
+                    "example": "She protected her children from the bad news.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Flos7PU93uWdQTJjqccT0IbTcik.webp"
+                }
+            ]
+        },
+        {
+            "id": "c5c1b84e-89a1-46fe-a909-6fab2061b29d",
+            "de": "To legally ensure that a certain right is respected",
+            "ty": "verb",
+            "ex": "The law is designed to protect consumer interests.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "protect rights",
+                " protect patents",
+                " protect personal information"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c5c1b84e-89a1-46fe-a909-6fab2061b29d.webp",
+            "Tips": [
+                {
+                    "title": "Legal Context",
+                    "description": "Used in contexts involving laws, regulations, or rights.",
+                    "example": "The legislation protects employees from unfair dismissal.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formal Language",
+                    "description": "Common in formal or official discussions about rights and laws.",
+                    "example": "The contract protects our right to intellectual property.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "82f91a28-473c-430e-825b-3f3a2bdcfddb",
+            "de": "To create a barrier that prevents something from damage",
+            "ty": "verb",
+            "ex": "Use sunscreen to protect your skin from the sun.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "protect from the sun",
+                " protect from rain",
+                " protect from scratches"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/82f91a28-473c-430e-825b-3f3a2bdcfddb.webp",
+            "Tips": [
+                {
+                    "title": "Barrier Creation",
+                    "description": "Used when talking about putting up defenses, literally or metaphorically.",
+                    "example": "They built a fence to protect their crops from pests.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Proactive Measure",
+                    "description": "Suggests taking action before harm can occur.",
+                    "example": "Protect your health by getting vaccinated.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fe156657-5556-45d3-b83b-62c36cc1102f",
+            "de": "To prevent from being damaged by actions or decisions",
+            "ty": "verb",
+            "ex": "The city walls were built to protect the citizens from invaders.",
+            "use": "",
+            "co": "Historical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "protect from invaders",
+                " protect the city",
+                " protect from attack"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fe156657-5556-45d3-b83b-62c36cc1102f.webp",
+            "Tips": [
+                {
+                    "title": "Historical Uses",
+                    "description": "Associated with fortifying locations against ancient threats.",
+                    "example": "Moats were used to protect castles in medieval times.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Protection Scale",
+                    "description": "Can refer to individual or large-scale defensive actions.",
+                    "example": "The army was deployed to protect the country's borders.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5febe357-3f5e-4964-b8d5-1abe1395ad22",
+            "de": "To maintain the confidentiality or integrity of data",
+            "ty": "verb",
+            "ex": "We use encryption to protect customers' personal data.",
+            "use": "",
+            "co": "Computing",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "protect data",
+                " protect passwords",
+                " protect identity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5febe357-3f5e-4964-b8d5-1abe1395ad22.webp",
+            "Tips": [
+                {
+                    "title": "Digital Security",
+                    "description": "Used in the context of safeguarding information in the digital world.",
+                    "example": "Antivirus software helps protect your computer from viruses.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Privacy Importance",
+                    "description": "Highlights the aspect of keeping personal or sensitive information safe.",
+                    "example": "Protect your privacy by using secure passwords.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Conserve": {
+            "wordRoot": "Conserve",
+            "wordDefinition": "Conserve means to save something from being wasted or destroyed by using it carefully and protecting it for the future.\n\nThis word applies when we want to keep something in good condition and prevent it from being lost or destroyed, such as conserving water or energy.\n\nConserve is used when we want to prevent something from being wasted or destroyed, while protect is used when we want to keep something safe from harm or danger.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a52c47ce-dffd-4e61-8e76-46f55643d7b0.webp"
+        },
+        "Cover": {
+            "wordRoot": "Cover",
+            "wordDefinition": "Cover means to place something over another thing, often to conceal or hide it. For example, a book cover is put over a book to protect it from damage or dirt.\n\nThe main difference between the two is that cover is putting something on top of another thing while protect is doing something to keep something else safe.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f9081b2e-54ef-4411-b0f4-fd6ddb8d022f.webp"
+        },
+        "Defend": {
+            "wordRoot": "Defend",
+            "wordDefinition": "Both defend and protect refer to preventing harm or danger to someone or something, but there is a subtle difference between them.\n\nDefend means to resist or fight against an attack or criticism. It suggests a more active and aggressive stance, as you are taking action to stop something from happening.\n\nFor example, a football team defends their goal from the opposing team's attack, or a lawyer could defend a client in court against accusations.\n\nDefend is used when you need to actively fight against something harmful, while protect is used when you want to prevent something harmful from happening.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2a40751d-736a-4424-a537-d9e4ab6df202.webp"
+        },
+        "Guard": {
+            "wordRoot": "Guard",
+            "wordDefinition": "Guard means to keep watch over something or someone, to prevent harm or danger. For example, a security guard who watches over a building to prevent theft or break-ins.\n\nIn summary, guarding is about keeping vigilant and watching for danger, while protecting is about taking an action to keep something or someone safe.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ba2512e-cb87-4fed-9cb2-ff715418ac10.webp"
+        },
+        "Preserve": {
+            "wordRoot": "Preserve",
+            "wordDefinition": "Preserve means to keep something in its original form, to maintain or conserve it, while protect means to keep something or someone safe from harm or damage.\n\nPreserve is applicable when we want to maintain or conserve something from deteriorating or changing its original form.\n\nFor example, we preserve food to prevent spoilage, we preserve historical monuments and artifacts to protect them from damage or destruction, and we preserve traditions to keep them alive for future generations.\n\nPreserve means to maintain or conserve something, while protect means to keep something safe from harm or danger.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/872e3541-6813-4bd6-b2c5-52680fc60c29.webp"
+        },
+        "Secure": {
+            "wordRoot": "Secure",
+            "wordDefinition": "Secure means to make something safe from theft or unauthorized access.\n\nIt is often used to describe digital information, like passwords and credit card information. For example, a strong password secures your online accounts from hackers.\n\nBoth words are applicable in different situations, but the key difference is that protect is about preventing harm, while secure is about preventing theft or unauthorized access.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c1259d83-337a-4e1f-b482-4677117eb2ed.webp"
+        },
+        "Shelter": {
+            "wordRoot": "Shelter",
+            "wordDefinition": "Shelter means to provide a place of safety, usually to protect from the elements such as wind, rain, or sun.\n\nFor example, a homeless person might seek shelter in a doorway to protect themselves from the rain.\n\nProtect is used when talking about preventing harm or danger, while shelter is used when talking about providing a safe place to protect from the elements.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cd59ad2e-df16-4bb8-8522-002637c9810d.webp"
+        },
+        "Shield": {
+            "wordRoot": "Shield",
+            "wordDefinition": "Both protect and shield refer to the act of keeping something or someone safe.\n\nHowever, protect usually refers to preventing harm from happening, while shield refers to stopping harm that is already happening.\n\nFor instance, you protect your skin from getting sunburnt by wearing sunscreen while you are outside. But if you are getting hit with a thrown ball, you would use a shield (like your hands) to prevent the ball from hitting you.\n\nProtect is applicable when you want to keep something safe from potential harm, while shield is applicable when you want to stop harm from continuing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c10ef286-b5ad-417e-82f4-065c115476bc.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " exactly what the company does but these names can be a mouthful and are much harder to own and protect acronyms like ge and bp are just shorthand versions of descriptive names some acronyms are more strategic kentucky fried chicken switched to kfc because fried chicken didn't sound too",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=60"
+        },
+        {
+            "Text": " processed it, and put that plasma back in people to protect them. But that was never tried. So there was a lot that was missing. And these things are really a global failure. The WHO is funded to monitor epidemics, but not to do these things I talked about.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " poached increases more poachers are coming for Botswana's ivory and we need to be ready protect the people and they will protect the wildlife we stopped to have lunch at Nellis and crossing not knowing that the migration was about to arrive",
+            "Title": "Elephant Encounter in...",
+            "VideoId": "HI7mTIxNotQ",
+            "Controls": "start=135"
+        },
+        {
+            "Text": " and for some, their beliefs, no matter how strange, are protected under religious freedom. But when their practices involve harassment, threats, illegal activities, or abuse, the law can intervene.",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=333"
+        },
+        {
+            "Text": " Protecting the nest means Gigantoraptors' young are more likely to survive.",
+            "Title": "Oviraptorid Defends Her...",
+            "VideoId": "TtOfCaYhjzk",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " Not killed by poachers but poisoned by a villager, protecting his cattle.",
+            "Title": "Tiger Grieves Her Dead...",
+            "VideoId": "py0wRutmMF4",
+            "Controls": "start=74"
+        },
+        {
+            "Text": " not killed by poachers but poisoned by a villager protecting his cattle",
+            "Title": "ONE HOUR of Amazing...",
+            "VideoId": "eEaZvEZye84",
+            "Controls": "start=2980"
+        },
+        {
+            "Text": " Herding behaviour protects the many but at the expense of the few.",
+            "Title": "Dinosaur Massacre PIPE...",
+            "VideoId": "xO8BjI3L3yg",
+            "Controls": "start=56"
+        },
+        {
+            "Text": " protect their position the youngster can't take his eyes off them",
+            "Title": "Thought-provoking...",
+            "VideoId": "QXlTZu5ugAM",
+            "Controls": "start=725"
+        },
+        {
+            "Text": " Mission accomplished. Now she must protect her kill.",
+            "Title": "Mother Lioness Hunts...",
+            "VideoId": "U9JXMNVRf-U",
+            "Controls": "start=124"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronald-reagan.webp",
+            "Text": "Government exists to protect us from each other. Where government has gone beyond its limits is in deciding to protect us from ourselves.",
+            "Title": "American President",
+            "Name": "Ronald Reagan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lonnie-johnson.webp",
+            "Text": "Especially when you have a lot of technology you're developing as a small company, trying to protect that technology is a real problem.",
+            "Title": "American Inventor",
+            "Name": "Lonnie Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/venus-williams.webp",
+            "Text": "When you are in the public eye, you have to protect yourself. There are so many people judging you. I just try to be myself.",
+            "Title": "American Tennis Player",
+            "Name": "Venus Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/orson-welles.webp",
+            "Text": "I feel I have to protect myself against things. So I'm pretty careful to lose most of them.",
+            "Title": "American Actor",
+            "Name": "Orson Welles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/floyd-mayweather-jr.webp",
+            "Text": "You have to protect yourself at all times. What goes around comes around.",
+            "Title": "American Boxer",
+            "Name": "Floyd Mayweather, Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mae-west.webp",
+            "Text": "Every man I meet wants to protect me. I can't figure out what from.",
+            "Title": "American Actress",
+            "Name": "Mae West"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dwayne-johnson.webp",
+            "Text": "Around every corner, always protect the engine that powers you.",
+            "Title": "American Actor",
+            "Name": "Dwayne Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-kennedy.webp",
+            "Text": "A good lawyer is going to try to protect her client.",
+            "Title": "American Lawyer",
+            "Name": "John Kennedy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-carrey.webp",
+            "Text": "If you've got a talent, protect it.",
+            "Title": "Canadian Comedian",
+            "Name": "Jim Carrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/audre-lorde.webp",
+            "Text": "Your silence will not protect you.",
+            "Title": "American Poet",
+            "Name": "Audre Lorde"
+        }
+    ]
+}

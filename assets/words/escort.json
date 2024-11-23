@@ -1,0 +1,293 @@
+{
+    "currentWord": {
+        "wordRoot": "escort",
+        "id": 22983,
+        "phonemic": "ˈeskɔːt|ˈeskɔːrt\r",
+        "bigId": "c7014c6f-cd98-4f95-8cf0-59a4954a958c",
+        "wordForms": [
+            "escorts",
+            "escorting",
+            "escorted",
+            "escort"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c7014c6f-cd98-4f95-8cf0-59a4954a958c",
+            "de": "A person or group of people who goes with someone, often for security or reassurance.",
+            "ty": "noun",
+            "ex": "The celebrity was surrounded by his escorts.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "security escort",
+                " police escort",
+                " military escort"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c7014c6f-cd98-4f95-8cf0-59a4954a958c.webp",
+            "Tips": [
+                {
+                    "title": "Security Context",
+                    "description": "Used when someone receives protection in potentially unsafe situations.",
+                    "example": "The president traveled with a military escort.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UrBGlhrJq99cdvlH7fxAHCd0Vg.webp"
+                },
+                {
+                    "title": "Not Always Physical",
+                    "description": "Can refer to non-physical guidance, like support during challenging times.",
+                    "example": "The counselor acted as an emotional escort through his recovery.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JrFuJtzPdp5EnGow4Bs3Xili4Kc.webp"
+                },
+                {
+                    "title": "Neutral Tone",
+                    "description": "The term itself doesn't imply positivity or negativity.",
+                    "example": "The witness was provided with a police escort for the trial.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lif6Q3z6fEWTkQUyqIGoI0v8.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fca1514f-8f92-4baf-a875-72ade126ae0c",
+            "de": "A person, typically a woman, who is hired to go with someone to a social event.",
+            "ty": "noun",
+            "ex": "He hired an escort to accompany him to the gala.",
+            "use": "",
+            "sy": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "hire an escort",
+                " escort service",
+                " high-class escort"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fca1514f-8f92-4baf-a875-72ade126ae0c.webp",
+            "Tips": [
+                {
+                    "title": "Social Events",
+                    "description": "Refers to someone hired as a companion for formal parties or gatherings.",
+                    "example": "He didn't want to go alone, so he brought an escort.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Gender-Specific",
+                    "description": "While often a woman, men can also be hired escorts for social purposes.",
+                    "example": "She preferred the company of a charming male escort.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Payment Involved",
+                    "description": "This definition of escort implies a business transaction, not a personal relationship.",
+                    "example": "The escort was arranged through a reputable agency.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "06a52088-0181-49b9-b3aa-9080e2a8d2af",
+            "de": "To go with someone or something somewhere, often for protection or to show the way.",
+            "ty": "verb",
+            "ex": "I'll escort you to the train station to make sure you don't get lost.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "escort someone out",
+                " escort someone home",
+                " escort someone to their seat"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/06a52088-0181-49b9-b3aa-9080e2a8d2af.webp",
+            "Tips": [
+                {
+                    "title": "Showing the Way",
+                    "description": "Used when someone physically shows another where to go or be.",
+                    "example": "Can you escort our guests to the lounge?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Polite Assistance",
+                    "description": "Often done as a polite gesture, offering help or courtesy.",
+                    "example": "The host politely escorted the elderly man to his seat.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Safety Assurance",
+                    "description": "Emphasizes ensuring someone's safety while they move from one place to another.",
+                    "example": "I will escort you through the dark park to your car.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Attendant": {
+            "wordRoot": "Attendant",
+            "wordDefinition": "Attendant refers to a person who assists and takes care of someone or something, for example, a flight attendant who looks after passengers during a flight or a bathroom attendant who manages the cleanliness and supplies in a public restroom.\n\nAn attendant is someone who provides assistance and support, while an escort is someone who provides guidance and protection.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e470c0e0-efc0-4e1c-a07f-8f607ac364c1.webp"
+        },
+        "Bodyguard": {
+            "wordRoot": "Bodyguard",
+            "wordDefinition": "A bodyguard is someone who protects a person from physical harm by using their skills and training. They are employed to protect high-profile individuals like celebrities, politicians, or business executives.\n\nA bodyguard stays close to the person they protect and is always on the lookout for potential threats.\n\nIn summary, bodyguards provide protection from harm, while escorts provide assistance with getting to a specific place or event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4ada8b42-48a6-4bb6-bc6e-e7f5508ca332.webp"
+        },
+        "Chaperone": {
+            "wordRoot": "Chaperone",
+            "wordDefinition": "A chaperone is someone who accompanies another person (usually a minor) to ensure their safety and well-being, often in a social or school setting.\n\nChaperones are typically used in situations where there is a need for supervision or adult guidance, whereas escorts are used in situations where there may be a risk of danger or the need for personal support.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14af49d5-db3f-4588-9f4c-faadc88c194b.webp"
+        },
+        "Companion": {
+            "wordRoot": "Companion",
+            "wordDefinition": "Companion refers to a person who is someone's friend and spends time with that person. Escort, on the other hand, usually refers to a person hired to accompany someone, such as a bodyguard or someone who is hired as a date or for protection.\n\nCompanionship can be voluntary, whereas an escort is usually a paid service.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cb409c47-fe1d-4a3a-875a-1f451762bd2a.webp"
+        },
+        "Convoy": {
+            "wordRoot": "Convoy",
+            "wordDefinition": "A convoy is a group of vehicles, ships, or people traveling together typically for protection, support, or a common purpose.\n\nConvoy is often used in military contexts when a group of vehicles or ships travel together for protection.\n\nConvoy refers to a group of vehicles or ships traveling together, while escort refers to a person or group of people accompanying someone or something for protection or guidance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bf5871e6-5296-4049-a69c-c4c06515d584.webp"
+        },
+        "Defender": {
+            "wordRoot": "Defender",
+            "wordDefinition": "Defender refers to someone who protects or defends someone or something from harm or danger. For example, a defender can protect a country from an attack, a goalkeeper can protect their team from conceding a goal, or a bodyguard can protect their client from harm.\n\nA defender protects in general, while an escort protects for a specific purpose or journey.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a1ea5dfa-7ae1-471e-9335-5722081ace3d.webp"
+        },
+        "Guide": {
+            "wordRoot": "Guide",
+            "wordDefinition": "A guide is someone who leads or directs another person in a particular place or activity. It's more about showing someone around, explaining things to them, and providing information about a place or activity.\n\nSo, while an escort is focused on safety and security, a guide is focused on providing information and helping someone navigate a place or activity.\n\nAn escort might be used in situations where someone needs protection or assistance, while a guide might be used in situations where someone is visiting a new city and needs help exploring it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f804794-9b88-49fa-8b3e-7d9216f94710.webp"
+        },
+        "Protector": {
+            "wordRoot": "Protector",
+            "wordDefinition": "Protector generally means someone who is responsible for keeping someone or something safe and secure. For example, a bodyguard may be hired to protect a celebrity from harm.\n\nAn escort helps someone get from one place to another, while a protector keeps someone or something safe from danger.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eeff704c-f167-4e1a-9df2-7c267b8bd3b3.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " they've said, \"Wait a minute, he looks and sounds an awful lot like someone who has acromegaly.\" And that would also explain so much of what was strange about his behavior that day. Why does he move so slowly and have to be escorted down into the valley floor by an attendant?",
+            "Title": "The unheard story of...",
+            "VideoId": "ziGD7vQOwl8",
+            "Controls": "start=842"
+        },
+        {
+            "Text": " To escort and land the probe on a comet, this has been my passion for the past two years. In order to do that, I need to explain to you something about the origin of the solar system. When we go back four and a half billion years, there was a cloud of gas and dust.",
+            "Title": "Fred Jansen: How to land...",
+            "VideoId": "h27g5iT0tck",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " we could have gone to jail. But, hey, it worked. Twenty-four hours later, we were picked up from school and escorted to the office of the governor. And there he was -- waiting for us to meet and speak, being all supportive and thankful for our willingness",
+            "Title": "Our campaign to ban...",
+            "VideoId": "P8GCjrDWWUM",
+            "Controls": "start=473"
+        },
+        {
+            "Text": " so, it's going to take us about three, three and a half hours to get there. On game, especially rhino, we'll escort the animals all the way to the farm. I think it's really important for rhino. They're special animals.",
+            "Title": "Raging Rhino Charge PIPE...",
+            "VideoId": "2AoA2N4PVA0",
+            "Controls": "start=56"
+        },
+        {
+            "Text": " from the supermarket the entire community gathers to celebrate in return everyone escorts him home neighbors join the throng his achievement is there by respecting tradition and prevailing over",
+            "Title": "Male Circumcision PIPE...",
+            "VideoId": "MkHk-h8GkeE",
+            "Controls": "start=258"
+        },
+        {
+            "Text": " the entire community gathers to celebrate his return everyone escorts him home neighbors join the throng his achievement is their achievement by respecting tradition and prevailing",
+            "Title": "Circumcision PIPE National...",
+            "VideoId": "Zw-124t993c",
+            "Controls": "start=262"
+        },
+        {
+            "Text": " The three companions prepared to leave, disappointed and humbled. But as the king escorted them out, he revealed that nothing in the castle had been what it seemed.",
+            "Title": "The myth of Thor's...",
+            "VideoId": "e6XeP9gQPmg",
+            "Controls": "start=213"
+        },
+        {
+            "Text": " Escort all right I'll subscribe you on my phone I was writing that note down I space down a minute and then I looked up and I saw that he was about to build the",
+            "Title": "What I learned at...",
+            "VideoId": "vdgmV7FyCy0",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " outmaneuvered the japanese escort but a bigger challenge looms now deep within the convoy an enemy transport lies straight ahead",
+            "Title": "A Submarine Assault PIPE...",
+            "VideoId": "TcfmUkuZyfk",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " escorted me down into the women's board down into the next part of my life I",
+            "Title": "Jailed in Bangladesh PIPE...",
+            "VideoId": "XnCcXE1N2Zo",
+            "Controls": "start=0"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sayed-kashua.webp",
+            "Text": "Like with all the Arabs, they use the 'suspect procedure' on me. I arrive four hours before the flight. They do a body search in a back room behind the curtain and then escort me onto the plane because they're afraid that on the way I might pick up a bomb from someone.",
+            "Title": "Israeli Author",
+            "Name": "Sayed Kashua"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katha-pollitt.webp",
+            "Text": "Most Americans probably have no idea how hostile anti-abortion sidewalk counseling outside clinics can be. There's a reason pro-choicers volunteer to escort patients as they make their way past angry crowds to the clinic door.",
+            "Title": "American Poet",
+            "Name": "Katha Pollitt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/suge-knight.webp",
+            "Text": "I'm in prison. But my heart and mind is free. Gangsta haters on the streets are doing more time than me. They need 30 police escorts with them every time they walk down the street.",
+            "Title": "American Producer",
+            "Name": "Suge Knight"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maz-jobrani.webp",
+            "Text": "I've made enough jokes about Iran's leadership that I'm sure if I showed up that I would get a nice escort - to the main prison - and then I could do a show there.",
+            "Title": "American Comedian",
+            "Name": "Maz Jobrani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aishwarya-r-dhanush.webp",
+            "Text": "My mother was like a CCTV camera. There were times when I could not enjoy what most other children could. I would always have an escort.",
+            "Title": "Indian Director",
+            "Name": "Aishwarya R. Dhanush"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-burd.webp",
+            "Text": "If the store were your own business, you'd escort the customer to a product's location in the store and refer to the customer by name.",
+            "Title": "American Businessman",
+            "Name": "Steven Burd"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maryjanice-davidson.webp",
+            "Text": "I own two beautiful homes, and I'm always half-expecting the cops to pull in, seize me with firm compassion, and escort me out.",
+            "Title": "American Author",
+            "Name": "MaryJanice Davidson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-esper.webp",
+            "Text": "The Brits are escorting their ships, and we will escort our ships, and I assume other countries will escort their ships.",
+            "Title": "American Public Servant",
+            "Name": "Mark Esper"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lukas-forchhammer.webp",
+            "Text": "We've had to be escorted out of venues, things like that. We get security guards now.",
+            "Title": "Danish Musician",
+            "Name": "Lukas Forchhammer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stanislaw-lem.webp",
+            "Text": "Where do consequences lead? Depends on the escort.",
+            "Title": "Polish Writer",
+            "Name": "Stanislaw Lem"
+        }
+    ]
+}

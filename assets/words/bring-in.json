@@ -1,0 +1,171 @@
+{
+    "currentWord": {
+        "wordRoot": "bring in",
+        "id": 33125,
+        "phonemic": "brɪŋ ɪn|brɪŋ ɪn",
+        "bigId": "122d6eab-d712-45c7-a75a-add365d154e9",
+        "wordForms": [
+            "bring in"
+        ]
+    },
+    "senses": [
+        {
+            "id": "122d6eab-d712-45c7-a75a-add365d154e9",
+            "de": "To cause or persuade to enter, especially to take part in a particular activity",
+            "ty": "transitive verb",
+            "ex": "The company brought in a new director.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bring in someone new",
+                " bring in a specialist",
+                " bring in a consultant"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/122d6eab-d712-45c7-a75a-add365d154e9.webp",
+            "Tips": [
+                {
+                    "title": "New Participation",
+                    "description": "Used when someone is invited to join an activity or group with a specific role.",
+                    "example": "Let's bring in an expert to lead our workshop.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Rb88brAxguyjIkPWMeoOoQKgbBc.webp"
+                },
+                {
+                    "title": "Refreshing Dynamics",
+                    "description": "It suggests adding fresh ideas or perspectives to a group or situation.",
+                    "example": "We need to bring in some young talent to revitalize the team.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DnnJgkjcK0fqUSTPymgxYvoqzg.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7bd323fc-5631-4acc-9d11-246561612da2",
+            "de": "To earn or gain, especially money or profit",
+            "ty": "transitive verb",
+            "ex": "The movie brought in millions at the box office.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bring in profit",
+                " bring in revenue",
+                " bring in income"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7bd323fc-5631-4acc-9d11-246561612da2.webp",
+            "Tips": [
+                {
+                    "title": "Profitable Attraction",
+                    "description": "Highlights earning money, not just steady income, but substantial profit.",
+                    "example": "The new product line is expected to bring in considerable profits.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Financial Success",
+                    "description": "Used when a project or venture generates financial gain.",
+                    "example": "Our investment strategy managed to bring in high returns last quarter.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6e7ceb79-bd5f-4ff8-a3ab-a9b72edfac10",
+            "de": "To harvest or collect something",
+            "ty": "transitive verb",
+            "ex": "Farmers bring in the crops during fall.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bring in the harvest",
+                " bring in the crops",
+                " bring in the sheaves"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6e7ceb79-bd5f-4ff8-a3ab-a9b72edfac10.webp",
+            "Tips": [
+                {
+                    "title": "End of Season",
+                    "description": "Refers to gathering crops or results at the end of a growing or working period.",
+                    "example": "It's time to bring in the wheat before the weather turns bad.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Harvest Time",
+                    "description": "Emphasizes the action of collecting agricultural produce after growth.",
+                    "example": "Farmhands are busy bringing in the fruit from the orchards.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "00ee584f-95cd-4d46-ba7e-6144377c7999",
+            "de": "To present or introduce something or someone to others",
+            "ty": "transitive verb",
+            "ex": "We had to bring in new evidence to prove our point.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bring in evidence",
+                " bring in a proposal",
+                " bring in a plan"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/00ee584f-95cd-4d46-ba7e-6144377c7999.webp",
+            "Tips": [
+                {
+                    "title": "Presenting Evidence",
+                    "description": "Implies showing new information or proof in an argument or case.",
+                    "example": "The lawyer brought in new testimonies to strengthen the defense.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sharing Ideas",
+                    "description": "Bringing in can be about offering new concepts or plans for consideration.",
+                    "example": "In the meeting, they brought in some innovative ideas for the campaign.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "efad4815-e4a7-4aa2-9f0c-5d1bd853ef6c",
+            "de": "To involve someone or something in a particular situation",
+            "ty": "transitive verb",
+            "ex": "We had to bring in the authorities to handle the situation.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bring in the police",
+                " bring in the authorities",
+                " bring in experts"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/efad4815-e4a7-4aa2-9f0c-5d1bd853ef6c.webp",
+            "Tips": [
+                {
+                    "title": "Requesting Assistance",
+                    "description": "Signals calling for help or intervention from someone with authority or expertise.",
+                    "example": "When the negotiations failed, they brought in a mediator.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Involve Experts",
+                    "description": "Used when expertise is required to deal with a complex issue.",
+                    "example": "The project's complexity meant we had to bring in specialists.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {},
+    "videos": [],
+    "quotes": []
+}

@@ -1,0 +1,310 @@
+{
+    "currentWord": {
+        "wordRoot": "investigate",
+        "id": 8749,
+        "phonemic": "ɪnˈvestɪɡeɪt|ɪnˈvestɪɡeɪt\r",
+        "bigId": "5e835359-0865-4d86-ac05-e053e13feb1a",
+        "wordForms": [
+            "investigates",
+            "investigating",
+            "investigated",
+            "investigator",
+            "investigators",
+            "investigation",
+            "investigate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "5e835359-0865-4d86-ac05-e053e13feb1a",
+            "de": "To carefully look into something to discover facts",
+            "ty": "verb",
+            "ex": "The police are investigating the crime.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "investigate a crime",
+                " investigate the incident",
+                " investigate the matter"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5e835359-0865-4d86-ac05-e053e13feb1a.webp",
+            "Tips": [
+                {
+                    "title": "Active Process",
+                    "description": "Investigating is active; it means taking steps to find information, not just reading or hearing about it.",
+                    "example": "You need to actively investigate the company before your job interview.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/5WovEQ7droTpfJf8k44mBvv0lM.webp"
+                },
+                {
+                    "title": "Detail Oriented",
+                    "description": "To investigate means looking closely at details that might seem minor but are often crucial.",
+                    "example": "She investigated the contract's fine print before signing.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4djmDJYcnmWGAXIkNpXaqCLiCp0.webp"
+                },
+                {
+                    "title": "Objective Reasoning",
+                    "description": "Investigation requires an open mind and not making judgments until all facts are known.",
+                    "example": "The committee investigated the new evidence objectively.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/awA6GDfeyuZsG3eg6tfleXxK4.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5ef3a703-8696-48ab-9fc5-ef076e81ef5b",
+            "de": "To examine a problem or situation",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The doctor is investigating the cause of the illness.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "investigate the cause",
+                " investigate the symptoms",
+                " investigate the effect"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5ef3a703-8696-48ab-9fc5-ef076e81ef5b.webp",
+            "Tips": [
+                {
+                    "title": "Clinical Context",
+                    "description": "In medical terms, investigate often means searching for a diagnosis or underlying condition.",
+                    "example": "The neurologist is investigating the cause of her headaches.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Systematic Approach",
+                    "description": "Medical investigations are systematic, following specific steps to find conclusions.",
+                    "example": "Doctors must investigate the patient's symptoms following clinical guidelines.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impacts Treatment",
+                    "description": "Investigations can determine treatment options, so precision and accuracy are critical.",
+                    "example": "Investigating the infection thoroughly helped in choosing the right antibiotic.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b9995514-51a2-4ec8-a20d-6895fd68c4b8",
+            "de": "To gather information about a topic or person",
+            "do": "Journalism",
+            "ty": "verb",
+            "ex": "The journalist is investigating the politician's background.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "investigate the background",
+                " investigate the history",
+                " investigate the origins"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b9995514-51a2-4ec8-a20d-6895fd68c4b8.webp",
+            "Tips": [
+                {
+                    "title": "In-depth Reporting",
+                    "description": "Journalistic investigating is about uncovering the truth behind surface stories.",
+                    "example": "Investigating sources helped expose the corruption scandal.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Verification Required",
+                    "description": "Journalists must verify information from multiple sources when investigating.",
+                    "example": "She investigated beyond the press release, seeking the real facts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ethical Sensitivity",
+                    "description": "Investigating in journalism must respect privacy and consider potential harm.",
+                    "example": "The reporter chose not to investigate the victim's family out of respect.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Delve": {
+            "wordRoot": "Delve",
+            "wordDefinition": "Delve means to look deeply into something, usually to gain a better understanding or knowledge.\n\nBoth words involve careful examination or exploration, but delve is more often used when looking for something specific, while investigate deals with a more formal process of inquiry or problem-solving.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7f1a091d-12c2-477b-9963-34d8293f3e50.webp"
+        },
+        "Enquire": {
+            "wordRoot": "Enquire",
+            "wordDefinition": "Enquire means to ask for information or to seek guidance about a particular matter or situation, usually in a formal manner.\n\nFor example, you might enquire about the availability of a product in a store or enquire about the cost of a service from a company.\n\nTo summarize, enquire is used to ask for information in a polite manner while investigate is used to dig deeper and uncover information in a more formal and systematic way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3131cf7c-2be3-4af4-b5a4-2e049389f768.webp"
+        },
+        "Examine": {
+            "wordRoot": "Examine",
+            "wordDefinition": "Examine means to look closely or carefully at something to find out more information or to understand it better.\n\nIn simpler terms, you might examine a flower to learn more about its structure and parts, but you would investigate a crime to find out who is responsible for it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9624135c-7cec-4c0a-a399-a81e6fe400d4.webp"
+        },
+        "Explore": {
+            "wordRoot": "Explore",
+            "wordDefinition": "Explore means to discover or learn about something new or unknown.\n\nExample: \"We are going to explore the city and check out all the interesting places.\"\n\nThe main difference between the two words is that explore is used in a more general and open-ended sense, while investigate is used for a more specific and problem-solving purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b648c8ad-e138-43d6-8513-3546dd23201d.webp"
+        },
+        "Inspect": {
+            "wordRoot": "Inspect",
+            "wordDefinition": "Inspect means to examine or look at something closely in order to check its condition, quality, or performance.\n\nFor example, a mechanic might inspect a car engine to make sure it's working properly before it's sold to a customer.\n\nIn summary, while both words involve some form of examination, inspection is focused on identifying problems or issues with something physical while investigation relates to deeper examination of situations or events in order to uncover information or solve problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62160a0b-b5c7-4529-b1e2-0c2b6cd9ce80.webp"
+        },
+        "Probe": {
+            "wordRoot": "Probe",
+            "wordDefinition": "Both investigate and probe mean to look into or examine something in depth, but investigate is generally used in a broader context such as a crime, accident, or a complaint, while probe is used more often in scientific or medical contexts.\n\nFor instance, a police detective would investigate a crime, while a doctor would use a probe to examine an injury. Investigate tends to be broader while probe is narrower in scope.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf8038f1-c3ab-4b5b-85f2-0893fd584e71.webp"
+        },
+        "Research": {
+            "wordRoot": "Research",
+            "wordDefinition": "The words investigate and research are similar but have different connotations.\n\nResearch is a systematic and objective study of a topic to increase knowledge or understanding. It involves conducting experiments, observations, and gathering data from different sources to draw conclusions.\n\nIn simpler terms, research is like studying a topic in-depth to learn more about it, while investigating is like looking for clues to solve a mystery or uncover the truth about something.\n\nResearch is applicable in academic settings or scientific studies, while investigating is used more commonly in legal or criminal situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/abb3a46c-4106-47f5-9b58-f448204018e8.webp"
+        },
+        "Scrutinize": {
+            "wordRoot": "Scrutinize",
+            "wordDefinition": "Both investigate and scrutinize refer to examining something closely, but there is a subtle difference between the two.\n\nScrutinize suggests a more critical, careful examination of something, often with an eye towards uncovering flaws or potential problems.\n\nFor instance, a teacher might scrutinize a student's work for errors, or a scientist might scrutinize data for any inconsistencies.\n\nOverall, one might use investigate for deeper, more formal inquiries, and scrutinize for more critical, close examination of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53f17615-8dfe-4eba-9d1e-aef39e0ff54e.webp"
+        },
+        "Search": {
+            "wordRoot": "Search",
+            "wordDefinition": "Search means to look for something specific or to try and find something that is missing.\n\nIt is used when someone is trying to locate a particular object or person. For example, if you lost your phone, you might search for it around your house.\n\nInvestigate is when you are trying to figure out what happened or why something happened, while search is when you are trying to find something specific.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b6627d2-71c4-4485-82fa-bc5c448253d2.webp"
+        },
+        "Study": {
+            "wordRoot": "Study",
+            "wordDefinition": "Study means to examine or learn about something in order to understand it better.\n\nIt is often used in reference to academic pursuits. For instance, a student might study a particular topic in order to gain knowledge or pass an exam.\n\nInvestigate is used when there is a need to find information or solve a problem, while study is used when there is a desire to gain knowledge or understanding.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/033e8ac6-c19b-46dc-8157-2a309125faee.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " into a life of luxury. Venturing forth from his sheltered existence as a young man, he witnessed the human suffering that had been hidden from him and immediately set out to investigate its sources. Why must people endure suffering? Must we reincarnate through hundreds of lives? At first he thought the problem",
+            "Title": "The five major world...",
+            "VideoId": "m6dCxo7t_aE",
+            "Controls": "start=275"
+        },
+        {
+            "Text": " are being investigated, too. So, if you know someone struggling with depression, encourage them, gently, to seek out some of these options. You might even offer to help with specific tasks, like looking up therapists in the area, or making a list of questions to ask a doctor. To someone with depression,",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " so the other senses can investigate. The nose's contribution to romance is more than noticing perfume or cologne. It's able to pick up on natural chemical signals known as pheromones. These not only convey important physical or genetic information about their source",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=56"
+        },
+        {
+            "Text": " and so scientists are investigating whether they can manipulate the activity of these cells to encourage follicles to start producing hair again. And in the meantime, while scientists hone their hair-reviving methods, anyone going bald, or considering baldness,",
+            "Title": "Why do some people go...",
+            "VideoId": "8diYLhl8bWU",
+            "Controls": "start=251"
+        },
+        {
+            "Text": " I was to come into contact these guys good I want to investigate what's happened to them is there a danger that they might just sell me like an antiquity other warlords will be a keeper one so in Parliament I thought of course he said to me a bit real jack has",
+            "Title": "The Danger of Undercover...",
+            "VideoId": "lPkk_oVC6WQ",
+            "Controls": "start=124"
+        },
+        {
+            "Text": " mostly monitor and investigate violations, but they cannot force states to, say, change a policy or compensate a victim. That's why some critics say it's naive to consider human rights a given in a world where state interests wield so much power.",
+            "Title": "What are the universal...",
+            "VideoId": "nDgIVseTkuE",
+            "Controls": "start=178"
+        },
+        {
+            "Text": " to be the director of the U.N.'s genocide investigation. It turns out that tears just aren't much help when you're trying to investigate a genocide. The things I had to see, and feel and touch",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " substance is blass scientists like myself need glass to build the tools to investigate the natural world around us we use glass to make test tubes you can see inside to watch what happens in",
+            "Title": "How to rebuild the world...",
+            "VideoId": "CdTzsbqQyhY",
+            "Controls": "start=963"
+        },
+        {
+            "Text": " So what other undiscovered marvels might we contain? It's easy to investigate the world around us and forget that one of its most fascinating subjects lies right behind our eyes.",
+            "Title": "The power of the placebo...",
+            "VideoId": "z03FQGlGgo0",
+            "Controls": "start=247"
+        },
+        {
+            "Text": " These pups were born deaf and blind, but now their senses are developing and they're starting to explore the world around them. I might get the pups to come and investigate it.",
+            "Title": "Up Close and Personal...",
+            "VideoId": "ZMuMIcQx9Qc",
+            "Controls": "start=171"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cress-williams.webp",
+            "Text": "I didn't really know of 'Black Lightning' until I got the script and started to investigate - it wasn't a hero that I grew up with. So I didn't know if his powers were natural or if it was the suit, but those things are, for me, very important. I really like the idea that his powers are his - that whether he has the suit or not, he has them.",
+            "Title": "German Actor",
+            "Name": "Cress Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emory-cohen.webp",
+            "Text": "I am constantly interested in people who society calls 'bad' because I don't like to just buy into something that everybody's going to say. I want to investigate that for myself. With a character, you get to fully investigate that emotionally and understand the parts of them that are in pain and scared and are good. That's human.",
+            "Title": "American Actor",
+            "Name": "Emory Cohen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jodi-kantor.webp",
+            "Text": "When you work on a story like the Weinstein investigation, every other non-critical part of your life disappears. For months and months and months, my life basically consisted of my work and my kids, my work and my kids.",
+            "Title": "American Journalist",
+            "Name": "Jodi Kantor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-isaac.webp",
+            "Text": "Every frame of a Coen brothers movie is filled with history and meaning, and the deeper you go, the deeper you get. That's why their movies stand up particularly well to repeated viewing and investigation.",
+            "Title": "Guatemalan Actor",
+            "Name": "Oscar Isaac"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jamie-hyneman.webp",
+            "Text": "Science isn't just for guys in lab coats, you know? It's for anybody who wants to do a good job of understanding and investigating the world.",
+            "Title": "American Entertainer",
+            "Name": "Jamie Hyneman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sara-paretsky.webp",
+            "Text": "I thought it was time for a tough, smart, likable female private investigator, and that's how VI came to life.",
+            "Title": "American Author",
+            "Name": "Sara Paretsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/benoit-mandelbrot.webp",
+            "Text": "For much of my life there was no place where the things I wanted to investigate were of interest to anyone.",
+            "Title": "French Mathematician",
+            "Name": "Benoit Mandelbrot"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-pataki.webp",
+            "Text": "We passed important laws to give the authorities responsible for investigation wide powers to defend us.",
+            "Title": "American Politician",
+            "Name": "George Pataki"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-abelard.webp",
+            "Text": "It is by doubting that we come to investigate, and by investigating that we recognize the truth.",
+            "Title": "French Philosopher",
+            "Name": "Peter Abelard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rahm-emanuel.webp",
+            "Text": "I do not believe the government has the right to investigate somebody's private life.",
+            "Title": "American Politician",
+            "Name": "Rahm Emanuel"
+        }
+    ]
+}

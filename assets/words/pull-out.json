@@ -1,0 +1,87 @@
+{
+    "currentWord": {
+        "wordRoot": "pull out",
+        "id": 0,
+        "phonemic": "pʊl aʊt",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID2",
+            "de": "To withdraw or remove something from a place.",
+            "ty": "verb",
+            "ex": "I had to pull out a splinter from my finger.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "pull out a tooth",
+                "pull out a drawer",
+                "pull out of a parking space",
+                "pull out a weapon",
+                "pull out of a contract",
+                "pull out all the stops"
+            ],
+            "ImageSrc": "./senses/9de979b4-65b4-4a0c-a5e9-64e8fa8f061d.webp",
+            "Tips": [
+                {
+                    "title": "Withdrawing an object",
+                    "description": "Use 'pull out' when removing something physical from somewhere.",
+                    "example": "He pulled out his wallet to pay for the meal.",
+                    "imageUrl": "./tips/67f78f35-fc27-44e9-a79c-b766027aaeee.webp"
+                },
+                {
+                    "title": "Withdrawing from an agreement",
+                    "description": "Use 'pull out' to describe withdrawing from a commitment or agreement.",
+                    "example": "The company decided to pull out of the merger deal.",
+                    "imageUrl": "./tips/8c3b6ed1-49e3-4364-9950-c233e2f8d572.webp"
+                }
+            ]
+        },
+        {
+            "id": "UUID3",
+            "de": "(Of a vehicle) to move away from the side of the road or a parking space and into the flow of traffic.",
+            "ty": "verb",
+            "ex": "A car pulled out in front of me without warning.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "pull out onto the highway",
+                "pull out of the driveway",
+                "carefully pull out"
+            ],
+            "ImageSrc": "./senses/e07665ad-9691-4df7-bb26-6fc50124d88c.webp",
+            "Tips": [
+                {
+                    "title": "Entering traffic",
+                    "description": "Use 'pull out' to describe a vehicle merging into the flow of traffic.",
+                    "example": "She slowly pulled out of the parking lot and into the street.",
+                    "imageUrl": "./tips/4b684891-0f6f-4546-ae9e-51785204a774.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "extract": {
+            "wordRoot": "extract",
+            "wordDefinition": "'Extract' suggests a more deliberate and often more difficult removal, while 'pull out' is more general.",
+            "wordImage": ""
+        },
+        "remove": {
+            "wordRoot": "remove",
+            "wordDefinition": "'Remove' is a more general term for taking something away, while 'pull out' specifically implies a pulling motion.",
+            "wordImage": ""
+        },
+        "withdraw": {
+            "wordRoot": "withdraw",
+            "wordDefinition": "'Withdraw' can be used in more abstract contexts (like withdrawing money or an offer), while 'pull out' usually refers to a physical action.",
+            "wordImage": ""
+        }
+    }
+}

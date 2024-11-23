@@ -1,0 +1,278 @@
+{
+    "currentWord": {
+        "wordRoot": "lobby",
+        "id": 13960,
+        "phonemic": "ˈlɒbi|ˈlɑːbi\r",
+        "bigId": "ebfc2a4b-d65e-4ffe-bdf3-fe6b5b380a42",
+        "wordForms": [
+            "lobbies",
+            "lobbying",
+            "lobbied",
+            "lobby"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ebfc2a4b-d65e-4ffe-bdf3-fe6b5b380a42",
+            "de": "A big room or space in a building's entrance, often used for waiting or resting",
+            "ty": "noun",
+            "ex": "She was waiting for me in the hotel lobby",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hotel lobby",
+                " entrance lobby",
+                " waiting in the lobby"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ebfc2a4b-d65e-4ffe-bdf3-fe6b5b380a42.webp",
+            "Tips": [
+                {
+                    "title": "Architectural Context",
+                    "description": "The term 'lobby' is often used in relation to buildings such as hotels, theaters, or public buildings, indicating a communal space.",
+                    "example": "Meet me in the theater lobby before the show.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jfhsruTHtXSJ4RKg4EtXdIea2Nc.webp"
+                },
+                {
+                    "title": "Neutral Ground",
+                    "description": "'Lobby' does not suggest any emotional atmosphere; it's simply a practical space within a structure.",
+                    "example": "Information can be found at the reception desk in the lobby.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jOlJ1RkFUV51vci0NtpzWDyeo.webp"
+                },
+                {
+                    "title": "Public Waiting",
+                    "description": "Use 'lobby' when referring to a place for people to sit or wait, typically furnished with seats and informational brochures.",
+                    "example": "The lobby was full of people waiting for the conference to start.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zrtLk5zKWVOr21lnikaZToACpE.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4bf32956-4da3-4714-8a9f-8b1248fbbcdd",
+            "de": "To try to influence someone who makes decisions, like a politician",
+            "do": "politics",
+            "ty": "verb",
+            "ex": "They lobbied the government for higher health funding",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "lobby the government",
+                " lobby for changes",
+                " lobby against policies"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4bf32956-4da3-4714-8a9f-8b1248fbbcdd.webp",
+            "Tips": [
+                {
+                    "title": "Influential Effort",
+                    "description": "When 'lobby' is used as a verb, it means actively trying to persuade decision-makers, usually in a political or business context.",
+                    "example": "Non-profit organizations lobby to get funding for their causes.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formal Action",
+                    "description": "'Lobby' as a verb implies a professional approach, often involving discussion, argument, or campaigning.",
+                    "example": "She lobbied her MP for stricter environmental regulations.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "437cea87-b202-4883-bccf-911d8b593c0a",
+            "de": "A group of people who try to influence politicians on a particular issue",
+            "do": "politics",
+            "ty": "noun",
+            "ex": "The gun lobby has a strong influence in US politics",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "the gun lobby",
+                " powerful lobby",
+                " lobbying force"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/437cea87-b202-4883-bccf-911d8b593c0a.webp",
+            "Tips": [
+                {
+                    "title": "Advocacy Groups",
+                    "description": "A 'lobby' refers to a collective, such as an organization or group, that seeks to exert influence in public policy.",
+                    "example": "The tobacco lobby spent millions on advertising against smoking bans.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specific Issues",
+                    "description": "The term is usually linked to a specific cause or issue such as the 'tourism lobby' or 'tech lobby'.",
+                    "example": "The tech lobby is advocating for less restrictive internet laws.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Anteroom": {
+            "wordRoot": "Anteroom",
+            "wordDefinition": "An anteroom is a small room that leads into a larger room. It's usually used as a waiting area, a room where people can gather or sit while they wait for an important meeting or event, or a room where they can take off their coats and shoes.\n\nAn anteroom is a small room that leads into a larger room, while a lobby is a larger room that serves as the entrance or reception area of a building.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/32046a1b-a2e4-4938-bfd8-41e951d39f9f.webp"
+        },
+        "Atrium": {
+            "wordRoot": "Atrium",
+            "wordDefinition": "An atrium is an open space inside a building, often with a skylight in the ceiling, that is enclosed by walls on several floors.\n\nIt may be designed to provide natural light and ventilation to the building's interior. An atrium is typically found in larger buildings, such as offices, hotels, or shopping malls.\n\nSo, while both the atrium and lobby are parts of a building, an atrium is a larger open space with multiple levels, often used to provide natural light and ventilation, while a lobby is a smaller area right inside the entrance of a building usually used for waiting or as a transition area.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0e4e397f-dbb3-421a-9b50-61d7bc31df84.webp"
+        },
+        "Corridor": {
+            "wordRoot": "Corridor",
+            "wordDefinition": "A corridor is a narrow passageway that connects rooms or areas in a building. It usually has walls on both sides and is used to reach different parts of a building.\n\nA lobby is a room or an area at the entrance of a building or a hotel. It's usually a more spacious area than a corridor and is designed to create a welcoming atmosphere.\n\nTo summarize, a corridor connects different rooms or areas within a building, while a lobby is a welcoming area at the entrance of a building or hotel.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c7718213-d9b0-48d3-aabb-55862ba2ca9a.webp"
+        },
+        "Foyer": {
+            "wordRoot": "Foyer",
+            "wordDefinition": "A foyer is a small room or entrance hall that serves as a buffer between the outside and inside of a building. This is usually found in residential homes, hotels, and larger buildings such as theaters or museums.\n\nIt is often more spacious than a foyer and serves as a waiting area or social space for people.\n\nA foyer is a smaller and more private entrance space, while a lobby is a larger and more public entrance space.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1d5a579c-eb63-455d-9893-27ae06f6a213.webp"
+        },
+        "Hall": {
+            "wordRoot": "Hall",
+            "wordDefinition": "A hall is a long, narrow room with doors along one or both sides, usually used for storage or connecting rooms.\n\nIt can also refer to a large and impressive entrance room in a public building like a palace, museum or concert hall.\n\nA hall is a narrow passage or room that connects other spaces, while a lobby is a larger open space usually located near the entrance of a building.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/90281bb7-d419-4b5a-921c-94e7952d1cfb.webp"
+        },
+        "Portico": {
+            "wordRoot": "Portico",
+            "wordDefinition": "A portico is an exterior structure that is attached to the front of a building and typically has columns or pillars supporting a roof or covering.\n\nA lobby is inside a building and used for waiting or gathering, while a portico is outside a building and used as a covered entrance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e946abaa-f934-465c-b324-519a67433668.webp"
+        },
+        "Vestibule": {
+            "wordRoot": "Vestibule",
+            "wordDefinition": "A vestibule is a smaller area that serves as an entryway or antechamber between the outside and inside of a building. It may have a door leading to the outside and another leading to the inside of the building.\n\nVestibules are often found in homes or smaller buildings, rather than commercial or large buildings.\n\nA lobby is a large waiting area in a building, while a vestibule is a smaller entryway between the inside and outside of a building.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7b2b1c4a-2b33-42e3-9e70-c64e0b805f88.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and made this law. Some people think this number's a little bit large, but copyright mathematicians who are media lobby experts are merely surprised that it doesn't get compounded for inflation every year. Now when this law first passed, the world's hottest MP3 player could hold just 10 songs.",
+            "Title": "The $8 billion iPod PIPE...",
+            "VideoId": "GZadCj8O1-0",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " There is an effective evolution lobby coordinating the fight on behalf of science, and I try to do all I can to help them, but they get quite upset when people like me dare to mention that we happen to be atheists as well as evolutionists.",
+            "Title": "Militant atheism PIPE...",
+            "VideoId": "VxGMqKCcN6A",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " when an adult influences them to behave that way, and maybe censors that natural curiosity, or you know, reins in the question-asking in the hopes of them being polite little kids. So I just pictured a first grade teacher out in the lobby",
+            "Title": "It's not fair having 12...",
+            "VideoId": "JQ0iMulicgg",
+            "Controls": "start=33"
+        },
+        {
+            "Text": " And the islands’ governments have repeatedly lobbied on the global stage for countries with the highest emissions to reduce pollution and take responsibility for climate change. The challenges facing each coastal community are unique,",
+            "Title": "Where will you be able...",
+            "VideoId": "M3XZBYVSnJ0",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " be frightened of those differences when an adult influences them to behave that I just pictured a first-grade teacher out in the lobby with these unruly kids saying now whatever you do don't stare at her legs when of course that's the",
+            "Title": "Daydreaming: The bridge...",
+            "VideoId": "g_rKE_AWUW0",
+            "Controls": "start=50"
+        },
+        {
+            "Text": " especially when faced by some of the most powerful lobbies in the world. But it doesn't require a miracle. It just requires determined organization. So we shouldn't succumb to defeatism. Whenever someone says,",
+            "Title": "Yuval Noah Harari: The...",
+            "VideoId": "SiCvGQnweAg",
+            "Controls": "start=572"
+        },
+        {
+            "Text": " videotapes and her life I thought that would be very impactful in the lobby today are you very very very positive that my body with all the screws and wires and all that stuff in it and all",
+            "Title": "How a Woman's Donated...",
+            "VideoId": "w-hhQNXQawU",
+            "Controls": "start=923"
+        },
+        {
+            "Text": " successfully lobbied states to preemptively ban plastic bag bans under the guise of protecting the consumer and the grocery stores and so the plastic bag remains as does our plastic",
+            "Title": "A Brief History of How...",
+            "VideoId": "jQdBag_p6kE",
+            "Controls": "start=234"
+        },
+        {
+            "Text": " alright yeah what is the home village but the lobby sorry - yeah no oh did I get it further than he got it yeah even if he's being reluctant with the phrase she says I did a good",
+            "Title": "Wild West Town PIPE...",
+            "VideoId": "cYc37AcMF9M",
+            "Controls": "start=152"
+        },
+        {
+            "Text": " it's not easy no no but we're a lobby it's not just that I lost my house it's not that I lost my memories my entire way of life is completely gone as hard",
+            "Title": "Rebuilding Paradise...",
+            "VideoId": "OcyPBHPk_VM",
+            "Controls": "start=37"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frankie-valli.webp",
+            "Text": "Starting in my teens, I was always standing on the corner near our apartment singing harmony with friends. We'd also go to the park and sing under the bridge near the lake for the echo. When it was cold out, we'd stand in the little heated lobby in the project's administration building, where my mom paid the rent each month.",
+            "Title": "American Musician",
+            "Name": "Frankie Valli"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tate-reeves.webp",
+            "Text": "Many of my friends and allies - not to mention my critics - lobbied me to spend on worthy causes. Who cares about a rainy-day fund when times are good? There are raises to give and projects to fund!",
+            "Title": "",
+            "Name": "Tate Reeves"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/e-o-wilson.webp",
+            "Text": "Perhaps the time has come to cease calling it the 'environmentalist' view, as though it were a lobbying effort outside the mainstream of human activity, and to start calling it the real-world view.",
+            "Title": "American Scientist",
+            "Name": "E. O. Wilson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joel-salatin.webp",
+            "Text": "Unfortunately in the U.S., the courts have pretty much sided with the GMO lobby and suggesting that a farmer has no rights to be protected from GMO contamination.",
+            "Title": "American Author",
+            "Name": "Joel Salatin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rene-auberjonois.webp",
+            "Text": "The mask of the character was already written into the show, but I actually lobbied for a denser and more complete mask than they initially considered.",
+            "Title": "American Actor",
+            "Name": "Rene Auberjonois"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maxime-bernier.webp",
+            "Text": "A small group of motivated citizens can potentially have as much influence as a lobby group spending millions of dollars.",
+            "Title": "Canadian Businessman",
+            "Name": "Maxime Bernier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/walter-f-mondale.webp",
+            "Text": "I will not lobby. I will not be an influence-type lawyer. I'm a professional lawyer.",
+            "Title": "American Lawyer",
+            "Name": "Walter F. Mondale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/m-jayachandran.webp",
+            "Text": "I don't know anything about politics or lobbying in the film world.",
+            "Title": "Indian Composer",
+            "Name": "M. Jayachandran"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kid-rock.webp",
+            "Text": "I've paid for more pianos in hotel lobbies than you can imagine.",
+            "Title": "American Musician",
+            "Name": "Kid Rock"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bradley-a-smith.webp",
+            "Text": "The truth is, the 'Fortune' 500 prefer lobbying to campaigning.",
+            "Title": "American Public Servant",
+            "Name": "Bradley A. Smith"
+        }
+    ]
+}

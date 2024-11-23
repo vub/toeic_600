@@ -1,0 +1,333 @@
+{
+    "currentWord": {
+        "wordRoot": "delay",
+        "id": 22293,
+        "phonemic": "dɪˈleɪ|dɪˈleɪ\r",
+        "bigId": "8a500e5b-d580-4671-b2ee-d67e45e40a2a",
+        "wordForms": [
+            "delays",
+            "delaying",
+            "delayed",
+            "delay"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8a500e5b-d580-4671-b2ee-d67e45e40a2a",
+            "de": "A time when something starts later than planned",
+            "ty": "noun",
+            "ex": "I apologize for the delay of your package.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flight delay",
+                " rain delay",
+                " delay in delivery"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8a500e5b-d580-4671-b2ee-d67e45e40a2a.webp",
+            "Tips": [
+                {
+                    "title": "Unexpected Occurrence",
+                    "description": "Delays often happen unexpectedly and can cause inconvenience or require rescheduling.",
+                    "example": "Due to an unexpected delay, the conference will start an hour later.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0uhowGOEeZx3TnUP4v6OMEUPEH8.webp"
+                },
+                {
+                    "title": "Apology for Late",
+                    "description": "When something is delayed, it's polite to apologize if it affects others' plans.",
+                    "example": "We must apologize for the delay in the program's start time.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/VfSjCkQi3DvLfGUBMkI52QeMVKw.webp"
+                }
+            ]
+        },
+        {
+            "id": "92915db1-2137-4344-bb5e-cab835854cb2",
+            "de": "Make something happen at a later time than originally planned",
+            "ty": "verb",
+            "ex": "They decided to delay the trip because of the weather.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "delay a meeting",
+                " delay a decision",
+                " delay a project"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/92915db1-2137-4344-bb5e-cab835854cb2.webp",
+            "Tips": [
+                {
+                    "title": "Intentional Postponement",
+                    "description": "To delay can be a deliberate choice in response to unforeseen circumstances.",
+                    "example": "They chose to delay their wedding until all family members could attend.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Flexibility in Plans",
+                    "description": "Delaying an event can show flexibility in adapting to new situations.",
+                    "example": "The team decided to delay the release to incorporate user feedback.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "baacda24-57fc-49a9-8252-3f40c52b72a6",
+            "de": "The time during which something is delayed",
+            "ty": "noun",
+            "ex": "She waited for him with a delay of three hours.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "delay of a few hours",
+                " delay of shipment",
+                " unforeseen delay"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/baacda24-57fc-49a9-8252-3f40c52b72a6.webp",
+            "Tips": [
+                {
+                    "title": "Duration of Wait",
+                    "description": "This type of delay highlights the length of time you have to wait.",
+                    "example": "The flight was delayed, causing a four-hour wait at the airport.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specific Time Mention",
+                    "description": "Mentioning the specific delay time can be informative and help manage expectations.",
+                    "example": "The speaker was delayed by half an hour due to traffic.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d2c6440e-0f33-4b99-8c66-10168d050c5b",
+            "de": "The amount of time by which a signal or process is behind another signal or process",
+            "do": "Physics",
+            "ty": "noun",
+            "ex": "The delay in the signal was caused by interference.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "signal delay",
+                " delay time",
+                " propagation delay"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d2c6440e-0f33-4b99-8c66-10168d050c5b.webp",
+            "Tips": [
+                {
+                    "title": "Technical Precision",
+                    "description": "In technical fields, delay indicates a calculated time difference between processes.",
+                    "example": "Engineers worked to minimize the delay between data transmission and reception.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Measure of Latency",
+                    "description": "In technology, delay is precisely measured and can affect performance.",
+                    "example": "The network had a 10ms delay, affecting the gaming experience.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9519071e-4971-4b6f-ad73-41fc05d593a7",
+            "de": "Slow the progress or development of something",
+            "ty": "verb",
+            "ex": "Legal issues could delay the construction of the building.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "delay development",
+                " delay progress",
+                " delay growth"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9519071e-4971-4b6f-ad73-41fc05d593a7.webp",
+            "Tips": [
+                {
+                    "title": "Progress Impediment",
+                    "description": "Delays can impede progress, often causing frustration or requiring extra effort.",
+                    "example": "Unexpected legal complications delayed the project's completion.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Hesitate": {
+            "wordRoot": "Hesitate",
+            "wordDefinition": "Delay means to postpone something or put it off for later, whereas hesitate means to pause or hold back because of uncertainty or doubt.\n\nFor example, if you delay doing your homework, you put it off for later, whereas if you hesitate before answering a question in class, it's because you're unsure of the answer.\n\nBoth words can be applicable in different situations depending on what you want to say. When you delay something, you're intentionally putting it off or procrastinating, whereas when you hesitate, it could be because of fear, uncertainty, or even politeness.\n\nDelay is more about taking your time, while hesitate is more about being uncertain or hesitant in making a decision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1857168d-d4d9-4d9b-826a-67099d172b2a.webp"
+        },
+        "Intermission": {
+            "wordRoot": "Intermission",
+            "wordDefinition": "Intermission means a break or pause in something that's happening, like a play or a movie. This is time set aside for people to take a break, use the restroom, get a snack or drink, or stretch their legs before the show starts again.\n\nThe main difference between the two is that delay involves pushing something back in time, while intermission denotes a scheduled break in the middle of an event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/30875705-dbdc-438f-ad21-8ee9b6cb8230.webp"
+        },
+        "Obstruction": {
+            "wordRoot": "Obstruction",
+            "wordDefinition": "It can be caused by several factors, such as traffic or weather conditions or an inability to complete a task on time. Obstruction means to block or hinder something from moving forward or progressing.\n\nObstruction can be an intentional or unintentional act that makes it difficult to accomplish a task or reach a goal.\n\nIn simple words, delay is when something takes longer than expected while obstruction is when something is actively preventing progress.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d10ecf6b-79ab-4a49-9fa6-0d9a2a083a23.webp"
+        },
+        "Pause": {
+            "wordRoot": "Pause",
+            "wordDefinition": "Pause means to briefly stop or interrupt something before continuing.\n\nIt is often used when taking a break, for example when watching a video and pressing the pause button to stop it temporarily.\n\nDelay means making something happen later while pause means briefly stopping something before continuing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3d6f48f6-2789-47ff-a2ab-3704a25488d5.webp"
+        },
+        "Phobia": {
+            "wordRoot": "Phobia",
+            "wordDefinition": "Phobia is an irrational fear or extreme aversion towards something specific. It is applicable when someone experiences intense fear or anxiety towards a particular object, situation, or activity.\n\nFor example, someone with arachnophobia would have an intense fear of spiders.\n\nDelay is used when something is postponed or made to happen later than expected, while phobia describes an irrational fear or extreme aversion towards something specific.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b7549920-ec38-4195-86f7-d494b37750c3.webp"
+        },
+        "Postpone": {
+            "wordRoot": "Postpone",
+            "wordDefinition": "Delay means to put off something that was supposed to be done or started immediately, while postpone means to reschedule something for a later time.\n\nOn the other hand, we use postpone when we need to move a planned event or task to a later date or time. We may say \"The party has been postponed to next Saturday.\".\n\nDelay is for something that is already in motion but experiencing a setback while postponing is for something that has not yet started, but will be pushed back to a later time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6b84aca3-34f3-472d-b58c-f74a9cfd2853.webp"
+        },
+        "Procrastinate": {
+            "wordRoot": "Procrastinate",
+            "wordDefinition": "Procrastinate means to intentionally put off doing something that needs to be done, usually out of a lack of motivation or fear of failure.\n\nIt is often associated with negative consequences such as missed deadlines or decreased productivity. For example, if a student procrastinates studying for an exam until the night before, they may not perform as well as they would have if they had prepared in advance.\n\nDelay is temporary and can be caused by external factors, while procrastinate is intentional and can cause negative consequences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b9c1ac00-b9d2-402a-b7c8-40acfc0c19f6.webp"
+        },
+        "Stall": {
+            "wordRoot": "Stall",
+            "wordDefinition": "Stall means to stop making progress or to deliberately delay something. It implies that there is a deliberate effort to hold back progress or action.\n\nIf a project at work is stalled, it means that progress has been intentionally slowed down due to a lack of resources or disagreement among team members.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f3b9fcad-5738-43ce-87fb-7f00378a45f6.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " So we have had tremendous success, and we kind of got caught up in our own success quite a bit, and we started using expressions like \"lifesaving.\" I really apologize to everybody for doing that, because obviously, we don't. What we do is prolong people's lives, and delay death,",
+            "Title": "Peter Saul: Let's talk...",
+            "VideoId": "bJ7rCIq9Lc0",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " we'd run through all the money from Foster's, we'd run through all the money I had, and essentially we had no money left, and we'd convinced all our suppliers -- creative agencies, web development agencies, hosting companies, whatnot -- to delay their billing until December.",
+            "Title": "Adam Garone: Healthier...",
+            "VideoId": "sFNmulAb4wM",
+            "Controls": "start=421"
+        },
+        {
+            "Text": " The heightened workout a bilingual brain receives throughout its life can also help delay the onset of diseases, like Alzheimer's and dementia by as much as five years. The idea of major cognitive benefits to bilingualism may seem intuitive now,",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=201"
+        },
+        {
+            "Text": " in the world we don't have time the climate change desertification biodiversity loss these are so serious that people are not comprehending the magnitude of it yet generally all right now every year that we delay on these issues would lose",
+            "Title": "Avoiding desertification...",
+            "VideoId": "sJ3cAfW39yU",
+            "Controls": "start=160"
+        },
+        {
+            "Text": " don't think there was reluctance I think that there was some delay for logistical reasons reasons that have to do with equipping the guard the chief problem has been with respect to ammunition the troops came but the ammunition didn't",
+            "Title": "LA92 Panel - Live PIPE...",
+            "VideoId": "dWGUgjgOW_Y",
+            "Controls": "start=7208"
+        },
+        {
+            "Text": " can delay or prevent death but not reverse it. But that's not as simple as it sounds because constant advancements in technology and medicine have resulted in diagnoses such as coma, describing potentially reversible conditions,",
+            "Title": "At what moment are you...",
+            "VideoId": "5c6C3rHOdf8",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " to create effects like distortion, overdrive, wah-wah, delay and flanger. And lest you think that the physics of music is only useful for entertainment, consider this. Some physicists think that everything in the universe",
+            "Title": "The physics of playing...",
+            "VideoId": "w6EGyFAGpXU",
+            "Controls": "start=242"
+        },
+        {
+            "Text": " they turn an exact synchrony with their nearest neighbors but the tiniest delay in their reflexes helped create these mesmeric waves in the sky until recently the spectacle could only be seen from the ground",
+            "Title": "Ten Million Starlings...",
+            "VideoId": "UVko9jyAkQg",
+            "Controls": "start=96"
+        },
+        {
+            "Text": " and convinced politicians that such policies would raise energy costs and threaten jobs. These obstacles led the government to delay changes, and mandate further research into the issue.",
+            "Title": "Whatever happened to...",
+            "VideoId": "WIdWjqZsGgg",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " That child already, at four, understood the most important principle for success, which is the ability to delay gratification. the most important factor for success.",
+            "Title": "Don't eat the...",
+            "VideoId": "M0yhHKWUa0g",
+            "Controls": "start=106"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elon-musk.webp",
+            "Text": "The X is an amazing car, but we kind of got carried away with the art and technology. Obviously, you want great art. You want great technology. But we did get a little distracted from our mission, which was to advance the cause of electric vehicles. And it probably delayed us a little bit with the Model 3 as well.",
+            "Title": "South African Businessman",
+            "Name": "Elon Musk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mitchell-reiss.webp",
+            "Text": "Everyone I have spoken with so far recognises the need for the IRA to respond positively and every has said sooner is better than later and I think there is some concern if it does continue to delay much longer that the situation isn't going to remain the same.",
+            "Title": "American Diplomat",
+            "Name": "Mitchell Reiss"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-carlyle.webp",
+            "Text": "Foolish men imagine that because judgment for an evil thing is delayed, there is no justice; but only accident here below. Judgment for an evil thing is many times delayed some day or two, some century or two, but it is sure as life, it is sure as death.",
+            "Title": "Scottish Philosopher",
+            "Name": "Thomas Carlyle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-e-faust.webp",
+            "Text": "Some of our important choices have a time line. If we delay a decision, the opportunity is gone forever. Sometimes our doubts keep us from making a choice that involves change. Thus an opportunity may be missed.",
+            "Title": "American Clergyman",
+            "Name": "James E. Faust"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/josh-elliott.webp",
+            "Text": "A good meal is very important to me. When I have a bad meal, especially out, it's like I'm sitting in an airport during a flight delay. It's a part of my life I can't get back.",
+            "Title": "American Journalist",
+            "Name": "Josh Elliott"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/s-jay-olshansky.webp",
+            "Text": "I have little doubt that gerontologists will eventually find a way to avoid, or more likely, delay, the unpleasantries of extended life.",
+            "Title": "American Scientist",
+            "Name": "S. Jay Olshansky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vash-young.webp",
+            "Text": "A truth discovered always seems so plain and simple that we wonder why the discovery was so long delayed.",
+            "Title": "American Author",
+            "Name": "Vash Young"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/milarepa.webp",
+            "Text": "The affairs of the world will go on forever. Do not delay the practice of meditation.",
+            "Title": "Poet",
+            "Name": "Milarepa"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/simone-de-beauvoir.webp",
+            "Text": "Change your life today. Don't gamble on the future, act now, without delay.",
+            "Title": "French Writer",
+            "Name": "Simone de Beauvoir"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shigeru-miyamoto.webp",
+            "Text": "A delayed game is eventually good, but a rushed game is forever bad.",
+            "Title": "Japanese Designer",
+            "Name": "Shigeru Miyamoto"
+        }
+    ]
+}

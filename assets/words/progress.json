@@ -1,0 +1,338 @@
+{
+    "currentWord": {
+        "wordRoot": "progress",
+        "id": 19073,
+        "phonemic": "ˈprəʊɡres|ˈprɑːɡres,ˈprɑːɡrəs\r",
+        "bigId": "a51ab4d3-35cc-49aa-92c1-26e5c4548536",
+        "wordForms": [
+            "progresses",
+            "progressing",
+            "progressed",
+            "progress"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a51ab4d3-35cc-49aa-92c1-26e5c4548536",
+            "de": "Forward or onward movement towards a destination",
+            "ty": "noun",
+            "ex": "We are making progress towards finishing the project",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make progress",
+                " progress report",
+                " progress meeting"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a51ab4d3-35cc-49aa-92c1-26e5c4548536.webp",
+            "Tips": [
+                {
+                    "title": "Physical Journey",
+                    "description": "Used to express advancement towards a specific place or in a procedure.",
+                    "example": "As we progress through the jungle, we hope to reach the village by nightfall.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tPmtwr2DgCRQkgh4gk4qNVsFymo.webp"
+                },
+                {
+                    "title": "Measure of Success",
+                    "description": "Often linked with achievements, suggesting positive movement or improvement.",
+                    "example": "Your progress in English has been remarkable since last semester.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/YDdhf18uWV1xZrN2BWwqxJPIg.webp"
+                },
+                {
+                    "title": "Objective Evaluation",
+                    "description": "Can be used in contexts where advancement is monitored against set goals.",
+                    "example": "During the progress meeting, the team reviewed the project's milestones.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tR7Ri48ZDX4SD1HqMMCAGeLyc8.webp"
+                }
+            ]
+        },
+        {
+            "id": "2b0e5e04-e169-445f-a9ca-72fb9c51f15e",
+            "de": "Development towards an improved or more advanced condition",
+            "ty": "noun",
+            "ex": "The progress of technology over the years has been astounding",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "technological progress",
+                " economic progress",
+                " social progress"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2b0e5e04-e169-445f-a9ca-72fb9c51f15e.webp",
+            "Tips": [
+                {
+                    "title": "Positive Change",
+                    "description": "Implies improvement or innovation in a broader, often non-physical, scope.",
+                    "example": "The city has seen considerable social progress in terms of equality.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Gradual Improvement",
+                    "description": "Refers to continuous improvement over time, not necessarily a quick process.",
+                    "example": "Steady economic progress has resulted in a higher standard of living.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Physical",
+                    "description": "Related to advancements in abstract areas like knowledge, rights, or civilization.",
+                    "example": "Technological progress has altered the way we communicate.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b40b727f-5d78-4696-b0d9-44663dc23859",
+            "de": "Move forward in space or time",
+            "ty": "verb",
+            "ex": "As the week progressed, the weather got worse",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "progress steadily",
+                " progress rapidly",
+                " progress slowly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b40b727f-5d78-4696-b0d9-44663dc23859.webp",
+            "Tips": [
+                {
+                    "title": "Time Element",
+                    "description": "Emphasizes movement through time, not just physical space.",
+                    "example": "The event progressed from afternoon into late evening with much festivity.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "96cce41c-cf9e-407c-ad07-ca1abbf12a34",
+            "de": "Develop towards an improved or more advanced condition",
+            "ty": "verb",
+            "ex": "His work is progressing well",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "progress well",
+                " progress steadily",
+                " progress smoothly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/96cce41c-cf9e-407c-ad07-ca1abbf12a34.webp",
+            "Tips": [
+                {
+                    "title": "Work Enhancements",
+                    "description": "Used to describe improvements in a project, skillset, or personal ability.",
+                    "example": "She is progressing well in her piano lessons.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c6989e0f-eab6-4633-893f-d72f83a6e368",
+            "de": "A state visit or official tour",
+            "do": "Historical",
+            "ty": "noun",
+            "ex": "The royal progress through the city was grand",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "royal progress",
+                " solemn progress",
+                " grand progress"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c6989e0f-eab6-4633-893f-d72f83a6e368.webp",
+            "Tips": [
+                {
+                    "title": "Formal Events",
+                    "description": "Historical usage describing official ceremonies or dignified events.",
+                    "example": "The monarch's progress to the cathedral was lined with cheering citizens.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Advance": {
+            "wordRoot": "Advance",
+            "wordDefinition": "Advance means to move forward from one point to another by making improvements or gaining ground. It often implies a specific achievement or accomplishment.\n\nFor example, a student can advance to the next level after passing an exam or a technology can advance after a new upgrade.\n\nAdvance describes a specific achievement or improvement, while progress describes a continual improvement or change over time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dd62f8c2-6bfa-49b4-a865-fc84ae840e0a.webp"
+        },
+        "Better": {
+            "wordRoot": "Better",
+            "wordDefinition": "Better refers to something that has improved or is superior to what it was before.\n\nBetter describes something that has improved, while progress describes the process of improvement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9237d79a-223a-4801-96c3-65a3e66d706a.webp"
+        },
+        "Development": {
+            "wordRoot": "Development",
+            "wordDefinition": "Development refers to the process of growth, improvement or advancement of something over time.\n\nIt can refer to physical, intellectual, or social growth. For instance, the development of a child involves learning to walk, talk, and read as they mature.\n\nIn simpler terms, development refers to growth over time, whereas progress refers to movement towards a goal. Development is generally applicable to individual growth or changes in a small group, while progress can be applied to societal advancements or large-scale objectives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed896c33-c4cc-45bf-9c44-6830fd7739ca.webp"
+        },
+        "Enhance": {
+            "wordRoot": "Enhance",
+            "wordDefinition": "Enhance means to improve or make something better. It's applicable when you want to make something that's already good, even better.\n\nFor example, you can enhance the flavors of a dish by adding more spices or improve your tennis skills by practicing more often.\n\nProgress is about moving forward towards a specific outcome, whereas enhancement is about making something that's already there even better.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/acf0f29a-905b-473f-86f6-4995fffdc23c.webp"
+        },
+        "Evolution": {
+            "wordRoot": "Evolution",
+            "wordDefinition": "Evolution and progress are similar concepts, but they have subtle differences. Evolution refers to a gradual and slow process of change in a particular area, such as biological species, culture, or society.\n\nEvolution applies to natural processes that occur over long periods of time, like the development of species or cultures.\n\nEvolution is the slow, natural process of change that happens over time, while progress is a deliberate effort to make things better.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/793a5ff1-850f-4d97-b9fe-323a6986ee38.webp"
+        },
+        "Growth": {
+            "wordRoot": "Growth",
+            "wordDefinition": "The words growth and progress are often used interchangeably, but they have different meanings.\n\nGrowth refers to the process of increasing in size or quantity, while progress refers to the process of improving or advancing towards a goal.\n\nFor example, a plant undergoes growth as it gets taller and produces more leaves, whereas a person can make progress in their studies by learning new concepts and improving their grades.\n\nGrowth is more applicable to physical and numerical changes, while progress is more applicable to personal and societal development.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9c3fa48d-9ce2-4551-a4ac-8344d199b95b.webp"
+        },
+        "Headway": {
+            "wordRoot": "Headway",
+            "wordDefinition": "Headway and progress are both terms used to describe movement forward, but with subtle differences.\n\nHeadway refers to the progress made towards a particular goal or objective, often in the face of obstacles or challenges.\n\nIt suggests movement forward, but with a sense of struggle or difficulty. For example, \"We made some headway in our project, but still have a lot of work to do.\".\n\nHeadway refers to progress made in a specific context, while progress refers to a general sense of forward movement or improvement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/edaf22f1-5429-4521-a1a4-25d131af3884.webp"
+        },
+        "Improvement": {
+            "wordRoot": "Improvement",
+            "wordDefinition": "Improvement refers to the process of making something better than it was before. This can be seen as a qualitative change in the way something is done, such as developing a new technique that is more efficient or effective than the old way.\n\nImprovement is applicable in situations where we want to bring about a positive change in a particular area, such as when we aim to improve the quality of our work, the functionality of a product, or the health of our body.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ba21daf-5e5e-49bb-8646-da967cc34266.webp"
+        },
+        "Refinement": {
+            "wordRoot": "Refinement",
+            "wordDefinition": "Refinement, on the other hand, typically relates to the specific improvement of something to make it more polished, elegant, or effective.\n\nRefinement is more about improving the quality of something rather than simply moving forward or improving it in a general sense.\n\nFor example, progress could be increasing the number of schools in a community, while refinement could be improving the quality of education provided by those schools.\n\nProgress is more about moving forward and making general improvements while refinement is about enhancing the specific qualities of something to make it better.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a95aa9e-0d64-40dc-8488-9134e6f27411.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " command of everything and controlling it and that's what we're seeing around the world command and control mentalities and education is not an industrial system it's an organic system it's a human system and we make much more progress if we apply principles of Agriculture an actually of organic farming you might compare organic farming with industrial farming and say",
+            "Title": "Expanding our definition...",
+            "VideoId": "8awctnozMdo",
+            "Controls": "start=561"
+        },
+        {
+            "Text": " Though the name suggested impossibility, modern scientific and political progress raised hopes of these dreams finally becoming reality. But time and time again, they instead turned into nightmares of war, famine, and oppression. And as artists began to question utopian thinking,",
+            "Title": "How to recognize a...",
+            "VideoId": "6a6kbU88wu0",
+            "Controls": "start=33"
+        },
+        {
+            "Text": " into the tooth's secondary layer called the dentin. Since blood vessels and nerves in our teeth are enclosed deep within, at this stage, the expanding cavity doesn't hurt. But if the damage extends beyond the dentin, the bacterial invasion progresses",
+            "Title": "What causes cavities? -...",
+            "VideoId": "zGoBFU1q4g0",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " HCG is produced in the earliest stages of pregnancy and starts a game of telephone that tells the body not to shed the inner lining of the uterus that month. As the pregnancy progresses, HCG supports the formation of the placenta,",
+            "Title": "How do pregnancy tests...",
+            "VideoId": "aOfWTscU8YM",
+            "Controls": "start=63"
+        },
+        {
+            "Text": " a person will not have to fight against the universe's natural flow. So, for example, listen more, argue less. Be ready to back up or undo something, and you will make even faster progress. Don't worry about being the best,",
+            "Title": "The hidden meanings of...",
+            "VideoId": "ezmR9Attpyc",
+            "Controls": "start=195"
+        },
+        {
+            "Text": " Everyday physics may start to look a bit more like the strange quantum world. Quantum teleportation may even progress so far, that one day your cat will escape to a safer galaxy, where there are no physicists and no boxes.",
+            "Title": "What can Schrödinger's...",
+            "VideoId": "z1GCnycbMeA",
+            "Controls": "start=287"
+        },
+        {
+            "Text": " Humans have been fascinated with speed for ages. The history of human progress is one of ever-increasing velocity, and one of the most important achievements in this historical race was the breaking of the sound barrier.",
+            "Title": "The sonic boom problem -...",
+            "VideoId": "JO4_VHM69oI",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " This is massive progress, and this exceeds everybody's expectations about what is possible. And I think you and I, I think, honestly, that we can feel proud and encouraged",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=285"
+        },
+        {
+            "Text": " mass sickness and devastation. But as much tragedy as the disease has caused, it also helped drive crucial scientific and social progress. Plague is an infectious disease",
+            "Title": "Plague 101 PIPE National...",
+            "VideoId": "MYnMXEcHI7U",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " the cubs help mum dispatch the diker with ease the progress they've made since i last saw them is encouraging but they're not quite grown up yet",
+            "Title": "Cheetah Cubs Master...",
+            "VideoId": "ntngihmZTDI",
+            "Controls": "start=212"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ava-duvernay.webp",
+            "Text": "If I can be in a place where my image is encouraging people to see different people behind the camera, and my image and the images I make can help open up a certain world view, I think that's all a part of a larger spirit of change and progress, and I'm happy to be part of it.",
+            "Title": "American Director",
+            "Name": "Ava DuVernay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ben-carson.webp",
+            "Text": "And I've always said, 'If two people think the same thing about everything, one of them isn't necessary.' We need to be able to understand that if we're going to make real progress.",
+            "Title": "American Scientist",
+            "Name": "Ben Carson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alice-walker.webp",
+            "Text": "People tend to think that life really does progress for everyone eventually, that people progress, but actually only some people progress. The rest of the people don't.",
+            "Title": "American Author",
+            "Name": "Alice Walker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/victor-hugo.webp",
+            "Text": "The brutalities of progress are called revolutions. When they are over we realize this: that the human race has been roughly handled, but that it has advanced.",
+            "Title": "French Author",
+            "Name": "Victor Hugo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elon-musk.webp",
+            "Text": "I feel very strongly that SpaceX would not have been able to get started, nor would we have made the progress that we have, without the help of NASA.",
+            "Title": "South African Businessman",
+            "Name": "Elon Musk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/w-e-b-du-bois.webp",
+            "Text": "Believe in life! Always human beings will live and progress to greater, broader, and fuller life.",
+            "Title": "American Writer",
+            "Name": "W. E. B. Du Bois"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noam-chomsky.webp",
+            "Text": "Changes and progress very rarely are gifts from above. They come out of struggles from below.",
+            "Title": "American Activist",
+            "Name": "Noam Chomsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-johnson.webp",
+            "Text": "Life is a progress from want to want, not from enjoyment to enjoyment.",
+            "Title": "English Writer",
+            "Name": "Samuel Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-eastman.webp",
+            "Text": "The progress of the world depends almost entirely upon education.",
+            "Title": "American Inventor",
+            "Name": "George Eastman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gabriel-lippmann.webp",
+            "Text": "Life is short and progress is slow.",
+            "Title": "Scientist",
+            "Name": "Gabriel Lippmann"
+        }
+    ]
+}

@@ -1,0 +1,351 @@
+{
+    "currentWord": {
+        "wordRoot": "express",
+        "id": 19580,
+        "phonemic": "ɪkˈspres|ɪkˈspres\r",
+        "bigId": "8ee82501-7993-42c4-9ccb-0e1dd3eb25bb",
+        "wordForms": [
+            "expresses",
+            "expressing",
+            "expressed",
+            "expressly",
+            "express"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8ee82501-7993-42c4-9ccb-0e1dd3eb25bb",
+            "de": "To show or tell how you feel or what you are thinking",
+            "ty": "verb",
+            "ex": "She expressed her concern for her friend's safety.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "express concern",
+                " express emotion",
+                " express interest"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8ee82501-7993-42c4-9ccb-0e1dd3eb25bb.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Depth",
+                    "description": "Use 'express' to convey deep feelings, often with emphasis or intensity.",
+                    "example": "She couldn't help but express her joy with a loud cheer.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/n48LCROM0zGJao0DtIpaq0tdz4.webp"
+                },
+                {
+                    "title": "Beyond Words",
+                    "description": "Remember expressions can be non-verbal, like facial expressions or gestures.",
+                    "example": "His silent hug expressed more than words ever could.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qwXl3Y0X3Y7gwakKizI3ZqxTpDE.webp"
+                },
+                {
+                    "title": "Public vs. Private",
+                    "description": "When you express feelings, it can be either in private or to an audience.",
+                    "example": "During the meeting, she chose to publicly express her gratitude.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RZNGhI00oFsrydaCNKv6Cjn7CKc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "2d8e5493-4845-4da7-99ba-b4ed199217ce",
+            "de": "To represent in words, express clearly",
+            "ty": "verb",
+            "ex": "He found it difficult to express his feelings in words.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "express in words",
+                " express your views",
+                " express your thoughts"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2d8e5493-4845-4da7-99ba-b4ed199217ce.webp",
+            "Tips": [
+                {
+                    "title": "Clarity Matters",
+                    "description": "When expressing views, being clear and concise helps convey your message.",
+                    "example": "He expressed his views on the policy with clear, persuasive points.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Perspective",
+                    "description": "Use 'express' to share your unique thoughts and opinions on a topic.",
+                    "example": "In her essay, she expressed her personal perspective on climate change.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7c51ba76-4635-4cce-8a25-7bf3a0ab9eea",
+            "de": "Made or done for a particular purpose",
+            "ty": "adjective",
+            "ex": "We went to the village for the express purpose of buying food.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "express purpose",
+                " express command",
+                " express desire"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7c51ba76-4635-4cce-8a25-7bf3a0ab9eea.webp",
+            "Tips": [
+                {
+                    "title": "Specific Intention",
+                    "description": "An 'express' purpose is deliberate, with a clear and defined goal.",
+                    "example": "The fund was created with the express purpose of aiding disaster victims.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implied Urgency",
+                    "description": "'Express' can suggest something is a high priority or needs immediate attention.",
+                    "example": "The general gave an express order to retreat to safe ground.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "55d7a9d9-961d-4a8e-a2e6-7dc986c262a8",
+            "de": "Fast and direct",
+            "ty": "adjective",
+            "ex": "She took the express train to the city center.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "express train",
+                " express service",
+                " express delivery"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/55d7a9d9-961d-4a8e-a2e6-7dc986c262a8.webp",
+            "Tips": [
+                {
+                    "title": "Speed Importance",
+                    "description": "Use 'express' when indicating that something is faster than the usual options.",
+                    "example": "I used express shipping to receive the package tomorrow.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Direct Route",
+                    "description": "An 'express' service usually takes the most direct path or means fewer stops.",
+                    "example": "The express bus doesn't stop in the suburbs, only in major cities.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3eec568e-52c5-4489-a190-dfde392efde7",
+            "de": "To squeeze out a liquid while exerting pressure",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The doctor needs to express the pus from the abscess.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "express fluid",
+                " express pus",
+                " express milk"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3eec568e-52c5-4489-a190-dfde392efde7.webp",
+            "Tips": [
+                {
+                    "title": "Medical Procedure",
+                    "description": "In medical contexts, 'express' refers to extracting fluids with careful action.",
+                    "example": "The nurse will express the wound to clean it properly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Parental Care",
+                    "description": "Mothers 'express' breast milk to store for feeding their babies later.",
+                    "example": "She expressed milk before leaving for work.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Articulate": {
+            "wordRoot": "Articulate",
+            "wordDefinition": "Articulate means to express oneself clearly and effectively in speech or writing, usually in a more formal or academic setting.\n\nFor example, a teacher might ask a student to articulate their opinions on a particular topic in a class discussion.\n\nArticulate is specifically about expressing oneself in a clear and effective way, while express is a broader term that encompasses any form of communication.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f6ce7fe8-b8ba-48c2-b15b-8e8a896a70f4.webp"
+        },
+        "Communicate": {
+            "wordRoot": "Communicate",
+            "wordDefinition": "The words communicate and express are closely related and often used interchangeably, but there is a subtle difference between them.\n\nCommunicate refers to the act of sharing information or ideas with someone else through language, body language, or other means.\n\nCommunication can take many forms, such as talking, writing, gesturing, or using technology.\n\nIt emphasizes the individual's personal experience and their desire to express themselves in a meaningful way. Expressing oneself can be done for various reasons, such as to communicate a message, to evoke a response, or to simply share one's inner world with others.\n\nCommunicate describes the act of sharing information, while express describes the act of conveying personal thoughts and emotions.\n\nCommunication is more objective and focused on conveying a message, while expression is more subjective and focused on sharing personal experiences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/317f2fe9-c72e-4dc1-a989-f113602e64c9.webp"
+        },
+        "Convey": {
+            "wordRoot": "Convey",
+            "wordDefinition": "The words convey and express both mean to communicate something, but there is a slight difference in how they are used.\n\nConvey means to transport or carry something, like a message or idea, from one place to another. It’s often used when talking about transferring information in a clear and effective way, like conveying instructions or conveying emotions through art.\n\nExpress means to convey something in a specific way or through a specific medium, like using words, images or body language.\n\nIf you want to get a message across effectively, you would use convey. If you want to communicate your feelings or ideas in a specific way, you would use express.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/51317141-34c8-4625-a8fe-86fb60fd789a.webp"
+        },
+        "Declare": {
+            "wordRoot": "Declare",
+            "wordDefinition": "Declare means to make something known officially or publicly. This is usually done through a formal statement or an announcement.\n\nFor example, a government might declare a national holiday or a company might declare bankruptcy.\n\nDeclare is used more for official or public announcements, and express is used more for conveying emotions or ideas in a clear way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aa4e0b4b-9443-428b-bbdc-eaa78f9e1d14.webp"
+        },
+        "Pronounce": {
+            "wordRoot": "Pronounce",
+            "wordDefinition": "Pronounce means to say or articulate a word correctly.\n\nExpress is the act of communicating while pronounce is the act of saying a word properly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2c0b6e24-fe9d-482a-bad9-c9308e81f229.webp"
+        },
+        "Speak": {
+            "wordRoot": "Speak",
+            "wordDefinition": "Speak means to convey or communicate a message using spoken words, either in conversation or through public speaking. It is applicable in situations where a person wants to share information or have a discussion with others, such as giving a presentation or participating in a debate.\n\nExpress is more focused on the creative aspect of communication, while speak is more focused on verbal communication.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/703a6369-3397-4377-ba29-aa8d6de21d14.webp"
+        },
+        "State": {
+            "wordRoot": "State",
+            "wordDefinition": "State means to make a definite or authoritative declaration. For example, \"The Prime Minister stated that the government will take strict action against corruption.\".\n\nBoth words can be used interchangeably, but express is usually used in informal situations where the speaker wants to communicate their own thoughts and feelings, while state is used in more formal situations where the speaker wants to make an authoritative statement, such as in a legal or official document.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc3d020f-22f6-44e7-a701-0cec0aaa5e11.webp"
+        },
+        "Utter": {
+            "wordRoot": "Utter",
+            "wordDefinition": "Both express and utter mean to communicate or convey something verbally or in writing.\n\nUtter, on the other hand, is a more general term that simply means to say or speak something aloud.\n\nIt doesn't necessarily imply the same level of clarity or intentionality as express. For example, you might utter a curse word when you stub your toe, without really thinking too much about what you're saying.\n\nExpress is generally used when the speaker wants to communicate something specific and meaningful, while utter is a more neutral term that applies to any kind of spoken communication.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e17f0713-a5cb-4ebd-b789-3fb9c103e3ca.webp"
+        },
+        "Voice": {
+            "wordRoot": "Voice",
+            "wordDefinition": "Voice refers to the sound produced when we speak, but it can also refer to the way we express ourselves, our unique perspective or point of view.\n\nThis word is often used when you want to talk about someone's opinions or beliefs, such as giving someone a voice in a conversation or giving a platform for a specific voice to be heard.\n\nExpress is used when talking about how we say something, while voice is used when talking about what we have to say.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f4317519-510a-4238-9ee2-b8d29add991e.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " because their brains developed more cortisol receptors, which stick to cortisol and dampen the stress response. The pups of negligent moms had the opposite outcome, and so became more sensitive to stress throughout life. These are considered epigenetic changes, meaning that they effect which genes are expressed",
+            "Title": "How stress affects your...",
+            "VideoId": "WuyPuH9ojCE",
+            "Controls": "start=166"
+        },
+        {
+            "Text": " Yet, she expressed hope beyond suffering. Through deep thought, Woolf's characters are shown to temporarily transcend their material reality, and in its careful consideration of the complexity of the mind, her work charts the importance of making our inner lives known to each other.",
+            "Title": "Why should you read...",
+            "VideoId": "DcMLkce_BLg",
+            "Controls": "start=310"
+        },
+        {
+            "Text": " \"It is not a novel. Still less an epic poem. Still less a historical chronicle. 'War and Peace' is what the author wanted and was able to express in the form in which it was expressed.\" It is, in other words, the sum total of Tolstoy's imaginative powers, and nothing less.",
+            "Title": "Why should you read...",
+            "VideoId": "4dn7TEjnbPY",
+            "Controls": "start=245"
+        },
+        {
+            "Text": " Because Nobel's name was tied to inventions used in the war industry, many have assumed that he created the peace prize out of regret. However, this is all speculation as he never expressed any such sentiments, and his inventions were also used for constructive purposes.",
+            "Title": "How does the Nobel Peace...",
+            "VideoId": "rXhpK_lhonA",
+            "Controls": "start=70"
+        },
+        {
+            "Text": " if it motivates enough people to change their thinking and actions. And so the sixth source of power is numbers, lots of humans. A vocal mass of people creates power by expressing collective intensity of interest and by asserting legitimacy.",
+            "Title": "How to understand power...",
+            "VideoId": "c_Eutci7ack",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " but the other is the essential, important act of expressing guilt and remorse for hurting his wife. But the truth is that I have noticed that quite a lot of people who have affairs may feel terribly guilty for hurting their partner,",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=1012"
+        },
+        {
+            "Text": " question was can I change the world well so I launched the insider project a global participative art project allowing everyone to express themselves through their images however the deeper question was how to keep myself and",
+            "Title": "Art can fail PIPE JR",
+            "VideoId": "M63DGCavIkE",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " but like words, written numbers are a way of expressing concepts and information. And in a world where calculations and algorithms shape more and more of our lives, the mathematician's pencil grows stronger by the day.",
+            "Title": "A brief history of...",
+            "VideoId": "VmWVXOIQblM",
+            "Controls": "start=248"
+        },
+        {
+            "Text": " dogs pack life requires fighting for your share in the rough and tumble of competing mouths this puppy breaks all of the cat's social conventions his wild instincts express themselves despite his unusual family",
+            "Title": "Puppy Adopted By Cat...",
+            "VideoId": "ahKkJ1eEdDg",
+            "Controls": "start=53"
+        },
+        {
+            "Text": " express to port Police okay we're proceeding the dock wise is at the",
+            "Title": "Big Time Gamble PIPE...",
+            "VideoId": "1UcWmahfjks",
+            "Controls": "start=278"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "There are really two core principles at play here. There's giving people a voice so that people can express their opinions. Then, there's keeping the community safe, which I think is really important. We're not gonna let people plan violence or attack each other or do bad things.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/future.webp",
+            "Text": "I need to let people know who I am and instead of just trying to make great records, just be honest and make it more personal and make it more passionate, to make records with emotion and not be afraid to express that.",
+            "Title": "American Musician",
+            "Name": "Future"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-lloyd-wright.webp",
+            "Text": "No stream rises higher than its source. What ever man might build could never express or reflect more than he was. He could record neither more nor less than he had learned of life when the buildings were built.",
+            "Title": "American Architect",
+            "Name": "Frank Lloyd Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-wilde.webp",
+            "Text": "Beauty has as many meanings as man has moods. Beauty is the symbol of symbols. Beauty reveals everything, because it expresses nothing. When it shows us itself, it shows us the whole fiery-coloured world.",
+            "Title": "Irish Poet",
+            "Name": "Oscar Wilde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maria-montessori.webp",
+            "Text": "The development of language is part of the development of the personality, for words are the natural means of expressing thoughts and establishing understanding between people.",
+            "Title": "Italian Educator",
+            "Name": "Maria Montessori"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paulo-coelho.webp",
+            "Text": "Everybody has a creative potential and from the moment you can express this creative potential, you can start changing the world.",
+            "Title": "Brazilian Novelist",
+            "Name": "Paulo Coelho"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/walt-whitman.webp",
+            "Text": "O public road, I say back I am not afraid to leave you, yet I love you, you express me better than I can express myself.",
+            "Title": "American Poet",
+            "Name": "Walt Whitman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "When I was 8 years old, it mattered what my favorite singer said and wore and expressed opinions about.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/victor-hugo.webp",
+            "Text": "Music expresses that which cannot be said and on which it is impossible to be silent.",
+            "Title": "French Author",
+            "Name": "Victor Hugo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "Character is expressed through our behavior patterns, or natural responses to things.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "currentWord": {
+        "wordRoot": "take part in",
+        "id": 0,
+        "phonemic": "teɪk pɑrt ɪn",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID",
+            "de": "To engage in or become involved in an activity or event.",
+            "ty": "phrasal verb",
+            "ex": "She decided to take part in the charity marathon to support a good cause.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "take part in a discussion",
+                "take part in a meeting",
+                "take part in an event",
+                "take part in a competition",
+                "take part in a survey",
+                "take part in community activities"
+            ],
+            "ImageSrc": "./senses/d691f8a6-a636-4f6e-bc5a-6cca2d93422a.webp",
+            "Tips": [
+                {
+                    "title": "Formal and Informal Contexts",
+                    "description": "Use 'take part in' for both formal and informal contexts to indicate involvement or participation in an organized activity or event.",
+                    "example": "Employees are encouraged to take part in the company's wellness program.",
+                    "imageUrl": "./tips/4a448111-6a6e-4abb-957b-1e4301165a3f.webp"
+                },
+                {
+                    "title": "Alternative Expressions",
+                    "description": "In informal contexts, you can use 'join in' as an alternative, especially for social gatherings or group activities.",
+                    "example": "Everyone was having fun, so I decided to join in the conversation.",
+                    "imageUrl": "./tips/63b8bc61-b410-4dae-a9dd-d9ffca53a6e8.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Participate": {
+            "wordRoot": "Participate",
+            "wordDefinition": "'Participate' is often used interchangeably with 'take part in,' but 'participate' can sometimes imply a more formal or active role.",
+            "wordImage": ""
+        },
+        "Join": {
+            "wordRoot": "Join",
+            "wordDefinition": "'Join' can mean becoming a member of a group or organization, whereas 'take part in' specifically implies involvement in an activity or event.",
+            "wordImage": ""
+        }
+    }
+}

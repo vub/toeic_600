@@ -1,0 +1,439 @@
+{
+    "currentWord": {
+        "wordRoot": "hold",
+        "id": 13285,
+        "phonemic": "həʊld|həʊld\r",
+        "bigId": "8a44c22f-2f82-4be1-a349-027dee75a292",
+        "wordForms": [
+            "holds",
+            "holding",
+            "held",
+            "hold"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8a44c22f-2f82-4be1-a349-027dee75a292",
+            "de": "To have something in your hand or arms",
+            "ty": "verb",
+            "ex": "Please hold these apples for me.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hold hands",
+                " hold the bag",
+                " hold a position"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8a44c22f-2f82-4be1-a349-027dee75a292.webp",
+            "Tips": [
+                {
+                    "title": "Temporary Action",
+                    "description": "Use 'hold' to describe a brief action, where objects are not kept for long.",
+                    "example": "Can you hold my coat while I tie my shoes?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/t7pSEA5LuDnckHSdaslVBJTB02U.webp"
+                },
+                {
+                    "title": "Support Needed",
+                    "description": "'Hold' suggests something might fall or requires support without grip.",
+                    "example": "Hold the ladder steady for me, please.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/aqjjSqZcDTw44RZPJvwQjgcuENE.webp"
+                }
+            ]
+        },
+        {
+            "id": "352335a9-b563-4efb-b6cd-79774693d9a0",
+            "de": "To keep something in a particular state or position",
+            "ty": "verb",
+            "ex": "Hold the door open for her.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hold open",
+                " hold in place",
+                " hold your breath"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/352335a9-b563-4efb-b6cd-79774693d9a0.webp",
+            "Tips": [
+                {
+                    "title": "Stasis Implication",
+                    "description": "'Hold' in this sense means to maintain position without movement.",
+                    "example": "Hold your smile a little longer for the camera!\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Resistance",
+                    "description": "'Hold' conveys opposing forces, like wind, pressure, or competition.",
+                    "example": "The ship held its course despite the storm.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "be06d470-b00a-434a-b170-34f59012ee60",
+            "de": "To contain or to be able to contain something",
+            "ty": "verb",
+            "ex": "This bucket can hold two gallons of water.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hold water",
+                " hold information",
+                " hold passengers"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/be06d470-b00a-434a-b170-34f59012ee60.webp",
+            "Tips": [
+                {
+                    "title": "Volume Measure",
+                    "description": "'Hold' can indicate an item's capacity. Important for recipes or storage.",
+                    "example": "This jar holds exactly one liter.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Liquid",
+                    "description": "Though often used for fluids, 'hold' can refer to any substance.",
+                    "example": "This box can hold all my books.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "77922b38-00fa-4529-af3d-0642133c435d",
+            "de": "To organize and participate in a meeting or event",
+            "ty": "verb",
+            "ex": "We are planning to hold a meeting next week.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hold a meeting",
+                " hold a conversation",
+                " hold a conference"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/77922b38-00fa-4529-af3d-0642133c435d.webp",
+            "Tips": [
+                {
+                    "title": "Formal Events",
+                    "description": "Use 'hold' for scheduled, official, or formal gatherings.",
+                    "example": "The university will hold its graduation ceremony in June.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Pre-Planning",
+                    "description": "'Hold' implies an event was organized in advance, not spontaneous.",
+                    "example": "They decided to hold a banquet to celebrate the achievement.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "291e2632-c619-4881-8c8d-d80c038233cf",
+            "de": "To think or believe something",
+            "ty": "verb",
+            "ex": "I hold the opinion that exercise is important for good health.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hold the belief",
+                " hold the opinion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/291e2632-c619-4881-8c8d-d80c038233cf.webp",
+            "Tips": [
+                {
+                    "title": "Personal Conviction",
+                    "description": "'Hold' can reflect a firmly believed personal viewpoint or principle.",
+                    "example": "She holds strong views on environmental protection.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Debate and Discussion",
+                    "description": "This use of 'hold' often appears in contexts of intellectual debate.",
+                    "example": "In the debate, he held that taxes should be lowered.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3634a3d7-7866-4acc-8d15-6c0e2a64289f",
+            "de": "To bind by a legal or moral tie",
+            "ty": "verb",
+            "ex": "I am held by my promise.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hold to a promise",
+                " hold accountable"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3634a3d7-7866-4acc-8d15-6c0e2a64289f.webp",
+            "Tips": [
+                {
+                    "title": "Commitment",
+                    "description": "Shows a moral or legal obligation someone is bound to honor.",
+                    "example": "The company is held to high ethical standards.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Accountability Emphasis",
+                    "description": "'Hold' emphasizes the importance of keeping one's word or promise.",
+                    "example": "Leaders are held accountable for their decisions.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6dcad6c7-8d0a-433e-9d03-3c10dd565015",
+            "de": "To restrain oneself",
+            "ty": "verb",
+            "ex": "I had to hold my anger in check.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "br": true,
+            "tp": "",
+            "am": true,
+            "cl": [
+                "hold back",
+                " hold in check"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6dcad6c7-8d0a-433e-9d03-3c10dd565015.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Restraint",
+                    "description": "Use 'hold' to describe controlling emotions or actions voluntarily.",
+                    "example": "Even though he was upset, he held his composure.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Preventing Action",
+                    "description": "Sometimes 'hold' means to stop someone or something from a reaction.",
+                    "example": "He was so funny, I could hardly hold my laughter.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "150f1291-0233-4e85-8986-ff78e55e0e2d",
+            "de": "An act or manner of grasping something",
+            "ty": "noun",
+            "ex": "He has a strong hold on the rope.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "loose hold",
+                " firm hold"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/150f1291-0233-4e85-8986-ff78e55e0e2d.webp",
+            "Tips": [
+                {
+                    "title": "Physical Control",
+                    "description": "'Hold' as a noun means the act of grabbing something effectively.",
+                    "example": "With a firm hold of the leash, she walked the big dog.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Safety Implication",
+                    "description": "A 'hold' often implies safety, as in preventing someone from falling.",
+                    "example": "Grab hold of the railing while walking down the icy stairs.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Carry": {
+            "wordRoot": "Carry",
+            "wordDefinition": "Carry and hold are both verbs that describe actions related to moving an object from one place to another, but they have different nuances of meaning.\n\nTo carry something means to support the weight of an object and move it while holding it in your hands or arms. Carrying usually implies that you are transporting something from one place to another, such as carrying groceries from the store to your car.\n\nCarry is used when you need to move an object from one place to another while holding it, while hold is used when you need to grip and keep something steady in one place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f1fc64ba-4c77-4c53-9147-59cb31259f23.webp"
+        },
+        "Clasp": {
+            "wordRoot": "Clasp",
+            "wordDefinition": "Clasp and hold both refer to ways of grasping or gripping something, but there are subtle differences in how each word is used.\n\nA clasp typically refers to a fastener or closure that is used to hold something together, such as a snap or a buckle. To clasp something means to secure it with a closure or fastener.\n\nFor example, you might clasp a necklace around your neck by fastening its clasp.\n\nA clasp is a specific type of securing mechanism, while holding is a general term for grasping or gripping something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2eab489b-0216-490c-b2fc-8d5ceda26b53.webp"
+        },
+        "Clench": {
+            "wordRoot": "Clench",
+            "wordDefinition": "Clench means to tightly grip or squeeze something, usually with one's hands, teeth, or fists. It implies a forceful and intense action.\n\nFor example, if you are angry, you might clench your fists.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4fd5e45a-2c77-4fd3-b6df-44650f437c2f.webp"
+        },
+        "Clutch": {
+            "wordRoot": "Clutch",
+            "wordDefinition": "Clutch means to grab onto something tightly and securely, often in a moment of urgency or need.\n\nFor example, a basketball player might clutch the ball tightly before taking a shot.\n\nIt can be used in a wider range of contexts than 'clutch.' For example, a person might hold a book while reading, or hold a door open for someone else.\n\nClutch implies a stronger, more urgent grip than hold, and is often used in situations where there is some imminent or pressing danger.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/361dd51d-6037-4176-8b5e-cf4fbe8aaebe.webp"
+        },
+        "Embrace": {
+            "wordRoot": "Embrace",
+            "wordDefinition": "Embrace usually refers to a physical or emotional hug, accepting something or someone, or adopting a new idea or belief.\n\nFor instance, you can embrace a loved one or embrace a new challenge.\n\nEmbrace has emotional or intellectual connotation, while hold is more physical.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4cb90e41-d36e-4f28-9988-162686c0b434.webp"
+        },
+        "Grasp": {
+            "wordRoot": "Grasp",
+            "wordDefinition": "Grasp means to hold something tightly and firmly, usually with the fingers. For example, you might grasp a basketball tightly while dribbling down the court.\n\nGrasp suggests a strong and intentional hold, while hold is a more generic term for physically keeping something in place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/80e6560a-0eb7-4e47-969a-839d162fa374.webp"
+        },
+        "Grip": {
+            "wordRoot": "Grip",
+            "wordDefinition": "Grip and hold both refer to the act of grasping or holding onto something, but they are used in different contexts.\n\nGrip usually describes how we hold onto something tightly, with force or pressure.\n\nIt is often used in sports like weightlifting, where you need a strong grip to lift heavy weights. You might also use the word grip when talking about holding onto something like a handle, where you need to make sure you have a firm grasp and won't drop it.\n\nGrip refers to holding onto something tightly with force or pressure, usually in situations where strength is needed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/529e86c3-75bf-4aad-929c-776674a654ca.webp"
+        },
+        "Keep": {
+            "wordRoot": "Keep",
+            "wordDefinition": "Both hold and keep essentially mean to have or possess something.\n\nHowever, hold typically refers to physically grasping or containing something in your hand, while keep generally implies ownership or control over something for a period of time.\n\nFor example, you might hold a book while reading it, and then keep it on your bookshelf when you're done. Or you could hold a friend's phone for them while they tie their shoe, but you wouldn't keep it because it's not yours.\n\nThe difference between hold and keep often comes down to the context and the specific circumstances involved.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/81aaf275-bf97-4a1c-9dcf-e73f08adbc43.webp"
+        },
+        "Retain": {
+            "wordRoot": "Retain",
+            "wordDefinition": "The words hold and retain have similar meanings, but there is a slight difference in their usage.\n\nRetain means to keep something in one's possession or to remember something.\n\nIt is often used in a more abstract sense. For example, you could say \"The lawyer will retain the document for reference\" or \"I struggle to retain information from my history class\".\n\nHold is more often used when talking about physically holding onto something, while retain is used when talking about keeping or remembering something more abstract.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3bd99be-8acc-44ec-884f-04ae6f2f96f2.webp"
+        },
+        "Support": {
+            "wordRoot": "Support",
+            "wordDefinition": "Support means to hold up or help something. For example, you can support a friend by helping them through a tough time.\n\nHold means to keep something from falling or moving, while support means to help hold something up or provide assistance to someone or something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f630745-f3a5-4454-92eb-c75d98a5f411.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Importantly, the allegory is connected to the theory of forms, developed in Plato's other dialogues, which holds that like the shadows on the wall, things in the physical world are flawed reflections of ideal forms, such as roundness, or beauty. In this way, the cave leads to many fundamental questions,",
+            "Title": "Plato’s Allegory of the...",
+            "VideoId": "1RWOpQXTltA",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " anyone crossing must either hold the lantern or stay right next to it, and any of you can safely wait in the dark on either side of the gorge. Most importantly, everyone must be safely across before the zombies arrive. Otherwise, the first zombie could step on the bridge while people are still on it.",
+            "Title": "Can you solve the bridge...",
+            "VideoId": "7yDmGnA8Hw0",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " Humans should urinate at least four to six times a day, but occasionally, the pressures of modern life forces us to clench and hold it in. How bad is this habit, and how long can our bodies withstand it? The answers lie in the workings of the bladder, an oval pouch that sits inside the pelvis.",
+            "Title": "Is it bad to hold your...",
+            "VideoId": "Ze4Qmpq48AQ",
+            "Controls": "start=19"
+        },
+        {
+            "Text": " that I have noticed that quite a lot of people who have affairs may feel terribly guilty for hurting their partner, but they don't feel guilty for the experience of the affair itself. And that distinction is important. And Nick, he needs to hold vigil for the relationship.",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=1022"
+        },
+        {
+            "Text": " animal? He put his pectoral fin right under me and he just held it to the surface of the water like this. Just like this and I just laid on it and I hugged it. I held onto him like this and I hugged it and I laid there forever. I just laid there and he didn't move either.",
+            "Title": "A whale saved my life PIPE...",
+            "VideoId": "OXNCCdcBhcY",
+            "Controls": "start=459"
+        },
+        {
+            "Text": " and along with connective tissue, they bind us together, hold us up, and help us move. And whether or not body building is your hobby, muscles need your constant attention because the way you treat them on a daily basis determines whether they will wither or grow.",
+            "Title": "What makes muscles grow?...",
+            "VideoId": "2tM1LFFxeKg",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " that are strong enough not only to hold up a world that is completely invented by the author, but also to change the reader's perspective on the real world that resumes only when the final squiggle is reached? I'm not sure anyone knows the answer to that question,",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " But again, I'm really trying to dig deep, challenge myself, find that voice and kind of honor it. A huge part of why we feel the ocean is so powerful with grief, is that she embodies this kind of endless abyss that can hold all of us.",
+            "Title": "Surf Sisters - Ep. 2 PIPE...",
+            "VideoId": "F3LS8CQJW4A",
+            "Controls": "start=290"
+        },
+        {
+            "Text": " steady with heart of compassion when we forgive it creates new space that space might hold the possibility for a child for a new philosophy for a business idea but in",
+            "Title": "What forgiveness can...",
+            "VideoId": "TEfxPpnMuNQ",
+            "Controls": "start=874"
+        },
+        {
+            "Text": " Chilled water also holds more oxygen, and more oxygen means more life.",
+            "Title": "Boogie at an Animal...",
+            "VideoId": "VflENv-pPtk",
+            "Controls": "start=772"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-baldwin.webp",
+            "Text": "The only thing that white people have that black people need, or should want, is power-and no one holds power forever.",
+            "Title": "American Novelist",
+            "Name": "James Baldwin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-shakespeare.webp",
+            "Text": "I hold the world but as the world, Gratiano; A stage where every man must play a part, And mine is a sad one.",
+            "Title": "English Playwright",
+            "Name": "William Shakespeare"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/langston-hughes.webp",
+            "Text": "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.",
+            "Title": "American Poet",
+            "Name": "Langston Hughes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-london.webp",
+            "Text": "Life is not a matter of holding good cards, but sometimes, playing a poor hand well.",
+            "Title": "American Novelist",
+            "Name": "Jack London"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-louis-stevenson.webp",
+            "Text": "Life is not a matter of holding good cards, but of playing a poor hand well.",
+            "Title": "Scottish Writer",
+            "Name": "Robert Louis Stevenson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/josh-billings.webp",
+            "Text": "Life consists not in holding good cards but in playing those you hold well.",
+            "Title": "American Comedian",
+            "Name": "Josh Billings"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rainer-maria-rilke.webp",
+            "Text": "One had to take some action against fear when once it laid hold of one.",
+            "Title": "German Poet",
+            "Name": "Rainer Maria Rilke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-kardashian.webp",
+            "Text": "You never know what the future holds or where my life will take me.",
+            "Title": "American Celebrity",
+            "Name": "Kim Kardashian"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/audrey-hepburn.webp",
+            "Text": "The best thing to hold onto in life is each other.",
+            "Title": "British Actress",
+            "Name": "Audrey Hepburn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sofia-richie.webp",
+            "Text": "You have only one life - don't hold back.",
+            "Title": "American Celebrity",
+            "Name": "Sofia Richie"
+        }
+    ]
+}

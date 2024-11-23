@@ -1,0 +1,293 @@
+{
+    "currentWord": {
+        "wordRoot": "obligated",
+        "id": 15072,
+        "phonemic": "ˈɒblɪɡeɪtɪd|ˈɑːblɪɡeɪtɪd\r",
+        "bigId": "a16b3b51-6358-42e4-8420-c799815e6c4b",
+        "wordForms": [
+            "obligate",
+            "obligated"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a16b3b51-6358-42e4-8420-c799815e6c4b",
+            "de": "When someone has a responsibility to do something",
+            "ty": "adjective",
+            "ex": "I am obligated to complete the tasks by Monday",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "obligated to do something",
+                " feel obligated",
+                " morally obligated"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a16b3b51-6358-42e4-8420-c799815e6c4b.webp",
+            "Tips": [
+                {
+                    "title": "Personal Responsibility",
+                    "description": "Used when you're required to do something as part of your role or duty.",
+                    "example": "As the manager, I am obligated to oversee the project.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/acx6J4bicEjsFNvvGnJguVODZeY.webp"
+                },
+                {
+                    "title": "Task Completion",
+                    "description": "Indicates a commitment or promise you need to fulfill, often by a deadline.",
+                    "example": "I am obligated to finish this report by Friday.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0hBx44g61I4hfPjuXTSoC3dIQYs.webp"
+                },
+                {
+                    "title": "Involuntary Nature",
+                    "description": "The action might not be willingly performed; it's done out of necessity or requirement.",
+                    "example": "I am obligated to report any safety issues I encounter.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NnK6wgWYLdrPA0M24Uq01Z2lNY.webp"
+                }
+            ]
+        },
+        {
+            "id": "80ba84d1-e212-4c30-9922-ab5422ba2ef3",
+            "de": "Believing or feeling that it is your duty to do something",
+            "ty": "adjective",
+            "ex": "He felt obligated to help as he was the only one who knew first-aid",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "obligated to help",
+                " obligated to apologize",
+                " obligated to inform"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/80ba84d1-e212-4c30-9922-ab5422ba2ef3.webp",
+            "Tips": [
+                {
+                    "title": "Moral Duty",
+                    "description": "Suggests an action is done from a personal moral standpoint, not just because it's required.",
+                    "example": "She felt obligated to report the mistake, even though nobody noticed.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Weight",
+                    "description": "Often conveys a sense of burden or a reluctant agreement to do something.",
+                    "example": "Despite being busy, he felt obligated to attend the event.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Social Expectations",
+                    "description": "Shows how social norms or expectations can create a feeling of obligation.",
+                    "example": "He felt obligated to offer his seat to the elderly woman.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3ab8bd98-4ce8-4930-b171-97cd85bde3c0",
+            "de": "Legally forced to do something",
+            "do": "Legal",
+            "ty": "adjective",
+            "ex": "As per the contract, the seller is obligated to deliver the goods within 15 days",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "legally obligated",
+                " contractually obligated",
+                " obligated by law"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3ab8bd98-4ce8-4930-b171-97cd85bde3c0.webp",
+            "Tips": [
+                {
+                    "title": "Legal Requirements",
+                    "description": "Explains when a party must act in a certain way based on legal agreements.",
+                    "example": "The tenants are obligated to pay rent monthly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Contractual Agreements",
+                    "description": "Used when someone’s actions are dictated by the terms of a legal contract.",
+                    "example": "The company is obligated under the license agreement to provide updates.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Legality over Morality",
+                    "description": "The obligation is based on law, irrespective of one’s personal belief about the action.",
+                    "example": "By law, drivers are obligated to have insurance.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Bound": {
+            "wordRoot": "Bound",
+            "wordDefinition": "Bound means you are required to do something because you made a promise, vow or agreement. For example, if you tell your friend that you will meet them at the park at 3 pm, you are bound to keep your promise and show up at that time.\n\nBound is used when you have made a personal commitment, while obligated is used when you have a duty or responsibility that comes from an outside source.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4098b41f-0761-488e-99d2-97192d955dac.webp"
+        },
+        "Commit": {
+            "wordRoot": "Commit",
+            "wordDefinition": "Commit means to pledge or promise to do something. It carries a sense of being responsible and accountable for one's actions.\n\nFor example, if someone commits to finishing a project, they are making a promise to see it through to completion.\n\nCommit is applicable when someone is voluntarily taking responsibility for something, while obligated is applicable when someone is required or expected to do something, often due to external pressures or obligations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3500097a-34e2-429e-a695-57176476c3b6.webp"
+        },
+        "Compel": {
+            "wordRoot": "Compel",
+            "wordDefinition": "Compel means to force someone to do something, typically through pressure or persuasion. For example, a boss might compel an employee to work overtime by threatening to fire them.\n\nThe main difference between the two words is that compel implies an external force or pressure that is being applied, while obligated implies an internal sense of duty or responsibility.\n\nCompel is often related to a person giving orders or instructions, while obligated is related to rules or laws that must be followed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/10b864d0-7b7d-41d2-ae16-37f9826f03ef.webp"
+        },
+        "Constrain": {
+            "wordRoot": "Constrain",
+            "wordDefinition": "Constrain means to limit or restrict the actions or behaviors of someone or something. For example, if you are constrained by a deadline, you are limited in the amount of time you have to complete a task.\n\nThe main difference between constrain and obligated is that constrain means limiting or restricting, while obligated means having a responsibility or duty to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d9e1c57-db97-417c-bc21-f88c48270611.webp"
+        },
+        "Force": {
+            "wordRoot": "Force",
+            "wordDefinition": "Force refers to physically or mentally making someone do something without their choice or consent, whereas the word obligated means being required or having a duty to do something, but with the understanding that there may be consequences or social expectations if you do not do it.\n\nForce is applicable in situations where someone is being compelled or coerced to act in a certain way, often through physical or emotional pressure, while obligated is applicable in situations where there is a social or moral responsibility to fulfill certain expectations or obligations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/38e3fbed-36ee-4def-a45c-47fd3f3891a5.webp"
+        },
+        "Mandate": {
+            "wordRoot": "Mandate",
+            "wordDefinition": "Mandate refers to an official command or instruction given to someone in authority, whereas obligated means that someone is bound to do something because it is their duty or responsibility.\n\nFor example, a government may mandate a law that requires everyone to wear a mask in public spaces for their safety. This means it is mandatory to wear a mask and failure to do so will result in consequences.\n\nA mandate is an official order or command, while being obligated means having a responsibility or duty to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b85487a1-afa7-46de-916b-5727ead53c04.webp"
+        },
+        "Oblige": {
+            "wordRoot": "Oblige",
+            "wordDefinition": "Oblige means that someone does something as a favor or kindness, without an obligation or duty to do so. For example, a friend may oblige by lending you their notes for a class you missed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61f2e56f-b434-421e-b890-d82fe73b6c89.webp"
+        },
+        "Require": {
+            "wordRoot": "Require",
+            "wordDefinition": "The words obligated and require have similar meanings, but they are not exactly the same.\n\nRequire means to need or demand something, but there may not be a specific obligation or duty to do so. For example, if your teacher requires you to write a report for class, it's not necessarily an obligation or duty, but it's something that you need to do if you want to pass the class.\n\nObligated implies a stronger sense of duty or responsibility, while require is more about needing or demanding something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fbc7cac8-a671-467a-867d-38e8536b7768.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and if you don't, maybe consider taking some unpaid leave for those first few months, if your budget allows. And finally, ask yourself, what do I want? While this may seem simple, it's the factor that feels most taboo to explore. In talking to parents I find that when a woman chooses to stay home, she often feels obligated to say",
+            "Title": "3 things new parents...",
+            "VideoId": "06wDth_nvEg",
+            "Controls": "start=246"
+        },
+        {
+            "Text": " us no questions and we won't be lying that's no questions you get no lies right that's it comes down because when you tell one person that person tells their friend because they are obligated to tell a friend when it comes down to it this is a very cutthroat I said it from day when this they were worth fifty",
+            "Title": "Reel Talk Ep. 12 -...",
+            "VideoId": "Odf8S-4nk1Q",
+            "Controls": "start=230"
+        },
+        {
+            "Text": " had warned him not to attend. Since she was in fact a benevolent white snake spirit in human form, their marriage had already weathered attacks by meddling monks. But devout Buddhist that he was, Xu Xian felt obligated to make an appearance. What they didn’t know",
+            "Title": "The Chinese myth of the...",
+            "VideoId": "mO6eMTKalRE",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " have them yes oh and tonight because of the book they've they've let me have a little room and I'm going to just perform some foams tonight so at 9:30 if there's not a hundred other parties that you're already obligated to I'm going to",
+            "Title": "Poetic performance and...",
+            "VideoId": "BwgGMXzmYYw",
+            "Controls": "start=203"
+        },
+        {
+            "Text": " research on K biodiversity and a handful of seci caves caves hosted diverse community of organisms and it's largely secret life things that spend their entire lifecycle underground and those are called cave obligate creatures there",
+            "Title": "Explore the Hidden and...",
+            "VideoId": "m-Dz7llsK0k",
+            "Controls": "start=335"
+        },
+        {
+            "Text": " What it means then, you are, in theory, obligated from the harm that you've caused a pollution at a facility in another low-income community -- and very likely community of color -- in another part of the world. That's just wrong.",
+            "Title": "Climate Action Needs New...",
+            "VideoId": "CD7iYdtrJfY",
+            "Controls": "start=275"
+        },
+        {
+            "Text": " and when I began to write, at about the age of seven, stories in pencil with crayon illustrations that my poor mother was obligated to read, I wrote exactly the kinds of stories I was All my characters were white and blue-eyed,",
+            "Title": "Chimamanda Ngozi...",
+            "VideoId": "D9Ihs241zeg",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " ecosystem that is highly underrepresented in the world out here on the right planes we know that where its habitat where it lives there's other species like prairie dogs and you know the ferret is obligated to the prairie",
+            "Title": "Harsh Reality of Saving...",
+            "VideoId": "pS1tcdDdV8c",
+            "Controls": "start=45"
+        },
+        {
+            "Text": " Neutrality helps only the oppressor, never the victim.\" And he's completely right. We journalists are obligated to take sides in certain circumstances; in cases of racism, discrimination, corruption, lying to the public,",
+            "Title": "Jorge Ramos: Why...",
+            "VideoId": "TppG2Wcl3bY",
+            "Controls": "start=736"
+        },
+        {
+            "Text": " all obligated to something or somebody in Holland they were in a day after day and today can be helped",
+            "Title": "Watch This Veteran Fly...",
+            "VideoId": "k8ZrpTcEopo",
+            "Controls": "start=234"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marcel-duchamp.webp",
+            "Text": "One must pass through the network of influence. One is obligated to be influenced, and one accepts this influence very naturally. From the start, one doesn't realize this. The first thing to know: one doesn't realize one is influenced. One thinks he is already liberated, and one is far from it!",
+            "Title": "French Artist",
+            "Name": "Marcel Duchamp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eduardo-saverin.webp",
+            "Text": "I am obligated and I will pay hundreds of millions of dollars in taxes to the American government. I already paid and I will keep paying whatever taxes I owe based on my time as a U.S. citizen.",
+            "Title": "Brazilian Businessman",
+            "Name": "Eduardo Saverin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ninja.webp",
+            "Text": "People can just put their cash away and continue to make money and never give back because they just do not care, but I immediately felt obligated to use my influence for good things.",
+            "Title": "American Celebrity",
+            "Name": "Ninja"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-comey.webp",
+            "Text": "Even if information is not marked classified in an email, participants who know or should know that the subject matter is classified are still obligated to protect it.",
+            "Title": "American Public Servant",
+            "Name": "James Comey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dave-ramsey.webp",
+            "Text": "Would a good friend, a smart friend, encourage you to do something as dishonorable as not pay a bill you're morally and legally obligated to pay? I don't think so.",
+            "Title": "American Speaker",
+            "Name": "Dave Ramsey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dikembe-mutombo.webp",
+            "Text": "I've always felt obligated to help those less fortunate than me. It's an obligation that anyone who has a chance to be in the NBA should feel and act upon.",
+            "Title": "American Athlete",
+            "Name": "Dikembe Mutombo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yehuda-berg.webp",
+            "Text": "In truth, we are all part of the team of humanity. And as such, we are all obligated to share ourselves, and our talents, for the sake of the team.",
+            "Title": "American Clergyman",
+            "Name": "Yehuda Berg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ezra-taft-benson.webp",
+            "Text": "We all know of families who have obligated themselves for more than they could pay. There is a world of heartache behind such cases.",
+            "Title": "American Leader",
+            "Name": "Ezra Taft Benson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harvey-cushing.webp",
+            "Text": "A physician is obligated to consider more than a diseased organ, more even than the whole man - he must view the man in his world.",
+            "Title": "American Scientist",
+            "Name": "Harvey Cushing"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-leach.webp",
+            "Text": "A government of, by and for the people is obligated to conduct the nation's business in a manner that respects dissent.",
+            "Title": "American Politician",
+            "Name": "Jim Leach"
+        }
+    ]
+}

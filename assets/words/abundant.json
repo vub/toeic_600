@@ -1,0 +1,291 @@
+{
+    "currentWord": {
+        "wordRoot": "abundant",
+        "id": 2792,
+        "phonemic": "əˈbʌndənt|əˈbʌndənt\r",
+        "bigId": "e2742cab-6c4b-41ad-ae31-6c5d0331cd57",
+        "wordForms": [
+            "abundantly",
+            "abundant"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e2742cab-6c4b-41ad-ae31-6c5d0331cd57",
+            "de": "Present in large quantities; more than enough",
+            "ty": "adjective",
+            "ex": "Fresh fruits and vegetables are abundant in summer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "abundant supply",
+                " abundant resources",
+                " abundant opportunity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e2742cab-6c4b-41ad-ae31-6c5d0331cd57.webp",
+            "Tips": [
+                {
+                    "title": "Natural Occurrences",
+                    "description": "Often used to describe nature's generosity, like harvests or wildlife.",
+                    "example": "During spring, the abundant blossoms attract numerous bees.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jGt4IDFi6ZurRVT4orGROoag7pU.webp"
+                },
+                {
+                    "title": "Positive Connotation",
+                    "description": "Implies a beneficial aspect, such as having ample resources.",
+                    "example": "The new library had an abundant collection of books.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qc1zQ5a2pZqfYPfAnQD2vNy8Q4A.webp"
+                },
+                {
+                    "title": "Quantitative Measurement",
+                    "description": "Can describe something measurable, not just a vague plenty.",
+                    "example": "Researchers found abundant evidence to support the theory.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UzkVXEXXcFf59wldzvxbPH1Fvps.webp"
+                }
+            ]
+        },
+        {
+            "id": "7524b237-fa4c-4d7d-8112-d130784aa12a",
+            "de": "Wealthy; having a lot of money or possessions",
+            "ty": "adjective",
+            "ex": "He led an abundant lifestyle, always surrounded by luxuries.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "abundant wealth",
+                " abundant lifestyle",
+                " abundant possessions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7524b237-fa4c-4d7d-8112-d130784aa12a.webp",
+            "Tips": [
+                {
+                    "title": "Financial Abundance",
+                    "description": "Refers to a substantial amount of wealth, not just getting by.",
+                    "example": "The entrepreneur enjoyed an abundant fortune from his investments.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Lifestyle Quality",
+                    "description": "Implies a high quality of life with plenty of comforts.",
+                    "example": "She enjoyed an abundant lifestyle with frequent vacations.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Just Money",
+                    "description": "Abundance can refer to possessions or assets, not only cash.",
+                    "example": "They lived in a home abundant with fine art and antiques.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7cfd90be-5bb0-4d42-97c2-49fffdff4684",
+            "de": "Rich in a particular quality",
+            "ty": "adjective",
+            "ex": "Her songs are abundant in emotion and meaning.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "abundant in emotion",
+                " abundant in meaning",
+                " abundant in detail"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7cfd90be-5bb0-4d42-97c2-49fffdff4684.webp",
+            "Tips": [
+                {
+                    "title": "Metaphysical Use",
+                    "description": "Poetically describes things filled with a certain quality or essence.",
+                    "example": "The novel's language was abundant with vivid imagery.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Depth",
+                    "description": "Can show a deep presence of feelings or characteristics.",
+                    "example": "Their reunion was abundant with joy and laughter.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Richness",
+                    "description": "Used to express the richness found in cultural aspects.",
+                    "example": "The festival was abundant in color and tradition.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Ample": {
+            "wordRoot": "Ample",
+            "wordDefinition": "Both words, abundant and ample, describe the quantity or amount of something.\n\nFor example, a forest can be described as abundant if it has a lot of trees in it.\n\nAmple means the quantity is enough or sufficient for the purpose required. So, when something is ample, it means that it is enough or adequate.\n\nFor example, if you have ample time to complete your homework, it means you have enough time to finish it without rushing.\n\nAbundant is used when you want to emphasize that there is more than enough of something, while ample describes when the quantity is enough or sufficient for what is needed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/661701d7-017a-47e3-95b8-84803877e3df.webp"
+        },
+        "Bountiful": {
+            "wordRoot": "Bountiful",
+            "wordDefinition": "The words abundant and bountiful are both used to describe something that is plentiful or plentifully supplied.\n\nHowever, abundant is used more to describe an extensive amount, while bountiful is used more to describe generosity or a gift.\n\nFor example, you would say abundant crops because there is a large amount of them. But you would say a bountiful harvest as it implies that it is a gift or a generous amount.\n\nAbundant is used for more general contexts of being ample, while bountiful is often used in the context of a gift or generosity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b344639-be54-4673-8497-d86cd2d68328.webp"
+        },
+        "Copious": {
+            "wordRoot": "Copious",
+            "wordDefinition": "Abundant and copious are synonyms, which means that they have similar meanings. Both refer to something that is existing or available in large quantities.\n\nCopious is often used to describe something that is not only plentiful, but also more than what is necessary or expected.\n\nFor example, you might use the word copious to describe a copious amount of notes that someone took during a lecture, implying that they took an excessive amount of notes.\n\nSimilarly, you might say that someone has a copious vocabulary, meaning that they know an impressive amount of words.\n\nIn summary, both abundant and copious mean that there is a lot of something, but copious implies an excess or abundance that goes beyond what is usual or necessary.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/41abaa52-f12c-4e33-8db1-7fb5e2907694.webp"
+        },
+        "Generous": {
+            "wordRoot": "Generous",
+            "wordDefinition": "Abundant means having a lot of something, while generous means someone who likes to share what they have. For example, if you have an abundant amount of fruit, it means you have a lot of it.\n\nIf you are generous, it means you like to share what you have, whether it's money, food or time. Abundant describes quantities while generous describes the nature of an individual.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/717618ef-548e-4234-9705-8c9487da6e5f.webp"
+        },
+        "Overflow": {
+            "wordRoot": "Overflow",
+            "wordDefinition": "Overflow refers to having an excess or surplus of something.\n\nIt is used when you have more than what you need or can handle. For example, a basin can overflow with water, or a person's schedule can overflow with too many commitments.\n\nAbundant means having plenty, while overflow means having too much.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3d8fb283-b396-4d2d-86a7-5cc170106d2a.webp"
+        },
+        "Plentiful": {
+            "wordRoot": "Plentiful",
+            "wordDefinition": "Both words, abundant and plentiful, share similarities in meaning, but they have a slight difference in their usage.\n\nAbundant suggests that there is a plentiful amount of something in general, but not necessarily in a specific place or at a specific time.\n\nPlentiful describes a sufficient amount of something that is available in a specific place or at a specific time. For example, we can say that food is plentiful at a party, which means that there is a sufficient amount of food at that specific location and time.\n\nAbundant is used for general things in general terms, while plentiful describes enough things in specific terms.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b278cb1d-a4b1-46e5-8125-6b2ae5335039.webp"
+        },
+        "Profuse": {
+            "wordRoot": "Profuse",
+            "wordDefinition": "Both abundant and profuse mean \"a lot of something\".\n\nProfuse is used when there is a lot of something and it feels excessive or overwhelming.\n\nFor example, a garden that has an abundant amount of flowers would be well-maintained and pleasing to the eyes. A garden with profuse flowers might be overcrowded and have a messy appearance.\n\nAbundant suggests a satisfactory amount, while profuse suggests an excess amount.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/72af8ebb-aa6b-4452-9978-d76782387098.webp"
+        },
+        "Rich": {
+            "wordRoot": "Rich",
+            "wordDefinition": "Rich, on the other hand, refers to having a lot of wealth or possessions.\n\nIt is typically used to describe people who have a high net worth or own many valuable things, such as a millionaire who is considered to be very rich.\n\nAbundant is applicable when talking about resources or natural things, while rich is applicable when talking about wealth or possessions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/623184e1-6e29-4a15-a230-baa5ca312418.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " when you flick the switch. And piezoelectric devices may become even more common since electricity is in high demand and mechanical energy is abundant. There are already train stations that use passengers' footsteps to power the ticket gates and displays and a dance club where piezoelectricity helps power the lights.",
+            "Title": "How to squeeze...",
+            "VideoId": "YEJ2qryXcIQ",
+            "Controls": "start=241"
+        },
+        {
+            "Text": " sex is unsatisfying. Our fear of the cold, cruel world tempts us to build hard shells to protect and isolate ourselves. Love's delight, intimacy, and warmth helps us overcome our fear of the world, escape our lonely shells, and engage more abundantly in life.",
+            "Title": "Why do we love? A...",
+            "VideoId": "yJSiUm6jvI0",
+            "Controls": "start=147"
+        },
+        {
+            "Text": " Canoe building involved the whole community, bringing together the navigators, canoe builders, priests, chanters, and hula dancers. Navigators were keen observers of the natural world. They were abundantly familiar with trade wind-generated ocean swells,",
+            "Title": "How did Polynesian...",
+            "VideoId": "m8bDCaPhOek",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " It shows the remnants of a delta, and this picture tells us water was abundant and stayed founting at the surface for a very long time. This is good news for life. Life chemistry takes a long time to actually happen. So this is extremely good news,",
+            "Title": "Nathalie Cabrol: How...",
+            "VideoId": "wxCtIdI3xL0",
+            "Controls": "start=349"
+        },
+        {
+            "Text": " Marine snow is basically organic matter, things like particles of dead algae, plants, and animals, drifting down into the depths and acting as food for deep-sea animals. Largely thanks to that, abundant life forms exist in the darkness,",
+            "Title": "The otherworldly...",
+            "VideoId": "U69LIr0OrNc",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " butterflies, moths, flies, wasps, beetles, even birds and bats, who together help pollinate many species of trees, shrubs and other flowering plants. In return, flowering plants are an abundant and diverse food source for pollinators.",
+            "Title": "How bees help plants...",
+            "VideoId": "Y5uRVv7GGQM",
+            "Controls": "start=84"
+        },
+        {
+            "Text": " billion people in the developing world who lack access to electricity another aspect that really excites me is how cheap these can be made these thin slang films are made by mixing two inexpensive readily abundant salts to",
+            "Title": "Uncovering a radical...",
+            "VideoId": "2ccar3uqWsw",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " sand martins fly from south africa just to nest in the banks of this river in hungary they are here for the abundant insect life but as their chicks grow demand outstrips supply",
+            "Title": "Unbelievable Bird...",
+            "VideoId": "twJaTtWxKCc",
+            "Controls": "start=230"
+        },
+        {
+            "Text": " wild there's more than 10 species which are fairly abundant and easy to observe they all interact with each other and with native species it's really a unique",
+            "Title": "Why Are Wild Parrots...",
+            "VideoId": "6pYleuyC0QY",
+            "Controls": "start=131"
+        },
+        {
+            "Text": " the monkey's character is a result of the riches that the monsoon brings life with abundant food",
+            "Title": "Best Monkey Moments PIPE...",
+            "VideoId": "opyPkipNNhE",
+            "Controls": "start=219"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christy-turlington.webp",
+            "Text": "One thing that has become abundantly clear to me as I have advocated for the health and well-being of girls and women over the years is the innate power we each have within us to establish deep connection with one another and heal ourselves simply by sharing our stories.",
+            "Title": "American Model",
+            "Name": "Christy Turlington"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeb-bush.webp",
+            "Text": "If you believe, like I do, that the world is abundant with possibilities, then we need to make sure we build capacity so that everybody is successful or can be successful in the pursuit of their dreams - not the dreams of someone from government, but their own dreams.",
+            "Title": "American Politician",
+            "Name": "Jeb Bush"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-miller.webp",
+            "Text": "Art is only a means to life, to the life more abundant. It is not in itself the life more abundant. It merely points the way, something which is overlooked not only by the public, but very often by the artist himself. In becoming an end it defeats itself.",
+            "Title": "American Author",
+            "Name": "Henry Miller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-branson.webp",
+            "Text": "I've been very passionate about renewable energy for many years, particularly solar energy and its capacity to bring abundant clean, sustainable energy to millions around the globe.",
+            "Title": "British Businessman",
+            "Name": "Richard Branson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/plato.webp",
+            "Text": "Apply yourself both now and in the next life. Without effort, you cannot be prosperous. Though the land be good, You cannot have an abundant crop without cultivation.",
+            "Title": "Greek Philosopher",
+            "Name": "Plato"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ernest-renan.webp",
+            "Text": "You may take great comfort from the fact that suffering inwardly for the sake of truth proves abundantly that one loves it and marks one out as being of the elect.",
+            "Title": "French Philosopher",
+            "Name": "Ernest Renan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alice-walker.webp",
+            "Text": "Life is abundant, and life is beautiful. And it's a good place that we're all in, you know, on this earth, if we take care of it.",
+            "Title": "American Author",
+            "Name": "Alice Walker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-arthur-ward.webp",
+            "Text": "Lose yourself in generous service and every day can be a most unusual day, a triumphant day, an abundantly rewarding day!",
+            "Title": "American Writer",
+            "Name": "William Arthur Ward"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-drummond.webp",
+            "Text": "To love abundantly is to live abundantly, and to love forever is to live forever.",
+            "Title": "Scottish Writer",
+            "Name": "Henry Drummond"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nle-choppa.webp",
+            "Text": "I live in an abundant universe where anything is possible.",
+            "Title": "American Rapper",
+            "Name": "NLE Choppa"
+        }
+    ]
+}

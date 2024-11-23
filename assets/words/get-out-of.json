@@ -1,0 +1,88 @@
+{
+    "currentWord": {
+        "wordRoot": "get out of",
+        "id": 0,
+        "phonemic": "ɡɛt aʊt əv",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "a7b8c9d0-123e-4f56-987a-bcde12345678",
+            "de": "To avoid doing something, especially something unpleasant or undesirable.",
+            "ty": "phrasal verb",
+            "ex": "I managed to get out of doing the dishes by saying I had a headache.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "get out of doing chores",
+                "get out of going to a meeting",
+                "get out of a commitment",
+                "get someone out of trouble",
+                "get out of a bad habit"
+            ],
+            "ImageSrc": "./senses/02e880b9-05e0-43ef-aadc-8e53fca8c4dd.webp",
+            "Tips": [
+                {
+                    "title": "Avoiding obligations",
+                    "description": "Use 'get out of' when you successfully avoid a responsibility or task.",
+                    "example": "He got out of attending the conference by claiming illness.",
+                    "imageUrl": "./tips/501951d3-6669-4ba7-a2bb-9b3b4c02be79.webp"
+                },
+                {
+                    "title": "Escaping undesirable situations",
+                    "description": "Use 'get out of' to describe escaping a negative experience or predicament.",
+                    "example": "She got out of a speeding ticket by being polite to the officer.",
+                    "imageUrl": "./tips/e12506ff-cb04-4cf5-8c6f-e4a327eda983.webp"
+                }
+            ]
+        },
+        {
+            "id": "b8c9d0a1-234f-5678-9a0b-cdef23456789",
+            "de": "To leave or exit a place, especially a vehicle.",
+            "ty": "phrasal verb",
+            "ex": "Get out of the car now!",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "get out of the car",
+                "get out of bed",
+                "get out of the house",
+                "get out of town"
+            ],
+            "ImageSrc": "./senses/697e47b6-0088-4b84-810b-078e65281a85.webp",
+            "Tips": [
+                {
+                    "title": "Exiting vehicles",
+                    "description": "Use 'get out of' when referring to leaving a vehicle.",
+                    "example": "They got out of the taxi and headed into the hotel.",
+                    "imageUrl": "./tips/9388c2db-2cf8-4c9f-baa4-f00fe400ba6a.webp"
+                },
+                {
+                    "title": "Leaving locations",
+                    "description": "Use 'get out of' to describe exiting various places.",
+                    "example": "I need to get out of this stuffy room.",
+                    "imageUrl": "./tips/d1e88a35-ba08-4264-81cb-bc55dbb1ac2a.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "avoid": {
+            "wordRoot": "avoid",
+            "wordDefinition": "'Avoid' is more formal and emphasizes intentional prevention, while 'get out of' suggests finding a way to escape an existing obligation or situation.",
+            "wordImage": ""
+        },
+        "escape": {
+            "wordRoot": "escape",
+            "wordDefinition": "'Escape' often implies a more dramatic or urgent departure from a dangerous or confining situation, while 'get out of' can be used for more mundane situations.",
+            "wordImage": ""
+        }
+    }
+}

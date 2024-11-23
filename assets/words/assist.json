@@ -1,0 +1,336 @@
+{
+    "currentWord": {
+        "wordRoot": "assist",
+        "id": 15605,
+        "phonemic": "əˈsɪst|əˈsɪst\r",
+        "bigId": "71981f28-6551-478c-b256-1b6aae999aeb",
+        "wordForms": [
+            "assists",
+            "assisting",
+            "assisted",
+            "assist"
+        ]
+    },
+    "senses": [
+        {
+            "id": "71981f28-6551-478c-b256-1b6aae999aeb",
+            "de": "to help or support someone or something.",
+            "ty": "verb",
+            "ex": "I will assist you in preparing the presentation.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assist in",
+                " assist with",
+                " assist someone"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/71981f28-6551-478c-b256-1b6aae999aeb.webp",
+            "Tips": [
+                {
+                    "title": "Immediate Help",
+                    "description": "Use 'assist' to imply direct and immediate help on a task or action.",
+                    "example": "Can you assist me with this heavy box right now?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UitmIbEInUQm4Q5gJPcxswYXw5Y.webp"
+                },
+                {
+                    "title": "Cooperative Action",
+                    "description": "Often suggests collaboration towards a goal, rather than taking over the task.",
+                    "example": "We will assist each other to complete the project faster.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/WeDPqK1toF3O5sUnfLPYqijvt80.webp"
+                },
+                {
+                    "title": "Support Role",
+                    "description": "Implies a secondary role in the assistance, not the primary actor.",
+                    "example": "The supervisor will assist her team to meet the deadline.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qgVXYlKesoElxC65RJ3q0tkjRo.webp"
+                }
+            ]
+        },
+        {
+            "id": "221ec650-9ea3-43eb-90e8-fc3be1a075a8",
+            "de": "to make something easier or possible.",
+            "ty": "verb",
+            "ex": "Technology can assist in making our lives more convenient.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assist in doing",
+                " assist in achieving"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/221ec650-9ea3-43eb-90e8-fc3be1a075a8.webp",
+            "Tips": [
+                {
+                    "title": "Facilitating Tasks",
+                    "description": "Focuses on making a task simpler or less complicated for someone.",
+                    "example": "This tool assists in opening stubborn jars.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Enabling Possibilities",
+                    "description": "Highlights using 'assist' when something becomes possible due to help.",
+                    "example": "Scholarships assist students in attending college who otherwise couldn't afford it.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "01ae092b-e08e-47f3-8acd-b7396ffb9b3e",
+            "de": "in sports, especially basketball and soccer, to pass the ball or puck to a player who then scores a goal.",
+            "do": "sports",
+            "ty": "verb",
+            "ex": "He scored three goals and assisted on two more.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assist on",
+                " assist in scoring"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/01ae092b-e08e-47f3-8acd-b7396ffb9b3e.webp",
+            "Tips": [
+                {
+                    "title": "Sports Contribution",
+                    "description": "In sports context, it's about contributing to a score, not scoring directly.",
+                    "example": "She assisted on the final goal that won the game.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Credit for Scoring",
+                    "description": "Use 'assist' to credit a player's role in setting up a score.",
+                    "example": "Despite not scoring, he leads the team with ten assists.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8f6116bd-d373-408f-8877-8f820ca68b47",
+            "de": "the action of helping or supporting.",
+            "ty": "noun",
+            "ex": "Thanks for your assist in moving the furniture.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "provide an assist",
+                " give an assist",
+                " need an assist"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8f6116bd-d373-408f-8877-8f820ca68b47.webp",
+            "Tips": [
+                {
+                    "title": "Grateful Acknowledgment",
+                    "description": "Use the noun form to show gratitude for received help.",
+                    "example": "Your assist with the event planning was invaluable.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Offering Help",
+                    "description": "As a noun, it's used when offering or asking for help with something specific.",
+                    "example": "Do you need an assist with your homework?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0467a21f-1099-411b-bf13-aa5b0c9dc25c",
+            "de": "In sports, especially basketball and soccer, a pass or a move that helps another player to score a goal.",
+            "do": "sports",
+            "ty": "noun",
+            "ex": "He scored the winning goal with an assist from his teammate.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "get an assist",
+                " provide an assist"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0467a21f-1099-411b-bf13-aa5b0c9dc25c.webp",
+            "Tips": [
+                {
+                    "title": "Teamwork Recognition",
+                    "description": "In sports, it's a way to recognize a player's teamwork, not just personal success.",
+                    "example": "The striker thanked her teammate for the assist that led to her goal.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Aid": {
+            "wordRoot": "Aid",
+            "wordDefinition": "Aid and assist are both words that mean to help someone, but there is a slight difference between them.\n\nAid generally refers to providing resources to someone in need. For example, if a country experiences a natural disaster, other countries might send aid in the form of food, water, and medical supplies.\n\nAid is usually given in emergency situations to provide relief.\n\nAid is used for emergency situations and providing resources, while assist is used for supporting someone in achieving a specific task or goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/102e746f-6968-4611-87cf-9ade8290b2fc.webp"
+        },
+        "Back up": {
+            "wordRoot": "Back up",
+            "wordDefinition": "Assist means to help or support someone in a task or activity.\n\nBack up means to provide support or help that is needed to prevent a failure or problem.\n\nIt is usually used when there is a risk of something going wrong or failing, and another person provides support or a safety net to minimize this risk.\n\nFor example, if someone is experiencing technical difficulties with their computer, an IT specialist might come to \"back them up\" by helping to troubleshoot and fix the problem.\n\nAssist means help with a task, while back up means to provide support or a safety net to prevent potential problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e0bc0903-7113-406f-bf73-5256e7ba2925.webp"
+        },
+        "Encourage": {
+            "wordRoot": "Encourage",
+            "wordDefinition": "Encourage means to give someone confidence or motivation to do something. For example, if someone is feeling down about their abilities, you can encourage them by telling them that they are capable and can do it.\n\nEncourage is more emotional and is used when someone needs motivation or support in their thoughts or feelings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/17a8143e-892b-4810-ad86-3856d86f8048.webp"
+        },
+        "Facilitate": {
+            "wordRoot": "Facilitate",
+            "wordDefinition": "Facilitate means to make something easier or more convenient to do. For example, if a teacher wants to facilitate learning for their students, they can provide resources and create a classroom environment that encourages learning.\n\nAssist is more focused on directly helping someone with a task, while facilitate is more focused on making the overall process easier or more efficient.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ce02bf7a-1711-4ae5-bcec-63cfffefa23c.webp"
+        },
+        "Help": {
+            "wordRoot": "Help",
+            "wordDefinition": "The words assist and help are similar in meaning, but assist is more formal and implies providing support or aid to complete a task or accomplish a goal.\n\nHelp is a broader term and can refer to any type of support or aid provided to someone.\n\nFor example, if you are working on a group project and you need someone to help you with research, you might ask your friend to help you.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed47492b-ab40-499c-afad-4c170ce95dbe.webp"
+        },
+        "Pitch in": {
+            "wordRoot": "Pitch in",
+            "wordDefinition": "Assist means to help or support someone by doing a task together or providing them with what they need. For example, a teacher might assist a student with their homework by answering questions and explaining difficult concepts.\n\nPitch in means to contribute or help out with a task or project. For example, a group of friends might pitch in to clean up a neighborhood park by picking up trash and sweeping the paths.\n\nEssentially, the main difference between these two words is that assist implies a more active role in the task, while pitch in implies a more supportive or collaborative role.\n\nThey can both be used in a variety of situations where help is needed, but the specific connotation of each word will depend on the context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/519c5f5b-d686-41b6-a5db-7739e7a4b55c.webp"
+        },
+        "Serve": {
+            "wordRoot": "Serve",
+            "wordDefinition": "To serve means to provide something to someone, such as an item or a service. For example, a waiter serves food and drinks to customers in a restaurant.\n\nAssist is more about helping and supporting, whereas serve is about providing something to someone.\n\nAssist can be applicable in many situations where someone may need help or support, such as in school or sports. Serve is more commonly used in industries such as hospitality or customer service, where someone is providing a service or product to customers.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ba99342-015b-4fe5-9c3a-019af7f8c441.webp"
+        },
+        "Support": {
+            "wordRoot": "Support",
+            "wordDefinition": "Support means to give emotional, financial or moral help to someone. For example, you can support a friend who is going through a tough time or support a cause by donating money.\n\nBoth words imply help, but assist describes a direct action while support describes a broader kind of help. Knowing which one to use depends on the context and it's important to choose the right word to convey your message clearly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f630745-f3a5-4454-92eb-c75d98a5f411.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and sort of invisibly assist the artist with their work and would shape the outcome of that work. So brilliant -- there it is, right there, that distance that I'm talking about -- that psychological construct to protect you from the results of your work. And everyone knew that this is how it functioned, right? So the ancient artist was protected from certain things,",
+            "Title": "Your elusive creative...",
+            "VideoId": "86x-u-tz0MA",
+            "Controls": "start=430"
+        },
+        {
+            "Text": " That's where the brain attaches meaning to speech sounds. Damage to Wernicke's area impairs the brain's ability to comprehend language. Aphasia is caused by injury to one or both of these specialized language areas. Fortunately, there are other areas of the brain which support these language centers and can assist with communication.",
+            "Title": "Aphasia: The disorder...",
+            "VideoId": "-GsVhbmecJA",
+            "Controls": "start=153"
+        },
+        {
+            "Text": " good enough we've had a fair amount of international media coverage over the years and typically the stories take a fairly light-hearted tone but they do provide me with the vehicle for getting out a serious message to the people interviewing me from time to time we support assisted suicide marriage",
+            "Title": "Welcome to Atlantium,...",
+            "VideoId": "6GXYUjApwVY",
+            "Controls": "start=122"
+        },
+        {
+            "Text": " it would say that rocks really do consist of empty space. We have brains that evolved in medium-sized ancestors which couldn't walk through rocks. \"Really,\" for an animal, is whatever its brain needs it to be in order to assist its survival. And because different species live in different worlds,",
+            "Title": "Why the universe seems...",
+            "VideoId": "1APOxsp1VFw",
+            "Controls": "start=677"
+        },
+        {
+            "Text": " These appointed helpers assist the President in making important decisions within their area of expertise, such as defense, the treasury, and homeland security. The executive branch also appoints government officials, commands the armed forces, and meets with leaders of other nations.",
+            "Title": "How is power divided in...",
+            "VideoId": "HuFR5XBYLfU",
+            "Controls": "start=124"
+        },
+        {
+            "Text": " whose inquiries assist others in giving birth to their ideas. His method of questioning draws out an individual’s unexamined assumptions, and then challenges those biases. It doesn't always provide definitive answers, but the method helps clarify the questions",
+            "Title": "This tool will help...",
+            "VideoId": "vNDYUlxNIAA",
+            "Controls": "start=151"
+        },
+        {
+            "Text": " against the advice of many experts. Psychologists around the world still use IQ tests to identify intellectual disability, and the results can be used to determine appropriate educational support, job training, and assisted living.",
+            "Title": "The dark history of IQ...",
+            "VideoId": "W2bKaw2AJxs",
+            "Controls": "start=288"
+        },
+        {
+            "Text": " task of helping my patients to come to know themselves a little better to recognize the own contributions towards their suffering and most challenging of all to assist in the discovery of a",
+            "Title": "Rediscovering ourselves...",
+            "VideoId": "1X2j1E4NuJM",
+            "Controls": "start=43"
+        },
+        {
+            "Text": " But these lipids have been specially engineered to protect the mRNA on its journey through the body and assist its entry into the cell. Lastly, the final ingredients are sugars and salt",
+            "Title": "How the COVID-19...",
+            "VideoId": "v-NEr3KCug8",
+            "Controls": "start=106"
+        },
+        {
+            "Text": " but again a bear assists in the filming of its life story seal it with a kiss the couple's whirlwind romance will last three weeks",
+            "Title": "Best of Wild Animals...",
+            "VideoId": "G569uHzxRD4",
+            "Controls": "start=524"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pele.webp",
+            "Text": "A lot of people, when a guy scores a lot of goals, think, 'He's a great player', because a goal is very important, but a great player is a player who can do everything on the field. He can do assists, encourage his colleagues, give them confidence to go forward. It is someone who, when a team does not do well, becomes one of the leaders.",
+            "Title": "Brazilian Athlete",
+            "Name": "Pele"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gerard-deulofeu.webp",
+            "Text": "I prefer scoring goals, but when I am playing out on the right, I tend to come inside and provide assists, but I also like playing on the left, and I think if that is where I play, then I will have more chance of scoring - but I just hope I can help the team score goals with my assists.",
+            "Title": "Spanish Athlete",
+            "Name": "Gerard Deulofeu"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frans-van-houten.webp",
+            "Text": "Employers can assist employees in looking after their health by giving guidance on energy management, sleep and healthy eating, working relationships, and helping maintain a sense of purpose at work.",
+            "Title": "Dutch Businessman",
+            "Name": "Frans van Houten"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hiram-rhodes-revels.webp",
+            "Text": "I am true to my own race. I wish to see all done that can be done for their encouragement, to assist them in acquiring property, in becoming intelligent, enlightened, useful, valuable citizens.",
+            "Title": "American Politician",
+            "Name": "Hiram Rhodes Revels"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-d-hayworth.webp",
+            "Text": "Ensuring that high quality water is provided to all Arizona's citizens is the responsibility of elected officials at all levels and I am happy to do all I can to assist the city's efforts.",
+            "Title": "American Politician",
+            "Name": "J. D. Hayworth"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-de-boer.webp",
+            "Text": "Messi will be the best in the world for many more years. Not just because of his goals - he also has made many assists over the last couple of years. A complete player.",
+            "Title": "Dutch Manager",
+            "Name": "Frank de Boer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gordon-hayward.webp",
+            "Text": "You look at the top guys at each position and they all help their teams win more than anything - scoring, assists, whatever.",
+            "Title": "American Basketball Player",
+            "Name": "Gordon Hayward"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/felipe-vi-of-spain.webp",
+            "Text": "Our primary objective must be to prevent wars, and when we fail in this, we must protect and assist the innocent victims.",
+            "Title": "Spanish Royalty",
+            "Name": "Felipe VI of Spain"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/luis-suarez.webp",
+            "Text": "A forward always has to help the team, either with assists or goals.",
+            "Title": "Uruguayan Athlete",
+            "Name": "Luis Suarez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jesse-lingard.webp",
+            "Text": "I just want to assist and score goals to help the team.",
+            "Title": "English Athlete",
+            "Name": "Jesse Lingard"
+        }
+    ]
+}

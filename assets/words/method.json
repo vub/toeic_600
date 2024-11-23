@@ -1,0 +1,344 @@
+{
+    "currentWord": {
+        "wordRoot": "method",
+        "id": 5313,
+        "phonemic": "ˈmeθəd|ˈmeθəd\r",
+        "bigId": "fc357a41-70fc-422c-a299-6eaf9554a1a1",
+        "wordForms": [
+            "methods",
+            "methodist",
+            "method"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fc357a41-70fc-422c-a299-6eaf9554a1a1",
+            "de": "A specific way to do something or achieve a goal.",
+            "ty": "noun",
+            "ex": "He has his own method of making coffee.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "scientific method",
+                " method of teaching",
+                " method of cooking"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fc357a41-70fc-422c-a299-6eaf9554a1a1.webp",
+            "Tips": [
+                {
+                    "title": "Common Daily Usage",
+                    "description": "Often used in everyday contexts referring to personal routines or preferences.",
+                    "example": "I'll show you my method for organizing these files.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/n1bxFtJwFKwPJ4o3fVRjaQgr1k.webp"
+                },
+                {
+                    "title": "Not Always Scientific",
+                    "description": "'Method' doesn't imply scientific accuracy - it can be informal and personal.",
+                    "example": "Her method for selecting clothes is based on color, not fashion.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Ir2xKHtbhez4lKNoLBlynDUQKg.webp"
+                },
+                {
+                    "title": "Subjective Efficiency",
+                    "description": "One's method may not be the most efficient for someone else.",
+                    "example": "His method of studying might not work for me.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/l5ZZ7qTgTYWGy5raXGNkb4ritlg.webp"
+                }
+            ]
+        },
+        {
+            "id": "7a6f570d-ccea-4272-ad76-f2650ccfe92e",
+            "de": "A certain order or plan followed in a study or an investigation.",
+            "ty": "noun",
+            "ex": "She decided to use a different method for her research.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "research method",
+                " method of investigation",
+                " method of study"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7a6f570d-ccea-4272-ad76-f2650ccfe92e.webp",
+            "Tips": [
+                {
+                    "title": "Academic Rigor",
+                    "description": "In research, 'method' refers to a structured and often validated approach.",
+                    "example": "Her method in this experiment has been peer-reviewed.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Consistency is Key",
+                    "description": "Maintaining the same method throughout a study ensures consistent results.",
+                    "example": "Changing the method now could invalidate our research.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subject Specific",
+                    "description": "Methods can be specialized, tailored for different fields like sociology or physics.",
+                    "example": "The method of data collection in anthropology is participant observation.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a064699f-66bb-4d15-b3d7-086fb61ed40c",
+            "de": "A set of rules and techniques in acting for representing reality.",
+            "do": "Performing Arts",
+            "ty": "noun",
+            "ex": "He was trained in the Stanislavski method.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stanislavski method",
+                " method acting",
+                " meisner method"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a064699f-66bb-4d15-b3d7-086fb61ed40c.webp",
+            "Tips": [
+                {
+                    "title": "Acting Authenticity",
+                    "description": "Method acting helps actors deliver genuine and deeply felt performances.",
+                    "example": "To get into character, he used the method of emotional memory.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Techniques",
+                    "description": "The method includes the actor's physical presence and psychological processes.",
+                    "example": "Her method incorporates mindfulness to embody the character.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Schools of Thought",
+                    "description": "Different acting methods exist; some actors prefer certain schools over others.",
+                    "example": "He prefers the Method based on Lee Strasberg's teachings.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "11d65a1e-807c-4b75-a7b7-4f8d629e2403",
+            "de": "A set of rules or steps when doing calculations or problem-solving.",
+            "do": "Mathematics, Computing",
+            "ty": "noun",
+            "ex": "In programming, a method is a type of function.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "method of calculation",
+                " problem-solving method",
+                " iterative method"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/11d65a1e-807c-4b75-a7b7-4f8d629e2403.webp",
+            "Tips": [
+                {
+                    "title": "Problem-Solving Structure",
+                    "description": "In mathematics and computing, 'method' implies an ordered sequence of steps.",
+                    "example": "We introduced an optimization method to speed up the algorithm.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reusability",
+                    "description": "Methods in programming are designed to be reusable for efficiency.",
+                    "example": "Create a method that we can call for user authentication.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Clarity and Precision",
+                    "description": "Clarity in defining a method is crucial for accurate implementation and communication.",
+                    "example": "The documentation must clearly describe each method's functionality.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Approach": {
+            "wordRoot": "Approach",
+            "wordDefinition": "Approach and method are commonly used in academic and scientific circles.\n\nAn approach refers to a general way of tackling a problem or issue.\n\nFor example, if you are writing a research paper, your approach might be to focus on an experimental approach, where you will conduct experiments to test your hypothesis.\n\nThe approach is the overall plan or strategy, whereas the method is the specific tool or technique used to achieve the goals of the approach.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8c0eee9-ccef-4d22-b622-bb77972ccf69.webp"
+        },
+        "Manner": {
+            "wordRoot": "Manner",
+            "wordDefinition": "Manner refers to the way something is done or the behavior of a person. For example, if you say, \"He spoke in a polite manner,\" it means that he spoke politely.\n\nManner is generally used when describing someone's behavior, etiquette or conduct.\n\nTo summarize, manner is about how something is done, while method is about the process of achieving something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/599d1644-e303-467d-9f20-829f3bd44eeb.webp"
+        },
+        "Mode": {
+            "wordRoot": "Mode",
+            "wordDefinition": "Mode refers to a broader concept of the way something is done or the overall approach taken towards achieving a goal.\n\nIt is not as specific as a method but rather a general pattern or style. For example, if you are studying for an exam, you may use different study methods such as flashcards, summaries or practice tests, but your overall mode of studying would be consistent with your study habits and approach.\n\nA method refers to a specific set of steps while a mode refers to a general approach or overall style.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20c8460c-2c6d-4ba9-a958-155afafa3418.webp"
+        },
+        "Procedure": {
+            "wordRoot": "Procedure",
+            "wordDefinition": "Procedure refers to a series of steps that are followed in a particular order to achieve a specific result.\n\nFor instance, a medical procedure refers to a set of steps that healthcare professionals follow when treating patients.\n\nOverall, while method is more focused on the approach or way of doing something, procedure is more concerned with the specific steps needed to achieve a particular goal or outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8c7d8d5d-8f38-4591-9ea0-be5afd7003b2.webp"
+        },
+        "Process": {
+            "wordRoot": "Process",
+            "wordDefinition": "Process refers to a series of actions or steps taken to achieve a specific aim. It is more general and can refer to anything from a manufacturing process to the process of learning.\n\nA method is a specific way of doing something while a process is a broader term that can refer to any series of steps taken to achieve a particular goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/214c3479-b2b3-46be-8d7c-976cb7fa0b51.webp"
+        },
+        "Strategy": {
+            "wordRoot": "Strategy",
+            "wordDefinition": "Strategy refers to a broader plan or approach for achieving a long-term goal. It involves making choices and decisions about what actions to take and how to allocate resources to achieve the desired outcome.\n\nFor example, a business can have a strategy to expand its market share by investing in research and development, increasing advertising budget, and opening new stores.\n\nMethod relates to the specific steps we take to achieve a goal while strategy is the overall plan to achieve a long-term goal.\n\nMethods are more applicable in everyday situations while strategies are more commonly used in business, sports, politics and other long-term planning contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3d77d040-d0b5-4d95-98db-6f0658ec2c99.webp"
+        },
+        "Style": {
+            "wordRoot": "Style",
+            "wordDefinition": "Style refers to a particular way of doing something that reflects a person's individuality and preferences. It is subjective and can vary from person to person.\n\nFor example, in fashion, style is the unique way someone dresses or adorns themselves.\n\nMethod is a structured, established way of doing something, while style is a personalized way of doing something that reflects one's individuality.\n\nMethods are more objective and scientific, while style is more subjective and artistic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be3fb9ca-91a0-4015-ad43-727145c97a2c.webp"
+        },
+        "System": {
+            "wordRoot": "System",
+            "wordDefinition": "Both method and system refer to a particular way of doing something, but there is a subtle difference between them.\n\nA system is a set of interrelated or interconnected parts that work together to achieve a particular goal or objective.\n\nFor example, a transportation system is made up of roads, bridges, vehicles, and other components that work together to move people and goods from one place to another.\n\nA method is more specific and focused on achieving a particular outcome, while a system is broader and encompasses many different elements that work together to achieve a larger goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp"
+        },
+        "Technique": {
+            "wordRoot": "Technique",
+            "wordDefinition": "Method refers to an organized and systematic way of doing something, while technique is a specific way of performing a particular task or skill.\n\nFor example, a cooking method is the overall process of preparing a meal, while a cooking technique might refer to a specific method of chopping vegetables or grilling meat.\n\nIn science, a research method would be the overall approach to carrying out an experiment or study, while a laboratory technique might refer to a specific way of measuring or analyzing data.\n\nA method is broader and more general, while a technique is more specific and focused on a particular task or skill. Both are important in different contexts, and choosing the right one depends on the situation at hand.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b27dba19-a179-4291-ac8c-242b514e8876.webp"
+        },
+        "Way": {
+            "wordRoot": "Way",
+            "wordDefinition": "It is usually more structured and formal than a way. For example, a scientific experiment has a specific methodological process that must be followed in order to achieve accurate results.\n\nWay refers to a more general approach or manner of doing something.\n\nIt is often more flexible and adaptable to different situations. For example, there are many ways to study for an exam, such as highlighting notes or creating study guides.\n\nBoth words can be applicable in various situations, but typically method is used when there is a more structured and formal approach needed, while way is used when there is more flexibility in how something can be done.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b6e98d3-1517-4e51-ba91-7ddfa14fa84d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Here are some questions and methods I've used to help build the worlds in which those books take place. I start with a basic place and time. Whether that's a fantasy world or a futuristic setting in the real world, it's important to know where you are and whether you're working in the past, present, or future.",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=187"
+        },
+        {
+            "Text": " Stem cells also play a role in regulating the growth cycle, and so scientists are investigating whether they can manipulate the activity of these cells to encourage follicles to start producing hair again. And in the meantime, while scientists hone their hair-reviving methods,",
+            "Title": "Why do some people go...",
+            "VideoId": "8diYLhl8bWU",
+            "Controls": "start=248"
+        },
+        {
+            "Text": " Other methods may be more intense using techniques of coercive persuasion involving guilt, shame, and fear. And in many cases, members may willingly submit out of desire to belong and to attain the promised rewards. The cult environment discourages critical thinking,",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=262"
+        },
+        {
+            "Text": " A few minutes can feel like forever when you're waiting on the results of a pregnancy test. But in that brief time, you're witnessing the power of the scientific method. That one little stick lets you ask a question, perform a controlled experiment,",
+            "Title": "How do pregnancy tests...",
+            "VideoId": "aOfWTscU8YM",
+            "Controls": "start=232"
+        },
+        {
+            "Text": " so scientists attach a plastic bead to one end that adds extra stress and encourages it to fold up first. This unboiling method won't work with a whole egg in its shell since the solution has to spread throughout a cylindrical chamber.",
+            "Title": "How to unboil an egg -...",
+            "VideoId": "CHMY4G9gTPA",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " is no more risky than older methods of genetic modification. These are precisely the same organizations that most of us trust when it comes to other important scientific issues such as global climate change or the safety of vaccines.",
+            "Title": "Pamela Ronald: The case...",
+            "VideoId": "wZ2TF8-PGQ4",
+            "Controls": "start=788"
+        },
+        {
+            "Text": " Whether placental, marsupial, or monotreme, each of these creatures and its unique birthing methods, however bizarre, have succeeded for many millennia in bringing new life and diversity into the mammal kingdom.",
+            "Title": "The three different ways...",
+            "VideoId": "sz3Yv3On4lE",
+            "Controls": "start=258"
+        },
+        {
+            "Text": " in western australia these dolphins have taken on an even tougher challenge the fish have taken refuge close to the beach where the water is only a few centimeters deep tail slapping is a method dolphins often",
+            "Title": "ONE HOUR Of Amazing...",
+            "VideoId": "CSgDjZ_Vv8g",
+            "Controls": "start=912"
+        },
+        {
+            "Text": " lastly egyptians developed methods to measure and survey land around the nile river these civil engineering feats made way for the construction of dams canals and irrigation systems that helped farming",
+            "Title": "Ancient Egypt 101 PIPE...",
+            "VideoId": "hO1tzmi1V5g",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " to build the modern world and this invention is a scientific method now may sound surprise to you but the way that we do science today is itself an invention",
+            "Title": "How to rebuild the world...",
+            "VideoId": "CdTzsbqQyhY",
+            "Controls": "start=916"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonny-lee-miller.webp",
+            "Text": "There is nothing, not a thing, like the process of creating a character for the stage - you can't get it anywhere else. Unless you're totally method and spend six months living your life like your character for a film, the theater is the place to get that intense acting experience.",
+            "Title": "British Actor",
+            "Name": "Jonny Lee Miller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-surowiecki.webp",
+            "Text": "Unlike fuel-economy standards, the most common method of reducing demand for oil over the past thirty years, a gas tax doesn't tell people what kind of car to drive. It simply raises the price of gasoline and lets people adjust their behavior accordingly.",
+            "Title": "American Journalist",
+            "Name": "James Surowiecki"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/huston-smith.webp",
+            "Text": "The scientific method is nearly perfect for understanding the physical aspects of our life. But it is a radically limited viewfinder in its inability to offer values, morals and meanings that are at the center of our lives.",
+            "Title": "American Theologian",
+            "Name": "Huston Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/virginia-woolf.webp",
+            "Text": "We can best help you to prevent war not by repeating your words and following your methods but by finding new words and creating new methods.",
+            "Title": "British Author",
+            "Name": "Virginia Woolf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-gresham-machen.webp",
+            "Text": "Vastly more important than all questions with regard to methods of preaching is the root question as to what it is that shall be preached.",
+            "Title": "American Theologian",
+            "Name": "John Gresham Machen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emily-browning.webp",
+            "Text": "For me it would be unhealthy to be a method actor; I'm not mentally stable enough for that - I need to separate my two worlds.",
+            "Title": "Australian Actress",
+            "Name": "Emily Browning"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/izabella-scorupco.webp",
+            "Text": "A lot of male actors are method actors and they become the characters which they both were.",
+            "Title": "Polish Actress",
+            "Name": "Izabella Scorupco"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/werner-heisenberg.webp",
+            "Text": "What we observe is not nature itself, but nature exposed to our method of questioning.",
+            "Title": "German Physicist",
+            "Name": "Werner Heisenberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-addams.webp",
+            "Text": "Civilization is a method of living, an attitude of equal respect for all men.",
+            "Title": "American Activist",
+            "Name": "Jane Addams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/t-j-miller.webp",
+            "Text": "I think it is very important to be a method actor.",
+            "Title": "American Actor",
+            "Name": "T. J. Miller"
+        }
+    ]
+}

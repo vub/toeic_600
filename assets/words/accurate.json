@@ -1,0 +1,293 @@
+{
+    "currentWord": {
+        "wordRoot": "accurate",
+        "id": 14170,
+        "phonemic": "ˈækjərət|ˈækjərət\r",
+        "bigId": "9775a665-5549-490f-89eb-ce22157a4de7",
+        "wordForms": [
+            "accurately",
+            "accurate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9775a665-5549-490f-89eb-ce22157a4de7",
+            "de": "correct in all details; exact.",
+            "ty": "adjective",
+            "ex": "Her measurements for the science experiment were accurate.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accurate measurement",
+                " accurate depiction",
+                " accurate prediction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9775a665-5549-490f-89eb-ce22157a4de7.webp",
+            "Tips": [
+                {
+                    "title": "Detail Oriented",
+                    "description": "Use 'accurate' when details are precise and carefully checked.",
+                    "example": "The accountant provided an accurate summary of expenses.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/YKV436TrqOh5N2186hnEAR1TVPQ.webp"
+                },
+                {
+                    "title": "Mistake-Free",
+                    "description": "'Accurate' implies there are no errors at all.",
+                    "example": "She gave an accurate recount of the events.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fAZCjCG5GkWBZyQxQrcGdLnlDCo.webp"
+                },
+                {
+                    "title": "Verification Needed",
+                    "description": "Something 'accurate' often requires evidence or checking to prove it.",
+                    "example": "Ensure your essay has accurate facts before submitting.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/y1uXIJHjKj6tpgHeSp5SglZiU.webp"
+                }
+            ]
+        },
+        {
+            "id": "71a0be52-c1c6-4716-a063-ba7b53538e3a",
+            "de": "able to produce results that are close to the true value.",
+            "do": "Scientific",
+            "ty": "adjective",
+            "ex": "The machine is accurate to within 0.1 grams.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accurate to within",
+                " accurate estimates",
+                " accurate result"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/71a0be52-c1c6-4716-a063-ba7b53538e3a.webp",
+            "Tips": [
+                {
+                    "title": "Precision Focus",
+                    "description": "In science or tech, 'accurate' refers to precision close to the true or desired outcome.",
+                    "example": "The lab equipment must be accurate for the experiment's success.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Tolerance Levels",
+                    "description": "The expression 'accurate to within' indicates permissible error range in results.",
+                    "example": "The scales are accurate to within 0.01 kg.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Trust Factor",
+                    "description": "Use 'accurate' to show reliability of results or methods over time.",
+                    "example": "Researchers need accurate data to support their theories.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ba0fd484-d2dc-4703-b601-78576d88d4e4",
+            "de": "providing a faithful representation or reflection of the true nature of something.",
+            "ty": "adjective",
+            "ex": "The movie was an accurate portrayal of the historical event.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accurate portrayal",
+                " accurate representation",
+                " accurate reflection"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ba0fd484-d2dc-4703-b601-78576d88d4e4.webp",
+            "Tips": [
+                {
+                    "title": "Truthful Depiction",
+                    "description": "Use 'accurate' for descriptions that are true to reality or original.",
+                    "example": "The book is an accurate depiction of the author's life.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Factual Representation",
+                    "description": "Highlighting an 'accurate' representation ensures it's based on real facts or evidence.",
+                    "example": "The historian's account was noted as accurate.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beware of Bias",
+                    "description": "An 'accurate' portrayal should be free from personal bias or distortion.",
+                    "example": "The journalist aimed for an accurate report without bias.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Authentic": {
+            "wordRoot": "Authentic",
+            "wordDefinition": "Authentic means that something is genuine or real. For example, if you go to a museum and you see a painting that was made by the artist it claims to be made by, it is an authentic painting.\n\nAccurate is about being correct, while authentic is about being true to the original or genuine. Accurate is used when you want to ensure that the information is correct, while authentic is used when you want to be sure that something is real or genuine.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ef759ef1-531b-4bd6-908d-df72d1f4d9d7.webp"
+        },
+        "Correct": {
+            "wordRoot": "Correct",
+            "wordDefinition": "Correct means that something is true or accurate based on a set of rules or standards.\n\nIt describes something that is in accordance with what is considered right, acceptable or conventional. For example, the correct answer to a math problem is the one that follows the rules of math and produces the right result.\n\nAccurate emphasizes the absence of error or mistake, while correct emphasizes conformity with rules or standards. Accurate is applicable in situations where exactness and precision are required, while correct is used where there are established rules, procedures or standards in place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8da0e1dc-72d8-489a-a023-b7e783501afa.webp"
+        },
+        "Exact": {
+            "wordRoot": "Exact",
+            "wordDefinition": "The words accurate and exact are sometimes used interchangeably, but they actually have slightly different meanings. Accurate means close to the correct or expected result, but not necessarily identical.\n\nExact means completely correct or precise, without any deviation or approximation.\n\nFor example, if you measure a table and get a result of 3 feet and 3 inches, an accurate measurement might be within a quarter of an inch of that, while an exact measurement would be exactly 3 feet and 3 inches, without any rounding or approximation.\n\nAccurate is used when a result is close to the expected answer, but not necessarily identical, while exact is used when the result is completely correct and precise, without any deviation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0b360822-2977-4243-97e0-44b1e54e2a84.webp"
+        },
+        "Fault": {
+            "wordRoot": "Fault",
+            "wordDefinition": "Fault means something is wrong or flawed.\n\nIt is used when talking about mistakes or problems. For example, if a car does not start, there may be a fault in its engine.\n\nAccurate refers to correctness, while fault refers to mistakes or problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d76fa7f9-ecd2-4446-a1bb-33caf46aaeb9.webp"
+        },
+        "Meticulous": {
+            "wordRoot": "Meticulous",
+            "wordDefinition": "Meticulous means being very careful and thorough in doing something. For example, if you are meticulous in cleaning your room, you will ensure that every nook and cranny is tidy.\n\nBoth words relate to being precise and careful, but accurate focuses more on being correct while meticulous focuses more on being thorough.\n\nYou would use accurate in situations where you need to make sure you are correct, such as in math or science. You would use meticulous in situations where you need to make sure everything is done perfectly, such as in cleaning or organizing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6aec564b-d681-454e-9d5a-d56db6da27b9.webp"
+        },
+        "Precise": {
+            "wordRoot": "Precise",
+            "wordDefinition": "Precise means being exact or specific. For example, if a recipe for a cake calls for exactly one cup of sugar, then using exactly one cup of sugar would be precise.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf78f6a1-4d2b-4525-9b2a-037b7f6e424b.webp"
+        },
+        "Reliable": {
+            "wordRoot": "Reliable",
+            "wordDefinition": "Reliable means that something can be trusted and depended on. It refers to the consistency and faithfulness of a measurement or result.\n\nFor example, if a scale is reliable, it means that it consistently provides the same measurement every time it is used.\n\nSimply put, accurate refers to correctness, while reliable refers to consistency. Accuracy is applicable when the focus is on the correctness of the outcome or measure, while reliability is applicable when consistency is critical for the outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b20b748c-53ec-4fb2-95be-4bdc0b45bf47.webp"
+        },
+        "True": {
+            "wordRoot": "True",
+            "wordDefinition": "True refers to something being in accordance with fact or reality.\n\nIt describes something that is genuine or authentic. For example, a statement that is supported by evidence and is in accordance with reality is true.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b4c4e4ab-3bff-40fa-b58e-6370cfe03f10.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " with geolocation so accurate that you could pinpoint the wrinkles in the palm of your hand. But you and I and other innovators, we can see the potential in this next leap in accuracy. Imagine, for example, an augmented reality app that overlays a virtual world to millimeter-level precision",
+            "Title": "Todd Humphreys: How to...",
+            "VideoId": "gzthxdm7XNs",
+            "Controls": "start=147"
+        },
+        {
+            "Text": " These neurons are important for learning and self-awareness. For example, watching someone do something physical, like knitting or putting on lipstick, can help you do those same actions more accurately. Neuroimaging studies using fMRI, functional magnetic resonance imaging,",
+            "Title": "Why is yawning...",
+            "VideoId": "4NpG4F9yq00",
+            "Controls": "start=119"
+        },
+        {
+            "Text": " There's another secret ingredient in these an underlying grid. Invisible, but essential to every pattern, the grid helps determine the scale of the composition before work begins, keeps the pattern accurate, and facilitates the invention of incredible new patterns.",
+            "Title": "The complex geometry of...",
+            "VideoId": "pg1NpMmPv48",
+            "Controls": "start=126"
+        },
+        {
+            "Text": " So when each votes, they won't just be thinking about the current proposal, but about all possible outcomes down the line. And because the rank order is known in advance, each can accurately predict how the others would vote in any situation",
+            "Title": "Can you solve the pirate...",
+            "VideoId": "Mc6VA7Q1vXQ",
+            "Controls": "start=134"
+        },
+        {
+            "Text": " They may resort to acronyms to shorten long names, choose generic terms over specific, or refer to slides and other visual aides. They can even leave a term in the original language, while they search for the most accurate equivalent.",
+            "Title": "How interpreters juggle...",
+            "VideoId": "cXNTArhA0Jg",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " rancorous and partisan and ugly that is an accurate picture but it doesn't have to be the truth is when we focus on relationships and genuinely interact with each other and communicate about the things that matter to us most when",
+            "Title": "Creating meaningful...",
+            "VideoId": "9njA_CBUEKc",
+            "Controls": "start=8"
+        },
+        {
+            "Text": " accurately without even using his sight relying solely on his so now this sixth sense in dolphins is a constant fascination to humans learning from dolphins some people are even tapping into this skill seeing the world in so",
+            "Title": "Blind Boy Uses...",
+            "VideoId": "zXtExOMCDfE",
+            "Controls": "start=2"
+        },
+        {
+            "Text": " is scientifically accurate. Elephants know every member in their herd, able to recognize as many as 30 companions by sight or smell. This is a great help when migrating or encountering other potentially hostile elephants.",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=28"
+        },
+        {
+            "Text": " significant advancements in mathematics and astronomy they invented the concept of zero and they developed an accurate calendar system used to guide the Maya agricultural cycles the calendar was",
+            "Title": "Ancient Maya 101 PIPE...",
+            "VideoId": "Q6eBJjdca14",
+            "Controls": "start=81"
+        },
+        {
+            "Text": " It's often said that despite humanity's many conflicts, we all bleed the same blood. It's a nice thought but not quite accurate.",
+            "Title": "Why do blood types...",
+            "VideoId": "xfZhb6lmxjk",
+            "Controls": "start=4"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noam-chomsky.webp",
+            "Text": "There's a lot of fuss on the Left about election irregularities, like, you know, the voting machines were tampered with, they didn't count the votes right, and so on. That's all accurate and of some importance, but of far more importance is the fact that elections just don't take place, not in any meaningful sense of the term 'election.",
+            "Title": "American Activist",
+            "Name": "Noam Chomsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-delaney.webp",
+            "Text": "If done correctly, dynamic scoring will provide a more complete picture of Congress's actions. This is exactly the type of modeling the private sector uses, and advances in data collection and analysis create an opportunity for it to be employed accurately.",
+            "Title": "American Politician",
+            "Name": "John Delaney"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/esme-creed-miles.webp",
+            "Text": "Obviously, for safety reasons, there's some stuff I can't do, but fighting is more than just about nailing the moves accurately, to sort of pull off the stunt sequence. It's also about bringing emotion to it and character.",
+            "Title": "English Actress",
+            "Name": "Esme Creed-Miles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-hume.webp",
+            "Text": "These are the influences that everybody has. Some individuals might stand out because of one thing or another, but whether one's perception as a child of what was important or not is accurate, I don't know.",
+            "Title": "Irish Politician",
+            "Name": "John Hume"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/agatha-christie.webp",
+            "Text": "The popular idea that a child forgets easily is not an accurate one. Many people go right through life in the grip of an idea which has been impressed on them in very tender years.",
+            "Title": "English Writer",
+            "Name": "Agatha Christie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-mackey.webp",
+            "Text": "In general, when you travel, you get into a different reality and are able to more accurately reflect on your ordinary life. Hiking does that for me.",
+            "Title": "American Businessman",
+            "Name": "John Mackey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gordon-bell.webp",
+            "Text": "I don't think forgetting is an important feature of human memory. I think it's important to be able to remember things accurately.",
+            "Title": "American Businessman",
+            "Name": "Gordon Bell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/imran-tahir.webp",
+            "Text": "Spinners have a main role, whether in the IPL or world cricket. But it's hard to be a legspinner: you have to be accurate.",
+            "Title": "Pakistani Athlete",
+            "Name": "Imran Tahir"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/margaret-mead.webp",
+            "Text": "I was brought up to believe that the only thing worth doing was to add to the sum of accurate information in the world.",
+            "Title": "American Scientist",
+            "Name": "Margaret Mead"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-avedon.webp",
+            "Text": "All photographs are accurate. None of them is the truth.",
+            "Title": "American Photographer",
+            "Name": "Richard Avedon"
+        }
+    ]
+}

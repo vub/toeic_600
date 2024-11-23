@@ -1,0 +1,322 @@
+{
+    "currentWord": {
+        "wordRoot": "strategy",
+        "id": 1084,
+        "phonemic": "ˈstrætədʒi|ˈstrætədʒi\r",
+        "bigId": "3d77d040-d0b5-4d95-98db-6f0658ec2c99",
+        "wordForms": [
+            "strategies",
+            "strategize",
+            "strategise",
+            "strategizing",
+            "strategising",
+            "strategist",
+            "strategists",
+            "strategy"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3d77d040-d0b5-4d95-98db-6f0658ec2c99",
+            "de": "A planned way to do something to achieve a specific goal.",
+            "ty": "noun",
+            "ex": "Her strategy to win the game was to score early.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business strategy",
+                " marketing strategy",
+                " game strategy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3d77d040-d0b5-4d95-98db-6f0658ec2c99.webp",
+            "Tips": [
+                {
+                    "title": "Specific Goals",
+                    "description": "Understanding 'strategy' involves knowing precise objectives it's trying to achieve.",
+                    "example": "The team's strategy was focused on improving customer satisfaction.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/FSSh5tw72vfpy5l7DIYcGypFTU.webp"
+                },
+                {
+                    "title": "Long-Term Vision",
+                    "description": "'Strategy' often implies a long-term plan, not just immediate actions.",
+                    "example": "Their academic strategy was designed to rank top in the nation over a decade.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/eZGrEmFFvK193kroqn2Ttdh0xqQ.webp"
+                },
+                {
+                    "title": "Adaptability Importance",
+                    "description": "Strategies should be adaptable to changing circumstances while pursuing goals.",
+                    "example": "The coach adjusted the game strategy at halftime to respond to the opponent's defense.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lLoxvjNnRqeZv5cVnwLIEWYiU.webp"
+                }
+            ]
+        },
+        {
+            "id": "bb66b642-9ca3-4dc6-9568-18ede39e5b53",
+            "de": "In military, the art of planning and directing large military movements and operations.",
+            "do": "Military",
+            "ty": "noun",
+            "ex": "The general's strategy led to an astonishing victory.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "military strategy",
+                " defensive strategy",
+                " offensive strategy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bb66b642-9ca3-4dc6-9568-18ede39e5b53.webp",
+            "Tips": [
+                {
+                    "title": "Military Context",
+                    "description": "The word 'strategy' in military context refers to large-scale planning, beyond immediate battles.",
+                    "example": "Napoleon was known for his grand strategy in military campaigns.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Strategic vs. Tactical",
+                    "description": "'Strategy' involves overarching plans, while 'tactics' are the specific methods used within those plans.",
+                    "example": "The army's strategy was to contain the enemy, using guerrilla tactics as needed.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f51b60f2-5390-4e6b-92fa-f2e43c14dd21",
+            "de": "In business, a detailed plan for achieving success.",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "We need a new marketing strategy to increase sales.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "corporate strategy",
+                " pricing strategy",
+                " digital strategy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f51b60f2-5390-4e6b-92fa-f2e43c14dd21.webp",
+            "Tips": [
+                {
+                    "title": "Business Success",
+                    "description": "In business, 'strategy' entails a well-thought-out plan aimed at market success and competition.",
+                    "example": "Their business strategy involved investing heavily in research and development.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Customer Focus",
+                    "description": "Business strategies often prioritize customer needs and market trends.",
+                    "example": "The customer-centric strategy drove the company's product innovation efforts.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7fd036dc-5692-46a4-95ed-6972473a3404",
+            "de": "In politics, a plan of action designed to achieve a major goal.",
+            "do": "Politics",
+            "ty": "noun",
+            "ex": "Their election strategy focuses on reaching out to younger voters.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "political strategy",
+                " campaign strategy",
+                " foreign policy strategy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7fd036dc-5692-46a4-95ed-6972473a3404.webp",
+            "Tips": [
+                {
+                    "title": "Political Agenda",
+                    "description": "Political strategies are about gaining support to achieve set political objectives.",
+                    "example": "The candidate's strategy included targeting undecided voters.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Influence and Persuasion",
+                    "description": "Strategy in politics often involves persuasive tactics to shape public opinion.",
+                    "example": "The senator used a media strategy to build support for the bill.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Approach": {
+            "wordRoot": "Approach",
+            "wordDefinition": "Approach means the way of dealing with things or people. It is a general concept, method or idea of how to do something.\n\nFor example, if one wants to improve their grades in school, their approach might be to study more and practice doing more exercises.\n\nStrategy refers to a plan of action that is designed to achieve a specific goal. It is a more detailed and specific plan than an approach.\n\nIn simple terms, Approach is like the manner in which you plan to do something while Strategy is a much more detailed and specific plan of how to achieve a particular goal.\n\nApproach is generally applicable in any area of life where one needs to deal with situations while Strategy is usually applicable in business and military contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8c0eee9-ccef-4d22-b622-bb77972ccf69.webp"
+        },
+        "Blueprint": {
+            "wordRoot": "Blueprint",
+            "wordDefinition": "Blueprint refers to a detailed plan or diagram that shows how something will be built or created. For example, a blueprint might show the exact measurements and materials needed to build a house or piece of furniture.\n\nA blueprint is more focused on the specific details of how to create something, while a strategy is more focused on the broader plan for achieving a goal.\n\nHowever, both are important in different contexts. Blueprints are applicable in fields such as architecture, engineering, and manufacturing, where precise planning and execution are critical.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5c2db314-982c-4df5-80fa-b08ee51abf19.webp"
+        },
+        "Manoeuvre": {
+            "wordRoot": "Manoeuvre",
+            "wordDefinition": "A manoeuvre is a specific action that is taken in order to achieve a goal or objective. For example, in a game of chess, a manoeuvre might be moving a pawn forward to protect a more valuable piece.\n\nStrategy is a more general approach or plan that is taken to achieve a larger goal. It involves considering different manoeuvres and tactics that can be used in order to achieve a desired outcome.\n\nIn summary, manoeuvres are specific actions that are taken in order to achieve a goal or objective, while strategy is a more general approach or plan that involves considering different options and tactics in order to achieve a larger goal or objective.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8df5a2a1-ee1b-4716-92fd-8e22b4106db8.webp"
+        },
+        "Methodology": {
+            "wordRoot": "Methodology",
+            "wordDefinition": "Methodology refers to the specific processes, techniques, and procedures used to conduct research or achieve a goal. It is a systematic approach to solving a problem, completing a project or achieving a result.\n\nMethodology is used more in technical fields like software engineering or scientific research.\n\nMethodology refers to the specific steps you take to achieve your goal, while strategy refers to the overall plan that guides those specific steps.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c487cd54-c8b1-406f-975d-17ab7a2d0de4.webp"
+        },
+        "Outline": {
+            "wordRoot": "Outline",
+            "wordDefinition": "An outline is a plan that provides a general idea of what needs to be accomplished, usually in the form of a list or bullet points.\n\nA strategy is a more detailed and comprehensive plan that outlines specific steps and tactics to achieve a particular goal or objective.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a89cf131-12bc-45e1-8b68-ec5522fecd0f.webp"
+        },
+        "Plan": {
+            "wordRoot": "Plan",
+            "wordDefinition": "A plan is a set of steps that you take to reach a specific goal, whereas a strategy is a broader plan that outlines a long-term approach to achieving success.\n\nA plan is typically more short-term and focused, while a strategy considers the bigger picture and incorporates multiple plans.\n\nFor example, if you want to do well on a math test, your plan might involve studying for a set amount of time each day, doing practice problems, and asking your teacher for help on tricky concepts.\n\nYour strategy might involve setting a goal to maintain a certain GPA throughout high school, and following a plan that incorporates studying, attending extra help sessions, and seeking out tutoring if needed.\n\nIn general, plans are applicable for short-term goals or specific tasks, while strategies are useful for achieving long-term objectives or navigating a complex situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9400d7b7-c746-474a-9b35-7ea1c6436540.webp"
+        },
+        "Scheme": {
+            "wordRoot": "Scheme",
+            "wordDefinition": "Scheme typically refers to a plan that is usually clever or sometimes even dishonest, and is often used to achieve a specific goal or advantage.\n\nA scheme is often seen as sneaky or underhanded and can sometimes be illegal.\n\nA scheme is a sneaky or dubious plan to achieve a certain goal, while a strategy is a carefully planned-out approach to achieving a larger goal.\n\nSchemes may be used for personal gain or advantage, while strategies are typically developed in business, military, or political contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a92fdea-8c91-4a85-90f2-b61d2ba82dff.webp"
+        },
+        "Tactic": {
+            "wordRoot": "Tactic",
+            "wordDefinition": "Tactics are specific actions or steps that are taken to achieve a particular short-term goal. It's like the smaller steps taken to reach the end goal.\n\nA tactic for achieving that strategy could be to focus on improving defense or practicing specific plays.\n\nIn business, a strategy could be to expand the company's market share. Tactics to achieve this might include offering sales promotions, targeted marketing campaigns, and increasing customer satisfaction.\n\nStrategy is the overall approach, while tactics are specific actions taken to achieve the strategy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9bf3cd5a-16d5-455e-a7b2-86c5aa589cba.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Writing down your worries can also help. This strategy may give you a chance to reevaluate a stressful experience, freeing up working memory. And if you have the chance, physical activity, like a brisk walk, deepens breathing and helps relieve muscle tension, preventing anxiety from building. You can also use your knowledge about the brain",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " Otherwise, look at whatever's in there, and then open the box with that picture on it. Keep going that way until you find your instrument. The bandmates are skeptical, but amazingly enough, they all find what they need. And a few hours later, they're playing to thousands of adoring fans. So why did the drummer's strategy work?",
+            "Title": "Can you solve the...",
+            "VideoId": "vIdStMTgNl0",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " so it is very important in less developed countries that the seed be freely available. Wouldn't some activists say that this is actually part of the conspiracy? This is the heroin strategy. You seed the stuff, and people have no choice but to be hooked on these seeds forever?",
+            "Title": "Pamela Ronald: The case...",
+            "VideoId": "wZ2TF8-PGQ4",
+            "Controls": "start=939"
+        },
+        {
+            "Text": " these days are become shorter and shorter term which creates turmoil and chaos in strategy in how we present ourselves to the world the easiest way to understand the game you're in is when you have an opposing force in other words not that right so you want great",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=355"
+        },
+        {
+            "Text": " chewing leaves giving your offspring a good start in life can take a lot of effort so some insects have evolved highly complex strategies to induce other species to become nurse maids on their behalf this californian desert hardly seems to",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "leDm_-nfr2w",
+            "Controls": "start=200"
+        },
+        {
+            "Text": " have evolved to mimic something no self-respecting predator would be caught dead eating nah seagrass hence these ghost pipefish are free to drift wherever the tide takes them example 3 the leaf scorpionfish a similar strategy",
+            "Title": "Camo Fish in Action PIPE...",
+            "VideoId": "4EsesKQeo2U",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " or boosting our coping system, or endorphins. Some people can cope with pain using methods that involve distraction, relaxation, meditation, yoga, or strategies that can be taught, like cognitive behavioral therapy.",
+            "Title": "How does your brain...",
+            "VideoId": "I7wfDenj6CQ",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " Do you want power to benefit everyone or only you? Are your purposes pro-social or anti-social? This question isn't about strategy. It's about character, and that's another set of lessons. But remember",
+            "Title": "How to understand power...",
+            "VideoId": "c_Eutci7ack",
+            "Controls": "start=380"
+        },
+        {
+            "Text": " it's such a successful strategy the jellies are one of the most common life forms on the planet but among the jellies and looking",
+            "Title": "The Deadly Portuguese...",
+            "VideoId": "aIovmgzyuL0",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " But that huge brain helps the octopus to get creative and to think up a dramatically different strategy.",
+            "Title": "Octopus Steals Crab from...",
+            "VideoId": "abRPaXgJGQg",
+            "Controls": "start=121"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gerard-pique.webp",
+            "Text": "Business is another kind of world that I don't think is as passionate. It is not the pressure to perform as you have in football. It is more about strategy, skill, about how you deal with all the information you have. Some of the things from football I can bring to business, and some things from business I can bring to football.",
+            "Title": "Spanish Athlete",
+            "Name": "Gerard Pique"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shakira.webp",
+            "Text": "President Obama is highly concerned with education. He's a champion on early-childhood development strategies. So I like the work he's doing, and I support it, and I realise that he's one of very few political leaders around the world that actually has early-childhood development strategise at the top of his agenda.",
+            "Title": "Musician",
+            "Name": "Shakira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-bezos.webp",
+            "Text": "What we need to do is always lean into the future; when the world changes around you and when it changes against you - what used to be a tail wind is now a head wind - you have to lean into that and figure out what to do because complaining isn't a strategy.",
+            "Title": "American Businessman",
+            "Name": "Jeff Bezos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ibrahim-babangida.webp",
+            "Text": "The reason is that till date, in spite of advances in information technology and strategies of information, the written word in the form of books still remains one of humanity's most enduring legacies.",
+            "Title": "Nigerian Statesman",
+            "Name": "Ibrahim Babangida"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/glover-teixeira.webp",
+            "Text": "It's important to have the right strategy. I can't commit to things or fight like I used to. I can't just bang it out. I have to be more intelligent in training and in fighting.",
+            "Title": "Brazilian Mixed Martial Artist",
+            "Name": "Glover Teixeira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "The biggest risk is not taking any risk... In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edward-lampert.webp",
+            "Text": "The entrance strategy is actually more important than the exit strategy.",
+            "Title": "American Businessman",
+            "Name": "Edward Lampert"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-paulson.webp",
+            "Text": "I am fully supportive of the strategy and leadership team at Valeant.",
+            "Title": "American Businessman",
+            "Name": "John Paulson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eva-moskowitz.webp",
+            "Text": "Self-delusion is rarely a good strategy for effective management.",
+            "Title": "American Educator",
+            "Name": "Eva Moskowitz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ananya-birla.webp",
+            "Text": "My father has never influenced the strategy anywhere.",
+            "Title": "Indian Musician",
+            "Name": "Ananya Birla"
+        }
+    ]
+}

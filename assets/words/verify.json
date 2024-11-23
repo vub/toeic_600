@@ -1,0 +1,310 @@
+{
+    "currentWord": {
+        "wordRoot": "verify",
+        "id": 10729,
+        "phonemic": "ˈverɪfaɪ|ˈverɪfaɪ\r",
+        "bigId": "7ace7617-c006-447b-ade7-4680f89ecc15",
+        "wordForms": [
+            "verifies",
+            "verifying",
+            "verified",
+            "verify"
+        ]
+    },
+    "senses": [
+        {
+            "id": "7ace7617-c006-447b-ade7-4680f89ecc15",
+            "de": "To make sure that something is true or accurate",
+            "ty": "verb",
+            "ex": "I have to verify my answers before submitting the exam.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "verify the information",
+                " verify the authenticity",
+                " verify the data"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7ace7617-c006-447b-ade7-4680f89ecc15.webp",
+            "Tips": [
+                {
+                    "title": "Accuracy Importance",
+                    "description": "Use 'verify' when accuracy is crucial and you're checking for correctness.",
+                    "example": "Banks must verify financial transactions for accuracy.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/T6FiEC1ftnMzdQ6348WKh56npE.webp"
+                },
+                {
+                    "title": "Cross-Checking Process",
+                    "description": "'Verify' implies a process of cross-checking information against a reliable source.",
+                    "example": "We need to verify these figures with the official report.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8JZh8fhY7DTOMrNuURyVGUJVdIg.webp"
+                },
+                {
+                    "title": "Beyond Doubt",
+                    "description": "Using 'verify' suggests eliminating all doubt about information or a fact.",
+                    "example": "Can you verify whether this is the latest version?",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jNsj2EeM1WiPgEJLw0Z51g4yVw.webp"
+                }
+            ]
+        },
+        {
+            "id": "326dc2d3-0029-4563-b423-f39dd694eea5",
+            "de": "To prove that something exists",
+            "ty": "verb",
+            "ex": "The scientist was able to verify the existence of the new species.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "verify the existence",
+                " verify the presence",
+                " verify the claim"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/326dc2d3-0029-4563-b423-f39dd694eea5.webp",
+            "Tips": [
+                {
+                    "title": "Fact Confirmation",
+                    "description": "'Verify' is often used when a factual claim or existence must be confirmed with evidence.",
+                    "example": "Archaeologists must verify the age of discovered artifacts.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "551324c6-43ee-48c1-b82d-a97dd3020235",
+            "de": "In computing, to ensure that input data is valid",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "The system will verify the user's login details.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "verify the password",
+                " verify user credentials",
+                " verify input data"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/551324c6-43ee-48c1-b82d-a97dd3020235.webp",
+            "Tips": [
+                {
+                    "title": "System Checks",
+                    "description": "In computing, 'verify' refers to automated checks by software on data validity.",
+                    "example": "The email system verifies that addresses are formatted correctly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Prevent Mistakes",
+                    "description": "In computing, verification is essential to prevent data errors or security breaches.",
+                    "example": "The software verifies that the password is strong enough.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7ad9c64a-0ba8-4f30-8573-feeb7c073641",
+            "de": "In law, to swear to the truth of a document under oath",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "You are required to verify your statement in court.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "verify a statement",
+                " verify a document",
+                " verify under oath"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7ad9c64a-0ba8-4f30-8573-feeb7c073641.webp",
+            "Tips": [
+                {
+                    "title": "Legal Truthfulness",
+                    "description": "Use 'verify' to describe the act of legally confirming the truthfulness of a statement.",
+                    "example": "Witnesses may have to verify their testimonies with evidence.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Swagger in Certainty",
+                    "description": "In legal contexts, 'verify' shows a high level of certainty, since it involves an oath.",
+                    "example": "The notary verified the authenticity of the document.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Attest": {
+            "wordRoot": "Attest",
+            "wordDefinition": "Attest means to provide evidence or testify to something, especially in writing. It often refers to a formal or legal document, such as signing an affidavit to confirm that something is true.\n\nAttest tends to be more focused on providing evidence in a formal or legal sense, while verify is more about checking or confirming facts.\n\nFor example, a witness might attest to the authenticity of a signature on a legal document, while a bank might verify that someone's account balance is accurate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1ecfddb2-162c-41e3-ad44-bfef16377ea3.webp"
+        },
+        "Authenticate": {
+            "wordRoot": "Authenticate",
+            "wordDefinition": "Authenticate means to confirm or establish the identity or origin of something or someone. For example, you might use a password or fingerprint to authenticate yourself when logging in to an account.\n\nSo, in short, authenticate is used to confirm identity or origin, while verify is used to confirm truth or accuracy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f22565aa-8422-45f5-8a72-7259c8955c87.webp"
+        },
+        "Certify": {
+            "wordRoot": "Certify",
+            "wordDefinition": "‘Certify’ means to confirm that something meets a particular standard or requirement, usually by issuing or giving a certificate or accreditation.\n\nFor example, a school or university might certify that a student has successfully completed a course of study.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b3172738-92e2-4b4a-bb7b-7937029af9fb.webp"
+        },
+        "Confirm": {
+            "wordRoot": "Confirm",
+            "wordDefinition": "The main difference between the words confirm and verify is that confirm means to make sure something that you already know is true or to agree with something that someone else has said or told you.\n\nFor example, if you receive an email from a friend inviting you to a party on Saturday, you might reply \"I will confirm my attendance with you tomorrow\" which means you will let them know for sure if you are able to go to the party or not.\n\nVerify means to check if something is true or correct. For example, if you receive an email from your bank asking you to verify your identity by answering some security questions, you might need to confirm your name, address, and date of birth to prove that it's really you.\n\nTo sum up, confirm is used when you already know something and want to make it certain, while verify is used when you need to check if something is true or correct.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/60a1350a-9353-40cd-a11e-833b106b8e3a.webp"
+        },
+        "Corroborate": {
+            "wordRoot": "Corroborate",
+            "wordDefinition": "The words corroborate and verify both mean to confirm or prove something.\n\nHowever, corroborate is used when you have additional evidence that supports or confirms something that is already believed to be true.\n\nIt is used when you need to confirm facts or details. Corroborate is for adding extra confirmation to something that is already believed to be true, and verify is for checking the accuracy or truthfulness of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/66b9c94d-b51d-49ca-adb6-a6d98251b95c.webp"
+        },
+        "Establish": {
+            "wordRoot": "Establish",
+            "wordDefinition": "Establish means to create, set up or provide evidence to make something official or recognized.\n\nIt is used when starting something new, like a company, a law or a tradition. For example, \"the government established a new law to protect animals.\".\n\nIn simpler terms, establishing means creating something new or making it official, while verifying means checking if something is true or accurate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49b0e5d3-7211-4c60-98ff-c034701baeab.webp"
+        },
+        "Substantiate": {
+            "wordRoot": "Substantiate",
+            "wordDefinition": "Substantiate means to provide evidence or proof that something is true, valid, or accurate. This means that you have to show that something is real or genuine by providing actual facts and details to support it.\n\nFor example, if you're trying to prove that your theory is correct, you need to substantiate it by providing evidence that supports your claims.\n\nYou would use the word substantiate when you need to prove the truth or validity of something, while you would use the word verify when you need to confirm or check the accuracy of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36720bb4-5e93-4227-a677-71dfbcd619b8.webp"
+        },
+        "Validate": {
+            "wordRoot": "Validate",
+            "wordDefinition": "Validate means to confirm or prove the accuracy or truth of something. This term is usually used when you need to make sure that what you're looking at is true, and to check if it meets specific standards or requirements.\n\nFor example, if you're a teacher and you need to grade a student's exam, you might validate their answers to ensure they are correct and meet the academic standards they need to pass.\n\nSo, while both words deal with checking or confirming something, validate refers to accuracy or standards, while verify refers to authenticity or identification.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/448bb058-21fd-4217-877d-3aef10565172.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And the engineering report had nothing on the top of it, so it was an extremely difficult document for us. We couldn't verify it because we didn't know who wrote it and knew what it was about. So we were kind of skeptical that maybe it was a competing oil firm just sort of playing the issue up. So under that basis, we put it out and said,",
+            "Title": "Julian Assange: Why the...",
+            "VideoId": "HNOnvp5t7Do",
+            "Controls": "start=717"
+        },
+        {
+            "Text": " assuming everything is true and then we verify it we say oh is it actually true or false I'm going to tag it accordingly so I actually see this as the pink elephant view of the world so when I say pink elephant all of a sudden for a fraction of a second you have pink elephants who are going to be jumping",
+            "Title": "Storytelling can be...",
+            "VideoId": "JAxgqRFq1-A",
+            "Controls": "start=569"
+        },
+        {
+            "Text": " to log in and verify that they've taken their medication. If they don't log in, we text them again. If they don't log in, we text them yet again. If, after three times, they still haven't verified, we notify a team of supporters and that team will call and text them to try to get them back on the wagon.",
+            "Title": "How to motivate people...",
+            "VideoId": "jAw8t2g-eVU",
+            "Controls": "start=541"
+        },
+        {
+            "Text": " that not even light can escape. Einstein's equations predict the size and shape of this ring, so taking a picture of it wouldn't only be really cool, it would also help to verify that these equations hold in the extreme conditions around the black hole. However, this black hole is so far away from us,",
+            "Title": "How to take a picture of...",
+            "VideoId": "BIvezCVcsYs",
+            "Controls": "start=168"
+        },
+        {
+            "Text": " These could be people who have little connection to the story, or have an interest in influencing coverage, their anonymity making them unaccountable for the information they provide. Finally, and most importantly, try to verify news before spreading it. While social media has enabled the truth",
+            "Title": "How to choose your news...",
+            "VideoId": "q-Y-z6HmRgI",
+            "Controls": "start=213"
+        },
+        {
+            "Text": " Cryptocurrencies are based on a special field of mathematics called cryptography. Cryptography is the study of how to secure communication, and it's about two really important masking information so it can be hidden in plain sight, and verifying a piece of information's source.",
+            "Title": "The future of money PIPE...",
+            "VideoId": "pPgd7Hj3ABQ",
+            "Controls": "start=443"
+        },
+        {
+            "Text": " And you go through the process like you do every time you call your bank, of giving them your name and your account number, going through the security checks to verify you are who you said you are. Most of us may not know this, but in many large-scale wire transfers,",
+            "Title": "Where is cybercrime...",
+            "VideoId": "FqrLUtIFVjs",
+            "Controls": "start=257"
+        },
+        {
+            "Text": " Turn it from that into some answer in a mathematical form. And of course, math is very powerful at doing that. And then finally, turn it back to the real world. Did it answer the question? And also verify it -- crucial step. Now here's the crazy thing right now.",
+            "Title": "Conrad Wolfram: Teaching...",
+            "VideoId": "60OVlfAUPJg",
+            "Controls": "start=233"
+        },
+        {
+            "Text": " it took something as powerful as dna to undo centuries of accepted wisdom it's just nourished the good thing about natural scientific methods is that they can be verified the dna analysis that happens in karis",
+            "Title": "The Real Amazons PIPE...",
+            "VideoId": "-FMvbefokq8",
+            "Controls": "start=1198"
+        },
+        {
+            "Text": " automatically, right in the browser. Despite all this, though, fake videos could do a lot of damage, even before anyone has a chance to verify, so it's very important that we make everyone aware",
+            "Title": "Fake videos of real...",
+            "VideoId": "o2DDU4g0PRo",
+            "Controls": "start=379"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katherine-paterson.webp",
+            "Text": "The problem with people who are afraid of imagination, of fantasy, is that their world becomes so narrow that I don't see how they can imagine beyond what their senses can verify. We know from science that there are entire worlds that our senses can't verify.",
+            "Title": "American Author",
+            "Name": "Katherine Paterson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "Although almost every theoretical physicist agrees with my prediction that a black hole should glow like a hot body, it would be very difficult to verify experimentally because the temperature of a macroscopic black hole is so low.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonah-peretti.webp",
+            "Text": "It's important that all my friends have verified Twitter accounts. The blue checkmark makes me feel comfortable and like I'm friends with a legit, high-quality person. I also prefer friends with ridiculously long usernames.",
+            "Title": "American Businessman",
+            "Name": "Jonah Peretti"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-landesman.webp",
+            "Text": "Sometimes, in a fictional story, you can be more honest and truthful, actually. As a journalist, you're a prisoner of the data, in effect. You have to tell the story with evidence you can verify.",
+            "Title": "American Director",
+            "Name": "Peter Landesman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bertrand-russell.webp",
+            "Text": "Aristotle maintained that women have fewer teeth than men; although he was twice married, it never occurred to him to verify this statement by examining his wives' mouths.",
+            "Title": "British Philosopher",
+            "Name": "Bertrand Russell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chris-pavone.webp",
+            "Text": "We all live in a universe in which we're either asked to or are forced to accept certain premises about our employment without having the opportunity to verify them.",
+            "Title": "American Novelist",
+            "Name": "Chris Pavone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mohammed-saeed-al-sahaf.webp",
+            "Text": "Search for the truth. I tell you things and I always ask you to verify what I say. I told you yesterday that there was an attack and a retreat at Saddam's airport.",
+            "Title": "Iraqi Public Servant",
+            "Name": "Mohammed Saeed al-Sahaf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-colbert.webp",
+            "Text": "I have a mug that actually verifies that I'm the world's best dad. That's a mug. That's not me talking. You can't just buy those.",
+            "Title": "American Comedian",
+            "Name": "Stephen Colbert"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-albini.webp",
+            "Text": "Doubt the conventional wisdom unless you can verify it with reason and experiment.",
+            "Title": "American Musician",
+            "Name": "Steve Albini"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronald-reagan.webp",
+            "Text": "Trust, but verify.",
+            "Title": "American President",
+            "Name": "Ronald Reagan"
+        }
+    ]
+}

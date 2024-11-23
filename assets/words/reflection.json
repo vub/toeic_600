@@ -1,0 +1,352 @@
+{
+    "currentWord": {
+        "wordRoot": "reflection",
+        "id": 2976,
+        "phonemic": "rɪˈflekʃn|rɪˈflekʃn\r",
+        "bigId": "b72a3141-1788-47a4-905a-15306b104d63",
+        "wordForms": [
+            "reflections",
+            "reflexion",
+            "reflection"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b72a3141-1788-47a4-905a-15306b104d63",
+            "de": "The throwing back by a body or surface of light, heat, or sound without absorbing it.",
+            "ty": "noun",
+            "ex": "He saw his reflection in the water.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b72a3141-1788-47a4-905a-15306b104d63.webp",
+            "Tips": [
+                {
+                    "title": "Physical Phenomenon",
+                    "description": "Relates to light, heat, or sound bouncing off surfaces.",
+                    "example": "The reflection of sunlight off the snow was blinding.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/2Fhvb40I0H6vS6C8naFHEd5lM.webp"
+                },
+                {
+                    "title": "Visible Effect",
+                    "description": "Commonly associated with images seen in mirrors, water, or shiny objects.",
+                    "example": "Her reflection danced on the surface of the lake.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/d44gCDp8plWPMNeGOBUrPes6SsQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "99ae3075-8092-4f94-87ea-e25dd1b6949f",
+            "de": "Serious thought or consideration.",
+            "ty": "noun",
+            "ex": "She sat in quiet reflection.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "period of reflection",
+                " moment of reflection",
+                " reflection on life"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/99ae3075-8092-4f94-87ea-e25dd1b6949f.webp",
+            "Tips": [
+                {
+                    "title": "Thoughtful Process",
+                    "description": "Indicates a deep or careful thought, often personal.",
+                    "example": "After the incident, he needed time for reflection.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Introspective Activity",
+                    "description": "Can imply a focus on one's own thoughts and feelings.",
+                    "example": "She found reflection necessary for personal growth.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "cbfc104c-9b40-44d8-af5b-1b357581d72b",
+            "de": "An idea about something, especially one that is written down or expressed.",
+            "ty": "noun",
+            "ex": "The paper is a reflection on the challenges of our times.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cbfc104c-9b40-44d8-af5b-1b357581d72b.webp",
+            "Tips": [
+                {
+                    "title": "Expressed Thought",
+                    "description": "Refers to articulating personal ideas or interpretations.",
+                    "example": "His speech was a thoughtful reflection on human rights.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Academic Writing",
+                    "description": "Often used to describe a piece that shares insights or critique.",
+                    "example": "Her essay was a reflection of her research findings.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "93d9b19d-3432-4406-b712-b0eba72f8641",
+            "de": "An effect produced by an influence.",
+            "ty": "noun",
+            "ex": "The state of the bedroom is a reflection of his mental chaos.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reflection of character",
+                " reflection of reality",
+                " reflection of society"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/93d9b19d-3432-4406-b712-b0eba72f8641.webp",
+            "Tips": [
+                {
+                    "title": "Representational",
+                    "description": "Suggests a manifestation or embodiment of something else.",
+                    "example": "The decor is a direct reflection of her vibrant personality.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subtle Indicator",
+                    "description": "May hint at underlying truths about situations or character.",
+                    "example": "His disorganization is a reflection of his hectic lifestyle.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "754f93ab-677e-4ee6-b24a-633824a21b8f",
+            "de": "In mathematics, it's a transformation in which a geometric figure is reproduced or mapped onto itself by a folding operation.",
+            "do": "Mathematical",
+            "ty": "noun",
+            "ex": "The reflection of a point across a line results in a same point.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/754f93ab-677e-4ee6-b24a-633824a21b8f.webp",
+            "Tips": [
+                {
+                    "title": "Geometric Concept",
+                    "description": "Specific to mathematics, involving flipping shapes over a line.",
+                    "example": "The shape's reflection across the axis created exact symmetry.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "eaa60594-8431-463c-ade1-fe50a973a128",
+            "de": "In computer science, it's the ability of a program to examine its own structure, particularly during run-time.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Reflection in Java allows us to manipulate class on the run time.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/eaa60594-8431-463c-ade1-fe50a973a128.webp",
+            "Tips": [
+                {
+                    "title": "Code Introspection",
+                    "description": "In programming, pertains to examining and modifying structure.",
+                    "example": "Using reflection, the programmer could debug the software efficiently.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Cogitate": {
+            "wordRoot": "Cogitate",
+            "wordDefinition": "Cogitate and reflection both refer to thinking, but there are some differences in their meanings and usage.\n\nCogitate means to think deeply or carefully about something, often with the intention of solving a problem or coming up with a decision.\n\nCogitate is typically used when you are actively thinking about something in order to come up with a solution or decision, while reflection is used when you are contemplating your own thoughts, feelings, and experiences in order to gain insight or understanding.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4fd61988-ccbe-4b99-88b4-1ced03a8af0e.webp"
+        },
+        "Contemplate": {
+            "wordRoot": "Contemplate",
+            "wordDefinition": "Contemplate means to think deeply about something, to consider it carefully or to meditate on it. It involves focusing your thoughts and attention on a particular idea or subject.\n\nBoth words involve thinking, but contemplate is about considering something in the present, while reflection is about thinking back on something that has already happened.\n\nContemplation can be useful when you are trying to make a decision or solve a problem, while reflection can be helpful for personal growth and learning from past experiences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/90b3e452-748c-410f-b5f7-786283532ebb.webp"
+        },
+        "Deliberation": {
+            "wordRoot": "Deliberation",
+            "wordDefinition": "Deliberation is the act of carefully and thoughtfully considering options or choices in order to make a decision. It involves analyzing different factors and weighing the pros and cons to come up with a logical conclusion.\n\nDeliberation is applicable in situations where a decision needs to be made, such as choosing between different colleges or job offers.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e7ac0ad5-2856-4077-9e57-a0873f3ed924.webp"
+        },
+        "Introspection": {
+            "wordRoot": "Introspection",
+            "wordDefinition": "Introspection means looking inwardly at one's own thoughts and feelings, whereas reflection means considering or thinking about something, often in a more general sense.\n\nIntrospection is more personal and self-focused, while reflection can be about a wide range of topics. Introspection would be applicable if someone wants to better understand themselves, their emotions, or their actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/366a2db2-9706-4c2c-b715-c4a39d82039b.webp"
+        },
+        "Meditate": {
+            "wordRoot": "Meditate",
+            "wordDefinition": "Meditation is when you focus on clearing your mind and reaching a deep level of relaxation. It involves mindfulness and concentration to quiet the mind and increase awareness.\n\nMeditating is useful for reducing stress, improving focus, and enhancing overall wellbeing. It is applicable in situations where you need to center yourself, create a sense of inner peace, or clear your mind.\n\nIn summary, meditation creates a relaxed state of mind, while reflection helps you process feelings and experiences. Both are useful practices that can help improve mental health and increase self-awareness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e88b5d85-33ca-4899-ab50-707f683df6e3.webp"
+        },
+        "Ponder": {
+            "wordRoot": "Ponder",
+            "wordDefinition": "Both ponder and reflection refer to the act of thinking deeply or considering something carefully, but there is a slight difference in their usage.\n\nPonder suggests actively considering a problem or issue to arrive at a solution or conclusion.\n\nIt is usually applied to concrete or tangible issues, and the purpose of pondering is usually to find an answer or a way forward.\n\nFor example, you might ponder how to solve a math problem or ponder which college to attend.\n\nIn summary, one can ponder about a specific issue to arrive at a solution while reflection is a more contemplative and meditative process of considering one's thoughts, feelings, or actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e6dafc56-143a-4ee7-b9fb-9383598434a7.webp"
+        },
+        "Ruminate": {
+            "wordRoot": "Ruminate",
+            "wordDefinition": "Ruminate means to think deeply and repeatedly about something.\n\nIt is often used when a person is trying to solve a problem or understand a complex issue. Ruminating can be helpful to reach a conclusion or to find a solution to a problem, but it can also lead to worrying excessively and feeling anxious.\n\nReflection is applicable when we want to learn and grow from an experience, while rumination is applicable when we want to deeply understand a situation or problem.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4989b0cc-d859-49c3-a372-f1c4fec57e2a.webp"
+        },
+        "Think": {
+            "wordRoot": "Think",
+            "wordDefinition": "Reflection is a deeper form of thinking that involves examining one's thoughts and actions in order to learn from them.\n\nIt's a more deliberate and purposeful process of thinking that helps people gain insight and make sense of their experiences.\n\nThinking is a broader term that refers to any mental activity that involves analyzing, reasoning, or coming up with ideas.\n\nThinking can be more spontaneous and less structured than reflection, and can occur in the moment or over a longer period of time.\n\nThinking can be used to solve problems, generate new ideas, or make decisions.\n\nReflection is a more intentional and focused form of thinking that is useful for gaining deeper insights and learning from experiences, while thinking is a more general term that includes a wide range of mental activities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2127c199-4e96-453a-95f3-7a06c457fc77.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " get them in focus before they're straight out again we've got one particular character called norbert he's a bit chubby than the others and he seems to like coming in and acting for us really so he comes in and walks right up to the camera we think it's because he can see his reflection he seems to enjoy stancing at",
+            "Title": "Filming Flying Squirrels...",
+            "VideoId": "uKMfWZYPRic",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " Gross! What do you think the world looks like if you are invisible? Well, the answer is nothing. The reason you can't see in the dark is because there is no light. To see an apple, light has to hit the apple and return it to your eyes. Then, the retinas in your eyes catch the light reflection for your brain",
+            "Title": "If superpowers were...",
+            "VideoId": "w-YLJ-pHRhA",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " Importantly, the allegory is connected to the theory of forms, developed in Plato's other dialogues, which holds that like the shadows on the wall, things in the physical world are flawed reflections of ideal forms, such as roundness, or beauty. In this way, the cave leads to many fundamental questions,",
+            "Title": "Plato’s Allegory of the...",
+            "VideoId": "1RWOpQXTltA",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " Anything that promotes honest reflection on their own behavior and caring for others, like psychotherapy or practicing compassion towards others, can be helpful. The difficulty is it can be challenging for people with narcissistic personality disorder to keep working at self-betterment.",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=270"
+        },
+        {
+            "Text": " Though the ancient texts there were regarded by some as irrelevant relics of the past, Confucius was inspired by them. Through study and reflection, Confucius came to believe that human character is formed in the family and by education in ritual, literature, and history.",
+            "Title": "Who was Confucius? -...",
+            "VideoId": "wFt_VGG0kJU",
+            "Controls": "start=76"
+        },
+        {
+            "Text": " we developed these quests while i was working in hiroshima japan with mazda some of the spaces that david took pictures of when he was walking through hiroshima really helped us craft what these assignments would be our second quest is unique reflections",
+            "Title": "Assignment: Reflections...",
+            "VideoId": "b790GIt9oTw",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " inspiration are we ready here we go at mazda the inspiration behind unique reflections started with the way we approach our car design there's a depth there it's not a flat surface and it's meant to reflect the world around you in a way that's unique",
+            "Title": "Telling Stories Through...",
+            "VideoId": "06Cu2hzy-ag",
+            "Controls": "start=1"
+        },
+        {
+            "Text": " roll reach a boiling point on lower the music to invite some truth honest reflection about what is being felt vulnerability fear of failure discomfort about being inauthentic my line suck these are some of the feelings that are",
+            "Title": "How Hip Hop taught my...",
+            "VideoId": "HDaAMjtq6JU",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " but it's also, I think, a reflection of the fact that we are not machines exploring the universe, we are people, and we're taking that ability to adapt and that ability to understand and the ability to take",
+            "Title": "What I learned from...",
+            "VideoId": "Zo62S0ulqhA",
+            "Controls": "start=984"
+        },
+        {
+            "Text": " Oh, gosh, straightaway. One of the juveniles has come straight up to it. Not a worry in the world. Some animals are surprised when they see their own reflection and react aggressively.",
+            "Title": "Mirror Mirror: Gorillas...",
+            "VideoId": "aZ7F1yRM5vg",
+            "Controls": "start=60"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shakira.webp",
+            "Text": "My songs are the reflection of how I think and how I feel in that moment. But I'm conscious of the fact that artists have a responsibility before the masses and they have to take care with their words.",
+            "Title": "Musician",
+            "Name": "Shakira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-merton.webp",
+            "Text": "The beginning of love is to let those we love be perfectly themselves, and not to twist them to fit our own image. Otherwise we love only the reflection of ourselves we find in them.",
+            "Title": "American Author",
+            "Name": "Thomas Merton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ava-duvernay.webp",
+            "Text": "There's something very important about films about black women and girls being made by black women. It's a reflection as opposed to an interpretation.",
+            "Title": "American Director",
+            "Name": "Ava DuVernay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimi-hendrix.webp",
+            "Text": "The reflection of the world is blues, that's where that part of the music is at. Then you got this other kind of music that's tryin' to come around.",
+            "Title": "American Musician",
+            "Name": "Jimi Hendrix"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alicia-keys.webp",
+            "Text": "I believe Aids is the most important issue we face, because how we treat the poor is a reflection of who we are as a people.",
+            "Title": "American Musician",
+            "Name": "Alicia Keys"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cesar-chavez.webp",
+            "Text": "Our language is the reflection of ourselves. A language is an exact reflection of the character and growth of its speakers.",
+            "Title": "American Activist",
+            "Name": "Cesar Chavez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/billy-graham.webp",
+            "Text": "Traveling around the world and preaching for over 70 years did not give much time for reflection.",
+            "Title": "American Clergyman",
+            "Name": "Billy Graham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-einstein.webp",
+            "Text": "Without deep reflection one knows from daily life that one exists for other people.",
+            "Title": "German Physicist",
+            "Name": "Albert Einstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francois-truffaut.webp",
+            "Text": "I have always preferred the reflection of the life to life itself.",
+            "Title": "French Director",
+            "Name": "Francois Truffaut"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julie-newmar.webp",
+            "Text": "A garden is a reflection of you, it's your presence in the world.",
+            "Title": "American Actress",
+            "Name": "Julie Newmar"
+        }
+    ]
+}

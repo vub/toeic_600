@@ -1,0 +1,347 @@
+{
+    "currentWord": {
+        "wordRoot": "risk",
+        "id": 8921,
+        "phonemic": "rɪsk|rɪsk\r",
+        "bigId": "ce6ebcd6-dbec-41fd-b6c8-f38b97fbe4f6",
+        "wordForms": [
+            "risks",
+            "risking",
+            "risked",
+            "risk"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ce6ebcd6-dbec-41fd-b6c8-f38b97fbe4f6",
+            "de": "A chance or situation involving such a chance that could cause harm, danger or loss",
+            "ty": "noun",
+            "ex": "They decided to take the risk and invest in the new company.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "take a risk",
+                " high risk",
+                " low risk"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ce6ebcd6-dbec-41fd-b6c8-f38b97fbe4f6.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Weight",
+                    "description": "The noun 'risk' often carries a sense of tension or worry about a possible negative outcome.",
+                    "example": "Despite the risks, the thrill-seeker jumped off the cliff.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MtTkek79H9FZSRL4oJyxzWV8loU.webp"
+                },
+                {
+                    "title": "Risk vs Danger",
+                    "description": "'Risk' implies a possibility, while 'danger' is more immediate and serious.",
+                    "example": "Learning to drive involves some risk, but speeding is outright dangerous.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8mrabbEusP0UPZKI0kJRBNwIiE.webp"
+                },
+                {
+                    "title": "Risk Measurement",
+                    "description": "Often, 'risk' is mentioned alongside adjectives that measure it like 'high' or 'low'.",
+                    "example": "Skydiving is a high risk activity, but with proper equipment, the risk is minimized.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lF0cb0T53Ce2A4uonZOWPXgCxo.webp"
+                }
+            ]
+        },
+        {
+            "id": "274ac281-fe03-475a-87db-17c19ca053cd",
+            "de": "To expose to the chance of injury or loss",
+            "ty": "verb",
+            "ex": "He risked his life to save the child from the fire.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "risk life",
+                " risk it all",
+                " risk everything"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/274ac281-fe03-475a-87db-17c19ca053cd.webp",
+            "Tips": [
+                {
+                    "title": "Risking as a Choice",
+                    "description": "Using 'risk' as a verb shows a conscious decision to challenge potential negative outcomes.",
+                    "example": "She risked criticism by presenting her unconventional idea.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Assumed Responsibility",
+                    "description": "When you 'risk' something, it shows personal involvement and responsibility for the outcome.",
+                    "example": "He risked his reputation by supporting the controversial project.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "14da33a9-dda8-466a-be76-d5158b017ec7",
+            "de": "A person or thing considered likely to bring a bad result",
+            "ty": "noun",
+            "ex": "With his reckless driving, he's considered a risk on the road.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "health risk",
+                " risk factor",
+                " insurance risk"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/14da33a9-dda8-466a-be76-d5158b017ec7.webp",
+            "Tips": [
+                {
+                    "title": "Negative Connection",
+                    "description": "This 'risk' noun form is often linked with negative consequences or attributes.",
+                    "example": "Due to his past, the parolee was deemed a risk to the community.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Risk Identification",
+                    "description": "Terms like 'health risk' or 'insurance risk' help categorize the type of risk being discussed.",
+                    "example": "Smoking is a major health risk that can lead to multiple diseases.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d5b22067-5bed-46cc-a363-1626912b80f6",
+            "de": "A situation or person covered by an insurance policy",
+            "do": "insurance",
+            "ty": "noun",
+            "ex": "The insurance company calculated the risk before issuing the policy.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "insurable risk",
+                " insurance risk",
+                " risk assessment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d5b22067-5bed-46cc-a363-1626912b80f6.webp",
+            "Tips": [
+                {
+                    "title": "Insurance Specifics",
+                    "description": "In insurance, 'risk' refers to the likelihood and potential cost of an insured event.",
+                    "example": "The flood-prone area was classified as a high-risk zone by the insurance agency.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Calculating Risk",
+                    "description": "Insurance companies use statistics to decide how risky to consider a person or situation.",
+                    "example": "Young drivers often face higher premiums as they represent a higher risk.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "05b37522-c875-4cce-bb9f-e20110fd8bc3",
+            "de": "To do something potentially harmful with the hope of a beneficial result",
+            "do": "business",
+            "ty": "verb",
+            "ex": "The company decided to risk entering the foreign market.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "risk capital",
+                " business risk",
+                " risk investment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/05b37522-c875-4cce-bb9f-e20110fd8bc3.webp",
+            "Tips": [
+                {
+                    "title": "Business Ventures",
+                    "description": "In a business context, 'risk' often relates to financial stakes and the uncertainty of success.",
+                    "example": "Investors were wary of the risk associated with the startup's bold plan.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Calculated Risk",
+                    "description": "Businesspeople make informed decisions on 'risk' to gain rewards, acknowledging potential losses.",
+                    "example": "She took a calculated risk by investing in the fluctuating cryptocurrency market.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Certainty": {
+            "wordRoot": "Certainty",
+            "wordDefinition": "Certainty is a state of being sure or confident that something will happen or is true. For example, if you have studied for an exam and are confident you know the material well, you can say you are certain you will do well on the exam.\n\nCertainty is applicable when you have enough information to be sure of something, while risk is applicable when you are considering the potential for negative outcomes.\n\nCertainty gives you confidence, while risk requires careful consideration and weighing of potential consequences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/64b67ad4-d708-4764-8f6a-db7778a9e9fa.webp"
+        },
+        "Danger": {
+            "wordRoot": "Danger",
+            "wordDefinition": "Danger refers to a situation that has the potential to cause harm or injury. For example, if you're out in a thunderstorm, there's a danger of being struck by lightning.\n\nHowever, danger refers to the actual harmful situation, while risk is the likelihood of that danger occurring.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/90204fd0-547f-4258-8bc4-78da25a8657e.webp"
+        },
+        "Exposure": {
+            "wordRoot": "Exposure",
+            "wordDefinition": "Exposure means coming into contact with something that has the potential to cause harm, such as germs or toxic chemicals.\n\nRisk is the likelihood that that exposure will actually result in harm. So exposure is something that happens, while risk is the chance that something bad will happen because of that exposure.\n\nFor example, if you are exposed to the flu virus, you have a risk of getting sick from it. Another example: if you smoke cigarettes, your exposure to harmful chemicals is high, and your risk of developing lung cancer is also high.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad2fae9f-9898-49bb-a961-95415ee17f58.webp"
+        },
+        "Hazard": {
+            "wordRoot": "Hazard",
+            "wordDefinition": "A hazard is something that has the potential to cause harm. For example, a sharp knife is a hazard because it can cut someone.\n\nRisk is the likelihood or probability that someone will be harmed by a hazard. For instance, if someone uses a sharp knife to cut vegetables and is careful to keep their fingers away from the blade, the risk of being harmed is low.\n\nHazard refers to the potential danger while risk refers to the chance of harm. Both terms are used in safety and health contexts to evaluate and manage potential dangers.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad2513fc-7499-498f-b9d8-590f44e6e9a8.webp"
+        },
+        "Jeopardy": {
+            "wordRoot": "Jeopardy",
+            "wordDefinition": "Jeopardy refers to a situation in which there is a danger of losing something valuable or of being harmed. It usually applies to situations that are more serious or high stakes, such as a life-threatening situation, legal troubles, or financial ruin.\n\nFor example, there is a risk of getting a speeding ticket if you drive too fast, but you aren't necessarily in jeopardy of losing your life or livelihood.\n\nIn summary, Jeopardy is a more severe term and is typically used in more serious situations, while risk is a broader term that can apply to a variety of scenarios.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/04da19fa-d430-499e-91ab-82a634e92f9c.webp"
+        },
+        "Menace": {
+            "wordRoot": "Menace",
+            "wordDefinition": "Menace refers to something that is likely to cause harm or danger, either intentionally or unintentionally. It often has a negative connotation and implies a threat or danger to safety or well-being.\n\nFor example, a dangerous dog in the neighborhood is a menace as it poses a threat to people's safety.\n\nMenace denotes a direct threat or danger, while risk refers to a potential hazard or uncertain outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad4b252c-cd0c-4bd0-af6c-a2cc44c359b7.webp"
+        },
+        "Peril": {
+            "wordRoot": "Peril",
+            "wordDefinition": "Peril refers to immediate and serious danger, while risk refers to the likelihood of harm or loss.\n\nFor example, if you are standing on the edge of a cliff, you are in peril because falling off the cliff would result in immediate danger to your life.\n\nPeril is applicable when there is a clear and present danger that requires immediate action to avoid harm or loss, while risk is applicable when there is a possibility of harm or loss, but it may not be immediate or certain.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/59411c17-65a5-4ea8-9ced-c6a2d969761e.webp"
+        },
+        "Threat": {
+            "wordRoot": "Threat",
+            "wordDefinition": "Risk refers to the probability or chance of something bad happening, whereas a threat refers to something that has the potential to cause harm or danger.\n\nFor example, if you walk across a busy street without looking both ways, there is a risk of getting hit by a car. If someone threatens to harm you, that is a threat to your safety.\n\nRisk can refer to a wide range of possibilities, both positive and negative, while threat specifically refers to danger or harm.\n\nRisk is more applicable when assessing the likelihood of a particular outcome, while a threat is more applicable when evaluating potential sources of danger or harm.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a08486d5-410a-4d7a-b055-2b3dfe36e255.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and most importantly, they're not allowed to communicate among themselves. Though they do see each other during each morning's head count. Nevertheless, they all know no one would ever risk trying to leave without absolute certainty of success. After much pressure from human rights groups,",
+            "Title": "Can you solve the...",
+            "VideoId": "98TQv5IAtY8",
+            "Controls": "start=44"
+        },
+        {
+            "Text": " involves some additional challenge on top of that. The risk is that if somebody figures out how to crack the first challenge without also having cracked the additional challenge of ensuring perfect safety. So I think that we should work out a solution to the control problem in advance,",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=922"
+        },
+        {
+            "Text": " studies show that chronically sleeping fewer than six hours a night increases stroke risk by four and half times compared to those getting a consistent seven to eight hours of shuteye. For a handful of people on the planet who carry a rare inherited genetic mutation,",
+            "Title": "What would happen if you...",
+            "VideoId": "dqONk48l5vY",
+            "Controls": "start=128"
+        },
+        {
+            "Text": " risk assessment is not, you know, not so great. In the beginning, I was motivated by adventure. I wasn't motivated by these more rational excuses and I was never kind of analytically motivated as a child. You can see, I think that's my high school report card.",
+            "Title": "Underwater Cave Diving:...",
+            "VideoId": "_EsuHf3_OKg",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " For example, research shows that asking someone about suicidal thoughts actually reduces their suicide risk. Open conversations about mental illness help erode stigma and make it easier for people to ask for help. And the more patients seek treatment,",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=230"
+        },
+        {
+            "Text": " because risks they are and those I think of as brave souls know this in a way they're the personification of soul music however bitter they're experienced they're not ruled by fear or by resentment they reach out into the world",
+            "Title": "The real meaning of soul...",
+            "VideoId": "LPQ_JsXof4c",
+            "Controls": "start=442"
+        },
+        {
+            "Text": " Drinking well might also have various long-term benefits. Studies have shown that optimal hydration can lower the chance of stroke, help manage diabetes, and potentially reduce the risk of certain types of cancer.",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " They must keep moving or risk the same fate as their quarry, the creatures that have collapsed from heat stroke. Too deeply buried, but a good place to cool off. Foraging decisions must be fast.",
+            "Title": "Antlion Cone Death Trap...",
+            "VideoId": "QSYpWaFsIRY",
+            "Controls": "start=66"
+        },
+        {
+            "Text": " Risking life and limb to graze on these seaweed pastures.",
+            "Title": "Incredible Animal...",
+            "VideoId": "-TUqGbGa500",
+            "Controls": "start=604"
+        },
+        {
+            "Text": " risking life and limb to graze on these seaweed pastures",
+            "Title": "Crab vs Eel vs Octopus PIPE...",
+            "VideoId": "k7cGyYaxUnI",
+            "Controls": "start=289"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ben-carson.webp",
+            "Text": "It's very important for people to know themselves and understand what their value system is, because if you don't know what your value system is, then you don't know what risks are worth taking and which ones are worth avoiding.",
+            "Title": "American Scientist",
+            "Name": "Ben Carson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-kardashian.webp",
+            "Text": "My decision to end my marriage was such a risk to lose ratings and lose my fan base. I had to take that risk for my inner peace and to be happy with myself.",
+            "Title": "American Celebrity",
+            "Name": "Kim Kardashian"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/theodore-roosevelt.webp",
+            "Text": "No man is worth his salt who is not ready at all times to risk his well-being, to risk his body, to risk his life, in a great cause.",
+            "Title": "American President",
+            "Name": "Theodore Roosevelt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paulo-coelho.webp",
+            "Text": "I'm not saying that love always takes you to heaven. Your life can become a nightmare. But that said, it is worth taking the risk.",
+            "Title": "Brazilian Novelist",
+            "Name": "Paulo Coelho"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shakira.webp",
+            "Text": "I'm lucky to have family around me. Otherwise, I'll be taking the risk of falling in love with myself.",
+            "Title": "Musician",
+            "Name": "Shakira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/soren-kierkegaard.webp",
+            "Text": "During the first period of a man's life the greatest danger is not to take the risk.",
+            "Title": "Danish Philosopher",
+            "Name": "Soren Kierkegaard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cher.webp",
+            "Text": "I've always taken risks, and never worried what the world might really think of me.",
+            "Title": "American Musician",
+            "Name": "Cher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-m-grunsfeld.webp",
+            "Text": "There are some things worthy of risking your life for.",
+            "Title": "American Astronaut",
+            "Name": "John M. Grunsfeld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/esme-bianco.webp",
+            "Text": "You can't get anywhere in life without taking risks.",
+            "Title": "English Model",
+            "Name": "Esme Bianco"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/park-yeon-mi.webp",
+            "Text": "Risking your life is not an easy thing to do.",
+            "Title": "North Korean Activist",
+            "Name": "Park Yeon-mi"
+        }
+    ]
+}

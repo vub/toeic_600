@@ -1,0 +1,346 @@
+{
+    "currentWord": {
+        "wordRoot": "review",
+        "id": 19909,
+        "phonemic": "rɪˈvjuː|rɪˈvjuː\r",
+        "bigId": "80d28f29-3a49-4e69-8234-361471244a1c",
+        "wordForms": [
+            "reviews",
+            "reviewing",
+            "reviewed",
+            "reviewer",
+            "reviewers",
+            "review"
+        ]
+    },
+    "senses": [
+        {
+            "id": "80d28f29-3a49-4e69-8234-361471244a1c",
+            "de": "A written, spoken, or filmed report that gives an opinion about something, like a movie, book, product, etc.",
+            "ty": "noun",
+            "ex": "I read a review of the movie before deciding to watch it.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "book review",
+                " movie review",
+                " product review"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/80d28f29-3a49-4e69-8234-361471244a1c.webp",
+            "Tips": [
+                {
+                    "title": "Subjective Opinion",
+                    "description": "Focuses on personal feelings or opinions about the subject being reviewed.",
+                    "example": "The book review expressed the critic's disappointment with the story's ending.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EcxHDCLUBAYUXb6YR3BbuRvUVCI.webp"
+                },
+                {
+                    "title": "Influence Decisions",
+                    "description": "Can sway others' choices, like whether to see a movie or buy a product.",
+                    "example": "I was undecided until I read an excellent review of the laptop.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/h2zAX0REfk3ve0q6ko0QKbrVxiI.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "bef72acb-ee42-4b9a-b56c-ca1f193cb209",
+            "de": "A careful look at or examination of something.",
+            "ty": "noun",
+            "ex": "The accountant conducted a review of the company's financial records.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "financial review",
+                " performance review",
+                " policy review"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bef72acb-ee42-4b9a-b56c-ca1f193cb209.webp",
+            "Tips": [
+                {
+                    "title": "Professional Context",
+                    "description": "Often used in business or academia to assess processes, policies, or performances.",
+                    "example": "The quarterly performance review showed significant improvement.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Thorough Examination",
+                    "description": "Implies a detailed and comprehensive look at something.",
+                    "example": "The policy review covered all aspects of workplace safety.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3519f476-4625-4c9a-bed7-ed9e7d4f5154",
+            "de": "To look at or examine something, especially to see if it is correct or to remind yourself of it.",
+            "ty": "verb",
+            "ex": "I need to review my notes before the test.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "review notes",
+                " review laws",
+                " review plans"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3519f476-4625-4c9a-bed7-ed9e7d4f5154.webp",
+            "Tips": [
+                {
+                    "title": "Prepare and Refresh",
+                    "description": "Used when going through materials to reinforce knowledge or recall information.",
+                    "example": "I'll need to review the chapter before the quiz tomorrow.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Check for Accuracy",
+                    "description": "Refers to examining something to confirm it is correct or valid.",
+                    "example": "The teacher will review our essays for any errors.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fec1746d-e353-4359-a149-cac744855914",
+            "de": "To write, say, or give your opinion of something, like a movie or book.",
+            "ty": "verb",
+            "ex": "She reviews books for a local newspaper.",
+            "use": "",
+            "co": "Journalistic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "review a book",
+                " review a movie",
+                " review a play"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fec1746d-e353-4359-a149-cac744855914.webp",
+            "Tips": [
+                {
+                    "title": "Convey Expertise",
+                    "description": "Reviewers are often expected to have expert knowledge or significant experience.",
+                    "example": "She reviews tech gadgets and is known for her expert insights.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Public Opinion",
+                    "description": "Professional reviews can influence public perception and trends.",
+                    "example": "His film reviews are highly regarded and can make or break a movie's success.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6e15ad90-ff49-47bd-b857-80ed07243b27",
+            "de": "A formal inspection or examination of troops or military forces.",
+            "do": "Military",
+            "ty": "noun",
+            "ex": "The new recruits stood ready for review by the general.",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "military review",
+                " troop review",
+                " inspection review"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6e15ad90-ff49-47bd-b857-80ed07243b27.webp",
+            "Tips": [
+                {
+                    "title": "Formal Procedure",
+                    "description": "Specific to formal inspections, often with ceremonial aspects in military contexts.",
+                    "example": "During the military review, the soldiers marched in perfect formation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Chain of Command",
+                    "description": "Indicates reviews conducted by a superior or commanding officer.",
+                    "example": "The troop review was scheduled for Monday by the commanding officer.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Analysis": {
+            "wordRoot": "Analysis",
+            "wordDefinition": "Analysis refers to a detailed examination of something to understand its parts, function, and relationship between them.\n\nAnalysis is applicable in fields like science, economics, and data analysis where a deep understanding of information is essential.\n\nAnalysis is used to understand a concept, while review is used to evaluate a product or service.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/700e831c-1eea-46da-8ea6-370a42f046b9.webp"
+        },
+        "Appraisal": {
+            "wordRoot": "Appraisal",
+            "wordDefinition": "An appraisal is an official evaluation or assessment of the value, quality or performance of something, such as a property or performance at work.\n\nIt is less formal than an appraisal.\n\nBoth terms can be applicable in various situations. An appraisal may be used to determine the value of a house, while a review may be used to give an opinion on a new movie release.\n\nAt work, an appraisal is often used to assess an employee's performance over a certain period, while a review may be used to give feedback on a recent project or task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/857941c3-2592-4cdb-8913-dfeacb63640b.webp"
+        },
+        "Assess": {
+            "wordRoot": "Assess",
+            "wordDefinition": "Assess means to evaluate or judge something based on particular criteria. It usually involves giving a score, grade, or rating based on analysis and measurement.\n\nAssessments are often used in academic or professional contexts, such as grading tests or conducting performance evaluations.\n\nIn summary: Assessing is about evaluating something with specific criteria, while reviewing involves examining something to provide an overall opinion or summary.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/442852dd-d9fe-4767-94a3-78d50c1c82d6.webp"
+        },
+        "Commentary": {
+            "wordRoot": "Commentary",
+            "wordDefinition": "Commentary refers to an article or piece of writing that provides a personal perspective or analysis on a particular topic, event, or issue.\n\nCommentary is more focused on providing insights or personal perspectives on a topic, while review is focused on evaluating a specific work or product.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fa78debe-2fe9-4e9a-a8ca-96f38eb73fb7.webp"
+        },
+        "Critique": {
+            "wordRoot": "Critique",
+            "wordDefinition": "Critique means to give a detailed analysis and evaluation of something, usually involving pointing out its strengths and weaknesses.\n\nA critique is a detailed analysis and evaluation of something, focusing on its creative or artistic aspects, while a review is an overall summary and opinion of something, often with a recommendation of whether it is worth trying or not.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/884686f2-65dd-4fa1-9a99-179c78c4738f.webp"
+        },
+        "Evaluate": {
+            "wordRoot": "Evaluate",
+            "wordDefinition": "It is often used in academic or business contexts, such as evaluating a report, a project or a proposal.\n\nIt is often used to assess things like books, movies, or restaurants, and usually involves a personal evaluation or critique of the thing in question.\n\nEvaluate is used to analyze or assess something for a specific purpose or decision-making process, while review is used to provide an opinion or assessment on something, usually for the purpose of sharing it with others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be62720b-6c1b-48e0-b518-8768e2efffd8.webp"
+        },
+        "Examination": {
+            "wordRoot": "Examination",
+            "wordDefinition": "Examination and review are both words used to describe the process of analyzing or looking at something closely, but they have different implications.\n\nExamination generally implies a more rigorous and thorough investigation. For example, if you have an examination in school, it usually means that you are going to be tested on a broad range of material to determine your level of knowledge on the subject.\n\nIf a doctor performs an examination, they are usually looking for signs of illness or injury and may use diagnostic tools like X-rays or blood samples to get a better understanding of your condition.\n\nExamination is typically used when a more in-depth and comprehensive analysis is required, while review is used for a broader, more general analysis.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e65a64dc-c6ac-4d7d-a3e5-85970c3f0776.webp"
+        },
+        "Inspection": {
+            "wordRoot": "Inspection",
+            "wordDefinition": "Inspection refers to a thorough examination or evaluation of something, especially to check for any faults, defects, or compliance with standards.\n\nInspection is used to check for problems or compliance, while review is used to provide feedback or evaluation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a90dd837-d149-48d9-be1f-a6c07e3514dc.webp"
+        },
+        "Survey": {
+            "wordRoot": "Survey",
+            "wordDefinition": "Survey refers to the process of collecting data or information from a group of people about a particular topic.\n\nSurveys could be done to assess customer satisfaction with a product, to collect opinions on a political issue, or to gather information about demographic trends or cultural practices.\n\nSurveys typically involve asking structured questions and recording the responses for analysis.\n\nA review is an opinion piece that evaluates the quality or usefulness of something, while a survey is a data-gathering tool used to collect information or opinions from a group of people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a8e79ac-f73e-4d67-9757-3704e5b0c97a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Martin assembles the safety team and reviews the dangers of firing live rounds in the lab shooting guns indoors is not exactly a safe endeavor eisenerz everybody needs to have eye protection on if there's a safety violation or if there's a an emergency where there's an injury I'll call head in the medic",
+            "Title": "Sniper Keeps His Cool PIPE...",
+            "VideoId": "yX2bVJm94b0",
+            "Controls": "start=90"
+        },
+        {
+            "Text": " It's not stolen from the lines. But there's an important thing to remember even though companies pushed back, even though companies demanded, hey, let's do this through a warrant process, let's do this where we actually have some sort of legal review, some sort of basis for handing over",
+            "Title": "How we take back the...",
+            "VideoId": "yVwAodrjZMY",
+            "Controls": "start=473"
+        },
+        {
+            "Text": " Many scientists are working toward improving reproducibility in their fields. There's a push to make researchers raw data, experimental procedures, and analytical techniques more openly available in order to ease replication efforts. The peer review process can also be strengthened",
+            "Title": "Is there a reproducibilit...",
+            "VideoId": "FpCrY7x5nEE",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " You're giving yourself a performance review, and it has been an absolutely amazing year for you professionally. What three to five things did you do that made it so amazing? So you can write next year's performance review now. And you can do this for your personal life, too.",
+            "Title": "How to gain control of...",
+            "VideoId": "n3kNlFMXslo",
+            "Controls": "start=354"
+        },
+        {
+            "Text": " usually gives up and goes away motives are drawn by the call from a large area they even drop lower and closer so that they can keep the cattle for review and here they will stay on maximum alert until the leopard finally filled up and leaves them in peace",
+            "Title": "Terrified Monkeys Scared...",
+            "VideoId": "o-bxPLFt1vI",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " and we put all of those cars into your box That would be about the density of a nucleus. So I'm saying that if you took every car in the world and put it into your one-foot box, you would have the density of one nucleus. OK, let's review.",
+            "Title": "Just How Small is an...",
+            "VideoId": "yQP4UJhNn0I",
+            "Controls": "start=267"
+        },
+        {
+            "Text": " To keep their emotions in check, they carefully prepare for an assignment, building glossaries in advance, reading voraciously about the subject matter, and reviewing previous talks on the topic. Finally, interpreters work in pairs.",
+            "Title": "How interpreters juggle...",
+            "VideoId": "cXNTArhA0Jg",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " was this big photo of me and this glowing review underneath and I was so thrilled I couldn't wait to call home and tell everyone about it and when I got to the bottom of the article it said turn to page seven for exclusive",
+            "Title": "Poetry makes people...",
+            "VideoId": "WHbgZcur7ik",
+            "Controls": "start=267"
+        },
+        {
+            "Text": " My opinion doesn't matter. Let's look at the evidence. After 20 years of careful study and rigorous peer review by thousands of independent scientists, every major scientific organization in the world has concluded",
+            "Title": "Pamela Ronald: The case...",
+            "VideoId": "wZ2TF8-PGQ4",
+            "Controls": "start=766"
+        },
+        {
+            "Text": " And the reason it does is not because of the clever encryption. That's important. Something far simpler than that. It's the user reviews. You see, every single vendor on these sites",
+            "Title": "How the mysterious dark...",
+            "VideoId": "pzN4WGPC4kc",
+            "Controls": "start=227"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-bastianich.webp",
+            "Text": "The stories of wine lords who trade wine on intimidation or food critics who trade free meals for reviews... those are the stories of my life. I am telling the stories of my life in a true way.",
+            "Title": "American Chef",
+            "Name": "Joe Bastianich"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/xavier-dolan.webp",
+            "Text": "It's important to see how people see your work and how they feel about it. I know a lot of directors who are like, 'I never read reviews,' and I'm like, 'Yeah I can tell.",
+            "Title": "Canadian Actor",
+            "Name": "Xavier Dolan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-franco.webp",
+            "Text": "I used to read a lot about myself and the projects I was doing. When I was only acting, I wouldn't read any reviews because I didn't find them to be very helpful.",
+            "Title": "American Actor",
+            "Name": "James Franco"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jake-kasdan.webp",
+            "Text": "In general, I've been treated well by reviews, and there are times when I haven't. The truth is that I've come to feel like I'm better off without reading them.",
+            "Title": "American Director",
+            "Name": "Jake Kasdan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harry-hadden-paton.webp",
+            "Text": "I'm afraid I don't look at reviews or anything like that, but you get an immediate sense from the audience that they've had a lovely evening.",
+            "Title": "British Actor",
+            "Name": "Harry Hadden-Paton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/abi-morgan.webp",
+            "Text": "I'm the world's worst at reading reviews and then pretending I've read the book.",
+            "Title": "Welsh Playwright",
+            "Name": "Abi Morgan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lev-grossman.webp",
+            "Text": "I mean, when you're tired of book reviews, you're tired of life.",
+            "Title": "American Novelist",
+            "Name": "Lev Grossman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-chabon.webp",
+            "Text": "Every time another review comes out I let out a deep breath.",
+            "Title": "American Author",
+            "Name": "Michael Chabon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-harrison.webp",
+            "Text": "I rarely read or buy a book because of a review.",
+            "Title": "American Writer",
+            "Name": "Jim Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chris-odowd.webp",
+            "Text": "Reviewers are the worst laughers in the world.",
+            "Title": "Irish Actor",
+            "Name": "Chris O'Dowd"
+        }
+    ]
+}

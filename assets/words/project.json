@@ -1,0 +1,361 @@
+{
+    "currentWord": {
+        "wordRoot": "project",
+        "id": 21170,
+        "phonemic": "ˈprɒdʒekt|ˈprɑːdʒekt\r",
+        "bigId": "cd322bf1-b0e9-455c-82a7-69c901321344",
+        "wordForms": [
+            "projects",
+            "projecting",
+            "projected",
+            "projector",
+            "projectors",
+            "project"
+        ]
+    },
+    "senses": [
+        {
+            "id": "cd322bf1-b0e9-455c-82a7-69c901321344",
+            "de": "A piece of work that is carefully planned and designed with a specific purpose.",
+            "ty": "noun",
+            "ex": "She's busy with a major project on climate change.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "research project",
+                "project management",
+                "project team"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cd322bf1-b0e9-455c-82a7-69c901321344.webp",
+            "Tips": [
+                {
+                    "title": "Long-term endeavors",
+                    "description": "Refers to tasks requiring considerable time and effort to complete.",
+                    "example": "He embarked on a project to write his first novel.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xAMYMkRNesn1kOYbfoBQjxURAg.webp"
+                },
+                {
+                    "title": "Collaborative nature",
+                    "description": "Often implies teamwork and collaboration towards common goals.",
+                    "example": "Our class project involved working in teams to create a documentary.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/P6F3unH2AvZq9JaTLaQ71VVOk.webp"
+                },
+                {
+                    "title": "Outcome-focused",
+                    "description": "Emphasizes that the project has a clear end goal or result.",
+                    "example": "The community project aimed to build a new playground.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jsakXR3vm7q0FsmStKQj51wQAU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "11edf553-73ed-45bf-877d-e424987c3eb7",
+            "de": "To throw or cast something forward.",
+            "do": "Physics",
+            "ty": "verb",
+            "ex": "The machine projects the image onto a screen.",
+            "use": "",
+            "co": "Academic",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "project an image",
+                "project a beam",
+                "project a shadow"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/11edf553-73ed-45bf-877d-e424987c3eb7.webp",
+            "Tips": [
+                {
+                    "title": "Visual representation",
+                    "description": "Involves making an internal concept visible externally.",
+                    "example": "The overhead projector was used to project the diagrams.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Larger display",
+                    "description": "Typically used to enlarge small images for a group to see.",
+                    "example": "The artist's projector could project the tiny sketch onto the large wall.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "9479793e-953c-49b0-8282-072ab7219939",
+            "de": "To predict or estimate something in the future based on present data or trends.",
+            "ty": "verb",
+            "ex": "Sales are projected to increase by 15% next year.",
+            "use": "",
+            "co": "Business",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "project growth",
+                "project costs",
+                "project revenues"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9479793e-953c-49b0-8282-072ab7219939.webp",
+            "Tips": [
+                {
+                    "title": "Future anticipation",
+                    "description": "Involves making informed guesses about what will happen later.",
+                    "example": "Based on current trends, we project a profit increase in Q4.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Data-driven",
+                    "description": "Requires analysis of data to make predictions.",
+                    "example": "The economist projected future economic downturns based on historical data.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ed17487d-429f-4f1d-9d06-47d8bbae314e",
+            "de": "To make something visible or noticeable.",
+            "ty": "verb",
+            "ex": "The castle is projected against the sky.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "project confidence",
+                "project a figure",
+                "project a voice"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ed17487d-429f-4f1d-9d06-47d8bbae314e.webp",
+            "Tips": [
+                {
+                    "title": "Perceptible impact",
+                    "description": "Pointing out something to make it easily seen or felt.",
+                    "example": "He knew how to project his voice across the crowded room.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Presence enhancement",
+                    "description": "Used to describe how one can seem larger or more noticeable.",
+                    "example": "Despite her small stature, she projected a commanding presence.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Confidence expression",
+                    "description": "Can convey a sense of confidence, even if not felt internally.",
+                    "example": "Projecting confidence during the interview is crucial.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "6482f873-b704-4609-8cda-371847e20212",
+            "de": "Unconsciously transfer one’s own feelings and thoughts to another person or object",
+            "do": "Psychology",
+            "ty": "verb",
+            "ex": "She projects her own insecurities onto other people.",
+            "use": "",
+            "co": "Academic",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "project feelings",
+                "project insecurities",
+                "project emotions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6482f873-b704-4609-8cda-371847e20212.webp",
+            "Tips": [
+                {
+                    "title": "Emotional displacement",
+                    "description": "Involves attributing one's own emotions to others unintentionally.",
+                    "example": "He accused others of being angry, not realizing he projected his own anger.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Misunderstood behavior",
+                    "description": "Can be mistakenly thought of as someone else’s emotions or intentions.",
+                    "example": "Her tendency to project made it hard for her to recognize her own role in conflicts.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Assignment": {
+            "wordRoot": "Assignment",
+            "wordDefinition": "An assignment is a task given to a person to complete within a specific time frame. Assignments are usually shorter than projects and are often given as a regular part of a course or program.\n\nA project is a more complex and substantial assignment that requires planning, research, and execution over a longer period.\n\nBoth assignments and projects are used to measure someone's understanding of a specific topic or subject.\n\nHowever, assignments are usually used more frequently in educational settings, while projects are used more often in professional or business environments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/25d14f0d-8f9f-4229-8e0d-dd00a2a90aa2.webp"
+        },
+        "Initiative": {
+            "wordRoot": "Initiative",
+            "wordDefinition": "Initiative refers to a new idea or plan that someone takes the lead in starting.\n\nAn initiative is usually broader in scope than a project and often involves multiple projects.\n\nProjects are usually created to achieve a specific goal or objective within a larger initiative.\n\nBoth initiative and project are applicable in various contexts, such as business, government, non-profits, and personal life.\n\nInitiatives are typically more strategic and longer-term than projects, and projects are usually more tangible and shorter-term than initiatives.\n\nFor example, a company might launch an initiative to reduce its carbon footprint, and one of the projects within that initiative might be to install energy-efficient lighting in its offices.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a2dfeada-9ea4-4ca8-8c08-5c54278d355d.webp"
+        },
+        "Plan": {
+            "wordRoot": "Plan",
+            "wordDefinition": "A plan is a set of actions or steps that someone imagines or hopes to follow or take to achieve a goal or objective. It could be as simple as making a to-do list or as complex as a long-term strategy for a business or organization.\n\nPlans are generally focused on achieving a specific outcome, and are often made beforehand.\n\nProjects are often time-bound and require detailed planning and execution.\n\nIn summary, plans are general strategies or ideas, while projects are specific tasks or undertakings. Plans are applicable in situations where there is a need to set objectives or goals, while projects are applicable in situations where there is a need to carry out a specific set of tasks or activities to achieve those objectives or goals.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9400d7b7-c746-474a-9b35-7ea1c6436540.webp"
+        },
+        "Programme": {
+            "wordRoot": "Programme",
+            "wordDefinition": "A program is a set of activities that are designed to achieve a specific goal or outcome over a period of time.\n\nFor example, a fitness program might involve different exercise routines, nutritional guidance, and lifestyle recommendations, all designed to help participants achieve overall health and wellness.\n\nBoth program and project management are important tools in achieving business objectives. Programs are best suited for achieving long-term goals, while projects are most beneficial for short-term objectives.\n\nProgram management may involve overseeing many projects that individually serve a particular purpose, while project management ensures a one-time goal is reached.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/919d9ae3-dc1f-410e-bd00-e4fe082d4b0e.webp"
+        },
+        "Proposal": {
+            "wordRoot": "Proposal",
+            "wordDefinition": "A proposal is a suggestion or an idea that is presented to others for consideration, usually with the aim of persuading or convincing them to take action.\n\nA proposal is often seen as the first step to making a project happen.\n\nA project is the actual plan or idea that involves creating something, while a proposal is a document that presents a suggestion to achieve that plan or idea.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ce2cecf1-c04e-45fe-b430-b6bcddfab04e.webp"
+        },
+        "Scheme": {
+            "wordRoot": "Scheme",
+            "wordDefinition": "Scheme refers to a plan or idea that is often associated with a level of deception or dishonesty.\n\nA scheme is usually designed to benefit someone or a group of people in a way that is unfair or unethical.\n\nFor example, a fraudulent scheme involves scams or dishonest practices that are intended to deceive people and take their money.\n\nA project is a well-planned and structured plan to achieve a specific goal while a scheme is a dishonest plan that involves deception or unfair practices.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a92fdea-8c91-4a85-90f2-b61d2ba82dff.webp"
+        },
+        "Task": {
+            "wordRoot": "Task",
+            "wordDefinition": "A project is a bigger and more complex assignment that involves multiple tasks and often requires a team to work on it.\n\nA task is a smaller and more specific job that needs to be completed to achieve a specific goal. Tasks are usually a part of a project, and completing many tasks will eventually lead to the completion of the entire project.\n\nFor example, writing a report, designing a logo, or booking a venue are all examples of tasks.\n\nA project is a broader and more complex goal that requires multiple tasks to be completed, while a task is a specific job that contributes to the completion of a project.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/10fc63e2-3490-4f67-8690-9983c0f7c30b.webp"
+        },
+        "Undertake": {
+            "wordRoot": "Undertake",
+            "wordDefinition": "Undertake means to agree to do something or to take on a particular responsibility or task.\n\nIt can be used in various contexts, such as in business or personal life. For instance, \"I will undertake to complete the project by the end of the week.\".\n\nProject is more specific and refers to a defined task or goal, while undertake indicates taking on a responsibility or task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af4947a6-f0b0-49e8-b9bb-4cc524adb76c.webp"
+        },
+        "Venture": {
+            "wordRoot": "Venture",
+            "wordDefinition": "A venture refers to a business or financial undertaking where there is an element of risk involved.\n\nA venture is usually a new business or startup that requires investment or capital to get started.\n\nA project is a task with a defined goal and timeframe, while a venture is a business or financial undertaking with an element of risk involved.\n\nProjects are applicable to a wide range of fields, while ventures are primarily focused on entrepreneurship and business.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c9808457-51d9-4abe-98bc-5e2eabb35236.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and other contemporary processes cannot only alter the way humans experience emotional and physical pain, but that world ecosystems ought to be redesigned so that animals don't suffer in the wild. He calls his project \"paradise engineering.\" But is there something sad about a world without sadness?",
+            "Title": "A brief history of...",
+            "VideoId": "8li-3pRrA5Y",
+            "Controls": "start=256"
+        },
+        {
+            "Text": " An empty fourth pit suggests that the grand project could not be finished before the emperor's death. In addition, nearby chambers contain figures of musicians and acrobats, workers and government officials, and various exotic animals, indicating that Emperor Qin had more plans for the afterlife",
+            "Title": "The incredible history...",
+            "VideoId": "mP5p4QbvPtc",
+            "Controls": "start=123"
+        },
+        {
+            "Text": " basically there's a lot of deforestation going on there sometimes hunting as well so there's not many of them left in the world so that's why we've got these guys here they're they're super important to breed them in case we can ever release them back bris hoodie does support a project out",
+            "Title": "4 Adorable Animals That...",
+            "VideoId": "gk064yxlDXk",
+            "Controls": "start=629"
+        },
+        {
+            "Text": " When we think about the dreams we have, and the dent we want to leave in the universe, it is striking to see how big of an overlap there is between the dreams that we have, and projects that never happen. So I'm here to talk to you today about five ways how not to follow your dreams.",
+            "Title": "5 ways to kill your...",
+            "VideoId": "sR6P5Qdvlnk",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " The good news is we already have the tools. Across the planet, we're making on-the-ground decisions that will help entire ecosystems adapt. Critical climate refuges are being identified and set aside, and projects are underway to help mobile species move to more suitable climates.",
+            "Title": "Can wildlife adapt to...",
+            "VideoId": "ZCKRjP_DMII",
+            "Controls": "start=234"
+        },
+        {
+            "Text": " my community or in the world in general so I'm still working a lot of waking to at ricotta and also like into like energy one of the work that I'm doing is I'm also trying to put up a lot of like modules information that people can use that information to do their own project",
+            "Title": "Catching up with...",
+            "VideoId": "5KMfunb5Klk",
+            "Controls": "start=419"
+        },
+        {
+            "Text": " less economically advantageous. Finally, countries in advanced stages of industrialization reach a point where both birth and death rates are low, and the population remains stable or even begins to decline. Now, let's take a look at the projected population pyramids",
+            "Title": "Population pyramids:...",
+            "VideoId": "RLmKfXwWQtE",
+            "Controls": "start=187"
+        },
+        {
+            "Text": " which he called one of the most marvelous atoms of matter in the world. If you find it hard to believe that something so tiny could have a complex brain, you're not alone. In his project to classify and describe all living things,",
+            "Title": "Why the insect brain is...",
+            "VideoId": "OQw3TNRnJ1I",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " missions and project apollo catherine johnson was so good at what she did they needed her as an engineer when they had briefings i asked permission to go and they said well the girls don't usually go and i said well",
+            "Title": "NASA Trailblazer:...",
+            "VideoId": "E4j_LpKzcZQ",
+            "Controls": "start=149"
+        },
+        {
+            "Text": " As it turns out, boundless freedom isn't always helpful. In reality, any project is restricted by many factors, such as the cost, what materials you have at your disposal, and unbreakable laws of physics.",
+            "Title": "The power of creative...",
+            "VideoId": "v5FL9VTBZzQ",
+            "Controls": "start=28"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jocko-willink.webp",
+            "Text": "A lot of times, people have something that they're afraid of. They've got a client that's mad at them. They've got a project that's due. And they let that stress hang over their head. I don't let that happen.",
+            "Title": "American",
+            "Name": "Jocko Willink"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viola-davis.webp",
+            "Text": "I suffered from low self-esteem for much of my life. And now to feel like maybe something that I'm projecting or saying could mean something to someone means a lot to me.",
+            "Title": "American Actress",
+            "Name": "Viola Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/meryl-streep.webp",
+            "Text": "I know movies are a function of our dream world. And when you project yourself on screen, it's easier to project yourself into what you were, not what you are.",
+            "Title": "American Actress",
+            "Name": "Meryl Streep"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "The truth is, anyone can start projects. The world is full of just-started projects that looked great at the time but were never completed.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jiddu-krishnamurti.webp",
+            "Text": "Listening has importance only when one is not projecting one's own desires through which one listens.",
+            "Title": "Indian Philosopher",
+            "Name": "Jiddu Krishnamurti"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/napoleon-hill.webp",
+            "Text": "It takes half your life before you discover life is a do-it-yourself project.",
+            "Title": "American Author",
+            "Name": "Napoleon Hill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/denzel-washington.webp",
+            "Text": "My ultimate life dream project is my kids. My family.",
+            "Title": "American Actor",
+            "Name": "Denzel Washington"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jehane-noujaim.webp",
+            "Text": "It's important in any project to remain focused.",
+            "Title": "Egyptian Director",
+            "Name": "Jehane Noujaim"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-pantoliano.webp",
+            "Text": "Living in the projects helped me with this role.",
+            "Title": "American Actor",
+            "Name": "Joe Pantoliano"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dante-alighieri.webp",
+            "Text": "Small projects need much more help than great.",
+            "Title": "Italian Poet",
+            "Name": "Dante Alighieri"
+        }
+    ]
+}

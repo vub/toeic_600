@@ -1,0 +1,319 @@
+{
+    "currentWord": {
+        "wordRoot": "indicator",
+        "id": 12465,
+        "phonemic": "ˈɪndɪkeɪtə(r)|ˈɪndɪkeɪtər\r",
+        "bigId": "0ce44886-f403-43cf-ba7f-8b80426e8608",
+        "wordForms": [
+            "indicators",
+            "indicator"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0ce44886-f403-43cf-ba7f-8b80426e8608",
+            "de": "Something that shows what condition or level something else is in.",
+            "ty": "noun",
+            "ex": "High blood pressure may be an indicator of poor health.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "economic indicators",
+                " key performance indicators",
+                " health indicators"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0ce44886-f403-43cf-ba7f-8b80426e8608.webp",
+            "Tips": [
+                {
+                    "title": "Context Matters",
+                    "description": "Indicator's meaning changes with context; it may refer to symptoms in health or trends in economics.",
+                    "example": "Rising unemployment rates are a worrying economic indicator.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ElXB4UfNxW5jpbWUUwpvGdBIuo.webp"
+                },
+                {
+                    "title": "Broad Usage",
+                    "description": "The term is used in daily life as well as specialized fields to point out critical information.",
+                    "example": "Dark clouds are an indicator that rain might be coming.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/REeZfKaqgOnQc58zN5dYvpx28.webp"
+                },
+                {
+                    "title": "Not Always Visible",
+                    "description": "Indicators may be intangible, like a feeling indicating something is wrong.",
+                    "example": "A sudden feeling of anxiety was an indicator that he was nervous about the test.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GLob5vWwO3OwQKe29EVDyvN14.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "783126eb-15d7-4671-99e2-09f65f503f04",
+            "de": "A device on a vehicle that shows the direction in which it will turn.",
+            "ty": "noun",
+            "ex": "He forgot to turn off his indicator after the turn.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "indicator light",
+                " left indicator",
+                " right indicator"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/783126eb-15d7-4671-99e2-09f65f503f04.webp",
+            "Tips": [
+                {
+                    "title": "Directional Signal",
+                    "description": "In the UK, an indicator specifically refers to a car's turn signal lights.",
+                    "example": "Please use your indicators before making a turn.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Safety Feature",
+                    "description": "Indicators as turn signals are a key safety feature for communicating with other drivers.",
+                    "example": "He activated his right indicator to show he was changing lanes.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8b8b7439-17bf-42ad-9b00-2bbd9b4c5bd1",
+            "de": "A substance used to show the presence or condition of another substance, especially by a change of color.",
+            "do": "Chemistry",
+            "ty": "noun",
+            "ex": "Litmus is a common indicator used in labs.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "ph indicator",
+                " redox indicator",
+                " end-point indicator"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8b8b7439-17bf-42ad-9b00-2bbd9b4c5bd1.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Tool",
+                    "description": "In chemistry, indicators are not the focus but tools that help observe chemical changes.",
+                    "example": "We used an indicator to determine the pH level of the solution.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Visual Color Change",
+                    "description": "Chemical indicators often change color to signal a reaction, which is clearly observable.",
+                    "example": "The indicator turned pink, showing the solution was acidic.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ef3d0bdf-0b18-4c95-845f-e5c0daff7b15",
+            "de": "An item used to measure or keep track of something.",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "Key Performance Indicators (KPIs) are commonly used in business to measure success.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "performance indicator",
+                " success indicator",
+                " progress indicator"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ef3d0bdf-0b18-4c95-845f-e5c0daff7b15.webp",
+            "Tips": [
+                {
+                    "title": "Performance Measurement",
+                    "description": "In business, indicators measure progress or performance, like a meter shows speed.",
+                    "example": "The company's revenue is a key performance indicator of its success.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Targets for Improvement",
+                    "description": "Business indicators help identify areas in need of improvement or where goals are met.",
+                    "example": "Customer satisfaction scores serve as indicators of service quality.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Detector": {
+            "wordRoot": "Detector",
+            "wordDefinition": "A detector is a device that senses or detects the presence of something. For example, a smoke detector detects the presence of smoke and can alert people of a possible fire.\n\nIn general, detectors detect something that cannot be seen, heard, or felt.\n\nIn summary, detectors are used to sense the presence of something, while indicators are used to show information about something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/50adf9b0-0e1b-45b5-90c6-18e470481a22.webp"
+        },
+        "Dial": {
+            "wordRoot": "Dial",
+            "wordDefinition": "Dial refers to the round or circular display on a measuring instrument.\n\nIt is used to show numerical values, such as time, speed, temperature, etc. For example, a watch has a dial that displays the time.\n\nA dial displays a numerical value while an indicator shows the existence of something. Both words are used in different fields, such as technology, science, and everyday life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/77b0361d-c839-43f1-969c-6552afeb9e64.webp"
+        },
+        "Display": {
+            "wordRoot": "Display",
+            "wordDefinition": "Display refers to an electronic screen or monitor that shows information or graphics. Displays are commonly used in TVs, computers, and smartphones to show images, videos, and text.\n\nIn summary, displays are used to provide visual information, while indicators are used to provide feedback about a system or process.\n\nDisplays are applicable in devices that show visual information, while indicators are used in devices that require feedback about the status of a system or process.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ab15b671-5ce8-44a8-b67c-2deef94aab89.webp"
+        },
+        "Gauge": {
+            "wordRoot": "Gauge",
+            "wordDefinition": "Gauge is often used to measure something or to check something's level. For example, a fuel gauge in a car measures how much gas is left in the tank.\n\nA tire pressure gauge measures how much air is in a tire.\n\nA gauge is used to measure a level or amount, while an indicator is used to give a warning or signal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/17702ccb-7777-4ff3-9fb1-12ea88d54cb7.webp"
+        },
+        "Marker": {
+            "wordRoot": "Marker",
+            "wordDefinition": "An indicator is something that shows or demonstrates a particular condition or situation, while a marker is used to denote a particular location or point in time.\n\nFor example, a fever is an indicator of illness, while a mole or freckle can be a marker on the skin.\n\nSimilarly, a traffic light is an indicator of when to stop, go or proceed with caution, while a milestone is a marker that is used to denote how far one has progressed towards a particular goal or destination.\n\nOverall, while both words can be used in a variety of contexts, an indicator typically refers to something that reveals or provides information about a condition, while a marker is often used to identify or signify a particular location or point in time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fe1a36e-64b5-4faa-bcc1-ba28c74b53b1.webp"
+        },
+        "Meter": {
+            "wordRoot": "Meter",
+            "wordDefinition": "A meter is a device that measures a quantity and displays the measurement numerically, usually with units of measurement.\n\nFor example, an odometer in a car measures the distance traveled in miles or kilometers.\n\nAn indicator tells you if something is present or not, while a meter measures and displays a quantity numerically.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bc5196b9-6877-4098-b0aa-2f2d423c37cc.webp"
+        },
+        "Pointer": {
+            "wordRoot": "Pointer",
+            "wordDefinition": "A pointer is an instrument that shows the direction, position, or location of something.\n\nIt is used to point out or indicate a specific object, place or direction. For instance, a compass has a pointer that shows the direction of the North Pole.\n\nIn summary, while an indicator shows the value of a parameter, a pointer shows the position or direction of something. Indicators are usually used in measuring devices, while pointers are used for navigation or pointing out specific objects.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f5c19edb-f98b-4546-8d4d-5e6c931a1415.webp"
+        },
+        "Sign": {
+            "wordRoot": "Sign",
+            "wordDefinition": "A sign is a visible clue or signal that indicates the presence of something or gives information about something. Signs are used to communicate information, warnings, or instructions.\n\nFor example, road signs give directions and warnings to drivers, while a sign on a door may indicate the name of the office or the rules for entry.\n\nIn summary, indicators are devices used to measure or monitor something, while signs are visible clues or signals used to communicate information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f640222b-3515-4287-9a6b-7eb1b856a948.webp"
+        },
+        "Signal": {
+            "wordRoot": "Signal",
+            "wordDefinition": "A signal is a message or notification that is used to convey information or prompt action. For example, a traffic light signal is used to indicate when it is safe or not safe to proceed while driving, a fire alarm signal is used to alert people of a fire, and a text message notification signal is used to let someone know they have received a message.\n\nA signal is typically used to communicate a specific message or instruction.\n\nAn indicator shows the level or state of something, while a signal is used to convey a message or prompt action. An indicator provides information, while a signal prompts action or response.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b0efa2d4-7ffa-4945-8ee5-326170d3ca3a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Now, I know it seems really obvious, but when you're having a conversation with someone you suspect of deception, attitude is by far the most overlooked but telling of indicators. An honest person is going to be cooperative. They're going to show they're on your side. They're going to be enthusiastic. They're going to be willing and helpful to getting you to the truth.",
+            "Title": "How to spot a liar PIPE...",
+            "VideoId": "P_6vDLq64gE",
+            "Controls": "start=614"
+        },
+        {
+            "Text": " So fear is your friend. Fear is an indicator. Sometimes it shows you what you shouldn't do. More often than not it shows you exactly what you should do. And the best results that I've had in life, the most enjoyable times, have all been from asking a simple what's the worst that can happen? Especially with fears you gained when you were a child.",
+            "Title": "Smash fear, learn...",
+            "VideoId": "iPE2_iCCo0w",
+            "Controls": "start=908"
+        },
+        {
+            "Text": " And scientists are currently studying birds like cormorants, and other seabirds in this area. For how they've accumulated the toxic chemicals coming out of plastic. They're fantastic indicators of what the ecosystem is showing in terms of pollution. And it's such a shame because these are really, really important breeding sites",
+            "Title": "Finding Baby Seals on an...",
+            "VideoId": "whGoI0L_TLM",
+            "Controls": "start=645"
+        },
+        {
+            "Text": " Number two is lifestyle. Don't smoke, don't be obese, and prescreen -- get rid of about two-thirds of early cancers and cardiovascular disease. The number one indicator or signal that you'll make it to triple How many people do you love? Caretaking is the security camera --",
+            "Title": "How Amazon, Apple,...",
+            "VideoId": "xRL2vVAa47I",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " create the conditions for happiness to occur in other words we create a habitat of happiness well that's interesting and he said that they have a science behind that art and they've actually created four essential pillars nine key indicators and 72 different metrics that",
+            "Title": "Measuring what makes...",
+            "VideoId": "1QUF5QfnIbc",
+            "Controls": "start=570"
+        },
+        {
+            "Text": " nozzles and the words that they share the diss each other or right down the middle so in short the project visualizes hip hop lyrics as a cultural indicator meaning how does hip-hop influence the world and how does the",
+            "Title": "Hip hop: a culture...",
+            "VideoId": "virTbOgnq4s",
+            "Controls": "start=170"
+        },
+        {
+            "Text": " Instead of a fitness indicator, scientists invoke a handicap principle. The most commonly cited example of a handicap is the peacock's tail. This beautiful but cumbersome tail doesn't exactly help the peacock",
+            "Title": "How your brain decides...",
+            "VideoId": "Wgt8QUHQjw8",
+            "Controls": "start=345"
+        },
+        {
+            "Text": " above human the reason that the comet was the indicator was that it was something that you could see anywhere in the world and he felt that the next level would give him a sign in that way",
+            "Title": "UFO-Cult Suicide PIPE...",
+            "VideoId": "nh35j2S68DQ",
+            "Controls": "start=124"
+        },
+        {
+            "Text": " Except for my son, who said, \"Well, he could have two dads.\" That's an index, an indicator of how things have changed. Younger men today expect to be able to balance work and family.",
+            "Title": "Why Gender Equality Is...",
+            "VideoId": "7n9IOH0NvyY",
+            "Controls": "start=666"
+        },
+        {
+            "Text": " and literally hundreds of indicators. Also, while some of the goals are pretty specific -- end hunger -- others are a lot vaguer -- promote peaceful and tolerant societies.",
+            "Title": "How We Can Make the...",
+            "VideoId": "o08ykAqLOxk",
+            "Controls": "start=199"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-key.webp",
+            "Text": "It's possible to spend every waking hour here on the ninth floor and not get out of the office. And this isn't the real world in here. And contrary to public opinion, I'm not incredibly poll-driven. They are an ongoing indicator of how we are going, but I take the feedback I get on the street as being the most important.",
+            "Title": "New Zealander Politician",
+            "Name": "John Key"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yogi-adityanath.webp",
+            "Text": "The BJP has decided that politics is for values and ideals, and for this, an age limit has been decided. I think that for democracy and for political parties, this is a good indicator. It will be good if all the political parties adhere to this, thereby strengthening India's democracy.",
+            "Title": "Indian Politician",
+            "Name": "Yogi Adityanath"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/padma-lakshmi.webp",
+            "Text": "I like me better naked. I don't mean that in a vain way... When you put clothes on, you immediately put a character on. Clothes are adjectives, they are indicators. When you don't have any clothes on, it's just you, raw, and you can't hide.",
+            "Title": "Indian Chef",
+            "Name": "Padma Lakshmi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/manoj-bajpayee.webp",
+            "Text": "For me, money has never been an indicator. And it is very sad that each and every film these days is being judged by the money that it makes. It's a world that I don't want to be a part of, and I try and stay away from that.",
+            "Title": "Indian Actor",
+            "Name": "Manoj Bajpayee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-ryan.webp",
+            "Text": "I often concentrate on the eyes and lips, they are great indicators of mood and feeling, and I find that I can project character into my portraits by bringing the viewer's attention to these areas.",
+            "Title": "American Actor",
+            "Name": "Robert Ryan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-isaac.webp",
+            "Text": "What you wear can be such an indicator of so many things. You know, how you feel, how you want others to perceive you. So, that is an absolutely essential part of building a character.",
+            "Title": "Guatemalan Actor",
+            "Name": "Oscar Isaac"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/igor-luksic.webp",
+            "Text": "Montenegro belongs to a rare number of countries that have managed to make progress on every internationally recognisable indicator.",
+            "Title": "Statesman",
+            "Name": "Igor Luksic"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rana-el-kaliouby.webp",
+            "Text": "A brow furrow is a very important indicator of confusion or concentration, and it can be a negative facial expression.",
+            "Title": "Egyptian Scientist",
+            "Name": "Rana el Kaliouby"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zendaya.webp",
+            "Text": "I think the way we react to things is a big indicator of our character and what type of person we are.",
+            "Title": "American Actress",
+            "Name": "Zendaya"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chelsea-clinton.webp",
+            "Text": "A tin roof is one of the greatest indicators of prosperity in the developing world.",
+            "Title": "American Celebrity",
+            "Name": "Chelsea Clinton"
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "currentWord": {
+        "wordRoot": "subscribe",
+        "id": 4465,
+        "phonemic": "səbˈskraɪb|səbˈskraɪb\r",
+        "bigId": "18f47fde-0359-486e-82d4-98054bc70981",
+        "wordForms": [
+            "subscribes",
+            "subscribing",
+            "subscribed",
+            "subscribe"
+        ]
+    },
+    "senses": [
+        {
+            "id": "18f47fde-0359-486e-82d4-98054bc70981",
+            "de": "To sign up for something, especially for an online service.",
+            "ty": "verb",
+            "ex": "I subscribe to a monthly newsletter.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subscribe to a newsletter",
+                " subscribe to a magazine",
+                " subscribe to a podcast"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/18f47fde-0359-486e-82d4-98054bc70981.webp",
+            "Tips": [
+                {
+                    "title": "Online Services",
+                    "description": "Used to indicate registering for ongoing online content.",
+                    "example": "She subscribes to an e-learning platform.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qywqhWMVuGAmfWm0HmmsKO8RBIc.webp"
+                },
+                {
+                    "title": "Recurring Payment",
+                    "description": "Implies recurring costs for continued access to a service.",
+                    "example": "You need to subscribe to keep watching your favorite shows.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1lzlnVEFBvTsipczifhx6FiDo.webp"
+                },
+                {
+                    "title": "Active Choice",
+                    "description": "Highlights a conscious decision to receive information or services regularly.",
+                    "example": "I decided to subscribe for weekly updates.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/aE8XOscCbRl6F8gAnZTH8L9MRu0.webp"
+                }
+            ]
+        },
+        {
+            "id": "abd53314-0a79-4d8b-91c1-9a42d9b28711",
+            "de": "To agree with or openly support an idea or plan.",
+            "ty": "verb",
+            "ex": "I fully subscribe to his viewpoint on environmentalism.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "subscribe to a viewpoint",
+                " subscribe to a philosophy",
+                " subscribe to an idea"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/abd53314-0a79-4d8b-91c1-9a42d9b28711.webp",
+            "Tips": [
+                {
+                    "title": "Express Agreement",
+                    "description": "Indicates alignment with an opinion, belief, or viewpoint.",
+                    "example": "Our professor subscribes to a progressive teaching method.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formality of Belief",
+                    "description": "Often used in formal discussions or to stress one's firm belief in an idea.",
+                    "example": "He subscribes to the principles of ethical business.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "70d2cbe5-30c7-4b54-8bc6-1f9b409a1cb3",
+            "de": "To pay money to support something and receive regular copies of a magazine or access to a service.",
+            "ty": "verb",
+            "ex": "I subscribe to a monthly online music streaming service.",
+            "use": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subscribe to a service",
+                " subscribe to a publication",
+                " subscribe to a channel"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/70d2cbe5-30c7-4b54-8bc6-1f9b409a1cb3.webp",
+            "Tips": [
+                {
+                    "title": "Continuous Access",
+                    "description": "Suggests regular and uninterrupted access to a product or content.",
+                    "example": "If you subscribe today, you'll receive monthly exclusives.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subscription Benefits",
+                    "description": "Implies that subscription may offer special privileges over non-subscribers.",
+                    "example": "Subscribers get additional features unavailable to free users.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": ""
+        },
+        {
+            "id": "3ff6313e-817f-49a2-b95e-9a0ad104cca4",
+            "de": "To guarantee or donate money for a cause.",
+            "ty": "verb",
+            "ex": "She subscribes $50 each year to her favorite charity.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subscribe to a charity",
+                " subscribe to a cause",
+                " subscribe a sum"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3ff6313e-817f-49a2-b95e-9a0ad104cca4.webp",
+            "Tips": [
+                {
+                    "title": "Charitable Support",
+                    "description": "Highlights a monetary commitment to support a charitable organization.",
+                    "example": "They subscribe $100 annually to the wildlife fund.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Pledging Funds",
+                    "description": "Indicates a promise to donate a fixed amount regularly.",
+                    "example": "Her family subscribes a large sum to the research institute.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Support Intention",
+                    "description": "Conveys a long-term intent to support a cause financially.",
+                    "example": "By subscribing, you express your ongoing support for our mission.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Endorse": {
+            "wordRoot": "Endorse",
+            "wordDefinition": "Endorse means to give approval or support to something or someone. For example, a famous athlete may endorse a certain brand of sports equipment, meaning they publicly support and recommend it.\n\nEndorse is about showing approval or support, while subscribe is about signing up for something that you want to receive regularly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d6371da8-9f69-4d21-bebb-f06a8cfd4a80.webp"
+        },
+        "Enrol": {
+            "wordRoot": "Enrol",
+            "wordDefinition": "Enrol usually refers to the act of registering for a course or program, such as enrolling in school or enrolling in a fitness class.\n\nIn summary, enrolment is about becoming a part of a program or system, while subscription is about regularly receiving content or updates from a source.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8095a02-be46-4a15-8c2b-6ac1bdb44d5f.webp"
+        },
+        "Follow": {
+            "wordRoot": "Follow",
+            "wordDefinition": "Follow means to keep track of someone or something on a social media platform, such as Instagram or Twitter.\n\nYou can follow your friends, family, or celebrities to see their posts and updates.\n\nFollow is applicable on social media platforms to stay updated with specific users, while subscribe is applicable on websites and channels to receive their content.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/01575a03-5599-48f3-b203-72bbbc0e6547.webp"
+        },
+        "Join": {
+            "wordRoot": "Join",
+            "wordDefinition": "Join means to become a member of a group or organization. For example, you can join a club, a team, or a cult, and this means that you are now a part of that group.\n\nTo summarize, when you join something you become a part of it, while when you subscribe to something you are signing up to receive something on a regular basis.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/651ee729-0924-4676-a5fc-51b387f27e36.webp"
+        },
+        "Register": {
+            "wordRoot": "Register",
+            "wordDefinition": "Register usually means to sign up or create an account on a website, app or service. It involves providing your personal information like your name, email address, phone number, etc.\n\nMost often, when you subscribe to something, you'll be asked to register first in order to create your account.\n\nYou register when you want to create an account, and subscribe when you want to pay for a product or service.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3d315ee-352d-4337-a592-7a5c9a8f9a0f.webp"
+        },
+        "Sign up": {
+            "wordRoot": "Sign up",
+            "wordDefinition": "The words sign up and subscribe both mean joining something but they are used differently.\n\nSign up is when you are registering or enrolling yourself for something. For example, if you want to participate in a sports team, you need to sign up to become a member of the team.\n\nSubscribe is when you accept to regularly receive something, such as a magazine or a newsletter. For example, if you want to receive updates from a YouTube channel, you need to subscribe to it.\n\nSign up is applicable when you want to register or enroll for something, while subscribe is applicable when you want to accept regular updates or content from something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9d17b8ea-605b-4aa7-9b17-cd31aed99332.webp"
+        },
+        "Support": {
+            "wordRoot": "Support",
+            "wordDefinition": "Support means to provide assistance or encouragement, usually in a financial or emotional sense. This is applicable when you want to help an individual or organization by donating money, time or resources, or by showing your approval for their actions or beliefs.\n\nSubscribe is about receiving content while support is about providing help or encouragement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f630745-f3a5-4454-92eb-c75d98a5f411.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " It's a bit too big, and it hasn't actually allowed these things like dynamic venture capital and commercialization to actually be able to really be as fruitful as it could. And even really respectable newspapers, some that I'm actually subscribed to, the words they use are, you know,",
+            "Title": "Mariana Mazzucato:...",
+            "VideoId": "3r1IPsldbBg",
+            "Controls": "start=159"
+        },
+        {
+            "Text": " I subscribe to New Scientist, and recently they had an article about how the U.S. Army was training bumblebees to sniff out explosives. So I said to a nurse, 'Did you know that the U.S. Army is training bumblebees to sniff out explosives?' When I read my medical notes, I saw they'd",
+            "Title": "Strange answers to the...",
+            "VideoId": "xYemnKEKx0c",
+            "Controls": "start=367"
+        },
+        {
+            "Text": " It's true. So like we said, the early years were really wonderful, but they were also really difficult. And we feel like some of that difficulty was because of this false advertisement around parenting. We subscribed to a lot of magazines, did our homework,",
+            "Title": "Rufus Griscom and Alisa...",
+            "VideoId": "12OAr0lt4bk",
+            "Controls": "start=107"
+        },
+        {
+            "Text": " really popular hair spray deodorant pet food cigarettes tanning lotion cockroach killer icy hot instant hot chocolate and about 85 other things I would love to make episodes about all that stuff but I need your help first subscribe I don't know where the",
+            "Title": "Thank You for Watching!...",
+            "VideoId": "fyk9PDNXc8c",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " I want to end by applying the idea of Middle World to our perceptions of each other. Most scientists today subscribe to a mechanistic view of the we're the way we are because our brains are wired up as they are, our hormones are the way they are.",
+            "Title": "Why the universe seems...",
+            "VideoId": "1APOxsp1VFw",
+            "Controls": "start=1135"
+        },
+        {
+            "Text": " It's how well a person reacts to the inevitability of change, and lots of it. That's the single most important determinant for me. I subscribe to the belief that adaptability itself is a form of intelligence, and our adaptability quotient, or AQ,",
+            "Title": "3 ways to measure your...",
+            "VideoId": "xJM_CQN8-ns",
+            "Controls": "start=64"
+        },
+        {
+            "Text": " said that it's a lot harder to convince people you're sane than it is to convince if you're crazy yes I thought the best way to stay normal would be to talk to people normally about normal things like football or what's on TV I subscribed to",
+            "Title": "Strange answers to the...",
+            "VideoId": "TLPQ765VS6E",
+            "Controls": "start=354"
+        },
+        {
+            "Text": " missing you so much and subscribe and I said before baby this is for you and for your daughter someday and for all the daughters of the world join me in showing to the world that we Filipino women are not servants of the world we",
+            "Title": "Speaking out against...",
+            "VideoId": "FHNoShY7O_8",
+            "Controls": "start=467"
+        },
+        {
+            "Text": " and it's awesome oh hey there sexy whoa some do it every day as you can tell we love this channel and want to bring you more amazing videos so subscribe to earth unplugged and let us explain why the natural world is awesome",
+            "Title": "The Natural World is...",
+            "VideoId": "vl6dp3Bv0OE",
+            "Controls": "start=73"
+        },
+        {
+            "Text": " My mom never subscribed to that. She was always proud of her age. As a matter of fact, she believes you may not tell your age, but your hands and your neck will. So make peace with aging,",
+            "Title": "How to Discover Your...",
+            "VideoId": "7vqnazqmceQ",
+            "Controls": "start=280"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/m-j-rose.webp",
+            "Text": "I know one writer who has been subscribing authors without their permission and sending out what she thinks are helpful advice sheets, but they come off as if she's a know-it-all. She thinks she's marketing herself and her work. All she's really doing is turning readers off.",
+            "Title": "American Author",
+            "Name": "M. J. Rose"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marco-arment.webp",
+            "Text": "Instapaper does support paywall sites. I have a list of them, that when someone saves something it sends a copy of the page as they are viewing it only to them. If you subscribe to a paid site, you can save the content. I'm not really touching the money.",
+            "Title": "American Businessman",
+            "Name": "Marco Arment"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/salman-khurshid.webp",
+            "Text": "We are not a country that subscribes to policing any part of the world. The areas we are comfortable with are capacity building, intelligence sharing, exchange of ships, call on each other's ports, joint training and exercises.",
+            "Title": "Indian Politician",
+            "Name": "Salman Khurshid"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-j-fox.webp",
+            "Text": "I don't subscribe to any particular doctrine or ideology. I just think that there's kind of a good and bad, the good being life in its purest, happiest form, and the other being the darker side of existence.",
+            "Title": "Canadian Actor",
+            "Name": "Michael J. Fox"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judith-martin.webp",
+            "Text": "Etiquette does not render you defenseless. If it did, even I wouldn't subscribe to it. But rudeness in retaliation for rudeness just doubles the amount of rudeness in the world.",
+            "Title": "American Author",
+            "Name": "Judith Martin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-biden.webp",
+            "Text": "Look, freedom is an overwhelming American notion. The idea that we want to see the world, the peoples of the world free is something that all of us subscribe to.",
+            "Title": "American President",
+            "Name": "Joe Biden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/natalie-jeremijenko.webp",
+            "Text": "The idea that there is a rational truth out there that is not embodied in a person's politics is something I can't understand or subscribe to.",
+            "Title": "Australian Artist",
+            "Name": "Natalie Jeremijenko"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-e-grant.webp",
+            "Text": "The movies are something that I've been obsessed with, and I've subscribed to movie magazines all my life, since I was a child.",
+            "Title": "British Actor",
+            "Name": "Richard E. Grant"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lecrae.webp",
+            "Text": "If you subscribe to any moral code that says you should care for humanity, obviously black people will fit into that category.",
+            "Title": "American Musician",
+            "Name": "Lecrae"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/valerie-plame.webp",
+            "Text": "I do not subscribe to the 'Trump is crazy like a fox' thing. I think that's being too generous.",
+            "Title": "American Writer",
+            "Name": "Valerie Plame"
+        }
+    ]
+}

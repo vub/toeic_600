@@ -1,0 +1,349 @@
+{
+    "currentWord": {
+        "wordRoot": "yield",
+        "id": 6113,
+        "phonemic": "jiːld|jiːld\r",
+        "bigId": "32e8d641-bbe4-4dd2-9239-d1f660d6c72d",
+        "wordForms": [
+            "yields",
+            "yielding",
+            "yielded",
+            "unyielding",
+            "yield"
+        ]
+    },
+    "senses": [
+        {
+            "id": "32e8d641-bbe4-4dd2-9239-d1f660d6c72d",
+            "de": "To produce or provide something as a result",
+            "ty": "verb",
+            "ex": "The orchard can yield a substantial amount of fruit each year.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/32e8d641-bbe4-4dd2-9239-d1f660d6c72d.webp",
+            "Tips": [
+                {
+                    "title": "Result Oriented",
+                    "description": "Used when something leads to a result or outcome, especially in business or science contexts.",
+                    "example": "The research will yield new insights into climate change.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ANultzPfJ4Eshu6DgpbEZsSKjI.webp"
+                },
+                {
+                    "title": "Active Process",
+                    "description": "Implies an ongoing action – something that is actively yielding results, not just once.",
+                    "example": "This strategy could yield benefits for years to come.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/T0EQZsRT2WC8kIDrOyFHXWKZnI.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e0f997e5-b539-41f3-85e2-a81b7739f9af",
+            "de": "To give up power, control or territory to someone else",
+            "ty": "verb",
+            "ex": "The king was forced to yield his crown to his younger brother.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e0f997e5-b539-41f3-85e2-a81b7739f9af.webp",
+            "Tips": [
+                {
+                    "title": "Power Shift",
+                    "description": "Describes a situation where there’s a transfer of authority, often in politics or social contexts.",
+                    "example": "After negotiations, the general agreed to yield command.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reluctant Agreement",
+                    "description": "Suggests reluctant acceptance, or giving in under pressure rather than voluntary action.",
+                    "example": "He would not yield to their demands despite the pressure.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e1eb6cc3-8f7d-4a24-935f-575f1136e6b7",
+            "de": "The total amount produced or supplied",
+            "ty": "noun",
+            "ex": "The crop's yield was significantly lower this year because of the drought.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e1eb6cc3-8f7d-4a24-935f-575f1136e6b7.webp",
+            "Tips": [
+                {
+                    "title": "Measurement Value",
+                    "description": "Refers to quantifying what has been produced, commonly used in agriculture and manufacturing.",
+                    "example": "Farmers discussed ways to increase the yield of wheat per acre.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Performance Indicator",
+                    "description": "Considered a key indicator of performance, efficiency or success in producing something.",
+                    "example": "Technicians celebrated the high yield of the new machine.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "86c63e5e-89fc-4390-8c04-49efec17065f",
+            "de": "To stop and allow others to move first",
+            "do": "Transportation",
+            "ty": "verb",
+            "ex": "Always yield to pedestrians at the crosswalk.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "yield to pedestrians",
+                " yield at intersection",
+                " yield right of way"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/86c63e5e-89fc-4390-8c04-49efec17065f.webp",
+            "Tips": [
+                {
+                    "title": "Road Safety",
+                    "description": "Emphasizes the importance of safety and courtesy on the roads, often in driving instructions.",
+                    "example": "Yield signs at intersections help prevent accidents.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Right of Way",
+                    "description": "Reminds drivers to allow another road user to go first; often legally required in traffic.",
+                    "example": "You must yield the right of way to emergency vehicles.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "b7986985-bcb9-41bc-a159-d16f8c91adcb",
+            "de": "The amount of profit gained from an investment or treasury",
+            "do": "Financial",
+            "ty": "noun",
+            "ex": "The bond has a yield of 5 percent.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "yield on investment",
+                " yield of bond",
+                " high yield"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b7986985-bcb9-41bc-a159-d16f8c91adcb.webp",
+            "Tips": [
+                {
+                    "title": "Financial Performance",
+                    "description": "Indicates profitability, especially in the context of investments or financial products.",
+                    "example": "Investors are looking for stocks with a steady yield.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Investment Priority",
+                    "description": "Signals the value or priority given to the return of an investment; high-yield options are sought after.",
+                    "example": "Her portfolio is focused on high-yield bonds.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Bear": {
+            "wordRoot": "Bear",
+            "wordDefinition": "Bear means to endure or tolerate something, or to carry the weight of something.\n\nIt can also refer to an animal with shaggy fur and sharp claws. For example, \"I can't bear the thought of losing my family\" or \"The bear lumbered through the forest.\".\n\nThese words are used in different contexts, and their meanings can't be interchanged. Bear is used when talking about withstanding something or carrying something, while yield is used when talking about giving way or producing something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74627720-6298-4396-9373-2d88d4ad4fd8.webp"
+        },
+        "Concede": {
+            "wordRoot": "Concede",
+            "wordDefinition": "Concede means to admit defeat or to acknowledge that someone else is right.\n\nIt is typically used when someone is giving up an argument or position. For example, \"I concede that you were right about the answer.\".\n\nConcede refers to admitting defeat while yield refers to backing down. The best word to use will depend on the specific situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f079101d-524b-41bd-937e-4dc0dccee8c2.webp"
+        },
+        "Deliver": {
+            "wordRoot": "Deliver",
+            "wordDefinition": "Deliver means to transport or bring goods or services to a person or place. It is applicable in situations where a physical object or service needs to be brought to someone or somewhere, such as delivering a package or delivering goods to a store.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af460534-3278-47eb-afbd-fa9a61532406.webp"
+        },
+        "Furnish": {
+            "wordRoot": "Furnish",
+            "wordDefinition": "Furnish means to provide or supply something, often furniture or equipment, that will be useful or needed.\n\nIt is usually used in relation to a physical object or item. For example, a new apartment may need to be furnished with a bed or a table.\n\nFurnish applies to providing physical objects or equipment, while yield applies to giving up something or producing a result.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/efc1ad7a-a919-4729-ab5d-846a85df671d.webp"
+        },
+        "Generate": {
+            "wordRoot": "Generate",
+            "wordDefinition": "Generate means to produce, create or bring about something new, while yield means to produce or give out as a result of effort, work or pressure.\n\nFor example, a power plant generates electricity by converting fuel into energy. A fruit tree yields fruit when it is properly tended and cared for.\n\nGenerate is applicable when something new is created or produced, while yield is applicable when something is produced or given out as a result of effort or natural growth.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1dc2e615-7611-4f93-8979-65f2cd86afca.webp"
+        },
+        "Give": {
+            "wordRoot": "Give",
+            "wordDefinition": "Both give and yield mean to provide or surrender something.\n\nHowever, give is generally used in instances where the action is voluntary or intentional. For example, \"I gave him a book as a gift.\".\n\nGive implies a deliberate action while yield implies a more natural outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a61cc3f9-24c6-44d9-8743-000a68650bcf.webp"
+        },
+        "Produce": {
+            "wordRoot": "Produce",
+            "wordDefinition": "Produce means to create or make something. For example, a farmer produces crops, a manufacturer produces goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f3d8afc-8641-4c33-b842-4574559c5bb7.webp"
+        },
+        "Provide": {
+            "wordRoot": "Provide",
+            "wordDefinition": "Provide means to give or supply something, usually something that is needed or requested. For example, a teacher might provide his students with books for their course.\n\nProvide refers to actively giving or supplying something, while yield refers to something being produced as a natural or passive result.\n\nBoth words can be used in a variety of contexts and are generally interchangeable, but provide emphasizes the active role of the provider while yield emphasizes the natural outcome of a situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d71cc57f-96fe-4745-96ed-b60c61cf682b.webp"
+        },
+        "Submit": {
+            "wordRoot": "Submit",
+            "wordDefinition": "Both submit and yield mean to give in or surrender in some way, but they are used in slightly different situations.\n\nSubmit typically means to send or hand over something, like a form or an idea. For example, you might submit a job application or submit an essay to your teacher.\n\nSubmit is more often used in formal contexts (like submitting a form), while yield is used in both formal and everyday communication (like yielding to another driver on the road).",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/84874d85-77c2-4303-99be-7187ba5565ac.webp"
+        },
+        "Supply": {
+            "wordRoot": "Supply",
+            "wordDefinition": "Supply means the amount of a product or service that is available for people to buy or use.\n\nIn other words, supply refers to how much of something is available, while yield refers to how much of something is produced or provided.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f7e92a9c-75e5-4df6-94ba-00758c5a54d9.webp"
+        },
+        "Surrender": {
+            "wordRoot": "Surrender",
+            "wordDefinition": "Surrender means to give up completely, usually in a situation where a person or group has no choice but to stop fighting or resisting.\n\nIn simpler terms, surrender means giving up completely while yield means compromising or conceding to a certain extent.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a0619e96-d509-4b9d-bf56-12d4f832b98d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " The answer is to enable cars to come in from that side road safely. Because there are a lot of people who might live up there and if they're waiting forever a long queue could form because the cars aren't slowing down on the main road. Can that be accomplished with existing signs? So, there is a long history of stop signs and yield signs.",
+            "Title": "Gary Lauder's new...",
+            "VideoId": "qlty0OPcU6k",
+            "Controls": "start=168"
+        },
+        {
+            "Text": " sauce armed with the information that I just shared they're challenging the status quo they're employing practices from around the world the results demonstrate the opportunity over the past twelve months their tomato yield is up twenty percent they use two billion gallons less water and their costs are",
+            "Title": "Andy Ruben: Making...",
+            "VideoId": "gSds-g_ZGNs",
+            "Controls": "start=211"
+        },
+        {
+            "Text": " had yielded its original function to now serve as a surface for swaying stacks of books. Just like the rest of my family, my grandfather's favorite thing to do in the whole world was to read. But he also loved his congregation, and you could feel this love in the sermons that he gave",
+            "Title": "The power of introverts...",
+            "VideoId": "c0KYU2j0TM4",
+            "Controls": "start=855"
+        },
+        {
+            "Text": " but we'd better not, because it's ecologically a very, very dangerous thing to do. Instead, we maybe want to freeze the footprint of agriculture and farm the lands we have better. This is work that we're doing to try to highlight places in the world where we could improve yields",
+            "Title": "Jonathan Foley: The...",
+            "VideoId": "1US4jjWtua8",
+            "Controls": "start=691"
+        },
+        {
+            "Text": " Despite six months of double checking, the bizarre discovery refused to yield. But rather than celebrating a physics revolution, the researchers published a cautious paper arguing for continued research in an effort to explain the observed anomaly.",
+            "Title": "Is there a reproducibilit...",
+            "VideoId": "FpCrY7x5nEE",
+            "Controls": "start=18"
+        },
+        {
+            "Text": " Milk drinkers worldwide consume dairy from buffalo, goats, sheeps, camels, yaks, horses, and cows. Almost all of these species are ruminants, a type of mammal with four-chambered stomachs that yield large quantities of milk.",
+            "Title": "The science of milk -...",
+            "VideoId": "xmNzUEmFZMg",
+            "Controls": "start=115"
+        },
+        {
+            "Text": " often talk about how their illness has yielded them a new perspective. The main question that I've been asked since I arrived at this conference when I said I would talk about infidelity is, for or against? I said, \"Yes.\"",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=1213"
+        },
+        {
+            "Text": " Luna is a young dolphin and as such a little bit more motivated. She she likes to play, to investigate things, and she's very eager to please the trainers. Each run of the experiment yields different results.",
+            "Title": "Super Smart Dolphin...",
+            "VideoId": "KMZ7oOCXfP8",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " will yield 'ozo' if the hypothetical question is true and 'ulu' if it's false regardless of what each word actually means. Unfortunately, this doesn't help us with Arr.",
+            "Title": "Can you solve the three...",
+            "VideoId": "LKvjIsyYng8",
+            "Controls": "start=161"
+        },
+        {
+            "Text": " A wise leader knows when to yield",
+            "Title": "Hyenas Fight Lions For...",
+            "VideoId": "UYQE_yIPG24",
+            "Controls": "start=84"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-m-nixon.webp",
+            "Text": "We are not spending the Federal Government's money, we are spending the taxpayer's money, and it must be spent n a way which guarantees his money's worth and yields the fullest possible benefit to the people being helped.",
+            "Title": "American President",
+            "Name": "Richard M. Nixon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-wilde.webp",
+            "Text": "Do you really think it is weakness that yields to temptation? I tell you that there are terrible temptations which it requires strength, strength and courage to yield to.",
+            "Title": "Irish Poet",
+            "Name": "Oscar Wilde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bertrand-russell.webp",
+            "Text": "Freedom comes only to those who no longer ask of life that it shall yield them any of those personal goods that are subject to the mutations of time.",
+            "Title": "British Philosopher",
+            "Name": "Bertrand Russell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/errol-morris.webp",
+            "Text": "I think an interview, properly considered, should be an investigation. You shouldn't know what the interview will yield. Otherwise, why do it at all?",
+            "Title": "American Director",
+            "Name": "Errol Morris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-keller.webp",
+            "Text": "Self-pity is our worst enemy and if we yield to it, we can never do anything wise in this world.",
+            "Title": "American Author",
+            "Name": "Helen Keller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/quintilian.webp",
+            "Text": "When defeat is inevitable, it is wisest to yield.",
+            "Title": "Roman Educator",
+            "Name": "Quintilian"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cleopatra.webp",
+            "Text": "My honour was not yielded, but conquered merely.",
+            "Title": "Egyptian Royalty",
+            "Name": "Cleopatra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/b-c-forbes.webp",
+            "Text": "A shady business never yields a sunny life.",
+            "Title": "Scottish Journalist",
+            "Name": "B. C. Forbes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pindar.webp",
+            "Text": "Even wisdom has to yield to self-interest.",
+            "Title": "Greek Poet",
+            "Name": "Pindar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/horace.webp",
+            "Text": "We are free to yield to truth.",
+            "Title": "Roman Poet",
+            "Name": "Horace"
+        }
+    ]
+}

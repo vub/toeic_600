@@ -1,0 +1,312 @@
+{
+    "currentWord": {
+        "wordRoot": "disturb",
+        "id": 14583,
+        "phonemic": "dɪˈstɜːb|dɪˈstɜːrb\r",
+        "bigId": "8f48e628-b8cd-403c-ba42-06bdbdd67fab",
+        "wordForms": [
+            "disturbs",
+            "disturbing",
+            "disturbed",
+            "undisturbed",
+            "disturb"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8f48e628-b8cd-403c-ba42-06bdbdd67fab",
+            "de": "To interrupt or bother someone or something",
+            "ty": "verb",
+            "ex": "Please do not disturb her, she is studying right now.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "do not disturb",
+                " disturb the peace",
+                " disturb sleep"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8f48e628-b8cd-403c-ba42-06bdbdd67fab.webp",
+            "Tips": [
+                {
+                    "title": "Request Politeness",
+                    "description": "Used when asking for quiet or non-interruption in a polite or formal way.",
+                    "example": "The sign on the door says 'Please do not disturb.'\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jbu8q8eR8anpKRVaG5qpfYrGi8.webp"
+                },
+                {
+                    "title": "Cultural Respect",
+                    "description": "In some cultures, it's very disrespectful to disturb elders or people in authority.",
+                    "example": "Out of respect, the students remained silent not to disturb the master.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HNAsCxeISbyJl1Z9J22Rr4MwNHU.webp"
+                }
+            ]
+        },
+        {
+            "id": "8e0c5ccc-f01f-4ae6-8fb9-39d0c31d322a",
+            "de": "To cause someone to feel upset, worried, or uneasy",
+            "ty": "verb",
+            "ex": "The news about the accident really disturbed him.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "disturb one's peace",
+                " disturb one's mind",
+                " disturb one's rest"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8e0c5ccc-f01f-4ae6-8fb9-39d0c31d322a.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Impact",
+                    "description": "Often relates to news or events that negatively affect a person’s emotions.",
+                    "example": "The gloomy weather seemed to disturb his normally cheerful mood.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Boundaries",
+                    "description": "When personal thoughts or feelings are intruded upon by external factors.",
+                    "example": "Discovering the diary was read disturbed her deeply.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "06c10903-4b47-4136-bae3-1f1b8abc5ba1",
+            "de": "To move or shift out of its usual or regular place",
+            "ty": "verb",
+            "ex": "They were asked not to disturb the ancient remains.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "disturb the balance",
+                " disturb the order",
+                " disturb the arrangement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/06c10903-4b47-4136-bae3-1f1b8abc5ba1.webp",
+            "Tips": [
+                {
+                    "title": "Physical Alteration",
+                    "description": "Refers to changing the position or condition of a physical object or space.",
+                    "example": "Please avoid disturbing the items on the desk, they're arranged for a reason.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Environmentally Sensitive",
+                    "description": "Used in the context of environmental conservation to avoid harm.",
+                    "example": "Tourists are warned not to disturb the natural habitats.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3ab72e53-37c7-4609-8723-3a8cee3da402",
+            "de": "To upset or interfere with the normal state or progression of something",
+            "ty": "verb",
+            "ex": "Overfishing has seriously disturbed the balance of marine life.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "disturb the balance",
+                " disturb the harmony",
+                " disturb the flow"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3ab72e53-37c7-4609-8723-3a8cee3da402.webp",
+            "Tips": [
+                {
+                    "title": "System Disruption",
+                    "description": "Often used when talking about interrupting processes, routines, or systems.",
+                    "example": "Striking workers disturbed the company’s daily operations.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Balance Importance",
+                    "description": "Indicates the importance of maintaining stability in various systems or situations.",
+                    "example": "The new policy disturbed the balance of power in the organization.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Agitate": {
+            "wordRoot": "Agitate",
+            "wordDefinition": "Agitate means to stir up or cause someone to be excited or upset about a particular issue or situation. It is a deliberate action taken to provoke emotions or reactions in people, for example, agitating for social justice or equal rights.\n\nAgitate is more about intentional actions to cause a reaction, and disturb is more about unintentional actions that cause an interruption in someone's calm or comfort.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d362e720-5e93-4c5a-8796-b9a5a88174ea.webp"
+        },
+        "Alarm": {
+            "wordRoot": "Alarm",
+            "wordDefinition": "Alarm means to create a sense of danger or urgency, to warn someone about a potential threat or danger. For example, smoke alarm warns people about a fire, an alarm clock warns people to wake up.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/87f77f08-2e66-43c3-a9da-36f16b6fc51d.webp"
+        },
+        "Annoy": {
+            "wordRoot": "Annoy",
+            "wordDefinition": "Annoy means to irritate or bother someone, usually in a mild or temporary way. For example, a sibling may annoy you by tapping their foot loudly while you're trying to study.\n\nBoth words describe actions that affect someone negatively, but annoy is generally less serious and more temporary, while disturb is more serious and long-lasting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20fced07-aad2-4888-b76e-710e3027474b.webp"
+        },
+        "Disrupt": {
+            "wordRoot": "Disrupt",
+            "wordDefinition": "Disrupt and disturb both mean to interrupt or cause an upset in something.\n\nDisrupt is a stronger word and describes a situation where something is completely thrown off course. For example, if a power outage disrupts a concert, it means the entire event is cancelled or at least delayed significantly.\n\nDisrupt is used when something is completely thrown off course, while disturb is used for a more mild interruption.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2e8c5a2b-9506-43e7-91d8-f74d2e55c113.webp"
+        },
+        "Irritate": {
+            "wordRoot": "Irritate",
+            "wordDefinition": "Irritate means to cause annoyance, frustration, or anger in someone. It often refers to something that is repeated or ongoing.\n\nFor instance: a person who constantly interrupts a conversation can irritate others. Lingering, high pitched noise emitted by construction can irritate individuals in the surrounding area.\n\nIn summary, both words involve a kind of disturbance, but disturb is about interrupting or upsetting something, while irritate is more about causing annoyance or frustration in someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6f5b398a-d220-4990-b7f7-c946c66d2509.webp"
+        },
+        "Perturb": {
+            "wordRoot": "Perturb",
+            "wordDefinition": "Perturb means to make someone worried, anxious or upset, causing them to feel emotionally unsettled.\n\nBoth words refer to disruptions or disturbances, but disturb is generally used for physical or environmental disturbances, while perturb is typically used to describe emotional or mental disturbances.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bae113a-a482-4cb0-a39b-13cbda0a7dae.webp"
+        },
+        "Pester": {
+            "wordRoot": "Pester",
+            "wordDefinition": "Pester means to repeatedly bother or annoy someone or something. This can be applicable when someone repeatedly asks for something that someone else does not want to do or getting someone's attention in an irritating way.\n\nThe main difference is that disturb is a one-time disruption, while pester is a repetitive annoyance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0630aadb-8c3a-4668-9519-f7fe80a5722c.webp"
+        },
+        "Ruffle": {
+            "wordRoot": "Ruffle",
+            "wordDefinition": "Disturb and ruffle are both verbs that mean to cause a disturbance, but their meanings differ slightly.\n\nRuffle means to cause agitation, disarrange, or irritate.\n\nExample: The wind ruffled the leaves on the trees.\n\nDisturb is more commonly used to describe disruptions to people or plans, while ruffle is more commonly used to describe disruptions to physical objects or materials.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c22de91e-84d2-4d54-b495-8cdc9d401ef9.webp"
+        },
+        "Upset": {
+            "wordRoot": "Upset",
+            "wordDefinition": "Upset means to emotionally or mentally destabilize someone.\n\nIt can describe a feeling of anger, sadness, or disappointment. For example, if someone fails a test, they may feel upset because they did not achieve what they wanted.\n\nDisturb refers to something physical or external that affects a person, while upset refers to something emotional or mental that affects a person.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad43f001-0185-408c-9575-bb8da4fdaf12.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " While criticized at the time by their respective governments for bargaining with the enemy, contemporary historical analysis shows great admiration for Kennedy's and Khrushchev's ability to diplomatically solve the crisis. But the disturbing lesson was that a slight communication error,",
+            "Title": "The history of the Cuban...",
+            "VideoId": "bwWW3sbk4EU",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " Install a properly designed bat box, one of the easiest ways to provide shelter for bats. Discourage the use of pesticides, which can harm bats when we try to feed on the insects you want to get rid of in the first place. Avoid going into caves where you might disturb hibernating bats,",
+            "Title": "The truth about bats -...",
+            "VideoId": "Z8wLQ3NCBgg",
+            "Controls": "start=278"
+        },
+        {
+            "Text": " -Right. -Yeah. We try and keep a respectful distance so we don't disturb the gorillas as they feed. Johnny, Johnny, Johnny. But suddenly a cheeky confident young male moves menacingly towards us. This is the blackback. He's the young male.",
+            "Title": "Gorilla shows Steve...",
+            "VideoId": "7QcCnB9n6L4",
+            "Controls": "start=153"
+        },
+        {
+            "Text": " so for the first few weeks they were left as undisturbed as possible and was she a good mother was she looking after them as well yeah yeah she was licking them with dedication you know and very protective is that normal would you",
+            "Title": "New-born Amur Leopards PIPE...",
+            "VideoId": "q_qmD8BIh8w",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " disturbed to find your voice to stand firm in the persuasion that there are something is worth fighting for some things that are simply not for sale there in this audience but please know there are many out there in the world",
+            "Title": "Rediscovering ourselves...",
+            "VideoId": "1X2j1E4NuJM",
+            "Controls": "start=972"
+        },
+        {
+            "Text": " london the underground fungarium collection houses over a million specimens which have come from all over the world amongst the shells of the climate-controlled collection a handful of disturbing bugs stand out",
+            "Title": "This Fungus Turns...",
+            "VideoId": "nIyu-1Jw_rg",
+            "Controls": "start=10"
+        },
+        {
+            "Text": " don't let that queen thing go to your head i don't let that clean thing go wherever i wanted to time to change it and i want to keep changing with it you got to disturb the piece when you can't get no peace",
+            "Title": "Genius: Aretha Chain of...",
+            "VideoId": "ryGpdVuuq_Y",
+            "Controls": "start=72"
+        },
+        {
+            "Text": " Now, to explain this, I need to tell you a very disturbing fact. Most of the universe's matter is not made up of atoms. You were lied to. Most of it is made up of something very, very mysterious,",
+            "Title": "What we can learn from...",
+            "VideoId": "kpzEsgSBUqc",
+            "Controls": "start=165"
+        },
+        {
+            "Text": " and that got me thinking. What was making me feel this way? My friends and family thought I was crazy because of what I did, and the images that I took were disturbing my life.",
+            "Title": "Boniface Mwangi: The day...",
+            "VideoId": "W1KIgMXPR28",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " pests disturbed by digging are soon dispatched by hundreds of razor sharp jaws the ants make a clean sweep capturing up to one hundred thousand insects in a single raid",
+            "Title": "Killer Ant Swarm...",
+            "VideoId": "OnooyOZRzkM",
+            "Controls": "start=226"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/irrfan-khan.webp",
+            "Text": "Sometimes when you're playing a very intense character, a disturbed character, you find other layers. That's much more interesting to me, rather than just playing 'intense.' I find it too boring.",
+            "Title": "Indian Actor",
+            "Name": "Irrfan Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julia-ormond.webp",
+            "Text": "That made me feel very disturbed, because it never seemed to be about how much hard work was involved. Ever. It was about... 'hazel eyes'. It does help if you can brush that stuff off.",
+            "Title": "British Actress",
+            "Name": "Julia Ormond"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gwendolyn-brooks.webp",
+            "Text": "Look at what's happening in this world. Every day there's something exciting or disturbing to write about. With all that's going on, how could I stop?",
+            "Title": "American Poet",
+            "Name": "Gwendolyn Brooks"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marina-abramovic.webp",
+            "Text": "The function of the artist in a disturbed society is to give awareness of the universe, to ask the right questions, and to elevate the mind.",
+            "Title": "Serbian Artist",
+            "Name": "Marina Abramovic"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-miller.webp",
+            "Text": "The man who is forever disturbed about the condition of humanity either has no problems of his own or has refused to face them.",
+            "Title": "American Author",
+            "Name": "Henry Miller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/farhan-akhtar.webp",
+            "Text": "I like to stay within the zone of one character. It would disturb me to break away and go into an entirely different territory.",
+            "Title": "Indian Director",
+            "Name": "Farhan Akhtar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rickie-lee-jones.webp",
+            "Text": "When I was single my career was my life, so everything I did was of grave importance and was greatly disturbing.",
+            "Title": "American Musician",
+            "Name": "Rickie Lee Jones"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-flanagan.webp",
+            "Text": "There's always been something deeply disturbing about the Abbott government's attitude to women.",
+            "Title": "Australian Novelist",
+            "Name": "Richard Flanagan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jerry-lewis.webp",
+            "Text": "Interviews are vital, but you cannot allow an interviewer to take your life and disturb it.",
+            "Title": "American Comedian",
+            "Name": "Jerry Lewis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-baker.webp",
+            "Text": "I find it kind of disturbing when people cheer when someone just gets stabbed brutally.",
+            "Title": "American Inventor",
+            "Name": "Rick Baker"
+        }
+    ]
+}

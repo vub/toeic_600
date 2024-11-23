@@ -1,0 +1,316 @@
+{
+    "currentWord": {
+        "wordRoot": "conform",
+        "id": 22284,
+        "phonemic": "kənˈfɔːm|kənˈfɔːrm\r",
+        "bigId": "ed0ab58e-cfda-45a6-ae7d-8828d790752e",
+        "wordForms": [
+            "conforms",
+            "conforming",
+            "conformed",
+            "conformist",
+            "conformists",
+            "conform"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ed0ab58e-cfda-45a6-ae7d-8828d790752e",
+            "de": "To behave according to socially accepted standards or rules.",
+            "ty": "verb",
+            "ex": "She felt the need to conform in order to be accepted by her classmates.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conform to rules",
+                " conform to expectations",
+                " conform to norms"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ed0ab58e-cfda-45a6-ae7d-8828d790752e.webp",
+            "Tips": [
+                {
+                    "title": "Social Pressure",
+                    "description": "Conform can imply changing behavior to fit in with a group.",
+                    "example": "Teenagers often feel pressured to conform to their friends' styles.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/dkj1Uxt1ErirBUownbDJPwvv8M.webp"
+                },
+                {
+                    "title": "Negative Connotation",
+                    "description": "Sometimes, 'conform' suggests a lack of individuality or submission.",
+                    "example": "Artists are known for refusing to conform to mainstream tastes.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9X69SHJPjkzQ3nASsa6eFCWWhf0.webp"
+                },
+                {
+                    "title": "Peer Influence",
+                    "description": "Conformity is often driven by the influence of peers and social circles.",
+                    "example": "At the new school, she conformed quickly to make new friends.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/99jAue9a5N6dMPRgvVGzRsWeLA.webp"
+                }
+            ]
+        },
+        {
+            "id": "933fbeca-7a83-49bf-a382-92248a277c38",
+            "de": "To match or be similar in form or nature.",
+            "ty": "verb",
+            "ex": "Your work should conform to the guidelines set by your boss.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conform to guidelines",
+                " conform to a model",
+                " conform to a pattern"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/933fbeca-7a83-49bf-a382-92248a277c38.webp",
+            "Tips": [
+                {
+                    "title": "Similarity",
+                    "description": "'Conform' indicates a change to achieve similarity with a standard or example.",
+                    "example": "His behavior slowly conformed to the company's ethical guidelines.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Alignment",
+                    "description": "Conforming often means aligning with a pre-existing format or system.",
+                    "example": "The new software conforms to the latest security protocols.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2edfe3ce-e524-4800-8aa4-eebcf2aaea89",
+            "de": "To agree or obey a law or regulation.",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "We must conform to GDPR when handling user data.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "conform to regulations",
+                " conform to law",
+                " conform to policy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2edfe3ce-e524-4800-8aa4-eebcf2aaea89.webp",
+            "Tips": [
+                {
+                    "title": "Legal Obligation",
+                    "description": "In legal contexts, 'conform' stresses the necessity to follow regulations.",
+                    "example": "Companies must conform to new tax laws effective next year.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Compliance",
+                    "description": "Conforming implies compliance often with formal or bureaucratic requirements.",
+                    "example": "All our procedures conform to industry-wide best practices.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9331f103-62e9-4fe1-816e-49a97f7a58af",
+            "de": "To make similar in form or character.",
+            "ty": "verb",
+            "ex": "They tried to conform the new students to the school's traditional values.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conform oneself",
+                " conform something to something",
+                " conform to a standard"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9331f103-62e9-4fe1-816e-49a97f7a58af.webp",
+            "Tips": [
+                {
+                    "title": "Forced Adaptation",
+                    "description": "To conform can mean to force someone or something to fit a particular mold.",
+                    "example": "The new policy aimed to conform spending habits to the budget.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Uniformity",
+                    "description": "Conforming can result in creating uniformity or eliminating differences.",
+                    "example": "The uniforms were designed to conform students to a single standard.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accept": {
+            "wordRoot": "Accept",
+            "wordDefinition": "Accept means to agree to something or to receive something willingly. For example, you might accept an apology from someone who has wronged you.\n\nWhile both words have to do with agreeing with something, they are used in different contexts. Acceptance is more personal, while conformity is more about following established rules or norms in society.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62e1ac07-7784-4922-819c-028a87b7ed7e.webp"
+        },
+        "Adhere": {
+            "wordRoot": "Adhere",
+            "wordDefinition": "Adhere means to stick to or follow a rule, law or belief. It implies a voluntary decision made by an individual.\n\nFor example, a person can adhere to a strict diet by following it carefully.\n\nAdhere suggests voluntary commitment while conform implies compliance with mandatory rules or standards.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/11a4f62d-c41b-4117-bc68-6f70dcc261f0.webp"
+        },
+        "Comply": {
+            "wordRoot": "Comply",
+            "wordDefinition": "The difference between comply and conform is that comply means to follow rules or laws, while conform means to adjust to norms or expectations.\n\nFor example, a person complies with a law by following it, but they conform to societal expectations by following trends or customs.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20acb2e9-463d-48b3-9197-3498d5c51b06.webp"
+        },
+        "Endorse": {
+            "wordRoot": "Endorse",
+            "wordDefinition": "Endorse means to publicly support or approve of something, someone or an idea. It is applicable when we express our approval, support or recommendation for a person, brand, or an idea.\n\nFor example, endorsing a political candidate, endorsing a product, endorsing a charity event.\n\nWhile both terms involve acceptance and support, conform implies an adherence to specified standards or norms while endorse involves showing approval or support for a specific person, product or idea.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d6371da8-9f69-4d21-bebb-f06a8cfd4a80.webp"
+        },
+        "Follow": {
+            "wordRoot": "Follow",
+            "wordDefinition": "Conform means to comply with rules, standards, or expectations. It implies following a set of guidelines or fitting in with a certain group or culture.\n\nFollow means to come after or go behind something/someone. It implies that there is a leader or guide, and one is simply mimicking their actions.\n\nFor example, a young child might follow their parent around the house.\n\nConform is often used when discussing rules, regulations, social norms, or cultural practices. Follow is used more in terms of physical actions or movement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/01575a03-5599-48f3-b203-72bbbc0e6547.webp"
+        },
+        "Obey": {
+            "wordRoot": "Obey",
+            "wordDefinition": "Obey implies following a specific command or order from an authority figure. For example, a child obeys their parent's instruction to do their homework.\n\nIn simpler terms, obey is following a direct order while conform is following a set of guidelines or expectations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/93135b99-f433-4cb7-b21e-e39413f146ea.webp"
+        },
+        "Observe": {
+            "wordRoot": "Observe",
+            "wordDefinition": "Observe means to notice or pay attention to something. It implies that you are simply being aware of something, without necessarily changing your behavior in response.\n\nFor example, you might observe the flight patterns of birds, without trying to change those patterns.\n\nObserve is more general, and can describe a wide range of situations where you are paying attention to something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0e18c001-2759-42df-bf7e-1afccc22756f.webp"
+        },
+        "Respect": {
+            "wordRoot": "Respect",
+            "wordDefinition": "Respect, on the other hand, refers to treating others with consideration and understanding their worth and value as individuals.\n\nIt involves showing consideration for their feelings, opinions, and beliefs, even if they differ from our own. For example, respecting someone's religious beliefs means not criticizing or making fun of them for it.\n\nConform refers to fitting into a certain set of expectations or rules, while respect refers to treating others with kindness and acknowledging their value as individuals.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3ad93369-2dc4-406e-b587-3ef22d2a896d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " every day, everywhere around us, and yet, in most parts of the world, we do not have a single drug on the market that uses this principle to combat bacterial infections? The simple answer no one has developed this kind of a drug yet, at least not one that conforms to the Western regulatory standards that set the norm for so much of the world.",
+            "Title": "How a long-forgotten...",
+            "VideoId": "tFfYh9THuGo",
+            "Controls": "start=271"
+        },
+        {
+            "Text": " The anti-hero struggles to conform, all the while starting to object, perhaps finding other outsiders with whom to voice his questions, and naïvely, unwisely, sharing those questions with an authority figure. The anti-hero openly challenges society, and tries to fight against the lies and tactics used to oppress the populace.",
+            "Title": "An anti-hero of one's...",
+            "VideoId": "MEjgDeSnBMs",
+            "Controls": "start=115"
+        },
+        {
+            "Text": " skeletal elements found in the fore limbs of land mammals they're comical stubbornness doesn't just make them great scratching aids but allows the flippers to conform to their bodies significantly reducing underwater drag powerful webbed hind flippers propel and steer them through the water large oily",
+            "Title": "Sleepy Harbour Seals and...",
+            "VideoId": "YPnZ4stsVrw",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " And I can bring that around, put that up there. Obviously, this is a standard keyboard, but of course I can rescale it to make it work well for my hands. That's really important, because there's no reason in this day and age that we should be conforming to a physical device.",
+            "Title": "Unveiling the genius of...",
+            "VideoId": "ac0E6deG4AU",
+            "Controls": "start=231"
+        },
+        {
+            "Text": " conformities a fascinating topic for a variety of reasons for one we live in a society that encourages individualistic thinking it encourages us to find our own voice and to follow our passion yet there's pervasive pressures all around us encouraging us to conform to follow",
+            "Title": "Jason Silva on Peer...",
+            "VideoId": "zNE-TMSBVfo",
+            "Controls": "start=3"
+        },
+        {
+            "Text": " are trying to allocate resources in order to protect the biosphere. Going way out, dark matter conforms to the same mycelial archetype. I believe matter begets life; life becomes single cells; single cells become strings;",
+            "Title": "6 ways mushrooms can...",
+            "VideoId": "XI5frPV58tY",
+            "Controls": "start=289"
+        },
+        {
+            "Text": " \"I want them to feel like they don't have to conceal what they love or who they are to conform\". This is Kameryn's wish for the girls she coaches as a figure skater and life role model,",
+            "Title": "Ice Breakers - Ep. 1 PIPE...",
+            "VideoId": "aiQUoMHCgjM",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " you conform to the host nation's stereotype of you, of being feckless, work-shy, destined for a life of crime. You are being watched, so confound their expectations of you.",
+            "Title": "Colin Grant: The son of...",
+            "VideoId": "05jJodDVJRQ",
+            "Controls": "start=208"
+        },
+        {
+            "Text": " and they said they wanted to honor me as one of their game-changers. Was that really game-changing? Or is it just conforming? And see, that's the problem.",
+            "Title": "Why I'm done trying to...",
+            "VideoId": "Cetg4gu0oQQ",
+            "Controls": "start=683"
+        },
+        {
+            "Text": " this idea of not conforming to the standardized time could feel a little far-fetched but it's a step towards recognizing and respecting the vastly",
+            "Title": "When is elsewhen? PIPE E...",
+            "VideoId": "GfiO-qjGLI4",
+            "Controls": "start=496"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ben-carson.webp",
+            "Text": "The government is supposed to conform to our will. By taking the most important thing you have, your health and your health care, and turning that over to the government, you fundamentally shift the power, a huge chunk of it, from the people to the government. This is not the direction that we want the government to go in this nation.",
+            "Title": "American Scientist",
+            "Name": "Ben Carson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-lennon.webp",
+            "Text": "I'm not going to change the way I look or the way I feel to conform to anything. I've always been a freak. So I've been a freak all my life and I have to live with that, you know. I'm one of those people.",
+            "Title": "English Musician",
+            "Name": "John Lennon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jessie-buckley.webp",
+            "Text": "There have been moments in my life when I've become numb to certain aspects of myself that I found frightening. Or I've conformed to certain morals of society and then maybe rebelled or found a way out.",
+            "Title": "Irish Musician",
+            "Name": "Jessie Buckley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lachlan-watson.webp",
+            "Text": "If you're building a fantasy world that exists outside of the rules of our real world, why would you write it to conform to the rules and binaries that we have today? Why still limit yourself?",
+            "Title": "American Actor",
+            "Name": "Lachlan Watson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-merton.webp",
+            "Text": "I cannot make the universe obey me. I cannot make other people conform to my own whims and fancies. I cannot make even my own body obey me.",
+            "Title": "American Author",
+            "Name": "Thomas Merton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erykah-badu.webp",
+            "Text": "I think a lot of people have lost respect for the individual, you know, the individual, the person who doesn't conform.",
+            "Title": "American Musician",
+            "Name": "Erykah Badu"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edwin-louis-cole.webp",
+            "Text": "Men cannot make Scripture conform to their lifestyle; they must make their lifestyle conform to Scripture.",
+            "Title": "American Author",
+            "Name": "Edwin Louis Cole"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noam-chomsky.webp",
+            "Text": "The respected intellectuals are those who conform and serve power interests.",
+            "Title": "American Activist",
+            "Name": "Noam Chomsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sean-durkin.webp",
+            "Text": "When I was a kid, I was afraid of large group of conforming people.",
+            "Title": "American Director",
+            "Name": "Sean Durkin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chris-thile.webp",
+            "Text": "My life conforms to music, not the other way around.",
+            "Title": "American Musician",
+            "Name": "Chris Thile"
+        }
+    ]
+}

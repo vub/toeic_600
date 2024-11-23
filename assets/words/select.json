@@ -1,0 +1,321 @@
+{
+    "currentWord": {
+        "wordRoot": "select",
+        "id": 12176,
+        "phonemic": "sɪˈlekt|sɪˈlekt\r",
+        "bigId": "bec7c491-2533-4f4d-8e48-cc704d433714",
+        "wordForms": [
+            "selects",
+            "selecting",
+            "selected",
+            "select"
+        ]
+    },
+    "senses": [
+        {
+            "id": "bec7c491-2533-4f4d-8e48-cc704d433714",
+            "de": "To carefully choose as being the best or most valuable.",
+            "ty": "verb",
+            "ex": "You have to select the right answer from the multiple choices.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "select a meal",
+                " select a gift",
+                " select a date"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bec7c491-2533-4f4d-8e48-cc704d433714.webp",
+            "Tips": [
+                {
+                    "title": "Careful Choice",
+                    "description": "Used when the act of choosing requires thoughtful consideration or criteria.",
+                    "example": "Select your career path based on your interests and strengths.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ORzM7FDqWipPKuiVN95Kbeo0a9c.webp"
+                },
+                {
+                    "title": "Not Random",
+                    "description": "Implies that the choice is not made by chance, but with a specific purpose in mind.",
+                    "example": "Select a ripe melon from the bunch; don't just grab any.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OEwChHlxLnrgSOKNPplH8jmh4U.webp"
+                },
+                {
+                    "title": "Best or Valuable",
+                    "description": "Suggests a process of picking the superior or most useful item from a group.",
+                    "example": "I need to select the best essay to submit for the competition.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EAnojFRc9VinE3lhsVOMCy8Zl4.webp"
+                }
+            ]
+        },
+        {
+            "id": "55a7cf45-5482-48f1-a92e-ab3b5def035e",
+            "de": "Specially chosen or the best of a group.",
+            "ty": "adjective",
+            "ex": "They serve only a select group of customers.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "select group",
+                " select committee",
+                " select audience"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/55a7cf45-5482-48f1-a92e-ab3b5def035e.webp",
+            "Tips": [
+                {
+                    "title": "Exclusive Group",
+                    "description": "Denotes an air of exclusivity or being part of an elite.",
+                    "example": "She was invited to a select gathering of artists and intellectuals.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Quality Implication",
+                    "description": "Often carries a positive connotation, implying high-quality or distinguished.",
+                    "example": "They were looking for candidates from select universities.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fb303ba9-2458-4660-bd8f-ba9203873975",
+            "de": "To choose a player for a team.",
+            "do": "Sports",
+            "ty": "verb",
+            "ex": "The coach will select the players for the next match today.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "select a player",
+                " select a team",
+                " select a captain"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fb303ba9-2458-4660-bd8f-ba9203873975.webp",
+            "Tips": [
+                {
+                    "title": "Team Composition",
+                    "description": "Used for the process involved in forming or assembling a team.",
+                    "example": "The school will select the debate team members by the end of this week.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Performance Based",
+                    "description": "Selection is often based on past performance or potential.",
+                    "example": "After the tryouts, coaches will select those who ran the fastest.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Skill Recognition",
+                    "description": "Highlights the recognition of one's talent or ability.",
+                    "example": "She was selected for her exceptional skill in goalkeeping.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "528968ee-3572-46b2-a9c6-9e34d5ed2e82",
+            "de": "To highlight or choose a portion of a digital text or image.",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "Select the text you want to copy and then press Ctrl+C.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "select text",
+                " select file",
+                " select option"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/528968ee-3572-46b2-a9c6-9e34d5ed2e82.webp",
+            "Tips": [
+                {
+                    "title": "Digital Action",
+                    "description": "Reflects an action performed using a computer or digital device.",
+                    "example": "Select all the files you want to delete and then click the 'trash' icon.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "User Interface",
+                    "description": "Commonly used in instructions for operating software or apps.",
+                    "example": "To change settings, select 'Options' from the main menu.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Choose": {
+            "wordRoot": "Choose",
+            "wordDefinition": "Both choose and select mean to make a decision between different options.\n\nHowever, choose generally implies a more personal or emotional decision, whereas select implies a more methodical or logical decision.\n\nFor example, you might choose a favorite color or a favorite type of music because you have a personal preference for it.\n\nChoose is applicable in more personal, subjective situations, whereas select is more appropriate in objective, logical situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2873ec52-68d0-4aab-acaa-6276c06c97a0.webp"
+        },
+        "Cull": {
+            "wordRoot": "Cull",
+            "wordDefinition": "Cull usually describes the process of removing something, usually animal or plant stock, that is weak, sick, or of poor quality.\n\nIt's basically getting rid of the unwanted or unusable things. For example, a farmer might cull a group of chickens to remove the ones that are not healthy enough to sell.\n\nCull is removing unwanted or unsuitable items, while select is choosing the best out of a group of things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f11838e6-96e6-4ece-9fa4-7812488abc02.webp"
+        },
+        "Decide": {
+            "wordRoot": "Decide",
+            "wordDefinition": "Decide means to make a choice or come to a conclusion by making a decision based on reasoning or careful consideration.\n\nFor example, if you are choosing a college to attend, you might decide which college you want to go to based on factors like the location, cost, and academic programs.\n\nIn this case, deciding is more about making a general choice, while selecting is more about choosing a specific option from a larger set of choices.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f3f7374-fce6-448c-8219-697394ecb66f.webp"
+        },
+        "Elect": {
+            "wordRoot": "Elect",
+            "wordDefinition": "Elect refers to choosing someone or something by vote, usually in regards to a representative or leader. For example, voters may elect a president, a mayor, or a student council representative.\n\nSelect, on the other hand, refers to choosing someone or something from a group based on specific criteria or preferences.\n\nFor example, a fashion designer may select certain fabrics and colors for their clothing line, or a homeowner may select a particular color of paint for their walls.\n\nElect is applicable when referring to choosing someone for a position of power or leadership, whereas select is applicable when choosing something based on specific preferences or criteria.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1ff151d9-a432-4a71-b1c0-e730c13548ca.webp"
+        },
+        "Opt": {
+            "wordRoot": "Opt",
+            "wordDefinition": "The words opt and select both refer to choosing something, but opt means to choose something based on personal preference or a specific goal, while select means to carefully choose or pick out from a range of options.\n\nFor example, if you're choosing between two dresses for a formal event, you might opt for the one that fits your personal style better or makes you feel more confident.\n\nOpt is more commonly used for personal choices, while select is often used in contexts where there are multiple options to choose from and a specific criteria or goal for the selection.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/340884d3-27da-43ab-bb40-90e0bc80cb33.webp"
+        },
+        "Pick": {
+            "wordRoot": "Pick",
+            "wordDefinition": "The main difference between the words pick and select is the level of thought and intention involved in the action.\n\nPick is a more casual and spontaneous action. It means to choose something quickly and without a lot of thought or planning.\n\nFor example, if you're at a grocery store and see some fruit you like, you might pick it up and add it to your basket without giving it too much consideration.\n\nPick is applicable when you're choosing something quickly and without a lot of thought, while select is applicable when you're choosing something carefully after considering all the options.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c6662624-fead-4c71-89d6-c1de343a966e.webp"
+        },
+        "Prefer": {
+            "wordRoot": "Prefer",
+            "wordDefinition": "Prefer means to like or want something more than something else. For example, you might prefer chocolate cake over vanilla cake.\n\nSo basically, prefer is about personal preference while select is about making a specific choice from a larger range of options.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4859f1cc-c2c5-4216-adca-62d33d40fe37.webp"
+        },
+        "Single out": {
+            "wordRoot": "Single out",
+            "wordDefinition": "The phrase single out means to choose or identify something or someone from a group and treat them differently or specially.\n\nIt suggests that someone or something is being picked out for attention, either good or bad. For example, \"The teacher singled out Mary for her excellent performance in the class.\".\n\nSelect is applicable when choosing a specific option from a group, while single out is applicable when drawing attention to one particular person or thing from a group.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9d08c98a-7361-4596-a860-95c329437ffc.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " breeders first need to find parent apples that carry those characteristics. Once the parents have been selected, they have to wait until the trees bloom in the spring. The breeder takes the pollen from one bloom, called the father, and transfers it by hand to the other parent bloom, called the mother,",
+            "Title": "Why are there so many...",
+            "VideoId": "mQePz62zkqA",
+            "Controls": "start=69"
+        },
+        {
+            "Text": " brands in the world it's getting harder to create and find a unique name so how do you create a great brand name how can you play and win the name game you start with three steps first select what type of name you want there are seven different categories of names and pretty much every brand in the",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=16"
+        },
+        {
+            "Text": " to how we raise kids. Thus, some argue that the feeling you think you feel in your soul is just biology's way to make you continue our species. Nature has selected you to have crushes on hotties, just like it makes monkeys have crushes on hot monkeys, and biology marches on.",
+            "Title": "What is love? - Brad...",
+            "VideoId": "5sY4rhvB9LE",
+            "Controls": "start=209"
+        },
+        {
+            "Text": " right luckily it's always the best matter to to make new pairs not to to select the yeah let them select and then it's really love so she will become a very important part of the mccall breeding program now and you will hope what sort of",
+            "Title": "Caring For A Sickly Baby...",
+            "VideoId": "JmN8ljG9un8",
+            "Controls": "start=213"
+        },
+        {
+            "Text": " Beauty is a work in progress. The so-called universal attributes of beauty were selected for during the almost two million years of the Pleistocene. Life was nasty, brutish and a very long time ago.",
+            "Title": "How your brain decides...",
+            "VideoId": "Wgt8QUHQjw8",
+            "Controls": "start=798"
+        },
+        {
+            "Text": " they also selected those individuals which put their energy into developing much larger seeds close relationships like this have developed all over the world producing the plants that are now",
+            "Title": "These Seeds Can Walk! PIPE...",
+            "VideoId": "NlUparIDfzE",
+            "Controls": "start=123"
+        },
+        {
+            "Text": " however counterintuitive that seems. In fact, several forest species, such as select conifers, need fire to survive. But how can fire possibly create life in addition to destroying it?",
+            "Title": "Why certain naturally...",
+            "VideoId": "cNVZEVq3KzY",
+            "Controls": "start=44"
+        },
+        {
+            "Text": " At first glance, the Arctic feels brutally devoid of life, though a select group of animals have figured out a way to thrive. But the real force here works quietly underfoot.",
+            "Title": "Wolf Pack Takes on a...",
+            "VideoId": "J3euEMWC8tg",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " for these feelings of caring the case has been made for empathy amongst just a few select species including dolphins primates and dogs",
+            "Title": "Do Animals Feel Empathy?...",
+            "VideoId": "fXUk2ylJ5YI",
+            "Controls": "start=67"
+        },
+        {
+            "Text": " At first glance the arctic feel brutally devoid of life. Though a select group of animals have figured out a way to thrive.",
+            "Title": "The Harp Seal's Race...",
+            "VideoId": "BF2TZq-ntRQ",
+            "Controls": "start=38"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "As supportive as my hometown is, in my high school, there are people who would probably walk up to me and punch me in the face. There's a select few that will never like me. They don't like what I stand for. They don't like somebody who stands for being sober, who stands for anything happy. They're going to be negative no matter what.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-michel-jarre.webp",
+            "Text": "We have lost our vision for the future. Before, we say, 'Nothing will be the same. Cars will fly, and we go to the end of the universe.' We have this kind of naive but exciting idea of the future. Now, the vision has been reduced to ways to select our garbage and how to survive global warming.",
+            "Title": "French Musician",
+            "Name": "Jean-Michel Jarre"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmy-scott.webp",
+            "Text": "There were times, I could say, later in the career, that I wished that my voice would be deeper for materials that I might've wanted to select to do. But that's the style of my voice. There's nothing I can do about the height of my voice. And so I learned to deal with it.",
+            "Title": "American Musician",
+            "Name": "Jimmy Scott"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jesse-eisenberg.webp",
+            "Text": "People think, 'You're an actor, you can afford clothes,' but I just try to take the clothes from the movie, which makes the selecting of film projects that much more difficult, because you try to play characters that might wear something you'd want to wear.",
+            "Title": "American Actor",
+            "Name": "Jesse Eisenberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-adams.webp",
+            "Text": "The difference is slight, to the influence of an author, whether he is read by five hundred readers, or by five hundred thousand; if he can select the five hundred, he reaches the five hundred thousand.",
+            "Title": "American Historian",
+            "Name": "Henry Adams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karren-brady.webp",
+            "Text": "I remember when I was young, I used to love hockey - I was selected to play for my county - and my dad said: 'Well, there's no money to be made in hockey,' and it put me off for ever.",
+            "Title": "British Public Servant",
+            "Name": "Karren Brady"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/evelyn-lauder.webp",
+            "Text": "The most helpful piece of advice that I could give to anybody is to select a charity, or create a charity, that you really feel passionate about and if you do, don't give up.",
+            "Title": "Austrian Businessman",
+            "Name": "Evelyn Lauder"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joseph-addison.webp",
+            "Text": "True happiness arises, in the first place, from the enjoyment of one's self, and in the next, from the friendship and conversation of a few select companions.",
+            "Title": "English Writer",
+            "Name": "Joseph Addison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aretha-franklin.webp",
+            "Text": "Most of what I wear, I select myself. You can't please everybody, and as long as I'm comfortable with what I wear, I think that's what's important.",
+            "Title": "American Musician",
+            "Name": "Aretha Franklin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gregory-benford.webp",
+            "Text": "Whatever the life form, evolution selects for economy of resources.",
+            "Title": "American Physicist",
+            "Name": "Gregory Benford"
+        }
+    ]
+}

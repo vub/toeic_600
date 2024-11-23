@@ -1,0 +1,70 @@
+{
+    "currentWord": {
+        "wordRoot": "stay on top of",
+        "id": 0,
+        "phonemic": "steɪ ɑːn tɑːp əv",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID",
+            "de": "To remain informed or in control of something; to keep up with the latest developments or information.",
+            "ty": "idiom",
+            "ex": "I need to stay on top of my emails so I don't miss any important deadlines.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stay on top of things",
+                "stay on top of the news",
+                "stay on top of your work",
+                "stay on top of the latest developments",
+                "stay on top of current events",
+                "struggling to stay on top of everything",
+                "managing to stay on top of the workload",
+                "it's important to stay on top of your finances"
+            ],
+            "ImageSrc": "./senses/7fc0c3fd-affe-4e44-ae6b-a995cd1d6dcc.webp",
+            "Tips": [
+                {
+                    "title": "Managing workload",
+                    "description": "Use 'stay on top of' when discussing managing a heavy workload or multiple tasks.",
+                    "example": "To stay on top of all my projects, I use a detailed to-do list and schedule regular check-ins.",
+                    "imageUrl": "./tips/0b381cbe-1667-45cb-b67c-42de819e38c3.webp"
+                },
+                {
+                    "title": "Staying informed",
+                    "description": "Use 'stay on top of' to describe keeping up-to-date with news, trends, or information.",
+                    "example": "It's crucial to stay on top of industry trends if you want to remain competitive.",
+                    "imageUrl": "./tips/23acaddd-3608-4a96-b234-4d61fc84930a.webp"
+                },
+                {
+                    "title": "Maintaining control",
+                    "description": "Use 'stay on top of' to convey being in control of a situation and preventing problems.",
+                    "example": "By staying on top of maintenance, we can avoid costly repairs in the future.",
+                    "imageUrl": "./tips/16eec7de-e1bb-481f-9c6b-83d6469ec558.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "keep up with": {
+            "wordRoot": "keep up with",
+            "wordDefinition": "'Stay on top of' emphasizes being in control and proactive, while 'keep up with' focuses on not falling behind.",
+            "wordImage": ""
+        },
+        "be aware of": {
+            "wordRoot": "be aware of",
+            "wordDefinition": "'Stay on top of' implies active engagement, while 'be aware of' simply means having knowledge of something.",
+            "wordImage": ""
+        },
+        "monitor": {
+            "wordRoot": "monitor",
+            "wordDefinition": "'Stay on top of' is more general, while 'monitor' suggests close observation and tracking.",
+            "wordImage": ""
+        }
+    }
+}

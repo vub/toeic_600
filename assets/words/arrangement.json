@@ -1,0 +1,334 @@
+{
+    "currentWord": {
+        "wordRoot": "arrangement",
+        "id": 7343,
+        "phonemic": "əˈreɪndʒmənt|əˈreɪndʒmənt\r",
+        "bigId": "78870e5d-20d1-4ccb-bf38-de06b3312745",
+        "wordForms": [
+            "arrangements",
+            "arrangement"
+        ]
+    },
+    "senses": [
+        {
+            "id": "78870e5d-20d1-4ccb-bf38-de06b3312745",
+            "de": "An agreement or plan you make for something",
+            "ty": "noun",
+            "ex": "We have an arrangement to meet at the park at 2 pm.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make an arrangement",
+                " financial arrangement",
+                " private arrangement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp",
+            "Tips": [
+                {
+                    "title": "Conditional Plan",
+                    "description": "An 'arrangement' often implies a flexible plan that might change based on conditions.",
+                    "example": "Our arrangement to see the movie depends on the weather.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/WKq0z51Kn4wzuQxQaZqtIZ8vg.webp"
+                },
+                {
+                    "title": "Mutual Understanding",
+                    "description": "'Arrangement' suggests a mutual understanding or expectation between parties.",
+                    "example": "We have an arrangement not to bring up politics at dinner.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QBRrjJueueH4xcFnPNZsVos.webp"
+                },
+                {
+                    "title": "Often Informal",
+                    "description": "This type of 'arrangement' is less formal than a contract and often made verbally.",
+                    "example": "Let's make an arrangement to split the project work.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ssfqleaiJ7l26j4k1Ay1LJFrbA.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b6234a63-e560-4acc-8491-d0781d2c25c6",
+            "de": "The way things are organized or set up",
+            "ty": "noun",
+            "ex": "The arrangement of the tables allows for a clear view of the stage.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "room arrangement",
+                " flower arrangement",
+                " seating arrangement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b6234a63-e560-4acc-8491-d0781d2c25c6.webp",
+            "Tips": [
+                {
+                    "title": "Physical Layout",
+                    "description": "'Arrangement' in this sense refers to the physical placement of items or people.",
+                    "example": "Consider the arrangement of chairs when planning the party.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Visual Impact",
+                    "description": "The visual impact or practical function is often a key aspect in this context.",
+                    "example": "The arrangement of lights made the room look larger.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ease of Access",
+                    "description": "Consider how the 'arrangement' affects movement and accessibility.",
+                    "example": "The office arrangement should allow easy access to the printer.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8ce3b2ce-a2c0-4c18-904d-1fa51cad0568",
+            "de": "A piece of music that has been adapted for performance by a particular set of voices or instruments",
+            "do": "Music",
+            "ty": "noun",
+            "ex": "The conductor created a new arrangement of the classic song for the choir.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "orchestral arrangement",
+                " band arrangement",
+                " vocal arrangement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8ce3b2ce-a2c0-4c18-904d-1fa51cad0568.webp",
+            "Tips": [
+                {
+                    "title": "Musical Adaptation",
+                    "description": "Refers to adapting a piece for performance, sometimes changing the style or mood.",
+                    "example": "The jazz arrangement of the classical piece was impressive.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Performer's Edition",
+                    "description": "May highlight an instrument or voice part not featured in the original composition.",
+                    "example": "The new arrangement puts the violins in the spotlight.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Creative License",
+                    "description": "Arrangers often use creative license to add personal touches to the music.",
+                    "example": "Her arrangement included a unique guitar solo.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6e98b888-3eb7-4b17-8985-6d66ea6293e7",
+            "de": "A thing that has been arranged in a neat or attractive way",
+            "ty": "noun",
+            "ex": "She admired the beautiful arrangement of flowers on the table.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flower arrangement",
+                " decorative arrangement",
+                " color arrangement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6e98b888-3eb7-4b17-8985-6d66ea6293e7.webp",
+            "Tips": [
+                {
+                    "title": "Artistic Display",
+                    "description": "The focus is on creating a visually attractive display, like with flowers or objects.",
+                    "example": "The centerpiece was an intricate arrangement of autumn leaves and candles.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Just Random",
+                    "description": "'Arrangement' suggests careful selection and placement, not haphazard.",
+                    "example": "Each item's placement in the arrangement had a specific purpose.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conveys Emotion",
+                    "description": "An arrangement can be designed to evoke a particular feeling or theme.",
+                    "example": "The somber arrangement of photos at the memorial was moving.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Composition": {
+            "wordRoot": "Composition",
+            "wordDefinition": "Composition refers to the creation of something new from scratch.\n\nArrangement pertains to the modification of something that already exists whereas composition pertains to inventing something new.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5d7b27c3-abab-411b-9b84-7d15a91bd703.webp"
+        },
+        "Configuration": {
+            "wordRoot": "Configuration",
+            "wordDefinition": "Arrangement and configuration are similar words that describe the way things or objects are put together or organized.\n\nConfiguration is a bit more specific, and usually refers to the shape, design or layout of something. It often implies that the arrangement of parts is vital to the functioning of the whole.\n\nFor example, the configuration of a computer network is the way the computers, wires, and other equipment are set up and connected together in order to make the network function effectively.\n\nTo summarize, arrangement is a more general term for how things are positioned or organized, while configuration refers to a specific arrangement of parts or components that makes something work the way it should.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/50a7f648-5d1d-4834-a5e1-ec1c495f7a56.webp"
+        },
+        "Design": {
+            "wordRoot": "Design",
+            "wordDefinition": "Design refers to the process of planning and creating something from scratch. This could be a graphic design, a fashion design, or even the design of a building.\n\nArrangement is about organizing existing things, while design is about creating something new. Arrangement is applicable in situations where you are working with pre-existing elements, such as arranging furniture in a room or organizing a group of people.\n\nDesign is applicable when you are starting from scratch and creating something new, such as designing a logo or building a new website.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5af82093-71d4-4dd9-88b8-a38181fc118f.webp"
+        },
+        "Layout": {
+            "wordRoot": "Layout",
+            "wordDefinition": "Layout refers to the way that elements are arranged in a printed or digital document, website, or similar item. It usually refers to the visual design of something.\n\nFor example, the layout of a magazine page, website or an office.\n\nArrangement is used for physical things while layout is for design or digital things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f8b2e039-4acc-4c54-973e-3159cccc640d.webp"
+        },
+        "Order": {
+            "wordRoot": "Order",
+            "wordDefinition": "An arrangement is how things are organized or placed in a particular order to achieve a specific goal or create a certain effect.\n\nOrder refers to a systematic or logical arrangement of things, such as in a sequence, in a hierarchy, or in a specific pattern.\n\nIt often involves following a set of rules, procedures, or principles, and is often used in scientific, numerical, or procedural contexts, such as in alphabetical order, chronological order, or numerical order.\n\nArrangement is more subjective and artistic, while order is more objective and logical. Both terms are useful depending on the context and purpose of the situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc50fd79-d055-4244-a872-8cdade011ffc.webp"
+        },
+        "Organization": {
+            "wordRoot": "Organization",
+            "wordDefinition": "Organization refers to the overall structure or system that governs how things work together. It involves planning and coordinating people, resources, or tasks to achieve a specific goal.\n\nFor example, a company has an organizational structure that determines the roles and responsibilities of its employees, while a project requires good organization to allocate resources, manage time and budget, and track progress.\n\nArrangement is about how things are physically placed, while organization is about how things are managed and structured to achieve a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2366d93d-1c4c-4dde-9278-1078efab1c64.webp"
+        },
+        "Plan": {
+            "wordRoot": "Plan",
+            "wordDefinition": "An arrangement is a specific way things are organized or arranged, while a plan is a detailed proposal for achieving a particular goal.\n\nA plan is applicable when it refers to the strategy or method by which a specific objective or outcome is achieved, for example, a business plan, a study plan, or a vacation plan.\n\nAn arrangement is about how things are organized or laid out, while a plan is about how to achieve a specific goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9400d7b7-c746-474a-9b35-7ea1c6436540.webp"
+        },
+        "Scheme": {
+            "wordRoot": "Scheme",
+            "wordDefinition": "A scheme refers to a plan or a project that can be devised for a particular purpose or to achieve a particular goal.\n\nA scheme is applicable in situations where a plan is needed to achieve a specific outcome, such as a business scheme to improve profits or a government scheme to provide free healthcare to citizens.\n\nIn other words, an arrangement is about how things are organized or set up, while a scheme is about a plan or strategy to achieve a desired goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a92fdea-8c91-4a85-90f2-b61d2ba82dff.webp"
+        },
+        "System": {
+            "wordRoot": "System",
+            "wordDefinition": "System refers to a set of things or ideas that work together in a structured way to produce a particular result.\n\nFor example, the respiratory system in your body includes your lungs, nose, and throat, which all work together to help you breathe.\n\nYou would use the word arrangement when you're talking about how things are organized or put together in a specific order, and you would use the word system when you're talking about a structured set of things that work together to produce a particular result.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " but in different ways depending on arrangement and cultural context. So it turns out that the wheel method is more than just a nifty way of visualizing complex rhythms. By freeing us from the tyranny of the bar line, we can visualize rhythm in terms of time, and a simple turn of the wheel can take us on a musical journey around the world.",
+            "Title": "A different way to...",
+            "VideoId": "2UphAzryVpY",
+            "Controls": "start=286"
+        },
+        {
+            "Text": " arrangement and the agreement they have is that they get this income and they get this collaboration with the snyder trust because they're protecting this environment which to me is amazing because in all conservation agreements and most conservation um initiatives there's always some kind of sacrifice but here",
+            "Title": "Snow Leopards: Ghosts in...",
+            "VideoId": "NXKzAJjeWB0",
+            "Controls": "start=519"
+        },
+        {
+            "Text": " The sheer size of the Universe guarantees that some of its random elements will fall into specific arrangements, and because we evolved to notice patterns and pick out signals among the noise, we are often tempted to find intentional meaning where there may not be any.",
+            "Title": "The origin of countless...",
+            "VideoId": "88_C-fogY40",
+            "Controls": "start=227"
+        },
+        {
+            "Text": " necessary for biological functions to occur. The breaking down of these arrangements when the entire cell succumbs to entropy is what eventually results in death. This is the reason organisms can't be simply sparked back to life once they've already died.",
+            "Title": "At what moment are you...",
+            "VideoId": "5c6C3rHOdf8",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " cell-to-cell communication, and cell adhesion. But when a deep wound occurs, this arrangement is disrupted. During the process of wound healing, collagen is redeposited at the wound site, but instead of the basket-weave formation found in healthy tissue,",
+            "Title": "How do scars form? -...",
+            "VideoId": "ucRMDdw82yw",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " This arrangement transfers heat to the blood that gets cycled back to the body's vital organs. Warmer muscles enable faster, more powerful swimming, while warmer bellies aid digestion, and the more rapid development of young in utero.",
+            "Title": "Why are sharks so...",
+            "VideoId": "svlEfxTyJQE",
+            "Controls": "start=216"
+        },
+        {
+            "Text": " course a problem but there are solutions we've used capital limits in the past quite successfully consortium arrangements have worked and so on the the problem with resources and excessive use of resources is partly because we",
+            "Title": "How to build a greener,...",
+            "VideoId": "5eN_F709Exw",
+            "Controls": "start=545"
+        },
+        {
+            "Text": " I can walk down the street in the exact same outfit and what the world expects of me and the way I'm treated depends on the arrangement of this piece of cloth. But this isn't going to be another monologue about the hijab",
+            "Title": "What does my headscarf...",
+            "VideoId": "18zvlz5CxPE",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " to financial assets and living arrangements. Cults also demand obedience to human leaders who tend to be highly persuasive people with authoritarian and narcissistic streaks motivated by money, sex, power, or all three.",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " part of the arrangement so you know as a friend you want to help them but it's so important to keep our natural environment as pristine as possible not",
+            "Title": "Pink Dolphins Are...",
+            "VideoId": "4qds3GBHqMU",
+            "Controls": "start=126"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-burns.webp",
+            "Text": "I started trying to do my own music at home, and I was like, 'You know what, I can play the guitar, sort of. And I can do these things, sort of. And I can make these crazy noises on my computer, sort of. But I need a ridiculously good drummer. I need someone to help me with string arrangements.",
+            "Title": "American Actor",
+            "Name": "Steve Burns"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/a-r-rahman.webp",
+            "Text": "My music is mostly for the music. And it gives the liberty to do anything which I want. And nobody limits me to one genre of music. But I learn from life and I try to give back to life, in a way, whether it's the thought of the song or whether it's the approach to the arrangement or anything.",
+            "Title": "Indian Musician",
+            "Name": "A. R. Rahman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sarah-vaughan.webp",
+            "Text": "When I sing a tune, the lyrics are important to me. Most of the standard lyrics I know well. And as soon as I hear an arrangement, I get ideas, kind of like blowing a horn. I guess I never sing a tune the same way twice.",
+            "Title": "American Musician",
+            "Name": "Sarah Vaughan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julien-baker.webp",
+            "Text": "I can make a record with six-part string arrangements and the best musicians in the world and have it be not genuine. I'd rather make a genuine record that I truly stand behind and have it fall where it may.",
+            "Title": "American Musician",
+            "Name": "Julien Baker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-soderbergh.webp",
+            "Text": "I'm in the process of working out an arrangement to make some very, very, very small films in the midst of all these films and maybe that will help. But you get tired of talking. You just want to do it.",
+            "Title": "American Director",
+            "Name": "Steven Soderbergh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vanessa-carlton.webp",
+            "Text": "I learned a lot from that first record and I learned a lot from my experiences touring, but really the biggest education I got over the past two years was learning the importance of arrangements.",
+            "Title": "American Musician",
+            "Name": "Vanessa Carlton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ian-gillan.webp",
+            "Text": "The thing to remember when you're re-recording pieces from the past is that you have to have respect for the original performances, recordings, and arrangements.",
+            "Title": "English Musician",
+            "Name": "Ian Gillan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-cochrane.webp",
+            "Text": "If the individual is to be happy in the contemporary order, he must be open-minded with respect to new values and new arrangements.",
+            "Title": "English Politician",
+            "Name": "Thomas Cochrane"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/m-shadows.webp",
+            "Text": "We really like having songs where we think the arrangement is just as important as the melodies, even though they're typically not.",
+            "Title": "American Musician",
+            "Name": "M. Shadows"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marcelene-cox.webp",
+            "Text": "One sure way to lose another woman's friendship is to try to improve her flower arrangements.",
+            "Title": "American Writer",
+            "Name": "Marcelene Cox"
+        }
+    ]
+}

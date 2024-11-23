@@ -1,0 +1,376 @@
+{
+    "currentWord": {
+        "wordRoot": "code",
+        "id": 12073,
+        "phonemic": "kəʊd|kəʊd\r",
+        "bigId": "c957ad00-24fe-49b8-8b72-53100d0ca571",
+        "wordForms": [
+            "codes",
+            "coding",
+            "coded",
+            "encoded",
+            "coder",
+            "coders",
+            "encodes",
+            "code"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c957ad00-24fe-49b8-8b72-53100d0ca571",
+            "de": "A system of words, letters, or symbols replacing ordinary language, used for secret or short communication.",
+            "ty": "noun",
+            "ex": "She wrote the note in code so only her friend could understand it.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "morse code",
+                " secret code",
+                " break the code"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c957ad00-24fe-49b8-8b72-53100d0ca571.webp",
+            "Tips": [
+                {
+                    "title": "Secret Messages",
+                    "description": "Used when people want to hide information from others.",
+                    "example": "Spies often communicate using code.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/cS57G5nTmHd37hf8E4ds6xvwYfc.webp"
+                },
+                {
+                    "title": "Brief Instructions",
+                    "description": "Simplified language that conveys complex information quickly.",
+                    "example": "Pilots use code for efficient communication.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/hQSxiKVUYJ7n6bZx3RA9w40PJk.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b988921e-0b23-4aa6-b2b7-51651cb3dc30",
+            "de": "A set of rules or principles that people follow.",
+            "do": "General",
+            "ty": "noun",
+            "ex": "The knight lived by a code of honor.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "code of conduct",
+                " dress code",
+                " moral code"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b988921e-0b23-4aa6-b2b7-51651cb3dc30.webp",
+            "Tips": [
+                {
+                    "title": "Guiding Rules",
+                    "description": "Refers to a set of rules guiding behavior or dress in contexts like work or school.",
+                    "example": "Most companies have a code of ethics.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Expectations",
+                    "description": "Implies expected standards in a professional environment.",
+                    "example": "The hospital has a strict dress code.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "db1abd6d-c9eb-4718-922a-b26a6cb479a7",
+            "de": "A system of signals used to represent letters or numbers.",
+            "do": "Telecommunication",
+            "ty": "noun",
+            "ex": "Morse code is a system using dots and dashes.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "binary code",
+                " morse code",
+                " dialling code"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/db1abd6d-c9eb-4718-922a-b26a6cb479a7.webp",
+            "Tips": [
+                {
+                    "title": "Specific Abbreviations",
+                    "description": "A shorthand representation, often used by professionals to save time.",
+                    "example": "In morse code, 'SOS' is '... --- ...'.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Language Specific",
+                    "description": "Can be understood across different languages and cultures.",
+                    "example": "Morse code is universal.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "1886e32e-61c3-4aa4-b361-cde234786e6d",
+            "de": "A set of instructions for a computer.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "He wrote the code for the new software.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "source code",
+                " computer code",
+                " coding language"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1886e32e-61c3-4aa4-b361-cde234786e6d.webp",
+            "Tips": [
+                {
+                    "title": "Creating Software",
+                    "description": "Refers to the specific task of programming computer applications.",
+                    "example": "She codes in C++ for software development.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technical Knowledge",
+                    "description": "Requires understanding of programming languages and logic.",
+                    "example": "You need to learn coding to develop apps.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "30ac82fb-383f-4d67-acbc-2862942be9eb",
+            "de": "A system of symbols and rules used to represent instructions to a computer.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "HTML is a code used to create websites.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "html code",
+                " java code",
+                " python code"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/30ac82fb-383f-4d67-acbc-2862942be9eb.webp",
+            "Tips": [
+                {
+                    "title": "Web Development",
+                    "description": "The code that structures and styles websites.",
+                    "example": "HTML code defines the structure of web pages.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Just Text",
+                    "description": "Combines text with logic to build interactive elements.",
+                    "example": "Website code can create animations and forms.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "58a724e0-e36d-4ca1-9fe6-0e5c7fd752e3",
+            "de": "To write code for a computer program.",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "He was up all night coding the new website.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "code a program",
+                " code a website",
+                " code an app"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/58a724e0-e36d-4ca1-9fe6-0e5c7fd752e3.webp",
+            "Tips": [
+                {
+                    "title": "Modern Skillset",
+                    "description": "Considered an essential skill in many technology jobs today.",
+                    "example": "Young professionals often code as part of their job.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Career Opportunities",
+                    "description": "Learning to code opens up numerous paths in the tech industry.",
+                    "example": "She got a job in tech after learning to code.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Algorithm": {
+            "wordRoot": "Algorithm",
+            "wordDefinition": "An algorithm is a series of steps that you follow to solve a problem while code is the implementation of that algorithm in a particular programming language.\n\nThink of algorithms as the recipe to bake a cake - there are a set of steps you need to take in order to achieve the end result.\n\nThe algorithm is the plan, and code is the execution of that plan.\n\nCode is like the actual baking of the cake. It's the implementation of the steps that you've written in an algorithm in a language that a computer can understand.\n\nAn algorithm is a process or set of instructions, while code is the implementation of those instructions in a particular programming language.\n\nAlgorithms are used in planning and designing, while code is used in development and execution.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/90a48284-0abb-44e7-976d-1bc93e6c2cb1.webp"
+        },
+        "Cipher": {
+            "wordRoot": "Cipher",
+            "wordDefinition": "A cipher is a way to hide a message by scrambling the letters or characters to make the message unreadable to anyone except the intended recipient.\n\nA cipher requires a specific key or algorithm to decode the message. An example of a cipher is the Caesar cipher, which shifts each letter of the message a certain number of spaces down the alphabet.\n\nIn summary, codes are used to represent words or phrases to make communication more efficient, while ciphers are used to hide messages from unwanted readers.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d03fef96-f894-477a-8f01-9b9ecf52815b.webp"
+        },
+        "Key": {
+            "wordRoot": "Key",
+            "wordDefinition": "Key refers to a small tool or device that allows access to something or unlocks something. Keys are commonly used to open doors or locks, or to start a car or engine, among other things.\n\nIn short, codes are used to represent information and require decoding, while keys are used to unlock or access something physically.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5abf028c-06c4-4514-a6cf-a7c82871b1f8.webp"
+        },
+        "Language": {
+            "wordRoot": "Language",
+            "wordDefinition": "In broad terms, the word code refers to a set of instructions that a computer can understand and execute, while the word language describes the human-readable aspect of programming.\n\nIn other words, a code is a machine-readable set of instructions, whereas a language is a human-readable set of instructions.\n\nLanguage is often used more broadly to refer to the overall structure and syntax of a programming language.\n\nOverall, both code and language are essential components of modern software development, and are used extensively in a wide range of applications, from web development to scientific computing to video game design.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8b941da9-e751-4e2f-9ae5-bac8135de19a.webp"
+        },
+        "Password": {
+            "wordRoot": "Password",
+            "wordDefinition": "A password is a secret word or phrase that is used to gain access to something like an account or device. It's like a key that unlocks a door.\n\nPasswords are used to protect information or prevent unauthorized access.\n\nA code is used to give instructions or control something, while a password is used to gain access to something. Codes are commonly used in programming, while passwords are used to protect online accounts, personal devices, and other sensitive information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/271dbe78-0265-4c2f-ad3a-5a80fe954be4.webp"
+        },
+        "Programme": {
+            "wordRoot": "Programme",
+            "wordDefinition": "Code typically refers to the instructions that a programmer writes to make a computer do something, like solving a math problem or displaying a picture.\n\nProgramme usually refers to a larger, more complex software project that can include many different pieces of code.\n\nYou can think of code as the building blocks of a software project, while programme refers to the overall structure and design of the project itself.\n\nSo a programmer might write a lot of code as part of a larger programme, but the code itself is just one piece of the bigger picture.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/919d9ae3-dc1f-410e-bd00-e4fe082d4b0e.webp"
+        },
+        "Protocol": {
+            "wordRoot": "Protocol",
+            "wordDefinition": "Protocol, on the other hand, refers to a set of rules or guidelines that dictate how people should behave in certain situations.\n\nFor example, there might be a protocol for how to behave at a formal dinner, or a protocol for how to handle a medical emergency.\n\nProtocols are used in a variety of different fields, including medicine, diplomacy, and social situations.\n\nIn short, codes are used in machines to tell them what to do, while protocols are used in human interactions to guide behavior.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ebc31f1-de63-47cd-87ce-6d7a1b7ba1e4.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " The pups of negligent moms had the opposite outcome, and so became more sensitive to stress throughout life. These are considered epigenetic changes, meaning that they effect which genes are expressed without directly changing the genetic code. And these changes can be reversed if the moms are swapped.",
+            "Title": "How stress affects your...",
+            "VideoId": "WuyPuH9ojCE",
+            "Controls": "start=172"
+        },
+        {
+            "Text": " which serve as relay stations of memory formation. And the different stages of sleep have been shown to help consolidate different types of memories. During the non-REM slow-wave sleep, declarative memory is encoded into a temporary store in the anterior part of the hippocampus.",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=247"
+        },
+        {
+            "Text": " by the nuances of modern civilization. So, to your conscious modern mind, it's a speech. To the rest of your brain, built up to code with the law of the jungle, when you perceive the possible consequences of blowing a speech, it's time to run for your life or fight to the death.",
+            "Title": "The science of stage...",
+            "VideoId": "K93fMnFKwfI",
+            "Controls": "start=80"
+        },
+        {
+            "Text": " to follow celebrities where they can hide out in among the millions of people who follow famous people but something clearly had gone awry in the code and they were all following olives now even though the followers weren't real their effect on olives life was after a couple",
+            "Title": "The weird, wonderful,...",
+            "VideoId": "uUosXSJf-9E",
+            "Controls": "start=87"
+        },
+        {
+            "Text": " or quantum computing, for cracking secret codes. Everyday physics may start to look a bit more like the strange quantum world. Quantum teleportation may even progress so far, that one day your cat will escape to a safer galaxy, where there are no physicists and no boxes.",
+            "Title": "What can Schrödinger's...",
+            "VideoId": "z1GCnycbMeA",
+            "Controls": "start=284"
+        },
+        {
+            "Text": " So again, that's the first blessing. Bats are important for our ecosystems. And what about the second? What about health? Inside every cell in your body lies your genome. Your genome is made up of your DNA, your DNA codes for proteins that enable you to function",
+            "Title": "Emma Teeling: The secret...",
+            "VideoId": "GROCkg810R0",
+            "Controls": "start=486"
+        },
+        {
+            "Text": " they're impressionable you can give them a world view at that stage in life that they will act on pretty convincingly for a long long time i mean any cult recruits at that age online the racist skinheads often code their messages",
+            "Title": "Skinheads Recruiting...",
+            "VideoId": "mf2njPRdxsM",
+            "Controls": "start=62"
+        },
+        {
+            "Text": " The words in the lockers that remain open at the end will help you crack the code for the safe. Before cousin Thaddeus can even start down the line, you step forward and tell the lawyer you know which lockers will remain open.",
+            "Title": "Can you solve the locker...",
+            "VideoId": "c18GjbnZXMw",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " Do we pick the action with the best outcome or stick to a moral code that prohibits causing someone's death? In one survey, about 90% of respondents said that it's okay to flip the switch, letting one worker die to save five,",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=46"
+        },
+        {
+            "Text": " but most important for the crested black macaque is to learn their code of etiquette lip smacking is a request for a hug showing a desire to be friends",
+            "Title": "Best Monkey Moments PIPE...",
+            "VideoId": "opyPkipNNhE",
+            "Controls": "start=98"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sebastian-seung.webp",
+            "Text": "The brain is behind the really big questions we have. Who am I, what is my identity? What is that based on? If memories are encoded in connectomes, your personality might be in your connectome. If that's the case, that's the basis of your uniqueness as a person.",
+            "Title": "South Korean Scientist",
+            "Name": "Sebastian Seung"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ijustine.webp",
+            "Text": "For me, growing up coding and computers and video games wasn't something that was cool, but it was something that I was always passionate about. I never let the fact that that wasn't something that was cool take me away from it.",
+            "Title": "American Celebrity",
+            "Name": "iJustine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jon-oringer.webp",
+            "Text": "There is a lack of talent in technology, and we need to be encouraging kids in school to learn how to code. We need to encourage computer science as a major. We need to encourage entrepreneurism.",
+            "Title": "American Businessman",
+            "Name": "Jon Oringer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sharon-bolton.webp",
+            "Text": "Crime writers adore islands. We love the sense of being trapped within a community apart, where normal codes of behavior, if not ignored, can be allowed to slip.",
+            "Title": "English Author",
+            "Name": "Sharon Bolton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noah-baumbach.webp",
+            "Text": "I'm curious how people build up the codes that they live their life by, and how they come to think that that's the best way for them to function.",
+            "Title": "American Writer",
+            "Name": "Noah Baumbach"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tim-cook.webp",
+            "Text": "We think coding should be required in every school because it's as important as any kind of second language.",
+            "Title": "American Businessman",
+            "Name": "Tim Cook"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sam-yagan.webp",
+            "Text": "I have never written a line of commercial code in my life. Nor should I.",
+            "Title": "American Businessman",
+            "Name": "Sam Yagan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vangelis.webp",
+            "Text": "Music is science more than art, and it is the main code of the universe.",
+            "Title": "Greek Composer",
+            "Name": "Vangelis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fabricio-werdum.webp",
+            "Text": "Fighters have a code, a law, and you have to respect everybody.",
+            "Title": "Brazilian Mixed Martial Artist",
+            "Name": "Fabricio Werdum"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/valeria-golino.webp",
+            "Text": "Miele' is a code name for a girl who has a double life.",
+            "Title": "Italian Actress",
+            "Name": "Valeria Golino"
+        }
+    ]
+}

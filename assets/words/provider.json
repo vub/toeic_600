@@ -1,0 +1,294 @@
+{
+    "currentWord": {
+        "wordRoot": "provider",
+        "id": 16429,
+        "phonemic": "prəˈvaɪdə(r)|prəˈvaɪdər\r",
+        "bigId": "06a6e92e-efa9-4aaf-a559-801cd4841a04",
+        "wordForms": [
+            "providers",
+            "provider"
+        ]
+    },
+    "senses": [
+        {
+            "id": "06a6e92e-efa9-4aaf-a559-801cd4841a04",
+            "de": "A person or an organization that supplies a particular kind of service",
+            "ty": "noun",
+            "ex": "The company is a leading provider of healthcare services.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "service provider",
+                " health care provider",
+                " internet provider"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/06a6e92e-efa9-4aaf-a559-801cd4841a04.webp",
+            "Tips": [
+                {
+                    "title": "Context Matters",
+                    "description": "The provider's identity changes with context; they're entities offering specific services in a field.",
+                    "example": "When traveling, find a local SIM card provider to avoid high roaming charges.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SifkSkYlS16dlxkLhZAyLF9aUZs.webp"
+                },
+                {
+                    "title": "Service Scope",
+                    "description": "Providers can range from individuals to large companies, all supplying a service to meet needs.",
+                    "example": "Your tour guide is also a provider of historical knowledge about the city.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bzONHuJVbDXIu4Qy2i89DO4tyg.webp"
+                },
+                {
+                    "title": "Not Goods",
+                    "description": "Provider refers to services, not physical goods. A shop selling products is not typically a 'provider'.",
+                    "example": "She became a provider of legal advice, not legal books.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nLnM5ySr1OJp7NPOcCzUQRE1MhA.webp"
+                }
+            ]
+        },
+        {
+            "id": "0480f00d-fd81-47b8-ade5-dff9e4e2ffd2",
+            "de": "A person who earns money to support their family",
+            "do": "General",
+            "ty": "noun",
+            "ex": "Her father was the primary provider for their family.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "primary provider",
+                " sole provider",
+                " family provider"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0480f00d-fd81-47b8-ade5-dff9e4e2ffd2.webp",
+            "Tips": [
+                {
+                    "title": "Family Context",
+                    "description": "In a family context, provider often refers to the person financially responsible for the household.",
+                    "example": "After his promotion, he became the main provider, supporting his parents and siblings.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Gender-Specific",
+                    "description": "Any gender can be the provider; it's not limited to a traditional male role.",
+                    "example": "With her new job, Maria is now the chief provider of her family.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sole Responsibility",
+                    "description": "The term often carries weight, implying the provider has a significant duty of care.",
+                    "example": "As a single dad and sole provider, every financial decision he makes is crucial.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "36053fb9-00ed-4324-9b3e-ffdf65b99256",
+            "de": "A computer program or a server that supplies a computer network with data",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "A network provider manages data traffic between multiple networks.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "network provider",
+                " data provider",
+                " cloud provider"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/36053fb9-00ed-4324-9b3e-ffdf65b99256.webp",
+            "Tips": [
+                {
+                    "title": "Technology Field",
+                    "description": "In computing, a provider is part of the infrastructure, helping others access or store data.",
+                    "example": "The company sought a cloud provider that guarantees high data security.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Behind Connectivity",
+                    "description": "Data and network providers are essential for internet connectivity but often invisible to the user.",
+                    "example": "A reliable network provider is indispensable for uninterrupted online gaming.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Business Enabler",
+                    "description": "Providers in tech are business enablers; they offer the platform for services to operate digitally.",
+                    "example": "Our software as a service can't function without a dependable hosting provider.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Cater": {
+            "wordRoot": "Cater",
+            "wordDefinition": "Cater means to provide food and drinks for an event or gathering.\n\nCater is used specifically for providing food and drinks, while provider is a broader term that can refer to anyone who gives or supplies goods or services.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f4e99078-3fc2-42ae-b5fb-f37f2568a49e.webp"
+        },
+        "Dispenser": {
+            "wordRoot": "Dispenser",
+            "wordDefinition": "Dispenser refers to something or someone that gives out or supplies something, like a vending machine that dispenses snacks.\n\nDispenser is applicable when referring to objects or machines that distribute things, for example, a soap dispenser in a washroom.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3cbab660-a1c1-4bbe-9249-8863c87d9600.webp"
+        },
+        "Issuer": {
+            "wordRoot": "Issuer",
+            "wordDefinition": "An issuer is a person, organization, or government that creates and sells financial securities such as stocks, bonds, or currencies.\n\nAn issuer creates and sells financial securities, while a provider supplies goods or services. Issuers are typically found in the finance or banking industry, while providers can be found in a variety of industries.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61aeb91d-0205-4bb8-9efc-ed3141d8924e.webp"
+        },
+        "Produce": {
+            "wordRoot": "Produce",
+            "wordDefinition": "Produce refers to something that has been created or manufactured, typically in large quantities. For example, a farm may produce fruits and vegetables, or a factory may produce cars or electronics.\n\nEssentially, produce refers to the actual items being created, while provider refers to the organization or person offering those items to others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f3d8afc-8641-4c33-b842-4574559c5bb7.webp"
+        },
+        "Retailer": {
+            "wordRoot": "Retailer",
+            "wordDefinition": "A provider is someone who provides a service or product, while a retailer is someone who sells a product or service to consumers.\n\nFor example, a healthcare provider is someone who works in the medical field to provide care to patients, while a retailer is a business that sells products like clothing, electronics, or groceries.\n\nA provider is focused on delivering a service or product, while a retailer is focused on selling it to consumers.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f1d37b8-a5b2-4502-b587-994210137639.webp"
+        },
+        "Source": {
+            "wordRoot": "Source",
+            "wordDefinition": "Source refers to where something comes from or originates. For example, a river is a source of water.\n\nSo, while a provider gives something, a source is where that something comes from. They are not always interchangeable, and it's important to use the correct word depending on the context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c70d9da5-de42-4576-8d74-4e2ac6ccc833.webp"
+        },
+        "Supplier": {
+            "wordRoot": "Supplier",
+            "wordDefinition": "The words provider and supplier can be used interchangeably in some situations, but they have slightly different meanings in others.\n\nA supplier is someone who provides goods to another person or organization.\n\nA supplier could be a manufacturer that produces products and sells them to retailers, or a vendor that provides raw materials or components to other businesses.\n\nProvider is often used in reference to services that are more intangible, while supplier is often used for tangible goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8584ec14-d825-47a8-81e1-a0ed8c130ee0.webp"
+        },
+        "Vendor": {
+            "wordRoot": "Vendor",
+            "wordDefinition": "A provider is usually a person or company that provides a service or product, while a vendor is someone who sells a product or service.\n\nFor example, a healthcare provider would be a doctor or hospital that provides healthcare services to patients, while a healthcare vendor might be a company that sells medical supplies or equipment to the healthcare provider.\n\nA provider is usually associated with providing a service or product and has a closer relationship with the customer or recipient of the service, while a vendor typically sells goods or services and has a more transactional relationship with the customer.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b78bb4d0-848e-4080-803a-f21ee46bb473.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " we should be embarrassed by that -- but we can also learn from that. And there are probably three lessons at least that we can learn from those small dispensaries. we need to find ways to give patients more control in small but important ways. How to interact with healthcare providers, when to interact with healthcare providers,",
+            "Title": "A doctor's case for...",
+            "VideoId": "0ygtX2nyexo",
+            "Controls": "start=702"
+        },
+        {
+            "Text": " If you're experiencing unwanted pain, talk to a medical provider. Otherwise -- arousal nonconcordance. Your genital behavior just doesn't necessarily predict your subjective experience of liking and wanting. Another friend, back in college, told me about her first experiences of power play in a sexual relationship.",
+            "Title": "The truth about unwanted...",
+            "VideoId": "L-q-tSHo9Ho",
+            "Controls": "start=348"
+        },
+        {
+            "Text": " what I realized by talking to all the material-handling providers was that there was no solution designed specifically to solve each base picking. Red item, green, blue, getting those three things in a box. So we said, there's just got to be a better way to do this. Existing material handling was set up to pump",
+            "Title": "Mick Mountz: What...",
+            "VideoId": "9UiK4llJOXc",
+            "Controls": "start=159"
+        },
+        {
+            "Text": " where healthcare providers purchase antibiotic subscriptions. While governments are looking for ways to incentivize antibiotic development, these programs are still in the early stages. Countries around the world will need to do much more— but with enough investment in antibiotic development",
+            "Title": "How can we solve the...",
+            "VideoId": "ZvhFeGEDFC8",
+            "Controls": "start=331"
+        },
+        {
+            "Text": " prevent maternal deaths is to make sure women are healthy before they become pregnant and that they have the ability to plan and space their pregnancies women with consistent access to a health care provider throughout their lifetime are more likely to identify",
+            "Title": "Caring for maternal...",
+            "VideoId": "Tz7e-uMiaJs",
+            "Controls": "start=378"
+        },
+        {
+            "Text": " he sent his personal troops down to Egypt's Internet service providers and had them physically kill the switch on the country's connection to the world overnight. For a government to do a thing like that was unprecedented, and for hackers, it made it personal.",
+            "Title": "Hackers: the internet's...",
+            "VideoId": "erCAp_Bd0AQ",
+            "Controls": "start=635"
+        },
+        {
+            "Text": " I was treated the same, the same was expected of me. I was never taught that God judged differently based on gender. And my parents' understanding of God as a merciful and beneficial friend and provider shaped the way I looked at the world.",
+            "Title": "What Islam really says...",
+            "VideoId": "FETryXMpDl8",
+            "Controls": "start=152"
+        },
+        {
+            "Text": " maintenance workers, grocery store clerks, warehouse workers, truckers, nurse assistants, childcare workers, home health care providers. These are not the best-paid or most honored workers.",
+            "Title": "The tyranny of merit PIPE...",
+            "VideoId": "Qewckuxa9hw",
+            "Controls": "start=417"
+        },
+        {
+            "Text": " why don't we train our health care providers in compassion so that they can do what they're supposed to do, which is to really transform suffering? And if compassion is so good for us,",
+            "Title": "Joan Halifax: Compassion...",
+            "VideoId": "dQijrruP9c4",
+            "Controls": "start=554"
+        },
+        {
+            "Text": " measure in exchange for all this protection the tree takes on the provider role it gives the insect everything it needs in terms of food and shelter these little nodules or",
+            "Title": "Amazing Symbiosis: Ant...",
+            "VideoId": "Xm2qdxVVRm4",
+            "Controls": "start=81"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-dotcom.webp",
+            "Text": "I was an online service provider. It's not my job to police what people are uploading. It's the job of the content owners, and the law is very clear. If you create content, and you want to protect your copyrights, you have to do the work.",
+            "Title": "German Businessman",
+            "Name": "Kim Dotcom"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jose-serrano.webp",
+            "Text": "In a country with an overabundance of food, no one should go hungry because of a lack of funds or technical and professional knowledge. We have the food, and we have the networks; we now need to support the providers.",
+            "Title": "American Politician",
+            "Name": "Jose Serrano"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-van-drew.webp",
+            "Text": "Housing providers and building and design professionals have a responsibility under federal nondiscrimination laws to provide housing protections for individuals with disabilities.",
+            "Title": "American Politician",
+            "Name": "Jeff Van Drew"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joan-halifax.webp",
+            "Text": "If compassion is so good for us, why don't we train our health care providers in compassion so that they can do what they're supposed to do, which is to transform suffering?",
+            "Title": "American Activist",
+            "Name": "Joan Halifax"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jerome-bruner.webp",
+            "Text": "Education must, be not only a transmission of culture but also a provider of alternative views of the world and a strengthener of the will to explore them.",
+            "Title": "American Psychologist",
+            "Name": "Jerome Bruner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kali-uchis.webp",
+            "Text": "It was really important for me to understand that I needed to provide for myself, and I needed to become a provider for my own family, too.",
+            "Title": "Colombian Musician",
+            "Name": "Kali Uchis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/laila-rouass.webp",
+            "Text": "I'm the sole provider for my child, I don't get any help. I'm not saying we're poverty stricken, but it does mean I have to work hard.",
+            "Title": "British Actress",
+            "Name": "Laila Rouass"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/roman-reigns.webp",
+            "Text": "I'm a character and a sports entertainer and a wrestler, but I'm also a father and a husband and a provider.",
+            "Title": "American Wrestler",
+            "Name": "Roman Reigns"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ned-lamont.webp",
+            "Text": "If we want to grow our economy and help families return to work, we need to support child care providers.",
+            "Title": "American Politician",
+            "Name": "Ned Lamont"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ian-ziering.webp",
+            "Text": "I am an actor, but my most important job is provider of my family.",
+            "Title": "American Actor",
+            "Name": "Ian Ziering"
+        }
+    ]
+}

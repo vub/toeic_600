@@ -1,0 +1,307 @@
+{
+    "currentWord": {
+        "wordRoot": "habit",
+        "id": 9514,
+        "phonemic": "ˈhæbɪt|ˈhæbɪt\r",
+        "bigId": "322610d4-6fee-4c21-b154-02cbbaaea837",
+        "wordForms": [
+            "habits",
+            "habit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "322610d4-6fee-4c21-b154-02cbbaaea837",
+            "de": "Regular action done by a person",
+            "ty": "noun",
+            "ex": "Brushing my teeth after breakfast is my daily habit.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "daily habit",
+                " personal habit",
+                " old habit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/322610d4-6fee-4c21-b154-02cbbaaea837.webp",
+            "Tips": [
+                {
+                    "title": "Context Matters",
+                    "description": "Understand when and where to use 'habit' by observing the context it's used in.",
+                    "example": "She made a habit of jogging before dawn, enjoying the quiet streets.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/pjRwuH1kgC7WyGX8txA4ApGjVJM.webp"
+                },
+                {
+                    "title": "Positive or Negative",
+                    "description": "'Habit' can refer to good or bad patterns, focus on adjectives for clarity.",
+                    "example": "His habit of leaving lights on is wasteful, unlike his habit of recycling.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/2ekoqDQHwbFbQ17YapTaC4EIqSU.webp"
+                }
+            ]
+        },
+        {
+            "id": "0218917d-c8d3-4207-8d64-bdd93075f65c",
+            "de": "Addiction, especially to drugs",
+            "ty": "noun",
+            "ex": "He had a habit of smoking.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "smoking habit",
+                " drug habit",
+                " bad habit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0218917d-c8d3-4207-8d64-bdd93075f65c.webp",
+            "Tips": [
+                {
+                    "title": "Addiction Reference",
+                    "description": "When 'habit' means addiction, it often implies a challenging behavior to overcome.",
+                    "example": "Her habit of biting her nails was difficult to break.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Negative Connotation",
+                    "description": "This sense of 'habit' usually has a negative connotation, unlike 'routine' or 'practice'.",
+                    "example": "His gambling habit worried his family.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a767b585-8c37-4b72-a488-ebfc4d3e4213",
+            "de": "Dress or clothing of a particular kind",
+            "ty": "noun",
+            "ex": "The monks wore a brown habit.",
+            "use": "",
+            "co": "Literary",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "monk's habit",
+                " nun's habit",
+                " religious habit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a767b585-8c37-4b72-a488-ebfc4d3e4213.webp",
+            "Tips": [
+                {
+                    "title": "Specialized Usage",
+                    "description": "This outdated meaning is rarely used, be mindful of the context, often historical or religious.",
+                    "example": "In historical dramas, you may hear about the 'habit' a character wears.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Clothing Context",
+                    "description": "Knowing this meaning helps understanding of older texts or specific conversations.",
+                    "example": "The painting depicted a knight shedding his battle 'habit' for a robe.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c3ad9612-4c0c-467f-820f-928000ece7bd",
+            "de": "A plant's growth or form",
+            "do": "Botany",
+            "ty": "noun",
+            "ex": "The bush has a sprawling habit.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Technical, Neutral",
+            "tp": "",
+            "cl": [
+                "sprawling habit",
+                " bushy habit",
+                " climbing habit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c3ad9612-4c0c-467f-820f-928000ece7bd.webp",
+            "Tips": [
+                {
+                    "title": "Botanical Feature",
+                    "description": "In botany, 'habit' is a technical term describing how a plant grows or appears.",
+                    "example": "This plant has an upright habit, making it ideal for narrow spaces.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Academic Language",
+                    "description": "Usually found in scientific texts; knowing this can help with academic reading.",
+                    "example": "Botanists have categorized the different 'habits' of various fern species.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Addiction": {
+            "wordRoot": "Addiction",
+            "wordDefinition": "Addiction refers to a strong dependence on something, often a substance like drugs or alcohol.\n\nAddiction can completely take over someone's life and cause serious physical and mental health problems.\n\nIt's much more difficult to break an addiction than it is to break a habit.\n\nIn summary, habits are regular behaviors that can be changed easily, while addictions are a serious dependence on something that can be detrimental to one's health and much harder to overcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b888e6d-295b-48ae-bcfa-015c67603473.webp"
+        },
+        "Custom": {
+            "wordRoot": "Custom",
+            "wordDefinition": "Customs are commonly accepted practices or traditions that are unique to a particular group or society. They reflect the values, beliefs, and cultural norms of that group.\n\nSome examples of customs include greeting someone with a handshake or bow, wearing specific clothing for religious ceremonies, or celebrating holidays in a particular way.\n\nIn summary, customs are shared practices that reflect the values of a group, while habits are individual routines or behaviors.\n\nCustoms are applicable within a particular social or cultural context, while habits can be applied by anyone regardless of their group or society.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9065a20e-fa56-4455-affe-ebaa60a5b1f0.webp"
+        },
+        "Dependence": {
+            "wordRoot": "Dependence",
+            "wordDefinition": "Dependence is when someone needs something in order to function or feel normal. For example, if someone is dependent on a medication to manage their chronic pain, they will experience withdrawal symptoms and have difficulty functioning if they stop taking the medication.\n\nWhile both dependence and habits involve repeated behavior, the difference lies in the necessity and impact of the behavior.\n\nHabits can be positive or negative, but dependence is typically seen as negative because it means someone relies on something outside of themselves to function.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53dc51e8-b1d1-4b37-8741-535f1d96f791.webp"
+        },
+        "Fixation": {
+            "wordRoot": "Fixation",
+            "wordDefinition": "Fixation refers to an obsessive or unhealthy attachment to something or someone, while a habit refers to a regular or repeated behavior that is done without much conscious thought.\n\nFor example, if someone has a fixation with cleanliness, they may feel compelled to constantly clean and disinfect everything around them to the point where it becomes excessive and harmful.\n\nFixation is usually seen as negative and can have harmful effects on a person's life, while habits can be either positive or negative depending on what the behavior is.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/71314f0b-214d-4fea-906b-e24105ea2b18.webp"
+        },
+        "Mannerism": {
+            "wordRoot": "Mannerism",
+            "wordDefinition": "A mannerism is a distinctive behavior or gesture that someone does, often unconsciously, that is characteristic of them.\n\nFor example, biting one's nails is a habit, as it is something that is done repeatedly without conscious thought. Twirling one's hair is a mannerism, as it is a distinctive behavior that is characteristic of an individual.\n\nHabits can be positive or negative, while mannerisms are neither good nor bad. A person's habits can be changed with effort, while mannerisms are more difficult to change as they often occur unconsciously.\n\nBoth words are applicable in describing human behavior, but habits are generally more ingrained and have a greater impact on a person's life, while mannerisms are more superficial and less significant.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1dade772-4128-4ba7-b6c4-11e891cf2615.webp"
+        },
+        "Pattern": {
+            "wordRoot": "Pattern",
+            "wordDefinition": "A pattern is a repeated arrangement of something, such as a sequence of events or a design. For example, a weather pattern refers to the way that weather conditions repeat themselves over time.\n\nPatterns can be observed in many different areas, from math and science to art and music.\n\nWhile habits and patterns both involve repetition, habits refer specifically to behaviors or actions, while patterns can refer to any type of repeated arrangement.\n\nHabits are applicable in our daily lives and are often used to describe personal routines, while patterns can be applicable in many different fields, from science to fashion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/431038c9-9525-4cae-9c6e-7826f3e87f7f.webp"
+        },
+        "Practice": {
+            "wordRoot": "Practice",
+            "wordDefinition": "Practice describes something that we intentionally do repeatedly in order to improve or become better at it.\n\nFor example, practicing playing an instrument or practicing a sport. Practice requires effort and intention.\n\nTo summarize, a habit is a behavior that we do without thinking about it, while practicing is intentionally repeating a task in order to improve.\n\nHabits are usually daily routines, whereas practicing happens on a scheduled and focused time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8eadba3-4e7e-43ec-9056-d6eba5224153.webp"
+        },
+        "Routine": {
+            "wordRoot": "Routine",
+            "wordDefinition": "Routine refers to a set of actions or behaviors that are done deliberately and with intention, often in a specific order or pattern.\n\nFor example, your morning routine might involve waking up at a certain time, brushing your teeth, taking a shower, and getting dressed in a particular order.\n\nBoth habits and routines can be helpful or harmful depending on what they are and how often they are done.\n\nIt's important to be aware of the habits and routines in your life so that you can make choices that support your health and wellbeing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b4e68cbb-0d92-45e3-aa52-aa75ad0aeee4.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and how confident they feel about that knowledge. But some of the most amazing things about dolphins are their senses of empathy, altruism, and attachment. The habit of helping injured individuals extends across the species barrier as evidenced by the many accounts of dolphins carrying humans to the surface to breathe.",
+            "Title": "How smart are dolphins?...",
+            "VideoId": "05PpTqtGhGU",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " but it also makes communication easier between non-native speakers from different backgrounds. Descriptivism, on the other hand, gives us insight into how our minds work and the instinctive ways in which we structure our view of the world. Ultimately, grammar is best thought of as a set of linguistic habits",
+            "Title": "Does grammar matter? -...",
+            "VideoId": "Wn_eBrIDUuc",
+            "Controls": "start=222"
+        },
+        {
+            "Text": " but occasionally, the pressures of modern life forces us to clench and hold it in. How bad is this habit, and how long can our bodies withstand it? The answers lie in the workings of the bladder, an oval pouch that sits inside the pelvis. Surrounding this structure are several other organs",
+            "Title": "Is it bad to hold your...",
+            "VideoId": "Ze4Qmpq48AQ",
+            "Controls": "start=22"
+        },
+        {
+            "Text": " say the gods like Brahma has created the universe but then they ask a question who created Brahma right and then there always a question them creation happened and then the gods habit they say that the sages when they were in their trance they got that revelation that how the",
+            "Title": "The Hindu Interpretation...",
+            "VideoId": "bW_awN9uV6w",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " to accept help, to give help, and to work together towards a common goal. In addition, commitment to a team and doing something fun can also make it easier to establish a regular habit of exercise. School sport participation has also been shown",
+            "Title": "How playing sports...",
+            "VideoId": "hmFQqjMF_f0",
+            "Controls": "start=109"
+        },
+        {
+            "Text": " and like an addict trying to kick a habit, the first step is to acknowledge that you have a problem. And let me just say, this profits mania that we're on is so deeply entrenched that we don't even realize how we're harming society.",
+            "Title": "Paul Tudor Jones II: Why...",
+            "VideoId": "dvJSK4viVMs",
+            "Controls": "start=266"
+        },
+        {
+            "Text": " In fact, researchers have worked out that, worldwide, inactivity causes about 9% of premature deaths a year. That's over 5 million people. So what seems like such a harmless habit actually has the power to change our health.",
+            "Title": "Why sitting is bad for...",
+            "VideoId": "wUEl8KrMz14",
+            "Controls": "start=235"
+        },
+        {
+            "Text": " even if it costs you your friends and family, or stick with comfortable and familiar illusions? Truth or habit? Light or shadow? Hard choices, but if it's any consolation, you're not alone. There are lots of us down here.",
+            "Title": "Plato’s Allegory of the...",
+            "VideoId": "1RWOpQXTltA",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " denial and bad habits can kill you but even if being vague doesn't shorten your life it does prevent you from fully living it one cure for terminal vagueness is trunking track your numbers track your time",
+            "Title": "Time Debt PIPE Linda...",
+            "VideoId": "RYYv2GRotZQ",
+            "Controls": "start=205"
+        },
+        {
+            "Text": " go find some professor sarah lauer is a passionate advocate for the fireflies treacherous ways but to understand their deceit first you need a crash course in firefly mating habits",
+            "Title": "Fireflies: Nature's...",
+            "VideoId": "nXz4yUDHo98",
+            "Controls": "start=20"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hunter-s-thompson.webp",
+            "Text": "One of the most basic factors in sports is that winning becomes a habit, and losing is the same way. When failure starts to feel normal in your life or your work or even your darkest vices, you won't have to go looking for trouble, because trouble will find you. Count on it.",
+            "Title": "American Journalist",
+            "Name": "Hunter S. Thompson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dalai-lama.webp",
+            "Text": "When we meet real tragedy in life, we can react in two ways - either by losing hope and falling into self-destructive habits, or by using the challenge to find our inner strength. Thanks to the teachings of Buddha, I have been able to take this second way.",
+            "Title": "Tibetan Leader",
+            "Name": "Dalai Lama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/terry-pratchett.webp",
+            "Text": "You have to have really wide reading habits and pay attention to the news and just everything that's going on in the world: you need to. If you get this right, then the writing is a piece of cake.",
+            "Title": "English Author",
+            "Name": "Terry Pratchett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/blaise-pascal.webp",
+            "Text": "Habit is a second nature that destroys the first. But what is nature? Why is habit not natural? I am very much afraid that nature itself is only a first habit, just as habit is a second nature.",
+            "Title": "French Philosopher",
+            "Name": "Blaise Pascal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maya-angelou.webp",
+            "Text": "Any book that helps a child to form a habit of reading, to make reading one of his deep and continuing needs, is good for him.",
+            "Title": "American Poet",
+            "Name": "Maya Angelou"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wayne-dyer.webp",
+            "Text": "You leave old habits behind by starting out with the thought, 'I release the need for this in my life'.",
+            "Title": "American Psychologist",
+            "Name": "Wayne Dyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/napoleon-hill.webp",
+            "Text": "The world has the habit of making room for the man whose actions show that he knows where he is going.",
+            "Title": "American Author",
+            "Name": "Napoleon Hill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "When it comes to our everyday habits, it's important to ask: 'Am I putting God first?",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/antoine-rivarol.webp",
+            "Text": "Vices are often habits rather than passions.",
+            "Title": "French Journalist",
+            "Name": "Antoine Rivarol"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/plutarch.webp",
+            "Text": "Character is simply habit long continued.",
+            "Title": "Greek Philosopher",
+            "Name": "Plutarch"
+        }
+    ]
+}

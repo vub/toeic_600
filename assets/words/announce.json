@@ -1,0 +1,316 @@
+{
+    "currentWord": {
+        "wordRoot": "announce",
+        "id": 14070,
+        "phonemic": "əˈnaʊns|əˈnaʊns\r",
+        "bigId": "9b43be83-7ab9-4e9e-8121-b5761b16feab",
+        "wordForms": [
+            "announces",
+            "announcing",
+            "announced",
+            "announcer",
+            "announcers",
+            "announcement",
+            "announce"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9b43be83-7ab9-4e9e-8121-b5761b16feab",
+            "de": "To make something known in public or official way",
+            "ty": "verb",
+            "ex": "The government announced a new tax plan.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "announce a decision",
+                " announce the result",
+                " announce the winner"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9b43be83-7ab9-4e9e-8121-b5761b16feab.webp",
+            "Tips": [
+                {
+                    "title": "Public Announcement",
+                    "description": "Used when revealing information to a broad audience, often through media.",
+                    "example": "The company announced its merger in a press conference.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bZFzmzwPH5XkBREbi1fIQZXJ0Q.webp"
+                },
+                {
+                    "title": "Official Matters",
+                    "description": "Often used by authorities or organizations to disclose official information or decisions.",
+                    "example": "The mayor announced the new citywide curfew starting next week.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DQ1HPIewFgDL7M6gcaXlYsZkyqg.webp"
+                },
+                {
+                    "title": "Expect Formality",
+                    "description": "Typically formal and used in serious or significant contexts, not casually.",
+                    "example": "The school board announced the new principal to the teachers.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zYhn2BaJlVbeiXMWwKro1pzQN3E.webp"
+                }
+            ]
+        },
+        {
+            "id": "ae2690ed-b041-4157-9773-64df06e01f56",
+            "de": "To tell people something is going to happen",
+            "ty": "verb",
+            "ex": "They announced their engagement to their friends.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "announce a plan",
+                " announce an arrival",
+                " announce an engagement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ae2690ed-b041-4157-9773-64df06e01f56.webp",
+            "Tips": [
+                {
+                    "title": "Personal News",
+                    "description": "Used for personal milestones or upcoming events in one's life.",
+                    "example": "After dinner, they announced their plans to move abroad.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impending Events",
+                    "description": "Indicates something is scheduled to happen soon, often building anticipation.",
+                    "example": "The organizers announced the event lineup for the festival.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e21b9a84-78fb-413f-b2a8-12e8a0adce12",
+            "de": "To say something in a loud and clear way",
+            "ty": "verb",
+            "ex": "The flight attendant announced the arrival time of the flight.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "announce the arrival",
+                " announce the departure",
+                " announce the time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e21b9a84-78fb-413f-b2a8-12e8a0adce12.webp",
+            "Tips": [
+                {
+                    "title": "Audible Clarity",
+                    "description": "Emphasizes clear and often loud verbal communication.",
+                    "example": "The tour guide announced each stop with enthusiasm.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Attention Capturing",
+                    "description": "Aims to grab the listener's attention, especially in noisy environments.",
+                    "example": "The train conductor announced our arrival at the station.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "02132f23-2159-4eb2-9bd9-9513ba144811",
+            "de": "To introduce a television or radio show or a person who is performing",
+            "ty": "verb",
+            "ex": "He announced the next song on the radio program.",
+            "use": "",
+            "co": "Media",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "announce a show",
+                " announce a song",
+                " announce a performer"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/02132f23-2159-4eb2-9bd9-9513ba144811.webp",
+            "Tips": [
+                {
+                    "title": "Media Introductions",
+                    "description": "Common in broadcasting to introduce content or people to the audience.",
+                    "example": "Before the break, the host announced the upcoming guests.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Setting the Stage",
+                    "description": "Used to prepare the audience for what or who is coming next in a program.",
+                    "example": "The DJ announced the next track, creating excitement in the crowd.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Broadcast": {
+            "wordRoot": "Broadcast",
+            "wordDefinition": "Announce means to tell or make known something to a specific group of people, while broadcast refers to a message or program that is sent out to a larger, more general audience through news outlets or media channels.\n\nA news station might broadcast information about a hurricane approaching a city to a wider audience. This information is important for anyone in the area and not just a specific group.\n\nAnnounce is typically used for a specific group of people, while broadcast is for a wider audience.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/69f2ad73-aa33-4b32-8b8f-29f5bc3ee166.webp"
+        },
+        "Declare": {
+            "wordRoot": "Declare",
+            "wordDefinition": "Both announce and declare mean to make something known or public.\n\nDeclare typically has more serious implications and is used when something is being stated in an official or legal sense.\n\nFor example, a president might declare a state of emergency during a natural disaster.\n\nAnnounce is used in a wider range of settings, while declare is typically used in more official or serious situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aa4e0b4b-9443-428b-bbdc-eaa78f9e1d14.webp"
+        },
+        "Disclose": {
+            "wordRoot": "Disclose",
+            "wordDefinition": "Disclose is used to mean revealing or making something private or secret known. For example, a government might disclose classified documents, a celebrity might disclose personal information or a doctor might disclose a patient's medical history.\n\nAnnounce is used when something new is being shared publicly, while disclose is used when something private or secret is being revealed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/69f659d9-b860-4d74-8b15-cf413331b2fc.webp"
+        },
+        "Impart": {
+            "wordRoot": "Impart",
+            "wordDefinition": "Impart means to convey or share something, usually knowledge or information.\n\nIt is often used in a more informal or personal context, such as a conversation or a lesson. For example, a teacher might impart knowledge to their students or a friend might impart advice to another friend.\n\nTo summarize, announce is used to make something public or official, while impart is used to share knowledge or information in a more personal context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8d472cc2-fd3e-49d5-ab62-fc40b9d7e927.webp"
+        },
+        "Proclaim": {
+            "wordRoot": "Proclaim",
+            "wordDefinition": "Proclaim is used for bigger, more important things like declarations, statements, or claims. For example, a politician might proclaim a new policy or law, or a religious leader might proclaim a message or belief.\n\nAnnounce is used more for practical or informational purposes, while proclaim is used more for grand, significant statements.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/43b6e3ce-b4ed-40d6-9aca-5c801eb55875.webp"
+        },
+        "Publicize": {
+            "wordRoot": "Publicize",
+            "wordDefinition": "Publicize means to promote or advertise something to the public in order to gain attention and interest.\n\nFor example, if a company wants to inform its employees about a new policy, it will announce it at a staff meeting. If the same company wants to advertise a new product to the public, it will publicize it through various marketing channels such as social media, billboards, and TV commercials.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f6407744-146f-4172-b142-5bde940c5487.webp"
+        },
+        "Reveal": {
+            "wordRoot": "Reveal",
+            "wordDefinition": "Reveal means to show or disclose something that was previously hidden from view or unknown. This can be used in a less formal or more dramatic situation, such as when a magician reveals how they did a trick or when a secret is revealed in a movie.\n\nAnnounce is used when conveying information in a straightforward and factual manner, while reveal is used to add a sense of intrigue or surprise to what is being shown or disclosed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/262fd06f-b8d9-4c47-8bbf-90128f4c731f.webp"
+        },
+        "State": {
+            "wordRoot": "State",
+            "wordDefinition": "State means to express something using clear and precise language in a formal way.\n\nA government may state its policies on a particular issue in a formal document such as a constitution or law.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc3d020f-22f6-44e7-a701-0cec0aaa5e11.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " they're going to be announcing very soon where and when to do the hold onto your glasses just for a little bit so they're just hold on to it and we'll be sending out instructions on where you can send your glasses into and we'll have corporate partners will help us gather them from across the country and we're",
+            "Title": "Watch the Total Solar...",
+            "VideoId": "oLBwibYSzEk",
+            "Controls": "start=2027"
+        },
+        {
+            "Text": " Many other factors come up for consideration, as well, including experience, personal loyalties, ethnicity, and gender. The candidates are then thoroughly vetted down to their tax records and payments to domestic help. Once the president interviews the candidate and makes a formal nomination announcement,",
+            "Title": "How do US Supreme Court...",
+            "VideoId": "0xnzGSV66x4",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " We interrupt this video for an important safety announcement. Looking directly at the sun, even during an eclipse, can cause permanent eye damage. Fortunately, there are ways to enjoy an eclipse safely. The easiest is to use certified eclipse-watching glasses, which are shaded thousands of times darker",
+            "Title": "Solar Eclipse 101 PIPE...",
+            "VideoId": "cxrLRbkOwKs",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " They could take it any time they wanted, and they did not have to take it consecutively. But it was how Bob announced the program that mattered so much. He said, it's better that we should all suffer a little than any of us should have to suffer a lot, and morale went up.",
+            "Title": "Why good leaders make...",
+            "VideoId": "lmyZMtPVodo",
+            "Controls": "start=555"
+        },
+        {
+            "Text": " but nobody noticed. Governments were so busy arguing with one another and blaming each other for causing climate change, that when a small country raised our hands and announced, \"We promise to remain carbon neutral for all time,\" nobody heard us. Nobody cared.",
+            "Title": "This country isn't just...",
+            "VideoId": "7Lc_dlVrg5M",
+            "Controls": "start=628"
+        },
+        {
+            "Text": " and when asked afterward, said that they felt much closer to achieving their goal. So if this is true, what can we do? Well, you could resist the temptation to announce your goal. You can delay the gratification that the social acknowledgment brings,",
+            "Title": "Keep your goals to...",
+            "VideoId": "NHopJHSlVo4",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " announced that you were taking a hiatus film abandoning your your musical career and you probably broke millions of hearts around the world including mine",
+            "Title": "A message of peace, hope...",
+            "VideoId": "Ec2lto9dPo4",
+            "Controls": "start=90"
+        },
+        {
+            "Text": " the day Kim Jong-Il's death was announced, their world shattered. I had to leave without a proper goodbye. But I think they knew how sad I was for them.",
+            "Title": "This is what it's like...",
+            "VideoId": "6weGCM3sWKc",
+            "Controls": "start=535"
+        },
+        {
+            "Text": " Today, a baffled lady observed the shell where my soul dwells And announced that I'm",
+            "Title": "Jamila Lyiscott: 3 ways...",
+            "VideoId": "k9fmJ5xQ_mc",
+            "Controls": "start=10"
+        },
+        {
+            "Text": " These calls announce the start of a raid into land controlled by their neighbours.",
+            "Title": "Chimpanzee Cannibalism PIPE...",
+            "VideoId": "al-f_WWoHI4",
+            "Controls": "start=4"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bez.webp",
+            "Text": "I had COVID a week before they made the announcement. I couldn't breathe and I couldn't tell if it was my heart or my lungs. I got to the hospital and I said, 'I've been having this heart attack for three days' and they plugged me into the machines and everything and I had a swollen heart and a virus. I really seriously thought I was going to die.",
+            "Title": "English Dancer",
+            "Name": "Bez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tara-stiles.webp",
+            "Text": "My instincts led me to meditate in the woods when I was a kid. I would emerge at sunset and announce to my family that we are all connected beings. I would watch the grass grow and dance with trees and realize that I was a necessary part of the inter-workings of the world.",
+            "Title": "American Model",
+            "Name": "Tara Stiles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronald-blythe.webp",
+            "Text": "Death used to announce itself in the thick of life but now people drag on so long it sometimes seems that we are reaching the stage when we may have to announce ourselves to death. It is as though one needs a special strength to die, and not a final weakness.",
+            "Title": "English Writer",
+            "Name": "Ronald Blythe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shibani-dandekar.webp",
+            "Text": "I don't need to make an announcement about who I'm dating. It's up to me to decide when and what I want to share about my personal life, and it is up to the audience to decide how they look at it.",
+            "Title": "Indian Musician",
+            "Name": "Shibani Dandekar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noah-baumbach.webp",
+            "Text": "I'm interested in the way major events don't necessarily announce themselves as major events. They're often little things - the drip, drip of life that changes people or affects people.",
+            "Title": "American Writer",
+            "Name": "Noah Baumbach"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adele.webp",
+            "Text": "I've got some news... I'm delighted to announce that Simon and I are expecting our first child together. I wanted you to hear the news direct from me, obviously we're over the moon.",
+            "Title": "English Singer",
+            "Name": "Adele"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tony-bennett.webp",
+            "Text": "I have a simple life. I mean, you just give me a drum roll, they announce my name, and I come out and sing. In my job I have a contract that says I'm a singer. So I sing.",
+            "Title": "American Musician",
+            "Name": "Tony Bennett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rani-mukerji.webp",
+            "Text": "When I plan to settle down, I will announce it to the world. Marriage is an occasion to celebrate. I'll celebrate it when it happens, letting everyone know about it.",
+            "Title": "Indian Actress",
+            "Name": "Rani Mukerji"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katie-couric.webp",
+            "Text": "I could announce one morning that the world was going to blow up in three hours and people would be calling in about my hair!",
+            "Title": "American Journalist",
+            "Name": "Katie Couric"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johnny-miller.webp",
+            "Text": "It's been a great run. I've done everything I can do announcing wise.",
+            "Title": "American Athlete",
+            "Name": "Johnny Miller"
+        }
+    ]
+}

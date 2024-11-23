@@ -1,0 +1,347 @@
+{
+    "currentWord": {
+        "wordRoot": "behaviour",
+        "id": 21790,
+        "phonemic": "bɪˈheɪvjə(r)|bɪˈheɪvjər\r",
+        "bigId": "a57a71d6-c319-4877-98ae-dac815c25bf2",
+        "wordForms": [
+            "behaviours",
+            "behavior",
+            "behaviors",
+            "behaviorally",
+            "behaviour"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a57a71d6-c319-4877-98ae-dac815c25bf2",
+            "de": "The way a person or animal acts or behaves",
+            "ty": "noun",
+            "ex": "His behavior in school was exemplary.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "exemplary behaviour",
+                " disruptive behaviour",
+                " behaviour modification"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a57a71d6-c319-4877-98ae-dac815c25bf2.webp",
+            "Tips": [
+                {
+                    "title": "Reflects Personality",
+                    "description": "Behaviour often gives clues about someone's personality and how they were raised.",
+                    "example": "His courteous behaviour reflects his respectful upbringing.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UBhWFuRhe0SzSXEnMub0FkzYdo4.webp"
+                },
+                {
+                    "title": "Cultural Influence",
+                    "description": "Behaviour can vary greatly across cultures; what's polite in one may be rude in another.",
+                    "example": "In Japan, his behaviour of bowing deeply showed respect.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JsvN9J1ieMF4W6V3yVdIos14U.webp"
+                },
+                {
+                    "title": "Situation Dependent",
+                    "description": "The setting, like work or home, greatly influences what behaviour is considered appropriate.",
+                    "example": "His professional behaviour at the meeting earned him praise.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RJ6IYqbSpdMXoy6bH9ZelpvM.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "96b182b1-3d24-4fd7-8173-128a0d4eab2d",
+            "de": "To act or behave in a particular way",
+            "ty": "verb",
+            "ex": "The dog is behaving very strangely.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "behave appropriately",
+                " behave badly",
+                " behave oneself"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/96b182b1-3d24-4fd7-8173-128a0d4eab2d.webp",
+            "Tips": [
+                {
+                    "title": "Contextual Reactions",
+                    "description": "When 'behaviour' is used as a verb, it's about a response to a specific situation.",
+                    "example": "The cat behaved nervously during the fireworks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Self-control",
+                    "description": "'Behave yourself' is a common instruction to remind someone to act appropriately.",
+                    "example": "The children were reminded to behave themselves at the wedding.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "42ec6869-feba-45c6-8437-e52da5951a9c",
+            "de": "The way in which one acts or conducts oneself, especially towards others",
+            "do": "Psychology",
+            "ty": "noun",
+            "ex": "He will vouch for her good behaviour.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "good behaviour",
+                " bad behaviour",
+                " childish behaviour"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/42ec6869-feba-45c6-8437-e52da5951a9c.webp",
+            "Tips": [
+                {
+                    "title": "Impacts Others",
+                    "description": "Behaviour in psychology often focuses on how actions affect others socially or emotionally.",
+                    "example": "Positive behaviour towards classmates promotes a good learning environment.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Consequence Awareness",
+                    "description": "Understanding the potential rewards or punishments can influence one's behaviour.",
+                    "example": "He improved his behaviour after discussing the consequences with the counselor.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "04a77473-521e-4c88-8295-a40ce1b264f0",
+            "de": "The way in which a natural phenomenon or a machine works or functions",
+            "do": "Physics",
+            "ty": "noun",
+            "ex": "The erratic behaviour of the old car was puzzling to the mechanic.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "behavior of light",
+                " behavior of particles",
+                " behavior of the system"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/04a77473-521e-4c88-8295-a40ce1b264f0.webp",
+            "Tips": [
+                {
+                    "title": "Non-human Application",
+                    "description": "'Behaviour' in physics typically refers to non-living things and how they operate.",
+                    "example": "Teachers explained the behaviour of gases under different pressures.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Predictive Patterns",
+                    "description": "Understanding behaviour in physics helps predict and control future occurrences.",
+                    "example": "Meteorologists study the behaviour of storms to forecast weather.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a2e1df76-3f7e-44fd-83c8-c87e6cf32b01",
+            "de": "The actions or reactions of a person or an animal in response to external stimuli",
+            "do": "Biology",
+            "ty": "noun",
+            "ex": "The study of animal behaviour provides insights into animal survival strategies.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "animal behaviour",
+                " human behaviour",
+                " social behaviour"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a2e1df76-3f7e-44fd-83c8-c87e6cf32b01.webp",
+            "Tips": [
+                {
+                    "title": "Instinct vs. Learning",
+                    "description": "Animal behaviour can be innate or learned, both critical for their survival.",
+                    "example": "The migratory behaviour of birds is an instinct, guiding them to warmer areas.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Adaptation Significance",
+                    "description": "Behaviour in biology often changes with the environment, aiding in species adaptation.",
+                    "example": "Over generations, the behaviour of these animals evolved to avoid predators.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Attitude": {
+            "wordRoot": "Attitude",
+            "wordDefinition": "Attitude refers to a person's thoughts, beliefs, and feelings towards something or someone. It's how they perceive or view things.\n\nBehavior refers to a person's actions or conduct towards something or someone. It's how they react or respond to something based on their attitude.\n\nFor example, if someone has a positive attitude towards school, they may believe that education is important and enjoyable.\n\nHowever, if someone has a negative attitude towards school, they may believe that it's boring or a waste of time. Their behavior may reflect this by skipping class, not paying attention in class, or not completing homework.\n\nAttitude is about thoughts and beliefs, and behavior is about actions and conduct. While attitude can affect behavior, they are two distinct concepts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e1e3957d-d721-488c-ace9-958ee19ec71c.webp"
+        },
+        "Conduct": {
+            "wordRoot": "Conduct",
+            "wordDefinition": "Conduct refers to a person's behavior in relation to ethical, social, and moral standards, it encompasses how they interact with others, their attitudes towards work, and how they handle certain situations.\n\nBehaviour is more about how someone acts in general, while conduct is more about how they act in specific situations or towards specific goals or standards.\n\nFor example, a student's behavior in class includes how they interact with their peers and how attentive they are to the teacher, whereas their conduct refers to whether they follow classroom rules and engage in academic integrity.\n\nBehaviour and conduct both relate to how someone acts, but behaviour is broader and conduct is more specific and connected to social and ethical standards.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fbbe1d8e-c059-433e-bd43-6fa5653954c7.webp"
+        },
+        "Demean": {
+            "wordRoot": "Demean",
+            "wordDefinition": "'Behavior' refers to the way someone conducts themselves or acts in certain situations, while 'demeanor' refers to a person's overall outward behavior or appearance, such as facial expression or posture.\n\n'Behavior' is more specific and applicable to individual actions, whereas 'demeanor' is more general and applies to a person's overall presence.\n\nFor example, a person's behavior might be to interrupt others during conversations, while their demeanor may be described as confident or nervous.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a452b95c-91eb-493e-837d-94f6472faf18.webp"
+        },
+        "Deportment": {
+            "wordRoot": "Deportment",
+            "wordDefinition": "Both words refer to how a person conducts themselves outwardly, but behaviour typically refers to actions while deportment refers to overall mannerisms and posture.\n\nDeportment typically refers to a person's overall mannerisms, such as their posture, facial expressions, and the way they carry themselves.\n\nFor example, \"her deportment was graceful and elegant.\"\n\nOverall, behavior is more focused on actions while deportment is focused on mannerisms and presentation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/502f4158-30c3-45d8-8d62-d224062882fa.webp"
+        },
+        "Disposition": {
+            "wordRoot": "Disposition",
+            "wordDefinition": "Disposition refers to a person's general attitude, mood or temperament. It's the way they tend to feel or react in various situations.\n\nFor instance, if someone has a generally optimistic disposition, they might tend to see the positive side of things even when things aren't going well.\n\nBehaviour refers to specific actions or reactions, while disposition is a more general characteristic that influences behaviour.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be016a35-8766-40c6-95d3-46e39f80bb37.webp"
+        },
+        "Etiquette": {
+            "wordRoot": "Etiquette",
+            "wordDefinition": "Etiquette refers to the set of rules and customs that govern polite and appropriate behaviour in a particular context or culture.\n\nEtiquette helps us to communicate respect, consideration, and professionalism in our interactions with others.\n\nBehaviour is about our actions and choices, while etiquette is about following specific social norms and rules to communicate respect and appropriateness in different situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e48e7a7a-57bd-49e8-901e-a9e7bf8ccc94.webp"
+        },
+        "Mannerism": {
+            "wordRoot": "Mannerism",
+            "wordDefinition": "Mannerism refers to a distinctive behavior, gesture, or way of speaking that is specific to an individual.\n\nBehaviour is a general term that describes how someone acts, while mannerism is a specific term that describes the unique way a person behaves.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1dade772-4128-4ba7-b6c4-11e891cf2615.webp"
+        },
+        "Temperament": {
+            "wordRoot": "Temperament",
+            "wordDefinition": "Behavior refers to the actions, reactions, and responses that a person shows in certain situations. Temperament refers to a person's innate personality traits that influence their behavior.\n\nTemperament, however, is more consistently a part of a person's personality and is less likely to change.\n\nBoth behavior and temperament are applicable in different contexts. For example, behavior is often used in discussions about how people act in social situations, while temperament is often used in discussions about personality traits that are present from birth.\n\nOverall, behavior and temperament are both important to understanding human nature and how people interact with each other in different situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/da418f1c-f092-4baa-b3e7-b9d88f30e20e.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " so all of those things they work they do the job but at a cost and if you have number of people in the organization engaging in those behaviors you're going to have a cost to the organization as well totally and and for managers who might see that their employees are experiencing impostor syndrome what are some ways they can help mitigate and how",
+            "Title": "Thinking your way out of...",
+            "VideoId": "h7v-GG3SEWQ",
+            "Controls": "start=426"
+        },
+        {
+            "Text": " they can become resentful and aggressive. It's like a disease where the sufferers feel pretty good, but the people around them suffer. Taken to the extreme, this behavior is classified as a psychological disorder called narcissistic personality disorder. It affects one to two percent of the population,",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " and there are so many dolphins, that scientists can observe, sort of, natural alliances that are formed. Social behaviors. But, you know, groups would form little cliques, males fighting with each other, mating groups and so forth. Quite interesting. You know, the way they raise revenue at this place,",
+            "Title": "Dolphins: Even Smarter...",
+            "VideoId": "XZ4hZx6K85Y",
+            "Controls": "start=393"
+        },
+        {
+            "Text": " They are often people who are deeply monogamous in their beliefs, and at least for their partner. But they find themselves in a conflict between their values and their behavior. They often are people who have actually been faithful for decades,",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=632"
+        },
+        {
+            "Text": " Despite this, the disorder is controllable. Certain medications like lithium can help manage risky thoughts and behaviors by stabilizing moods. These mood stabilizing medications work by decreasing abnormal activity in the brain,",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=240"
+        },
+        {
+            "Text": " People affected have little or no control over their obsessive thoughts and compulsive behaviors, which tend to be time consuming and interfere with work, school or social life to the point of causing significant distress.",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=74"
+        },
+        {
+            "Text": " and prey for larger carnivores. As both predator and prey, survival of their species depended on crucial instinctual behaviors which we still observe in wild and domestic cats today.",
+            "Title": "Why do cats act so...",
+            "VideoId": "sI8NsYIyQ2A",
+            "Controls": "start=43"
+        },
+        {
+            "Text": " young are more likely to survive it now seems clear that the instinct to nurture and care for a nest of eggs had its origins with the dinosaurs it's a behavior that was so successful",
+            "Title": "Ferocious Dinosaur...",
+            "VideoId": "ZzXGSFVbVvU",
+            "Controls": "start=347"
+        },
+        {
+            "Text": " Herding behaviour protects the many but at the expense of the few.",
+            "Title": "Dinosaur Massacre PIPE...",
+            "VideoId": "xO8BjI3L3yg",
+            "Controls": "start=56"
+        },
+        {
+            "Text": " Herding behaviour protects the many but at the expense of the few.",
+            "Title": "Dinosaurs: Just Big...",
+            "VideoId": "LBZAtLxJf8c",
+            "Controls": "start=714"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tony-robbins.webp",
+            "Text": "The truth is that we can learn to condition our minds, bodies, and emotions to link pain or pleasure to whatever we choose. By changing what we link pain and pleasure to, we will instantly change our behaviors.",
+            "Title": "American Speaker",
+            "Name": "Tony Robbins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brene-brown.webp",
+            "Text": "I'm just going to say it: I'm pro-guilt. Guilt is good. Guilt helps us stay on track because it's about our behavior. It occurs when we compare something we've done - or failed to do - with our personal values.",
+            "Title": "American Author",
+            "Name": "Brene Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johnny-depp.webp",
+            "Text": "People say I make strange choices, but they're not strange for me. My sickness is that I'm fascinated by human behavior, by what's underneath the surface, by the worlds inside people.",
+            "Title": "American Actor",
+            "Name": "Johnny Depp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-de-niro.webp",
+            "Text": "In acting, I always try to go back to what would actually be the real situation, the real human behavior in life.",
+            "Title": "Actor",
+            "Name": "Robert De Niro"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-carlyle.webp",
+            "Text": "When new turns of behavior cease to appear in the life of the individual, its behavior ceases to be intelligent.",
+            "Title": "Scottish Philosopher",
+            "Name": "Thomas Carlyle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alice-walker.webp",
+            "Text": "We must do everything in our power to cease the behaviour that makes children everywhere feel afraid.",
+            "Title": "American Author",
+            "Name": "Alice Walker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "Character is expressed through our behavior patterns, or natural responses to things.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rob-james-collier.webp",
+            "Text": "You don't buy evil characters lattes. That's not normal behavior.",
+            "Title": "British Actor",
+            "Name": "Rob James-Collier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-zaslow.webp",
+            "Text": "I particularly don't want to play unmotivated behavior.",
+            "Title": "American Actor",
+            "Name": "Michael Zaslow"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-herman.webp",
+            "Text": "Belief that influences behavior influences results.",
+            "Title": "American Coach",
+            "Name": "Tom Herman"
+        }
+    ]
+}

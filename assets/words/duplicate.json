@@ -1,0 +1,319 @@
+{
+    "currentWord": {
+        "wordRoot": "duplicate",
+        "id": 8609,
+        "phonemic": "ˈdjuːplɪkeɪt|ˈduːplɪkeɪt\r",
+        "bigId": "2b20d456-a1ee-4346-abe5-ca289cec5a28",
+        "wordForms": [
+            "duplicates",
+            "duplicating",
+            "duplicated",
+            "duplication",
+            "reduplicate",
+            "duplicate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2b20d456-a1ee-4346-abe5-ca289cec5a28",
+            "de": "To make an exact copy of something, again.",
+            "ty": "verb",
+            "ex": "I will duplicate the report and give everyone a copy.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "duplicate a file",
+                " duplicated documents",
+                " duplicates the original"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2b20d456-a1ee-4346-abe5-ca289cec5a28.webp",
+            "Tips": [
+                {
+                    "title": "Technology Usage",
+                    "description": "Often used to describe actions with computers, like creating files or documents.",
+                    "example": "Can you duplicate the database for the backup server?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/rWmqrvGG0Xt9RI45awlOCNM0Lmk.webp"
+                },
+                {
+                    "title": "Precision Required",
+                    "description": "Stresses the need for an exact, precise copy, with no deviations.",
+                    "example": "Please duplicate the layout exactly as it is.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/dKio5lvTVmbfgaOU4XJvDDZ209E.webp"
+                },
+                {
+                    "title": "Avoid Redundancy",
+                    "description": "Consider if duplication is necessary to avoid wasting resources on exact copies.",
+                    "example": "Do we need to duplicate the files if they're already backed up?",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/E7ipkeqfLRlcSIfOzEoZhtiJE.webp"
+                }
+            ]
+        },
+        {
+            "id": "bdd91c2d-7008-45ce-9b16-ebcb284d618b",
+            "de": "An exact copy of something.",
+            "ty": "noun",
+            "ex": "The detective found a duplicate of the stolen painting.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "duplicate of a letter",
+                " a duplicate key",
+                " the duplicate item"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bdd91c2d-7008-45ce-9b16-ebcb284d618b.webp",
+            "Tips": [
+                {
+                    "title": "Physical Copies",
+                    "description": "Used for tangible items, like keys or documents, that are identically replicated.",
+                    "example": "I lost my keys; can you make a duplicate?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Authentication Concern",
+                    "description": "Duplicates can raise doubts about the authenticity of items, like artwork.",
+                    "example": "The museum ensures that no duplicates are in their collection.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "68830974-5399-4053-aed7-5ae491ab11fd",
+            "de": "Being the same or identical to something else.",
+            "ty": "adjective",
+            "ex": "They found duplicate entries in the database and had to remove them.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "duplicate record",
+                " duplicate payment",
+                " duplicate ticket"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/68830974-5399-4053-aed7-5ae491ab11fd.webp",
+            "Tips": [
+                {
+                    "title": "Data Management",
+                    "description": "Refers to identical data that needs managing in databases, lists, or records.",
+                    "example": "We'll have to remove 100 duplicate contacts from the mailing list.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Error Identification",
+                    "description": "Highlights mistakes when something has been done twice by accident.",
+                    "example": "Your submission has duplicate questions; please revise.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "36cc9b2f-e76c-45f0-91d2-0e237d0606e2",
+            "de": "To repeat something unnecessarily.",
+            "ty": "verb",
+            "ex": "The new system just duplicates effort and wastes time.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "duplicated work",
+                " duplicates effort",
+                " duplicated process"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/36cc9b2f-e76c-45f0-91d2-0e237d0606e2.webp",
+            "Tips": [
+                {
+                    "title": "Efficiency Awareness",
+                    "description": "Used to recognize and correct inefficiencies in processes or tasks.",
+                    "example": "This step duplicates the one we did earlier and is unnecessary.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Workplace Communication",
+                    "description": "Mentioned in discussing task assignments to avoid doing the same job twice.",
+                    "example": "Let's not duplicate our efforts; Tom is already on it.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Backup": {
+            "wordRoot": "Backup",
+            "wordDefinition": "Backup refers to making a copy of important data, files or documents in case the original is lost, damaged, or corrupted.\n\nFor instance, many people backup their data on external hard drives or cloud services to ensure it is safe and secure.\n\nSo, backups are useful for protecting and preserving important information or data, while duplicates are helpful for creating additional copies of an item.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c32788ed-77b0-410a-9cd1-47e3a9cbe77d.webp"
+        },
+        "Clone": {
+            "wordRoot": "Clone",
+            "wordDefinition": "Clone means to make an exact copy of something, especially genes or cells. Cloning is often applied in scientific research and medicine, where identical copies of cells or DNA are needed.\n\nFor example, scientists may clone cells to study diseases or create identical animals to test new treatments.\n\nIn summary, cloning creates an exact copy of something, while duplicating creates a similar, but not necessarily the same, copy.\n\nCloning is used in scientific research and medicine, while duplicating is used in everyday situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2a978dee-75e6-44fe-bd9c-b23d10b056c2.webp"
+        },
+        "Copy": {
+            "wordRoot": "Copy",
+            "wordDefinition": "Copy means to reproduce or replicate something, usually by using a photocopier or by hand.\n\nDuplicate means to make an exact copy of something, often in a digital format.\n\nCopy is applicable when we want to create a paper or hard copy of something, while duplicate is applicable when we want to create a digital or exact replica of something.\n\nFor example, if you want to make a copy of your homework assignment to keep for your records, you would use a photocopier.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d3c2f168-6677-4966-b614-71f5169118d0.webp"
+        },
+        "Create": {
+            "wordRoot": "Create",
+            "wordDefinition": "Create means to make or produce something new that did not exist before, while duplicate means to copy or make an exact replica of something.\n\nFor example, when an artist creates a painting, they are using their imagination and skills to produce something original.\n\nCreate is used when something new is being made, while duplicate is used when an exact copy is being produced.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a52e3d83-edb6-4339-90c4-5ea611821445.webp"
+        },
+        "Match": {
+            "wordRoot": "Match",
+            "wordDefinition": "Match refers to when two things are similar or identical to each other, but they don't necessarily have to be exact copies, for example, if I say that the color of my shirt matches the color of my shoes, it means that they are similar or complementary in color.\n\nThe difference between the two words is that duplicate refers to creating an exact copy, while match refers to things that are similar or identical.\n\nDuplicate is applicable when you want to create a copy of something, while match is applicable when you want to compare or find things that are similar or identical to each other.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/db5a0515-be0d-4606-9d6b-296e05d956af.webp"
+        },
+        "Redundant": {
+            "wordRoot": "Redundant",
+            "wordDefinition": "Both duplicate and redundant refer to something that is repeated or unnecessary.\n\nRedundant refers to something that is unnecessary or no longer needed. For example, if you have two employees doing the same job, one of them may be deemed redundant.\n\nDuplicate refers to an exact copy, while redundant refers to something that is unnecessary or repeated.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/deb39545-b080-403a-8c7c-5fb77184ccd8.webp"
+        },
+        "Repeat": {
+            "wordRoot": "Repeat",
+            "wordDefinition": "Duplicate means to make an exact copy of something, while repeat means to do or say something again.\n\nFor instance, if we want to make a copy of a document, we need to duplicate it. If we want to listen to a song again, we would repeat it.\n\nDuplicate is mostly used in the context of creating copies, while repeat is used when we want to perform an action again.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bc5dc06b-a091-4e18-ac48-729c4a97e8a6.webp"
+        },
+        "Replicate": {
+            "wordRoot": "Replicate",
+            "wordDefinition": "Replicate means to recreate or imitate something. This is often used in scientific or research settings, where scientists try to replicate experiments to test if the results are consistent.\n\nFor example, if a scientist conducts an experiment and gets certain results, they may try to replicate the experiment to make sure the results weren't a fluke.\n\nDuplicate means to make an exact copy, while replicate means to recreate or imitate something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4a585e95-7314-4593-a11c-3ad4847c4304.webp"
+        },
+        "Twin": {
+            "wordRoot": "Twin",
+            "wordDefinition": "Twin refers to two people or things that are very similar in appearance or nature.\n\nThe main difference between these words is that duplicate refers to an exact copy whereas twin refers to something that is similar but not necessarily identical.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a1d6a0b3-74a4-4aa0-aca4-f72053d18cfb.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " A particularly dramatic example of this comes from a neurological disorder known as Capgras syndrome. So Capgras syndrome is a disorder where you get a specific delusion. Sufferers of Capgras syndrome believe that the people they love most in the world have been replaced by perfect duplicates.",
+            "Title": "Paul Bloom: The origins...",
+            "VideoId": "RPicL1AWrs8",
+            "Controls": "start=441"
+        },
+        {
+            "Text": " They may cause a gene to make its protein in a different organ, or at a different time of life, or the protein may start doing a different job altogether. In snakes, for example, there's a gene that makes a protein for killing bacteria. Long ago, the gene duplicated and the new copy mutated.",
+            "Title": "Where do genes come...",
+            "VideoId": "z9HIYjRRaDE",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " Does it still function? Is it a duplicate of something that I already own? And when was the last time I wore it or used it?\" But there's another group of experts who perhaps thought even harder about this problem, and they would say one of these questions is more important than the others.",
+            "Title": "3 ways to make better...",
+            "VideoId": "1mLQFm3wEfw",
+            "Controls": "start=395"
+        },
+        {
+            "Text": " creating something even more beautiful than what existed prior to that engagement the relationship and the bond that forms in that creative process and walking the line of life and death is something that is I don't know if you could duplicate and then to see the tree",
+            "Title": "The Art of Shaping a...",
+            "VideoId": "TwqZ32TmbIU",
+            "Controls": "start=167"
+        },
+        {
+            "Text": " To duplicate it. To pass it on. The thing is, you're rubbish at copying your own code. Every time it's copied, errors crop up. Not good when an error makes a robot worse at surviving, but sometimes a mistake helps them survive and they pass that glitch in the code on-",
+            "Title": "How to biohack your...",
+            "VideoId": "Mt5C5fhuU_0",
+            "Controls": "start=30"
+        },
+        {
+            "Text": " We believe that teachers should be empowered, not replaced. Moving along, what about the area of a triangle? So after some guided trial and error, the child will discover, with or without help, that he or she can duplicate the original figure",
+            "Title": "Shimon Schocken: The...",
+            "VideoId": "iE7YRHxwoDs",
+            "Controls": "start=792"
+        },
+        {
+            "Text": " Don't go out and find a successful personality and duplicate it, but rather start from the very root of your being, which is 'How can I be me?'\" Many of us have done some soul-searching or at least some incessant thinking and worrying",
+            "Title": "What Bruce Lee can teach...",
+            "VideoId": "TSDOXxlT0U0",
+            "Controls": "start=183"
+        },
+        {
+            "Text": " when i look forward i believe that if what we are doing can be duplicated just a little bit these animals will have a chance of surviving it comes down i think to us each taking responsibility",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "leDm_-nfr2w",
+            "Controls": "start=1466"
+        },
+        {
+            "Text": " when i look forward i believe that if what we are doing can be duplicated just a little bit these animals will have a chance of surviving it comes down i think to us each taking responsibility",
+            "Title": "David Attenborough's...",
+            "VideoId": "GnMEeiY-IOo",
+            "Controls": "start=124"
+        },
+        {
+            "Text": " But they’ll rarely suffer any consequences. This is because they’re equipped with genes that provide immunity against numerous pathogens. These genes are often duplicated many times over.",
+            "Title": "Why are cockroaches so...",
+            "VideoId": "lkdLg0Nq4SQ",
+            "Controls": "start=171"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gordon-hayward.webp",
+            "Text": "There's nothing that can replace being on the court with your teammates. Just a feeling that can't be duplicated. But for me to have a distraction like video games where I can hang out with friends, still compete through that. I mean that's something I'm for sure thankful for, for sure helps me get away.",
+            "Title": "American Basketball Player",
+            "Name": "Gordon Hayward"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kerry-greenwood.webp",
+            "Text": "There are only so many stories in the world... Duplication of plots is bound to happen because most writers have read very extensively in their genre and have become aware they are adding an extra layer to the meta-narrative, finding a new spin on the original.",
+            "Title": "Australian Author",
+            "Name": "Kerry Greenwood"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-perry.webp",
+            "Text": "We did it with passion; we didn't do it like everyone else. Teams nowadays are still trying to duplicate that, but no one has yet. We shuffled down and we did it. We did it in an unique fashion.",
+            "Title": "American Athlete",
+            "Name": "William Perry"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/russell-m-nelson.webp",
+            "Text": "Married or single, you sisters possess distinctive capabilities and special intuition you have received as gifts from God. We brethren cannot duplicate your unique influence.",
+            "Title": "American Clergyman",
+            "Name": "Russell M. Nelson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/raymond-e-feist.webp",
+            "Text": "Also, it's risky to try to duplicate earlier success. Magician had a certain charm to it, mostly due to my choice of lead characters, that I would be hard put to duplicate.",
+            "Title": "American Author",
+            "Name": "Raymond E. Feist"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-rapino.webp",
+            "Text": "Live is truly a unique entertainment form; it cannot be duplicated and creates lifetime memories that fans are craving more than ever in this experience economy.",
+            "Title": "American Businessman",
+            "Name": "Michael Rapino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lee-tamahori.webp",
+            "Text": "Always be original. Never duplicate what you've seen another actor do. Be true to the character that you've been given, and the rest will come easy.",
+            "Title": "New Zealander Director",
+            "Name": "Lee Tamahori"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-rowland.webp",
+            "Text": "A man's desire for a son is usually nothing but the wish to duplicate himself in order that such a remarkable pattern may not be lost to the world.",
+            "Title": "American Writer",
+            "Name": "Helen Rowland"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/susan-sontag.webp",
+            "Text": "The problems of this world are only truly solved in two ways: by extinction or duplication.",
+            "Title": "American Author",
+            "Name": "Susan Sontag"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rajpal-yadav.webp",
+            "Text": "Dara Singhji's voice and personality can't be duplicated. He was one of his kind.",
+            "Title": "Indian Actor",
+            "Name": "Rajpal Yadav"
+        }
+    ]
+}

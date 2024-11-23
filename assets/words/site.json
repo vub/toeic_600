@@ -1,0 +1,319 @@
+{
+    "currentWord": {
+        "wordRoot": "site",
+        "id": 7977,
+        "phonemic": "saɪt|saɪt\r",
+        "bigId": "1f15f5ba-0a7b-48e1-bdc4-c8bb02a4a6cc",
+        "wordForms": [
+            "sites",
+            "siting",
+            "sited",
+            "site"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1f15f5ba-0a7b-48e1-bdc4-c8bb02a4a6cc",
+            "de": "A specific place or position.",
+            "ty": "noun",
+            "ex": "The construction crew is working at the site.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "construction site",
+                " site manager",
+                " site inspection"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1f15f5ba-0a7b-48e1-bdc4-c8bb02a4a6cc.webp",
+            "Tips": [
+                {
+                    "title": "Physical Presence",
+                    "description": "Refers to a tangible location that you can visit or observe.",
+                    "example": "Let's meet at the event site.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6XTRvLfcHVl2x6uMwpm8nStbAUk.webp"
+                },
+                {
+                    "title": "Not Always Buildings",
+                    "description": "'Site' doesn't only mean there's a structure; it can be an open area.",
+                    "example": "The festival's site is the large field outside town.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0D1SByqIjNhwCIKRjAax8ePkj0.webp"
+                },
+                {
+                    "title": "Under Development",
+                    "description": "'Site' often implies a place of current or future activity.",
+                    "example": "The new playground's site is still under construction.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6mjP0x2VaFG2gfyMRLVUFmojM.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "81ca770a-caac-4dec-be42-15de12b89552",
+            "de": "An area on the internet where you can get information, see pictures or videos, play games, and so on.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "I found some useful information on that educational site.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "website",
+                " site address",
+                " social media site"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/81ca770a-caac-4dec-be42-15de12b89552.webp",
+            "Tips": [
+                {
+                    "title": "Virtual Space",
+                    "description": "'Site' in computing refers to a digital place, not physical.",
+                    "example": "I bookmarked the learning site on my computer.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Accessible Online",
+                    "description": "A computing 'site' is accessed via the internet, using a web browser or app.",
+                    "example": "You can view your grades on the school's site.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specific Address",
+                    "description": "Each web 'site' has a unique address, known as a URL.",
+                    "example": "Please visit our site at www.ourcompany.com.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ba28be16-09a0-4298-aab6-f4a903fe2223",
+            "de": "A place where a building, town, etc., was, is, or will be situated.",
+            "ty": "noun",
+            "ex": "This is the site where the ancient ruins were discovered.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "archaeological site",
+                " site plan",
+                " proposed site"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ba28be16-09a0-4298-aab6-f4a903fe2223.webp",
+            "Tips": [
+                {
+                    "title": "Historical Value",
+                    "description": "Some sites are important due to their historical significance.",
+                    "example": "The battle site is preserved as a national monument.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Location Expectation",
+                    "description": "'Site' suggests a specific, expected place where something is or will be located.",
+                    "example": "The proposed site for the new library is next to the park.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "228f2402-07a7-4435-9036-e1130433410e",
+            "de": "To place something somewhere.",
+            "ty": "verb",
+            "ex": "The statue is sited at the center of the park.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "site carefully",
+                " site strategically"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/228f2402-07a7-4435-9036-e1130433410e.webp",
+            "Tips": [
+                {
+                    "title": "Deliberate Placement",
+                    "description": "When you 'site' something, it's placed with intention, not randomly.",
+                    "example": "The monument was carefully sited to face the sunrise.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Planning Involved",
+                    "description": "Using 'site' as a verb often involves planning or design.",
+                    "example": "They sited the new benches along the walking path for a view.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Area": {
+            "wordRoot": "Area",
+            "wordDefinition": "Area refers to a particular space or region.\n\nArea generally refers to a broader space or region, while site refers to a specific location within that area.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/895716fa-f090-4b05-ae4b-73b2e08a4b7a.webp"
+        },
+        "Locale": {
+            "wordRoot": "Locale",
+            "wordDefinition": "Locale refers to a specific place or area with distinct characteristics or culture.\n\nLocale refers to a broader area or region with specific characteristics, while site refers to a specific physical location.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/89d95581-1482-48b8-9bd1-72adb05a9de8.webp"
+        },
+        "Location": {
+            "wordRoot": "Location",
+            "wordDefinition": "Location refers to a place where something is situated or exists, it can be a geographical point, an address, or a general sense of where something is located.\n\nFor example, the location of the Eiffel Tower is in Paris, France.\n\nIn simpler terms, location is a more general term that refers to an area, whereas site is a more specific term that refers to a particular place within that area.\n\nLocation can be applicable to anything from a city to a single room in a house, while site is usually used when talking about construction or excavation projects.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ef4275b3-d954-4f62-b2a7-175fae8547b7.webp"
+        },
+        "Place": {
+            "wordRoot": "Place",
+            "wordDefinition": "Both the words place and site refer to a location or spot.\n\nHowever, place is a more general term that can refer to any location, whether it be indoor or outdoor, natural or man-made.\n\nIt can also refer to a space that has a particular significance or purpose, such as a meeting place or a historical landmark.\n\nSite refers to a location where a specific event or activity takes place. It could be a construction site, a camping site, or a sports site.\n\nIn simpler terms, place is used when referring to a general location while site is used when referring to a specific location meant for a certain function.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/86c3e8bf-587e-43b4-b921-30968e9699bd.webp"
+        },
+        "Position": {
+            "wordRoot": "Position",
+            "wordDefinition": "Position refers to a specific location or place where someone or something is situated or located. It is commonly used to describe the placement of objects or the location of a person in a group or organization.\n\nPosition describes the placement of something or someone in relation to other things, while site describes the physical location of a specific place or landmark.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/873c534c-f216-4662-b281-643a092d10bc.webp"
+        },
+        "Set": {
+            "wordRoot": "Set",
+            "wordDefinition": "Set refers to a group of things, people, or actions that are put together in a particular way. For example, \"I need to set the table for dinner\" means arranging the plates, cutlery, and other items needed for dinner in a specific order.\n\nSet can also refer to establishing or placing something in a certain position, such as \"I need to set my alarm for 6 am.\"\n\nSet refers to arranging or establishing things, while site refers to a specific location or place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/359e6671-e56c-4dfc-a31d-264f4f6cb948.webp"
+        },
+        "Spot": {
+            "wordRoot": "Spot",
+            "wordDefinition": "Spot is more general and refers to a small or specific area within a larger context. For example, a spot could refer to a particular location on a map, like a beach or a park.\n\nA spot could also refer to a stain or mark on clothing or fabric. In slang, spot is sometimes used to indicate a place where something interesting or exciting is happening or expected to happen, like a hot spot for nightlife or a celebrity spot for paparazzi.\n\nSite is more specific and formal while spot is more casual and general.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/84dabbc9-a305-46f4-8f61-e8928b50dae6.webp"
+        },
+        "Venue": {
+            "wordRoot": "Venue",
+            "wordDefinition": "Venue refers specifically to a place where events take place, like a concert venue or a wedding venue. It suggests a space that has been specifically designed or designated for hosting events.\n\nSo, for example, if you were talking about where a music concert was being held, you might use the word venue to refer to the specific place where the concert is happening.\n\nHowever, if you were talking about the land where the concert venue is situated, you might use the word site instead.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49b3af1d-f4cd-40ba-8bf1-2aef3418fd47.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Bile also helps carry other toxins and byproducts from the liver out of the body. So as you can see, the liver is an extremely efficient industrial site, performing multiple tasks that support each other. But such a complex system needs to be kept running smoothly by keeping it healthy",
+            "Title": "What does the liver do?...",
+            "VideoId": "wbh3SjzydnQ",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " million-year-old rocks and these rocks have fossils these fossil acidophiles are the ancestors of the organisms living in the water today this site is therefore a fantastic laboratory where we can study past and present life that could exist on Mars now when you look at",
+            "Title": "What does an alien look...",
+            "VideoId": "BEjjft5UILo",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " where we ended up watching helplessly from the water as bears ravaged our camp site. They walked off with our food and bits of our tent, clearly letting us know that we were at the bottom of the food chain and that this was their spot, not ours. But to me, that trip",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=372"
+        },
+        {
+            "Text": " in a process called vasodilation. About two to three days after the wound, the proliferative stage occurs, when fibroblast cells begin to enter the wound. In the process of collagen deposition, they produce a fibrous protein called collagen in the wound site,",
+            "Title": "How a wound heals itself...",
+            "VideoId": "TLVwELDMDWs",
+            "Controls": "start=131"
+        },
+        {
+            "Text": " These vary depending on the specific characteristics of the fracking site, but usually fall into three acids for clearing debris and dissolving minerals, friction-reducing compounds to create a slippery form of water known as slickwater,",
+            "Title": "How does fracking work?...",
+            "VideoId": "Tudal_4x4F0",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " Neanderthals are suspected to be the first humans to carry out the symbolic gesture of burying their dead and adorning grave sites with flowers. Neanderthals may have also created what may be the world's oldest cave art,",
+            "Title": "Neanderthals 101 PIPE...",
+            "VideoId": "FMc81qpCQ3g",
+            "Controls": "start=123"
+        },
+        {
+            "Text": " Researchers have also observed fewer females returning to spawn at some of the most harvested areas. Our impact on horseshoe crabs extends beyond the biomedical industry, too. Coastal development destroys spawning sites,",
+            "Title": "Why do we harvest...",
+            "VideoId": "VgEbcQxFUu8",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " before one of them is transported to a new site. By itself, quantum entanglement isn't teleportation. To complete the teleport, we need a digital message to help interpret the qubit at the receiving end.",
+            "Title": "Will we ever be able to...",
+            "VideoId": "JMdO5KyjwAw",
+            "Controls": "start=181"
+        },
+        {
+            "Text": " This isn't the parent. This is a Skorpiovenator, a predator. The skeleton found at the nest site was almost certainly a nest raider, preying on the hatchlings.",
+            "Title": "The Biggest Dinosaur...",
+            "VideoId": "3QUK8gN1oSY",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " is a scorpio veneta a predator the skeleton found at the nest site was almost certainly a nest raider preying on the hatchlings",
+            "Title": "Ferocious Dinosaur...",
+            "VideoId": "ZzXGSFVbVvU",
+            "Controls": "start=887"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dean-ambrose.webp",
+            "Text": "I said, 'What I'm going to do is dress as plain as humanly possible.' I'm not going to wear anything fancy, I'm not going to have fancy music, I'm not going to have fancy pyro - I'm literally just going to be a dude walking into the ring. I'm going to look like I just got off work from a construction site, and I am now punching you in the face.",
+            "Title": "American Wrestler",
+            "Name": "Dean Ambrose"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-mraz.webp",
+            "Text": "I have an amazing social-media wing man who manages my Facebook fan site. All my blogs get copied there. My e-mail in-box exploded, and I don't have that kind of time. My mom and sister have their whole life on Facebook, and I'm not there.",
+            "Title": "American Musician",
+            "Name": "Jason Mraz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-towne.webp",
+            "Text": "I'm excited and encouraged to see people getting involved with their public lands and forests. We really need the public's help to repair these heavily used recreation sites.",
+            "Title": "American Actor",
+            "Name": "Robert Towne"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/felix-dennis.webp",
+            "Text": "People really do not have time to read all the newspapers in the world and all the sites that we now commonly use on the web. There is no possibility of keeping up.",
+            "Title": "British Publisher",
+            "Name": "Felix Dennis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-calacanis.webp",
+            "Text": "When it comes to education, there is no one site you can point to that you can say, 'They speak to the world, and that is the site where you go to learn.",
+            "Title": "American Businessman",
+            "Name": "Jason Calacanis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dennis-muilenburg.webp",
+            "Text": "The employee relationships are important, investment in our people is important, and the ability to do work at multiple sites is important.",
+            "Title": "American Businessman",
+            "Name": "Dennis Muilenburg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sarah-parcak.webp",
+            "Text": "That's what I want to do, ultimately: figure out a way to get the world engaged with discovery and protecting these ancient sites.",
+            "Title": "American Scientist",
+            "Name": "Sarah Parcak"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yami-gautam.webp",
+            "Text": "I'm there on all the social networking sites, as it plays an important role.",
+            "Title": "Indian Actress",
+            "Name": "Yami Gautam"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emo-philips.webp",
+            "Text": "He taught me never to smile, which helps me when I visit disaster sites.",
+            "Title": "American Comedian",
+            "Name": "Emo Philips"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harry-knowles.webp",
+            "Text": "That's when it hit me. The site is more important than me.",
+            "Title": "American Critic",
+            "Name": "Harry Knowles"
+        }
+    ]
+}

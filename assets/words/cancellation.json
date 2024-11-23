@@ -1,0 +1,246 @@
+{
+    "currentWord": {
+        "wordRoot": "cancellation",
+        "id": 22253,
+        "phonemic": "ˌkænsəˈleɪʃn|ˌkænsəˈleɪʃn\r",
+        "bigId": "d7a61c69-957e-473a-813e-dfa64c9e78e6",
+        "wordForms": [
+            "cancellation"
+        ]
+    },
+    "senses": [
+        {
+            "id": "d7a61c69-957e-473a-813e-dfa64c9e78e6",
+            "de": "The act of deciding that an organized event will not happen, or the act of stopping something from being active or effective",
+            "ty": "noun",
+            "ex": "The game was under threat of cancellation from the heavy rain.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cancellation policy",
+                " cancellation fee",
+                " cancellation notice"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d7a61c69-957e-473a-813e-dfa64c9e78e6.webp",
+            "Tips": [
+                {
+                    "title": "Unexpected Events",
+                    "description": "Cancellation often happens due to unforeseen circumstances like weather.",
+                    "example": "The concert faced cancellation due to the unexpected storm.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HRjNrYVMk35RalyLKNooT7OAkE.webp"
+                },
+                {
+                    "title": "Services Affected",
+                    "description": "Cancellation can apply to services or subscriptions, as well as events.",
+                    "example": "Your gym membership cancellation will be processed by tomorrow.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Z8TSu5rHvmarM30aM6fpRmOcwUw.webp"
+                },
+                {
+                    "title": "Plan Alternatives",
+                    "description": "Always have a backup plan as cancellations can disrupt schedules.",
+                    "example": "Due to the cancellation, we moved the meeting online.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/q7m4Jvj1BhTRsuOtwbzPdNcz24.webp"
+                }
+            ]
+        },
+        {
+            "id": "62b3795e-ada9-4cde-9467-2185415f26df",
+            "de": "An operation in which a quantity is removed or reduced to zero",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "The cancellation of both 2's from the top and bottom of the fraction results in 1.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cancellation property",
+                " cancellation law",
+                " cancellation error"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/62b3795e-ada9-4cde-9467-2185415f26df.webp",
+            "Tips": [
+                {
+                    "title": "Math Precision",
+                    "description": "In math, cancellation signifies precision in solving problems.",
+                    "example": "Cancellation in algebra maintains the equation's balance.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reduction to Simplicity",
+                    "description": "Cancellation in math often simplifies equations or expressions.",
+                    "example": "Factor cancellation simplified the complex math problem.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c40ef4d6-cfaf-49cb-9048-d3cdc36977d8",
+            "de": "The elimination of something that has been recorded by making a record through cancelling it",
+            "do": "Commerce",
+            "ty": "noun",
+            "ex": "At the end of the event, cancellation of unused tickets took place.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cancellation stamp",
+                " cancellation mark",
+                " cancellation procedure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c40ef4d6-cfaf-49cb-9048-d3cdc36977d8.webp",
+            "Tips": [
+                {
+                    "title": "Records Management",
+                    "description": "In business, cancellation involves managing official records carefully.",
+                    "example": "The cancellation of the contract was recorded in the ledger.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Legal Implications",
+                    "description": "Cancellations may have legal repercussions like breaches or penalties.",
+                    "example": "The company navigated the cancellation's legal implications meticulously.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Financial Effects",
+                    "description": "Cancellations can impact financial aspects, such as refunds or fees.",
+                    "example": "The cancellation policy determines if a fee is charged.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Abolition": {
+            "wordRoot": "Abolition",
+            "wordDefinition": "Abolition means to completely end or get rid of something, usually something that is considered to be harmful or unjust.\n\nFor example, the abolition of slavery means the complete eradication of the practice of owning and buying and selling human beings as property.\n\nThe key difference between abolition and cancellation is that abolition refers to the complete termination of something, while cancellation refers to the revocation or voiding of something that has already been agreed upon or paid for.\n\nAbolition is usually associated with big social or political changes, while cancellation is often a simple administrative action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c7a3416d-6bfa-4915-b8d3-03f57e4e6d1c.webp"
+        },
+        "Annul": {
+            "wordRoot": "Annul",
+            "wordDefinition": "Annul means to declare something invalid or non-existent from the beginning.\n\nIt is usually used in legal or religious contexts, such as annulling a marriage or annulling a contract.\n\nAnnul refers to the invalidation of something that never had legal or moral standing, while cancellation refers to stopping an event or service that has already been established or booked.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ef984d0f-f613-418a-99f0-3b659ca9c867.webp"
+        },
+        "Nullify": {
+            "wordRoot": "Nullify",
+            "wordDefinition": "Nullify means to make something invalid or ineffective. For example, if a contract is nullified, it means that the contract is no longer legally binding and cannot be enforced.\n\nCancellation is used when something needs to be stopped from happening, while nullify is used when something needs to be made invalid or ineffective.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/033342ad-fe2c-4c50-9f36-9b105fe96a2a.webp"
+        },
+        "Repeal": {
+            "wordRoot": "Repeal",
+            "wordDefinition": "Repeal is used in the context of laws or regulations. It means to officially withdraw or abolish a law or rule, making it no longer valid.\n\nFor example, a government can repeal a law that they previously passed if they decide it is no longer necessary or effective.\n\nCancellation is stopping something that was planned or scheduled and repeal is getting rid of a law or rule.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7f6e81c9-c300-4c46-abaf-2be47cf06ddc.webp"
+        },
+        "Rescission": {
+            "wordRoot": "Rescission",
+            "wordDefinition": "Rescission refers to the act of revoking or undoing a contract or agreement. For example, if you purchase a car and later find out there was fraudulent activity involved, you may seek to rescind the contract and get your money back.\n\nCancellation refers to ending a planned event, while rescission refers to undoing a legally binding agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ee42a7a-8a03-423b-bc00-a652cc17ecf0.webp"
+        },
+        "Revocation": {
+            "wordRoot": "Revocation",
+            "wordDefinition": "Revocation means to take back or withdraw something that has been given or granted. For example, if a driver's license is revoked, it means that the license has been taken away.\n\nCancellation is used when something is planned, scheduled, or agreed upon, while revocation is used when something has been granted or given.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/670f41ef-7325-49e9-8a1c-d995601bfb74.webp"
+        },
+        "Terminate": {
+            "wordRoot": "Terminate",
+            "wordDefinition": "Termination refers to ending something that was previously in progress, usually a contract or job. It is applicable when talking about things like employment contracts, rental agreements, or subscription services.\n\nCancellation is stopping something before it starts, while termination is ending something that has already started.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46511ae9-7ee2-4c5a-89df-e24a07e8cab1.webp"
+        },
+        "Withdrawal": {
+            "wordRoot": "Withdrawal",
+            "wordDefinition": "Withdrawal refers to the act of retracting or removing oneself from a certain situation.\n\nCancellation is typically used when referring to ending a pre-planned event, while withdrawal is more commonly used to describe removing oneself from a situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7186f5cc-623d-48e7-b40a-b727777b7466.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " hearing with their mobile devices and use that information to optimize their experience to use noise cancellation headphones to exclude the noise they don't want to hear so they can lower the volume and protect their ears I think so one thing I've learned about using mobile devices for hearing healthcare is it actually helps solve a global health",
+            "Title": "Technology that protects...",
+            "VideoId": "VxS0b8JL3CE",
+            "Controls": "start=253"
+        },
+        {
+            "Text": " ten countries some call them the lions who in the last decade have had a combination of a hundred percent debt cancellation a tripling of aid a tenfold increase in FDI that's foreign direct investment which is unlocked a quadrupling of domestic resources that's",
+            "Title": "The good news on poverty...",
+            "VideoId": "Pe2unbv2rRA",
+            "Controls": "start=448"
+        },
+        {
+            "Text": " they are calling for free tuition and debt cancellation. And yet, this still doesn't add up to the kind of holistic and universalist vision of a different world than our predecessors had. So why is that?",
+            "Title": "How shocking events can...",
+            "VideoId": "J_Sc7hYKstI",
+            "Controls": "start=459"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judd-apatow.webp",
+            "Text": "Television is much more difficult because at every moment the network can force you to change things based on their belief about what would make it popular. You're in a constant debate with a gun at your head, and the gun is cancellation. So it's hard to win the arguments.",
+            "Title": "American Director",
+            "Name": "Judd Apatow"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/seanan-mcguire.webp",
+            "Text": "Watching 'Doctor Who' in the United States meant I was always behind the times - PBS didn't get new episodes until two years after they ran, and I was aware of the show's cancellation before the characters themselves knew, at least in my corner of the world.",
+            "Title": "American Author",
+            "Name": "Seanan McGuire"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ken-curtis.webp",
+            "Text": "We did some jumping at the start of the show. We went out without telling anyone - and the studio liked to kill us. They were threatened with cancellation of their production insurance.",
+            "Title": "American Actor",
+            "Name": "Ken Curtis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rachel-hollis.webp",
+            "Text": "Be honest with yourself about what you're blowing off. A little cancellation here or a bow-out there can add up... but only if you refuse to acknowledge your actions.",
+            "Title": "American Author",
+            "Name": "Rachel Hollis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arthur-levitt.webp",
+            "Text": "Another misconception is that an order is canceled when you hit 'cancel' on your computer. But, the fact is it's canceled only when the market gets the cancellation.",
+            "Title": "American Public Servant",
+            "Name": "Arthur Levitt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/channing-dungey.webp",
+            "Text": "We have oft lamented the cancellation of 'Body of Proof,' I'm not gonna lie. That was a good show for us, and it was sad to see it go.",
+            "Title": "American Businesswoman",
+            "Name": "Channing Dungey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-hoffman.webp",
+            "Text": "There's so many more failures than successes for actors. It's like a phobia, fear of cancellation.",
+            "Title": "American Actor",
+            "Name": "Rick Hoffman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/daniel-cameron.webp",
+            "Text": "The politics of identity, cancellation, and mob rule are not acceptable to me.",
+            "Title": "",
+            "Name": "Daniel Cameron"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noam-chomsky.webp",
+            "Text": "The call for debt cancellation is welcome, but debt does not just go away.",
+            "Title": "American Activist",
+            "Name": "Noam Chomsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-cudlitz.webp",
+            "Text": "The lifespan of any show is to end in cancellation.",
+            "Title": "American Actor",
+            "Name": "Michael Cudlitz"
+        }
+    ]
+}

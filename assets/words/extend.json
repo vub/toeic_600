@@ -1,0 +1,343 @@
+{
+    "currentWord": {
+        "wordRoot": "extend",
+        "id": 21120,
+        "phonemic": "ɪkˈstend|ɪkˈstend\r",
+        "bigId": "66878c28-f4ae-4139-a7d3-4b6df75a9f2f",
+        "wordForms": [
+            "extends",
+            "extending",
+            "extended",
+            "extend"
+        ]
+    },
+    "senses": [
+        {
+            "id": "66878c28-f4ae-4139-a7d3-4b6df75a9f2f",
+            "de": "To make something longer or larger",
+            "ty": "verb",
+            "ex": "Can you extend the table to fit more people?",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "extend an invitation",
+                " extend a deadline",
+                " extend hospitality"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/66878c28-f4ae-4139-a7d3-4b6df75a9f2f.webp",
+            "Tips": [
+                {
+                    "title": "Physical Change",
+                    "description": "Often refers to literal adjustments in size or shape of objects.",
+                    "example": "I'll need to extend the curtain rod to fit the new window.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kp5gdyU9Ur2XZ5FAdGJvbUWmeI.webp"
+                },
+                {
+                    "title": "Modification Expectation",
+                    "description": "Implies an alteration or amendment to original plans or designs.",
+                    "example": "Could you extend the blueprint to include a garage?",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/uErKMe9HLogosj5PMtB7kkVyq4.webp"
+                }
+            ]
+        },
+        {
+            "id": "3c4b9aa9-dabc-4044-bcf4-ed6cf7de4fb2",
+            "de": "To give or offer something to someone",
+            "ty": "verb",
+            "ex": "The company extended an offer of employment to him.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "extend a hand",
+                " extend help",
+                " extend an invitation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3c4b9aa9-dabc-4044-bcf4-ed6cf7de4fb2.webp",
+            "Tips": [
+                {
+                    "title": "Gesture Offering",
+                    "description": "Used when providing or proposing support or assistance to someone.",
+                    "example": "She extended her support to the new team member.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Courtesy Expression",
+                    "description": "Shows politeness when inviting or welcoming others.",
+                    "example": "They extended their home to us during the vacation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "63e26c2c-a306-4e40-b383-6e06faec34ee",
+            "de": "To continue or stretch a certain distance or period of time",
+            "ty": "verb",
+            "ex": "The road extends for miles.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "extend to",
+                " extend beyond",
+                " extend over"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/63e26c2c-a306-4e40-b383-6e06faec34ee.webp",
+            "Tips": [
+                {
+                    "title": "Geographical Reach",
+                    "description": "Indicates how far something physically spreads out, like a road or a region.",
+                    "example": "The forest extends across the entire valley.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Duration Aspect",
+                    "description": "Refers to the prolongation of time, events, or actions.",
+                    "example": "The festival extends well into the night.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e1b4ecf4-03b9-49da-aec0-9530b0c1eb01",
+            "de": "To apply or use something in wider way",
+            "do": "Technical",
+            "ty": "verb",
+            "ex": "We are extending the use of our software in businesses.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "extend the use",
+                " extend the application",
+                " extend the capabilities"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e1b4ecf4-03b9-49da-aec0-9530b0c1eb01.webp",
+            "Tips": [
+                {
+                    "title": "Usability Increase",
+                    "description": "Suggests the expansion of the functionality or application of a product.",
+                    "example": "We need to extend the software's compatibility with new devices.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Capability Expansion",
+                    "description": "Refers to enhancing features or abilities of a system or service.",
+                    "example": "This upgrade will extend your phone's battery life.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "da002601-a982-41d3-9579-591148e96892",
+            "de": "To lengthen the time limit for something",
+            "ty": "verb",
+            "ex": "They extend the date of the assignment due",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "extend a deadline",
+                " extend a stay",
+                " extend a loan"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/da002601-a982-41d3-9579-591148e96892.webp",
+            "Tips": [
+                {
+                    "title": "Timeframe Adjustment",
+                    "description": "Implies a formal or official change to a previously set time limit.",
+                    "example": "The library has extended its hours on weekends.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Deadline Leniency",
+                    "description": "Suggests a flexible and understanding approach to deadlines.",
+                    "example": "Due to the holiday, we've decided to extend the project submission date.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Broad": {
+            "wordRoot": "Broad",
+            "wordDefinition": "Broad means wide or large, it describes something that covers a wide area or applies to a large group of things or people. For example, \"The broad highway had six lanes.\"\n\nBroad refers to the size or scope of something, while extend refers to making something longer or bigger.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/86c50f20-f638-48ea-9a34-b0251ed13154.webp"
+        },
+        "Continue": {
+            "wordRoot": "Continue",
+            "wordDefinition": "Continue means to keep doing something without stopping or ending it. For example, if you have been studying for two hours and want to continue studying, it means you want to keep studying for some more time without taking a break.\n\nContinue means to keep doing something without stopping whereas extend means to make something last longer or reach further.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/03a07759-f76d-4927-9aa9-46592935af69.webp"
+        },
+        "Enlarge": {
+            "wordRoot": "Enlarge",
+            "wordDefinition": "Enlarge means to make something bigger in size or extent. It's often used to describe physical objects, such as a photograph or a room.\n\nFor example, you might enlarge a photograph so you can see more details.\n\nEnlarge is used when referring to size or physical objects, while extend describes time or distance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78209693-4eb3-498f-9d22-32ce64448987.webp"
+        },
+        "Expand": {
+            "wordRoot": "Expand",
+            "wordDefinition": "Expand means to make something larger in size or volume.\n\nIt can also refer to the increase in range or scope of something, such as a business expanding its operations to include new products or services.\n\nExpand refers to making something bigger or broader, while extend refers to making something longer or continuing it further.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61db8140-2f11-4c9f-b3c8-5a08ffed5bc7.webp"
+        },
+        "Increase": {
+            "wordRoot": "Increase",
+            "wordDefinition": "Increase means to make something become larger or greater in quantity, size, or intensity. It is applicable when referring to quantity, size, or intensity.\n\nFor example, you can increase the amount of money you save each week, increase the speed of a car, or increase the number of people attending an event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c06a5283-a561-4bcc-9fcf-126bde18a342.webp"
+        },
+        "Lengthen": {
+            "wordRoot": "Lengthen",
+            "wordDefinition": "Lengthen also means to make something longer, but in a more literal or physical sense.\n\nIt is usually used when we talk about making something longer by stretching or pulling it out. For example, if you lengthen a piece of rope, you are making it longer by pulling it apart.\n\nExtend is used more commonly in a figurative or abstract sense, while lengthen is more commonly used in a physical sense.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6fbcda31-45d7-4c48-b38f-6b729b3f4167.webp"
+        },
+        "Prolong": {
+            "wordRoot": "Prolong",
+            "wordDefinition": "Prolong means to lengthen the time that something lasts. For example, you can prolong a meeting by talking too much or prolong a vacation by staying an extra day.\n\nIn other words, extend is used more broadly to mean to make something longer or bigger, while prolong refers more specifically to making something last longer.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e9ede343-516f-4792-9933-b71780f0daa4.webp"
+        },
+        "Spread": {
+            "wordRoot": "Spread",
+            "wordDefinition": "Spread means to distribute or scatter something over an area, or to make something wider or more far-reaching.\n\nIt is generally used when talking about substances or things that can be physically spread out. For example, you can spread butter on toast, or a virus can spread through a population.\n\nExtend describes increasing the size or scope of something, while spread describes distributing something over an area or making something wider.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc2a8c6e-aa80-4a47-ad06-f0b26b41c6b1.webp"
+        },
+        "Stretch": {
+            "wordRoot": "Stretch",
+            "wordDefinition": "Stretch means to stretch something out, usually by pulling or exerting pressure.\n\nThis word is applicable when you want to physically stretch something, like stretching your arms before exercising or stretching a rubber band.\n\nIt can also be used in a metaphorical sense, like stretching your budget to cover unexpected expenses.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/237070ee-67e8-4eea-bd02-6622740b5907.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " orangutans have adapted to a life high in the rain forest canopies. Many of the skills they learn are transmitted through the special bond they have with their mothers, the most extended in the animal kingdom next to humans. Orangutan mothers usually give birth to one baby at a time, waiting up to eight years before having another.",
+            "Title": "How smart are...",
+            "VideoId": "gFzqqaBA9wQ",
+            "Controls": "start=53"
+        },
+        {
+            "Text": " In the future, the point of no return may be pushed even further. Some animals are known to extend their lifespans or survive extreme conditions by slowing down their biological processes to the point where they are virtually paused. And research into cryonics hopes to achieve the same",
+            "Title": "At what moment are you...",
+            "VideoId": "5c6C3rHOdf8",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " they just extend outward forever. And it's this long-term kind of procrastination that's much less visible and much less talked about than the funnier, short-term deadline-based kind. It's usually suffered quietly and privately. And it can be the source",
+            "Title": "Tim Urban: Inside the...",
+            "VideoId": "arj7oStGLkU",
+            "Controls": "start=713"
+        },
+        {
+            "Text": " The habit of helping injured individuals extends across the species barrier as evidenced by the many accounts of dolphins carrying humans to the surface to breathe. And like us, dolphins mourn their dead. When we consider all the evidence,",
+            "Title": "How smart are dolphins?...",
+            "VideoId": "05PpTqtGhGU",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " such as neural prosthetics and wearable robots that could become extended parts of our bodies. Or the slightly more radical idea of mind uploading, which dangles the possibility of immortal life without a body",
+            "Title": "Are you a body with a...",
+            "VideoId": "ILDy6kYU-xQ",
+            "Controls": "start=251"
+        },
+        {
+            "Text": " Although Roman culture was never fully lost, its influence declined and new art styles arose focused on religious symbolism and allegory rather than proportion and realism. This shift extended to architecture",
+            "Title": "A brief history of goths...",
+            "VideoId": "STOJftffOqs",
+            "Controls": "start=101"
+        },
+        {
+            "Text": " Ultimately, does longer life as we know it come down to diet, exercise, medicine, or something else? Will future technologies, like cell-repairing nanobots, or gene therapy, artificially extend our years?",
+            "Title": "Why do our bodies age? -...",
+            "VideoId": "GASaqPv0t0g",
+            "Controls": "start=265"
+        },
+        {
+            "Text": " Like Mars, it's dry, barren, and incredibly ornate. The carved canyons, long shadows, deep craters, and rich iron oxide soil create a landscape that extends for as far as the eye can see.",
+            "Title": "How the Mojave Desert...",
+            "VideoId": "_BEwY3130hI",
+            "Controls": "start=68"
+        },
+        {
+            "Text": " country will ever be subject to an automatic and actually with the support of this community we've extended that work we're now trying to end putting children in",
+            "Title": "Talking about history...",
+            "VideoId": "xCdh2yHmVwQ",
+            "Controls": "start=64"
+        },
+        {
+            "Text": " in the world and this practice extends to all parts of the city the waterways have been cleaned up and",
+            "Title": "Cities That Are Saving...",
+            "VideoId": "pEx6XeBh1yE",
+            "Controls": "start=56"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jose-padilha.webp",
+            "Text": "A lot of jobs today are being automated; what happens when you extend that concept to very important areas of society like law enforcement? What happens if you start controlling the behavior of criminals or people in general with software-running machines? Those questions, they look like they're sci-fi but they're not.",
+            "Title": "Brazilian Director",
+            "Name": "Jose Padilha"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gina-neely.webp",
+            "Text": "I think, for me, since I've always had a busy lifestyle, I try to take out a little time for me and exercise and do things that are good for me, because if I'm not good, then I can't extend that out to my family.",
+            "Title": "American Actor",
+            "Name": "Gina Neely"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jo-swinson.webp",
+            "Text": "I respect everyone's right to their own religious beliefs, but for me, this cannot extend to our education system treating some people's lives and identities as if they are somehow less worthy of respect or love.",
+            "Title": "British Politician",
+            "Name": "Jo Swinson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "At Facebook, we build tools to help people connect with the people they want and share what they want, and by doing this we are extending people's capacity to build and maintain relationships.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-torre.webp",
+            "Text": "One thing you have to realize is that cancer is not something you necessarily cure, but you want to just take care of yourself and extend your life as long as you can.",
+            "Title": "American Athlete",
+            "Name": "Joe Torre"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-pearson.webp",
+            "Text": "They which have no hope of a life to come, may extend their griefs for the loss of this, and equal the days of their mourning with the years of the life of man.",
+            "Title": "British Theologian",
+            "Name": "John Pearson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gordon-b-hinckley.webp",
+            "Text": "I think that the churches do a better job in many respects than the government does in various kinds of things. Extending aid, the helpfulness, and so on, yes.",
+            "Title": "American Clergyman",
+            "Name": "Gordon B. Hinckley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-schweitzer.webp",
+            "Text": "Until he extends his circle of compassion to include all living things, man will not himself find peace.",
+            "Title": "German Theologian",
+            "Name": "Albert Schweitzer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/victoria-moran.webp",
+            "Text": "I'm a big believer in living life as an extended working vacation.",
+            "Title": "American Writer",
+            "Name": "Victoria Moran"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/antonio-brown.webp",
+            "Text": "Spreading my love and extending my hand is what life's all about.",
+            "Title": "American Athlete",
+            "Name": "Antonio Brown"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "currentWord": {
+        "wordRoot": "subject to",
+        "id": 46877,
+        "phonemic": "|\r",
+        "bigId": "9fce7e0d-3542-4b8b-a4e2-2b3ff885ef7a",
+        "wordForms": [
+            "subject to"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9fce7e0d-3542-4b8b-a4e2-2b3ff885ef7a",
+            "de": "Under or governed by",
+            "ty": "preposition",
+            "ex": "You are subject to the rules of the game.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subject to rules",
+                " subject to laws",
+                " subject to conditions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9fce7e0d-3542-4b8b-a4e2-2b3ff885ef7a.webp",
+            "Tips": [
+                {
+                    "title": "Rule Bound",
+                    "description": "Use 'subject to' to convey necessity to follow established rules.",
+                    "example": "When playing chess, you are subject to the movement rules of each piece.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SnbyPGaCeL3u4wypEwYg0rLuS8c.webp"
+                },
+                {
+                    "title": "Not Optional",
+                    "description": "'Subject to' highlights that certain conditions are not optional within a system.",
+                    "example": "All passengers are subject to a security check before boarding.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8XtAnGMjOLJJg2hQ7AtPqO6gw.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7ffdbf5d-08ed-457c-af95-d4008db6b294",
+            "de": "Depending on",
+            "ty": "preposition",
+            "ex": "The event is subject to the weather.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subject to change",
+                " subject to weather",
+                " subject to availability"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7ffdbf5d-08ed-457c-af95-d4008db6b294.webp",
+            "Tips": [
+                {
+                    "title": "Uncertainty Factor",
+                    "description": "'Subject to' can indicate that plans might change due to factors like weather.",
+                    "example": "The picnic is subject to cancellation if it rains.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Plan Flexibly",
+                    "description": "Remember, 'subject to' suggests you should be prepared for adjustments.",
+                    "example": "Flight schedules are subject to change without prior notice.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "409b3eb2-d81c-44b7-891a-2e62fadaa5d9",
+            "de": "Possible or liable to be influenced or affected by",
+            "ty": "adjective",
+            "ex": "The coastal town is subject to flooding.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subject to flooding",
+                " subject to scrutiny",
+                " subject to review"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/409b3eb2-d81c-44b7-891a-2e62fadaa5d9.webp",
+            "Tips": [
+                {
+                    "title": "Likelihood of Effect",
+                    "description": "'Subject to' implies a high probability of being affected by something, like a natural event.",
+                    "example": "Crops in this region are subject to damage by early frosts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Risk Awareness",
+                    "description": "It's used to make someone aware of potential risks or effects.",
+                    "example": "This area is subject to high levels of pollution.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "121a43a4-88f1-432b-8f1e-cf76979de3eb",
+            "de": "Liable to or required to give",
+            "do": "Legal",
+            "ty": "preposition",
+            "ex": "You will be subject to penalties if you break the law.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "subject to penalties",
+                " subject to punishment",
+                " subject to fines"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/121a43a4-88f1-432b-8f1e-cf76979de3eb.webp",
+            "Tips": [
+                {
+                    "title": "Legal Obligations",
+                    "description": "In legal contexts, 'subject to' refers to compliance with laws or regulations.",
+                    "example": "Tenants are subject to the terms of their lease agreements.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Consequences",
+                    "description": "Emphasizes that failure to comply may result in consequences or penalties.",
+                    "example": "Driving over the speed limit means you are subject to fines.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {},
+    "videos": [],
+    "quotes": []
+}

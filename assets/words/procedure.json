@@ -1,0 +1,310 @@
+{
+    "currentWord": {
+        "wordRoot": "procedure",
+        "id": 10420,
+        "phonemic": "prəˈsiːdʒə(r)|prəˈsiːdʒər\r",
+        "bigId": "8c7d8d5d-8f38-4591-9ea0-be5afd7003b2",
+        "wordForms": [
+            "procedures",
+            "procedure"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8c7d8d5d-8f38-4591-9ea0-be5afd7003b2",
+            "de": "A set way of doing something",
+            "ty": "noun",
+            "ex": "He followed the procedure for applying to a university.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "follow a procedure",
+                " standard procedure",
+                " medical procedure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8c7d8d5d-8f38-4591-9ea0-be5afd7003b2.webp",
+            "Tips": [
+                {
+                    "title": "Sequence Importance",
+                    "description": "Refers to steps in a specific order; missing or changing order may cause problems.",
+                    "example": "There's a set procedure for evacuating the building during a fire.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/TaVB6SSH7pnuGThV8zHbGtliXw.webp"
+                },
+                {
+                    "title": "Not Always Written",
+                    "description": "Procedures can be official rules or just commonly accepted ways to do things.",
+                    "example": "There's an unwritten procedure for who get to use the gym first.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gfHTKGqXiDlN9Qbrn0x254o798.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3611fa8f-043d-43f7-8c55-aac9cb5c62e4",
+            "de": "An action that is part of a legal or official process",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "He was not familiar with the court procedure.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal, Neutral",
+            "tp": "",
+            "cl": [
+                "legal procedure",
+                " court procedure",
+                " standard procedure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3611fa8f-043d-43f7-8c55-aac9cb5c62e4.webp",
+            "Tips": [
+                {
+                    "title": "Legally Binding",
+                    "description": "Legal procedures must be followed to avoid invalidating the process.",
+                    "example": "The procedure for filing a lawsuit is complex and strict.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impacts Rights",
+                    "description": "Understanding legal procedure is critical as it can affect someone's rights.",
+                    "example": "He lost the case because he misunderstood the procedure for submitting evidence.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f2d31c56-c3e8-456a-9b30-6348d298df84",
+            "de": "An action done to achieve a specific medical goal",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "The doctor performed the procedure to remove his appendix.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Neutral",
+            "tp": "",
+            "cl": [
+                "medical procedure",
+                " surgical procedure",
+                " dental procedure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f2d31c56-c3e8-456a-9b30-6348d298df84.webp",
+            "Tips": [
+                {
+                    "title": "Specialized Skills",
+                    "description": "Medical procedures often require specific training and qualifications to perform.",
+                    "example": "She trained for years to master the procedure for heart surgery.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Patient Consent",
+                    "description": "Patients typically must give informed consent before a medical procedure.",
+                    "example": "Before the procedure, the patient was asked to sign the consent form.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8cf4b460-eff5-4516-af6b-7bc8e6092987",
+            "de": "A sequence of actions that a computer performs",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "In programming, a function is a type of procedure.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "programming procedure",
+                " computer procedure",
+                " function procedure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8cf4b460-eff5-4516-af6b-7bc8e6092987.webp",
+            "Tips": [
+                {
+                    "title": "Repeatability",
+                    "description": "In computing, procedures are designed to be repeatable and produce consistent results.",
+                    "example": "The sorting procedure can be run multiple times without errors.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Code Organization",
+                    "description": "Coding procedures help organize and manage complex programs by breaking them into smaller parts.",
+                    "example": "Good procedure names make a program easier to understand and maintain.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Approach": {
+            "wordRoot": "Approach",
+            "wordDefinition": "Approach refers to a general way of doing things or tackling a problem.\n\nIt's a broad concept that involves different techniques, strategies, or methods. An approach can be applicable in any situation where a particular goal needs to be achieved.\n\nProcedures are more specific and detailed than approaches and are often used in situations where there are established rules or protocols that need to be followed.\n\nTo illustrate, suppose you want to improve your grades in school. You can take a 'learning approach' by experimenting with different study methods until you find what works best for you.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8c0eee9-ccef-4d22-b622-bb77972ccf69.webp"
+        },
+        "Method": {
+            "wordRoot": "Method",
+            "wordDefinition": "Method refers to a specific approach or way of doing something.\n\nFor example, a cooking method refers to a set of steps or instructions to follow in order to prepare a particular dish.\n\nOverall, while method is more focused on the approach or way of doing something, procedure is more concerned with the specific steps needed to achieve a particular goal or outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc357a41-70fc-422c-a299-6eaf9554a1a1.webp"
+        },
+        "Operation": {
+            "wordRoot": "Operation",
+            "wordDefinition": "Operation refers to a surgical procedure where doctors use instruments and make incisions in the body to treat an illness or injury.\n\nIt can be applied to a wide range of activities, from cooking a meal to following a set of rules in a game. Procedures may or may not involve a physical operation.\n\nTo summarize, an operation is a type of medical procedure that involves surgery, while a procedure is a set of steps that can be applied to various activities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a9d6e3f-7145-4fb6-ac12-8ba80c9d4cf9.webp"
+        },
+        "Practice": {
+            "wordRoot": "Practice",
+            "wordDefinition": "Practice refers to repeatedly doing the same thing or a type of activity to become proficient at it. It's applicable in various fields, like music, sports, or even studying for a test.\n\nIn simpler terms, practice is the act of doing something over and over again to get better at it, while procedure is a set of guidelines that must be followed to achieve a desired outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8eadba3-4e7e-43ec-9056-d6eba5224153.webp"
+        },
+        "Process": {
+            "wordRoot": "Process",
+            "wordDefinition": "Process, on the other hand, generally refers to a larger system or set of actions that are involved in achieving a larger goal.\n\nFor example, a business might have a sales process that includes multiple steps, including lead generation, lead nurturing, and closing the sale.\n\nBoth words are applicable in a variety of contexts, but procedures tend to be more specific and precise, while processes tend to be more high-level and abstract.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/214c3479-b2b3-46be-8d7c-976cb7fa0b51.webp"
+        },
+        "Protocol": {
+            "wordRoot": "Protocol",
+            "wordDefinition": "A protocol is a set of rules, guidelines, or standards that must be followed. It is a specific set of rules that governs how things are done in a certain situation.\n\nFor example, a protocol for a medical trial might include specific guidelines for how patients are selected, what treatments are given, and how data is collected and analyzed.\n\nA procedure is a set of steps to follow to complete a task, while a protocol is a set of rules or guidelines to follow for a specific situation.\n\nProcedures are applicable in a wide variety of situations, from making a cake to conducting a scientific experiment, while protocols are more commonly used in specific industries such as medicine or technology.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ebc31f1-de63-47cd-87ce-6d7a1b7ba1e4.webp"
+        },
+        "System": {
+            "wordRoot": "System",
+            "wordDefinition": "A procedure is a specific set of steps that are followed in order to accomplish a task or reach a specific goal. It is more detailed and specific than a system.\n\nA system is a broader concept that refers to a group of procedures or processes that work together to achieve a larger goal.\n\nSystems tend to be more complex and involve several different procedures working in tandem to achieve a specific outcome.\n\nFor example, a restaurant might have a system in place for taking orders, preparing food, serving customers, and handling payments.\n\nIn summary, procedures are more specific and detailed steps that are used to achieve a smaller task or goal, while a system is a broader concept that refers to a group of procedures or processes used to achieve a larger goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp"
+        },
+        "Technique": {
+            "wordRoot": "Technique",
+            "wordDefinition": "Technique refers to a broad set of skills or methods used to achieve a particular goal or outcome. Techniques may vary depending on the situation and the individual using them, and may involve creativity and experimentation.\n\nTechniques can be used in a variety of settings, from artistic techniques used in painting or music, to athletic techniques used in sports, to cooking techniques used in the kitchen.\n\nA procedure is a specific set of steps that need to be followed to achieve a desired outcome, while a technique is a broad set of skills or methods that can be used to achieve a particular goal or outcome, and may vary depending on the situation and individual using them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b27dba19-a179-4291-ac8c-242b514e8876.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " There's a push to make researchers raw data, experimental procedures, and analytical techniques more openly available in order to ease replication efforts. The peer review process can also be strengthened to more efficiently weed out weak papers prior to publication. And we could temper the pressure to find big results",
+            "Title": "Is there a reproducibilit...",
+            "VideoId": "FpCrY7x5nEE",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " Scientists are currently monitoring the world's active volcanoes, and procedures for predicting eruptions, conducting evacuations and diverting lava flows have improved over the years. But the massive scale and global reach of a supervolcano means that for many people there would be nowhere to run.",
+            "Title": "The colossal consequences...",
+            "VideoId": "hDNlu7Qf6_E",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " It's the number of people that need to take a drug or undergo a surgery or any medical procedure before one person is helped. And you're thinking, what kind of crazy statistic is that? The number should be one. My doctor wouldn't prescribe something to me if it's not going to help.",
+            "Title": "How to stay calm when...",
+            "VideoId": "8jPQjjsBbIc",
+            "Controls": "start=441"
+        },
+        {
+            "Text": " No disease developed, and Jenner concluded that protection was complete. His plan had worked. Jenner later used the cowpox virus in several other people and challenged them repeatedly with smallpox, proving that they were immune to the disease. With this procedure,",
+            "Title": "How we conquered the...",
+            "VideoId": "yqUFy-t4MlQ",
+            "Controls": "start=194"
+        },
+        {
+            "Text": " heart surgeons can reroute blood flow around the blockage. These procedures reestablish circulation to the cardiac muscle, restoring heart function. Heart attack treatment is advancing, but prevention is vital. Genetics and lifestyle factors both affect your risk.",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=179"
+        },
+        {
+            "Text": " game designed to help hospital patients who are undergoing treatment for severe burns which is widely considered the single most painful medical procedure patients place no world by wearing a virtual reality headset and using a joystick to navigate the frozen",
+            "Title": "Heal your brain with...",
+            "VideoId": "9zyNcov087U",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " the lack of a lens would leave the patient's vision out of focus. Despite its low success rate, and high risk of infection or injury, couching is still performed in some parts of the world. Later procedures would also focus on removing the cloudy lens,",
+            "Title": "A curable condition that...",
+            "VideoId": "pgNXdNDkXoE",
+            "Controls": "start=69"
+        },
+        {
+            "Text": " like the arm kind of look like a piece of charred meat like like a hot dog that was left on a griddle too long the doctor said that I might be a candidate for this new procedure which is the spray gun and asked me if I would be interested",
+            "Title": "The Skin Gun PIPE National...",
+            "VideoId": "eXO_ApjKPaI",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " planning the procedure tomorrow will determine the future of this subspecies yeah confidence that that we will change the world tomorrow it's the day of the procedure first the females are",
+            "Title": "These Two Rhinos Are The...",
+            "VideoId": "Q8eh58Z249o",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " and dismissive of their motivations, being told things like, \"Come back when you're married with a child.\" But women who did have children, who went to go get this procedure,",
+            "Title": "I don't want children --...",
+            "VideoId": "A_xXC37CDSw",
+            "Controls": "start=268"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chris-hadfield.webp",
+            "Text": "Boldface' is a pilot term, a magic word to describe the procedures that could, in a crisis, save your life. We say that 'boldface is written in blood' because often it's created in response to an accident investigation. It highlights the series of steps that should have been taken to avoid a fatal crash, but weren't.",
+            "Title": "Canadian Astronaut",
+            "Name": "Chris Hadfield"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ashleigh-banfield.webp",
+            "Text": "I have had it with people who are threatening me and my kids and my family over simply commenting on the law and criminal procedure, and respecting juries. Because they do work hard. They work way harder than I do; and they work way harder than the rest of those people making those peanut gallery comments.",
+            "Title": "Canadian Journalist",
+            "Name": "Ashleigh Banfield"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-p-feynman.webp",
+            "Text": "Once you have a computer that can do a few things - strictly speaking, one that has a certain 'sufficient set' of basic procedures - it can do basically anything any other computer can do. This, loosely, is the basis of the great principle of 'Universality'.",
+            "Title": "American Physicist",
+            "Name": "Richard P. Feynman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dwyane-wade.webp",
+            "Text": "I've decided to listen to my doctors and get the procedure I need on my knee. USA Basketball said I had to do what was best for me. They want me to be obviously as healthy as possible so I can continue to play this game at a high level.",
+            "Title": "American Athlete",
+            "Name": "Dwyane Wade"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bayard-rustin.webp",
+            "Text": "The principal factors which influenced my life are 1) nonviolent tactics; 2) constitutional means; 3) democratic procedures; 4) respect for human personality; 5) a belief that all people are one.",
+            "Title": "American Leader",
+            "Name": "Bayard Rustin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paz-de-la-huerta.webp",
+            "Text": "I unfortunately had a lot of medical procedures throughout my life, so I decided to paint all of my surgeries as a way to heal and as a way to grow.",
+            "Title": "American Actress",
+            "Name": "Paz de la Huerta"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mel-robbins.webp",
+            "Text": "There is no shame in wanting to age naturally or wanting to 'age gracefully' with a little help from products or procedures.",
+            "Title": "American Journalist",
+            "Name": "Mel Robbins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/renzo-piano.webp",
+            "Text": "London is one of the most civilised places in the world for the procedure of making architecture and urban design.",
+            "Title": "Italian Architect",
+            "Name": "Renzo Piano"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fran-lebowitz.webp",
+            "Text": "Contrary to popular opinion, the hustle is not a new dance step - it is an old business procedure.",
+            "Title": "American Journalist",
+            "Name": "Fran Lebowitz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/doug-ford.webp",
+            "Text": "I can't think of a more life-changing procedure for a young woman than an abortion.",
+            "Title": "Canadian Businessman",
+            "Name": "Doug Ford"
+        }
+    ]
+}

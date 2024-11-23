@@ -1,0 +1,387 @@
+{
+    "currentWord": {
+        "wordRoot": "control",
+        "id": 7415,
+        "phonemic": "kənˈtrəʊl|kənˈtrəʊl\r",
+        "bigId": "c2915bf5-2054-4b4d-8e53-a8b2ccbd1ff7",
+        "wordForms": [
+            "controls",
+            "controlling",
+            "controlled",
+            "control"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c2915bf5-2054-4b4d-8e53-a8b2ccbd1ff7",
+            "de": "The power to make decisions or direct things.",
+            "ty": "noun",
+            "ex": "She has control over the department's budget.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "take control",
+                " lose control",
+                " have control"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c2915bf5-2054-4b4d-8e53-a8b2ccbd1ff7.webp",
+            "Tips": [
+                {
+                    "title": "Authority Aspect",
+                    "description": "Often implies responsibility for making important decisions or policies.",
+                    "example": "As CEO, she has control over company operations.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Cz1O14HvYFb3KTEIIDKYqgq37wo.webp"
+                },
+                {
+                    "title": "Power Dynamics",
+                    "description": "Can suggest superiority or dominance in a relationship or situation.",
+                    "example": "The manager's control over the team's schedule is absolute.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0eqDAJiPQrFBMRVE8vgbA0u3jiI.webp"
+                },
+                {
+                    "title": "Emotional Weight",
+                    "description": "In personal contexts, having or losing control can be emotionally significant.",
+                    "example": "He maintained control during the stressful negotiation.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/a768OzLztU0kp0UVrFKx8G0sXA.webp"
+                }
+            ]
+        },
+        {
+            "id": "39943f3d-be1d-4202-8ad6-ec53f3487155",
+            "de": "To command or direct something or someone.",
+            "ty": "verb",
+            "ex": "He controlled the crowd with his calm voice.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "control emotions",
+                " control oneself",
+                " control situation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/39943f3d-be1d-4202-8ad6-ec53f3487155.webp",
+            "Tips": [
+                {
+                    "title": "Directing Actions",
+                    "description": "Refers to managing or guiding how something happens or behaves.",
+                    "example": "She learned to control her spending habits.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Self-Discipline",
+                    "description": "When applied to oneself, control often relates to personal restraint or discipline.",
+                    "example": "He controlled his urge to respond angrily.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "28d1b4b7-e0ae-426b-841f-bc0dade94654",
+            "de": "A method or way of limiting, managing or stopping something.",
+            "do": "Technical",
+            "ty": "noun",
+            "ex": "The car's speed control was faulty.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "quality control",
+                " pest control",
+                " crowd control"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/28d1b4b7-e0ae-426b-841f-bc0dade94654.webp",
+            "Tips": [
+                {
+                    "title": "Limitation Function",
+                    "description": "Describes a process used to limit or regulate something to ensure proper functioning.",
+                    "example": "Factories implement quality control to maintain product standards.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Safety Measures",
+                    "description": "In technical fields, controlling something can be crucial for safety.",
+                    "example": "The technician checked the safety control systems before starting the machine.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "045ddf0b-0559-4119-922d-8048c5ecee27",
+            "de": "A person or thing used as a standard of comparison for checking the results of a scientific experiment.",
+            "do": "Scientific",
+            "ty": "noun",
+            "ex": "We used a control group in the experiment.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "control group",
+                " control experiment",
+                " control variable"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/045ddf0b-0559-4119-922d-8048c5ecee27.webp",
+            "Tips": [
+                {
+                    "title": "Comparative Reference",
+                    "description": "In scientific studies, controls are crucial for comparison and validation.",
+                    "example": "Her research included a control group to measure the treatment's effect.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Research Integrity",
+                    "description": "Control groups help ensure the reliability of experimental results.",
+                    "example": "Without a control group, the experiment's findings were questioned.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "778c05e5-4204-483c-936a-4a3b6855eef8",
+            "de": "A mechanism or a switch on a machine or vehicle that operates a particular function.",
+            "do": "Mechanical",
+            "ty": "noun",
+            "ex": "The volume control on this device is not working.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "control switch",
+                " control knob",
+                " safety control"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/778c05e5-4204-483c-936a-4a3b6855eef8.webp",
+            "Tips": [
+                {
+                    "title": "Operational Role",
+                    "description": "Implies an interactive component used to manipulate something's function.",
+                    "example": "Turn the control knob to adjust the temperature.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Immediate Effect",
+                    "description": "Controls typically produce an immediate result or change when used.",
+                    "example": "Pressing the control switch immediately stops the conveyor belt.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fae435e7-8cec-4ec3-8c31-3ea7d34ebbda",
+            "de": "To stop yourself from showing your emotions or doing what you want to do.",
+            "ty": "verb",
+            "ex": "She struggled to control her laughter.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "control anger",
+                " control temptations",
+                " control impulsive behavior"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fae435e7-8cec-4ec3-8c31-3ea7d34ebbda.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Restraint",
+                    "description": "Indicates the effort to keep emotions from being outwardly expressed.",
+                    "example": "Despite her frustration, she controlled her tone of voice.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Willpower",
+                    "description": "Highlights the use of personal will to regulate one's actions or reactions.",
+                    "example": "To stay healthy, he controls his eating habits.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Administer": {
+            "wordRoot": "Administer",
+            "wordDefinition": "Administer means to manage or give out something, often relating to medication or legal proceedings. For example, a doctor may administer a vaccine to a patient or a judge may administer an oath in court.\n\nWhile both words involve management and direction, administer refers more specifically to the act of giving or managing a specific item, while control refers to the overarching power and direction over something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/285b86f3-4e96-40b5-8cc8-809789e2fb58.webp"
+        },
+        "Command": {
+            "wordRoot": "Command",
+            "wordDefinition": "Command means to give orders, directions, or instructions to someone or a group of people. It involves telling people what they need to do, where to go, and how to do things.\n\nFor example, a military officer may command soldiers during a battle.\n\nEssentially, command is telling someone what to do, while control is managing a situation or activity to ensure that everything stays on track.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ec835d22-9b0b-4e7c-a8ab-e85edbef4e71.webp"
+        },
+        "Direct": {
+            "wordRoot": "Direct",
+            "wordDefinition": "Generally, control means to manage or regulate something overall, whereas direct means to guide or give instructions for a specific action.\n\nFor example, you can control a car by driving it and making sure it stays on the road, while directing the car means telling it where to turn or what speed to go.\n\nControl is often used in situations where there are many factors at play, while direct is used when there is a specific goal in mind.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a8ea371-6aa0-47e7-96f6-08d121dfc9de.webp"
+        },
+        "Dominate": {
+            "wordRoot": "Dominate",
+            "wordDefinition": "Dominate means to have complete power or influence over something or someone, often in an unfair or one-sided way.\n\nFor example, a dictator can dominate a country or a bully can dominate a conversation.\n\nControl implies a reasonable amount of authority, while dominate suggests an excessive or oppressive amount of power.\n\nControl is often used in situations where balance and fairness are important, while dominate is used in situations where one party has an unfair amount of power over another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/23129510-2340-453f-b406-6b13f3a732c1.webp"
+        },
+        "Govern": {
+            "wordRoot": "Govern",
+            "wordDefinition": "Govern means to rule over something or someone, often in a broader sense. It typically relates to the way in which a government or other authority regulates a society or organization.\n\nTo simplify: control is usually more hands-on, and involves directing or managing a specific thing or person. Govern is more about broader systems and regulations, and the way in which things are ruled over by an authority.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5b74ab36-1fdf-44e7-8ada-4b0dfc0b7e0a.webp"
+        },
+        "Handle": {
+            "wordRoot": "Handle",
+            "wordDefinition": "Handle means to manage or deal with something. For example, a teacher handles a class by ensuring that the students learn and behave well.\n\nControl refers to having authority or being in charge, while handle refers to managing or dealing with a situation or problem.\n\nHandle is used more often in situations where there is a need for patience, diplomacy, and negotiation, such as in customer service or conflict resolution.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/79a0a1a2-c7c2-48b9-ad43-d3d22008beeb.webp"
+        },
+        "Influence": {
+            "wordRoot": "Influence",
+            "wordDefinition": "Influence means having the ability to affect or impact someone or something without necessarily having direct control.\n\nFor instance, a friend may have a positive influence on you, encouraging you to make good choices, but they likely don't have direct control over your decisions.\n\nEach word is applicable in different situations. Control is typically used when describing a situation where someone has explicit power over others to direct or regulate their behavior, while influence describes a more subtle form of impact or effect on someone or something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d79f0c3-b806-4004-b5a8-ff1f1cbd4e6e.webp"
+        },
+        "Manage": {
+            "wordRoot": "Manage",
+            "wordDefinition": "Control refers to having power or authority over something, while manage means to handle or direct something effectively.\n\nFor example, a boss may control the employees in a company, meaning they have the power to hire, fire, or give orders. The boss may manage the employees, meaning they direct the employees' work and help them achieve their tasks effectively.\n\nControl is used when there is a need for authority, power, or restriction, while manage is used when there is a need for guidance, direction, and efficiency.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ad91e78-9546-410a-83ae-0d6f673c381b.webp"
+        },
+        "Regulate": {
+            "wordRoot": "Regulate",
+            "wordDefinition": "Control refers to having power over something or someone and the ability to make decisions about it, while regulate refers to setting rules or guidelines that govern how something works or behaves.\n\nRegulate is applicable in situations where one needs to create laws or policies that govern how something works. This can apply to many fields, such as finance, environment, and technology, where rules and guidelines need to be established to ensure fairness, safety, and efficiency.\n\nControl refers to having power over something or someone, while regulate refers to setting rules or guidelines that govern how something works or behaves.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/59c7a5b0-0994-4e8c-98b1-cfd8db50f991.webp"
+        },
+        "Superintend": {
+            "wordRoot": "Superintend",
+            "wordDefinition": "Superintend means to oversee or manage something, to be in charge of its functioning or performance. It implies a responsibility to ensure that things are happening the way they should be.\n\nFor example, a principal may superintend a school, making sure that teachers are doing their jobs and students are learning.\n\nControl is applicable in situations where someone has the power to make decisions and enforce them, while superintend implies more of a supervisory role, ensuring that things are happening as they should be.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d1641c62-b0f3-4bf8-ac7f-8204614bee07.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " although we don't know which genes are involved. But environment matters, too. Parents who put their child on a pedestal can foster grandiose narcissism. And cold, controlling parents can contribute to vulnerable narcissism. Narcissism also seems to be higher in cultures that value individuality and self-promotion.",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " was be the change you want to see in the world and my case for all of this is that we need a theory of change and what policy makers often seem to believe is that they can only affect change in schools by grabbing the reins and taking command of everything and controlling it and that's what we're seeing around the",
+            "Title": "Expanding our definition...",
+            "VideoId": "8awctnozMdo",
+            "Controls": "start=549"
+        },
+        {
+            "Text": " it takes the average person suffering with a mental illness over ten years to ask for help. But there are very effective treatments. Medications and therapy complement each other to boost brain chemicals. In extreme cases, electroconvulsive therapy, which is like a controlled seizure in the patient's brain,",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=152"
+        },
+        {
+            "Text": " which works like a carefully controlled seizure in the brain, is sometimes used as an emergency treatment. Some bipolar patients reject treatment because they're afraid it will dim their emotions and destroy their creativity. But modern psychiatry is actively trying to avoid that.",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=267"
+        },
+        {
+            "Text": " I controlled every outcome in my life.\" In his denial, Armstrong described a hypothetical situation focused on someone else, removing himself from the situation entirely. In his admission, he owns his statements, delving into his personal emotions and motivations.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=230"
+        },
+        {
+            "Text": " strengthens those brain functions, allowing us to apply that strength to other activities. The most obvious difference between listening to music and playing it is that the latter requires fine motor skills, which are controlled in both hemispheres of the brain.",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " that many of us exhibit from time to time. But the actual disorder is far more rare and can be quite debilitating. People affected have little or no control over their obsessive thoughts and compulsive behaviors, which tend to be time consuming",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=66"
+        },
+        {
+            "Text": " When the A.I. becomes superintelligent, it realizes that there is a more effective way to achieve this take control of the world and stick electrodes into the facial muscles of humans to cause constant, beaming grins. Another example,",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=586"
+        },
+        {
+            "Text": " wildlife control agent Steve d'amour and his team have set a net to catch three",
+            "Title": "Loose Wild Hogs PIPE...",
+            "VideoId": "bfejV5ufvTA",
+            "Controls": "start=7"
+        },
+        {
+            "Text": " no lands no life we can't control volcanoes but they're",
+            "Title": "Kilauea Volcano Eruption...",
+            "VideoId": "L4qDgsyFw7M",
+            "Controls": "start=102"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tony-robbins.webp",
+            "Text": "The secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. If you do that, you're in control of your life. If you don't, life controls you.",
+            "Title": "American Speaker",
+            "Name": "Tony Robbins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-kerouac.webp",
+            "Text": "My fault, my failure, is not in the passions I have, but in my lack of control of them.",
+            "Title": "American Novelist",
+            "Name": "Jack Kerouac"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alexander-graham-bell.webp",
+            "Text": "The nation that secures control of the air will ultimately control the world.",
+            "Title": "Scottish Inventor",
+            "Name": "Alexander Graham Bell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/groucho-marx.webp",
+            "Text": "Man does not control his own fate. The women in his life do that for him.",
+            "Title": "American Comedian",
+            "Name": "Groucho Marx"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-a-edison.webp",
+            "Text": "What a man's mind can create, man's character can control.",
+            "Title": "American Inventor",
+            "Name": "Thomas A. Edison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "If you understand the universe, you control it, in a way.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-r-swindoll.webp",
+            "Text": "I believe firmly in God's control in life.",
+            "Title": "American Clergyman",
+            "Name": "Charles R. Swindoll"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/floyd-mayweather-jr.webp",
+            "Text": "I like to control my own personal life.",
+            "Title": "American Boxer",
+            "Name": "Floyd Mayweather, Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/willie-nelson.webp",
+            "Text": "Freedom is control in your own life.",
+            "Title": "American Musician",
+            "Name": "Willie Nelson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-a-garfield.webp",
+            "Text": "Ideas control the world.",
+            "Title": "American President",
+            "Name": "James A. Garfield"
+        }
+    ]
+}

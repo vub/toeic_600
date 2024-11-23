@@ -1,0 +1,403 @@
+{
+    "currentWord": {
+        "wordRoot": "draw",
+        "id": 13039,
+        "phonemic": "drɔː|drɔː\r",
+        "bigId": "87d060d3-e1af-4a09-9606-e4b091b85423",
+        "wordForms": [
+            "draws",
+            "drew",
+            "drawn",
+            "drawing",
+            "drawings",
+            "redrawing",
+            "draw"
+        ]
+    },
+    "senses": [
+        {
+            "id": "87d060d3-e1af-4a09-9606-e4b091b85423",
+            "de": "Produce a picture or diagram by making lines and marks.",
+            "ty": "verb",
+            "ex": "He likes to draw in his free time.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "draw a picture",
+                " draw a diagram",
+                " draw a portrait"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/87d060d3-e1af-4a09-9606-e4b091b85423.webp",
+            "Tips": [
+                {
+                    "title": "Artistic Use",
+                    "description": "Used when referring to creating art, not just any picture.",
+                    "example": "She can draw beautiful landscapes.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PWOl1zrCXxjT9xemi283hEiuzBk.webp"
+                },
+                {
+                    "title": "Requires Skill",
+                    "description": "Implies the ability to depict something accurately with detail.",
+                    "example": "He learned to draw with amazing precision.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8JpFVYLzcmlH7oWPw6p2qXpd7o.webp"
+                }
+            ]
+        },
+        {
+            "id": "1169a805-7483-4082-8e0c-6bc6bf50d296",
+            "de": "Pull or drag something in a specified direction.",
+            "ty": "verb",
+            "ex": "She drew the curtain to one side.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "draw a curtain",
+                " draw a cart",
+                " draw a wagon"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1169a805-7483-4082-8e0c-6bc6bf50d296.webp",
+            "Tips": [
+                {
+                    "title": "Physical Movement",
+                    "description": "Involves moving an object by pulling it.",
+                    "example": "Please, draw the blinds for me.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Gentle Action",
+                    "description": "Suggests careful or gradual action, not sudden or forceful.",
+                    "example": "She gently drew the door open.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "815518f5-c0a6-4ee2-9f1c-b5fe9db4eac0",
+            "de": "Make someone or something come towards a place.",
+            "ty": "verb",
+            "ex": "The concert drew a large crowd.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "draw attention",
+                " draw a crowd",
+                " draw criticism"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/815518f5-c0a6-4ee2-9f1c-b5fe9db4eac0.webp",
+            "Tips": [
+                {
+                    "title": "Attraction Context",
+                    "description": "Commonly used to describe a person or event that attracts attention or interest.",
+                    "example": "The festival will draw tourists from around the world.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Magnetic Quality",
+                    "description": "Often associated with an inherent quality that pulls others towards something.",
+                    "example": "Her charisma drew people to her cause.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b4c11c2e-1f72-4e47-a928-58a51271a3b2",
+            "de": "Arrive at a point in time or a specified point in a process.",
+            "ty": "verb",
+            "ex": "As the day of the wedding drew closer, she began to panic.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "draw close",
+                " draw near",
+                " draw to a close"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b4c11c2e-1f72-4e47-a928-58a51271a3b2.webp",
+            "Tips": [
+                {
+                    "title": "Time Relation",
+                    "description": "Indicates an event or moment is approaching or coming to an end.",
+                    "example": "As the holiday draws near, I get more excited.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "23688270-6a1a-49a4-99a0-7e5c70d5e46d",
+            "de": "Extract something from a particular source.",
+            "ty": "verb",
+            "ex": "She drew strength from the support of her friends.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "draw strength",
+                " draw money",
+                " draw resources"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/23688270-6a1a-49a4-99a0-7e5c70d5e46d.webp",
+            "Tips": [
+                {
+                    "title": "Source Essential",
+                    "description": "Means taking something needed from a larger pool or source.",
+                    "example": "He drew inspiration from nature for his poetry.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "001e9edc-61bb-4f3a-a849-08cacf2de664",
+            "de": "Reach a conclusion or establish something by reasoning.",
+            "ty": "verb",
+            "ex": "From the evidence, we can draw some conclusions.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "draw a conclusion",
+                " draw an inference",
+                " draw parallels"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/001e9edc-61bb-4f3a-a849-08cacf2de664.webp",
+            "Tips": [
+                {
+                    "title": "Reasoning Process",
+                    "description": "It's about making a logical conclusion from the information given.",
+                    "example": "Based on the clues, we can draw a conclusion.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bb5b6c8d-6b22-4f3c-a90d-ce4ed3e2cb31",
+            "de": "In games and competitions, to finish with the same score or result as an opponent.",
+            "ty": "verb",
+            "ex": "The chess game ended in a draw.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "draw a match",
+                " draw a game",
+                " draw a contest"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bb5b6c8d-6b22-4f3c-a90d-ce4ed3e2cb31.webp",
+            "Tips": [
+                {
+                    "title": "Equal Outcome",
+                    "description": "Used when two or more parties have the same result in a contest.",
+                    "example": "The teams will draw if neither scores again.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f5077469-9527-4811-a286-5fb87cd35bc7",
+            "de": "A competition where winners are selected by a random draw.",
+            "ty": "noun",
+            "ex": "The winners of the lottery draw are announced.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "lottery draw",
+                " prize draw",
+                " random draw"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f5077469-9527-4811-a286-5fb87cd35bc7.webp",
+            "Tips": [
+                {
+                    "title": "Luck Based",
+                    "description": "Refers to an outcome decided by chance, not skill.",
+                    "example": "They entered their names into the prize draw.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Create": {
+            "wordRoot": "Create",
+            "wordDefinition": "Create generally means to make something new that did not exist before.\n\nSo while you can create a drawing, you can also create many other things that don't involve drawing, such as a sculpture or a website.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a52e3d83-edb6-4339-90c4-5ea611821445.webp"
+        },
+        "Design": {
+            "wordRoot": "Design",
+            "wordDefinition": "Design refers to the process of planning or creating something, while Draw refers to the act of creating a picture or image by hand or with a tool.\n\nDesign applies when you are starting a project or creating something new, such as a product, building or website. It involves thinking about the purpose of the project, the needs of the target audience, and the best way to achieve the desired results.\n\nDesign is about creating a plan or strategy, while drawing is about creating visuals or images. Both skills are important, but they have different applications.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5af82093-71d4-4dd9-88b8-a38181fc118f.webp"
+        },
+        "Doodle": {
+            "wordRoot": "Doodle",
+            "wordDefinition": "Doodle typically refers to a drawing made absentmindedly or without much thought, often done while someone is thinking or listening.\n\nDrawing requires more skill, planning and effort than doodling.\n\nFor example, someone might doodle in the margins of their notebook while listening to a lecture, while someone might draw a detailed illustration for a book cover or comic book.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0c3a2647-58d5-4eee-9b5e-caf4aa9513e6.webp"
+        },
+        "Draft": {
+            "wordRoot": "Draft",
+            "wordDefinition": "Draft refers to creating a preliminary version or plan of something, such as an essay, a blueprint, or a policy proposal.\n\nDraft is used in more formal or professional contexts, while draw is more commonly used in art or everyday situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5950a3e1-2c1c-44ca-b325-9731f7c968ef.webp"
+        },
+        "Outline": {
+            "wordRoot": "Outline",
+            "wordDefinition": "Outline means to draw the basic shape or form of something without adding too many details. It is commonly used to plan out a design or to create a rough draft before creating a more detailed drawing.\n\nDraw is used when you want to create a more detailed and refined image, while outline is used for creating a basic plan or draft.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a89cf131-12bc-45e1-8b68-ec5522fecd0f.webp"
+        },
+        "Produce": {
+            "wordRoot": "Produce",
+            "wordDefinition": "Produce means to make or manufacture something, usually on a larger scale.\n\nDraw is applicable when creating visual art, while produce is applicable when manufacturing physical items.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f3d8afc-8641-4c33-b842-4574559c5bb7.webp"
+        },
+        "Sketch": {
+            "wordRoot": "Sketch",
+            "wordDefinition": "Sketch means to draw something quickly without many details. Sketching is usually done to capture an idea or an impression.\n\nSketches can be made using pencils, charcoal, or ink. They can be used to plan a project, illustrate a concept, or even create a preliminary version of a painting.\n\nIn simple terms, drawing is a more detailed and finished version of art, while sketching is a rough, quick and simple version of drawing that is usually used for planning or drafting purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/69dac277-22b7-4231-a065-2304dd069080.webp"
+        },
+        "Trace": {
+            "wordRoot": "Trace",
+            "wordDefinition": "Trace means to copy or follow the outlines of an existing image. It involves placing a piece of paper on top of the image and using a pencil to copy its shape.\n\nDrawing is applicable when you want to create a new image or express your creativity. Tracing is applicable when you want to copy an image accurately, for example, when you are tracing a map, a picture, or a design.\n\nIn summary, drawing is about creating something new, while tracing is about copying something already existing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/77482677-a676-4c0a-aac2-73e16783f20c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " These curves help us stay upright and absorb some of the stress from activities like walking and jumping. If they are aligned properly, when you're standing up, you should be able to draw a straight line from a point just in front of your shoulders, to behind your hip,",
+            "Title": "The benefits of good...",
+            "VideoId": "OyK0oE5rwFY",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " the mercury would flow to the bottom of each reservoir, leaving one side of the wheel perpetually heavier than the other. The imbalance would keep the wheel turning forever. Bhaskara's drawing was one of the earliest designs for a perpetual motion machine,",
+            "Title": "Why don't perpetual...",
+            "VideoId": "A-QgGXbDyR0",
+            "Controls": "start=20"
+        },
+        {
+            "Text": " that we observe from afar in many of Vermeer's paintings. A girl reading a letter. A piano lesson. A portrait artist at work. These paintings give us a sense of intimacy while retaining their distance, a drawn curtain often emphasizes the separation.",
+            "Title": "Why is Vermeer's \"Girl...",
+            "VideoId": "pM_IzEAv5d4",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " Then I brainstorm answers to questions that draw out the details of my fictional world. What rules are in place here? This covers everything from laws of gravity, or not, to the rules of society and the punishments for individuals who break them.",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " this could also cause a huge surge in air pollution, an unintended consequence that's important to think about. explore other points of view. Ask yourself why so many people are drawn to the policies of the opposing political candidate.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " thousand years ago or so communicating with others has been an important part of why people have scratched things on rocks and made made drawings you can look at these things and imagine very clearly what it must have been like to",
+            "Title": "Inventing Graphics on...",
+            "VideoId": "-edCo-ZZIiE",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " that allow them to draw without a window. One is that parallel lines, like these, can only be drawn as parallel if they're parallel to the plane of the canvas. Otherwise, they need to be drawn converging to a common point",
+            "Title": "The mathematics of...",
+            "VideoId": "wujEE3PRVUo",
+            "Controls": "start=138"
+        },
+        {
+            "Text": " It brutally draws us in to a virtual sensory awareness of the world much like meditation.\" If shivering is a form of meditation, then I would consider myself a monk. Now, before we get into the why",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=76"
+        },
+        {
+            "Text": " Main Street was so glorious it made me think there is so much in the world to draw inspiration from for me it's my amazing fiction books arts and crafts my favorite youtubers such as superwoman",
+            "Title": "A message from the next...",
+            "VideoId": "-QIi_MPo0b0",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " drawn to this one last oasis for those able to travel this water is a lifesaver",
+            "Title": "BBC Earth 50 Top Natural...",
+            "VideoId": "oP2oGREukAE",
+            "Controls": "start=465"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-paul-sartre.webp",
+            "Text": "One always dies too soon or too late. And yet, life is there, finished: the line is drawn, and it must all be added up. You are nothing other than your life.",
+            "Title": "French Philosopher",
+            "Name": "Jean-Paul Sartre"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dr-seuss.webp",
+            "Text": "I start drawing, and eventually the characters involve themselves in a situation. Then in the end, I go back and try to cut out most of the preachments.",
+            "Title": "American Writer",
+            "Name": "Dr. Seuss"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-bach.webp",
+            "Text": "Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.",
+            "Title": "American Novelist",
+            "Name": "Richard Bach"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joel-courtney.webp",
+            "Text": "I can't draw a straight line to save my life. I just can't draw.",
+            "Title": "American Actor",
+            "Name": "Joel Courtney"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hayley-atwell.webp",
+            "Text": "I like characters who have faults. I'm drawn to darker people.",
+            "Title": "English Actress",
+            "Name": "Hayley Atwell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-manuel-de-homem-christo.webp",
+            "Text": "We wanted to draw a line between public life and private life.",
+            "Title": "",
+            "Name": "Guy-Manuel de Homem-Christo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emmanuelle-riva.webp",
+            "Text": "In acting, you draw so much on your private life.",
+            "Title": "French Actress",
+            "Name": "Emmanuelle Riva"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-layfield.webp",
+            "Text": "I draw the line between me and my character.",
+            "Title": "American Businessman",
+            "Name": "John Layfield"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guillermo-diaz.webp",
+            "Text": "I'm drawn to the not-so-perfect character.",
+            "Title": "American Actor",
+            "Name": "Guillermo Diaz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alex-ferguson.webp",
+            "Text": "I've never played for a draw in my life.",
+            "Title": "Scottish Coach",
+            "Name": "Alex Ferguson"
+        }
+    ]
+}

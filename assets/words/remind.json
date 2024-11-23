@@ -1,0 +1,281 @@
+{
+    "currentWord": {
+        "wordRoot": "remind",
+        "id": 810,
+        "phonemic": "rɪˈmaɪnd|rɪˈmaɪnd\r",
+        "bigId": "7bd54214-4480-43d1-af51-bda5aeca1eeb",
+        "wordForms": [
+            "reminds",
+            "reminding",
+            "reminded",
+            "remind"
+        ]
+    },
+    "senses": [
+        {
+            "id": "7bd54214-4480-43d1-af51-bda5aeca1eeb",
+            "de": "To cause someone to remember something",
+            "ty": "verb",
+            "ex": "Let me remind you that the deadline is soon.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "remind me",
+                " remind you",
+                " remind them"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7bd54214-4480-43d1-af51-bda5aeca1eeb.webp",
+            "Tips": [
+                {
+                    "title": "Time-sensitive Reminder",
+                    "description": "Use 'remind' to alert someone about approaching events or deadlines.",
+                    "example": "The alarm will remind you of your appointment.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UYtJGG82sh0iZ1FlMTDzUOmfs.webp"
+                },
+                {
+                    "title": "Action Prompt",
+                    "description": "'Remind' can prompt someone to take action they might forget.",
+                    "example": "I'll remind Beth to send the email.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/AHUID7rA9laQJLidIXj68VWzZgI.webp"
+                },
+                {
+                    "title": "Subtle Nudge",
+                    "description": "'Remind' is often used to give a gentle nudge about something previously mentioned.",
+                    "example": "Just to remind you, the meeting was moved to 3 PM.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HGKvXzoUnAaJUPwnD3INWWTutOs.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8adab949-8a9b-4148-9e8c-04cfbd58bc3c",
+            "de": "To suggest or bring to mind something from the past",
+            "ty": "verb",
+            "ex": "This place reminds me of my childhood.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reminds me of",
+                " reminds you of",
+                " reminds them of"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8adab949-8a9b-4148-9e8c-04cfbd58bc3c.webp",
+            "Tips": [
+                {
+                    "title": "Nostalgic Connection",
+                    "description": "'Remind' can link present experiences to pleasant memories.",
+                    "example": "The scent of the ocean reminds me of summer vacations.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Trigger",
+                    "description": "Can invoke a strong emotional response by referencing the past.",
+                    "example": "That song always reminds me of home.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a8d7145c-c4e0-48ac-accb-211c6e74860c",
+            "de": "To cause a feeling or memory to appear in someone",
+            "ty": "verb",
+            "ex": "Her stories reminds us of the power of hope.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reminds us",
+                " reminds them",
+                " reminds herself"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a8d7145c-c4e0-48ac-accb-211c6e74860c.webp",
+            "Tips": [
+                {
+                    "title": "Shared Experiences",
+                    "description": "'Remind' invokes common memories or feelings among a group.",
+                    "example": "This victory reminds us all of past triumphs.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Inspiration Spark",
+                    "description": "Brings a sense of inspiration by connecting present to memories.",
+                    "example": "Her speech reminded us of our shared goals.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Alert": {
+            "wordRoot": "Alert",
+            "wordDefinition": "Alert means to get someone's attention or warn them about something important or dangerous.\n\nFor example, if your friend is about to cross a busy road without looking, you would alert them to be careful. Whereas, if you ask your friend to remind you to bring a textbook to school tomorrow, it means you want them to help you remember something you might forget.\n\nIn conclusion, alert is used for immediate warning and attention, while remind is used for recalling an already known or planned event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f04635e-4603-4059-b734-32d2a441a189.webp"
+        },
+        "Cue": {
+            "wordRoot": "Cue",
+            "wordDefinition": "Cue means to give a signal or prompt to indicate that a particular action or event should happen, such as a director giving an actor a cue to enter the stage.\n\nCue is often used in situations where a specific action is required, while remind is used to jog someone's memory or help them complete a task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8c750d5b-5cd0-4fa5-98d1-57e3614d90b3.webp"
+        },
+        "Jog": {
+            "wordRoot": "Jog",
+            "wordDefinition": "Jog means to shake or prod someone's memory so that they remember something.\n\nIt is used when someone needs to remember something but has forgotten it temporarily. Example: \"Can you jog my memory and remind me of the name of that restaurant we went to last week?\".\n\nJog is used to refresh someone's memory of something they've forgotten, while remind is used to help someone remember something they knew but had forgotten.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/062316bd-e644-4c15-8de5-029113576a28.webp"
+        },
+        "Notify": {
+            "wordRoot": "Notify",
+            "wordDefinition": "Notify means to inform someone about something important, like an event or a change in plans. For example, your school might notify you about a change in the schedule or your friend might notify you about a party.\n\nSo, while both words involve communication, notify is used to give new information, while remind is used to refresh someone's memory.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eaf38bc8-142c-419d-b48a-d1a22154821e.webp"
+        },
+        "Nudge": {
+            "wordRoot": "Nudge",
+            "wordDefinition": "Nudge means to give a small and gentle push to someone in order to get their attention or to encourage them to take action.\n\nFor example, if your friend is sitting around and not doing their homework, you could nudge them to start.\n\nNudge is used when you want to encourage someone to do something, while remind is used when you want to help someone recall important information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/60a72f05-c2a6-4728-890e-de193f78a991.webp"
+        },
+        "Prod": {
+            "wordRoot": "Prod",
+            "wordDefinition": "Prod means to encourage or motivate someone to do something.\n\nFor example, if a student is procrastinating on their homework, their teacher might prod them to start working on it by reminding them of the deadline.\n\nProd is used to encourage action, while remind is used to jog someone's memory.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7631d0e2-6c1e-4a91-97ab-fbd9ea0f1112.webp"
+        },
+        "Prompt": {
+            "wordRoot": "Prompt",
+            "wordDefinition": "Prompt means to give someone a gentle nudge or reminder to take action or do something.\n\nIt is typically used when someone needs a bit of encouragement or direction to start or complete a task. For example, a teacher might prompt a student to turn in their homework on time or a family member might prompt another family member to wake up on time for an important event.\n\nTo summarize, both prompt and remind involve helping someone take action or remember something, but prompt is used more for encouraging action while remind is used more for recalling information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a3ce666-301c-4943-a876-60808de761b7.webp"
+        },
+        "Recapitulate": {
+            "wordRoot": "Recapitulate",
+            "wordDefinition": "Recapitulate means to summarize or give a brief overview of the main parts or points of a larger topic or discussion.\n\nFor example, if you were giving a presentation on a topic, you might recapitulate the main points of the presentation at the end to summarize what you've said.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3e320b65-fdd4-4db7-93b9-a0ff30896c70.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " What self-respecting night manager would ever want to work there even for an infinite salary? But over at Hilbert's Infinite Hotel, where there's never any vacancy and always room for more, the scenarios faced by the ever-diligent and maybe too hospitable night manager serve to remind us of just how hard it is for our relatively finite minds",
+            "Title": "The Infinite Hotel...",
+            "VideoId": "Uj3_KqkI9Zo",
+            "Controls": "start=312"
+        },
+        {
+            "Text": " to throw all the emphasis on the language and to show that theater can be created at any setting. It's a powerful thing, getting in a room with complete strangers and reminding ourselves of our humanity, and that self-expression is just as valuable a tool as a rifle on your shoulder. And for an organization like the military,",
+            "Title": "My journey from Marine...",
+            "VideoId": "nCwwVjPNloY",
+            "Controls": "start=445"
+        },
+        {
+            "Text": " while the colder temperatures promote longer life spans, giving animals the opportunity to grow massive. Many of these exotic sea beasts will never experience sunlight. Some will venture up through the water column to feed, and a few will actually break the waves, reminding us at the surface",
+            "Title": "The otherworldly...",
+            "VideoId": "U69LIr0OrNc",
+            "Controls": "start=249"
+        },
+        {
+            "Text": " In time, the error was tracked to a single incorrectly connected fiber optic cable. This example reminds us that real science is more than static textbooks. Instead, researchers around the world are continuously publishing their latest discoveries",
+            "Title": "Is there a reproducibilit...",
+            "VideoId": "FpCrY7x5nEE",
+            "Controls": "start=33"
+        },
+        {
+            "Text": " redwood lumber we may well be reminded of its ancient history for this is lumber from a species of tree that has survived for millions of years trees that live to be two and four thousand years old the tallest biggest oldest trees in the world",
+            "Title": "One Man’s Mission to...",
+            "VideoId": "wW9w6eCQQkU",
+            "Controls": "start=167"
+        },
+        {
+            "Text": " On the other hand, by fine-tuning our attention to the absurd, Kafka also reflects our shortcomings back at ourselves. In doing so, he reminds us that the world we live in is one we create, and have the power to change for the better.",
+            "Title": "What makes something...",
+            "VideoId": "wkPR4Rcf4ww",
+            "Controls": "start=270"
+        },
+        {
+            "Text": " just a courageous person who dares to be different they're very different that we all are here today they're very different that we are reminded of every single day when we walk out of our home and see other people's reality after",
+            "Title": "Walking in your truth as...",
+            "VideoId": "EDaR9zAiKbc",
+            "Controls": "start=303"
+        },
+        {
+            "Text": " reshape the surface of our planet is very striking but it's also sobering it reminds me of just how easy it is for to lose our connection with the natural world yet it's on this connection that the future",
+            "Title": "Cities That Are Saving...",
+            "VideoId": "pEx6XeBh1yE",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " So do we need heroes? Absolutely! No matter what the time or place, we still need something to believe in. They remind us of the good in each of us, and the need for hope and the importance of knowledge.",
+            "Title": "A host of heroes - April...",
+            "VideoId": "_p9Q8Dj3X2c",
+            "Controls": "start=261"
+        },
+        {
+            "Text": " connecting with nature in a mindful way we're reminded that we're not separate from the world around us",
+            "Title": "Diving With Dolphins -...",
+            "VideoId": "hqQ1ZS-HSdE",
+            "Controls": "start=142"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gino-dacampo.webp",
+            "Text": "I think if you're a good person and you show that you learned from all the mistakes that you made you move on with your life. Everybody will accept that. Only an idiot will not accept that or keep reminding you of it and keep pointing that finger.",
+            "Title": "Italian Chef",
+            "Name": "Gino D'Acampo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harvey-keitel.webp",
+            "Text": "So there's no such thing as one too many this, one too many that. I remember, you're reminding me of early in my career, somebody said to me: why are you taking so many roles as a policeman.",
+            "Title": "American Actor",
+            "Name": "Harvey Keitel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hal-sutton.webp",
+            "Text": "We are reminded how short life really is, and how we are just passing through. So, all the people you haven't told you love lately, tell them, and live your days like you mean it.",
+            "Title": "American Athlete",
+            "Name": "Hal Sutton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-barkley.webp",
+            "Text": "My family got all over me because they said Bush is only for the rich people. Then I reminded them, 'Hey, I'm rich'.",
+            "Title": "American Baseball Player",
+            "Name": "Charles Barkley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/max-von-sydow.webp",
+            "Text": "I think it's good that we're sometimes reminded of important events in history.",
+            "Title": "Swedish Actor",
+            "Name": "Max von Sydow"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elia-kazan.webp",
+            "Text": "You have to remind people of their own struggles. It's a responsibility.",
+            "Title": "American Director",
+            "Name": "Elia Kazan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yu-darvish.webp",
+            "Text": "I want to remind people with dogs that they are your responsibility.",
+            "Title": "Japanese Baseball Player",
+            "Name": "Yu Darvish"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karen-thompson-walker.webp",
+            "Text": "There's a pleasure in being reminded of the value of ordinary life.",
+            "Title": "Author",
+            "Name": "Karen Thompson Walker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mia-wasikowska.webp",
+            "Text": "I like characters who remind me of someone I know.",
+            "Title": "Australian Actress",
+            "Name": "Mia Wasikowska"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/miquita-oliver.webp",
+            "Text": "I like to be reminded that life is going on.",
+            "Title": "",
+            "Name": "Miquita Oliver"
+        }
+    ]
+}

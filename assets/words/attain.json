@@ -1,0 +1,305 @@
+{
+    "currentWord": {
+        "wordRoot": "attain",
+        "id": 7166,
+        "phonemic": "əˈteɪn|əˈteɪn\r",
+        "bigId": "a76e45b6-6772-40a8-b731-21c122c2a6cc",
+        "wordForms": [
+            "attains",
+            "attaining",
+            "attained",
+            "attainment",
+            "attainable",
+            "attain"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a76e45b6-6772-40a8-b731-21c122c2a6cc",
+            "de": "To achieve or reach a goal or target after hard work or effort.",
+            "ty": "verb",
+            "ex": "After many years of studying, she finally attained her degree.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "attain a degree",
+                " attain a goal",
+                " attain success"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a76e45b6-6772-40a8-b731-21c122c2a6cc.webp",
+            "Tips": [
+                {
+                    "title": "Effort Required",
+                    "description": "Use 'attain' when significant effort or dedication is needed to achieve something.",
+                    "example": "She worked tirelessly to attain fluency in French.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/N8aLD5AoAh3QfUWi4RwHdK4LNQ.webp"
+                },
+                {
+                    "title": "Positive Achievement",
+                    "description": "'Attain' often implies a positive outcome and is used for reaching goals that are generally seen as good.",
+                    "example": "He attained a high level of respect among his peers.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/z58lvNRqtCrwpdtx3g9sPr5WFo.webp"
+                },
+                {
+                    "title": "Goal-Oriented",
+                    "description": "It usually refers to reaching tangible goals like a title or target, not just any result.",
+                    "example": "After decades, the nation attained its goal of reducing pollution.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/D9Tp5CWO8jXQFT7yLvsKlJYDxA.webp"
+                }
+            ]
+        },
+        {
+            "id": "e54cd03c-e436-499a-b475-13a5ab6a7668",
+            "de": "To arrive at or come to a specific condition.",
+            "ty": "verb",
+            "ex": "The population of the city has attained one million.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "attain an age",
+                " attain a size",
+                " attain a population"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e54cd03c-e436-499a-b475-13a5ab6a7668.webp",
+            "Tips": [
+                {
+                    "title": "Definite Point",
+                    "description": "It's about reaching a specific point, like an age or a number, where there's clear attainment.",
+                    "example": "The athlete aimed to attain peak physical condition.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Applying to Non-Goals",
+                    "description": "Use 'attain' for situations where reaching a condition is not necessarily a goal.",
+                    "example": "The wine will attain its best flavor in about five years.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No Personal Achievement",
+                    "description": "It can refer to impersonal or natural developments, not just personal achievements.",
+                    "example": "The forest has attained a new level of biodiversity.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "edd791f7-050f-4294-9f04-b6501439817e",
+            "de": "To grow or progress to a specific stage or level.",
+            "ty": "verb",
+            "ex": "The project has attained the final stage of completion.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "attain maturity",
+                " attain completion",
+                " attain a milestone"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/edd791f7-050f-4294-9f04-b6501439817e.webp",
+            "Tips": [
+                {
+                    "title": "Developmental Stage",
+                    "description": "Emphasizes growth or progress until a certain stage or level in a process.",
+                    "example": "A juvenile frog attains its adult form after metamorphosis.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Completion Phase",
+                    "description": "'Attain' is suitable for expressing the achievement of a final phase of something bigger.",
+                    "example": "The building project attained completion last month.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Progression Milestones",
+                    "description": "Can describe reaching milestones in development, often used with projects or life stages.",
+                    "example": "The startup attained profitability within two years.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accomplish": {
+            "wordRoot": "Accomplish",
+            "wordDefinition": "Accomplish means to complete or achieve something through effort or skill.\n\nIt is used when talking about goals or tasks that require action or work to be done. For example, you can accomplish a project by putting in time and effort to finish it.\n\nAccomplish is used when talking about completing tasks, while attain is used when talking about achieving something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/04206266-c243-4736-a27e-7709de57f5ec.webp"
+        },
+        "Achieve": {
+            "wordRoot": "Achieve",
+            "wordDefinition": "The words achieve and attain both mean to reach a goal or objective, but their usage slightly differs.\n\nAchieve is used when someone has worked hard and made progress towards a specific goal or objective. For example, if you work hard and get good grades on your exams, you have achieved success.\n\nOverall, both words mean to reach a goal or objective, but achieve is typically used when referring to successful efforts, while attain is used when referring to acquisition.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3466fd78-67cd-41c0-9e72-f16bc689923c.webp"
+        },
+        "Acquire": {
+            "wordRoot": "Acquire",
+            "wordDefinition": "Acquire means to gain or obtain something through effort or purchase. For example, you might acquire a new skill by taking a class, or acquire a new car by saving up money to buy it.\n\nBoth acquire and attain involve obtaining something, but acquire usually refers to obtaining a physical or tangible object, while attain usually refers to achieving a goal or accomplishment through effort or hard work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/608ceab9-940a-41d2-8484-6269523a886d.webp"
+        },
+        "Earn": {
+            "wordRoot": "Earn",
+            "wordDefinition": "Earn also means to acquire something through effort or hard work, but it is usually associated with receiving a reward or payment for work done.\n\nAttain is used when you are referring to reaching a specific goal or level through your own effort and skill, whereas earn is used when you are referring to receiving payment or compensation for work done.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b298df30-c12c-42f0-a328-744f1beae6e9.webp"
+        },
+        "Gain": {
+            "wordRoot": "Gain",
+            "wordDefinition": "Gain refers to obtaining something, usually tangible or measurable, without necessarily working for it. Examples include gaining weight, gaining money or gaining popularity.\n\nAttain describes achievements, accomplishments or skills that require effort or hard work, whereas gain suggests getting something that may not require as much effort.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7cb93623-b435-4750-91ba-fbfb0635b803.webp"
+        },
+        "Get": {
+            "wordRoot": "Get",
+            "wordDefinition": "Get is generally used to describe obtaining something, such as getting a book from the library or getting a cup of coffee.\n\nAttain is used when referring to the accomplishment of a specific goal that required effort, while get is more general and refers to obtaining something or achieving something in a less specific way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/480c2f42-c619-4eb8-a1db-b3f617384c53.webp"
+        },
+        "Obtain": {
+            "wordRoot": "Obtain",
+            "wordDefinition": "Both attain and obtain mean to acquire or get something, but they are used in slightly different contexts.\n\nObtain usually implies getting something by requesting it or through some sort of process or action. For example, you might obtain a passport by applying for it at the government office or obtain a book by borrowing it from the library.\n\nSo, in general, obtain is used when someone acquires something through a process, while attain is used when someone achieves something through effort.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74ca53ea-29c3-49b7-8184-25c4d7d811bf.webp"
+        },
+        "Procure": {
+            "wordRoot": "Procure",
+            "wordDefinition": "Procure means to obtain something by making an effort or getting it from a source.\n\nIt describes acquiring something that may not be readily available or requires effort to obtain. For example, a person may procure rare books or antique pieces from auctions or specialty stores.\n\nAttain is used when you work towards achieving something, while procure is used when you obtain something through effort or by seeking it out.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d131c792-05e1-4e02-856f-1a8592bf87fd.webp"
+        },
+        "Reach": {
+            "wordRoot": "Reach",
+            "wordDefinition": "The words attain and reach both refer to achieving something, but they are used in slightly different contexts.\n\nReach can also refer to achieving a goal, but it is more commonly used to describe physically getting to a destination or touching something.\n\nFor example, you might say \"I reached the top of the mountain\" or \"I can't quite reach the top shelf.\"\n\nAttain is used for achieving a specific goal or level of success, while reach is used for physically getting to a place or touching something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06f7c490-d09c-4f45-b475-7c3aaa985aef.webp"
+        },
+        "Secure": {
+            "wordRoot": "Secure",
+            "wordDefinition": "Secure means to make sure something is safe or protected.\n\nIt can refer to physical safety, financial safety or the safety of possessions. For example, you could secure your bike by locking it up, secure your finances by investing properly, or secure your home by installing a security system.\n\nAttain describes achieving a goal or accomplishment, while secure describes making sure something is safe or protected.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c1259d83-337a-4e1f-b482-4677117eb2ed.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " attained think about yin and yang yin and yang aren't enemies yin and yang don't hate each other yin and yang are both necessary like night and day for the functioning of the world you find the same thing in hinduism uh there are many high gods in hinduism two of them are vishnu the preserver shiva the destroyer this image actually is both of those",
+            "Title": "The moral roots of...",
+            "VideoId": "8SOQduoLgRw",
+            "Controls": "start=910"
+        },
+        {
+            "Text": " I coined my own definition of success, which Peace of mind attained only through self-satisfaction in knowing you made the effort to do the best of which you're capable. I believe that's true. If you make the effort to do the best of which you're capable, trying to improve the situation that exists for you, I think that's success,",
+            "Title": "The difference between...",
+            "VideoId": "0MM-psvqiG8",
+            "Controls": "start=182"
+        },
+        {
+            "Text": " to curate dance music to people in inaccessible places under the influence of alcohol. Not I. So in a competitive industry where DJs have been relentlessly honing their craft, desperate to attain gigs, sending demos to clubs, my best friend and I took a different approach,",
+            "Title": "The perks of being a...",
+            "VideoId": "KzIp4IzDPG0",
+            "Controls": "start=350"
+        },
+        {
+            "Text": " and that same promise to myself. To love her and myself hard with forgiveness and compassion, with tough love and with generosity. To give room for growth, to push beyond comfort in hopes of attaining and living a more meaningful life. I know in my head and in my heart",
+            "Title": "What it's like to be a...",
+            "VideoId": "vVx39Jv6PFM",
+            "Controls": "start=787"
+        },
+        {
+            "Text": " Other methods may be more intense using techniques of coercive persuasion involving guilt, shame, and fear. And in many cases, members may willingly submit out of desire to belong and to attain the promised rewards. The cult environment discourages critical thinking,",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=262"
+        },
+        {
+            "Text": " and send my siblings and me to school. They made it possible for us to enjoy a standard of living which they never did and to attain educational levels which they only imagined when they were growing up. My parents' life, their story, is my best lesson in humanism.",
+            "Title": "Why I choose humanism...",
+            "VideoId": "r9Zz4hYuGdw",
+            "Controls": "start=180"
+        },
+        {
+            "Text": " and tremendous peril, but ideas on how to reduce them have been voiced, and an infinite number of others are yet to be conceived. We will never have a perfect world, and it would be dangerous to seek one. But there's no limit to the betterments we can attain",
+            "Title": "Is the world getting...",
+            "VideoId": "yCm9Ng0bbEQ",
+            "Controls": "start=1031"
+        },
+        {
+            "Text": " magnetic fields that all together encompass the entire planet. Called a geodynamo, this process causes Earth's poles to attain positive and negative charges turning the planet into a giant electromagnet. This phenomenon also creates a protective layer",
+            "Title": "Electromagnetism 101 PIPE...",
+            "VideoId": "Elv3WpL32UE",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " when suddenly, the leaders of two global alliances attained the ability to blow up the world. The number of people with actual doomsday buttons has stayed fairly stable since then. But I'm afraid it's about to grow, and not just to three.",
+            "Title": "How synthetic biology...",
+            "VideoId": "8DDgHq9ewOo",
+            "Controls": "start=197"
+        },
+        {
+            "Text": " the sense that you can change the world and that you can attain what you set out to do. Well, meeting Bandura was really cathartic for me, because I realized that this famous scientist had documented and scientifically validated",
+            "Title": "How to build your...",
+            "VideoId": "16p9YRF0l-g",
+            "Controls": "start=307"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-keller.webp",
+            "Text": "Until the great mass of the people shall be filled with the sense of responsibility for each other's welfare, social justice can never be attained.",
+            "Title": "American Author",
+            "Name": "Helen Keller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ernest-renan.webp",
+            "Text": "In morals, truth is but little prized when it is a mere sentiment, and only attains its full value when realized in the world as fact.",
+            "Title": "French Philosopher",
+            "Name": "Ernest Renan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/les-brown.webp",
+            "Text": "It takes someone with a vision of the possibilities to attain new levels of experience. Someone with the courage to live his dreams.",
+            "Title": "American Speaker",
+            "Name": "Les Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leo-tolstoy.webp",
+            "Text": "Man lives consciously for himself, but is an unconscious instrument in the attainment of the historic, universal, aims of humanity.",
+            "Title": "Russian Novelist",
+            "Name": "Leo Tolstoy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-johnson.webp",
+            "Text": "Those who attain any excellence, commonly spend life in one pursuit; for excellence is not often gained upon easier terms.",
+            "Title": "English Writer",
+            "Name": "Samuel Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-carlyle.webp",
+            "Text": "Youth is to all the glad season of life; but often only by what it hopes, not by what it attains, or what it escapes.",
+            "Title": "Scottish Philosopher",
+            "Name": "Thomas Carlyle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aristotle.webp",
+            "Text": "To attain any assured knowledge about the soul is one of the most difficult things in the world.",
+            "Title": "Greek Philosopher",
+            "Name": "Aristotle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/herbie-hancock.webp",
+            "Text": "You can practice to attain knowledge, but you can't practice to attain wisdom.",
+            "Title": "American Musician",
+            "Name": "Herbie Hancock"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/martin-scorsese.webp",
+            "Text": "I do know that some Buddhists are able to attain peace of mind.",
+            "Title": "American Director",
+            "Name": "Martin Scorsese"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/plautus.webp",
+            "Text": "Wisdom is not attained by years, but by ability.",
+            "Title": "Roman Playwright",
+            "Name": "Plautus"
+        }
+    ]
+}

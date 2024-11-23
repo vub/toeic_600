@@ -1,0 +1,273 @@
+{
+    "currentWord": {
+        "wordRoot": "translation",
+        "id": 1981,
+        "phonemic": "trænzˈleɪʃn|trænzˈleɪʃn\r",
+        "bigId": "aa0798b1-d12a-4b65-b3db-3963e59b19e9",
+        "wordForms": [
+            "translations",
+            "translation"
+        ]
+    },
+    "senses": [
+        {
+            "id": "aa0798b1-d12a-4b65-b3db-3963e59b19e9",
+            "de": "The act of changing words from one language to another",
+            "ty": "noun",
+            "ex": "The translation of this Spanish novel into English took two years.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "word for word translation",
+                " literal translation",
+                " translation service"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/aa0798b1-d12a-4b65-b3db-3963e59b19e9.webp",
+            "Tips": [
+                {
+                    "title": "Cultural Nuances",
+                    "description": "Some translations may not capture cultural expressions or idioms accurately.",
+                    "example": "The translation missed the joke's cultural nuance.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Xcxzc33kohVhRkdR7QWUhocCIMY.webp"
+                },
+                {
+                    "title": "Non-Literal",
+                    "description": "Translations often require interpretation; they're not always word-for-word.",
+                    "example": "This poem needs a non-literal translation to make sense in English.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zMWzheGC0eylbUyopJTM0LCT0.webp"
+                },
+                {
+                    "title": "Context Matters",
+                    "description": "Context can drastically change translation choices.",
+                    "example": "Depending on context, 'bank' can translate to a financial institution or riverside.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ufdI8m7u2juv93qTGHQgzJt3fHY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3741334d-83e3-4c4e-aeaf-2e313f62d895",
+            "de": "The act of moving something from one place to another",
+            "do": "Physics",
+            "ty": "noun",
+            "ex": "The process of translation moves the object across the room.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mechanical translation",
+                " physical translation",
+                " translation motion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3741334d-83e3-4c4e-aeaf-2e313f62d895.webp",
+            "Tips": [
+                {
+                    "title": "Not About Language",
+                    "description": "In physics, 'translation' refers to movement, not language.",
+                    "example": "His project illustrated translation by moving a cart on a track.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Physical Process",
+                    "description": "It reflects a physical shift in position, not a metaphorical one.",
+                    "example": "Machine parts undergo translation during operation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c36482f3-5f86-4050-a05b-024140e294ca",
+            "de": "The process where a genetic sequence is used to create a protein",
+            "do": "Biology",
+            "ty": "noun",
+            "ex": "Translation is crucial for body functions as it forms all kinds of proteins.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "protein translation",
+                " rna translation",
+                " gene translation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c36482f3-5f86-4050-a05b-024140e294ca.webp",
+            "Tips": [
+                {
+                    "title": "Biology Specific",
+                    "description": "In biology, 'translation' is a cellular process, not related to language.",
+                    "example": "During translation, ribosomes read RNA to build proteins.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Genetic Information",
+                    "description": "Translation interprets genetic information into a new form - proteins.",
+                    "example": "Mistakes in translation can lead to incorrect proteins being formed.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Adaptation": {
+            "wordRoot": "Adaptation",
+            "wordDefinition": "Adaptation is the process of changing something to fit a new purpose or environment. For example, if a book is adapted into a movie, some parts of the story may be changed to better suit the visual medium.\n\nAdaptation is applicable when something needs to be changed to better fit a new context, while translation is applicable when something needs to be converted from one language to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8139f4b8-6f38-4fc2-9cd1-99b47586b472.webp"
+        },
+        "Conversion": {
+            "wordRoot": "Conversion",
+            "wordDefinition": "Conversion refers to changing something from one form, purpose, or system to another. It is applicable when we need to change the format or type of something, like converting a file from PDF to Word, or converting energy from one form to another.\n\nConversion is about changing the form or format of something, while translation is about changing the language of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b7ea37f7-a549-49ce-8b9d-9bebdb5a79ff.webp"
+        },
+        "Interpret": {
+            "wordRoot": "Interpret",
+            "wordDefinition": "Interpretation involves explaining the meaning of something to another person, often orally, while translation involves converting written or spoken words from one language to another.\n\nFor example, when a person visits a foreign country and is listening to a guide explain the significance of a particular monument, the guide is providing interpretation.\n\nIn general, interpretation is used when there is a need to explain or clarify something to a person, while translation is needed when there are written or spoken words that need to be converted from one language to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49bd269e-dd7f-491f-b014-39f55b252e53.webp"
+        },
+        "Render": {
+            "wordRoot": "Render",
+            "wordDefinition": "Render means to convert something into another form or state.\n\nIt can be used when talking about changing the appearance, texture, or quality of something. For example, you can render an image in 3D or render a piece of meat by cooking it.\n\nRender is used when talking about changing the form or state of something, while translation is used when talking about changing the words or meaning of something from one language to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/37ca3e49-a9d5-4dac-85e9-5b854021df15.webp"
+        },
+        "Transform": {
+            "wordRoot": "Transform",
+            "wordDefinition": "Transform means to change something completely, while the word translation means to move something from one place to another.\n\nFor example, transforming a caterpillar into a butterfly means completely changing the caterpillar's appearance and behavior.\n\nIn terms of applicability, transform is used when a complete change is needed or desired, while translation is used when moving or transferring something from one place or language to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1d8efaea-d4c1-40ec-8663-144c7c4e8a06.webp"
+        },
+        "Transposition": {
+            "wordRoot": "Transposition",
+            "wordDefinition": "Transposition refers to the process of changing the order of elements within a particular language.\n\nSimilarly, in grammar, if a person wants to reword a sentence to emphasize a particular point, they might use a transposition to change the word order.\n\nTranslation is used when working with different languages while transposition is used within a single language to change the order of elements.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/13c38e82-7737-4b6a-a145-50739b124367.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Here's the translation you get from the gang member. They're talking about the decision of why they don't go shoot -- One thing that turns out to be a great business tactic in the if you go and just shoot guns in the air in the other gang's territory -- people are afraid to go buy drugs there, they're going to come into your neighborhood. Here's what he says about why they don't do",
+            "Title": "The freakonomics of...",
+            "VideoId": "5UGC2nLnaes",
+            "Controls": "start=1193"
+        },
+        {
+            "Text": " Normally, you have to pay people to do this. So how are we going to motivate them to do it for free? When we were starting to think about this, we were blocked by these two things. But then we realized, there's a way to solve both these problems with the same solution. To kill two birds with one stone. And that is to transform language translation",
+            "Title": "Massive-scale online...",
+            "VideoId": "-Ht4qiDRZE8",
+            "Controls": "start=722"
+        },
+        {
+            "Text": " But this is no easy task, and the sheer number of languages in the world, as well as the increasing interaction between the people who speak them, will only continue to spur greater advances in automatic translation. Perhaps by the time we encounter intergalactic life forms, we'll be able to communicate with them through a tiny gizmo,",
+            "Title": "How computers translate...",
+            "VideoId": "X4BmV2t83SM",
+            "Controls": "start=243"
+        },
+        {
+            "Text": " stuck to their word, sent their translations back to me, and within six weeks, I had the entire book to read. In that case, as I found so often during my year of reading the world, my not knowing and being open about my limitations had become a big opportunity.",
+            "Title": "My year reading a book...",
+            "VideoId": "Hh09xlzxRmE",
+            "Controls": "start=524"
+        },
+        {
+            "Text": " We need to look at ways of creating serendipity, of making translation pervasive, and we need to find ways to embrace and celebrate these bridge figures. And we need to figure out how to cultivate xenophiles. That's what I'm trying to do. I need your help.",
+            "Title": "Ethan Zuckerman: How to...",
+            "VideoId": "vXPJVwwEmiM",
+            "Controls": "start=1158"
+        },
+        {
+            "Text": " great book is that the people who did this who made these translations were not tucked away in the ivory tower of the University in their gravy necks and their gold rimmed spectacles they were deeply involved with the world politics",
+            "Title": "Adam Nicolson: The King...",
+            "VideoId": "Hx5A9d52v94",
+            "Controls": "start=968"
+        },
+        {
+            "Text": " sent out a message that all the world should be taxed and/or a census taken depends on the translation and that everyone had to travel to their ancestral homeland to be counted scholars have a couple questions about",
+            "Title": "Fact-checking the Bible...",
+            "VideoId": "7MnCjpw7iBI",
+            "Controls": "start=233"
+        },
+        {
+            "Text": " That is why you called Pedral, big area with stones it would be the translation. So when we got to the waterfront immediately I could see that the nests, just one nest is really important is a big decision.",
+            "Title": "How One Penguin Started...",
+            "VideoId": "_FhJrg4Hz-E",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " and as for the written word, I'm OK at it but it's a tortuous process of translation, and I don't feel it does the job. And as far as speaking my own mind, like I said, I'm not great at it.",
+            "Title": "Three ideas. Three...",
+            "VideoId": "87qLWFZManA",
+            "Controls": "start=595"
+        },
+        {
+            "Text": " better interfaces to help us coach our machines towards more useful intelligence. Human plus machine isn't the future, it's the present. Everybody that's used online translation",
+            "Title": "Don't fear intelligent...",
+            "VideoId": "NP8xt8o4_5Q",
+            "Controls": "start=660"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kate-grenville.webp",
+            "Text": "Each language has its own take on the world. That's why a translation can never be absolutely exact, and therefore, when you enter another language and speak with its speakers, you become a slightly different person; you learn a different sort of world.",
+            "Title": "Australian Author",
+            "Name": "Kate Grenville"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/story-musgrave.webp",
+            "Text": "When you're looking that far out, you're giving people their place in the universe, it touches people. Science is often visual, so it doesn't need translation. It's like poetry, it touches you.",
+            "Title": "American Astronaut",
+            "Name": "Story Musgrave"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edward-sapir.webp",
+            "Text": "A firm, for instance, that does business in many countries of the world is driven to spend an enormous amount of time, labour, and money in providing for translation services.",
+            "Title": "American Scientist",
+            "Name": "Edward Sapir"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-miller.webp",
+            "Text": "What makes literature interesting is that it does not survive its translation. The characters in a novel are made out of the sentences. That's what their substance is.",
+            "Title": "British Entertainer",
+            "Name": "Jonathan Miller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/octavio-paz.webp",
+            "Text": "Human writing reflects that of the universe; it is its translation, but also its metaphor: it says something totally different, and it says the same thing.",
+            "Title": "Mexican Poet",
+            "Name": "Octavio Paz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kehinde-wiley.webp",
+            "Text": "My mother introduced to me as a child the world of language: the way in which translation can be a system by which you can understand others.",
+            "Title": "American Artist",
+            "Name": "Kehinde Wiley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sofia-boutella.webp",
+            "Text": "As a child, I would say that I wanted to become a dancer to honour music. For me, dancing is the physical translation of the audio recording.",
+            "Title": "Algerian Actress",
+            "Name": "Sofia Boutella"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-millington-synge.webp",
+            "Text": "A translation is no translation, he said, unless it will give you the music of a poem along with the words of it.",
+            "Title": "Irish Poet",
+            "Name": "John Millington Synge"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rene-magritte.webp",
+            "Text": "If the dream is a translation of waking life, waking life is also a translation of the dream.",
+            "Title": "Belgian Artist",
+            "Name": "Rene Magritte"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gillian-tans.webp",
+            "Text": "Booking.com is one of the biggest translation companies in the world.",
+            "Title": "American Businesswoman",
+            "Name": "Gillian Tans"
+        }
+    ]
+}

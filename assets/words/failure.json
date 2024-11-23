@@ -1,0 +1,311 @@
+{
+    "currentWord": {
+        "wordRoot": "failure",
+        "id": 19285,
+        "phonemic": "ˈfeɪljə(r)|ˈfeɪljər\r",
+        "bigId": "6c9608e0-b3d5-414c-9e01-299b3f726539",
+        "wordForms": [
+            "failures",
+            "failure"
+        ]
+    },
+    "senses": [
+        {
+            "id": "6c9608e0-b3d5-414c-9e01-299b3f726539",
+            "de": "The state or condition of not meeting a desirable or intended objective",
+            "ty": "noun",
+            "ex": "The project was a failure because it did not achieve its goals",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "epic failure",
+                " dismal failure",
+                " catastrophic failure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6c9608e0-b3d5-414c-9e01-299b3f726539.webp",
+            "Tips": [
+                {
+                    "title": "Negative Connotation",
+                    "description": "The word often implies disappointment and can be emotionally charged.",
+                    "example": "Despite their efforts, not reaching the quarterly targets was seen as a failure.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/j4nYpcyyIzpgDbt4utV76smPA.webp"
+                },
+                {
+                    "title": "Failure as Learning",
+                    "description": "Sometimes used positively in educational or motivational contexts to encourage growth.",
+                    "example": "Each failure in the experiment brought us closer to the correct hypothesis.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/iAeNl9Vx1K7BLsJtwPuFVWrk.webp"
+                },
+                {
+                    "title": "Not Always Personal",
+                    "description": "Can refer to an abstract outcome, not just personal or team efforts.",
+                    "example": "The failure of the treaty to bring peace was unfortunate.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QilqaAK9PluPl120PgwhQBODDKo.webp"
+                }
+            ]
+        },
+        {
+            "id": "8d83e49c-57f1-463b-88ce-ebb1ee4c98b7",
+            "de": "A person who does not succeed",
+            "ty": "noun",
+            "ex": "In his own eyes, he was a failure because he did not live up to his own expectations",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "total failure",
+                " absolute failure",
+                " spectacular failure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8d83e49c-57f1-463b-88ce-ebb1ee4c98b7.webp",
+            "Tips": [
+                {
+                    "title": "Subjective Perception",
+                    "description": "Describes a person's lack of success based on personal or societal standards.",
+                    "example": "He felt like a failure for not getting the promotion.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Avoid Offense",
+                    "description": "Calling someone a failure can be very hurtful and is best avoided in polite conversation.",
+                    "example": "It's rude to label someone a failure for making a mistake.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3e4017c3-f2f9-419b-a239-86b7408cbab5",
+            "de": "An event that does not accomplish its intended purpose",
+            "ty": "noun",
+            "ex": "The planned concert was a failure due to the bad weather",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "complete failure",
+                " ultimate failure",
+                " failure to communicate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3e4017c3-f2f9-419b-a239-86b7408cbab5.webp",
+            "Tips": [
+                {
+                    "title": "Event-Oriented",
+                    "description": "Refers specifically to occasions or efforts that did not proceed as planned.",
+                    "example": "The launch was a failure due to technical glitches.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impersonal Outcome",
+                    "description": "Emphasizes on the event, not assigning blame to individuals.",
+                    "example": "The failure of the peace talks wasn't any one diplomat's fault.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "70043684-3418-4c62-8966-bb69adff1564",
+            "de": "The inability of a system or machine to perform its function",
+            "do": "Technical",
+            "ty": "noun",
+            "ex": "The failure of the engine was due to poor maintenance",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "engine failure",
+                " system failure",
+                " failure of equipment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/70043684-3418-4c62-8966-bb69adff1564.webp",
+            "Tips": [
+                {
+                    "title": "Technical Specificity",
+                    "description": "Used in technical contexts to describe malfunctioning equipment or systems.",
+                    "example": "The flight was delayed due to an engine failure.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impartial Term",
+                    "description": "In technical use, implies no fault; a factual statement about function.",
+                    "example": "Data loss resulted from a sudden network failure.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Defeat": {
+            "wordRoot": "Defeat",
+            "wordDefinition": "Defeat means losing in a competition or a battle after putting up a fight, while failure means not achieving a desired outcome or goal.\n\nDefeat is applicable in a situation where there is a clear winner and loser, such as in a sports game or a war.\n\nDefeat is losing after trying while failure is not succeeding at all.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/66b93863-ffb4-4f21-9140-af2019a64004.webp"
+        },
+        "Disappoint": {
+            "wordRoot": "Disappoint",
+            "wordDefinition": "Disappoint means you didn't meet someone's expectations. For example, if you promised to bring someone a gift and then forgot, they might be disappointed.\n\nDisappoint is usually used when someone else is involved and their expectations weren't met, while failure is when you didn't meet your own goals or expectations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0c7b5ab9-6803-4bd0-956c-b0d2cd1b4239.webp"
+        },
+        "Disaster": {
+            "wordRoot": "Disaster",
+            "wordDefinition": "Disaster describes a sudden and catastrophic event that causes a lot of damage, destruction or loss of life.\n\nExamples of disasters could be earthquakes, floods, hurricanes, or even a plane crash.\n\nA disaster is an event that causes widespread harm.\n\nA disaster is an unexpected and overwhelming event that causes harm, while a failure is the result of not achieving a goal or expectation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2b979585-dfc7-4872-aab7-ab10196a24c8.webp"
+        },
+        "Fiasco": {
+            "wordRoot": "Fiasco",
+            "wordDefinition": "Fiasco refers to a complete and total disaster or failure.\n\nIt is used in situations where things went extremely wrong and the outcome was much worse than expected. For instance, if an event was poorly planned and executed, resulting in chaos and disruption, it could be called a fiasco.\n\nFailure refers to not achieving a desired outcome, while fiasco describes a complete disaster or failure.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d8f2f4c-e011-4c55-aa09-5eabb70f8c57.webp"
+        },
+        "Fizzle": {
+            "wordRoot": "Fizzle",
+            "wordDefinition": "Fizzle means that something started off with a lot of excitement or anticipation, but ended up being disappointing because it didn't meet expectations.\n\nFor example, if you were looking forward to a big party, but it turned out to be really boring and uneventful, you could say that the party fizzled.\n\nFailure implies that something was attempted and didn't succeed, while fizzle suggests that something fell short of expectations, whether or not there was a specific attempt or goal in mind.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a765cc51-2b2c-4254-b567-3a5ad70d4273.webp"
+        },
+        "Flop": {
+            "wordRoot": "Flop",
+            "wordDefinition": "Both failure and flop refer to something that did not succeed, but there is a slight difference between them.\n\nFlop usually refers to something that was expected to be successful, but wasn't. For example, if a new movie comes out and it does not do well at the box office despite being highly anticipated, it is called a flop.\n\nFlop emphasizes that something did not live up to expectations.\n\nFailure emphasizes the lack of success despite effort, while flop emphasizes the failure to meet expectations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b87d8522-5680-46b6-9f8c-1f7b4457e91e.webp"
+        },
+        "Loss": {
+            "wordRoot": "Loss",
+            "wordDefinition": "Loss refers to the state of no longer possessing something or someone, often due to circumstances beyond one's control.\n\nFor example, someone may experience a loss if they lose a loved one or a valuable possession, such as a home or a job.\n\nFailure is often related to personal achievement or success, while loss is related to material possessions or relationships.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cbdab72d-81b5-4786-9550-1ed7439deefe.webp"
+        },
+        "Setback": {
+            "wordRoot": "Setback",
+            "wordDefinition": "A setback refers to a temporary obstacle or challenge that slows down or delays progress towards a goal.\n\nA failure is when you don't achieve what you set out to do, while a setback is a temporary delay or obstacle that can be addressed or overcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aa7c59c0-026e-4aba-9811-719ea99351f3.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " I can improve myself through practice and achieve it eventually.\" That mindset is useful in all walks of life. And then there's learning through failure, one of the most transformative, long-term benefits of playing sports. The experience of coming to terms with defeat can build the resilience and self-awareness necessary to manage academic,",
+            "Title": "How playing sports...",
+            "VideoId": "hmFQqjMF_f0",
+            "Controls": "start=148"
+        },
+        {
+            "Text": " good sense of kind of excitement when people meet failure because of the new opportunities that it presents if you're not willing to fail then then you're not exploring you know you can spend your entire life in front of a television set like a lump of meat with a remote control in your hand and you'll never",
+            "Title": "Epic Fails of...",
+            "VideoId": "2evdD5Zt2Us",
+            "Controls": "start=594"
+        },
+        {
+            "Text": " creating cells that no longer function properly and begin to leak their contents. If these leaky cells proliferate through the body, the results can be devastating. Including liver damage, blood clot formation in the kidneys, damage to the gastrointestinal tract and even the failure of vital organs.",
+            "Title": "What happens when you...",
+            "VideoId": "PpHM4DfPZQU",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " To build something of this scale, only for that to sink on its maiden voyage? Well, let's just say that failure wouldn't have been a pleasant option for Archimedes. So he took on the will it sink? Perhaps he was sitting in the bathhouse one day, wondering how a heavy bathtub can float,",
+            "Title": "The real story behind...",
+            "VideoId": "0v86Yk14rf8",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " up until this point you could have plotted the perfectly straight line of my carefully planned life now I was a dot somewhere off the graph what am I going to do with my life I had no answer I framed the divorce as failure I felt ashamed and scared of my uncertain",
+            "Title": "What would you do if...",
+            "VideoId": "_F3Fp40HAkQ",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " suffer tomorrow if parts of the world become increasingly uninhabitable future climate change could lead to internal displacement and migration crop failures lead to food riots food riots lead to destabilizations of government and we can imagine a kind of",
+            "Title": "The Tipping Point PIPE...",
+            "VideoId": "febBRv2Vftk",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " could provide a solution for farmers working in drought-stricken regions, or a way to clean municipal water in polluted cities. In fact, many scientific advances have occurred when serendipitous failures in one field address the constraints of another.",
+            "Title": "The power of creative...",
+            "VideoId": "v5FL9VTBZzQ",
+            "Controls": "start=231"
+        },
+        {
+            "Text": " attachment to that elephants I follow on the tracking system you know what they're like and you feel that you feel like an actor with a hand side you know Steven hi there very long life it's like some old friend failure I it's not I'll",
+            "Title": "Top 5 Nail-Biting...",
+            "VideoId": "e-SoygvTRgQ",
+            "Controls": "start=582"
+        },
+        {
+            "Text": " You know, from the hindsight of history, what's always most inexplicable and inexcusable are the simple failures of compassion. Because I think history convenes a tribunal of our grandchildren",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=1069"
+        },
+        {
+            "Text": " processed it, and put that plasma back in people to protect them. But that was never tried. So there was a lot that was missing. And these things are really a global failure.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=163"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-vincent-peale.webp",
+            "Text": "Any fact facing us is not as important as our attitude toward it, for that determines our success or failure. The way you think about a fact may defeat you before you ever do anything about it. You are overcome by the fact because you think you are.",
+            "Title": "American Clergyman",
+            "Name": "Norman Vincent Peale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paulo-coelho.webp",
+            "Text": "Remember your dreams and fight for them. You must know what you want from life. There is just one thing that makes your dream become impossible: the fear of failure.",
+            "Title": "Brazilian Novelist",
+            "Name": "Paulo Coelho"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "We will all fail in life, but nobody has to be a failure. Failing at a thing doesn't make you a failure. You are only a failure when you quit trying.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/napoleon-hill.webp",
+            "Text": "Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another.",
+            "Title": "American Author",
+            "Name": "Napoleon Hill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-a-edison.webp",
+            "Text": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+            "Title": "American Inventor",
+            "Name": "Thomas A. Edison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-eliot.webp",
+            "Text": "There is only one failure in life possible, and that is not to be true to the best one knows.",
+            "Title": "British Author",
+            "Name": "George Eliot"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-kerouac.webp",
+            "Text": "My fault, my failure, is not in the passions I have, but in my lack of control of them.",
+            "Title": "American Novelist",
+            "Name": "Jack Kerouac"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barack-obama.webp",
+            "Text": "In America, there's a failure to appreciate Europe's leading role in the world.",
+            "Title": "American President",
+            "Name": "Barack Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/buddha.webp",
+            "Text": "The only real failure in life is not to be true to the best one knows.",
+            "Title": "Leader",
+            "Name": "Buddha"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anthony-j-dangelo.webp",
+            "Text": "The only real failure in life is one not learned from.",
+            "Title": "American Writer",
+            "Name": "Anthony J. D'Angelo"
+        }
+    ]
+}

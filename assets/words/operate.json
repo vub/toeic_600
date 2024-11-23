@@ -1,0 +1,310 @@
+{
+    "currentWord": {
+        "wordRoot": "operate",
+        "id": 13983,
+        "phonemic": "ˈɒpəreɪt|ˈɑːpəreɪt\r",
+        "bigId": "434adda3-f10f-4ce2-b7a5-673831f512e0",
+        "wordForms": [
+            "operates",
+            "operating",
+            "operated",
+            "operate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "434adda3-f10f-4ce2-b7a5-673831f512e0",
+            "de": "to control the way a machine, system, or process works.",
+            "ty": "verb",
+            "ex": "She learned how to operate a computer.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "operate machinery",
+                " operate a vehicle",
+                " operate a computer"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/434adda3-f10f-4ce2-b7a5-673831f512e0.webp",
+            "Tips": [
+                {
+                    "title": "Machine Interaction",
+                    "description": "Refers to handling devices, requires knowledge of specific operations.",
+                    "example": "I need to learn how to operate the new coffee machine.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yO3LzAUp4octllBWwfChJxjgBE.webp"
+                },
+                {
+                    "title": "Active Control",
+                    "description": "Implies active involvement, not just turning something on.",
+                    "example": "The technician operates the soundboard at the concert.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/2dua9oVJikkDqTrYYmpqGHnk.webp"
+                }
+            ]
+        },
+        {
+            "id": "670536d0-a30b-4e0a-b50e-8b9e36002b74",
+            "de": "to be working or functioning, especially in a particular way.",
+            "ty": "verb",
+            "ex": "The television station operates 24 hours a day.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "operate smoothly",
+                " operate correctly",
+                " operate independently"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/670536d0-a30b-4e0a-b50e-8b9e36002b74.webp",
+            "Tips": [
+                {
+                    "title": "Functionality Status",
+                    "description": "Used when something functions correctly without issues.",
+                    "example": "The air conditioning is now operating without any strange noises.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Continuous Action",
+                    "description": "Can describe something that works non-stop or around the clock.",
+                    "example": "Emergency services operate all day, every day.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0659efa6-f78e-4de6-9c54-6a4b8c8b0e38",
+            "de": "in business, to buy and sell goods or services.",
+            "ty": "verb",
+            "ex": "The company operates in 15 countries.",
+            "use": "",
+            "co": "Business",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "operate in a market",
+                " operate internationally",
+                " operate a business"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0659efa6-f78e-4de6-9c54-6a4b8c8b0e38.webp",
+            "Tips": [
+                {
+                    "title": "Business Activity",
+                    "description": "Specifies the regions or sectors where a business is active.",
+                    "example": "Our store operates both online and offline.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Economic Presence",
+                    "description": "Indicates active engagement in commerce within a specific area.",
+                    "example": "The bank operates mainly in urban areas.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "443c9644-3ca4-4871-aa25-263c0cc658e7",
+            "de": "to do surgery.",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The surgeon will operate on him tomorrow.",
+            "use": "",
+            "co": "Medical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "operate on a patient",
+                " operate immediately",
+                " freely operate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/443c9644-3ca4-4871-aa25-263c0cc658e7.webp",
+            "Tips": [
+                {
+                    "title": "Medical Procedures",
+                    "description": "Specific to performing surgical procedures in medicine.",
+                    "example": "Only licensed doctors are allowed to operate in this hospital.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Surgical Context",
+                    "description": "Often associated with urgency or life-saving in medical scenarios.",
+                    "example": "Due to the accident, the doctors had to operate immediately.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Conduct": {
+            "wordRoot": "Conduct",
+            "wordDefinition": "Conduct generally means to organize, plan, or carry out a particular activity or event. For example, a symphony conductor conducts the orchestra, or a teacher conducts a class.\n\nSo, while conduct is generally used in the context of organizing, managing or leading a group or event, operate is more commonly used to refer to the functioning or control of a machine, system or a physical process.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fbbe1d8e-c059-433e-bd43-6fa5653954c7.webp"
+        },
+        "Control": {
+            "wordRoot": "Control",
+            "wordDefinition": "Control refers to the ability to regulate or manage something, while operate refers to the act of performing or using something.\n\nFor example, a car has both control and operate components. The driver controls the car by managing the steering wheel, brakes, and accelerator pedal.\n\nControl is applied to the management or regulation of a system or process, whereas operate is applied to the use or performance of a tool or machine.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c2915bf5-2054-4b4d-8e53-a8b2ccbd1ff7.webp"
+        },
+        "Function": {
+            "wordRoot": "Function",
+            "wordDefinition": "Function refers to the purpose or role something serves, while operate refers to the action of using or working something.\n\nFunction is applicable when describing what something was designed to do, such as a computer's function of processing data or a soccer ball's function of being kicked around.\n\nIn essence, function refers to a thing's purpose or intent, while operate refers to the action of using or working it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9ff47339-6e1f-440b-b60d-56e7eaba8eff.webp"
+        },
+        "Manage": {
+            "wordRoot": "Manage",
+            "wordDefinition": "Manage refers to the act of controlling or directing something in order to achieve a desired outcome. This can be applied to things like businesses, teams, projects, or even personal finances.\n\nEssentially, managing involves making decisions and taking actions that lead to success and positive results.\n\nIn summary, managing is about control and direction, while operating is about carrying out specific tasks. Both are important skills in different contexts, but they require different types of expertise and knowledge.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ad91e78-9546-410a-83ae-0d6f673c381b.webp"
+        },
+        "Manoeuvre": {
+            "wordRoot": "Manoeuvre",
+            "wordDefinition": "Manoeuvre usually refers to a movement that requires skill or careful planning. It often involves avoiding obstacles or changing direction quickly.\n\nFor example, a pilot might have to manoeuvre the plane around a storm, or a basketball player might have to manoeuvre around defenders to get to the basket.\n\nManoeuvre implies a more dynamic and skillful action, while operate implies a more routine and technical action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8df5a2a1-ee1b-4716-92fd-8e22b4106db8.webp"
+        },
+        "Perform": {
+            "wordRoot": "Perform",
+            "wordDefinition": "Both operate and perform refer to carrying out a task or activity, but the context and specific meaning can differ.\n\nPerform can be used more broadly, and often refers to carrying out a task or activity successfully or skillfully. For instance, a musician might perform a song on stage, an athlete might perform well in a game or a surgeon might perform a procedure with precision.\n\nOperate refers more so to using specific equipment or systems while perform has a broader range of applications and can relate to achieving a goal or displaying a skill.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bd9fd852-9de8-4a4e-b34f-70e78e46f5c3.webp"
+        },
+        "Run": {
+            "wordRoot": "Run",
+            "wordDefinition": "Run refers to the action of functioning and executing a task or process. It is a more general term and is often used to describe the practical and functional aspect of an object.\n\nFor example, a car runs on gasoline, a business runs smoothly when it is well-managed, a school runs classes and educational programs.\n\nOperate is more specific for technical and mechanical control while run is more general for executing tasks and functions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b4f2bc9-8161-44e3-bf7e-dc86178fe2cb.webp"
+        },
+        "Work": {
+            "wordRoot": "Work",
+            "wordDefinition": "Work refers to the action of performing a task, job or function that produces a result or benefit. For example, a teacher works to educate students, an artist works to create art, a cashier works to handle transactions.\n\nIn short, one can operate a machine or system, but they work to achieve some outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc4f55ab-ac2d-4061-a71b-e78e86123fd7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " probably learned their lines from a script, which essentially tells them what to say and when to say it. A piece of written music operates on exactly the same principle. In a very basic sense, it tells a performer what to play and when to play it. Aesthetically speaking, there's a world of difference",
+            "Title": "How to read music - Tim...",
+            "VideoId": "ZN41d7Txcq0",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " into the three-dimensional world you see around you, where edges should get extra attention because things with edges can help you or kill you. Look at that muffin pan again. You know what causes confusion here? Your brain's visual cortex operates on assumptions about the lighting of this image.",
+            "Title": "How optical illusions...",
+            "VideoId": "rfdJyDfIHIc",
+            "Controls": "start=155"
+        },
+        {
+            "Text": " smokeless when its operating and very efficient so it's gonna douse that out now and that's ready for clearing thank you now this is exactly the kind of appropriate technology that has been touted around the developing world by development agencies because it's simple",
+            "Title": "How to rebuild the world...",
+            "VideoId": "CdTzsbqQyhY",
+            "Controls": "start=676"
+        },
+        {
+            "Text": " So learning how power operates is key to being effective, being taken seriously, and not being taken advantage of. In this lesson, we'll look at where power comes from, how it's exercised and what you can do to become more powerful in public life.",
+            "Title": "How to understand power...",
+            "VideoId": "c_Eutci7ack",
+            "Controls": "start=51"
+        },
+        {
+            "Text": " operates according to a web of cause and effect, resulting in a rational structure of the universe, which they called logos. And while we may not always have control over the events affecting us, we can have control over how we approach things.",
+            "Title": "The philosophy of...",
+            "VideoId": "R9OCA6UFE-0",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " and everything is most certainly 42. Just like real life, fictional worlds operate consistently within a spectrum of physical and societal rules. That's what makes these intricate worlds believable, comprehensible, and worth exploring.",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " while newer, advanced batteries can survive and function for thousands. Batteries of the future may be light, thin sheets that operate on the principles of quantum physics and last for hundreds of thousands of charge cycles.",
+            "Title": "How batteries work -...",
+            "VideoId": "9OVtk6G2TnQ",
+            "Controls": "start=209"
+        },
+        {
+            "Text": " point which means that often you're answering questions that no one has answered to do deep sea science we use a suite of tools so things like remotely operated vehicles or rovs these can be about the size of a car but",
+            "Title": "The Astronaut of the...",
+            "VideoId": "RXpMSsvhcmQ",
+            "Controls": "start=106"
+        },
+        {
+            "Text": " by starting where we work, in the businesses that we operate in. And when we put justness on par with profits, we'll get the most wonderful thing in all the world. We'll take back our humanity. Thank you.",
+            "Title": "Paul Tudor Jones II: Why...",
+            "VideoId": "dvJSK4viVMs",
+            "Controls": "start=565"
+        },
+        {
+            "Text": " they are not operated they remain blind for life and what happens in most of the cases they are used by the family as beggars",
+            "Title": "Two Blind Sisters See...",
+            "VideoId": "EltIpB4EtYU",
+            "Controls": "start=80"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geoff-mulgan.webp",
+            "Text": "The responsibility for good government lies not just with governments themselves but also with every other part of the system they operate in, including media, non-governmental organisations and the public.",
+            "Title": "English Educator",
+            "Name": "Geoff Mulgan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ben-carson.webp",
+            "Text": "I pray before I go into the operating room for every case, and I ask him to give me wisdom, to help me to know what to do - and not only for operating, but for everything.",
+            "Title": "American Scientist",
+            "Name": "Ben Carson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-lloyd-wright.webp",
+            "Text": "Maybe we can show government how to operate better as a result of better architecture. Eventually, I think Chicago will be the most beautiful great city left in the world.",
+            "Title": "American Architect",
+            "Name": "Frank Lloyd Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "I believe everyone should have a broad picture of how the universe operates and our place in it. It is a basic human desire. And it also puts our worries in perspective.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harold-pinter.webp",
+            "Text": "I never think of myself as wise. I think of myself as possessing a critical intelligence which I intend to allow to operate.",
+            "Title": "English Dramatist",
+            "Name": "Harold Pinter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/janet-street-porter.webp",
+            "Text": "Obviously I've spent most of my working life with men and they have this way of operating which seems a bit alien to me.",
+            "Title": "British Journalist",
+            "Name": "Janet Street-Porter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/douglas-feith.webp",
+            "Text": "Our concept is not that America should operate alone or by itself in world affairs or in military affairs.",
+            "Title": "American Public Servant",
+            "Name": "Douglas Feith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-nichols.webp",
+            "Text": "I'll be honest: 'Badlands' changed my life: it really did rewire my brain as to how film can operate.",
+            "Title": "American Director",
+            "Name": "Jeff Nichols"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-morello.webp",
+            "Text": "The system under which we live is owned and operated by people who do not deserve to run the world.",
+            "Title": "American Musician",
+            "Name": "Tom Morello"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rupert-murdoch.webp",
+            "Text": "I've operated and launched newspapers all over the world.",
+            "Title": "American Publisher",
+            "Name": "Rupert Murdoch"
+        }
+    ]
+}

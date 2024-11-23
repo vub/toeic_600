@@ -1,0 +1,338 @@
+{
+    "currentWord": {
+        "wordRoot": "repel",
+        "id": 18001,
+        "phonemic": "rɪˈpel|rɪˈpel\r",
+        "bigId": "9bcf0407-1303-4ca2-96ce-c5ea5e51d1a9",
+        "wordForms": [
+            "repels",
+            "repelling",
+            "repelled",
+            "repeller",
+            "repel"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9bcf0407-1303-4ca2-96ce-c5ea5e51d1a9",
+            "de": "To push or force something or someone away or back.",
+            "ty": "verb",
+            "ex": "The scientist uses a magnet to repel metal objects.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "repel an attack",
+                " repel invaders",
+                " repel a threat"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9bcf0407-1303-4ca2-96ce-c5ea5e51d1a9.webp",
+            "Tips": [
+                {
+                    "title": "Physical Push",
+                    "description": "Used when an object or person is forced to move away.",
+                    "example": "Wind turbines can repel birds, pushing them to fly elsewhere.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6FUb73fIOa3LHyRUx8nV0qqmqtA.webp"
+                },
+                {
+                    "title": "Magnetic Forces",
+                    "description": "Refers to how magnets either attract or repel each other.",
+                    "example": "Like poles of magnets repel, causing them to push apart.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/s1GEpZNSOSC83NF244Hr5GmVr0.webp"
+                }
+            ]
+        },
+        {
+            "id": "2afcff9b-bdfc-4011-9a92-2eb938bbdd82",
+            "de": "To cause someone to feel disgust or dislike.",
+            "ty": "verb",
+            "ex": "The sight of blood repels me.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "repel someone with",
+                " repel by",
+                " feeling repelled"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2afcff9b-bdfc-4011-9a92-2eb938bbdd82.webp",
+            "Tips": [
+                {
+                    "title": "Feeling Disgust",
+                    "description": "Describes a strong negative reaction to something unpleasant.",
+                    "example": "I repel at the idea of eating spoiled food.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Distance",
+                    "description": "Creates a sense of separation due to discomfort or dislike.",
+                    "example": "His arrogance repels me from wanting to get to know him.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "47e8a5b9-d369-473e-afaa-45b386735aa1",
+            "de": "To refuse to accept or agree with something.",
+            "ty": "verb",
+            "ex": "She repelled all his attempts at helping her.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "repel the idea",
+                " repel a suggestion",
+                " repel an offer"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/47e8a5b9-d369-473e-afaa-45b386735aa1.webp",
+            "Tips": [
+                {
+                    "title": "Strong Rejection",
+                    "description": "To strongly decline something, like an offer or idea.",
+                    "example": "She repelled the notion of dropping out of school.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Unacceptance",
+                    "description": "Emphasizes refusal to consider or even entertain a thought.",
+                    "example": "He repelled every solution I suggested for the project.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1c788f9a-19da-42ef-95da-b0a90fa17f2f",
+            "de": "To resist successfully.",
+            "ty": "verb",
+            "ex": "The army repelled the enemy forces.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "repel an assault",
+                " repel an invasion",
+                " forces repel"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1c788f9a-19da-42ef-95da-b0a90fa17f2f.webp",
+            "Tips": [
+                {
+                    "title": "Defensive Success",
+                    "description": "Indicates effective defense against an attack or intrusion.",
+                    "example": "The fort repelled the invader's attacks all night long.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Action Outcome",
+                    "description": "Focuses on the successful result of resisting something.",
+                    "example": "The immune system repels viruses to keep the body healthy.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "cf46f6b8-5865-43b1-ba5c-be2df5b86b52",
+            "de": "To keep something harmful or unwanted away.",
+            "ty": "verb",
+            "ex": "This spray repels mosquitoes.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "repel insects",
+                " repel pests",
+                " repel water"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cf46f6b8-5865-43b1-ba5c-be2df5b86b52.webp",
+            "Tips": [
+                {
+                    "title": "Protection",
+                    "description": "Keeps something undesirable from affecting or approaching.",
+                    "example": "Special clothing repels ticks when hiking in the woods.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Prevention",
+                    "description": "Acts to stop something from happening or getting closer.",
+                    "example": "Painting a surface with this coat will repel rust formation.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Deter": {
+            "wordRoot": "Deter",
+            "wordDefinition": "Deter means to discourage someone from doing something. For example, if a sign says a house is protected by a security system, it may deter burglars from attempting to break in.\n\nDeter is used in situations where you want to discourage someone from doing something, while repel is used in situations where you want to push something away.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bce187ab-9d8c-4ba5-9d26-cf40c0358401.webp"
+        },
+        "Disgust": {
+            "wordRoot": "Disgust",
+            "wordDefinition": "Disgust is a feeling of deep dislike and revulsion towards something that is considered to be unpleasant or offensive.\n\nDisgust relates to a feeling of revulsion towards something unpleasant, whereas repel relates to an action of pushing away or avoiding something harmful.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aba9e770-351d-4f30-9feb-5ae3413bb5ba.webp"
+        },
+        "Dispel": {
+            "wordRoot": "Dispel",
+            "wordDefinition": "Dispel means to make something disappear or to get rid of something, usually a feeling, belief or misconception. It is applicable in situations where there is a misunderstanding or a false belief that needs to be corrected or cleared up.\n\nIn simpler terms, dispel is like removing a cloud of confusion or uncertainty, while repel is like building a shield to keep something out.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ad96749-c047-4002-ad63-eb19be897103.webp"
+        },
+        "Drive away": {
+            "wordRoot": "Drive away",
+            "wordDefinition": "The words drive away and repel both mean to push something away, but they are used in different contexts. Drive away is used when talking about physically moving something or someone away from a particular place or situation.\n\nFor example, a farmer might use a stick to drive away a herd of cows that have wandered into his garden.\n\nSo drive away is usually related to physical movement, whereas repel is related to a quality or force that is unattractive or unsuitable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3ddd8e2-be40-40e1-b685-6537f89168f4.webp"
+        },
+        "Expel": {
+            "wordRoot": "Expel",
+            "wordDefinition": "Expel means to force out someone or something from a place or situation.\n\nIt is usually used when someone is expelled from a school or a country. For example, if a student breaks the rules of a school, they can be expelled, which means they are not allowed to attend that school anymore.\n\nExpel is about forcing someone or something out, while repel is about keeping something or someone away.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/85225475-5964-4654-9826-7d51eb122ae3.webp"
+        },
+        "Fend off": {
+            "wordRoot": "Fend off",
+            "wordDefinition": "The words fend off and repel both mean to defend oneself against an attack, but fend off suggests a more direct and physical action, like using your arms or body to push away the attacker or danger, whereas repel suggests a more indirect or defensive action, like using a repellent substance or strategy to keep the attacker or danger at bay.\n\nExample: If a person was walking in the woods and suddenly faced an attacking bear, they might use their hands or a stick to fend off the bear's attack.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/98a8c5cb-0aa8-44dd-8ccd-624cc035320c.webp"
+        },
+        "Keep away": {
+            "wordRoot": "Keep away",
+            "wordDefinition": "Both keep away and repel mean to keep something or someone away from a specific place or person.\n\nHowever, keep away suggests keeping something or someone at a distance, while repel suggests actively driving something or someone away.\n\nFor example, you could say \"keep away from the edge of the cliff\" to warn someone to stay a safe distance from the edge.\n\nYou could say \"the repellent spray keeps mosquitoes away from me\" to describe how the spray actively drives the mosquitoes away from you.\n\nKeep away is more passive and generally used to describe warning or precautionary measures, while repel is more active and describes methods or products that actively push something away.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/efb84a74-0f93-4177-be1d-693eb2462e85.webp"
+        },
+        "Repulse": {
+            "wordRoot": "Repulse",
+            "wordDefinition": "Both repel and repulse mean to push away or keep at a distance.\n\nWhereas, repulse is more often used in the sense of causing disgust or aversion, such as the smell of garbage may repulse someone.\n\nOverall, both words mean to push away, but repel suggests rejecting something while repulse suggests disgust.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7847f7a3-57fd-44b4-9e9c-1737e22c5fa4.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " so we could tie off ropes and repel down into the hole. This is me looking into the entrance crevasse. At the end of this hole, we found a huge tunnel going right up the mountain underneath thousands of tons of glacier ice. We followed this cave back for about a half mile until it came to an end. And then with the help of our survey tools,",
+            "Title": "My glacier cave...",
+            "VideoId": "tH94iV3Jy_Q",
+            "Controls": "start=192"
+        },
+        {
+            "Text": " they trade one set of threats for another, as they first face the repelling force of the waves, and then find a whole new host of predators awaiting Various fish, dolphins, sharks, and sea birds, as the young turtles come to the surface for air. For their first few days of life, should they count themselves amongst the living,",
+            "Title": "The Survival of the Sea...",
+            "VideoId": "t-KmQ6pGxg4",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " computer we don't you just need these individual elements we also need to connect them together logically and so how do we do that well there we use the fact that our atoms are charged and that means that they push on each other they repel each other like balls on the end of a spring if I move one the other one",
+            "Title": "How do you build a...",
+            "VideoId": "ArW8x1NpqGs",
+            "Controls": "start=128"
+        },
+        {
+            "Text": " And also duck billed platypus males, they've got the claw when they when they're protecting females from other males. Exactly. Exactly that. So only a handful of species. But our amazing news today is that some scientists have discovered yet another animal which uses toxins to repel potential",
+            "Title": "The Killer Rat with...",
+            "VideoId": "Tfqoe3mLzzE",
+            "Controls": "start=262"
+        },
+        {
+            "Text": " on to our descendants to help them rebuild civilization, that concept should be that all matter around us is made out of tiny elements that attract each other when they're far apart but repel each other when they're close together. My equivalent of that statement to pass on to descendants",
+            "Title": "Alex Wissner-Gross: A...",
+            "VideoId": "ue2ZEmTJ_Xo",
+            "Controls": "start=660"
+        },
+        {
+            "Text": " which keeps the whole thing fastened to her. On top of it is the aqueous layer, which keeps Iris hydrated, repels invasive bacteria, and protects her skin, or cornea, from damage. And, finally, there is the lipid layer, an oily outer film that keeps the surface smooth",
+            "Title": "Why do we cry? The three...",
+            "VideoId": "keMF8YzQoRM",
+            "Controls": "start=58"
+        },
+        {
+            "Text": " These advance warnings increase the plants chance of survival. Bean plants also eavesdrop on each other's health through these fungal conduits. An aphid investation in one plant triggers its neighbor to ramp up production of compounds that repel aphids",
+            "Title": "Can plants talk to each...",
+            "VideoId": "xOXSqy05EO0",
+            "Controls": "start=213"
+        },
+        {
+            "Text": " sort of like a built-in weather station. If the conditions are right, the spider then \"tiptoes\" on its back legs, raises its abdomen, and releases its silk to the air. The silk strands are charged, which causes them to repel away from each other",
+            "Title": "How Spiders Use...",
+            "VideoId": "Ja4oMFOoK50",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " and repelling down before the police can arrive. All eggs are identical in weight and construction, but each floor's egg is more rare and valuable than the one below it. While the thief would naturally like to take the priceless egg at the top,",
+            "Title": "Can you solve the egg...",
+            "VideoId": "NGtt7GJ1uiM",
+            "Controls": "start=31"
+        },
+        {
+            "Text": " as we're descending. So I reckon if we put over the top of that. That is a very improvised rope protector. I think it's good. It's going to run through that. OK, this is the most bomb repel of my entire life.",
+            "Title": "Alex Honnold Rappels...",
+            "VideoId": "GZahv3BQJ88",
+            "Controls": "start=155"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leandra-medine.webp",
+            "Text": "I gained this new sense of control over my love life because when I called myself a 'man repeller,' you assumed that being single is my choice. I'm man-repelling because that's how I want to dress. I'm not single because no men like me. I'm single because I choose fashion over a relationship.",
+            "Title": "American Author",
+            "Name": "Leandra Medine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marianne-williamson.webp",
+            "Text": "The ego mind both professes its desire for love and does everything possible to repel it, or if it gets here anyway, to sabotage it. That is why dealing with issues like control, anger, and neediness is the most important work in preparing ourselves for love.",
+            "Title": "American Author",
+            "Name": "Marianne Williamson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/abraham-lincoln.webp",
+            "Text": "Allow the president to invade a neighboring nation whenever he shall deem it necessary to repel an invasion,and you allow him to do so whenever he may choose to say he deems it necessary for such purpose - and you allow him to make war at pleasure.",
+            "Title": "American President",
+            "Name": "Abraham Lincoln"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-washington.webp",
+            "Text": "If we desire to avoid insult, we must be able to repel it; if we desire to secure peace, one of the most powerful instruments of our rising prosperity, it must be known, that we are at all times ready for War.",
+            "Title": "American President",
+            "Name": "George Washington"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/conor-mcpherson.webp",
+            "Text": "I guess I'm attracted and repelled by isolation. It scares me. And it's why I tend to write about older characters, too, because for them the stakes are somewhat higher.",
+            "Title": "Irish Playwright",
+            "Name": "Conor McPherson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lee-mack.webp",
+            "Text": "We have all said things that are offensive when taken out of context. You don't need to tell the public to be repelled. They will tell you they are repelled.",
+            "Title": "English Comedian",
+            "Name": "Lee Mack"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rachel-roy.webp",
+            "Text": "I tell girls all the time that the men that have fallen in love with me, have all fallen during a man repeller stage... funny how life works out like that.",
+            "Title": "American Designer",
+            "Name": "Rachel Roy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mika.webp",
+            "Text": "I certainly don't follow fashion. I think fashion, as far as the industry and the whole world that surrounds it, is quite vile, and I'm repelled by it.",
+            "Title": "British Musician",
+            "Name": "Mika"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jamaica-kincaid.webp",
+            "Text": "What distinguished my life from my brother's is that my mother didn't like me. When I became a woman, I seemed to repel her.",
+            "Title": "Novelist",
+            "Name": "Jamaica Kincaid"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kate-hudson.webp",
+            "Text": "I'm not afraid of heights. I rock climb. I can repel off the side of a building.",
+            "Title": "American Actress",
+            "Name": "Kate Hudson"
+        }
+    ]
+}

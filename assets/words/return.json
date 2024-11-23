@@ -1,0 +1,372 @@
+{
+    "currentWord": {
+        "wordRoot": "return",
+        "id": 18207,
+        "phonemic": "rɪˈtɜːn|rɪˈtɜːrn\r",
+        "bigId": "e2a954d7-5bb5-42c7-88bb-921405699b24",
+        "wordForms": [
+            "returns",
+            "returning",
+            "returned",
+            "return"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e2a954d7-5bb5-42c7-88bb-921405699b24",
+            "de": "To go or come back to a place you were before.",
+            "ty": "verb",
+            "ex": "He returned home after many years abroad.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "return home",
+                " return to school",
+                " return to work"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e2a954d7-5bb5-42c7-88bb-921405699b24.webp",
+            "Tips": [
+                {
+                    "title": "Physical Movement",
+                    "description": "Indicates actual movement to a previous location, not abstract.",
+                    "example": "Can you return to the office before 5 PM?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Dr6YB59BXC3acmsA5a14aqTys.webp"
+                },
+                {
+                    "title": "Intentional Action",
+                    "description": "Usually implies intention to go back to a place; not unintentional.",
+                    "example": "When will you return to the city?",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/KILaDq4oqS4eYkRa3E9IQMkP8.webp"
+                }
+            ]
+        },
+        {
+            "id": "d174d164-d852-4f55-ad7b-b785ccdd1bf9",
+            "de": "To give, send or put something back where it came from.",
+            "ty": "verb",
+            "ex": "Please return the book to the library when you're done.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "return a book",
+                " return a purchase",
+                " return a favour"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d174d164-d852-4f55-ad7b-b785ccdd1bf9.webp",
+            "Tips": [
+                {
+                    "title": "Restorative Action",
+                    "description": "Emphasizes restoring an item to its proper place or owner.",
+                    "example": "You must return the tools to the shed after use.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Expectation of Action",
+                    "description": "Often used when there is an expectation or obligation involved.",
+                    "example": "I need to return these borrowed clothes tomorrow.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f8f575d6-c096-4f81-83d3-b62848fb210e",
+            "de": "The act of going or coming back to a place.",
+            "ty": "noun",
+            "ex": "I'm looking forward to my return to Japan.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "return trip",
+                " return ticket",
+                " return visit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f8f575d6-c096-4f81-83d3-b62848fb210e.webp",
+            "Tips": [
+                {
+                    "title": "Journey Completion",
+                    "description": "Focuses on completing a trip and coming back to the starting point.",
+                    "example": "She celebrated her return from Africa with a party.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "aa3a0476-82bd-44b6-b22a-e70a76883437",
+            "de": "The profit made from an investment or business.",
+            "ty": "noun",
+            "ex": "The return on my stock investments has been good this year.",
+            "use": "",
+            "co": "Financial",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "return on investment",
+                " return on equity",
+                " return on capital"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/aa3a0476-82bd-44b6-b22a-e70a76883437.webp",
+            "Tips": [
+                {
+                    "title": "Investment Outcome",
+                    "description": "Refers to the financial benefits received from investments.",
+                    "example": "The return on the property has exceeded our expectations.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5a93035f-61eb-4c3d-9fec-a34c041d9d13",
+            "de": "To start doing or showing something again",
+            "ty": "verb",
+            "ex": "She returned to her old habit of smoking.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "return to a habit",
+                " return to a routine",
+                " return to the field"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5a93035f-61eb-4c3d-9fec-a34c041d9d13.webp",
+            "Tips": [
+                {
+                    "title": "Habit Reversion",
+                    "description": "Indicates someone has started a previous behavior or activity again.",
+                    "example": "After the stress of exams, he returned to biting his nails.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "24575805-fdb4-40b1-8bce-dfd815afc862",
+            "de": "In games/sports, to hit or throw back (a ball)",
+            "ty": "verb",
+            "ex": "She returned the serve with speed.",
+            "use": "",
+            "co": "Sports",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "return a serve",
+                " return a ball",
+                " return a shot"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/24575805-fdb4-40b1-8bce-dfd815afc862.webp",
+            "Tips": [
+                {
+                    "title": "Sporting Play",
+                    "description": "In sports, it means to send the ball back to the opponent.",
+                    "example": "He was skilled at returning the ball with power.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "21e158c3-41f9-43dd-ae80-51277c1a405c",
+            "de": "An official report or statement submitted in response to a formal demand.",
+            "ty": "noun",
+            "ex": "I've filled out my tax returns for this year.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "tax return",
+                " election return",
+                " annual return"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/21e158c3-41f9-43dd-ae80-51277c1a405c.webp",
+            "Tips": [
+                {
+                    "title": "Formal Submission",
+                    "description": "Used for official documents that need to be provided upon request.",
+                    "example": "Filing your tax return accurately is very important.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Come back": {
+            "wordRoot": "Come back",
+            "wordDefinition": "Both come back and return mean to go back to a place you have been before, but they are used slightly differently.\n\nCome back is used when the speaker or the person being spoken to has recently been at the place they are talking about.\n\nFor example, \"I'm going to the store, I'll come back in an hour.\" Or \"Can you come back to the table and finish your dinner?\"\n\nReturn is used when talking about going back to a place after a longer period of time has passed or if the speaker or the person being spoken to has been away from the place for a longer period of time.\n\nCome back refers to returning after a short period of time and return refers to returning after a longer period of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6f190429-c565-4c0b-8c61-eb4a3455c002.webp"
+        },
+        "Give back": {
+            "wordRoot": "Give back",
+            "wordDefinition": "The words give back and return both mean to give something back or give something back to its rightful owner.\n\nHowever, give back is generally used when you are returning something to someone as a favor or act of kindness. For example, if you borrow a pencil from your friend, you should 'give it back' to them when you're done using it.\n\nReturn is a more formal word and is generally used when you are giving back something that you borrowed or purchased. For example, if you borrowed a library book, you would return it to the library when it is due.\n\nTo summarize, both words can be used interchangeably in some situations, but give back is considered more casual and return is considered more formal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/52ced42c-9618-418a-a6fd-bdbea3780c03.webp"
+        },
+        "Reflect": {
+            "wordRoot": "Reflect",
+            "wordDefinition": "Reflect means to bounce back light, sound, or heat off a surface. It is applicable when you want to talk about how light or sound waves bounce off a surface and come back to the source.\n\nFor example, when you look in a mirror, you see your reflection because the light waves bounce off your face and go back to your eyes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a10e22ab-b858-4df6-895f-0eaf5eb848d0.webp"
+        },
+        "Reimburse": {
+            "wordRoot": "Reimburse",
+            "wordDefinition": "Reimburse means to repay someone for an expense they have already paid. For example, if your friend pays for your movie ticket, you can reimburse them by giving them money back.\n\nReimburse is when you pay someone back for something they've already spent money on, and return is when you give back something you borrowed or purchased.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e232bca9-bc1a-4412-b13b-5092b2d9b7e9.webp"
+        },
+        "Repay": {
+            "wordRoot": "Repay",
+            "wordDefinition": "Repay refers to giving back money that has been borrowed or owed, typically with interest or a fee added.\n\nRepay is used when you need to give back money you owe, and return is used when you need to give back something you received.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/35e1a0e7-a245-41f4-b8ba-3d6e5b1bc4d4.webp"
+        },
+        "Respond": {
+            "wordRoot": "Respond",
+            "wordDefinition": "Respond means to react or reply to something that someone has said or done. For example, you might respond to a question that someone asked you or respond to a joke by laughing.\n\nBoth words can apply in different situations. You respond to communication, while you return objects or yourself to places.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3313aa1-cfa5-4cc7-add9-e1eff1800fd9.webp"
+        },
+        "Restore": {
+            "wordRoot": "Restore",
+            "wordDefinition": "Restore means to bring something back to its original or former condition. For example, if a building is restored, it is brought back to its original state.\n\nThe difference between the two words is that restore is used when something needs to be fixed or repaired to its former state, while return is used when something needs to be brought back to the place where it came from.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/52ded751-c315-4883-a91f-4f02aee837e2.webp"
+        },
+        "Revert": {
+            "wordRoot": "Revert",
+            "wordDefinition": "Revert means to return to a previous state or condition, usually in response to a particular event or circumstance.\n\nFor example, your computer can revert to its default settings after a software update, or you can revert to your old habits after trying and failing to make a change.\n\nReturn is more commonly used in everyday situations, while revert is used more in technical or specialized contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/548efca3-d50b-4687-b5f1-566da585dea0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and here's why. The possessed students might lie, or they might not, but you know there are only two of them, while the other six will always tell the truth. When each group returns to the hall, all of its members will either give the same report",
+            "Title": "Can you solve the temple...",
+            "VideoId": "nSbvlktToSY",
+            "Controls": "start=155"
+        },
+        {
+            "Text": " I want to end with a call to young people, the young people attending college and the young people struggling to stay out of prison or to make it through prison and return home. It may seem like these paths to adulthood are worlds apart,",
+            "Title": "Alice Goffman: How we're...",
+            "VideoId": "-2Dj9M71JAc",
+            "Controls": "start=897"
+        },
+        {
+            "Text": " Afraid of being eaten, or just to avoid further suffering, they committed suicide or starved themselves, believing that in death, their souls would return home. Those who survived were completley dehumanized, treated as mere cargo.",
+            "Title": "The Atlantic slave...",
+            "VideoId": "3NXC4Q_4JVg",
+            "Controls": "start=198"
+        },
+        {
+            "Text": " I don't wait wait here I have to introduce you okay one more time a drumroll please whoa now that's what I call a drumroll the important thing is write down your ideas because if you don't they'll fly away never to return",
+            "Title": "4 simple ways to have a...",
+            "VideoId": "mtn31hh6kU4",
+            "Controls": "start=234"
+        },
+        {
+            "Text": " is a capacity even more important than their sense of empathy, altruism, and justice. Elephants are the only non-human animals to mourn their dead, performing burial rituals and returning to visit graves.",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=220"
+        },
+        {
+            "Text": " Psychologists recognize two forms of narcissism as a personality grandiose and vulnerable narcissism. There's also narcissistic personality disorder, a more extreme form, which we'll return to shortly.",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=66"
+        },
+        {
+            "Text": " expecting anything in return. So you might even risk your life and so it started sort of all sort of flooding in about. how this was an experience of perhaps the whale displaying",
+            "Title": "A whale saved my life PIPE...",
+            "VideoId": "OXNCCdcBhcY",
+            "Controls": "start=313"
+        },
+        {
+            "Text": " A snow leopard, the rarest of Himalayan animals. It's a female returning to her lair.",
+            "Title": "Snow Leopard Hunting PIPE...",
+            "VideoId": "Uj0EVT-Ekog",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " a Snow Leopard the rarest of Himalayan animals it's a female returning to her",
+            "Title": "BBC Earth 50 Top Natural...",
+            "VideoId": "oP2oGREukAE",
+            "Controls": "start=905"
+        },
+        {
+            "Text": " the Raiders returned home with good and many slaves",
+            "Title": "Watch: An Incredible...",
+            "VideoId": "eGLu2Frqwis",
+            "Controls": "start=136"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lady-gaga.webp",
+            "Text": "I work very hard, but when God opens that door for you - when life opens that door for you, I should say - I think it's important to be giving, to return the love back.",
+            "Title": "American Singer",
+            "Name": "Lady Gaga"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-shorter.webp",
+            "Text": "Experience has taught me how important it is to just keep going, focusing on running fast and relaxed. Eventually it passes and the flow returns. It's part of racing.",
+            "Title": "American Athlete",
+            "Name": "Frank Shorter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chelsea-clinton.webp",
+            "Text": "My marriage is incredibly important to me. It's the place from which I engage in the world every day, and the place to which I return every day.",
+            "Title": "American Celebrity",
+            "Name": "Chelsea Clinton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-johnson.webp",
+            "Text": "The return of my birthday, if I remember it, fills me with thoughts which it seems to be the general care of humanity to escape.",
+            "Title": "English Writer",
+            "Name": "Samuel Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/roberto-baggio.webp",
+            "Text": "I am dreaming that Italy can return to having lots of important talent. We need to grow our young players.",
+            "Title": "Italian Athlete",
+            "Name": "Roberto Baggio"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jacky-ickx.webp",
+            "Text": "I believe to have been one of the rare drivers to have returned to Ferrari.",
+            "Title": "Belgian Driver",
+            "Name": "Jacky Ickx"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/saint-ambrose.webp",
+            "Text": "A kindness received should be returned with a freer hand.",
+            "Title": "Italian Saint",
+            "Name": "Saint Ambrose"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zhuangzi.webp",
+            "Text": "Life comes from the earth and life returns to the earth.",
+            "Title": "Chinese Philosopher",
+            "Name": "Zhuangzi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ravi-kishan.webp",
+            "Text": "I give respect to everyone and they return the same.",
+            "Title": "Indian Actor",
+            "Name": "Ravi Kishan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gloria-trevi.webp",
+            "Text": "My life would be in danger if I return to Mexico.",
+            "Title": "Mexican Musician",
+            "Name": "Gloria Trevi"
+        }
+    ]
+}

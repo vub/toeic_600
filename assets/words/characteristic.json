@@ -1,0 +1,293 @@
+{
+    "currentWord": {
+        "wordRoot": "characteristic",
+        "id": 22365,
+        "phonemic": "ˌkærəktəˈrɪstɪk|ˌkærəktəˈrɪstɪk\r",
+        "bigId": "758ad391-fa3f-4292-b6c4-0df40e736965",
+        "wordForms": [
+            "characteristics",
+            "characteristic"
+        ]
+    },
+    "senses": [
+        {
+            "id": "758ad391-fa3f-4292-b6c4-0df40e736965",
+            "de": "Describes something that is typical or belongs to a certain person, place or thing.",
+            "ty": "adjective",
+            "ex": "The red spot is a characteristic feature of Jupiter.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "characteristic feature",
+                " characteristic trait",
+                " characteristic behavior"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/758ad391-fa3f-4292-b6c4-0df40e736965.webp",
+            "Tips": [
+                {
+                    "title": "Cultural Identification",
+                    "description": "Characteristic as an adjective can describe cultural or regional features that are unique.",
+                    "example": "Sushi is a characteristic dish of Japanese cuisine.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/dLJjNZ71fejMrmgDG7HuOmaCwNI.webp"
+                },
+                {
+                    "title": "Describing People",
+                    "description": "Use 'characteristic' to highlight unique habits or qualities of a person.",
+                    "example": "Her laughter is characteristic; you know it's her from afar.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/l1DmzylQd3JD8iW5XA2cvwP3iSM.webp"
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "Being characteristic doesn't mean it's good—it simply emphasizes distinctiveness.",
+                    "example": "Unfortunately, heavy rain is characteristic of the city's weather.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/13fs3Vk34r4Cln0bGkNt4bfV57c.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "baad53e2-4663-41a0-bce7-0e12fc9333a9",
+            "de": "A feature or quality that belongs to a certain person, place or thing.",
+            "ty": "noun",
+            "ex": "One of his characteristics is his punctuality.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "characteristics of",
+                " characteristic nature",
+                " share a characteristic"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/baad53e2-4663-41a0-bce7-0e12fc9333a9.webp",
+            "Tips": [
+                {
+                    "title": "Singular or Plural",
+                    "description": "As a noun, 'characteristic' can be singular for one feature, or plural for more.",
+                    "example": "Her characteristics include creativity and punctuality.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Identifying Groups",
+                    "description": "Characteristics can help identify and describe specific groups or categories.",
+                    "example": "The characteristics of a mammal include having fur and warm blood.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Traits",
+                    "description": "In human context, characteristics often refer to personality and behavior.",
+                    "example": "She's known for her characteristic honesty.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ef64e142-6b03-4438-ac18-01e5dc5fb170",
+            "de": "In mathematics, it is the integer part of a logarithm.",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "In the number 3.14159, the characteristic is 3.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "characteristic of a logarithm",
+                " calculate characteristic",
+                " characteristic value"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ef64e142-6b03-4438-ac18-01e5dc5fb170.webp",
+            "Tips": [
+                {
+                    "title": "Technical Use",
+                    "description": "The mathematical use is specialized and won't be used in everyday conversation.",
+                    "example": "He calculated the characteristic to solve the logarithmic equation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Math Context Clue",
+                    "description": "In math, 'characteristic' will often be accompanied by numbers or math symbols.",
+                    "example": "Find the characteristic of log base 10 of the number 1000.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Rare Outside Math",
+                    "description": "The math definition is rarely encountered outside educational or scientific contexts.",
+                    "example": "During the maths class, we learned that the characteristic is not the decimal part.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Attribute": {
+            "wordRoot": "Attribute",
+            "wordDefinition": "Attribute refers to a specific quality or feature that something or someone has.\n\nIt is often used to describe a particular aspect of a person or object. For example, a person's intelligence, creativity or sense of humour are considered attributes.\n\nIn essence, attribute refers to a specific feature, while characteristic refers to a general trait. Both of these words can describe people, animals, objects or places depending on what you are trying to communicate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ede8620-8b2c-489d-aea5-6686448f9eca.webp"
+        },
+        "Distinctive": {
+            "wordRoot": "Distinctive",
+            "wordDefinition": "Characteristic refers to a feature or attribute that is common or typical of a certain thing. Distinctive refers to a feature or attribute that is unique and sets apart a certain thing from others.\n\nFor example, the characteristic of a bird is having feathers, while the distinctive feature of a peacock is its colorful plumage.\n\nIn other words, characteristic refers to something that is shared by a group or category, while distinctive refers to something that makes a particular thing stand out from the rest.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fe7b0f2f-f0e5-4b1b-835d-d759f8b12756.webp"
+        },
+        "Feature": {
+            "wordRoot": "Feature",
+            "wordDefinition": "Both the words characteristic and feature refer to the qualities or attributes of something.\n\nCharacteristic is commonly used to describe the unique, defining qualities of a person, thing, or group. For example, the characteristic features of a cat might include its whiskers, sharp claws, and ability to retract its claws into its paws.\n\nFeature is more commonly used to describe a specific aspect of something that is prominent or important.\n\nFor example, the features of a car could include its color, size, number of seats or horsepower.\n\nSimilarly, a software program might include a range of features such as ease of use, accessibility, or advanced functionality.\n\nIn summary, while both words refer to qualities or attributes, characteristic typically describes inherent and defining qualities that distinguish something, while feature describes a prominent or important aspect of something that might make it attractive or useful to others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/759fbd67-abf0-4b4f-9daa-6cb0c1bfb5ee.webp"
+        },
+        "Identify": {
+            "wordRoot": "Identify",
+            "wordDefinition": "Identify means to recognize or name something or someone.\n\nIt describes the process of discovering who or what something is, such as identifying a bird species or a suspect in a crime.\n\nCharacteristic refers to the unique qualities that define someone or something, while identify refers to the process of recognizing, naming or associating someone or something with a specific group or context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d9232bce-3681-4269-a981-ea83ff23904c.webp"
+        },
+        "Mark": {
+            "wordRoot": "Mark",
+            "wordDefinition": "A mark is a distinguishing feature or sign that sets something or someone apart from others. For example, a mark of a good chef is attention to detail.\n\nA characteristic describes something's inherent or typical attributes, while a mark describes something's distinguishing or exceptional attributes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/080633ad-dcf1-4c53-8a69-e3df308138dd.webp"
+        },
+        "Peculiar": {
+            "wordRoot": "Peculiar",
+            "wordDefinition": "Peculiar refers to a quality or feature that is unusual or distinct to a person, thing, or situation.\n\nFor example, if we say that the way a person talks is peculiar, we mean that the way they speak is unusual or different from what is expected.\n\nCharacteristic is used when talking about something that is typical or expected, while peculiar is used when talking about something that is unusual or unexpected.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8d372ee2-dddd-4c17-970d-f0ef86ded6d4.webp"
+        },
+        "Trait": {
+            "wordRoot": "Trait",
+            "wordDefinition": "A trait refers to a specific aspect of a person's personality or behavior. For example, a trait of someone's personality may be their sense of humor or their tendency to be organized.\n\nEssentially, characteristics are broader and more general, while traits are specific and individual. Both words can describe people, things, or groups, but in different contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/82aa8224-63e0-43c5-be2c-a99203065b5c.webp"
+        },
+        "Typical": {
+            "wordRoot": "Typical",
+            "wordDefinition": "Typical means something that is usual or commonly observed. It is a general representation or expectation of something.\n\nFor example, wearing a hat in the winter is typical.\n\nA characteristic defines an individual or object, while typical describes a general expectation or norm.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49c0ea1b-4a8c-48a5-9918-a66102ff5436.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " laughter is a phenomenally useful index of how people are regulating their emotions together. We're not just emitting it at each other to show that we like each other, we're making ourselves feel better together. Now, I don't think this is going to be limited to romantic relationships. I think this is probably going to be a characteristic",
+            "Title": "Why we laugh PIPE Sophie...",
+            "VideoId": "UxLRv0FEndM",
+            "Controls": "start=778"
+        },
+        {
+            "Text": " What secrets do its pages contain? He purchased the manuscript from the cash-strapped priest at the college, and eventually brought it to the U.S., where experts have continued to puzzle over it for more than a century. Cryptologists say the writing has all the characteristics of a real language, just one that no one's ever seen before.",
+            "Title": "The world’s most...",
+            "VideoId": "8NS4CbBJQ84",
+            "Controls": "start=62"
+        },
+        {
+            "Text": " something they did before they ever said I do and that was they chose partners with a certain set of traits and characteristics that set them up for success now think for a second about the traits of your ideal partner you might want one who's has certain personality traits",
+            "Title": "An algorithm for happily...",
+            "VideoId": "-BQcF8irz9k",
+            "Controls": "start=121"
+        },
+        {
+            "Text": " Despite laying eggs and other adaptations that we associate more with non-mammals, like the duck-bill platypus's webbed feet, bill, and the venomous spur males have on their feet, they are, in fact, mammals. That's because they share the defining characteristics of mammalia",
+            "Title": "The three different ways...",
+            "VideoId": "sz3Yv3On4lE",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " like a particle. But if you repeat this experiment many times, keeping track of all the individual detections, you'll see them trace out a pattern that's characteristic of wave a set of stripes - regions with many electrons separated by regions where there are none at all.",
+            "Title": "Schrödinger's cat: A...",
+            "VideoId": "UjaAxUO6-Uw",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " and made to go through a bewildering process where neither the cause of his arrest, nor the nature of the judicial proceedings are made clear to him. This sort of scenario is considered so characteristic of Kafka's work that scholars came up with a new word for it.",
+            "Title": "What makes something...",
+            "VideoId": "wkPR4Rcf4ww",
+            "Controls": "start=22"
+        },
+        {
+            "Text": " adjusting their molecular and cellular characteristics to survive under stress. When they're bombarded by radiation or chemotherapy, some cancer cells can effectively switch on protective shields against whatever's attacking them by changing their gene expression.",
+            "Title": "Why is it so hard to...",
+            "VideoId": "h2rR77VsF5c",
+            "Controls": "start=238"
+        },
+        {
+            "Text": " order to be able to reach the leaves of trees on which it browsed but a more safe characteristic is weight and you can be fairly sure the estimate of that and it reckoned that the elephant bird weighed around half a ton",
+            "Title": "Best Of Attenborough And...",
+            "VideoId": "_2NtGS8HTc8",
+            "Controls": "start=167"
+        },
+        {
+            "Text": " most cults share some basic characteristics. A typical cult requires a high level of commitment from its members and maintains a strict hierarchy, separating unsuspecting supporters and recruits from the inner workings.",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=111"
+        },
+        {
+            "Text": " unique characteristics of a skull look at the old a tail very small and not not large square-shaped and not rounded those are all important of logical features which again tells you that you",
+            "Title": "Forensic Artistry PIPE Lost...",
+            "VideoId": "ARCkTn_S3kk",
+            "Controls": "start=14"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-p-feynman.webp",
+            "Text": "The most obvious characteristic of science is its application: the fact that, as a consequence of science, one has a power to do things. And the effect this power has had need hardly be mentioned. The whole industrial revolution would almost have been impossible without the development of science.",
+            "Title": "American Physicist",
+            "Name": "Richard P. Feynman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/manuel-neuer.webp",
+            "Text": "I consider that part of my job as a pro: to know who you're up against and how the attacking players play, what kind of characteristics they have, their qualities, how they move, their preferred foot.",
+            "Title": "German Athlete",
+            "Name": "Manuel Neuer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "The main thing that's missing in energy is an incentive to create things that are zero-CO2-emitting and that have the right scale and reliability characteristics.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francois-de-la-rochefoucauld.webp",
+            "Text": "As it is the characteristic of great wits to say much in few words, so small wits seem to have the gift of speaking much and saying nothing.",
+            "Title": "French Writer",
+            "Name": "Francois de La Rochefoucauld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chadwick-boseman.webp",
+            "Text": "When you play characters, you shouldn't just be putting on their characteristics - you should be finding it inside yourself.",
+            "Title": "American Actor",
+            "Name": "Chadwick Boseman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/a-p-j-abdul-kalam.webp",
+            "Text": "One of the very important characteristics of a student is to question. Let the students ask questions.",
+            "Title": "Indian Statesman",
+            "Name": "A. P. J. Abdul Kalam"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noam-chomsky.webp",
+            "Text": "The U.S. increasingly has taken on the characteristics of what we describe as 'failed states.",
+            "Title": "American Activist",
+            "Name": "Noam Chomsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/niko-kovac.webp",
+            "Text": "We're all different, and we have to accept and tolerate each other's characteristics.",
+            "Title": "Croatian Athlete",
+            "Name": "Niko Kovac"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-david-thoreau.webp",
+            "Text": "It is a characteristic of wisdom not to do desperate things.",
+            "Title": "American Author",
+            "Name": "Henry David Thoreau"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-hanning-speke.webp",
+            "Text": "Each tribe has its characteristics, it is true.",
+            "Title": "British Soldier",
+            "Name": "John Hanning Speke"
+        }
+    ]
+}

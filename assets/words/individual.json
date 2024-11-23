@@ -1,0 +1,333 @@
+{
+    "currentWord": {
+        "wordRoot": "individual",
+        "id": 5482,
+        "phonemic": "ˌɪndɪˈvɪdʒuəl|ˌɪndɪˈvɪdʒuəl\r",
+        "bigId": "604215b4-4760-4da5-8dd3-837d91cc1778",
+        "wordForms": [
+            "individuals",
+            "individually",
+            "individualism",
+            "individualist",
+            "individualists",
+            "individual"
+        ]
+    },
+    "senses": [
+        {
+            "id": "604215b4-4760-4da5-8dd3-837d91cc1778",
+            "de": "A single human being as distinct from a group, class, or family.",
+            "ty": "noun",
+            "ex": "He's a very strange individual.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "strange individual",
+                " unique individual",
+                " single individual"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/604215b4-4760-4da5-8dd3-837d91cc1778.webp",
+            "Tips": [
+                {
+                    "title": "Distinct Identity",
+                    "description": "Refers to someone's unique characteristics that set them apart from others.",
+                    "example": "She is an individual with a remarkable memory.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZRJLU8FVW5MJLgQYspE2vC66PuI.webp"
+                },
+                {
+                    "title": "Not Collective",
+                    "description": "Emphasizes one person, often in contrast to a group or team setting.",
+                    "example": "He prefers to work as an individual rather than in a group.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/w0DLmmFMkPtiJ7WzBGtR1e5t0Es.webp"
+                },
+                {
+                    "title": "Emotionally Charged",
+                    "description": "Can imply that the person stands out or is unusual in some way.",
+                    "example": "That individual seems quite eccentric.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/3zYTDxrxxfzf3weHW5E0mIUfvlw.webp"
+                }
+            ]
+        },
+        {
+            "id": "a2164c90-0e6b-4212-8867-c872312a3c74",
+            "de": "Single; separate.",
+            "ty": "adjective",
+            "ex": "We all have our individual styles.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "individual style",
+                " individual preference",
+                " individual choice"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a2164c90-0e6b-4212-8867-c872312a3c74.webp",
+            "Tips": [
+                {
+                    "title": "Unique Features",
+                    "description": "Highlights distinct qualities that set someone or something apart from others.",
+                    "example": "Individual tastes in music vary widely.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Touch",
+                    "description": "Conveys a sense of personalization or customization in style or preference.",
+                    "example": "They offer individual design services for their clients.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Separate Entity",
+                    "description": "Used to describe something that is considered on its own, not as part of a group.",
+                    "example": "Each individual opinion contributes to the final decision.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "213fd255-415d-48ca-9c3b-f65c016fddb5",
+            "de": "Relating to one person or thing; not combined or collective.",
+            "ty": "adjective",
+            "ex": "Each individual student receives a personal timetable.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "individual student",
+                " individual item",
+                " individual work"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/213fd255-415d-48ca-9c3b-f65c016fddb5.webp",
+            "Tips": [
+                {
+                    "title": "Personal Relevance",
+                    "description": "Talks about aspects directly related to a single person, often signaling exclusivity.",
+                    "example": "Your individual needs will be taken into consideration.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Singular Attention",
+                    "description": "Indicates that something is designed or intended for one person or thing at a time.",
+                    "example": "The teacher gives individual attention to each student.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implying Importance",
+                    "description": "Can imply that a person or item is important enough to be considered alone.",
+                    "example": "Each individual piece in the collection is valuable.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "45e1b665-1f49-4ad4-a729-204f1b92a6d3",
+            "de": "A single distinct element; a single person, thing, or concept apart from a group.",
+            "do": "Mathematics, Sciences",
+            "ty": "noun",
+            "ex": "In probability, an individual refers to an outcome of a random experiment.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "individual outcome",
+                " individual element",
+                " individual case"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/45e1b665-1f49-4ad4-a729-204f1b92a6d3.webp",
+            "Tips": [
+                {
+                    "title": "Science Specific",
+                    "description": "Used in science to describe a single entity in a study or experiment.",
+                    "example": "Every individual variable must be controlled.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Element of a Set",
+                    "description": "Refers to an item as part of a larger mathematical or scientific set.",
+                    "example": "Study each individual element's properties.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Character": {
+            "wordRoot": "Character",
+            "wordDefinition": "Character refers to a person's moral and ethical qualities or personality traits. It describes the way a person behaves, thinks, and feels.\n\nFor example, a person may be described as having a strong character or a weak character depending on their personality and behavior.\n\nFor example, a person may be described as an individual because of their particular traits and characteristics that set them apart from others.\n\nThe difference between the two words is that character refers to a person's inner qualities, while individual emphasizes their uniqueness and separateness from others.\n\nEach word can be applicable in different situations. For instance, character might be used in reference to a person's suitability for a particular job, while individual might be used to describe a unique piece of artwork.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0725e4ce-336a-409e-989f-390b96dd1802.webp"
+        },
+        "Human": {
+            "wordRoot": "Human",
+            "wordDefinition": "Human refers to a member of the Homo sapiens species, which includes all people. It has a biological connotation and is used to refer to our species as a whole.\n\nBoth words are applicable in different contexts. Human is used when we talk about the biological and evolutionary aspects of our species, such as when discussing human anatomy, genetics, or history.\n\nFor example, a doctor might use the word human when describing the anatomy of the human body, while a coach might talk about the individual skills of a football player.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/08c95f48-3249-43d9-a23d-7e4c33d46ccf.webp"
+        },
+        "Identity": {
+            "wordRoot": "Identity",
+            "wordDefinition": "Identity refers to the characteristics and qualities that make a person who they are. This includes their beliefs, values, cultural background, and personal experiences.\n\nIdentity is how you see yourself and how others see you.\n\nIdentity is a broader term that encompasses the entirety of a person's characteristics and qualities, while individual refers to the person as a single, unique entity.\n\nIdentity may be more applicable in discussions about culture, personal development, or self-awareness, while individual is more appropriate when referring to one person in particular.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f8cab482-1d98-43ef-bfa8-49ac591c8519.webp"
+        },
+        "Individuality": {
+            "wordRoot": "Individuality",
+            "wordDefinition": "Individual refers to a single person or thing, while individuality refers to the unique qualities or characteristics that make someone or something distinct from others.\n\nHowever, someone's individuality is what makes them different from others - their unique personality, interests, and experiences.\n\nIndividual is generally used to refer to a specific person or thing, while individuality describes the unique qualities or characteristics of that person or thing.\n\nIf you're talking about one single person, you would use individual, but if you're discussing what makes that person different from others, you would use 'individuality.'",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/050d6817-6a52-4b44-a1cb-35d9d52025f9.webp"
+        },
+        "One": {
+            "wordRoot": "One",
+            "wordDefinition": "One is used to refer to a single entity or unit. For example, \"there is only one book left on the shelf\".\n\nIndividual emphasizes the unique characteristics of a person or thing, while one is more focused on the singular entity itself.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8570bf0a-b889-4b33-a4f1-71261e2c8b04.webp"
+        },
+        "Person": {
+            "wordRoot": "Person",
+            "wordDefinition": "Both words refer to a single human being, but individual emphasizes their unique characteristics or qualities, while person is a more general term.\n\nFor example, you might refer to someone as an individual if you're describing their specific talents or skills, like \"she's an incredibly talented dancer\" or \"he's a strategic thinker.\" If you're simply talking about someone in a more general sense, like \"she's a nice person\" or \"he's a funny person,\" you would use the word \"person.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70c7e0da-7519-4e31-8221-a8ffb6f27b3c.webp"
+        },
+        "Personality": {
+            "wordRoot": "Personality",
+            "wordDefinition": "Individual refers to a person as a unique, separate entity, while personality refers to the unique set of traits and characteristics that make up a person's behavior and demeanor.\n\nHowever, each person's personality will be different, as one might be outgoing and talkative while the other is introverted and reserved.\n\nThe term individual is applicable in general descriptions of people, while personality describes specific aspects of someone's behavior and characteristics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d930e82f-8ebd-450a-a0fb-30d2162b07aa.webp"
+        },
+        "Self": {
+            "wordRoot": "Self",
+            "wordDefinition": "Self refers to the essential being or nature of a person.\n\nIt is often used to talk about someone's identity or sense of who they are. For example, \"He lost himself in the music\" means that he became fully absorbed in the experience and forgot about his surroundings.\n\nBoth words can be applicable in various contexts, but individual is typically used to describe specific qualities or traits of a person, while self is more about one's inner sense of identity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c1f9a494-c6f7-4b81-a418-9930b07311c5.webp"
+        },
+        "Singular": {
+            "wordRoot": "Singular",
+            "wordDefinition": "Singular refers specifically to something that is alone or unique.\n\nIf you were talking about a particular person, you could use the word singular to emphasize their uniqueness. You might say \"his singular talent lies in his ability to solve complex problems quickly.\".\n\nOverall, both words refer to things that are singular or alone, but individual can also refer to things that are part of a larger group while singular emphasizes uniqueness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/875e5c99-284b-44df-8fce-ad223219525d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Many do it for very positive reasons, like reaching their full potential, or helping make people's lives better. But narcissistic individuals seek power for the status and attention that goes with it. Meanwhile, vulnerable narcissists can be quiet and reserved. They have a strong sense of entitlement,",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=100"
+        },
+        {
+            "Text": " in which one is compelled to disregard their own perception in place of the officially dictated version of events, leaving the individual completely dependent on the State's definition of reality itself. The result is a world in which even the privacy of one's own thought process is violated,",
+            "Title": "What \"Orwellian\" really...",
+            "VideoId": "oe64p-QzhNE",
+            "Controls": "start=155"
+        },
+        {
+            "Text": " like a particle. But if you repeat this experiment many times, keeping track of all the individual detections, you'll see them trace out a pattern that's characteristic of wave a set of stripes - regions with many electrons separated by regions where there are none at all.",
+            "Title": "Schrödinger's cat: A...",
+            "VideoId": "UjaAxUO6-Uw",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " are their senses of empathy, altruism, and attachment. The habit of helping injured individuals extends across the species barrier as evidenced by the many accounts of dolphins carrying humans to the surface to breathe. And like us, dolphins mourn their dead.",
+            "Title": "How smart are dolphins?...",
+            "VideoId": "05PpTqtGhGU",
+            "Controls": "start=235"
+        },
+        {
+            "Text": " This covers everything from laws of gravity, or not, to the rules of society and the punishments for individuals who break them. What kind of government does this world have? Who has power, and who doesn't? What do people believe in here?",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=220"
+        },
+        {
+            "Text": " Instead, by allowing individuals to remember personally meaningful and rewarding experiences they shared with others, nostalgia can boost psychological well-being. Studies have shown that inducing nostalgia in people",
+            "Title": "Why do we feel...",
+            "VideoId": "WiTgn5QH_HU",
+            "Controls": "start=162"
+        },
+        {
+            "Text": " the fact that this must be how our brain constructs a moving image just like a video camera with individual discrete pictures helped excuse me having a brain injury sometimes causes memory issues here there we go",
+            "Title": "How math saved my life PIPE...",
+            "VideoId": "GDU7lEmiiD8",
+            "Controls": "start=334"
+        },
+        {
+            "Text": " once again my journeys take me around the world meeting inspiring individuals from all walks of life and as always I've got a lot of questions do you think that justice and revenge or different about",
+            "Title": "The Story of Us with...",
+            "VideoId": "gxG39vHxsuQ",
+            "Controls": "start=16"
+        },
+        {
+            "Text": " but not very stress reactive, the person who's laid back. So we know that in primate hierarchies, if an alpha needs to take over, if an individual needs to take over an alpha role sort of suddenly,",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=576"
+        },
+        {
+            "Text": " These are insects that, by working together, transcend individual size. The colony can search the entire jungle and flush out its wildlife.",
+            "Title": "Army Ants Rampage...",
+            "VideoId": "JsfiUR0ZzLw",
+            "Controls": "start=54"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wayne-gretzky.webp",
+            "Text": "I think that from the time you start playing sports as a child you see that your responsibility to your team is to play the best that you can play as an individual... and yet, not take anything away from being part of a team.",
+            "Title": "Canadian Hockey Player",
+            "Name": "Wayne Gretzky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nelson-mandela.webp",
+            "Text": "Our single most important challenge is therefore to help establish a social order in which the freedom of the individual will truly mean the freedom of the individual.",
+            "Title": "South African Statesman",
+            "Name": "Nelson Mandela"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oliver-wendell-holmes-sr.webp",
+            "Text": "Fame usually comes to those who are thinking about something else - very rarely to those who say to themselves, 'Go to, now, let us be a celebrated individual!'.",
+            "Title": "American Writer",
+            "Name": "Oliver Wendell Holmes, Sr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-lloyd-wright.webp",
+            "Text": "Life always rides in strength to victory, not through internationalism... but only through the direct responsibility of the individual.",
+            "Title": "American Architect",
+            "Name": "Frank Lloyd Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/galileo-galilei.webp",
+            "Text": "In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.",
+            "Title": "Italian Scientist",
+            "Name": "Galileo Galilei"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "Individuals need to be willing to face truth about their attitudes, behaviors, even what we want out of life.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-nietzsche.webp",
+            "Text": "Madness is rare in individuals - but in groups, parties, nations, and ages it is the rule.",
+            "Title": "German Philosopher",
+            "Name": "Friedrich Nietzsche"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-wilde.webp",
+            "Text": "Society exists only as a mental concept; in the real world there are only individuals.",
+            "Title": "Irish Poet",
+            "Name": "Oscar Wilde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-baden-powell.webp",
+            "Text": "An individual step in character training is to put responsibility on the individual.",
+            "Title": "English Soldier",
+            "Name": "Robert Baden-Powell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ralph-waldo-emerson.webp",
+            "Text": "Truth is the property of no individual but is the treasure of all men.",
+            "Title": "American Philosopher",
+            "Name": "Ralph Waldo Emerson"
+        }
+    ]
+}

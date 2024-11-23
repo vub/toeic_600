@@ -1,0 +1,296 @@
+{
+    "currentWord": {
+        "wordRoot": "accumulate",
+        "id": 17058,
+        "phonemic": "əˈkjuːmjəleɪt|əˈkjuːmjəleɪt\r",
+        "bigId": "2ac84393-8701-422d-81d8-b8ff647c5b21",
+        "wordForms": [
+            "accumulates",
+            "accumulating",
+            "accumulated",
+            "accumulation",
+            "accumulate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2ac84393-8701-422d-81d8-b8ff647c5b21",
+            "de": "To gradually gather or grow larger over time",
+            "ty": "verb",
+            "ex": "Dust had accumulated in the corners of the room.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accumulate knowledge",
+                " accumulate wealth",
+                " accumulate resources"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2ac84393-8701-422d-81d8-b8ff647c5b21.webp",
+            "Tips": [
+                {
+                    "title": "Time Duration",
+                    "description": "Use 'accumulate' to show that something is increasing over a period of time, not instantly.",
+                    "example": "Over the years, he accumulated a vast collection of stamps.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/3yctVAcX1ZyMz2GPLe5Ry3M.webp"
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "'Accumulate' can refer to both desirable and undesirable increases, such as debts or problems.",
+                    "example": "They accumulated a lot of debt after buying the house.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/hjtHLuvBYNdMaWj4314Ec6FGZ0.webp"
+                },
+                {
+                    "title": "Subtle Growth",
+                    "description": "The process of accumulating is often subtle and not easily noticed until it's significant.",
+                    "example": "I didn't realize how much clutter I had accumulated over the years.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GsrToTq1KIMr4Db2iHSBXRb3o.webp"
+                }
+            ]
+        },
+        {
+            "id": "bfb7a4a6-a567-4c0e-9f4e-fb66baa237ab",
+            "de": "To gain or save gradually over time, often in terms of money or assets",
+            "ty": "verb",
+            "ex": "He accumulated a fortune through smart investments.",
+            "use": "",
+            "co": "Business, Financial",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accumulate funds",
+                " accumulate wealth",
+                " accumulate assets"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bfb7a4a6-a567-4c0e-9f4e-fb66baa237ab.webp",
+            "Tips": [
+                {
+                    "title": "Financial Planning",
+                    "description": "In financial contexts, 'accumulate' often highlights the active effort in saving or gathering assets.",
+                    "example": "Her goal was to accumulate enough savings to travel the world.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Wealth Building",
+                    "description": "'Accumulate' conveys a strategy or plan when used in the context of building wealth or assets.",
+                    "example": "By wisely investing, she began to accumulate wealth quickly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0be3fddd-bd59-44a3-84ed-e6fef548d9ca",
+            "de": "In scientific or technical contexts, to accumulate can refer to gathering or piling something up in an orderly way",
+            "do": "Scientific, Technical",
+            "ty": "verb",
+            "ex": "Over time, sediment accumulates at the bottom of the lake.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accumulate sediment",
+                " accumulate data",
+                " accumulate layers"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0be3fddd-bd59-44a3-84ed-e6fef548d9ca.webp",
+            "Tips": [
+                {
+                    "title": "Research Insight",
+                    "description": "In science, 'accumulate' can imply the careful collection of data or evidence for analysis.",
+                    "example": "Scientists accumulate data to understand climate patterns.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Gradual Buildup",
+                    "description": "Technical fields use 'accumulate' for gradual increases, like layers of sediment or pollutants.",
+                    "example": "Hazardous chemicals accumulate in the environment over time.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Orderly Piling",
+                    "description": "'Accumulate' can refer to an orderly collection not just random gathering, in scientific terms.",
+                    "example": "Lab samples must be carefully accumulated for accurate testing.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accrue": {
+            "wordRoot": "Accrue",
+            "wordDefinition": "Accrue means to gradually accumulate over time, especially with regard to money or benefits. An example use of accrue in a sentence is: \"Interest on savings accounts accrues over time, so the longer you keep your money in the account, the more interest it will accrue.\".\n\nThe main difference between the words is that accrue is generally used to refer to the gradual growth of money or benefits, while accumulate refers to the gradual gathering or increasing of physical items or non-monetary things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5c2a3d55-ade2-4024-8bed-5c83af042891.webp"
+        },
+        "Aggregate": {
+            "wordRoot": "Aggregate",
+            "wordDefinition": "Aggregate means to combine different things into a whole or to add them up. It often refers to statistical information or a summary of data.\n\nFor example, you might aggregate data about a group of people to find out the average age or income.\n\nAccumulate is about slowly gathering things, while aggregate is about combining information.\n\nIf you are summarizing or adding up information, use aggregate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e77e627f-5d46-47f1-bf0f-e836f3844af8.webp"
+        },
+        "Amass": {
+            "wordRoot": "Amass",
+            "wordDefinition": "Both accumulate and amass mean to gather or collect something over time.\n\nHowever, accumulate typically refers to the gradual and steady collection of something, while amass suggests a more rapid and significant collection.\n\nFor example, you might accumulate a collection of books by adding a few new ones every month, while you might amass a pile of money by winning the lottery.\n\nAccumulate is more commonly used in everyday language, while amass is often used in more formal or grandiose contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5817fda0-e6bd-4a21-b1a8-6b2e26563fc5.webp"
+        },
+        "Assemble": {
+            "wordRoot": "Assemble",
+            "wordDefinition": "Assemble means to bring together different parts or pieces to create a whole.\n\nIt is often used when talking about putting things together like furniture, cars or toys. For example, a person might assemble a puzzle by putting all the pieces together in the right way.\n\nBoth words are different and applicable depending on the context in which they are used. We use accumulate when we are talking about something that is gradually built up or increased, while assemble is used when we are talking about putting different things together to create a whole.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc520a7d-c7a6-4a48-ad5b-c700a58fca2d.webp"
+        },
+        "Build up": {
+            "wordRoot": "Build up",
+            "wordDefinition": "Both words mean to increase in quantity, but accumulate usually implies a gradual or steady increase over time, while build up suggests a faster or more deliberate increase.\n\nFor example, you might accumulate wealth over many years by slowly saving money and investing wisely. An athlete might build up their strength and endurance through intense training sessions over a few weeks or months.\n\nAccumulate is better suited for describing slow, natural growth or the gradual collection of things over time, while build up is better suited for describing deliberate, intentional growth or the act of creating something from scratch.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/33d67f20-2091-4a69-8d1d-28c4c8137fd2.webp"
+        },
+        "Collect": {
+            "wordRoot": "Collect",
+            "wordDefinition": "Accumulate means to gradually gather or build up over time, whereas collect means to bring things together or pick things up.\n\nFor example, you might accumulate wealth over time as you save money from your job or investments. You might collect stamps as a hobby by seeking them out and adding them to your collection.\n\nAccumulate is used more for abstract things like money, knowledge, or experience, while collect is used more for physical objects like stamps, books, or art.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1273f9c2-bfaf-4207-9c5a-4207a4b99f6e.webp"
+        },
+        "Constitute": {
+            "wordRoot": "Constitute",
+            "wordDefinition": "Constitute means to form or make up something. It is applicable when referring to things like a group, a team, or a percentage.\n\nFor example, the players constitute the basketball team or women constitute 50% of the population.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b9754d99-e248-4d1b-8a2e-6d0255747e7c.webp"
+        },
+        "Gather": {
+            "wordRoot": "Gather",
+            "wordDefinition": "Gather means to bring together or collect things or people in one place. For example, you might gather your friends for a party or gather fallen leaves in your yard.\n\nThe main difference between the two words is that accumulate implies a gradual and steady increase or growth over time, while gather simply means to bring things or people together in one place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e0ed609-a4a1-4831-88cf-4a316f42e7c9.webp"
+        },
+        "Hoard": {
+            "wordRoot": "Hoard",
+            "wordDefinition": "While to hoard means to collect or keep things in large amounts often unnecessarily or excessively, and usually in a secretive or obsessive manner.\n\nHoarding is typically associated with compulsive behavior and is often considered a disorder. For example, someone might hoard old newspapers, magazines, or empty containers that have no practical use.\n\nIn summary, accumulating is a normal and necessary process that often refers to collecting things over time for a specific reason, while hoarding is an excessive and problematic compulsion typically associated with negative consequences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fff9597-b982-488e-8eb4-0b2ac2ae85d3.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And scientists are currently studying birds like cormorants, and other seabirds in this area. For how they've accumulated the toxic chemicals coming out of plastic. They're fantastic indicators of what the ecosystem is showing in terms of pollution. And it's such a shame because these are really, really important breeding sites",
+            "Title": "Finding Baby Seals on an...",
+            "VideoId": "whGoI0L_TLM",
+            "Controls": "start=645"
+        },
+        {
+            "Text": " This suggests that the Earth may have accumulated a substantial amount of water early on that was able to stay put, despite the lack of an atmosphere, though asteroids may have brought more over the eons. If this turns out to be true, life may have formed much earlier than previously thought.",
+            "Title": "Where did Earth’s water...",
+            "VideoId": "RwtO04EXgUE",
+            "Controls": "start=174"
+        },
+        {
+            "Text": " after an eruption so large that the now-empty magma chamber can no longer support its weight. But though the above-ground volcano is gone, the underground volcanic activity continues. With no method of release, magma and volcanic gases continue to accumulate and expand underground,",
+            "Title": "The colossal consequences...",
+            "VideoId": "hDNlu7Qf6_E",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " Here's the common-sense idea. There is you. You are the individuals you are, and you have this kind of core. Now in your life, what happens is that you, of course, accumulate different experiences and so forth. So you have memories, and these memories help to create what you are.",
+            "Title": "Julian Baggini: Is there...",
+            "VideoId": "Q80MfH7xPPE",
+            "Controls": "start=129"
+        },
+        {
+            "Text": " in the three minutes that followed the birth of our universe. Eventually, clusters of atoms accumulated and formed stars. Within these stars, nuclear reactions fused light elements, such as hydrogen and helium, to form heavier elements, such as carbon and oxygen.",
+            "Title": "The law of conservation...",
+            "VideoId": "2S6e11NBwiw",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " Some people would say it's technology. Now it's true, technology has accumulated through human history, and right now, technology advances extremely rapidly -- that is the proximate cause, that's why we are currently so very productive.",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=81"
+        },
+        {
+            "Text": " Law number power is never static. It's always either accumulating or decaying in a civic arena. So if you aren't taking action, you're being acted upon. Law number power is like water. It flows like a current through everyday life.",
+            "Title": "How to understand power...",
+            "VideoId": "c_Eutci7ack",
+            "Controls": "start=195"
+        },
+        {
+            "Text": " because this is science right and through the scientific iterative process that it is we can eventually accumulate enough evidence to determine whether or not this process is indeed important to the ocean and so this topic biogenic",
+            "Title": "Footprints in the ocean...",
+            "VideoId": "3l2nwHZhf0k",
+            "Controls": "start=469"
+        },
+        {
+            "Text": " Painkillers, like ibuprofen, block the production of compounds that help the body transmit pain signals. As more drug molecules accumulate, the pain-cancelling affect increases, reaching a maximum within about one or two hours.",
+            "Title": "How does your body...",
+            "VideoId": "uOcpsXMJcJk",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " enough magma accumulated to cause the ground to swell up to six and a half feet. The next stage of a supervolcano's life cycle is a supereruption. At this point, the buildup of pressure",
+            "Title": "Supervolcanoes 101 PIPE...",
+            "VideoId": "kAlawvE8lVw",
+            "Controls": "start=91"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuan-t-lee.webp",
+            "Text": "Through the continued accumulation of detailed and reliable knowledge about elementary reactions, we will be in a better position to understand, predict and control many time-dependent macroscopic chemical processes which are important in nature or to human society.",
+            "Title": "Chinese Scientist",
+            "Name": "Yuan T. Lee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eckhart-tolle.webp",
+            "Text": "There is such a thing as old emotional pain living inside you. It is an accumulation of painful life experience that was not fully faced and accepted in the moment it arose. It leaves behind an energy form of emotional pain.",
+            "Title": "German Speaker",
+            "Name": "Eckhart Tolle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuri-milner.webp",
+            "Text": "Facebook can be an accumulation of different intelligences. Ask a question, translated into many languages and somebody, somewhere in the world, will have an answer.",
+            "Title": "Russian Businessman",
+            "Name": "Yuri Milner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fyodor-dostoevsky.webp",
+            "Text": "It seems, in fact, as though the second half of a man's life is made up of nothing, but the habits he has accumulated during the first half.",
+            "Title": "Russian Novelist",
+            "Name": "Fyodor Dostoevsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andrew-carnegie.webp",
+            "Text": "I resolved to stop accumulating and begin the infinitely more serious and difficult task of wise distribution.",
+            "Title": "Scottish Businessman",
+            "Name": "Andrew Carnegie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anne-wojcicki.webp",
+            "Text": "Health is not sort of like a 6-month project. Health is a lifetime accumulation of behaviors.",
+            "Title": "American Scientist",
+            "Name": "Anne Wojcicki"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gloria-steinem.webp",
+            "Text": "It is more rewarding to watch money change the world than watch it accumulate.",
+            "Title": "American Activist",
+            "Name": "Gloria Steinem"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-william-curtis.webp",
+            "Text": "Books are the ever burning lamps of accumulated wisdom.",
+            "Title": "American Author",
+            "Name": "George William Curtis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-covey.webp",
+            "Text": "Life is not accumulation, it is about contribution.",
+            "Title": "American Educator",
+            "Name": "Stephen Covey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/melvin-van-peebles.webp",
+            "Text": "Over time, you accumulate a lot of life material.",
+            "Title": "American Actor",
+            "Name": "Melvin Van Peebles"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "currentWord": {
+        "wordRoot": "due to",
+        "id": 0,
+        "phonemic": "djuː tuː",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "a1b2c3d4-5e6f-7890-1234-567890abcdef",
+            "de": "caused by; because of",
+            "ty": "preposition",
+            "ex": "The flight delay was due to bad weather.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "delay due to",
+                "due to circumstances",
+                "accident due to",
+                "cancellation due to",
+                "problems due to",
+                "changes due to"
+            ],
+            "ImageSrc": "./senses/579ea361-efa8-4afe-847b-bee5c88b9f35.webp",
+            "Tips": [
+                {
+                    "title": "Expressing Reason",
+                    "description": "Use 'due to' to introduce the reason for something.  It's often used before a noun or noun phrase.",
+                    "example": "The game was cancelled due to heavy rain.",
+                    "imageUrl": "./tips/fab557da-c723-4f9a-9e96-605dbdf442fb.webp"
+                },
+                {
+                    "title": "Formal Contexts",
+                    "description": "'Due to' is generally considered more formal than 'because of'.",
+                    "example": "In his report, he stated that the decline in sales was due to several factors.",
+                    "imageUrl": "./tips/5c22aaae-8208-4df5-b170-a92f41a80209.webp"
+                },
+                {
+                    "title": "Avoiding with Verbs",
+                    "description": "While 'because of' can be used before a verb phrase, 'due to' typically precedes a noun phrase. Avoid using 'due to' directly before a verb.",
+                    "example": "Incorrect: The party was postponed due to raining. Correct: The party was postponed due to the rain.  OR The party was postponed because of the rain.",
+                    "imageUrl": "./tips/f30c102b-09b1-46ac-af69-6251ced7212f.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "because of": {
+            "wordRoot": "because of",
+            "wordDefinition": "'Because of' is more common in informal contexts and can be used before both noun phrases and verb phrases. 'Due to' is generally more formal and precedes noun phrases.",
+            "wordImage": ""
+        },
+        "owing to": {
+            "wordRoot": "owing to",
+            "wordDefinition": "'Owing to' is a synonym of 'due to' and is also considered formal.",
+            "wordImage": ""
+        },
+        "as a result of": {
+            "wordRoot": "as a result of",
+            "wordDefinition": "'As a result of' is a slightly more formal alternative to 'because of' and 'due to', often used to describe consequences.",
+            "wordImage": ""
+        }
+    }
+}

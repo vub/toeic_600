@@ -1,0 +1,315 @@
+{
+    "currentWord": {
+        "wordRoot": "source",
+        "id": 22840,
+        "phonemic": "sɔːs|sɔːrs\r",
+        "bigId": "c70d9da5-de42-4576-8d74-4e2ac6ccc833",
+        "wordForms": [
+            "sources",
+            "sourcing",
+            "sourced",
+            "source"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c70d9da5-de42-4576-8d74-4e2ac6ccc833",
+            "de": "The place, person, or thing from which something originates or is obtained.",
+            "ty": "noun",
+            "ex": "The river is the source of water for the town.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "source of information",
+                " source of inspiration",
+                " source material"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c70d9da5-de42-4576-8d74-4e2ac6ccc833.webp",
+            "Tips": [
+                {
+                    "title": "Physical Origins",
+                    "description": "Refers to the actual beginning or starting point of a physical item or phenomenon.",
+                    "example": "Wine has its source in grapes.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Xxq1uFIp75aNXSsoOuHyX7FEj4.webp"
+                },
+                {
+                    "title": "Figurative Source",
+                    "description": "Used metaphorically to refer to the beginning of abstract concepts like ideas or feelings.",
+                    "example": "Curiosity was the source of his scientific discoveries.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SNGkWqkJEt2YyzBLU4Dff0Gd1n8.webp"
+                },
+                {
+                    "title": "Resource Association",
+                    "description": "Often associated with a resource that is provided or obtained from something.",
+                    "example": "The library is a great source of knowledge.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bBrI8Dn0gSw5wgxS1K2Hr0N7M.webp"
+                }
+            ]
+        },
+        {
+            "id": "63911610-0f07-43b1-a5e6-39dbe186a2dc",
+            "de": "A point where light, heat or other energy comes from.",
+            "ty": "noun",
+            "ex": "The sun is our main source of light and heat.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "source of light",
+                " source of heat",
+                " source of energy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/63911610-0f07-43b1-a5e6-39dbe186a2dc.webp",
+            "Tips": [
+                {
+                    "title": "Energy Context",
+                    "description": "The context is scientific or technical, related to where energy is produced or emitted.",
+                    "example": "A battery serves as a source of electricity for our devices.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Natural Phenomena",
+                    "description": "Can refer to natural phenomena like the sun, often in a scientific or educational context.",
+                    "example": "Geothermal vents are a source of energy deep underwater.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ea7f7c53-853d-4e1c-b07d-69cc9c0d23b6",
+            "de": "In journalism, a person who gives information.",
+            "do": "Journalism",
+            "ty": "noun",
+            "ex": "My source told me that there will be a big announcement coming soon.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "confidential source",
+                " unreliable source",
+                " primary source"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ea7f7c53-853d-4e1c-b07d-69cc9c0d23b6.webp",
+            "Tips": [
+                {
+                    "title": "Information Origin",
+                    "description": "In journalism, it indicates the beginning of news or information, often confidential.",
+                    "example": "A reliable source is vital for accurate journalism.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Confidentiality Noted",
+                    "description": "Sources in journalism may need to be protected for safety and confidentiality reasons.",
+                    "example": "The journalist kept the source's identity secret.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a91d960a-a3cf-4adb-a8ec-68c2ab257ea3",
+            "de": "In computing, the original code in which a software program is written.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The source code of this software is open for everyone to review and improve.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "source code",
+                " source file",
+                " open source"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a91d960a-a3cf-4adb-a8ec-68c2ab257ea3.webp",
+            "Tips": [
+                {
+                    "title": "Tech Blueprint",
+                    "description": "In computing, the term often relates to the foundational code of software.",
+                    "example": "Developers checked the source for potential errors.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Open-Source Community",
+                    "description": "Refers to software whose source code is freely available and can be modified.",
+                    "example": "She contributed to an open-source project on GitHub.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Authority": {
+            "wordRoot": "Authority",
+            "wordDefinition": "Authority refers to a person or organization that has power or control over something. It is applicable in situations where a person or organization has the ability to make decisions or take actions that others must follow.\n\nAuthority is about power and control, while source is about finding the origin or starting point of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7b3c6097-5b25-40f0-ab74-13a84f45fc90.webp"
+        },
+        "Basis": {
+            "wordRoot": "Basis",
+            "wordDefinition": "Basis refers to the foundation or fundamental starting point of something. It is applicable when referring to the underlying principles or concepts on which something is built or established.\n\nFor example, the basis of a mathematical equation or the basis of a legal argument.\n\nIn simpler terms, basis refers to the core or foundation of something, while source refers to where it comes from or begins.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bccc858d-df5d-436a-9b43-32ca192371e8.webp"
+        },
+        "Cause": {
+            "wordRoot": "Cause",
+            "wordDefinition": "Cause is used when talking about why something happens.\n\nIt describes the reason behind an event or action. For example, you might say that the cause of the traffic jam was an accident on the highway.\n\nCause explains why something happens, while source explains where something comes from.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be3489cb-babe-46a9-9f49-832adde49d10.webp"
+        },
+        "Foundation": {
+            "wordRoot": "Foundation",
+            "wordDefinition": "Foundation refers to the base or fundamental structure of something, while the word source refers to the origin or where something comes from.\n\nFor example, a building's foundation is the structure that supports the weight of the whole building, while a river's source is the place where the water starts flowing from.\n\nFoundation is more applicable when talking about physical structures or the basis of something, while source is more applicable when talking about the origin or starting point of something, such as a concept or idea.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/895aabff-883e-4978-a168-56cd4416efd9.webp"
+        },
+        "Fountainhead": {
+            "wordRoot": "Fountainhead",
+            "wordDefinition": "Both fountainhead and source refer to the origin or beginning of something.\n\nHowever, fountainhead specifically refers to a literal or metaphorical source of water or creativity, while source is more general and can refer to anything that provides information, energy, or materials.\n\nFor example, a fountainhead could be a natural spring or a person who creates new ideas, while a source could be a book, a company, or a river.\n\nFountainhead describes more unique or creative origins, while source is used for more common or practical origins.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/57905c35-ea51-4988-ad86-b35facc0d752.webp"
+        },
+        "Origin": {
+            "wordRoot": "Origin",
+            "wordDefinition": "Origin refers to the point or place where something begins, originates or starts.\n\nIt is usually related to the beginning of something, such as the origin of a language, culture or tradition. For example, the origin of English language can be traced back to Old English.\n\nThe word source refers to the origins or cause of something.\n\nIt is usually related to the origin of information, like the source of a news story. For example, the source of information for a newspaper article might be an interview, a research paper or a press release.\n\nTo summarize, origin refers to the start or beginning of something, whereas source refers to where something comes from or the cause of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bd10fec0-9470-4aa8-baa4-f5e44946a859.webp"
+        },
+        "Provider": {
+            "wordRoot": "Provider",
+            "wordDefinition": "Provider refers to a person or company that gives or supplies something, like a service or a product. For example, a healthcare provider gives medical services to patients.\n\nSo, while a provider gives something, a source is where that something comes from. They are not always interchangeable, and it's important to use the correct word depending on the context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06a6e92e-efa9-4aaf-a559-801cd4841a04.webp"
+        },
+        "Root": {
+            "wordRoot": "Root",
+            "wordDefinition": "Root refers to the basic or fundamental cause of something.\n\nIt is often used to describe the origin or starting point of a problem or issue. For example, the root cause of poverty may be traced back to a lack of education or access to resources.\n\nRoot describes the cause of a problem while source describes the origin of something positive.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/91601ea6-1c9f-4ba8-8f96-c43c90b573d1.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " depression is one of the biggest problems now affecting schools around the world and don't be surprised if the whole thing in the end is a source of more frustration than it is success for a lot of people and my answer for a lot of education systems is that you know often policymakers scratch their head and think how can we solve all these",
+            "Title": "Expanding our definition...",
+            "VideoId": "8awctnozMdo",
+            "Controls": "start=380"
+        },
+        {
+            "Text": " that will ultimately have to include some kinds of biofuels and bio-energy sources. So you put these together. It's really hard to see how we're going to get to the rest of the century without at least doubling global agricultural production. Well, how are we going to do this? How are going to double global ag production around the world?",
+            "Title": "Jonathan Foley: The...",
+            "VideoId": "1US4jjWtua8",
+            "Controls": "start=644"
+        },
+        {
+            "Text": " into a life of luxury. Venturing forth from his sheltered existence as a young man, he witnessed the human suffering that had been hidden from him and immediately set out to investigate its sources. Why must people endure suffering? Must we reincarnate through hundreds of lives? At first he thought the problem",
+            "Title": "The five major world...",
+            "VideoId": "m6dCxo7t_aE",
+            "Controls": "start=275"
+        },
+        {
+            "Text": " is more than noticing perfume or cologne. It's able to pick up on natural chemical signals known as pheromones. These not only convey important physical or genetic information about their source but are able to activate a physiological or behavioral response in the recipient.",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=60"
+        },
+        {
+            "Text": " These medications help asthmatics both control and prevent their asthma symptoms. Inhalers transport medication along the affected airways using a liquid mist or fine powder to treat the problem at its source. They come in two forms. There are reliever medications,",
+            "Title": "How does asthma work? -...",
+            "VideoId": "PzfLDi-sL3w",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " a neurotransmitter that communicates between brain structures and helps regulate vital processes, such as mood, aggression, impulse control, sleep, appetite, body temperature and pain. But are serotonin and activity in these brain regions the sources of OCD",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=206"
+        },
+        {
+            "Text": " you used them as a source of attention or admiration. Or imagine that instead of seeking constructive feedback about your performance, you instead told everyone who tried to help you that they were wrong. So what causes narcissism?",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=199"
+        },
+        {
+            "Text": " contained place, subsurface so dark, but with an energy source, it's hard to imagine from what we know of life, it's not impossible. But it's going to be a difficult thing to get to see because it's so far from the Earth.",
+            "Title": "Exploring Pluto's...",
+            "VideoId": "Sl26XAVbEE4",
+            "Controls": "start=379"
+        },
+        {
+            "Text": " The imbalance would keep the wheel turning forever. Bhaskara's drawing was one of the earliest designs for a perpetual motion machine, a device that can do work indefinitely without any external energy source.",
+            "Title": "Why don't perpetual...",
+            "VideoId": "A-QgGXbDyR0",
+            "Controls": "start=28"
+        },
+        {
+            "Text": " all-encompassing ocean the source of all life",
+            "Title": "Overview PIPE Exploring...",
+            "VideoId": "3GRA7ilM708",
+            "Controls": "start=12"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ramin-djawadi.webp",
+            "Text": "I might even go for walks, just kind of come up with ideas in my head and then even sleep over it. And, yeah, the next day, when I wake up in the morning, I feel like that's when the ideas come, because you kind of wake up fresh and clean. You're not influenced from music on the radio or any other source.",
+            "Title": "German Composer",
+            "Name": "Ramin Djawadi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/forest-whitaker.webp",
+            "Text": "On the whole, I now see my work as being an expression of my spiritual life and, because I look at it that way, I have a different centre. I go through the stress and pressure, but I think I'm lucky because I come from a different source point.",
+            "Title": "American Actor",
+            "Name": "Forest Whitaker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "There are a lot of things you can do in space, and space essentially is unlimited resources. We are climbing over ourselves here looking for the next source of energy. The universe has an unlimited source of energy.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-lloyd-wright.webp",
+            "Text": "No stream rises higher than its source. What ever man might build could never express or reflect more than he was. He could record neither more nor less than he had learned of life when the buildings were built.",
+            "Title": "American Architect",
+            "Name": "Frank Lloyd Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henri-nouwen.webp",
+            "Text": "Prayer is the beginning and the end, the source and the fruit, the core and the content, the basis and the goal of all peacemaking.",
+            "Title": "Dutch Clergyman",
+            "Name": "Henri Nouwen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephon-marbury.webp",
+            "Text": "I drink life's happy water, which is bottled at the divine source.",
+            "Title": "American Athlete",
+            "Name": "Stephon Marbury"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicholas-ray.webp",
+            "Text": "The imagination is a pretty precious source of protection.",
+            "Title": "American Director",
+            "Name": "Nicholas Ray"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maimonides.webp",
+            "Text": "You must accept the truth from whatever source it comes.",
+            "Title": "Spanish Philosopher",
+            "Name": "Maimonides"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennine-capó-crucet.webp",
+            "Text": "My husband is a huge source of support and love.",
+            "Title": "Cuban Author",
+            "Name": "Jennine Capó Crucet"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giles-deacon.webp",
+            "Text": "The natural world is a source of inspiration.",
+            "Title": "British Designer",
+            "Name": "Giles Deacon"
+        }
+    ]
+}

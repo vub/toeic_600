@@ -1,0 +1,382 @@
+{
+    "currentWord": {
+        "wordRoot": "divide",
+        "id": 12846,
+        "phonemic": "dɪˈvaɪd|dɪˈvaɪd\r",
+        "bigId": "47196dda-4ace-43dd-b291-5958c9c66cb1",
+        "wordForms": [
+            "divides",
+            "dividing",
+            "divided",
+            "undivided",
+            "divide"
+        ]
+    },
+    "senses": [
+        {
+            "id": "47196dda-4ace-43dd-b291-5958c9c66cb1",
+            "de": "To separate into parts or groups",
+            "ty": "verb",
+            "ex": "She divided the cake into eight pieces.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "divided into",
+                " divide equally",
+                " divide among"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/47196dda-4ace-43dd-b291-5958c9c66cb1.webp",
+            "Tips": [
+                {
+                    "title": "Share Equally",
+                    "description": "When dividing something like food or items, fairness is often the goal.",
+                    "example": "Let's divide these cookies equally so everyone gets the same amount.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Z37W9nbKUoSLO3XDZ6KD894WL4.webp"
+                },
+                {
+                    "title": "Not Always Equal",
+                    "description": "Divide can imply unequal parts based on specific criteria or needs.",
+                    "example": "He divided the profits according to each partner's investment.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SLcKwyR4tDWlFBuGEOrKLUmJg5s.webp"
+                }
+            ]
+        },
+        {
+            "id": "f222d132-3d9e-4c04-9a08-6f3be120f8cd",
+            "de": "To make a clear difference between people or things",
+            "ty": "verb",
+            "ex": "Income divides the rich from the poor.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "divide between",
+                " divide from",
+                " divide by"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f222d132-3d9e-4c04-9a08-6f3be120f8cd.webp",
+            "Tips": [
+                {
+                    "title": "Clear Distinction",
+                    "description": "To divide sometimes means to distinguish clearly, showing differences.",
+                    "example": "Their opinions on climate change divide them sharply.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Social Context",
+                    "description": "Divide can refer to societal differences, often sensitive topics.",
+                    "example": "Language can create a divide in multicultural societies.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3aac236f-4005-4e75-b8e5-f63f7aeb8018",
+            "de": "To do a mathematical operation to find out how many times one number fits into another",
+            "do": "Mathematics",
+            "ty": "verb",
+            "ex": "If you divide 20 by 5, the result is 4.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "divide by",
+                " divide into",
+                " evenly divide"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3aac236f-4005-4e75-b8e5-f63f7aeb8018.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical Operation",
+                    "description": "In math, divide is a precise operation, not just splitting into parts.",
+                    "example": "Can you divide this number by three without using a calculator?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Math Word Problems",
+                    "description": "In math contexts, 'divide' often signals how to solve word problems.",
+                    "example": "To find out how many teams we can form, divide the total number of players by 5.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "706a40e2-6bc9-4f74-b2ac-e37d5dcacb25",
+            "de": "a difference or disagreement between two groups that makes communication difficult",
+            "ty": "noun",
+            "ex": "There is a huge divide between rich and poor in this city.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "huge divide",
+                " deep divide",
+                " clear divide"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/706a40e2-6bc9-4f74-b2ac-e37d5dcacb25.webp",
+            "Tips": [
+                {
+                    "title": "Metaphorical Gap",
+                    "description": "As a noun, 'divide' can symbolize a large gap, not just a physical one.",
+                    "example": "The digital divide affects people's access to technology.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Disconnect",
+                    "description": "Can describe emotional separation between individuals or groups.",
+                    "example": "Their political views have created a divide in the family.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e47ffafd-1687-4c0d-b228-2724445f7977",
+            "de": "To be a dividing line",
+            "ty": "verb",
+            "ex": "The river divides the town from the rest of the province.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "divide from",
+                " divide between"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e47ffafd-1687-4c0d-b228-2724445f7977.webp",
+            "Tips": [
+                {
+                    "title": "Geographical Feature",
+                    "description": "Can describe physical landmarks that separate different areas.",
+                    "example": "A mountain range divides the two countries.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Boundary Creation",
+                    "description": "Often used to talk about creating visible or invisible boundaries.",
+                    "example": "The curtains divide the room into two separate spaces.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4f104e10-4322-444a-b82e-d3e305d3c099",
+            "de": "When cells divide, they split and become two cells",
+            "do": "Biology",
+            "ty": "verb",
+            "ex": "The bacteria divide rapidly under favorable conditions.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "divide rapidly",
+                " divide equally",
+                " divide into"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4f104e10-4322-444a-b82e-d3e305d3c099.webp",
+            "Tips": [
+                {
+                    "title": "Biological Process",
+                    "description": "In biology, divide refers to cell division, a natural growth process.",
+                    "example": "Simple organisms can reproduce when they divide.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Speed of Division",
+                    "description": "The rate of cell division can imply health or environmental conditions.",
+                    "example": "Under stress, some cells may divide more slowly.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Bifurcate": {
+            "wordRoot": "Bifurcate",
+            "wordDefinition": "Both bifurcate and divide mean to separate or split something into two or more parts, but they are used in slightly different contexts.\n\nBifurcate is more commonly used when describing a splitting or branching off into two distinct paths or directions. For example, a river could bifurcate into two streams.\n\nBifurcate is also often used in scientific or technical contexts to describe a more precise form of dividing, such as in biology when describing a nerve that splits into two smaller nerves.\n\nFor example, you might divide a pizza into slices or divide chores among family members. Divide often connotes a more equal or even split, while bifurcate suggests a more asymmetrical or distinct separation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ed93ed6-2a94-4c41-8264-0ec48de52351.webp"
+        },
+        "Break up": {
+            "wordRoot": "Break up",
+            "wordDefinition": "Break up means to separate into smaller pieces or parts, usually in a sudden or violent way.\n\nBoth words can be used in a variety of contexts, but break up is typically used for more dramatic or emotional separations, while divide is used for more practical and logical separations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36c6b16a-b93a-49c1-9142-29e50119e548.webp"
+        },
+        "Cleave": {
+            "wordRoot": "Cleave",
+            "wordDefinition": "Cleave means to split something into two parts, but often implies doing so with force or strength. For example, a lumberjack might cleave a log in half with an axe.\n\nIn everyday use, cleave is less common than divide and tends to be used in contexts where a physical object is being split apart.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5a2df448-c2a7-4aae-af06-bceabaece9e7.webp"
+        },
+        "Disconnect": {
+            "wordRoot": "Disconnect",
+            "wordDefinition": "Disconnect means to separate something that was previously connected or attached. For example, if you unplug your phone from the charger, you are disconnecting it.\n\nDisconnect means to physically or emotionally separate, while divide means to split something into parts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0f0c88d2-5598-4bc6-8ff3-d2c70ef24647.webp"
+        },
+        "Disunite": {
+            "wordRoot": "Disunite",
+            "wordDefinition": "Disunite means to cause people or things to separate from each other or to break apart. For example, a disagreement between friends could disunite them, causing them to stop talking and spending time together.\n\nBoth words involve separating or breaking apart, but disunite usually refers to people or relationships, while divide refers to objects or quantities.\n\nFor a 15-year-old, it could be helpful to think of disunite as involving emotions and divide as involving physical objects or concepts like math problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fdef69c9-8b4c-408d-8faa-11cd9775ff86.webp"
+        },
+        "Isolate": {
+            "wordRoot": "Isolate",
+            "wordDefinition": "Isolate means to separate or set something apart from everything else, typically for the purpose of protection, containment or diagnosis.\n\nFor example, if someone is sick with a contagious disease, they may need to be isolated to prevent others from getting sick.\n\nIn simpler terms, divide means to separate into smaller groups, while isolate means to separate or separate a single thing from everything else.\n\nDivide is applicable when you want to break down a larger group into smaller ones, while isolate is used when you want to separate something from the rest for a specific reason.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a547d09e-0155-4998-af18-4e992bf8950b.webp"
+        },
+        "Partition": {
+            "wordRoot": "Partition",
+            "wordDefinition": "Both divide and partition mean to separate something into parts.\n\nPartition implies a more deliberate and structured separation of something into specific parts that may be more equal or distinct from each other.\n\nFor example, you might partition a room into separate areas for different purposes, or partition a hard drive into separate sections for different types of files.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/11e9914a-87cc-4fcc-acae-76998ccb9f2c.webp"
+        },
+        "Separate": {
+            "wordRoot": "Separate",
+            "wordDefinition": "Divide means to break something into parts or portions, while separate means to set apart, detach, or isolate something.\n\nFor example, we divide an apple into equal pieces to share it among friends. On the other hand, we separate two different types of fruits or vegetables to store them separately as they may spoil each other.\n\nDivide is used when we want to allocate or distribute something, while separate is used when we want to isolate or distinguish something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3476e4d4-f1bd-49ed-93bd-3d0a9bb05d6b.webp"
+        },
+        "Sever": {
+            "wordRoot": "Sever",
+            "wordDefinition": "Sever means to cut or break something apart completely. It's used to indicate a more forceful or permanent separation, such as severing a limb or severing ties with someone.\n\nDivide is used for dividing something into smaller parts or sections, while sever is used for cutting something apart completely or permanently.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/afb6a416-4a35-4ff5-ae4c-bda1fbba5303.webp"
+        },
+        "Split": {
+            "wordRoot": "Split",
+            "wordDefinition": "The words divide and split both mean to break something into smaller pieces, but they're used in slightly different ways.\n\nSplit is used when something is being separated or divided in a more general sense. For instance, you might split a piece of wood in two with a saw, or split a sandwich with a friend.\n\nSo while the words can be used somewhat interchangeably, divide implies a more even or measured distribution, while split is more general and can refer to any kind of breaking apart.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6648c581-72be-4b91-bd4c-6495d70623cc.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and although such events may be rare, paleontologists have been able to identify several of them through dramatic changes in the fossil record, where lineages that persisted through several geological layers suddenly disappear. In fact, these mass extinctions are used to divide the Earth's history",
+            "Title": "When will the next mass...",
+            "VideoId": "RAdNCIIYXvo",
+            "Controls": "start=92"
+        },
+        {
+            "Text": " Want to live a long life? You may have to curb your chronic stress. That's because it has even been associated with shortened telomeres, the shoelace tip ends of chromosomes that measure a cell's age. Telomeres cap chromosomes to allow DNA to get copied every time a cell divides",
+            "Title": "How stress affects your...",
+            "VideoId": "v-t1Z5-oPtU",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " Once he gets there, he still needs to walk half the distance that's left, which takes another finite amount of time. This happens again and again and again. You can see that we can keep going like this forever, dividing whatever distance is left into smaller and smaller pieces,",
+            "Title": "What is Zeno's Dichotomy...",
+            "VideoId": "EfqVnj-sgcc",
+            "Controls": "start=63"
+        },
+        {
+            "Text": " thinking because you see in this world there is yin and yang yang there's positive and negative every plus there's a minus so maybe if you focus more on our multiple successes we wouldn't be as divided it's my generation the worse yes probably if I'm honest the he without",
+            "Title": "An ode to the millennial...",
+            "VideoId": "AoUkqNvZQeM",
+            "Controls": "start=276"
+        },
+        {
+            "Text": " which means they could affect an organism for its entire life. Sometimes that's a good thing. Epigenetic changes are part of normal development. The cells in an embryo start with one master genome. As the cells divide, some genes are activated and others inhibited.",
+            "Title": "What is epigenetics? -...",
+            "VideoId": "_aAhcNjmvhc",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " Very many people go through their whole lives having no real sense of what their talents may be, or if they have any to speak of. I meet all kinds of people who don't think they're really good at anything. Actually, I kind of divide the world into two groups now.",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=158"
+        },
+        {
+            "Text": " by drawing construction lines over a circle divided into six parts, and then tessellating it, we can make something like this. Here's another sixfold pattern that has appeared across the centuries and all over the Islamic world,",
+            "Title": "The complex geometry of...",
+            "VideoId": "pg1NpMmPv48",
+            "Controls": "start=199"
+        },
+        {
+            "Text": " that's almost as deep as any divide can be between two animals with three hearts no bones a beak with a venomous bite and a gut that runs through its brain",
+            "Title": "Octopus Playtime PIPE...",
+            "VideoId": "mnZ9wF-Bv1w",
+            "Controls": "start=246"
+        },
+        {
+            "Text": " We all start life as one single cell. Then that cell divides and we are two cells, then four, then eight. Cells form tissues, tissues form organs,",
+            "Title": "How do cancer cells...",
+            "VideoId": "BmFEoCFDi-w",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " Helped it to become the heart of our solar system The Sun can be divided into six layers or regions the corona the chromosphere the photosphere",
+            "Title": "Sun 101 PIPE National...",
+            "VideoId": "2HoTK_Gqi2Q",
+            "Controls": "start=38"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-wordsworth.webp",
+            "Text": "Life is divided into three terms - that which was, which is, and which will be. Let us learn from the past to profit by the present, and from the present, to live better in the future.",
+            "Title": "English Poet",
+            "Name": "William Wordsworth"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/russell-crowe.webp",
+            "Text": "I really feel sorry for people who are, who divide their whole life up into 'things that I like' and 'things that I must do.' You're only here for a short time, mate. Learn to like it.",
+            "Title": "Australian Actor",
+            "Name": "Russell Crowe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fabio-cannavaro.webp",
+            "Text": "The national team has always lent its image to help Italy's problems over the years... The national team is more about uniting than dividing.",
+            "Title": "Italian Athlete",
+            "Name": "Fabio Cannavaro"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grace-paley.webp",
+            "Text": "The word career is a divisive word. It's a word that divides the normal life from business or professional life.",
+            "Title": "American Writer",
+            "Name": "Grace Paley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/temple-grandin.webp",
+            "Text": "I like to cross the divide between the personal world and the scientific world.",
+            "Title": "American Educator",
+            "Name": "Temple Grandin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/priyamani.webp",
+            "Text": "My life and career can be divided into pre- and post- 'Paruthiveeran.",
+            "Title": "Indian Actress",
+            "Name": "Priyamani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francis-parker-yockey.webp",
+            "Text": "The way politics divides the world is into friend and enemy.",
+            "Title": "American Writer",
+            "Name": "Francis Parker Yockey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/woody-allen.webp",
+            "Text": "Life is divided into the horrible and the miserable.",
+            "Title": "American Director",
+            "Name": "Woody Allen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-rich.webp",
+            "Text": "All of the universe will be divided into two parts.",
+            "Title": "American Explorer",
+            "Name": "Jeff Rich"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lord-mountbatten.webp",
+            "Text": "You can divide my life into two.",
+            "Title": "British Soldier",
+            "Name": "Lord Mountbatten"
+        }
+    ]
+}

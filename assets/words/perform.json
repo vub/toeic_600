@@ -1,0 +1,325 @@
+{
+    "currentWord": {
+        "wordRoot": "perform",
+        "id": 406,
+        "phonemic": "pəˈfɔːm|pərˈfɔːrm\r",
+        "bigId": "bd9fd852-9de8-4a4e-b34f-70e78e46f5c3",
+        "wordForms": [
+            "performs",
+            "performing",
+            "performed",
+            "perform"
+        ]
+    },
+    "senses": [
+        {
+            "id": "bd9fd852-9de8-4a4e-b34f-70e78e46f5c3",
+            "de": "To do, carry out a task or action.",
+            "ty": "verb",
+            "ex": "He will perform the task by tomorrow.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "perform a task",
+                " perform an action",
+                " perform duties"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bd9fd852-9de8-4a4e-b34f-70e78e46f5c3.webp",
+            "Tips": [
+                {
+                    "title": "Task Oriented",
+                    "description": "Use 'perform' when discussing completion of specific tasks, focusing on the action.",
+                    "example": "The magician will perform his act tonight.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/CBAfqJNFPeyVW6dIo3CB8YRVrNo.webp"
+                },
+                {
+                    "title": "Active Voice",
+                    "description": "'Perform' fits well in active voice, emphasizing the subject doing the action.",
+                    "example": "Our team performs routine checks daily.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jTRgzEykgZdR4LfHottNscGQ80.webp"
+                }
+            ]
+        },
+        {
+            "id": "35e8f898-9558-4b19-a208-d6c165dead49",
+            "de": "To act or present on stage or screen.",
+            "do": "Theatre",
+            "ty": "verb",
+            "ex": "She will perform the lead role in the play.",
+            "use": "",
+            "co": "Arts, Drama, Music",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "perform a role",
+                " perform on stage",
+                " perform in a play"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/35e8f898-9558-4b19-a208-d6c165dead49.webp",
+            "Tips": [
+                {
+                    "title": "Stage Presence",
+                    "description": "'Perform' in theatre implies a live audience and an element of entertainment.",
+                    "example": "The comedian performed to a full house.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Artistic Expression",
+                    "description": "In arts, 'perform' often involves expressing emotion or character through action.",
+                    "example": "He performs with great passion and intensity.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scripted Action",
+                    "description": "'Perform' in drama suggests following a script or choreography, unlike improvised acts.",
+                    "example": "She performed her monologue exactly as rehearsed.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0e160e2c-ed69-4c31-96c6-ed673ff9873e",
+            "de": "To achieve, produce or result in something.",
+            "ty": "verb",
+            "ex": "The system performs well under pressure.",
+            "use": "",
+            "co": "Science, Technology",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "perform well",
+                " perform under pressure",
+                " perform a miracle"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0e160e2c-ed69-4c31-96c6-ed673ff9873e.webp",
+            "Tips": [
+                {
+                    "title": "Efficiency Matters",
+                    "description": "In technology, 'perform' is used when discussing how well something works or functions.",
+                    "example": "The new software performs calculations in seconds.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Result Focus",
+                    "description": "Use 'perform' when the outcome or result of the action is important.",
+                    "example": "This technique performs better in laboratory tests.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "14715451-7f97-43dd-95d1-db26314e1aa3",
+            "de": "To work, operate or function properly.",
+            "ty": "verb",
+            "ex": "My car performs well on the highway.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "perform well",
+                " perform properly",
+                " perform optimally"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/14715451-7f97-43dd-95d1-db26314e1aa3.webp",
+            "Tips": [
+                {
+                    "title": "Operational Quality",
+                    "description": "When 'perform' describes function, it's about quality or effectiveness.",
+                    "example": "Her new laptop performs exceptionally well.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mechanical Context",
+                    "description": "'Perform' in mechanical contexts implies reliability or expected function.",
+                    "example": "Does this engine perform well in cold weather?",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accomplish": {
+            "wordRoot": "Accomplish",
+            "wordDefinition": "Accomplish means to successfully complete or achieve a goal or task.\n\nAccomplish refers to successfully completing a goal or task, while perform refers to carrying out a task in front of others, usually involving a certain skill or talent.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/04206266-c243-4736-a27e-7709de57f5ec.webp"
+        },
+        "Carry out": {
+            "wordRoot": "Carry out",
+            "wordDefinition": "The words carry out and perform are both verbs that refer to completing an action, but they are used in slightly different ways.\n\nCarry out often refers to completing a task or action that has been assigned or planned. For example, you might say \"I need to carry out the instructions my boss gave me\" or \"Let's carry out the plan we discussed.\" It implies that someone else has given you a task or plan to complete.\n\nCarry out is used when referring to completing a task or plan that has been assigned, while perform is used when referring to completing a task or action that requires skill or talent.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/250c132e-d55b-488e-aac8-193420b01456.webp"
+        },
+        "Complete": {
+            "wordRoot": "Complete",
+            "wordDefinition": "Complete means to finish or accomplish a task or activity. It is applicable when you have a task or assignment to do and you want to indicate that you finished it.\n\nFor example, \"I completed my homework\" means that you finished all the tasks given to you.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/88fd0ca2-c306-4ad9-ac6c-c6b442c558e2.webp"
+        },
+        "Discharge": {
+            "wordRoot": "Discharge",
+            "wordDefinition": "Discharge means to complete a duty or responsibility. For example, a doctor discharges their duty by caring for their patients.\n\nDischarge is used when talking about responsibilities or duties, while perform is used when talking about tasks or actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed651d4c-15e0-4894-9bef-e6e82bf9f44f.webp"
+        },
+        "Do": {
+            "wordRoot": "Do",
+            "wordDefinition": "Do is a general verb that means to carry out an action or task.\n\nIt can be used in any situation where an action is taking place, such as \"I need to do my homework\" or \"I'll do the dishes after dinner.\"\n\nDo can be used in any situation where an action is taking place, while perform is typically used in professional or formal situations where a task or activity is being carried out with a high level of skill or precision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ed11547-a109-49d0-a707-d7ee69d6ffc9.webp"
+        },
+        "Enact": {
+            "wordRoot": "Enact",
+            "wordDefinition": "Enact means to make a law or a rule, while perform means to carry out an action or a task. Enact is used when someone is making a law or rule, like when a government passes a new law.\n\nEnact is used when creating rules or laws, while perform is used when doing tasks or actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/71b53246-6050-46b4-ac8f-819d40335170.webp"
+        },
+        "Execute": {
+            "wordRoot": "Execute",
+            "wordDefinition": "Execute means to carry out a specific task, plan or order. It's usually used in formal or professional settings where a procedure or task has to be completed with precision or accuracy.\n\nFor example, a surgeon performs an operation, but an engineer executes a project.\n\nThe difference between the two is that execute is more formal and refers to carrying out a specific plan or order with expertise, while perform has a broader meaning and can refer to both artistic expression and everyday tasks.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/265a1337-6185-41c1-8bc6-0864f5f1cbf2.webp"
+        },
+        "Fulfil": {
+            "wordRoot": "Fulfil",
+            "wordDefinition": "Both words imply the completion of a task or duty, but fulfil is associated with meeting a specific expectation or obligation, whereas perform primarily refers to executing a task or action.\n\nFor example, when someone fulfils their promise, it means they have met the expectations or conditions set by that promise.\n\nIn short: fulfil applies to meeting expectations, while perform applies to carrying out an action or task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d87c339-01db-429c-80a3-d5864d31a8d7.webp"
+        },
+        "Operate": {
+            "wordRoot": "Operate",
+            "wordDefinition": "Both operate and perform refer to carrying out a task or activity, but the context and specific meaning can differ.\n\nOperate typically refers to using machinery, equipment or a system in order to make it work as intended. For example, a person might operate a crane to lift heavy objects or operate a computer to run software.\n\nOperate refers more so to using specific equipment or systems while perform has a broader range of applications and can relate to achieving a goal or displaying a skill.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/434adda3-f10f-4ce2-b7a5-673831f512e0.webp"
+        },
+        "Undertake": {
+            "wordRoot": "Undertake",
+            "wordDefinition": "Undertake means to take on a task or responsibility that may be challenging, complicated or difficult. Undertaking can involve planning, researching, and preparing before starting the task.\n\nPerform refers to carrying out a task that is already known, while undertake refers to taking on a task that may be unknown, but one is willing to learn and try their best to complete.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af4947a6-f0b0-49e8-b9bb-4cc524adb76c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " treated as mere cargo. Women and children were kept above deck and abused by the crew, while the men were made to perform dances in order to keep them exercised and curb rebellion. What happened to those Africans who reached the New World and how the legacy of slavery still affects their descendants today",
+            "Title": "The Atlantic slave...",
+            "VideoId": "3NXC4Q_4JVg",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " little bit vulgar and although I usually mean it in mild jest it's also pretty helpful for me whenever I travel to schools and colleges to perform and teach spoken word poetry I always meet people who say oh I don't like poetry or I don't get poetry or poetry's just not for me",
+            "Title": "Poetry makes people...",
+            "VideoId": "WHbgZcur7ik",
+            "Controls": "start=67"
+        },
+        {
+            "Text": " Suppose we give an A.I. the goal to make humans smile. When the A.I. is weak, it performs useful or amusing actions that cause its user to smile. When the A.I. becomes superintelligent, it realizes that there is a more effective way to achieve this take control of the world",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=577"
+        },
+        {
+            "Text": " and her plan was to perform the operation on herself and we lived just across the street from a hospital and she said she said i knew you could get me to the hospital before i died and then i wouldn't have this thing anymore that i hate and she said i started to do the",
+            "Title": "Growing Up Transgender...",
+            "VideoId": "Z8FZewEPAAk",
+            "Controls": "start=516"
+        },
+        {
+            "Text": " Mastering any physical skill, be it performing a pirouette, playing an instrument, or throwing a baseball, takes practice. Practice is the repetition of an action with the goal of improvement, and it helps us perform with more ease, speed, and confidence.",
+            "Title": "How to practice...",
+            "VideoId": "f2O6mQkFiiw",
+            "Controls": "start=5"
+        },
+        {
+            "Text": " is to our advantage. Together, they form the gut microbiome, a rich ecosystem that performs a variety of functions in our bodies. The bacteria in our guts can break down food the body can't digest, produce important nutrients, regulate the immune system,",
+            "Title": "How the food you eat...",
+            "VideoId": "1sISguPDlhY",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " A few minutes can feel like forever when you're waiting on the results of a pregnancy test. But in that brief time, you're witnessing the power of the scientific method. That one little stick lets you ask a question, perform a controlled experiment,",
+            "Title": "How do pregnancy tests...",
+            "VideoId": "aOfWTscU8YM",
+            "Controls": "start=232"
+        },
+        {
+            "Text": " and establish who is in charge of the group. They even perform actions that seem all too human. But while chimps across the world only have a limited repertoire of vocalizations, they constantly invent and share new gestures with each other.",
+            "Title": "How to Speak Chimpanzee...",
+            "VideoId": "NBFBbFcixRY",
+            "Controls": "start=179"
+        },
+        {
+            "Text": " allowed for the development of new and better surgical techniques. Surgeons could learn how to routinely and safely perform C-sections, reopen blocked arteries, replace damaged livers and kidneys, and many other life-saving operations.",
+            "Title": "How does anesthesia...",
+            "VideoId": "B_tTymvDWXk",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " is a capacity even more important than their sense of empathy, altruism, and justice. Elephants are the only non-human animals to mourn their dead, performing burial rituals and returning to visit graves.",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=220"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-lopez.webp",
+            "Text": "I just knew that was what I wanted to do. I was going to perform as a singer; I was going to perform as a dancer, and I was, you know, going to do movies and be an actress. I was going to do it or die trying. That's what my life was.",
+            "Title": "American Musician",
+            "Name": "Jennifer Lopez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/roberto-carlos.webp",
+            "Text": "The quality of Indian players is very high. They need to show motivation to perform at the highest level.",
+            "Title": "Brazilian Footballer",
+            "Name": "Roberto Carlos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lemon-andersen.webp",
+            "Text": "Work controls my life, writing controls my life, performing controls my life.",
+            "Title": "American Poet",
+            "Name": "Lemon Andersen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ali-wong.webp",
+            "Text": "It's very rare and unusual to see a female comic perform pregnant.",
+            "Title": "American Actress",
+            "Name": "Ali Wong"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joan-rivers.webp",
+            "Text": "Life does not measure up to performing... Performing is perfect.",
+            "Title": "American Comedian",
+            "Name": "Joan Rivers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ruston-kelly.webp",
+            "Text": "I feel the most centered in my life when I'm performing a song.",
+            "Title": "American Musician",
+            "Name": "Ruston Kelly"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/scott-pruitt.webp",
+            "Text": "The EPA has performed a very important role for us all.",
+            "Title": "American Politician",
+            "Name": "Scott Pruitt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joey-votto.webp",
+            "Text": "No matter what, I'm being paid to perform.",
+            "Title": "Canadian Baseball Player",
+            "Name": "Joey Votto"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/scarlett-bordeaux.webp",
+            "Text": "Performing has always been my passion.",
+            "Title": "American Wrestler",
+            "Name": "Scarlett Bordeaux"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shania-twain.webp",
+            "Text": "I've been performing my whole life.",
+            "Title": "Canadian Musician",
+            "Name": "Shania Twain"
+        }
+    ]
+}

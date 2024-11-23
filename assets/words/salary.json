@@ -1,0 +1,292 @@
+{
+    "currentWord": {
+        "wordRoot": "salary",
+        "id": 18698,
+        "phonemic": "ˈsæləri|ˈsæləri\r",
+        "bigId": "d0feec99-937a-467f-ab52-de2b2df7f818",
+        "wordForms": [
+            "salaries",
+            "salary"
+        ]
+    },
+    "senses": [
+        {
+            "id": "d0feec99-937a-467f-ab52-de2b2df7f818",
+            "de": "The money a person earns from their job, often paid each month",
+            "ty": "noun",
+            "ex": "She gets a good salary working as a nurse.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "annual salary",
+                " base salary",
+                " gross salary"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d0feec99-937a-467f-ab52-de2b2df7f818.webp",
+            "Tips": [
+                {
+                    "title": "Regular Payment",
+                    "description": "Understand that 'salary' implies a set amount received regularly, usually monthly.",
+                    "example": "My salary is deposited into my bank account on the last working day each month.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7bb7hWCJGMDijIIuCG8SMRNeWnE.webp"
+                },
+                {
+                    "title": "Annual Calculations",
+                    "description": "Salaries are often discussed annually to compare jobs or negotiate pay.",
+                    "example": "The job offer listed a salary of $50,000 per year.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MuDWqCawgPZq3tmAUFp02TOKCBg.webp"
+                },
+                {
+                    "title": "Not Hourly Rate",
+                    "description": "Unlike wages, 'salary' isn't based on the exact number of hours worked.",
+                    "example": "Even if I work overtime, my salary remains the same.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4eJ72Xma9uvdpzU4cg83QE1kqw.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4e4e56a5-86c7-466c-a1f3-2d9aeb554009",
+            "de": "A specific amount of money that a person earns in exchange for the work they do, regardless of the number of hours they work",
+            "ty": "noun",
+            "ex": "He is on a salary, so he gets paid the same amount each month no matter how many hours he works.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "salary package",
+                " salary increase",
+                " salary negotiation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4e4e56a5-86c7-466c-a1f3-2d9aeb554009.webp",
+            "Tips": [
+                {
+                    "title": "Fixed Income",
+                    "description": "Salary stays constant regardless of hours, emphasizing job stability.",
+                    "example": "With my salary, I can plan my finances, as I earn a fixed amount each month.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Hours",
+                    "description": "Remember, a salary covers a job's overall value, not just time spent working.",
+                    "example": "His creativity and skills contribute to his salary, not just the hours he logs.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Job Position",
+                    "description": "Higher job positions tend to have salaries rather than hourly wages.",
+                    "example": "After her promotion, she moved from an hourly wage to a salary.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a104dce9-ef49-4c1a-92f9-42a741f088ca",
+            "de": "The total amount of money listed in a person's contract of employment before tax or other charges are deducted",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "His salary before taxes is $75,000 per year.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "salary deduction",
+                " salary slip",
+                " salary scale"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a104dce9-ef49-4c1a-92f9-42a741f088ca.webp",
+            "Tips": [
+                {
+                    "title": "Pre-deduction Amount",
+                    "description": "Salary in legal or job contracts is the amount before taxes or deductions.",
+                    "example": "My contract states a salary of $3,000 a month, but that's before taxes.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Contract Basis",
+                    "description": "The salary in legal contexts is a guarantee in your employment contract.",
+                    "example": "Her salary is set in her contract and cannot be changed without her agreement.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Negotiable Term",
+                    "description": "When job hunting or getting promoted, remember the salary is often negotiable.",
+                    "example": "During the interview, he negotiated his starting salary up by $5,000.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Compensation": {
+            "wordRoot": "Compensation",
+            "wordDefinition": "Compensation is a broader term that includes everything an employee receives in exchange for their work, such as salary, benefits, bonuses, and incentives.\n\nIn other words, salary is a type of compensation, but compensation includes more than just salary.\n\nCompensation can be applicable in discussions of employee benefits and rewards more generally, while salary is specifically the predetermined amount that an employee will be paid for their work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d5034d15-f81f-4878-b380-128ec77f4f75.webp"
+        },
+        "Earnings": {
+            "wordRoot": "Earnings",
+            "wordDefinition": "Earnings refer to all the money you make from working, including your salary, bonuses, and any tips or commissions you earn.\n\nEarnings are a broader term that includes salary as well as other forms of income from work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06bde760-5e4c-4226-b8bc-2327d9e8d24a.webp"
+        },
+        "Emolument": {
+            "wordRoot": "Emolument",
+            "wordDefinition": "Emolument refers to any financial compensation, including benefits, that is received by an individual in exchange for work or services rendered.\n\nSalary is a specific form of emolument that refers to the fixed amount of money paid to an employee on a regular basis for their work.\n\nThe main difference between these terms is that emolument is a broader term that encompasses all forms of financial compensation, while salary refers specifically to a fixed amount paid to an employee on a regular basis.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a680ab98-9d89-4026-b50a-b4f2923ac3d4.webp"
+        },
+        "Income": {
+            "wordRoot": "Income",
+            "wordDefinition": "Income refers to all the money a person receives in a year, including wages, tips, interest earned on savings, royalties, and any other form of payment.\n\nSo, while salary is a part of a person's income, income is a much broader term that includes all sources of money earned.\n\nIncome can apply to anyone who earns money, such as a self-employed person or someone who earns income from investments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46e6f131-0db5-4089-b0ea-73956af3fd38.webp"
+        },
+        "Pay": {
+            "wordRoot": "Pay",
+            "wordDefinition": "Pay generally refers to the amount of money you receive for doing work, such as an hourly rate or a price for a specific job.\n\nSalary specifically refers to the money you receive on a regular basis for a certain job or position, typically paid on a monthly or yearly basis.\n\nPay can be variable depending on how much work you do or how many hours you work, while salary is a fixed amount that is agreed upon in your employment contract.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53cec10f-74d8-4783-a4ad-b55f2e98b675.webp"
+        },
+        "Remunerate": {
+            "wordRoot": "Remunerate",
+            "wordDefinition": "Remunerate and salary are both related to payment for work or services, but they are used in different contexts.\n\nRemunerate refers to any form of payment made to someone for their work or services, whether in the form of money, goods, or services.\n\nRemunerate refers to any form of payment for work, while salary specifically refers to a fixed payment amount paid regularly to an employee.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/852280dc-33ca-46b8-8f70-fbeb0118f2b8.webp"
+        },
+        "Stipend": {
+            "wordRoot": "Stipend",
+            "wordDefinition": "A stipend is a fixed sum of money paid to someone to cover their expenses or as an allowance.\n\nIt is often provided to interns, trainees, or students to cover their living or educational expenses. Stipends are applicable in educational, research, or religious organizations.\n\nIn simpler terms, a salary is your regular pay for working at a job, whereas a stipend is a payment or allowance given to cover specific expenses or for participating in a particular activity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62ac4abe-9bfb-47c4-98f0-94e537b57ded.webp"
+        },
+        "Wage": {
+            "wordRoot": "Wage",
+            "wordDefinition": "Salary and wage refer to the money that a person earns for their work. The main difference is in how they are calculated and when they are paid.\n\nA wage is usually paid on an hourly basis, and the amount earned depends on the number of hours worked. For example, if someone works for $15 per hour and works for 8 hours in a day, they will earn $120 for that day.\n\nIn general, salaries are more commonly used for professional or management-level positions, while wages are more commonly used for jobs that require manual labor or hourly work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aab2d292-0261-448e-81ba-377782c588a5.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " they will coach you and they will give you support, just like we would with one of our children who happens to come home with a C from school. It's the complete opposite. This is the reason so many people have such a visceral hatred, anger, at some of these banking CEOs with their disproportionate salaries and bonus structures. It's not the numbers.",
+            "Title": "Why good leaders make...",
+            "VideoId": "lmyZMtPVodo",
+            "Controls": "start=447"
+        },
+        {
+            "Text": " Check in our your team's progress and see how everyone's doing. If you or your teammates are unsuccessful, work together to help accomplish personal goals. Lastly, you can negotiate for more time to prevent work from creeping into your personal life. In business school, I teach students to negotiate for salary",
+            "Title": "3 rules for better...",
+            "VideoId": "4c_xYLwOx-g",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " But admit it -- you kind of want to know. Most of us are uncomfortable with the idea of broadcasting our salary. We're not supposed to tell our neighbors, and we're definitely not supposed to tell our office neighbors. The assumed reason is that if everybody knew what everybody got paid,",
+            "Title": "Why you should know how...",
+            "VideoId": "TvcNw4F0Y4Y",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " and room pi, where the guests expect free dessert. What self-respecting night manager would ever want to work there even for an infinite salary? But over at Hilbert's Infinite Hotel, where there's never any vacancy and always room for more, the scenarios faced by the ever-diligent",
+            "Title": "The Infinite Hotel...",
+            "VideoId": "Uj3_KqkI9Zo",
+            "Controls": "start=308"
+        },
+        {
+            "Text": " so that sometimes, my parents were not paid their salaries. And so, as a child, I saw jam disappear from the breakfast table, then margarine disappeared, then bread became too expensive, then milk became rationed. And most of all, a kind of normalized political fear",
+            "Title": "Chimamanda Ngozi...",
+            "VideoId": "D9Ihs241zeg",
+            "Controls": "start=754"
+        },
+        {
+            "Text": " struggling and have the personal sacrifice on salaries because I couldn't pay them but one thing what I told them this company don't belong to me it belong to all of us I might not be able to paid you today and let's work out something",
+            "Title": "Attracting outside...",
+            "VideoId": "komkr1L6EQg",
+            "Controls": "start=876"
+        },
+        {
+            "Text": " hunter he was given a salary he didn't have to poach anymore he actually got a paycheck for his family and I asked him through an interpreter I said we're on this mountain I hear you used to hunt here do you think there's still Tigers",
+            "Title": "Steve Winter: On the...",
+            "VideoId": "hVOHKWnflTY",
+            "Controls": "start=844"
+        },
+        {
+            "Text": " to people we have never met. And we should get rid of the vast industry of paternalistic bureaucrats when we could simply hand over their salaries to the poor they're supposed to help. Because, I mean, the great thing about money",
+            "Title": "Poverty isn't a lack of...",
+            "VideoId": "ydKcaIE6O1k",
+            "Controls": "start=594"
+        },
+        {
+            "Text": " are negotiating their first salary, and only seven percent of women. And most importantly, men attribute their success to themselves, and women attribute it to other external factors. If you ask men why they did a good job,",
+            "Title": "Why we have too few...",
+            "VideoId": "18uDutylDa4",
+            "Controls": "start=388"
+        },
+        {
+            "Text": " The fur was it was almost like a year salary for a peasant boy. So it was very valuable.",
+            "Title": "Saving the Arctic Fox PIPE...",
+            "VideoId": "RldVDWoyrZs",
+            "Controls": "start=82"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zack-greinke.webp",
+            "Text": "Baseball, in my opinion, would be a lot better if you could just make the same salary as everybody else in the world, and you don't deal with any of the other stuff. But that's not how it is. The main thing is I want to pitch against the best players in the world, and you can't do that playing in a pickup baseball league in your town.",
+            "Title": "American Athlete",
+            "Name": "Zack Greinke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/greg-boyle.webp",
+            "Text": "In my barrio, jobs work and money saves lives. When I have had the funds to place a gang member on a job site and pay his salary, I've seen him stop banging. When, on the rarest of occasions, an employer has offered a job to one of these youth, I've witnessed kids suddenly have a reason to get up in the morning.",
+            "Title": "American Clergyman",
+            "Name": "Greg Boyle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dustin-moskovitz.webp",
+            "Text": "I can't apply $3 billion in capital to the tech industry. It wouldn't work. But in infrastructure, education, I can make a real difference. I can change someone's life, for the better, permanently. If I can improve a kid's education, I can increase their salary later on and for decades.",
+            "Title": "American Businessman",
+            "Name": "Dustin Moskovitz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-altucher.webp",
+            "Text": "Don't stay at the job for safe salary increases over time. That will never get you where you want - freedom from financial worry. Only free time, imagination, creativity, and an ability to disappear will help you deliver value that nobody ever delivered before in the history of mankind.",
+            "Title": "American Author",
+            "Name": "James Altucher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-wozniak.webp",
+            "Text": "I just believe that the way that young people's minds develop is fascinating. If you are doing something for a grade or salary or a reward, it doesn't have as much meaning as creating something for yourself and your own life.",
+            "Title": "American Businessman",
+            "Name": "Steve Wozniak"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alfred-hitchcock.webp",
+            "Text": "When an actor comes to me and wants to discuss his character, I say, 'It's in the script.' If he says, 'But what's my motivation?, ' I say, 'Your salary.",
+            "Title": "English Director",
+            "Name": "Alfred Hitchcock"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ethel-waters.webp",
+            "Text": "Asking what I considered an impossible salary when I didn't want to work for someone has boosted my pay again and again.",
+            "Title": "American Musician",
+            "Name": "Ethel Waters"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eniola-aluko.webp",
+            "Text": "Italian sides will find it hard to attract the world's top players while there is a salary cap.",
+            "Title": "English Athlete",
+            "Name": "Eniola Aluko"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-ratcliffe.webp",
+            "Text": "The U.K. is one of the few places in the world that has final salary pensions.",
+            "Title": "British Businessman",
+            "Name": "Jim Ratcliffe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jerry-jones.webp",
+            "Text": "It wouldn't be the worst thing in the world if we didn't have a salary cap.",
+            "Title": "American Businessman",
+            "Name": "Jerry Jones"
+        }
+    ]
+}

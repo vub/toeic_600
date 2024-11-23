@@ -1,0 +1,292 @@
+{
+    "currentWord": {
+        "wordRoot": "mandatory",
+        "id": 5929,
+        "phonemic": "mænˈdeɪtəri|ˈmændətɔːri\r",
+        "bigId": "d0057017-daf1-49b3-b4de-9aee8226e8b1",
+        "wordForms": [
+            "mandatory"
+        ]
+    },
+    "senses": [
+        {
+            "id": "d0057017-daf1-49b3-b4de-9aee8226e8b1",
+            "de": "Something that you must do because of a rule or a law.",
+            "ty": "adjective",
+            "ex": "Wearing a helmet while riding a bike is mandatory in many countries.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mandatory requirement",
+                " mandatory rule",
+                " mandatory law"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d0057017-daf1-49b3-b4de-9aee8226e8b1.webp",
+            "Tips": [
+                {
+                    "title": "Beyond Laws",
+                    "description": "Mandatory isn't used only for laws but for rules in organizations, schools, or clubs.",
+                    "example": "Attendance is mandatory for all members at the club meetings.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4lNbbs5zWUwFqJldIHyi8HK1f7c.webp"
+                },
+                {
+                    "title": "Safety Related",
+                    "description": "'Mandatory' is often used in safety contexts to mean 'necessary for safety'.",
+                    "example": "It's mandatory to wash your hands before serving food.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JkWmbdY9xDms0I9xDilcVSvuPCc.webp"
+                },
+                {
+                    "title": "Not Optional",
+                    "description": "When something is mandatory, you cannot choose whether to follow it or not.",
+                    "example": "Completing this course is mandatory for graduation.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tlibSrldOzRRYwjCB50Jz8xszY.webp"
+                }
+            ]
+        },
+        {
+            "id": "96fd5117-f6fb-47b1-9237-7631caa05256",
+            "de": "Relating to a command or an authoritative instruction.",
+            "ty": "adjective",
+            "ex": "The mandatory meeting will cover new company policies.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mandatory order",
+                " mandatory instruction",
+                " mandatory command"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/96fd5117-f6fb-47b1-9237-7631caa05256.webp",
+            "Tips": [
+                {
+                    "title": "Authority Implication",
+                    "description": "Mandatory actions are usually set and enforced by someone in power, like a boss or leader.",
+                    "example": "The manager made it mandatory to report progress weekly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Expect Compliance",
+                    "description": "When something is mandatory, failure to comply could lead to penalties or consequences.",
+                    "example": "Mandatory evacuation orders were issued before the storm hit.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Prompt Action",
+                    "description": "Mandatory often means action is required immediately or within a given timeframe.",
+                    "example": "Completing an employee survey by Friday is mandatory.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c973b243-2cc2-42ad-baa5-2987c95fa3c6",
+            "de": "In law, relating to a decision made by a court or a judge.",
+            "do": "Legal",
+            "ty": "adjective",
+            "ex": "Under mandatory sentencing, the judge must impose a fixed sentence.",
+            "use": "",
+            "co": "Legal, Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mandatory sentencing",
+                " mandatory injunction",
+                " mandatory review"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c973b243-2cc2-42ad-baa5-2987c95fa3c6.webp",
+            "Tips": [
+                {
+                    "title": "Legal Requirement",
+                    "description": "In legal contexts, 'mandatory' means it's ordered by court and there's no room for discretion.",
+                    "example": "The court issued a mandatory injunction against the company.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Fixed Sentencing",
+                    "description": "'Mandatory sentencing' refers to a court decision with predetermined penalties.",
+                    "example": "The law requires mandatory life sentencing for such offenses.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No Judge's Liberty",
+                    "description": "Under mandatory laws, judges can't use their personal judgment to alter the punishment.",
+                    "example": "With mandatory sentencing, the judge couldn't reduce the time served.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Compulsory": {
+            "wordRoot": "Compulsory",
+            "wordDefinition": "Both words, compulsory and mandatory, mean \"required\" but they have slightly different connotations. Compulsory means something that is required by law or authority, while mandatory means something that is required because it is essential or necessary.\n\nFor example, wearing a helmet when riding a bike is compulsory in some places because it is required by law, but taking a shower before going to school is not compulsory even though it may be necessary for personal hygiene.\n\nCompulsory is usually used when something is required by authority or law, while mandatory is used when something is essential or necessary.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/85b3af53-25d0-48ba-8b60-c2e9f453c8bc.webp"
+        },
+        "Demand": {
+            "wordRoot": "Demand",
+            "wordDefinition": "Demand means that you want something, but it's not necessary that you get it. For example, you might demand a big birthday party, but your parents might not be able to afford it.\n\nDemand is a request while mandatory is a requirement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d691c841-3470-43d0-92e1-24d5a54d5da3.webp"
+        },
+        "Enforce": {
+            "wordRoot": "Enforce",
+            "wordDefinition": "Enforce means to make sure that rules or laws are being followed and that punishments are given out if they are not followed.\n\nFor example, a police officer might enforce traffic laws by giving tickets to people who break them.\n\nEnforce and mandatory are related because enforcing a law or rule is one way to make it mandatory.\n\nHowever, something can be mandatory without necessarily being enforced. For example, it might be mandatory for a company to have a certain kind of safety equipment on hand, but if no one checks to make sure they have it, it might not be enforced.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d03c62f-cc9e-41b0-88d3-b88c96813a7e.webp"
+        },
+        "Essential": {
+            "wordRoot": "Essential",
+            "wordDefinition": "Essential means something that is very important or necessary, but there may be exceptions where it is not required. For example, water is essential for survival but not everyone needs the same amount of water.\n\nEssential is used in situations where something is important or necessary but may vary depending on the circumstances. Mandatory is used in situations where something is required by law or rules and must be followed without exception.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8cc1da05-187c-4a8f-b15c-589129dd2b91.webp"
+        },
+        "Imperative": {
+            "wordRoot": "Imperative",
+            "wordDefinition": "Imperative means something that is very important and should be done right away.\n\nIt is often used to describe tasks or actions that are necessary for a particular situation or goal. For example, it is imperative to evacuate during a natural disaster to ensure your safety.\n\nImperative means something that is urgent and important to achieve a particular goal, while mandatory means something that is required by law or rules.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad44eba3-af44-48df-bb7b-4a008153f744.webp"
+        },
+        "Necessary": {
+            "wordRoot": "Necessary",
+            "wordDefinition": "Mandatory means required or ordered by an authority, while the word necessary means needed or required for a specific purpose.\n\nFor example, wearing a helmet while riding a bike may be mandatory in some cities, which means it is required by law. On the other hand, having a pencil and paper while taking an exam may be necessary to complete the task at hand.\n\nMandatory describes something that is required by authority, while necessary describes something that is needed to accomplish a goal or task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9349245-fd47-4952-9371-2c5bf615ba98.webp"
+        },
+        "Obligatory": {
+            "wordRoot": "Obligatory",
+            "wordDefinition": "Both mandatory and obligatory mean that something is required or necessary.\n\nHowever, mandatory carries a connotation that the requirement is imposed by an authority or rule, while obligatory carries a connotation that the requirement is a moral or ethical duty.\n\nFor example, wearing a uniform to school may be mandatory because there is a school rule requiring it. On the other hand, being honest and truthful is obligatory because it is a moral duty to be truthful to others.\n\nMandatory is often used in formal or legal contexts, while obligatory is often used in moral or philosophical discussions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/edb678f9-2865-4b86-90d8-9f55fff92cd8.webp"
+        },
+        "Require": {
+            "wordRoot": "Require",
+            "wordDefinition": "Mandatory means something that must be done or followed as a requirement, without exception. It implies that there is a law, rule, or regulation that requires it.\n\nFor example, wearing a seatbelt in the car is mandatory because it is required by law.\n\nRequire means something that is necessary or needed.\n\nIt may be mandatory in some cases, but not always. For example, a job may require a certain level of education or experience, but it is not mandatory by law.\n\nMandatory is a stronger word that implies legal obligation, while require is a more general word that can be used in different situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fbc7cac8-a671-467a-867d-38e8536b7768.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " so nobody expected there to be this booming oasis dream. So, they didn't give them very much water. So, Vegas is now forced to use their water very wisely. They recycle a lot of their fountains and pools, they do mandatory pool coverings, a lot of fountains are grey water, they've been taking",
+            "Title": "Chasing Rivers, Part 1:...",
+            "VideoId": "xt5uJrWW1gE",
+            "Controls": "start=808"
+        },
+        {
+            "Text": " environmental social targets are important because they go beyond the kind of corporate social responsibility you know icing on the cake but not the cake kind of story so how do you get mandatory again not voluntary metrics put into place in corporate governance",
+            "Title": "The COVID-19 crisis is a...",
+            "VideoId": "u3BZDx2dnSE",
+            "Controls": "start=1643"
+        },
+        {
+            "Text": " Then came World War II. - But most important of all, clean your teeth often. Clean them well. - And it was during the war that the Army decided to give every soldier a toothbrush and make it a mandatory part of their daily routine. And that toothbrush design,",
+            "Title": "How Your Toothbrush...",
+            "VideoId": "_3MkWmHArrU",
+            "Controls": "start=131"
+        },
+        {
+            "Text": " you have a chance to tell us the role it plays in your life. And this ranges from irrelevant to mandatory. So now, for every question, we have three things for our first, your answer; second, how you want someone else -- your potential match -- to answer;",
+            "Title": "Inside OKCupid: The math...",
+            "VideoId": "m9PiPlRuy6E",
+            "Controls": "start=161"
+        },
+        {
+            "Text": " You probably know it as the crime bill. It was a terrible law. It ushered in an era of mass incarceration that allowed mandatory minimums, three-strikes laws, the expansion of the death penalty -- it was terrible. But it passed with bipartisan support.",
+            "Title": "The radical act of...",
+            "VideoId": "XZfKdlIRqYk",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " Sixty-eight is young today. We've also got to cut the military about three percent a year. We've got to limit other mandatory spending. We've got to quit borrowing as much, because otherwise the interest is going to eat that whole pie.",
+            "Title": "The next species of...",
+            "VideoId": "JNcLKbJs3xk",
+            "Controls": "start=339"
+        },
+        {
+            "Text": " and about any sustainable innovations, about the realities of today's world. From kindergarten through to graduation. And I mean mandatory. I strongly believe that every young person can be a changemaker.",
+            "Title": "Melati Wijsen: A roadmap...",
+            "VideoId": "SfROjZlyg7o",
+            "Controls": "start=309"
+        },
+        {
+            "Text": " something the supervisor is notified we come over and we go through the feces looking for the drugs it's an unpleasant but mandatory waiting game and the latest chapter and a continuing life of crime",
+            "Title": "Defecation Watch PIPE...",
+            "VideoId": "JnxHY5Qd22A",
+            "Controls": "start=188"
+        },
+        {
+            "Text": " We started exploring new possibilities and uncovering truths about our justice system and how real change happens for us. For me, it wasn't the mandatory programs inside of the prison.",
+            "Title": "What prosecutors and...",
+            "VideoId": "jATCr-gQvPA",
+            "Controls": "start=393"
+        },
+        {
+            "Text": " Eliminating excuses at every turn became my primary responsibility. We addressed every one of those excuses through a mandatory professional development,",
+            "Title": "Linda Cliatt-Wayman: How...",
+            "VideoId": "Xe2nlti47kA",
+            "Controls": "start=570"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alanis-morissette.webp",
+            "Text": "I still indulge in a glass of wine or chocolate - treats are mandatory. Without deviating from the day-to-day healthy diet once in a while, it wouldn't be sustainable for me, and that's what I wanted: an approach to eating to last my entire life.",
+            "Title": "Canadian Musician",
+            "Name": "Alanis Morissette"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-cooper.webp",
+            "Text": "The police cannot protect the citizen at this stage of our development, and they cannot even protect themselves in many cases. It is up to the private citizen to protect himself and his family, and this is not only acceptable, but mandatory.",
+            "Title": "American Celebrity",
+            "Name": "Jeff Cooper"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tim-matheson.webp",
+            "Text": "For me, all collecting must be done out of the love of the art. That being said, investment knowledge is absolutely mandatory so that you are really buying what you think you are buying.",
+            "Title": "American Actor",
+            "Name": "Tim Matheson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-lee.webp",
+            "Text": "The other day they asked me about mandatory drug testing. I said I believed in drug testing a long time ago. All through the sixties I tested everything.",
+            "Title": "Athlete",
+            "Name": "Bill Lee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/muhammad-ali.webp",
+            "Text": "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
+            "Title": "American Boxer",
+            "Name": "Muhammad Ali"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nikita-dutta.webp",
+            "Text": "I love 'Eurovision!' It's the best thing in the world, and it should be mandatory viewing.",
+            "Title": "Indian Actress",
+            "Name": "Nikita Dutta"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lennox-lewis.webp",
+            "Text": "After you win all these belts, you cannot fight all these mandatory guys.",
+            "Title": "English Athlete",
+            "Name": "Lennox Lewis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william.webp",
+            "Text": "It should be mandatory that you understand computer science.",
+            "Title": "American Musician",
+            "Name": "will.i.am"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/w-edwards-deming.webp",
+            "Text": "It is not necessary to change. Survival is not mandatory.",
+            "Title": "American Scientist",
+            "Name": "W. Edwards Deming"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vermin-supreme.webp",
+            "Text": "I stand for mandatory toothbrushing laws.",
+            "Title": "American Artist",
+            "Name": "Vermin Supreme"
+        }
+    ]
+}

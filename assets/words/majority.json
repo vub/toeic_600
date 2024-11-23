@@ -1,0 +1,269 @@
+{
+    "currentWord": {
+        "wordRoot": "majority",
+        "id": 17583,
+        "phonemic": "məˈdʒɒrəti|məˈdʒɔːrəti\r",
+        "bigId": "0d049dc2-8376-41f9-86ac-f9505f9e4bb1",
+        "wordForms": [
+            "majorities",
+            "majority"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0d049dc2-8376-41f9-86ac-f9505f9e4bb1",
+            "de": "A number that is more than the total of the rest of the numbers",
+            "ty": "noun",
+            "ex": "In the election, the majority of the people voted for the new proposal.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "majority vote",
+                " majority rule",
+                " majority opinion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0d049dc2-8376-41f9-86ac-f9505f9e4bb1.webp",
+            "Tips": [
+                {
+                    "title": "Quantitative Context",
+                    "description": "Use 'majority' when referring to the greater part or number in a group of entities.",
+                    "example": "The majority of students prefer having classes online.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/mxMZMOemwYi3g33EdAZJpSsWN68.webp"
+                },
+                {
+                    "title": "Not Always Total",
+                    "description": "'Majority' indicates more than half, but not necessarily the whole.",
+                    "example": "A majority of the pie has been eaten, but some is left.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ekZrmY4tp2igmsEjNgfZOcKOcoI.webp"
+                },
+                {
+                    "title": "Subject Variability",
+                    "description": "Understand that 'majority' can apply to people, opinions, or objects in various contexts.",
+                    "example": "The majority of today's news articles focus on the environment.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7XYc8PQffkbI2SPshyjS6dR8tPw.webp"
+                }
+            ]
+        },
+        {
+            "id": "39636716-9fab-452c-bd45-557867c97310",
+            "de": "The age at which a person is officially considered an adult",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "She will reach the age of majority on her 18th birthday.",
+            "use": "",
+            "co": "Legal",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "age of majority",
+                " reach majority",
+                " legal majority"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/39636716-9fab-452c-bd45-557867c97310.webp",
+            "Tips": [
+                {
+                    "title": "Legal Specificity",
+                    "description": "In legal contexts, 'majority' can refer to a specific age when legal responsibilities change.",
+                    "example": "Upon reaching the age of majority, you can vote and sign contracts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Variation",
+                    "description": "The 'age of majority' differs by country; it's crucial to know the local legal age.",
+                    "example": "In Japan, the age of majority is 20.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": ""
+        },
+        {
+            "id": "69f032b0-d6e1-4c31-993e-8b93f4dbb2bd",
+            "de": "A status or rule by which decisions are decided by voting and the decision with more votes wins",
+            "do": "Political",
+            "ty": "noun",
+            "ex": "The party's majority rule will determine our next steps.",
+            "use": "",
+            "co": "Political",
+            "sy": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "majority rule",
+                " majority government",
+                " majority decision"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/69f032b0-d6e1-4c31-993e-8b93f4dbb2bd.webp",
+            "Tips": [
+                {
+                    "title": "Political Power",
+                    "description": "'Majority' in politics often implies greater power or the ability to make decisions.",
+                    "example": "The political party with the majority will lead the government.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Voting Outcome",
+                    "description": "In decision-making, a 'majority' vote means more than half support one side.",
+                    "example": "The proposal was accepted by a majority vote.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Minority Contrast",
+                    "description": "'Majority' is often used in contrast to 'minority,' representing the smaller group.",
+                    "example": "The majority approved the law, while the minority opposed it.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Bulk": {
+            "wordRoot": "Bulk",
+            "wordDefinition": "Bulk refers to the physical amount or volume of something. For example, \"I bought a bulk package of 24 rolls of toilet paper.\".\n\nIt can also refer to the main part or larger portion of something. For example, \"The bulk of the work is done, we just need to finish up the last few things.\".\n\nBulk refers to physical amount and larger portion, while majority refers to greater number and most people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f1c6b36e-3084-4db3-835f-0a2e4f3d68c6.webp"
+        },
+        "Mass": {
+            "wordRoot": "Mass",
+            "wordDefinition": "Mass, on the other hand, refers to a large and indefinite number or quantity of people or things.\n\nIt describes a big, cohesive group or collection, like a mass of people at a concert.\n\nMajority is used when referring to more than 50% of a group or total, while mass describes a large and indefinite collection of people or things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cfea8df8-e712-4318-9ce5-0bc54a0da7fb.webp"
+        },
+        "Most": {
+            "wordRoot": "Most",
+            "wordDefinition": "Most refers to the highest quantity or the largest number of something.\n\nIt is usually used when describing a general trend, a characteristic, or an observation. For example, if someone says that \"most birds fly,\" they mean that a large number of birds do fly but not necessarily all birds do.\n\nSo to summarize, majority is used when comparing numbers or opinions, while most is used when describing a general trend or characteristic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1d96aea7-6194-4243-9f5b-4aeb2832634f.webp"
+        },
+        "Preponderance": {
+            "wordRoot": "Preponderance",
+            "wordDefinition": "Preponderance refers to a greater amount or quantity of evidence that supports a specific conclusion. It means that there is more evidence supporting one side over the other.\n\nFor example, in a court case, the side with more compelling evidence would have a preponderance of evidence.\n\nMajority refers to a larger number or amount of something, while preponderance refers to a greater amount or quantity of evidence supporting a specific conclusion.\n\nMajority is applicable in situations where a large group or population is involved, while preponderance is applicable in legal and argumentative situations where evidence is weighed to determine validity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4449b32e-525c-46a3-a48a-8487fc0d2f22.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " many of the important instruments that have shaped society were designed for the right-handed majority. Because lefties are worse at using these tools, and suffer from higher accident rates, they would be less successful in a purely cooperative world, eventually disappearing from the population.",
+            "Title": "Why are some people...",
+            "VideoId": "TGLYcYCm2FM",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " If there's only one group arguing, both others must be telling the truth, and if there are two conflicts, then the possessed students are in separate groups and you can safely trust the majority in both trios since at least two people in each will be truthful. The temple collapses behind you",
+            "Title": "Can you solve the temple...",
+            "VideoId": "nSbvlktToSY",
+            "Controls": "start=209"
+        },
+        {
+            "Text": " This means that an electric current can move through a superconductor without slowing down and barely leaking any energy away, meaning, it could go pretty much forever. There's only one problem, the vast majority of superconductors only really work at a temperature",
+            "Title": "How To Levitate PIPE The...",
+            "VideoId": "xDyJkFehDk0",
+            "Controls": "start=1314"
+        },
+        {
+            "Text": " of matter in the universe. It features three epochs that span billions of years. The vast majority of the universe's life span, and includes the present day. The first was the atomic epoch. In this stage, the universe's temperature cooled down enough for electrons",
+            "Title": "Origins of the Universe...",
+            "VideoId": "HdPzOWlLrbE",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " Unfortunately, it doesn't always work perfectly. Most notably, millions of people worldwide suffer from autoimmune diseases, in which the immune system treats normal bodily cues as threats, so the body attacks itself. But for the majority of the human race,",
+            "Title": "The surprising reason...",
+            "VideoId": "gVdY9KXF_Sg",
+            "Controls": "start=245"
+        },
+        {
+            "Text": " The vast majority of the galaxies are separating from us so fast that light from them may never reach us. Still, our physical reality here on Earth is intimately connected to those distant, invisible galaxies. We can think of them as part of our universe.",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=194"
+        },
+        {
+            "Text": " If even happy people cheat, what is it about? The vast majority of people that I actually work with are not at all chronic philanderers. They are often people who are deeply monogamous in their beliefs, and at least for their partner.",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=620"
+        },
+        {
+            "Text": " But the majority of the time entoptic phenomena, such as floaters and blue sky sprites, are just a gentle reminder that what we think we see depends just as much on our biology and minds as it does on the external world.",
+            "Title": "What are those floaty...",
+            "VideoId": "Y6e_m9iq-4Q",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " didn't stick the first time more importantly if you are choosing to interpret your religious beliefs to be anti-gay that is most definitely a choice especially considering that the majority of people the majority for",
+            "Title": "On choosing to be gay PIPE...",
+            "VideoId": "OD4s2JBsHuU",
+            "Controls": "start=438"
+        },
+        {
+            "Text": " chances are you belong to the world's bilingual and multilingual majority. And besides having an easier time traveling or watching movies without subtitles, knowing two or more languages means that your brain",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=16"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-hart.webp",
+            "Text": "When you're doing a film and the majority of the film is cast black, for me, it's most important to get people to view those movies as just movies, as just good movies. At the end of the day, regardless of the color of the cast, we're all doing the same thing in this business: trying to make a good film.",
+            "Title": "American Actor",
+            "Name": "Kevin Hart"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-neville.webp",
+            "Text": "A collection of strong-minded individuals who have learned how to dismiss mistakes, disappointments and problems in their personal life make up a strong team. If the majority of the team have that then, as a unit, you are almost impossible to beat.",
+            "Title": "English Athlete",
+            "Name": "Gary Neville"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rush-limbaugh.webp",
+            "Text": "The truth does not require a majority to prevail, ladies and gentlemen. The truth is its own power. The truth will out. Never forget that.",
+            "Title": "American Entertainer",
+            "Name": "Rush Limbaugh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kamala-harris.webp",
+            "Text": "The truth is that the vast majority of Americans are good, fair, and just, and they want their country to reflect those ideals.",
+            "Title": "American Vice President",
+            "Name": "Kamala Harris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arthur-schopenhauer.webp",
+            "Text": "The wise have always said the same things, and fools, who are the majority have always done just the opposite.",
+            "Title": "German Philosopher",
+            "Name": "Arthur Schopenhauer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-m-nixon.webp",
+            "Text": "Tonight - to you, the great silent majority of my fellow Americans - I ask for your support.",
+            "Title": "American President",
+            "Name": "Richard M. Nixon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ellen-johnson-sirleaf.webp",
+            "Text": "I think the majority of the Liberian people want peace.",
+            "Title": "Statesman",
+            "Name": "Ellen Johnson Sirleaf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-sturridge.webp",
+            "Text": "I spend the majority of my life not acting.",
+            "Title": "English Actor",
+            "Name": "Tom Sturridge"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mobutu-sese-seko.webp",
+            "Text": "The will of the majority will be respected.",
+            "Title": "Congolese Politician",
+            "Name": "Mobutu Sese Seko"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-jefferson.webp",
+            "Text": "One man with courage is a majority.",
+            "Title": "American President",
+            "Name": "Thomas Jefferson"
+        }
+    ]
+}

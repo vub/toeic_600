@@ -1,0 +1,92 @@
+{
+    "currentWord": {
+        "wordRoot": "move up",
+        "id": 0,
+        "phonemic": "muːv ʌp",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "a1b2c3d4-5678-90ab-cdef-01234567890a",
+            "de": "To change position to a higher place; ascend.",
+            "ty": "verb",
+            "ex": "He moved up the ladder rung by rung.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "move up the ladder",
+                "move up in the rankings",
+                "move up a notch",
+                "move up to the next level",
+                "move up a size"
+            ],
+            "ImageSrc": "./senses/1abea73d-47bb-450a-84be-b07823443faa.webp",
+            "Tips": [
+                {
+                    "title": "Physical movement",
+                    "description": "Describes ascending to a higher physical location.",
+                    "example": "The climber moved up the steep cliff face.",
+                    "imageUrl": "./tips/26f6a702-62fc-40b0-8fc2-ea053a3e8d8d.webp"
+                },
+                {
+                    "title": "Career advancement",
+                    "description": "Refers to progressing to a higher position in a company or organization.",
+                    "example": "She quickly moved up the corporate ladder.",
+                    "imageUrl": "./tips/9867de7b-6e31-41dc-97d9-f1a3349b692b.webp"
+                },
+                {
+                    "title": "Ranking or level increase",
+                    "description": "Indicates an increase in rank, level, or status.",
+                    "example": "The team moved up several spots in the league standings.",
+                    "imageUrl": "./tips/f1315aed-20ae-4727-a865-5f29df4817eb.webp"
+                }
+            ]
+        },
+        {
+            "id": "b2c3d4e5-6789-0abc-def0-1234567890ab",
+            "de": "To bring forward or reschedule something to an earlier time or date.",
+            "ty": "verb",
+            "ex": "They decided to move up the meeting to tomorrow.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "move up the deadline",
+                "move up the appointment",
+                "move up the launch date"
+            ],
+            "ImageSrc": "./senses/a14c294a-3395-4970-af30-bd89fc583d47.webp",
+            "Tips": [
+                {
+                    "title": "Rescheduling",
+                    "description": "Indicates bringing an event forward to an earlier time.",
+                    "example": "We moved up our flight due to the impending storm.",
+                    "imageUrl": "./tips/7a3bfd9d-e4c9-4067-81a0-8caa211460e0.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "ascend": {
+            "wordRoot": "ascend",
+            "wordDefinition": "'Ascend' implies a more formal or deliberate upward movement, often suggesting effort or progress.  'Move up' is more general and can be used in more casual contexts.",
+            "wordImage": ""
+        },
+        "rise": {
+            "wordRoot": "rise",
+            "wordDefinition": "'Rise' suggests a more gradual or natural upward movement, often without specific effort.  'Move up' implies a more deliberate action by a subject.",
+            "wordImage": ""
+        },
+        "advance": {
+            "wordRoot": "advance",
+            "wordDefinition": "'Advance' often implies progress or improvement, especially in rank or position. 'Move up' can be more general and may not always carry the same connotation of progress.",
+            "wordImage": ""
+        }
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "currentWord": {
+        "wordRoot": "order",
+        "id": 14564,
+        "phonemic": "ˈɔːdə(r)|ˈɔːrdər\r",
+        "bigId": "fc50fd79-d055-4244-a872-8cdade011ffc",
+        "wordForms": [
+            "orders",
+            "ordering",
+            "ordered",
+            "orderly",
+            "reordering",
+            "order"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fc50fd79-d055-4244-a872-8cdade011ffc",
+            "de": "A request or instruction for something to be made, provided, or given.",
+            "ty": "noun",
+            "ex": "I've made an order for a new laptop.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "place an order",
+                " take an order",
+                " make an order"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fc50fd79-d055-4244-a872-8cdade011ffc.webp",
+            "Tips": [
+                {
+                    "title": "Online Shopping",
+                    "description": "Often used for transactions on websites and apps for purchasing items.",
+                    "example": "I need to order some groceries online.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/oQZ62tPXqy7uupFAkZ5XjkrwhCQ.webp"
+                },
+                {
+                    "title": "Service Interaction",
+                    "description": "Used in restaurants or stores when requesting items from the staff.",
+                    "example": "She's going to order our drinks from the bar.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EodcrQ5lDrreNY8giGaCWekFMkU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "146d8457-38f1-4be8-9500-fb1629a5d008",
+            "de": "The way in which things are arranged or organized.",
+            "ty": "noun",
+            "ex": "He arranged his books in alphabetical order.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "in order",
+                " out of order",
+                " alphabetical order"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/146d8457-38f1-4be8-9500-fb1629a5d008.webp",
+            "Tips": [
+                {
+                    "title": "Cleaning Up",
+                    "description": "Often used to describe the act of tidying or organizing a space.",
+                    "example": "Let's put these files in order before we leave.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sequential",
+                    "description": "Refers to things following a specific sequence or pattern.",
+                    "example": "Please list the events in chronological order.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "122121d8-29c7-44da-8b8a-f8b354862205",
+            "de": "To ask for something to be made, provided, or given.",
+            "ty": "verb",
+            "ex": "He ordered a pizza for dinner.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "order food",
+                " order online",
+                " order a taxi"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/122121d8-29c7-44da-8b8a-f8b354862205.webp",
+            "Tips": [
+                {
+                    "title": "Polite Requests",
+                    "description": "Can be used to politely ask for something in formal or informal situations.",
+                    "example": "Could I order a cup of coffee, please?",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c6c03162-b0aa-4c97-b390-2d648217f334",
+            "de": "To command or tell someone to do something.",
+            "ty": "verb",
+            "ex": "He ordered his assistant to bring him the report.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "order someone to do something",
+                " order around",
+                " order troops"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c6c03162-b0aa-4c97-b390-2d648217f334.webp",
+            "Tips": [
+                {
+                    "title": "Authority Presence",
+                    "description": "Indicates someone with authority is giving a directive.",
+                    "example": "The officer ordered an evacuation of the area.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "edf67ac6-64ce-42e5-b4f0-e08a9d20dda8",
+            "de": "A group of people living under religious vows.",
+            "do": "Religion",
+            "ty": "noun",
+            "ex": "He joined the Franciscan order.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "religious order",
+                " join an order",
+                " leave an order"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/edf67ac6-64ce-42e5-b4f0-e08a9d20dda8.webp",
+            "Tips": [
+                {
+                    "title": "Religious Context",
+                    "description": "Associated with groups in a religious or spiritual context.",
+                    "example": "He's considering joining a monastic order.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0f49cacf-a53e-4ef7-b4b6-aa4f23593149",
+            "de": "Peace and discipline in a group or place where it was absent.",
+            "ty": "noun",
+            "ex": "The new principal brought order back to the school.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bring order",
+                " restore order",
+                " maintain order"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0f49cacf-a53e-4ef7-b4b6-aa4f23593149.webp",
+            "Tips": [
+                {
+                    "title": "Chaos to Calm",
+                    "description": "Used when someone imposes structure in a previously unruly situation.",
+                    "example": "The teacher quickly established order in the classroom.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Arrangement": {
+            "wordRoot": "Arrangement",
+            "wordDefinition": "An arrangement is how things are organized or placed in a particular order to achieve a specific goal or create a certain effect.\n\nOrder refers to a systematic or logical arrangement of things, such as in a sequence, in a hierarchy, or in a specific pattern.\n\nArrangement is more subjective and artistic, while order is more objective and logical. Both terms are useful depending on the context and purpose of the situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp"
+        },
+        "Command": {
+            "wordRoot": "Command",
+            "wordDefinition": "Command is typically used when someone in authority gives direction or instruction to someone else. For example, a military officer might command their soldiers to stop marching.\n\nOrder is similar to command, but it usually implies a more specific demand that needs to be followed exactly. For example, a chef might order their sous chef to add a specific ingredient to a recipe.\n\nBoth words can be applicable in a variety of situations, but command is typically used in situations where someone in authority is giving general direction, while order is typically used in situations where someone is giving a more specific instruction that needs to be followed exactly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ec835d22-9b0b-4e7c-a8ab-e85edbef4e71.webp"
+        },
+        "Decree": {
+            "wordRoot": "Decree",
+            "wordDefinition": "Both decree and order refer to authoritative instructions or commands given by someone in power, such as a ruler or judge.\n\nA decree usually refers to a decision made by a legal or religious authority that has the force of law. For example, a king might issue a decree that all citizens must pay taxes, or a court might issue a decree ordering a company to stop polluting a river.\n\nDecree is a more formal and legal term, while order is a more casual and everyday term.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0ebc2bf-2f7c-469c-974b-ef15ec9ff5c3.webp"
+        },
+        "Directive": {
+            "wordRoot": "Directive",
+            "wordDefinition": "Directive and order are both words that are used to indicate instruction or command.\n\nA directive is usually a set of guidelines or instructions given to someone in order to achieve a specific goal. It implies a suggestion that can be followed or not, as it's not necessarily mandatory.\n\nDirectives are often given in the context of work or organizations, and they usually have a set of parameters or limitations that dictate how they can be fulfilled.\n\nA directive is a set of instructions that can be followed at one's discretion, while an order is a command that must be followed no matter what.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e8ad3716-379e-4816-b387-dd7df71f38b3.webp"
+        },
+        "Discipline": {
+            "wordRoot": "Discipline",
+            "wordDefinition": "Discipline refers to a set of rules and regulations that a person has to follow to achieve a particular goal, while order refers to the state of being well-organized and in a specific sequence or arrangement.\n\nDiscipline is applicable in situations where one needs to achieve a certain goal or objective, such as in sports or academics, where a set of rules and regulations are put in place to ensure that the person is focused and achieves the desired outcome.\n\nIn simpler terms, discipline is like following a set of rules to achieve a goal, while order is like organizing things in a way that makes sense and is efficient.\n\nBoth discipline and order are important in different situations to ensure success and effectiveness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0b4f6317-adfd-4fcf-b154-122a4654d7b3.webp"
+        },
+        "Edict": {
+            "wordRoot": "Edict",
+            "wordDefinition": "An edict is a proclamation or announcement made by a person in authority, usually a government or ruler, that has the force of law.\n\nIt is typically used in a formal or official situation, such as a royal edict or papal edict.\n\nAn edict is a formal announcement of law or policy made by a high-level authority, while an order is a directive given by a superior to a subordinate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/edcc954a-1654-4be7-bbbc-1374d0980252.webp"
+        },
+        "Instruction": {
+            "wordRoot": "Instruction",
+            "wordDefinition": "Instruction refers to providing guidance or information about how to do something. For example, a teacher gives instructions to her students on how to do a particular task.\n\nInstruction is more informative and can be open to interpretation.\n\nBoth instructions and orders are applicable in different situations. Instructions are more common in educational or training settings, where the goal is to teach someone how to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/05a214b1-7082-4cb3-b57e-7b8fce15f6eb.webp"
+        },
+        "Mandate": {
+            "wordRoot": "Mandate",
+            "wordDefinition": "Mandate refers to a command or instruction given by an authority or governing body to carry out a specific action or policy.\n\nIt is often used in a legal or political context. For example, a government may mandate that citizens wear face masks in certain situations to prevent the spread of a disease.\n\nMandate is typically more formal and carries more weight as it comes from a higher authority, while order is more common and can come from anyone in a position of authority.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b85487a1-afa7-46de-916b-5727ead53c04.webp"
+        },
+        "Organization": {
+            "wordRoot": "Organization",
+            "wordDefinition": "Organization refers to a group of people who work together to achieve a common goal or purpose.\n\nFor example, a business or nonprofit organization or organizing a charity event.\n\nOrder relates to putting things in a specific or desired sequence or arrangement, while organization relates to groups of people or the act of arranging or structuring things in a particular way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2366d93d-1c4c-4dde-9278-1078efab1c64.webp"
+        },
+        "Regulation": {
+            "wordRoot": "Regulation",
+            "wordDefinition": "Regulation generally refers to rules or laws that are put in place to govern certain activities or industries.\n\nFor example, there may be regulations regarding how much pollution a factory is allowed to emit, or regulations regarding the safety features required for a car to be legally driven.\n\nIn summary, orders are specific directions given by a person in charge, while regulations are broader rules or laws put in place to govern activities or industries.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/30849042-bcb1-46c2-bfe6-8f2eebbb8fa2.webp"
+        },
+        "System": {
+            "wordRoot": "System",
+            "wordDefinition": "System refers to a set of rules or principles that are used to organize something complex. It usually refers to a more general concept that's applicable to many situations.\n\nFor instance, a company might use a system for organizing its employees that includes job titles, pay scales, and performance reviews.\n\nThe main difference between order and system is that order is specific to a particular situation, while system is a more general idea that's applicable to many situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " that life is ultimately just complex patterns of information interacting with each other in a beautiful way, and that that can happen more efficiently at a small scale. So, just as on Earth, clunky stereo systems have shrunk to beautiful, tiny iPods, maybe intelligent life itself, in order to reduce its footprint on the environment,",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=593"
+        },
+        {
+            "Text": " would earn a spot on the zodiac calendar in the order they arrived. The rat rose with the sun to get an early start, but on the way to the river, he met the horse, the tiger, and the ox. Because the rat was small and couldn't swim very well, he asked the bigger animals for help. While the tiger and horse refused,",
+            "Title": "The myth behind the...",
+            "VideoId": "may2s9j4RLk",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " treated as mere cargo. Women and children were kept above deck and abused by the crew, while the men were made to perform dances in order to keep them exercised and curb rebellion. What happened to those Africans who reached the New World and how the legacy of slavery still affects their descendants today",
+            "Title": "The Atlantic slave...",
+            "VideoId": "3NXC4Q_4JVg",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " And one of the reasons why is that the equipment is so complex and so expensive that it's really only done at major universities and large institutions. And so in order to be able to access the brain, you really need to dedicate your life and spend six and a half years as a graduate student",
+            "Title": "How to control someone...",
+            "VideoId": "rSQNi5sAwuc",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " we love in order to quench our physical and psychological desires. Humans are designed to procreate, but without the ecstasy of passionate love, sex is unsatisfying. Our fear of the cold, cruel world tempts us to build hard shells to protect and isolate ourselves.",
+            "Title": "Why do we love? A...",
+            "VideoId": "yJSiUm6jvI0",
+            "Controls": "start=138"
+        },
+        {
+            "Text": " unilaterally seek to change the rules of the global order. So apart from all of that, it's just fine and dandy, the U.S.-China relationship. No real problems there. The challenge, though, is given those deep-rooted feelings,",
+            "Title": "Are China and the US...",
+            "VideoId": "8XQ1onjXJK0",
+            "Controls": "start=819"
+        },
+        {
+            "Text": " but about all possible outcomes down the line. And because the rank order is known in advance, each can accurately predict how the others would vote in any situation and adjust their own votes accordingly.",
+            "Title": "Can you solve the pirate...",
+            "VideoId": "Mc6VA7Q1vXQ",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " other people said we asked them to do the same thing as you can see here we have the days of the week I want you to put them in alphabetical order for me okay you struggled with this task you're",
+            "Title": "Tap Into Your Brain's...",
+            "VideoId": "QelK8rDrbpM",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " boxes and cleaned incessantly but the order and symmetry were not an antidote strong enough it wasn't until I let myself be wrapped in the dizzying embrace of chaos that I found peace in",
+            "Title": "Life is messy. Embrace...",
+            "VideoId": "54pVYXOa5ek",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " Eight separate stages that must be completed in a particular order if the puzzle is to be solved. If the bird succeeds, it'll be a world first. He takes time to have a look",
+            "Title": "Are Crows the Ultimate...",
+            "VideoId": "cbSu2PXOTOc",
+            "Controls": "start=83"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/melania-trump.webp",
+            "Text": "I think is important to give a child room to make mistakes in order to learn. Mistakes build wings so later in life they can fly and go on their own. Let them fall once in awhile... Be their friend and parent as well. When they're in trouble, they will come to you first. Don't try to change their opinion.",
+            "Title": "American First Lady",
+            "Name": "Melania Trump"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/voltaire.webp",
+            "Text": "Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.",
+            "Title": "French Writer",
+            "Name": "Voltaire"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/floyd-mayweather-jr.webp",
+            "Text": "What I learned from boxing and what everyone can take in real life is to follow directions, follow order. Don't give nobody a hard time.",
+            "Title": "American Boxer",
+            "Name": "Floyd Mayweather, Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wilma-rudolph.webp",
+            "Text": "Later on in life, I discovered that in order for me to be successful, I had to have a challenge. I can't do a nine to five job.",
+            "Title": "American Athlete",
+            "Name": "Wilma Rudolph"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cher.webp",
+            "Text": "It's not necessary, in order to be a complete person, that I have a man. It's not the end-all, be-all of my life.",
+            "Title": "American Musician",
+            "Name": "Cher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-j-orourke.webp",
+            "Text": "A person has got to balance work and life and family in order to be a balanced person.",
+            "Title": "American Comedian",
+            "Name": "P. J. O'Rourke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-camus.webp",
+            "Text": "In order to exist just once in the world, it is necessary never again to exist.",
+            "Title": "French Philosopher",
+            "Name": "Albert Camus"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/virginia-woolf.webp",
+            "Text": "Someone has to die in order that the rest of us should value life more.",
+            "Title": "British Author",
+            "Name": "Virginia Woolf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimi-hendrix.webp",
+            "Text": "In order to change the world, you have to get your head together first.",
+            "Title": "American Musician",
+            "Name": "Jimi Hendrix"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-nietzsche.webp",
+            "Text": "We have art in order not to die of the truth.",
+            "Title": "German Philosopher",
+            "Name": "Friedrich Nietzsche"
+        }
+    ]
+}

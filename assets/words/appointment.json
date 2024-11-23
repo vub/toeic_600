@@ -1,0 +1,324 @@
+{
+    "currentWord": {
+        "wordRoot": "appointment",
+        "id": 17932,
+        "phonemic": "əˈpɔɪntmənt|əˈpɔɪntmənt\r",
+        "bigId": "e08e3cc3-70c2-4e15-b825-eb715ced76a1",
+        "wordForms": [
+            "appointments",
+            "appointment"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e08e3cc3-70c2-4e15-b825-eb715ced76a1",
+            "de": "A planned meeting with somebody at a specific time and place.",
+            "ty": "noun",
+            "ex": "He has an appointment with his dentist tomorrow.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make an appointment",
+                " cancel an appointment",
+                " keep an appointment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e08e3cc3-70c2-4e15-b825-eb715ced76a1.webp",
+            "Tips": [
+                {
+                    "title": "Scheduled Interaction",
+                    "description": "Used for professional or formal scenarios requiring booking a time slot.",
+                    "example": "I have an appointment with my lawyer next week.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/BgiGl5YcemGAxkxbwffRsEVIkGE.webp"
+                },
+                {
+                    "title": "Time Specificity",
+                    "description": "Emphasizes the importance of time, suggesting punctuality is expected.",
+                    "example": "Your appointment is at 3 PM, so please arrive early.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6HiPWcMWY3kpjutdgYdwJwG59Y.webp"
+                },
+                {
+                    "title": "Confirming Details",
+                    "description": "Often involves a confirmation or reminder call, email, or message.",
+                    "example": "The doctor's office called to confirm my appointment for Monday.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vYl9W4XuTg7PtEdap6pAohv2j8.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c9cdec00-2cfe-4bf8-b17c-4064006eb639",
+            "de": "An official job or duty that somebody is given.",
+            "ty": "noun",
+            "ex": "She accepted the appointment as ambassador to France.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "accept an appointment",
+                " offer an appointment",
+                " decline an appointment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c9cdec00-2cfe-4bf8-b17c-4064006eb639.webp",
+            "Tips": [
+                {
+                    "title": "Professional Position",
+                    "description": "Refers to being chosen for a specific role, often within an organization.",
+                    "example": "He was delighted to receive the appointment as the head of marketing.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formal Offer",
+                    "description": "Usually official and sometimes requires a formal acceptance or oath.",
+                    "example": "After the election, the mayor's first appointment was her chief advisor.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Authority Granted",
+                    "description": "Implies that authority or responsibility is given to someone.",
+                    "example": "The appointment gave her the authority to lead the project.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ea44db03-0af2-46ee-bf7c-78de3b30ead5",
+            "de": "The act or process of choosing someone for a job or duty.",
+            "ty": "noun",
+            "ex": "The appointment of the new CEO was announced yesterday.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "announce an appointment",
+                " make an appointment",
+                " confirm an appointment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ea44db03-0af2-46ee-bf7c-78de3b30ead5.webp",
+            "Tips": [
+                {
+                    "title": "Selection Process",
+                    "description": "A formal decision made by a person or group in power to fill a role.",
+                    "example": "The appointment of the new director was made by the board of trustees.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reputation Impact",
+                    "description": "Can affect public opinion about a company or institution.",
+                    "example": "The community questioned the appointment of the new police chief.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Official Announcement",
+                    "description": "Often communicated through press releases or official statements.",
+                    "example": "The organization's website posted an announcement about the recent appointments.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "46d51c37-bc44-4e0c-9b83-fb360cf59ef0",
+            "de": "Pieces of furniture or equipment provided for a particular use.",
+            "do": "Real estate",
+            "ty": "noun",
+            "ex": "The cabin has all the necessary appointments.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "provide appointments",
+                " install appointments",
+                " upgrade appointments"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/46d51c37-bc44-4e0c-9b83-fb360cf59ef0.webp",
+            "Tips": [
+                {
+                    "title": "Specific to Place",
+                    "description": "Refers to objects that are part of a building's set up.",
+                    "example": "The apartment's appointments included a washing machine and curtains.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Enhancement Purpose",
+                    "description": "Items are chosen to increase functionality or aesthetic of a space.",
+                    "example": "We selected new office appointments to improve the workspace.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Arrangement": {
+            "wordRoot": "Arrangement",
+            "wordDefinition": "An arrangement refers to a more general plan made between people, and can involve multiple options of where and when to meet.\n\nArrangements are often made in a more casual context, such as planning to meet up with friends or organizing a dinner party.\n\nAn appointment is a fixed schedule with a professional, while an arrangement is a more flexible agreement between people for a casual event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp"
+        },
+        "Assignment": {
+            "wordRoot": "Assignment",
+            "wordDefinition": "An assignment is a task or job given to someone as part of their duties or work (for example, a homework assignment or a work assignment).\n\nAn appointment is applicable when setting up a meeting with someone while an assignment is applicable when giving someone a task or job to complete.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/25d14f0d-8f9f-4229-8e0d-dd00a2a90aa2.webp"
+        },
+        "Date": {
+            "wordRoot": "Date",
+            "wordDefinition": "A date is a more informal meeting between two people, usually for the purpose of getting to know each other better romantically.\n\nDates can be pre-planned or spontaneous and may include activities, such as seeing a movie, going to a restaurant, or taking a walk.\n\nIn summary, appointments are typically professional meetings, while dates are personal meetings between two people in a romantic context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c96af911-6be0-4a6f-8f1e-3175fb4c9eda.webp"
+        },
+        "Engagement": {
+            "wordRoot": "Engagement",
+            "wordDefinition": "Engagement refers to a planned meeting or event with friends or family, often social in nature.\n\nBoth words are applicable in different contexts. Appointment is suitable for professional or formal settings, while engagement is more casual and social.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ead6110-798f-4128-8600-606a35199704.webp"
+        },
+        "Meet": {
+            "wordRoot": "Meet",
+            "wordDefinition": "A meet is a casual term used to describe randomly meeting someone without having planned or scheduled it beforehand. It's an informal word that doesn't typically involve a specific time or place.\n\nYou could meet your friend at the mall or run into an acquaintance on the street. There's no real agenda or structure to a meet, and it's often more spontaneous.\n\nAn appointment is a formal arrangement made in advance, while a meet is an informal, unplanned encounter.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b866f5e5-51a2-4bb6-9b0e-fd8aabb6cef4.webp"
+        },
+        "Rendezvous": {
+            "wordRoot": "Rendezvous",
+            "wordDefinition": "Both words refer to a set time and place to meet someone, but appointment usually refers to a scheduled meeting, especially for business or professional purposes, while rendezvous is often used to describe a more informal meeting between friends or lovers.\n\nFor example, you might have an appointment with a doctor or a job interview, but you might make a rendezvous with a friend for coffee or a date with a romantic partner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a1d2e562-9725-4547-96c5-b373a8bda6cc.webp"
+        },
+        "Schedule": {
+            "wordRoot": "Schedule",
+            "wordDefinition": "A schedule is a plan or outline that shows what activities will take place at what times over a longer period of time, such as a day, a week, or even a month.\n\nAn appointment is a specific time set aside for a particular purpose or meeting, while a schedule is a broader plan or outline of events over a longer period of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d83185bc-c648-42d4-9464-9bdc1e310654.webp"
+        },
+        "Tryst": {
+            "wordRoot": "Tryst",
+            "wordDefinition": "Both appointment and tryst refer to planned meetings between people, but appointment is a more formal and general term that can apply to any type of scheduled meeting, such as a doctor's appointment or a business meeting.\n\nTryst, on the other hand, has a specific connotation of a secret or romantic rendezvous between two people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/104c8373-ebdc-4935-8948-817f5e683835.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " one that shows it in what we consider a conventional game -- I think everything is a game, but this is more what you'd think of as a game played on a board or on a computer screen; and one of how it can be used for good, so you can see that these forces can be very powerful. So the first one, the most famous appointment dynamic in the world,",
+            "Title": "Seth Priebatsch:...",
+            "VideoId": "Yn9fTc_WMbo",
+            "Controls": "start=291"
+        },
+        {
+            "Text": " in the way that she wanted, at the dose and frequency that worked for her. And if it didn't work for her, then she could make changes. Everything was up to her. The most important thing she said was she didn't need anybody else's permission -- not a clinic appointment, not a doctor's prescription, not a pharmacist's order.",
+            "Title": "A doctor's case for...",
+            "VideoId": "0ygtX2nyexo",
+            "Controls": "start=277"
+        },
+        {
+            "Text": " took a grim view of the voice's presence, subsequently interpreting everything I said through a lens of latent insanity. For example, I was part of a student TV station that broadcast news bulletins around the campus, and during an appointment which was running very late, I said, \"I'm sorry, doctor, I've got to go.",
+            "Title": "The voices in my head PIPE...",
+            "VideoId": "syjEN3peCJw",
+            "Controls": "start=197"
+        },
+        {
+            "Text": " and to know that with help, they can heal. Now, I still have my struggles, particularly with the anxiety, but I'm able to manage it through daily mediation, yoga and a relatively healthy diet. If I feel like things are starting to spiral, I make an appointment to see my therapist,",
+            "Title": "Don't suffer from your...",
+            "VideoId": "shG0ezBeeJc",
+            "Controls": "start=326"
+        },
+        {
+            "Text": " And I started to go back to this place, and I noticed that I was doing my most important work there invisibly just by sitting still, and certainly coming to my most critical decisions the way I never could when I was racing from the last email to the next appointment.",
+            "Title": "Where Is Home? PIPE Pico...",
+            "VideoId": "3m6dV7Xo3Vc",
+            "Controls": "start=715"
+        },
+        {
+            "Text": " the president issues a written appointment, allowing the nominee to complete the final steps to take the constitutional and judicial oaths. In doing so, they solemnly swear to administer justice without respect to persons and do equal right to the poor and the rich",
+            "Title": "How do US Supreme Court...",
+            "VideoId": "0xnzGSV66x4",
+            "Controls": "start=172"
+        },
+        {
+            "Text": " an appointment to see dr. CamLAN okay you get clean and you're like oh I'm just going to get detox and things when you find but you get out and everything builds up all the real life stuff because you just haven't been dealing with it the worst thing is really the",
+            "Title": "The Isolation of...",
+            "VideoId": "ZSGr9fQXJpw",
+            "Controls": "start=92"
+        },
+        {
+            "Text": " Have you ever sat in a doctor's office for hours despite having an appointment at a specific time? Has a hotel turned down your reservation because it's full? Or have you been bumped off a flight that you paid for? These are all symptoms of overbooking,",
+            "Title": "Why do airlines sell too...",
+            "VideoId": "ZFNstNKgEDI",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " helped so as primary care for doctor his primary care doctor quickly referred him to an orthopedic surgeon and when he called to make his appointment he was",
+            "Title": "An update on BMI PIPE...",
+            "VideoId": "JXQn1Om26hU",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " surgeonfish breed with the cycles of the moon the mantas can shed all their cleaning appointments to make sure there's a meal afterwards",
+            "Title": "Turtle Spa! PIPE Turtle's...",
+            "VideoId": "GF9OhpPX-lk",
+            "Controls": "start=76"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karen-salmansohn.webp",
+            "Text": "The next time you find yourself racing quickly down the street, know that you're not only running to your next appointment, you are literally running from contact with your truest feelings, deepest needs and most valuable insights.",
+            "Title": "American Author",
+            "Name": "Karen Salmansohn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patricia-ireland.webp",
+            "Text": "My answer to those who oppose my appointment as CEO is that this is really a decision of the YWCA. They want to strengthen their grassroots to advocate on behalf of women's and children's empowerment and ending racism.",
+            "Title": "American Activist",
+            "Name": "Patricia Ireland"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patrick-lencioni.webp",
+            "Text": "I coach soccer, and my wife and I are very involved in our kids' lives. Our family is busy with doctor appointments, soccer practice, school, work, travel, vacation... life.",
+            "Title": "American Writer",
+            "Name": "Patrick Lencioni"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/catharine-mackinnon.webp",
+            "Text": "In not having an appointment at Harvard, I'm in the company of a great many people whose work I admire tremendously, in particular women of color.",
+            "Title": "American Activist",
+            "Name": "Catharine MacKinnon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sandra-day-oconnor.webp",
+            "Text": "I think the important thing about my appointment is not that I will decide cases as a woman, but that I am a woman who will get to decide cases.",
+            "Title": "American Judge",
+            "Name": "Sandra Day O'Connor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thurgood-marshall.webp",
+            "Text": "I have a lifetime appointment and I intend to serve it. I expect to die at 110, shot by a jealous husband.",
+            "Title": "American Judge",
+            "Name": "Thurgood Marshall"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-wicks.webp",
+            "Text": "Plan your workouts in advance and try and stick to them like appointments you can't miss.",
+            "Title": "British Author",
+            "Name": "Joe Wicks"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andre-leon-talley.webp",
+            "Text": "On 9/11, that morning, I was in a Christian Dior Couture appointment at the Hotel Pierre.",
+            "Title": "American Editor",
+            "Name": "Andre Leon Talley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/confucius.webp",
+            "Text": "Death and life have their determined appointments; riches and honors depend upon heaven.",
+            "Title": "Chinese Philosopher",
+            "Name": "Confucius"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dana-brunetti.webp",
+            "Text": "Appointment viewing is dead, and I think it is going away.",
+            "Title": "American Producer",
+            "Name": "Dana Brunetti"
+        }
+    ]
+}

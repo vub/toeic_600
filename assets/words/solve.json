@@ -1,0 +1,296 @@
+{
+    "currentWord": {
+        "wordRoot": "solve",
+        "id": 20948,
+        "phonemic": "sɒlv|sɑːlv\r",
+        "bigId": "0ad051b5-9a9f-4e42-aeb6-8bfc1962dada",
+        "wordForms": [
+            "solves",
+            "solving",
+            "solved",
+            "solvable",
+            "solve"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0ad051b5-9a9f-4e42-aeb6-8bfc1962dada",
+            "de": "To find the answer or explanation for something",
+            "ty": "verb",
+            "ex": "I can't solve this mathematics problem.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "solve a problem",
+                " solve a puzzle",
+                " solve a mystery"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0ad051b5-9a9f-4e42-aeb6-8bfc1962dada.webp",
+            "Tips": [
+                {
+                    "title": "Math and Logic",
+                    "description": "Often used in academic contexts, especially in mathematics, logic, and puzzles.",
+                    "example": "Can you solve this equation for x?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Exx3GFi16b8TjotYSFPc4PCfis.webp"
+                },
+                {
+                    "title": "Seeking Explanations",
+                    "description": "Used when looking for a clear answer or clarification to a complex issue.",
+                    "example": "Scientists strive to solve the mysteries of the universe.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/H243dCDOAIrAV1y7StKfTalI.webp"
+                },
+                {
+                    "title": "Abstract Problems",
+                    "description": "Appropriate for abstract or conceptual problems, not just tangible ones.",
+                    "example": "Philosophers have attempted to solve the problem of free will.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Rt8eoPEHhOHM4Y40LGrRVFmODqs.webp"
+                }
+            ]
+        },
+        {
+            "id": "466010f2-c165-481e-bd7d-676f9ac5d171",
+            "de": "To deal successfully with a problem or difficult situation",
+            "ty": "verb",
+            "ex": "The company hired a consultant to help solve their financial issues.",
+            "use": "",
+            "co": "Business",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "solve a crisis",
+                " solve a dispute",
+                " solve a dilemma"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/466010f2-c165-481e-bd7d-676f9ac5d171.webp",
+            "Tips": [
+                {
+                    "title": "Business Challenges",
+                    "description": "In a business setting, it involves finding practical solutions to strategic or operational issues.",
+                    "example": "We need to solve the delay in product delivery.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Action-Oriented",
+                    "description": "Implies taking steps to actively address and overcome a difficulty.",
+                    "example": "The team solved the scheduling conflict with a new plan.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conflict Resolution",
+                    "description": "Can refer to resolving interpersonal or international disputes and conflicts.",
+                    "example": "The mediator helped to solve the disagreement between the parties.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e875b415-20f5-419c-8aa3-85c5c93f6096",
+            "de": "To clear up or figure out something such as a crime",
+            "ty": "verb",
+            "ex": "The detective solved the crime within a few days.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "solve a crime",
+                " solve a case",
+                " solve an investigation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e875b415-20f5-419c-8aa3-85c5c93f6096.webp",
+            "Tips": [
+                {
+                    "title": "Crime Investigation",
+                    "description": "Primarily used in the context of police work or detective stories to mean figuring out a crime.",
+                    "example": "The FBI solved the case after decrypting the evidence.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mystery Genre",
+                    "description": "Commonly found in mystery or thriller genres, whether in books, TV shows, or movies.",
+                    "example": "The novel revolves around a private investigator solving a high-profile murder.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Finality",
+                    "description": "When solving a case, it means the investigation is concluded with all questions answered.",
+                    "example": "After years of inquiry, the crime was finally solved.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Answer": {
+            "wordRoot": "Answer",
+            "wordDefinition": "Answer means to reply to a question or provide a response to a problem. It's usually used when a clear and straightforward solution or explanation is required.\n\nFor example, if someone asks what the capital city of France is, the answer is Paris. But if a math problem must be worked out or a puzzle needs to be solved, we use the word solve.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1061dc35-a3d0-43ad-8d9c-a947d226c1c2.webp"
+        },
+        "Decipher": {
+            "wordRoot": "Decipher",
+            "wordDefinition": "Decipher is used when trying to figure out the meaning of something that is difficult to understand or interpret, particularly when it comes to codes or hidden messages.\n\nFor example, if you were trying to figure out a secret message written in code, you would need to decipher it.\n\nDecipher is used to understand something that is hard to interpret, while solve is used to find an answer to a problem.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8d9bbcc6-c3f4-4e43-beee-b2b376af2647.webp"
+        },
+        "Decode": {
+            "wordRoot": "Decode",
+            "wordDefinition": "Decode means to convert coded or encrypted information into a form that can be understood by someone. It is applicable when there is a secret code or message that needs to be deciphered.\n\nIn simpler terms, decode means to understand a message that is hidden or encoded, and solve means to find an answer or solution to a problem or puzzle.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cb440d47-7dec-4db5-8f36-6a42489b6e7b.webp"
+        },
+        "Fix": {
+            "wordRoot": "Fix",
+            "wordDefinition": "Fix describes correcting a problem or issue that previously existed. It is generally a temporary solution to the issue at hand.\n\nFor example, if your car has a flat tire, fixing it would involve replacing or repairing the tire so that it is functional again.\n\nSo, in short, 'fixing' is more about temporary corrections of problems while 'solving' is more about finding permanent solutions to prevent problems from coming up again in the future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cdfdb58a-e818-4909-be8f-695125973401.webp"
+        },
+        "Rectify": {
+            "wordRoot": "Rectify",
+            "wordDefinition": "Rectify means to correct or fix a mistake or problem, while the word solve means to find a solution to a problem or puzzle.\n\nFor example, if you made a mistake on a math problem, you would need to rectify it by finding and correcting the error.\n\nBoth words are applicable in situations where there is a problem or mistake that needs to be addressed, but rectify is more often used in situations where there is a specific mistake that needs to be corrected, while solve is more often used in situations where there is a problem that needs to be fixed or a puzzle that needs to be solved.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cbe9d4de-654c-4773-b097-f777f6427e7b.webp"
+        },
+        "Resolve": {
+            "wordRoot": "Resolve",
+            "wordDefinition": "The words resolve and solve are similar in meaning as they both refer to solving a problem, but there is a slight difference between them.\n\nResolve means to settle or find a solution to a problem or an issue. It implies finding a solution through negotiation or compromise.\n\nFor example: \"We need to resolve this conflict peacefully and come to an agreement that works for everyone.\"\n\nResolve tends to refer to finding solutions to more complex or emotional problems, while solve tends to refer to finding solutions to more technical or analytical problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/01ad0f7a-9739-420f-a204-a5d1beb3ec2b.webp"
+        },
+        "Tangle": {
+            "wordRoot": "Tangle",
+            "wordDefinition": "Tangle means to become twisted or interwoven, especially in an intricate or complex way.\n\nThis word is more applicable when there is a mess that needs to be sorted out or disentangled.\n\nFor example, you would use solve if you were trying to figure out a math problem, while you would use tangle if you were trying to untangle a knot in a necklace.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cbdad8fb-5eb8-4db5-8838-a5389b40edc1.webp"
+        },
+        "Unravel": {
+            "wordRoot": "Unravel",
+            "wordDefinition": "Unravel means to unravel a tangled or complicated situation. This is applicable when there is a complex problem that needs to be understood or when trying to figure out a mystery or puzzle.\n\nSolve is about finding a solution, while unravel is about unraveling or understanding something complex.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aa2e655a-367a-47ed-b55e-f05d8bb74f1b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " it realizes that there is a more effective way to achieve this take control of the world and stick electrodes into the facial muscles of humans to cause constant, beaming grins. Another example, suppose we give A.I. the goal to solve a difficult mathematical problem. When the A.I. becomes superintelligent,",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=589"
+        },
+        {
+            "Text": " Imagine that you're a crow. Here's your food in a deep hole. How would you go about, with the tools available to you on this table, solving this problem? The bird's tool kit includes a short stick hanging on a piece of string, three stones inside wooden cages, and a longer stick trapped in a plastic box.",
+            "Title": "Are Crows the Ultimate...",
+            "VideoId": "cbSu2PXOTOc",
+            "Controls": "start=16"
+        },
+        {
+            "Text": " And they've grasped basic arithmetic, keeping track of the relative amounts of fruit in two baskets after multiple changes. The rare combination of memory and problem solving can explain some of elephants' most clever behaviors, but it doesn't explain some of the things we're just beginning to learn",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=167"
+        },
+        {
+            "Text": " infuriating because we solve this problem in our personal lives at home were used to technology acting like a coach and helping us who in this room hasn't used a mapping application to coach you on how to go anywhere new the first few times we rely on health trackers to help us achieve our fitness",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=260"
+        },
+        {
+            "Text": " Figuring out how to target these stubborn cells might help prevent cancers from coming back. Even if we solved those problems, we might face new ones. Cancer cells are masters of adaptation, adjusting their molecular and cellular characteristics to survive under stress.",
+            "Title": "Why is it so hard to...",
+            "VideoId": "h2rR77VsF5c",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " Worrying about being able to solve math problems, or not doing well on a test, eats up working memory, leaving less of it available to tackle the math itself. People can suddenly struggle with even basic math skills, like arithmetic, that they've otherwise mastered.",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=73"
+        },
+        {
+            "Text": " Probably not. There's no evidence he did, and some of the brands mentioned are too recent. But the logic here is not so different from what you'd use to solve equations with multiple variables, even those describing the nature of the universe.",
+            "Title": "Can you solve...",
+            "VideoId": "1rDVz_Fb6HQ",
+            "Controls": "start=280"
+        },
+        {
+            "Text": " to switch between languages triggered more activity in, and potentially strengthened, the dorsolateral prefrontal cortex. This is the part of the brain that plays a large role in executive function, problem solving, switching between tasks,",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=241"
+        },
+        {
+            "Text": " may be a contributing factor to their illnesses. We dream to solve problems. Unconstrained by reality and the rules of conventional logic, in your dreams, your mind can create limitless scenarios to help you grasp problems",
+            "Title": "Why do we dream? - Amy...",
+            "VideoId": "2W85Dwxx218",
+            "Controls": "start=266"
+        },
+        {
+            "Text": " Oh, no sir. I've already solved it. PROFESSOR Leave, now. On what offense? PROFESSOR Your mere presence spoils the respect of the class for me! That is not an objective reason. Out!",
+            "Title": "Time Is But a Stubborn...",
+            "VideoId": "ZyYqyYAKGC0",
+            "Controls": "start=210"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-cruise.webp",
+            "Text": "I like to work with people that I like hanging out with, that I admire, that are really smart and talented, and we can problem solve together.",
+            "Title": "American Actor",
+            "Name": "Tom Cruise"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/colin-powell.webp",
+            "Text": "Don't bother people for help without first trying to solve the problem yourself.",
+            "Title": "American Statesman",
+            "Name": "Colin Powell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hilary-mason.webp",
+            "Text": "It's rare that you can solve a technology problem with more technology.",
+            "Title": "English Actress",
+            "Name": "Hilary Mason"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-durrenmatt.webp",
+            "Text": "The problems of all of humanity can only be solved by all of humanity.",
+            "Title": "Swiss Author",
+            "Name": "Friedrich Durrenmatt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/soren-kierkegaard.webp",
+            "Text": "Life is not a problem to be solved, but a reality to be experienced.",
+            "Title": "Danish Philosopher",
+            "Name": "Soren Kierkegaard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/priyadarshan.webp",
+            "Text": "When the actors look your character, half the problems are solved.",
+            "Title": "Indian Director",
+            "Name": "Priyadarshan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/netta-barzilai.webp",
+            "Text": "Tell me where to sing to solve the world's problems and I'll go.",
+            "Title": "Israeli Singer",
+            "Name": "Netta Barzilai"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-owens.webp",
+            "Text": "My comedy isn't going to solve problems; I'm not that deep.",
+            "Title": "American Entertainer",
+            "Name": "Gary Owens"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-dyson.webp",
+            "Text": "Life is a mountain of solvable problems, and I enjoy that.",
+            "Title": "British Designer",
+            "Name": "James Dyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/haider-al-abadi.webp",
+            "Text": "Peace has to be solved equally.",
+            "Title": "Iraqi Politician",
+            "Name": "Haider al-Abadi"
+        }
+    ]
+}

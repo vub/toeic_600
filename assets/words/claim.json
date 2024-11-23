@@ -1,0 +1,357 @@
+{
+    "currentWord": {
+        "wordRoot": "claim",
+        "id": 222,
+        "phonemic": "kleɪm|kleɪm\r",
+        "bigId": "bbcde130-4870-4dbb-85c4-395ba3b23513",
+        "wordForms": [
+            "claims",
+            "claiming",
+            "claimed",
+            "claim"
+        ]
+    },
+    "senses": [
+        {
+            "id": "bbcde130-4870-4dbb-85c4-395ba3b23513",
+            "de": "To demand, request, or ask for something you believe you have a right to",
+            "ty": "verb",
+            "ex": "She claimed her rightful place as the new CEO.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "claim responsibility",
+                " claim the throne",
+                " claim ownership"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bbcde130-4870-4dbb-85c4-395ba3b23513.webp",
+            "Tips": [
+                {
+                    "title": "Entitlement Expression",
+                    "description": "Use 'claim' to express a strong belief in your entitlement to something.",
+                    "example": "After years of hard work, he claimed the promotion as his due.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ScJgXhJD4bGR95F6mRsDfYAeLQ.webp"
+                },
+                {
+                    "title": "Assertive Tone",
+                    "description": "When demanding something, 'claim' has an assertive, confident tone.",
+                    "example": "She walked in and claimed the best seat without hesitation.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/E2K2RZHPxgkPawMsMGh94WYlJo.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f0a7c042-7b51-4524-a5ac-34e655b09f0e",
+            "de": "To state or express that something is true, even though it may not be proven",
+            "ty": "verb",
+            "ex": "The company claims that their new product is a game changer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "claim innocence",
+                " claim victory",
+                " claim superiority"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f0a7c042-7b51-4524-a5ac-34e655b09f0e.webp",
+            "Tips": [
+                {
+                    "title": "Truth Assertion",
+                    "description": "'Claim' suggests that a truth is stated, but leaves room for doubt or challenge.",
+                    "example": "He claimed to have seen a UFO, but had no evidence.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Requires Evidence",
+                    "description": "Remember that a 'claim' may invite skepticism unless supported by facts.",
+                    "example": "The scientist claimed a major discovery, pending peer review.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "70b926cc-da90-436f-a896-ee236e77cfed",
+            "de": "A demand or request for something one believes they have a right to",
+            "ty": "noun",
+            "ex": "He made a claim for compensation after the accident.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "insurance claim",
+                " legal claim",
+                " false claim"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/70b926cc-da90-436f-a896-ee236e77cfed.webp",
+            "Tips": [
+                {
+                    "title": "Rightful Request",
+                    "description": "Use 'claim' as a noun to emphasize a rightful or legal request for something.",
+                    "example": "He submitted his claim for a refund promptly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "83fe2bac-c342-4f27-a59b-1b0dfa3a17f3",
+            "de": "A statement that something is true, especially one that is disputed",
+            "ty": "noun",
+            "ex": "Investors are skeptical about the entrepreneur's bold claims.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bold claim",
+                " false claim",
+                " unsubstantiated claim"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/83fe2bac-c342-4f27-a59b-1b0dfa3a17f3.webp",
+            "Tips": [
+                {
+                    "title": "Challenged Statement",
+                    "description": "A 'claim' may be questioned or disputed, suggesting it's not universally accepted.",
+                    "example": "Her claim to the invention is under dispute by her colleague.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e09ad76e-7d66-4d41-a16b-8decc1127348",
+            "de": "To take as one's due",
+            "ty": "verb",
+            "ex": "She claimed her luggage at baggage claim.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "claim baggage",
+                " claim prize",
+                " claim inheritance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e09ad76e-7d66-4d41-a16b-8decc1127348.webp",
+            "Tips": [
+                {
+                    "title": "Personal Possession",
+                    "description": "The verb 'claim' often deals with retrieving what is already yours or allocated to you.",
+                    "example": "At the end of the flight, passengers rushed to claim their baggage.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "cb228409-f362-43d1-83bb-d9830d6aaf2c",
+            "de": "To legally demand as a right",
+            "do": "law",
+            "ty": "verb",
+            "ex": "They claimed asylum based on political persecution in their home country.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "claim asylum",
+                " claim jurisdiction",
+                " claim sovereignty"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cb228409-f362-43d1-83bb-d9830d6aaf2c.webp",
+            "Tips": [
+                {
+                    "title": "Legal Context",
+                    "description": "In legal language, 'claim' indicates a formal demand for a right or entitlement.",
+                    "example": "Their family decided to claim the estate through a legal process.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Sensitivity",
+                    "description": "Be aware of cultural and political nuances when discussing 'claiming' asylum or territory.",
+                    "example": "The activists claimed the land for their community, sparking debate.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Affirm": {
+            "wordRoot": "Affirm",
+            "wordDefinition": "Affirm means to state something as true, especially in a confident or strong way.\n\nIt is typically used when someone is confirming something they believe in or agree with. An example would be saying \"I affirm that I am a hard worker\" or \"I affirm my loyalty to my country\".\n\nAffirm is used when you are confident in a statement or belief, and claim is used when you are making an argument or statement that still needs to be proven.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d7ee8a6-c1ac-4b1e-bf74-35670210d8b4.webp"
+        },
+        "Allege": {
+            "wordRoot": "Allege",
+            "wordDefinition": "Both allege and claim refer to making a statement or accusation, but there is a slight difference in their usage.\n\nAllege means to make an accusation without necessarily having proof or evidence to support it. For example, \"The police allege that the suspect robbed the bank.\".\n\nAllege is used more in legal or formal contexts, while claim is used in everyday language.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4fb24ba4-f9fa-4d96-ab8d-f24e3e13ba93.webp"
+        },
+        "Assert": {
+            "wordRoot": "Assert",
+            "wordDefinition": "Assert means to state a fact or belief with confidence and force.\n\nIt is used when you are certain about something and you want to make it clear to others. For example, \"I assert that the Earth revolves around the sun.\".\n\nAssert is used when you are confident and have evidence to back up what you are saying, while claim is used when you believe something to be true but may not have the proof to fully support it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5b9e7961-33e4-4f93-b2de-b479b878a91d.webp"
+        },
+        "Contend": {
+            "wordRoot": "Contend",
+            "wordDefinition": "Contend means to argue or assert that something is true with evidence or proof.\n\nFor example, if someone says \"I claim to have seen a UFO,\" they are stating this without any proof. But if someone says \"I contend that the Earth is round because there is scientific evidence to support it,\" they are presenting evidence to support their argument.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/23312aeb-d7ec-4437-b615-39b26c2f0e8b.webp"
+        },
+        "Declare": {
+            "wordRoot": "Declare",
+            "wordDefinition": "Declare means to make an official announcement or to state something clearly and definitively.\n\nIt is often used in situations where there is no doubt or dispute, such as declaring a winner in a contest or declaring a major in college.\n\nClaim is used when there is a possibility of disagreement or negotiation, whereas declare is used when something is certain and no further discussion is needed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aa4e0b4b-9443-428b-bbdc-eaa78f9e1d14.webp"
+        },
+        "Demand": {
+            "wordRoot": "Demand",
+            "wordDefinition": "Demand means to ask for something forcefully or with authority. For example, if you ask someone to give you their phone because you need it urgently, you can demand that they give it to you.\n\nYou can use claim when you want to state that something is yours or that something is true, while you can use demand when you want to ask for something strongly or with authority.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d691c841-3470-43d0-92e1-24d5a54d5da3.webp"
+        },
+        "Maintain": {
+            "wordRoot": "Maintain",
+            "wordDefinition": "Maintain means to continue to say or do something that you have already said or done, often with confidence that it is true.\n\nFor example, if you maintain a healthy lifestyle, you continue to eat well and exercise regularly.\n\nClaim is used when someone is making a statement or assertion without necessarily having all the facts to back it up, while maintain is used when someone is continuing to hold a position or stance that they have already taken.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1d69b783-d8ec-4343-a862-bd0ae1a9caac.webp"
+        },
+        "Proclaim": {
+            "wordRoot": "Proclaim",
+            "wordDefinition": "Proclaim means to publicly declare or announce something, often in a formal or authoritative manner. For instance, one might proclaim a new law or proclaim a political ideology.\n\nThe main difference between these two words is that claim is used when one demands or asserts their right on something while proclaim is more about making a public declaration.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/43b6e3ce-b4ed-40d6-9aca-5c801eb55875.webp"
+        },
+        "State": {
+            "wordRoot": "State",
+            "wordDefinition": "State means to express something formally, officially, or explicitly.\n\nFor example: \"I state that the Earth orbits around the sun.\"\n\nIf you want to make a statement that can be backed up with evidence, use \"state.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc3d020f-22f6-44e7-a701-0cec0aaa5e11.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " can lead you to claim more value from that negotiation. If you use them poorly, bad idea. Right? So when we think of nonverbals, we think of how we judge others, how they judge us and what the outcomes are. We tend to forget, though, the other audience that's influenced by our nonverbals, and that's ourselves.",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " is said to have come up with the first compound microscope, along with the first telescope. Both claims are often disputed, as apparently he wasn't the only bored guy with a ton of glass lenses to play with at the time. Despite this, the microscope soon became a hot item",
+            "Title": "The wacky history of...",
+            "VideoId": "4OpBylwH9DU",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " to the Pythagorean's notion of a perfect universe. They imagined a reality that could be described with rational, numerical patterns. Historians write that Hippasus was exhiled for publicizing his findings, while legends claim he was drowned as punishment from the gods.",
+            "Title": "A brief history of...",
+            "VideoId": "VmWVXOIQblM",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " that's part of this claim I knew male hyenas had it tough but I didn't realize it was quite that tough on them I kind of feel sorry for them it's hard to believe a helpless newborn cub outranks even the oldest male in the clan with a ranking system like this",
+            "Title": "Female Dominance Over...",
+            "VideoId": "MWpBe8EgNx4",
+            "Controls": "start=9"
+        },
+        {
+            "Text": " To understand what death is, we need to understand what life is. One ancient theory was an idea called vitalism, which claimed that living things were unique because they were filled with a special substance, or energy, that was the essence of life.",
+            "Title": "At what moment are you...",
+            "VideoId": "5c6C3rHOdf8",
+            "Controls": "start=31"
+        },
+        {
+            "Text": " Licinia directs her energy towards being the best priestess she can be. She's worried that someday the state will claim her life for its own purposes to protect itself from danger. Licinia could be accused of incestum, meaning unchastity,",
+            "Title": "Who were the Vestal...",
+            "VideoId": "ER0Cu0KQFqM",
+            "Controls": "start=180"
+        },
+        {
+            "Text": " have the rest of your life to finish you have to realize that nothing is as straightforward as unchanged with fear as perhaps I'd once thought not love not Parenthood no act as daring as claiming another as your own despite all the",
+            "Title": "What forgiveness can...",
+            "VideoId": "TEfxPpnMuNQ",
+            "Controls": "start=815"
+        },
+        {
+            "Text": " and maintains a strict hierarchy, separating unsuspecting supporters and recruits from the inner workings. It claims to provide answers to life's biggest questions through its doctrine, along with the required recipe for change",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=119"
+        },
+        {
+            "Text": " As a result, the hero claims some treasure, special recognition, or power. Result This can vary between stories. Do the monsters bow down before the hero, or do they chase him as he flees from the special world?",
+            "Title": "What makes a hero? -...",
+            "VideoId": "Hhk4N9A0oCA",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " roll back in his head whenever he has an attack his reaction changes his eyes become vicious he shakes some things sometimes I'm afraid Elena believes evil has descended upon her son he claims not",
+            "Title": "Exorcism PIPE National...",
+            "VideoId": "uoA-dBREM5c",
+            "Controls": "start=46"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grant-shapps.webp",
+            "Text": "The reality is that it would be wiser and even kinder for politicians to be responsible about what they claim the NHS will do, because the pain of having raised expectations for parents who are desperate to start a family, only to see those hopes crushed, is more cruel than having said nothing at all.",
+            "Title": "British Politician",
+            "Name": "Grant Shapps"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/niecy-nash.webp",
+            "Text": "I don't claim to be an expert on love. I'm just a woman who has experienced a lot of things, and I want to share and hopefully my sharing will help make your situation better, because that's the goal.",
+            "Title": "American Comedian",
+            "Name": "Niecy Nash"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jessica-chastain.webp",
+            "Text": "Everyone has to learn how to live in an environment that has not made it easy for women to claim their place, so I think it's all women's responsibility to step forward.",
+            "Title": "American Actress",
+            "Name": "Jessica Chastain"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-baxendale.webp",
+            "Text": "Seriously though, most films worth their salt will have something to say about the world we live in. Even 'Avatar' claimed that!",
+            "Title": "English Actress",
+            "Name": "Helen Baxendale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zico.webp",
+            "Text": "A great player can win, but cannot claim titles alone. You need to have a great team who are close and able to support you.",
+            "Title": "Brazilian Coach",
+            "Name": "Zico"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-macdonald.webp",
+            "Text": "I can't claim my grandfather's work has influenced mine directly, but his life certainly inspired me to follow this path.",
+            "Title": "Scottish Director",
+            "Name": "Kevin Macdonald"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/winston-churchill.webp",
+            "Text": "When you are winning a war almost everything that happens can be claimed to be right and wise.",
+            "Title": "British Statesman",
+            "Name": "Winston Churchill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-polanyi.webp",
+            "Text": "Science never gives up searching for truth, since it never claims to have achieved it.",
+            "Title": "Hungarian Scientist",
+            "Name": "John Polanyi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eve-arden.webp",
+            "Text": "I don't have a Pollyana attitude toward life that claims everything is lovely.",
+            "Title": "American Actress",
+            "Name": "Eve Arden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-galassi.webp",
+            "Text": "Claiming your life for yourself feels like a huge deal until you do it.",
+            "Title": "American Publisher",
+            "Name": "Jonathan Galassi"
+        }
+    ]
+}

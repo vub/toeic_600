@@ -1,0 +1,67 @@
+{
+    "currentWord": {
+        "wordRoot": "out of",
+        "id": 0,
+        "phonemic": "aʊt əv",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID",
+            "de": "No longer having; lacking or without.",
+            "ty": "preposition",
+            "ex": "We're out of milk.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "out of milk",
+                "out of time",
+                "out of breath",
+                "out of control",
+                "out of order",
+                "out of date",
+                "out of stock",
+                "out of place",
+                "out of town",
+                "out of the blue"
+            ],
+            "ImageSrc": "./senses/60d15db8-09f0-47be-a6ce-21505e1d5d46.webp",
+            "Tips": [
+                {
+                    "title": "Indicating Lack",
+                    "description": "Use 'out of' to show something is missing or depleted.",
+                    "example": "We're out of sugar. Can you buy some?",
+                    "imageUrl": "./tips/f47081c3-8a0b-489a-a220-3fdc7ec2299b.webp"
+                },
+                {
+                    "title": "Indicating State/Condition",
+                    "description": "Use 'out of' to describe a particular state or condition.",
+                    "example": "The elevator is out of order.",
+                    "imageUrl": "./tips/391219e6-1ef1-4bf3-b744-26aa3c2dbbed.webp"
+                },
+                {
+                    "title": "Indicating Source/Origin",
+                    "description": "Use 'out of' to show the source or origin of something.",
+                    "example": "He made a dress out of old curtains.",
+                    "imageUrl": "./tips/9a784941-14cc-445c-a97c-7142cfee7430.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "lacking": {
+            "wordRoot": "lacking",
+            "wordDefinition": "'Lacking' implies a general absence, while 'out of' suggests a specific depletion or unavailability.",
+            "wordImage": ""
+        },
+        "without": {
+            "wordRoot": "without",
+            "wordDefinition": "'Without' is more general and can be used in a broader range of situations. 'Out of' is more specific to situations of depletion or unavailability.",
+            "wordImage": ""
+        }
+    }
+}

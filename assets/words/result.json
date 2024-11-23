@@ -1,0 +1,340 @@
+{
+    "currentWord": {
+        "wordRoot": "result",
+        "id": 1326,
+        "phonemic": "rɪˈzʌlt|rɪˈzʌlt\r",
+        "bigId": "642bedb3-8aaa-40f4-b45c-181e4d92daef",
+        "wordForms": [
+            "results",
+            "resulting",
+            "resulted",
+            "result"
+        ]
+    },
+    "senses": [
+        {
+            "id": "642bedb3-8aaa-40f4-b45c-181e4d92daef",
+            "de": "Something that happens or appears because of something else",
+            "ty": "noun",
+            "ex": "Eating too much sugar often results in tooth decay.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "as a result",
+                " result from",
+                " result in"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/642bedb3-8aaa-40f4-b45c-181e4d92daef.webp",
+            "Tips": [
+                {
+                    "title": "Cause and Effect",
+                    "description": "Use 'result' to link an action directly to its consequence.",
+                    "example": "Lack of sleep can result in lower concentration.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9dVZWNd1VIKIy24c0OlyyNoTvM.webp"
+                },
+                {
+                    "title": "Phrase Linking",
+                    "description": "Combine 'as a result' with a semicolon to join two related sentences.",
+                    "example": "It rained heavily; as a result, the game was canceled.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NPCMgfYOGiYimLtJn6sx2v2wbu0.webp"
+                }
+            ]
+        },
+        {
+            "id": "2dcf6595-6bf2-4cf9-b1a1-fcfe4708c27b",
+            "de": "To happen or exist because of something else",
+            "ty": "verb",
+            "ex": "His hard work resulted in his promotion.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "result in",
+                " result from"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2dcf6595-6bf2-4cf9-b1a1-fcfe4708c27b.webp",
+            "Tips": [
+                {
+                    "title": "Reasoning Consequence",
+                    "description": "Use 'resulted in' to show a logical outcome of a situation.",
+                    "example": "The new strategy resulted in increased sales.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impersonal Subjects",
+                    "description": "With 'results in', the subject is often an event or action, not a person.",
+                    "example": "The new law results in better protection for wildlife.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5a4bbedf-c290-4d9e-91e7-92a7d3523a53",
+            "de": "The outcome of an activity or process",
+            "ty": "noun",
+            "ex": "The election results came as a shock to the ruling party.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "election results",
+                " results day",
+                " test results"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5a4bbedf-c290-4d9e-91e7-92a7d3523a53.webp",
+            "Tips": [
+                {
+                    "title": "Reporting Outcomes",
+                    "description": "Use 'the results of' when talking about information gained from a study or test.",
+                    "example": "The results of the survey will be published soon.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Surprising Element",
+                    "description": "Express unexpected outcomes by emphasizing 'result' in the sentence.",
+                    "example": "Their experimental approach had amazing results.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "abaa8661-1511-4714-9d44-57191d935bb2",
+            "de": "To end in a particular way",
+            "ty": "verb",
+            "ex": "The competition resulted in a draw.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "result in",
+                " result in a draw"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/abaa8661-1511-4714-9d44-57191d935bb2.webp",
+            "Tips": [
+                {
+                    "title": "Final Outcome",
+                    "description": "Employ 'resulted in' when summarizing the ending of an event.",
+                    "example": "The negotiations resulted in a settlement.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Undecided Finale",
+                    "description": "Use 'resulted in a draw' to describe an event with no clear winner.",
+                    "example": "The chess match resulted in a draw.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "13a415d0-968a-4c98-b3c3-6a9cfc80834c",
+            "de": "To be the final calculation after application of a mathematical operation",
+            "do": "mathematics",
+            "ty": "verb",
+            "ex": "Adding five and four results in nine.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/13a415d0-968a-4c98-b3c3-6a9cfc80834c.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical Use",
+                    "description": "In math, 'result' refers to the answer obtained from calculations.",
+                    "example": "What does adding these two numbers result in?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Abstract Concepts",
+                    "description": "Use 'result' in academic contexts to discuss outcomes of abstract processes.",
+                    "example": "Her hypothesis resulted in a groundbreaking theory.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Conclusion": {
+            "wordRoot": "Conclusion",
+            "wordDefinition": "Conclusion and result are different in terms of their meaning and use.\n\nConclusion refers to a decision or an opinion based on facts, evidence, or reasoning. It is the final outcome of a process of thinking or investigation.\n\nA conclusion is often drawn after considering all the available information and evaluating it critically. For example, after conducting a scientific experiment, a conclusion can be made about the findings and what it indicates.\n\nConclusion is used when drawing an opinion based on facts and evidence, while result is used when referring to the outcome of an action or event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a6c7833-37a6-42dd-a36f-f06699355949.webp"
+        },
+        "Consequence": {
+            "wordRoot": "Consequence",
+            "wordDefinition": "Consequence and result are both words that describe the outcome of a particular action or event.\n\nConsequence generally refers to a negative outcome or effect that stems directly from something that someone does. For example, if you skip school, the consequence might be that you fail a test or get detention.\n\nConsequence is often used to describe negative outcomes, while result is more general and can refer to any outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/65d5242a-8fd6-42ed-a4c3-2197a2a1528a.webp"
+        },
+        "Effect": {
+            "wordRoot": "Effect",
+            "wordDefinition": "Effect generally refers to the impact or influence that one thing has upon another thing or situation. For instance, if someone takes a medication and experiences certain side effects, those are the consequences of taking the medication.\n\nOr, if a business decision is made that causes a change in the company's profits, that change is the effect of the decision.\n\nBoth words can be used in a variety of contexts and have similar meanings, but effect is generally used to describe the broader impact or influence of something, while result is used to specifically indicate what happens as a consequence of an action or event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3bfa0b2-2375-468a-9949-bf40ab48af5a.webp"
+        },
+        "Fruit": {
+            "wordRoot": "Fruit",
+            "wordDefinition": "Fruit refers to the edible part of a plant that contains seeds, such as apples, oranges, and bananas.\n\nTo simplify, fruit describes food that comes from plants, and result describes the outcome of any process or event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c5ce7231-1498-476f-bce3-9acf78686018.webp"
+        },
+        "Outcome": {
+            "wordRoot": "Outcome",
+            "wordDefinition": "Both the words outcome and result refer to something that happens as a consequence of an action or decision.\n\nHowever, outcome generally refers to the final consequence or the end result of an event or activity. It typically involves a longer timeframe and often involves multiple smaller results.\n\nFor example, the outcome of a football game is the final score or which team won, while the result of a team's goal scoring is one team gaining an advantage over the other.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ab8c23dc-fc2f-4530-a428-06a047a14fff.webp"
+        },
+        "Product": {
+            "wordRoot": "Product",
+            "wordDefinition": "Product usually refers to something tangible that is produced or manufactured, such as a computer, a book or a piece of furniture.\n\nBoth words can be applicable in different contexts. Product is generally more commonly used in the context of business and manufacturing, while result is commonly used in the context of scientific experiments, research studies and personal development.\n\nProduct refers to the physical or tangible output of a process or activity, while result refers to the outcomes or consequences of that process or activity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/98b141d7-c75f-41a0-aeff-e5d0f46a0e5b.webp"
+        },
+        "Repercussion": {
+            "wordRoot": "Repercussion",
+            "wordDefinition": "Repercussion refers to a negative or unintended consequence that follows an action or decision. For example, if you decide to skip class to go to a party, the repercussion could be getting a detention or falling behind in your studies.\n\nRepercussion emphasizes the negative consequences of an action or decision, while result simply refers to the outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/27c7a753-ee5f-4a5a-9eb3-4bdf18645edf.webp"
+        },
+        "Solution": {
+            "wordRoot": "Solution",
+            "wordDefinition": "A result is the outcome of something that happens, while a solution is the answer to a problem or situation.\n\nHowever, if you are struggling with a math problem, finding the correct answer is the solution to the problem.\n\nA result is applicable when you are talking about something that already happened or occurred, while a solution is applicable when talking about how to solve or fix something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/26cef889-c6e6-4996-be40-181238414a3c.webp"
+        },
+        "Upshot": {
+            "wordRoot": "Upshot",
+            "wordDefinition": "It can refer to any outcome, whether positive or negative. Upshot is a more specific term that usually describes the final or ultimate consequence of a series of events or decisions.\n\nIt often implies that the outcome was inevitable or unavoidable. For example, \"the result of the game was a tie\" vs \"the upshot of the negotiations was that they agreed to sign the contract\".",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2b35a061-8260-4e1f-9b75-bccb0a149f01.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " with real-world analytics the results of the drivers are getting home earlier to see their families mileage is down which is good for profits in the environment customer satisfaction is actually up and they've been saving lives through an insight that they didn't have which is most accidents were happening during left-hand turns so what's next a hundred",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=329"
+        },
+        {
+            "Text": " you'll see them trace out a pattern that's characteristic of wave a set of stripes - regions with many electrons separated by regions where there are none at all. Block one of the slits and the stripes go away. This shows that the pattern is a result of each electron going through both slits at the same time.",
+            "Title": "Schrödinger's cat: A...",
+            "VideoId": "UjaAxUO6-Uw",
+            "Controls": "start=148"
+        },
+        {
+            "Text": " CTS made of the donor and of Katie to help us figure this out and despite all that it didn't matter because in some ways Katie's face was longer but the donor space was wider and so we had to make decisions where are we going to make it perfect and where as a result will not be perfect",
+            "Title": "Watch One Family's...",
+            "VideoId": "fFua9-Rc4pw",
+            "Controls": "start=600"
+        },
+        {
+            "Text": " and so became more sensitive to stress throughout life. These are considered epigenetic changes, meaning that they effect which genes are expressed without directly changing the genetic code. And these changes can be reversed if the moms are swapped. But there's a surprising result.",
+            "Title": "How stress affects your...",
+            "VideoId": "WuyPuH9ojCE",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " This suggests that creating a false story about a personal topic takes work and results in a different pattern of language use. A technology known as linguistic text analysis has helped to identify four such common patterns in the subconscious language of deception.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=96"
+        },
+        {
+            "Text": " Each time ovulation doesn't result in a healthy pregnancy, the womb gets rid of its endometrial lining, along with any unfertilized eggs, sick, dying, or dead embryos. That protective process is known as menstruation, leading to the period.",
+            "Title": "Why do women have...",
+            "VideoId": "cjbgZwgdY7Q",
+            "Controls": "start=238"
+        },
+        {
+            "Text": " I took life and education seriously. Your overnight success story is always a result of everything you've done in your life through that moment. Believe someone else has the answers for you. Constantly, people want to help out, right?",
+            "Title": "5 ways to kill your...",
+            "VideoId": "sR6P5Qdvlnk",
+            "Controls": "start=86"
+        },
+        {
+            "Text": " causing cells to swell. In severe cases, the kidneys can't keep up with the resulting volumes of dilute urine. Water intoxication then occurs, possibly causing headache, vomiting, and, in rare instances, seizures or death.",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " As a result, the hero claims some treasure, special recognition, or power. Result This can vary between stories. Do the monsters bow down before the hero, or do they chase him as he flees from the special world?",
+            "Title": "What makes a hero? -...",
+            "VideoId": "Hhk4N9A0oCA",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " what most of us dread and the result is quite disturbing as he brings a swarm into our world people are forced to confront their fears",
+            "Title": "The Man Who Can Control...",
+            "VideoId": "7LSFOqnBbpk",
+            "Controls": "start=152"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mahatma-gandhi.webp",
+            "Text": "Let everyone try and find that as a result of daily prayer he adds something new to his life, something with which nothing can be compared.",
+            "Title": "Indian Leader",
+            "Name": "Mahatma Gandhi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elbert-hubbard.webp",
+            "Text": "Character is the result of two things: mental attitude and the way we spend our time.",
+            "Title": "American Writer",
+            "Name": "Elbert Hubbard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dan-gable.webp",
+            "Text": "Freedom across the world is a result of many individuals working together.",
+            "Title": "American Wrestler",
+            "Name": "Dan Gable"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/trevor-paglen.webp",
+            "Text": "Creative projects are rarely the result of a single person's efforts.",
+            "Title": "American Artist",
+            "Name": "Trevor Paglen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johann-wolfgang-von-goethe.webp",
+            "Text": "What is important in life is life, and not the result of life.",
+            "Title": "German Writer",
+            "Name": "Johann Wolfgang von Goethe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sergio-busquets.webp",
+            "Text": "In the world of football only the results are important.",
+            "Title": "Spanish Athlete",
+            "Name": "Sergio Busquets"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-herman.webp",
+            "Text": "Belief that influences behavior influences results.",
+            "Title": "American Coach",
+            "Name": "Tom Herman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/troy-aikman.webp",
+            "Text": "What I am is a direct result of how I was raised.",
+            "Title": "American Athlete",
+            "Name": "Troy Aikman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hector-bellerin.webp",
+            "Text": "As a team, the most important thing is results.",
+            "Title": "Spanish Athlete",
+            "Name": "Hector Bellerin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-bigelow.webp",
+            "Text": "The result showed the wisdom of your orders.",
+            "Title": "American Lawyer",
+            "Name": "John Bigelow"
+        }
+    ]
+}

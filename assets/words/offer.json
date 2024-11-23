@@ -1,0 +1,324 @@
+{
+    "currentWord": {
+        "wordRoot": "offer",
+        "id": 18261,
+        "phonemic": "ˈɒfə(r)|ˈɔːfər\r",
+        "bigId": "5c1e662c-501d-4f76-9c09-a87453c02ada",
+        "wordForms": [
+            "offers",
+            "offering",
+            "offered",
+            "offerings",
+            "offer"
+        ]
+    },
+    "senses": [
+        {
+            "id": "5c1e662c-501d-4f76-9c09-a87453c02ada",
+            "de": "To propose or express willingness to do something",
+            "ty": "verb",
+            "ex": "He offered to help me with my homework.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "offer help",
+                " offer assistance",
+                " offer advice"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5c1e662c-501d-4f76-9c09-a87453c02ada.webp",
+            "Tips": [
+                {
+                    "title": "Voluntary Action",
+                    "description": "Implies that the action offered is done by choice without any pressure.",
+                    "example": "He offered to drive us to the airport.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/KgBXwCLCX8XkZIhjYfw4ltYHw3w.webp"
+                },
+                {
+                    "title": "Initiative Shown",
+                    "description": "Shows someone taking the initiative to help or provide service before being asked.",
+                    "example": "She offered her expertise on the project.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/VN8Q1Y1eK8Q39Fi7JkSZAORplSo.webp"
+                },
+                {
+                    "title": "Polite Gesture",
+                    "description": "Often used to politely suggest help or support, implying good manners.",
+                    "example": "I offered to sort out the issue for them.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/sR0o4wycwWZeivPS14BiJs33zdA.webp"
+                }
+            ]
+        },
+        {
+            "id": "d3f98172-16e2-46b1-89b4-f95fc885c5bf",
+            "de": "Present or proffer something for someone to accept or reject",
+            "ty": "verb",
+            "ex": "She offered me a cup of coffee.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "offer coffee",
+                " offer food",
+                " offer gifts"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d3f98172-16e2-46b1-89b4-f95fc885c5bf.webp",
+            "Tips": [
+                {
+                    "title": "Choice Given",
+                    "description": "Indicates giving someone a choice to accept or refuse something.",
+                    "example": "They offered us tea or coffee.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Non-binding",
+                    "description": "An offer does not compel you to accept; it’s not an obligation.",
+                    "example": "She offered her seat, but I preferred to stand.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Generosity Expressed",
+                    "description": "Making an offer can suggest generosity or a desire to be hospitable.",
+                    "example": "They offered their home for the party.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "85144c95-f4b8-4ac5-aabb-8db2b477da44",
+            "de": "Express readiness to do something for someone",
+            "ty": "verb",
+            "ex": "They offered me a job.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "offer a job",
+                " offer a position",
+                " offer a place"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/85144c95-f4b8-4ac5-aabb-8db2b477da44.webp",
+            "Tips": [
+                {
+                    "title": "Opportunity Extended",
+                    "description": "Indicates a chance or opportunity being given to someone, often professionally.",
+                    "example": "They offered her a scholarship to study abroad.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "A Sign of Trust",
+                    "description": "Being offered something like a job can indicate trust or confidence from the offerer.",
+                    "example": "The company offered him a management position.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ae42f6c3-c57e-4c6d-880b-37a39f66a083",
+            "de": "A proposal or expression of willingness to do or give something",
+            "ty": "noun",
+            "ex": "She made me a generous offer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make an offer",
+                " accept an offer",
+                " reject an offer"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ae42f6c3-c57e-4c6d-880b-37a39f66a083.webp",
+            "Tips": [
+                {
+                    "title": "Formal Proposal",
+                    "description": "Often used in business or formal situations to express a serious proposition.",
+                    "example": "The investor made a significant offer on the property.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Negotiation Tool",
+                    "description": "Can be an initial proposal subject to further discussion and adjustment.",
+                    "example": "The buyer's initial offer was too low, but there's room for negotiation.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Advancement": {
+            "wordRoot": "Advancement",
+            "wordDefinition": "Advancement refers to progress and improvement, usually in a professional or academic context. For example, if you receive a promotion at work or a raise in salary, that would be considered an advancement.\n\nIf you're talking about personal or professional growth, you would use advancement, while if you're talking about something that's being given or proposed to someone, you would use offer.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ebe22493-e664-4520-9462-c665cb202880.webp"
+        },
+        "Bid": {
+            "wordRoot": "Bid",
+            "wordDefinition": "Bid refers to an offer to buy something that is being sold, while the word offer can be used to refer to both an offer to buy or sell something.\n\nFor example, in an auction, people will make bids to buy the item being sold. And when someone wants to sell something, they may make an offer to potential buyers.\n\nOverall, bids are specific to buying, while offers can refer to both buying and selling.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dd66d536-ea35-4d14-95c9-ad97d37407de.webp"
+        },
+        "Contribution": {
+            "wordRoot": "Contribution",
+            "wordDefinition": "Contribution refers to something that is given or done by an individual or a group of people to help achieve a particular goal or accomplishment.\n\nContribution involves active involvement in a task or project, while an offer is the presentation of something without necessarily actively participating in the task or project.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d4f0e056-eefd-495f-9a0f-7e56c6609ed2.webp"
+        },
+        "Donation": {
+            "wordRoot": "Donation",
+            "wordDefinition": "A donation is a gift of money or goods that is made voluntarily to a charity or non-profit organization.\n\nIt is usually made out of goodwill or a desire to support a cause. Donations are also tax-deductible, which means that the donor can claim a deduction on their taxes for the amount donated.\n\nA donation is a gift made to a charitable organization out of goodwill, while an offer is a proposal made to someone with the intention of receiving something in return.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06f36301-9d2d-4522-8fca-a248048c72fa.webp"
+        },
+        "Presentation": {
+            "wordRoot": "Presentation",
+            "wordDefinition": "A presentation is a display or demonstration of information or ideas to an audience.\n\nPresentations can be formal or informal, and can be given in various mediums, such as PowerPoint, video, or live speech.\n\nFor example, a student may give a presentation in class about a historical event.\n\nAn offer is a proposition for entering into a contract or agreement, while a presentation is a display of information or ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2a7262a8-9c9b-48ac-88bc-9d6e198ef792.webp"
+        },
+        "Proposal": {
+            "wordRoot": "Proposal",
+            "wordDefinition": "An offer is a formalized agreement to provide goods, services, or something of value in exchange for something else. It is a specific and definite proposal, which the other party can choose to accept or reject.\n\nA proposal is a suggestion or plan that is put forward for consideration or discussion. It is a preliminary idea that may or may not be agreed upon, but it is often made at an earlier stage of negotiation before an offer is made.\n\nIn simpler terms, an offer is a concrete and binding proposal that is made after careful consideration, whereas a proposal is a more fluid and tentative idea that is suggested for discussion and consideration.\n\nOffers are typically used in formal business transactions, whereas proposals may be used in a wide range of contexts, such as in personal relationships, social gatherings, or political negotiations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ce2cecf1-c04e-45fe-b430-b6bcddfab04e.webp"
+        },
+        "Proposition": {
+            "wordRoot": "Proposition",
+            "wordDefinition": "Both offer and proposition are words used to describe a suggestion or proposal.\n\nA proposition is a proposal or suggestion for consideration or discussion.\n\nIt can be used in a variety of contexts. For example, a group of friends might make a proposition for where they want to go for dinner, or a business might propose a new marketing strategy to their clients.\n\nAn offer is a concrete proposal for a specific transaction, while a proposition is a broader suggestion or idea for discussion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e8cd57b7-6892-4d37-9362-01ac1209058b.webp"
+        },
+        "Suggestion": {
+            "wordRoot": "Suggestion",
+            "wordDefinition": "A suggestion is an idea or proposal for someone else to consider. For example, if you suggest to someone that they try a new type of food, you are proposing that they consider trying it.\n\nOffers are applicable when you want to give or provide something to someone else, while suggestions are applicable when you want to propose an idea or option for someone else to consider.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/df1df3e0-3c62-4c1e-afbe-3b4ccb5e46c2.webp"
+        },
+        "Tender": {
+            "wordRoot": "Tender",
+            "wordDefinition": "The words offer and tender both mean to present something for consideration.\n\nTender is more specific and it usually refers to the act of presenting a formal proposal or bid in response to an invitation or request, typically in a formal setting such as a government tender or corporate Request for Proposal (RFP).\n\nIn simpler terms, offer is used when you're presenting an option in general, while tender is used when you're presenting a formal proposal or bid.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4f5c552b-1c70-4d6a-985c-c0aa2b206039.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " where the circumstances of your birth don't matter, we all have to be part of the solution. And interestingly, the author of the lab resume experiment offered some sort of a solution. She said the one thing that brought the successful women together, the one thing that they had in common, was the fact that they had good mentors. So mentoring, we've all kind of heard that before,",
+            "Title": "What does my headscarf...",
+            "VideoId": "18zvlz5CxPE",
+            "Controls": "start=567"
+        },
+        {
+            "Text": " by offering cow petting experiences to tourists. JOHN They raise tiger cubs, so that people can pay money and take selfies, so they have to have this constant supply of these little tiny tiger cubs between one and four months. So there's just this huge breeding operation, but the key thing here is that after the cubs are about",
+            "Title": "Joe Exotic and the Tiger...",
+            "VideoId": "aDfEBgs6h20",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " are being investigated, too. So, if you know someone struggling with depression, encourage them, gently, to seek out some of these options. You might even offer to help with specific tasks, like looking up therapists in the area, or making a list of questions to ask a doctor. To someone with depression,",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " their outcomes may be determined months or years in advance by programmers or policy makers. And they'll have some difficult decisions to make. It's tempting to offer up general decision-making principles, like minimize harm, but even that quickly leads to morally murky decisions. For example,",
+            "Title": "The ethical dilemma of...",
+            "VideoId": "ixIoDYVfKA0",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " It's vital that the crabs have the best possible protection from the heavy teeth of the waiting sharks and rays. For that, they need the shell with a perfect fit. Today, there is new real estate on offer and competition in this housing market is fierce.",
+            "Title": "Giant Horse Conch &...",
+            "VideoId": "P_hBp1sEwfs",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " It may seem like a tempting offer, but perhaps it's not as ideal as it sounds. The experiment was actually designed to refute a philosophical notion called hedonism. According to hedonists, maximizing net pleasure is the most important thing in life",
+            "Title": "Would you opt for a life...",
+            "VideoId": "XNP1x11Z2Ig",
+            "Controls": "start=49"
+        },
+        {
+            "Text": " afraid that others won't understand them or give them extra time to speak. By offering them the time and flexibility to communicate in whatever way they can, you can help open the door to language again, moving beyond the limitations of aphasia.",
+            "Title": "Aphasia: The disorder...",
+            "VideoId": "-GsVhbmecJA",
+            "Controls": "start=273"
+        },
+        {
+            "Text": " These investments offer significant benefits beyond just being ready for the epidemic. The primary healthcare, the R&D, those things would reduce global health equity and make the world more just as well as more safe.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=459"
+        },
+        {
+            "Text": " So I want to start by offering you a free no-tech life hack, and all it requires of you is that you change your posture for two minutes. But before I give it away, I want to ask you to right now",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " survival mode organizes communities and empowers girls who will become the leaders of the future from Denver I wrote an email introducing myself and offering my help",
+            "Title": "What forgiveness can...",
+            "VideoId": "TEfxPpnMuNQ",
+            "Controls": "start=153"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aldous-huxley.webp",
+            "Text": "It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'try to be a little kinder.",
+            "Title": "English Novelist",
+            "Name": "Aldous Huxley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/morgan-freeman.webp",
+            "Text": "Life doesn't offer you promises whatsoever so it's very easy to become, 'Whatever happened to... ?' It's great to be wanted. I spent a few years not being wanted and this is better.",
+            "Title": "American Actor",
+            "Name": "Morgan Freeman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leo-buscaglia.webp",
+            "Text": "I've always thought that people need to feel good about themselves and I see my role as offering support to them, to provide some light along the way.",
+            "Title": "American Author",
+            "Name": "Leo Buscaglia"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronald-reagan.webp",
+            "Text": "Let us be shy no longer. Let us go to our strength. Let us offer hope. Let us tell the world that a new age is not only possible but probable.",
+            "Title": "American President",
+            "Name": "Ronald Reagan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/f-scott-fitzgerald.webp",
+            "Text": "After all, life hasn't much to offer except youth, and I suppose for older people, the love of youth in others.",
+            "Title": "American Author",
+            "Name": "F. Scott Fitzgerald"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giles-deacon.webp",
+            "Text": "It's important to offer well-thought-out pieces at lower prices.",
+            "Title": "British Designer",
+            "Name": "Giles Deacon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-maillet.webp",
+            "Text": "I think I have a lot to offer doing supporting roles as well.",
+            "Title": "Canadian Actor",
+            "Name": "Robert Maillet"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fernando-pessoa.webp",
+            "Text": "Wise is he who enjoys the show offered by the world.",
+            "Title": "Portuguese Author",
+            "Name": "Fernando Pessoa"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rita-moreno.webp",
+            "Text": "I was never offered enough, and that's the truth.",
+            "Title": "Puerto Rican Actress",
+            "Name": "Rita Moreno"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ileana-dcruz.webp",
+            "Text": "I enjoyed every experience that life offers.",
+            "Title": "Indian Actress",
+            "Name": "Ileana D'Cruz"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "currentWord": {
+        "wordRoot": "daringly",
+        "id": 0,
+        "phonemic": "ˈdɛərɪŋli",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID",
+            "de": "In a bold and adventurous manner; with courage and defiance of danger.",
+            "ty": "adverb",
+            "ex": "She daringly climbed the highest peak without ropes.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "daringly attempted",
+                "daringly innovative",
+                "daringly dressed",
+                "spoke daringly",
+                "acted daringly",
+                "climbed daringly"
+            ],
+            "ImageSrc": "./senses/a803e5e6-6697-436a-8c42-73a54d3fa7f1.webp",
+            "Tips": [
+                {
+                    "title": "Describing physical actions",
+                    "description": "Use 'daringly' to emphasize the bravery and risk involved in a physical action.",
+                    "example": "The tightrope walker daringly stepped across the chasm.",
+                    "imageUrl": "./tips/0bfb83fd-1f7f-43a8-9e1d-cc92123d5eba.webp"
+                },
+                {
+                    "title": "Describing creative endeavors",
+                    "description": "Use 'daringly' to highlight the unconventional and innovative nature of a creative work.",
+                    "example": "The artist daringly combined traditional and modern techniques.",
+                    "imageUrl": "./tips/930506dd-68cd-43d3-895a-785ace166249.webp"
+                },
+                {
+                    "title": "Describing speech or behavior",
+                    "description": "Use 'daringly' to emphasize boldness and defiance in someone's words or actions.",
+                    "example": "He daringly challenged the authority of the government.",
+                    "imageUrl": "./tips/ac637ebd-6ba9-42d3-9d40-dac08c7c319c.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "boldly": {
+            "wordRoot": "boldly",
+            "wordDefinition": "'Boldly' suggests confidence and assertiveness, while 'daringly' emphasizes risk-taking and a willingness to face danger.",
+            "wordImage": ""
+        },
+        "audaciously": {
+            "wordRoot": "audaciously",
+            "wordDefinition": "'Audaciously' implies a disregard for conventions and a willingness to shock or offend, whereas 'daringly' focuses on bravery in the face of danger.",
+            "wordImage": ""
+        },
+        "courageously": {
+            "wordRoot": "courageously",
+            "wordDefinition": "'Courageously' highlights bravery and resilience in difficult situations, while 'daringly' emphasizes the adventurous and risk-taking aspect of the action.",
+            "wordImage": ""
+        }
+    }
+}

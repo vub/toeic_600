@@ -1,0 +1,348 @@
+{
+    "currentWord": {
+        "wordRoot": "expand",
+        "id": 22903,
+        "phonemic": "ɪkˈspænd|ɪkˈspænd\r",
+        "bigId": "61db8140-2f11-4c9f-b3c8-5a08ffed5bc7",
+        "wordForms": [
+            "expands",
+            "expanding",
+            "expanded",
+            "expand"
+        ]
+    },
+    "senses": [
+        {
+            "id": "61db8140-2f11-4c9f-b3c8-5a08ffed5bc7",
+            "de": "To become larger in size, volume, quantity, or scope.",
+            "ty": "verb",
+            "ex": "The balloon will expand when you blow air into it.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "expand rapidly",
+                " expand gradually",
+                " expand significantly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/61db8140-2f11-4c9f-b3c8-5a08ffed5bc7.webp",
+            "Tips": [
+                {
+                    "title": "Physical Objects",
+                    "description": "Use 'expand' for objects that physically get bigger, not for abstract growth.",
+                    "example": "The dough will expand as it proofs.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GnPvLxWHg7fDMzyRiIKUYPivXPU.webp"
+                },
+                {
+                    "title": "Not Always Visible",
+                    "description": "'Expand' can refer to things that grow in ways you can't see, like gases.",
+                    "example": "Gases expand to fill their containers.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/hyEDhNN2cy1HVSwYwMjHzCw.webp"
+                }
+            ]
+        },
+        {
+            "id": "f899b63c-db20-423d-a76f-0b5582fe8993",
+            "de": "To increase the extent, number, volume or scope of something.",
+            "ty": "verb",
+            "ex": "The company is looking to expand its operations overseas.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "expand business",
+                " expand production",
+                " expand operations"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f899b63c-db20-423d-a76f-0b5582fe8993.webp",
+            "Tips": [
+                {
+                    "title": "Business Growth",
+                    "description": "In a business context, 'expand' suggests positive growth and opportunity.",
+                    "example": "Our restaurant will expand its menu to include vegan options.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scope Increase",
+                    "description": "Use 'expand' when the range or breadth of something is increasing.",
+                    "example": "The study will expand to include more participants.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "24233f04-b7b9-4485-b4f1-d785e868dca1",
+            "de": "To speak or write at length or in detail.",
+            "ty": "verb",
+            "ex": "I'll expand on this point later in my presentation.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "expand on a topic",
+                " expand on an idea",
+                " expand further"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/24233f04-b7b9-4485-b4f1-d785e868dca1.webp",
+            "Tips": [
+                {
+                    "title": "Adding Details",
+                    "description": "'Expand' can mean giving more details or adding to what has already been said.",
+                    "example": "Could you expand on your previous comments about the policy?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Explaining More",
+                    "description": "When 'expanding', you can take a complex idea and explain it more simply or thoroughly.",
+                    "example": "She expanded on the theory so the students could understand better.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "233b38f9-26ac-481d-a35c-c6ddeb56eb30",
+            "de": "To spread out; to unfold.",
+            "ty": "verb",
+            "ex": "She expanded the map on the table.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "expand the map",
+                " expand the wings",
+                " expand the view"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/233b38f9-26ac-481d-a35c-c6ddeb56eb30.webp",
+            "Tips": [
+                {
+                    "title": "Physical Spread",
+                    "description": "'Expand' can be used when something is spread out from a folded or closed position.",
+                    "example": "Please expand the brochure so we can see all the information.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Increasing Visibility",
+                    "description": "It can imply making a hidden or condensed feature more visible or apparent.",
+                    "example": "He expanded the details of the image with a zoom.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e16c5d18-92fa-45f0-937e-7ef7cac798c8",
+            "de": "To convert a program or data in a condensed form into a detailed version",
+            "do": "computing",
+            "ty": "verb",
+            "ex": "The file will expand when you decompress it.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "expand the file",
+                " expand the data",
+                " expand the program"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e16c5d18-92fa-45f0-937e-7ef7cac798c8.webp",
+            "Tips": [
+                {
+                    "title": "Decompressing Data",
+                    "description": "In computing, 'expand' refers to the process of enlarging data from its compressed form.",
+                    "example": "When you download the file, your computer will automatically expand it.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Restoring Formats",
+                    "description": "Use 'expand' to describe converting something back to its original size or format electronically.",
+                    "example": "The software will expand the archived emails for viewing.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Amplify": {
+            "wordRoot": "Amplify",
+            "wordDefinition": "Amplify means to increase or intensify the strength, volume or effect of something.\n\nIt is often used when referring to sound or electrical signals. For example, you can amplify music by turning up the volume on a stereo.\n\nAmplify is used when you want to increase the strength or effect of something specific like sound or signals, while expand is used when you want to make something larger or increase its size or scope overall, like in business or ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1226098b-69ca-45a2-9234-821fc060a462.webp"
+        },
+        "Broad": {
+            "wordRoot": "Broad",
+            "wordDefinition": "Broad means wide or large.\n\nExample: \"The Broadway street is broad enough to accommodate a lot of traffic.\"\n\nBroad describes something that already has a large or wide size, whereas expand is used when something is growing in size, number or scope.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/86c50f20-f638-48ea-9a34-b0251ed13154.webp"
+        },
+        "Develop": {
+            "wordRoot": "Develop",
+            "wordDefinition": "Develop means to grow or improve something, to make it better, or to bring it to a more advanced level.\n\nYou can think of development as making something better or more advanced, while expansion is about making something bigger or wider.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af92ffe9-a349-4f74-a7be-e36b33204a41.webp"
+        },
+        "Dilate": {
+            "wordRoot": "Dilate",
+            "wordDefinition": "Dilate means to make wider or enlarge, specifically in reference to something that is contracted or constricted.\n\nIt is often used in medical contexts, such as when describing the widening of blood vessels or the dilation of the pupils of the eyes.\n\nDilate refers to making something wider that is constricted or contracted, while expand means to make something larger or to increase in size or scope.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d1ceef87-7112-4e25-a0a2-a2d83f055878.webp"
+        },
+        "Enlarge": {
+            "wordRoot": "Enlarge",
+            "wordDefinition": "Both enlarge and expand mean to make something bigger or to increase its size, but they are used in different contexts.\n\nEnlarge is more commonly used for physical objects, such as photographs or pieces of clothing. It means to increase the size of something by making it physically larger.\n\nFor example, you might enlarge a picture so it can be framed and hung on a wall, or enlarge your shirt by stretching it out.\n\nEnlarge is for physical objects, and expand is for more abstract ideas or concepts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78209693-4eb3-498f-9d22-32ce64448987.webp"
+        },
+        "Escalate": {
+            "wordRoot": "Escalate",
+            "wordDefinition": "Escalate means to increase in intensity or severity, usually in a negative way.\n\nIt is often used in situations such as conflicts or problems that are getting worse. For example, a small argument between friends can escalate into a big fight.\n\nEscalate is used when things are getting worse, while expand is used when things are growing or increasing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/564855c7-c57c-420f-a4c7-34b5641ae481.webp"
+        },
+        "Grow": {
+            "wordRoot": "Grow",
+            "wordDefinition": "Expand means to increase the size, volume, quantity or scope of something that already exists. Grow means to increase in size, number, strength or complexity.\n\nA plant grows taller and new leaves form over time.\n\nExpand is used more for physical things, while grow is used for living things or things that develop over time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d750528-0d9c-4c2e-b690-620ee6f890d3.webp"
+        },
+        "Increase": {
+            "wordRoot": "Increase",
+            "wordDefinition": "The words expand and increase are very similar but there is a subtle difference between the two. Expand means to make something bigger or to add to it.\n\nWe use expand when the thing we are referring to can be made larger in size, scope or capacity. For example, a factory can expand its operations by adding more machines and hiring more workers to increase production.\n\nIncrease means to make something greater in amount, number or degree. We use increase when referring to something that can be measured, such as the amount of money you earn or the number of customers a business has.\n\nFor example, a company can increase its profits by increasing sales or by reducing expenses.\n\nIn simpler words, when we want to make something bigger, we use expand, and when we want to make something more, we use increase.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c06a5283-a561-4bcc-9fcf-126bde18a342.webp"
+        },
+        "Spread": {
+            "wordRoot": "Spread",
+            "wordDefinition": "Expand means to increase in size or volume, while spread means to extend or distribute over an area.\n\nFor example, if you have a balloon and you blow it up, you are expanding it. If you take a jar of peanut butter and spread it onto a piece of bread, you are spreading it.\n\nExpand is used when talking about things becoming larger or more extensive, whereas spread is used when talking about things being distributed or extended over an area or surface.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc2a8c6e-aa80-4a47-ad06-f0b26b41c6b1.webp"
+        },
+        "Stretch": {
+            "wordRoot": "Stretch",
+            "wordDefinition": "Stretch means to extend or lengthen something.\n\nIt can also be used in reference to physical objects, like stretching a rubber band to make it longer, or in a more abstract sense, like stretching yourself to take on new challenges or tasks.\n\nExpand is used when something is becoming bigger or more extensive, while stretch is used when something is being lengthened or made more pliable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/237070ee-67e8-4eea-bd02-6622740b5907.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And because these tiny soldiers need to travel through the blood to get to the wound site, the previously constricted blood vessels now expand in a process called vasodilation. About two to three days after the wound, the proliferative stage occurs, when fibroblast cells begin to enter the wound.",
+            "Title": "How a wound heals itself...",
+            "VideoId": "TLVwELDMDWs",
+            "Controls": "start=123"
+        },
+        {
+            "Text": " But over the next few decades, the understanding of nostalgia changed in two important ways. Its meaning expanded from indicating homesickness to a general longing for the past. And rather than an awful disease, it began to be seen as a poignant and pleasant experience.",
+            "Title": "Why do we feel...",
+            "VideoId": "WiTgn5QH_HU",
+            "Controls": "start=93"
+        },
+        {
+            "Text": " Traditions and holidays are important to all cultures, but a hero in one era may become a villain in the next as our historical knowledge expands and our values evolve. And deciding what these traditions should mean today is a major part of putting history on trial.",
+            "Title": "History vs. Christopher...",
+            "VideoId": "GD3dgiDreGc",
+            "Controls": "start=319"
+        },
+        {
+            "Text": " Gradually, acid wears down a pathway for bacteria into the tooth's secondary layer called the dentin. Since blood vessels and nerves in our teeth are enclosed deep within, at this stage, the expanding cavity doesn't hurt. But if the damage extends beyond the dentin,",
+            "Title": "What causes cavities? -...",
+            "VideoId": "zGoBFU1q4g0",
+            "Controls": "start=86"
+        },
+        {
+            "Text": " bank changed to eight that changed to hsbc to help the bank expand globally real words like uber and slack are ripped right out of a dictionary and suggest attributes or benefits uber literally means an outstanding example so it works well for a company",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " like atomic energy, artificial intelligence, and space travel meant for humanity's future. Contrasting with popular visions of shining progress, dystopian science fiction expanded to films, comics, and games. Robots turned against their creators",
+            "Title": "How to recognize a...",
+            "VideoId": "6a6kbU88wu0",
+            "Controls": "start=241"
+        },
+        {
+            "Text": " quantities of water with the upward motion a series of waves expands in all directions in deep water these waves travel fast up to five hundred miles an hour but only reach a height of a few feet a passing ship might not even",
+            "Title": "Rare Video: Japan...",
+            "VideoId": "oWzdgBNfhQU",
+            "Controls": "start=93"
+        },
+        {
+            "Text": " but can be expanded anywhere around the globe, and maybe we'll find out that the most important thing for the public is that we create living wage jobs, or make healthy products, or help, not harm, the environment.",
+            "Title": "Paul Tudor Jones II: Why...",
+            "VideoId": "dvJSK4viVMs",
+            "Controls": "start=411"
+        },
+        {
+            "Text": " eventually expanded into thirteen being an unlucky number in general. Now, this fear of the number thirteen, called triskaidekaphobia, is so common that many buildings around the world skip the thirteenth floor,",
+            "Title": "Where do superstitions...",
+            "VideoId": "quOdF1CAPXs",
+            "Controls": "start=60"
+        },
+        {
+            "Text": " Raiders from a neighbouring weaver ant colony, looking to expand their own empire.",
+            "Title": "Ants Battle to Protect...",
+            "VideoId": "SdpGAdB_zpc",
+            "Controls": "start=108"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erin-gray.webp",
+            "Text": "Learning how to get in tune with your field of energy and understand how to create your energy, expand that energy, and move that energy through your body. Coming back to your center, and approaching life from that center-to-line place... That to me gave me strength and understanding and hopefully wisdom to solve life's problems and challenges.",
+            "Title": "American Actress",
+            "Name": "Erin Gray"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/miranda-kerr.webp",
+            "Text": "My ambition comes from my passion: finding what I love and then expanding on that.",
+            "Title": "Australian Model",
+            "Name": "Miranda Kerr"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anais-nin.webp",
+            "Text": "The personal life deeply lived always expands into truths beyond itself.",
+            "Title": "American Author",
+            "Name": "Anais Nin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-wright.webp",
+            "Text": "They say the universe is expanding. That should help with the traffic.",
+            "Title": "American Comedian",
+            "Name": "Steven Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/corrine-brown.webp",
+            "Text": "Everybody understands about expanding Medicaid. It's really simple.",
+            "Title": "American Politician",
+            "Name": "Corrine Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jessica-simpson.webp",
+            "Text": "Life is definitely always about expanding. That's how we grow.",
+            "Title": "American Musician",
+            "Name": "Jessica Simpson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bob-mcdonnell.webp",
+            "Text": "Expanding Medicaid without fixing Medicaid is a terrible idea.",
+            "Title": "American Politician",
+            "Name": "Bob McDonnell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amit-shah.webp",
+            "Text": "My target is to expand the BJP's influence everywhere.",
+            "Title": "Indian Politician",
+            "Name": "Amit Shah"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/malik-yoba.webp",
+            "Text": "As your life expands your focus expands or contracts.",
+            "Title": "American Actor",
+            "Name": "Malik Yoba"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hans-christian-andersen.webp",
+            "Text": "Travelling expands the mind rarely.",
+            "Title": "Danish Author",
+            "Name": "Hans Christian Andersen"
+        }
+    ]
+}

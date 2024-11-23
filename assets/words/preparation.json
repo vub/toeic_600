@@ -1,0 +1,330 @@
+{
+    "currentWord": {
+        "wordRoot": "preparation",
+        "id": 13290,
+        "phonemic": "ˌprepəˈreɪʃn|ˌprepəˈreɪʃn\r",
+        "bigId": "43ac62d7-5b40-4d51-b5f1-66ec1e880349",
+        "wordForms": [
+            "preparations",
+            "preparation"
+        ]
+    },
+    "senses": [
+        {
+            "id": "43ac62d7-5b40-4d51-b5f1-66ec1e880349",
+            "de": "The action or process of making something ready",
+            "ty": "noun",
+            "ex": "The preparation of the meal took two hours",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "preparation time",
+                " food preparation",
+                " test preparation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/43ac62d7-5b40-4d51-b5f1-66ec1e880349.webp",
+            "Tips": [
+                {
+                    "title": "Action-Oriented",
+                    "description": "Emphasizes the active process of getting something ready, often involving physical or mental tasks.",
+                    "example": "Months of preparation were necessary for the expedition.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UIrX8S80qoq6HUKOXvycDxDFMgQ.webp"
+                },
+                {
+                    "title": "Duration Indication",
+                    "description": "Can suggest the length of time spent on getting ready, which might be short or extended.",
+                    "example": "Olympians undergo years of preparation before competing.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Qk544ZdaCuLiPjPCf0BfhKOOjVo.webp"
+                },
+                {
+                    "title": "Result-Focused",
+                    "description": "Suggests that the outcome is dependent on the quality and thoroughness of preparation.",
+                    "example": "Her thorough preparation resulted in a flawless presentation.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PBvJ0EcM00ALAZD8KwlNl48o3z0.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ea4c2f56-4344-45a7-9a86-91b6cb11db1d",
+            "de": "A substance especially made for a specific use",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "He applied a preparation to stop the bleeding",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "medicinal preparation",
+                " skin preparation",
+                " hair preparation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ea4c2f56-4344-45a7-9a86-91b6cb11db1d.webp",
+            "Tips": [
+                {
+                    "title": "Specific Use",
+                    "description": "Highlights that the preparation is specialized for a particular task or condition – not generic.",
+                    "example": "The laboratory created a preparation for the unique bacterial strain.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Medical Context",
+                    "description": "Used in a medical setting, it refers to specially formulated treatments or medicines.",
+                    "example": "The nurse applied an antiseptic preparation to the wound.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Terms",
+                    "description": "This use is more technical and common among medical professionals.",
+                    "example": "The pharmacist explained the benefits of each preparation.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7edcdfb2-726a-4777-b6bf-72d6b12fd608",
+            "de": "Studying or training done for an upcoming activity or event",
+            "ty": "noun",
+            "ex": "He's in preparation for the marathon next month",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "exam preparation",
+                " event preparation",
+                " competition preparation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7edcdfb2-726a-4777-b6bf-72d6b12fd608.webp",
+            "Tips": [
+                {
+                    "title": "Event-Oriented",
+                    "description": "Relates to getting ready for specific events, emphasizing targeted activities or study.",
+                    "example": "His preparation for the debate involved researching various topics.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Skill Enhancement",
+                    "description": "Suggests active efforts to improve abilities or knowledge in anticipation of an activity.",
+                    "example": "Her preparation for the recital improved her piano skills dramatically.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Development",
+                    "description": "May also refer to the personal growth that comes from preparing for life's challenges.",
+                    "example": "His preparation for fatherhood involved reading many parenting books.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "989b640c-eb75-401f-96dc-f0427dcd1fe4",
+            "de": "Something done to make an event or activity possible or to make it run smoothly",
+            "do": "Planning",
+            "ty": "noun",
+            "ex": "Preparation is the key to a successful party",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "meeting preparation",
+                " party preparation",
+                " travel preparation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/989b640c-eb75-401f-96dc-f0427dcd1fe4.webp",
+            "Tips": [
+                {
+                    "title": "Smooth Execution",
+                    "description": "Refers to the arrangement of details to ensure an activity or event proceeds without issues.",
+                    "example": "The event's preparation included arranging food, music, and seating.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Anticipatory Measures",
+                    "description": "Involves thinking ahead to what might be needed to avoid future obstacles or problems.",
+                    "example": "Travel preparation can include learning key phrases in another language.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Goal Setting",
+                    "description": "Outlines the setting of objectives as part of the planning process.",
+                    "example": "Her preparation for starting a business involved setting clear goals.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Arrangement": {
+            "wordRoot": "Arrangement",
+            "wordDefinition": "An arrangement refers to the organization of something according to a plan or structure. For example, you can make arrangements with a friend to hang out next week.\n\nYou can also make arrangements for a holiday by booking flights, accommodation, and tours in advance.\n\nArrangement involves organizing something ahead of time while preparation involves getting ready for something that will happen in the future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp"
+        },
+        "Forethought": {
+            "wordRoot": "Forethought",
+            "wordDefinition": "Forethought and preparation are similar in that they both involve thinking ahead and planning for the future.\n\nHowever, forethought refers specifically to the act of thinking ahead and considering the potential consequences of one's actions.\n\nForethought is applicable when making decisions and weighing the potential outcomes, while preparation is applicable when getting ready for a specific event or situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c27d4b72-b0ad-432c-add6-525593a1ce20.webp"
+        },
+        "Organization": {
+            "wordRoot": "Organization",
+            "wordDefinition": "Organization refers to the process of arranging things or ideas in an orderly and logical manner to achieve a specific goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2366d93d-1c4c-4dde-9278-1078efab1c64.webp"
+        },
+        "Plan": {
+            "wordRoot": "Plan",
+            "wordDefinition": "A plan is a detailed outline of what needs to be done to achieve a specific goal or objective. It consists of steps or actions that need to be taken in order to accomplish something.\n\nPlanning involves looking ahead, considering different possibilities, and making decisions about what to do next.\n\nIn short, planning is about figuring out what needs to be done and how to do it, while preparation is about getting ready to do it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9400d7b7-c746-474a-9b35-7ea1c6436540.webp"
+        },
+        "Prepare": {
+            "wordRoot": "Prepare",
+            "wordDefinition": "Prepare, on the other hand, means to make something ready or to get it into a suitable state. It is an action that you take in order to prepare for something.\n\nFor example, if you are preparing dinner, you might chop vegetables, cook meat, and season the dish.\n\nPreparation is the planning and organizing that is required before an event or activity, while preparing is the physical act of getting something ready.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9bea9045-7f45-4fe2-9cad-dacebe3836b8.webp"
+        },
+        "Provision": {
+            "wordRoot": "Provision",
+            "wordDefinition": "Provision refers to the act of providing or supplying something to meet a need or demand. It involves ensuring that something is available when required.\n\nBoth preparation and provision are important in different situations. Preparation is applicable when planning for something that is yet to happen, while provision is applicable when dealing with a current or immediate need.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14a156dd-5317-4a4c-b0df-08994435d6c9.webp"
+        },
+        "Readiness": {
+            "wordRoot": "Readiness",
+            "wordDefinition": "Readiness refers to the state of being fully prepared and equipped to handle a particular situation or take on a specific task.\n\nFor example, a soldier being ready to go into battle is an example of readiness.\n\nPreparation is the process of getting ready, and readiness is the state of being ready. Preparation is applicable when planning and organizing, whereas readiness is applicable when executing a task or acting on a specific situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c1253209-6381-4224-b3a3-9c8aacff9e88.webp"
+        },
+        "Train": {
+            "wordRoot": "Train",
+            "wordDefinition": "Train refers to the act of teaching or instructing someone to do something. It involves providing guidance and practice so that someone can develop the skills and knowledge needed to perform a task or job.\n\nBoth preparation and train are important in different contexts. Preparation is important when you need to get ready for something, such as a test, presentation, or job interview.\n\nTrain is important when you need to learn a new skill or job, such as training for a new job, learning to play an instrument, or practicing a sport.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70a9fbd1-2eb5-4be8-bb2e-93de5ca24dd6.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Otherwise, the egg's escapade ends, and the window for pregnancy closes for that month. Meanwhile, the now empty follicle begins to release progesterone, another hormone that tells the womb's lining to plump up with blood and nutrients in preparation for a fertilized egg that may embed there and grow.",
+            "Title": "How menstruation works -...",
+            "VideoId": "ayzN5f3qN8g",
+            "Controls": "start=124"
+        },
+        {
+            "Text": " Two other times, I show up and help my team with the preparation and cleanup. And all those other nights, I just show up. I have dinner, talk with my neighbors, and I go home, having been fed a delicious meal by someone who cares about my vegetarian preferences.",
+            "Title": "How cohousing can make...",
+            "VideoId": "mguvTfAw4wk",
+            "Controls": "start=350"
+        },
+        {
+            "Text": " blood-pressure and breathing monitors, voice-stress analyzers, eye trackers, infrared brain scanners, and even the 400-pound electroencephalogram. But although such tools have worked under certain circumstances, most can be fooled with enough preparation,",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=30"
+        },
+        {
+            "Text": " Satyavan was her one true love, and their fates were entwined forever. Moved by her powerful words, the sage told the princess to follow an ancient spiritual regimen. With regular prayer, periods of fasting, and preparation of special herbs and plants,",
+            "Title": "Savitri and Satyavan:...",
+            "VideoId": "1vB0gFi8uow",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " As it grows and continues to release estrogen, this hormone not only helps coordinate growth and preparation of the uterus, it also communicates to the brain how well the follicle is developing. When the estrogen level is high enough,",
+            "Title": "How in vitro fertilizatio...",
+            "VideoId": "P27waC05Hdk",
+            "Controls": "start=72"
+        },
+        {
+            "Text": " polar bears are born the size of a squirrel, and weigh less than two pounds inside the den. So this little one has been building his strength, in preparation for the big, wild world, above ground.",
+            "Title": "The Life of a Baby Polar...",
+            "VideoId": "9vgnXRypc4o",
+            "Controls": "start=211"
+        },
+        {
+            "Text": " he has such a charisma strong presence and incredible deep chess preparation practically I've lost the game before even making a single move you may ask how is that possible right it's because",
+            "Title": "Giving checkmate is...",
+            "VideoId": "z-ttu7dyBCU",
+            "Controls": "start=380"
+        },
+        {
+            "Text": " The dinosaur embryos are so well preserved we can see they already have their teeth, in preparation for a lifetime of eating.",
+            "Title": "The Biggest Dinosaur...",
+            "VideoId": "3QUK8gN1oSY",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " the dinosaur embryos are so well preserved we can see they already have their teeth in preparation for a lifetime of eating",
+            "Title": "Ferocious Dinosaur...",
+            "VideoId": "ZzXGSFVbVvU",
+            "Controls": "start=1008"
+        },
+        {
+            "Text": " hb what are you doing she's actually digging a deep hole even deeper this is all really great preparation for",
+            "Title": "Making a Pangolin an...",
+            "VideoId": "FEdwYuTvkX8",
+            "Controls": "start=272"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/antonio-conte.webp",
+            "Text": "In Italy, you're in your comfort zone when it comes to language, lifestyle, your habits and preparations, and moving abroad is not easy. It's not easy to carry over your own ideas about football, your own methods. You have to get everything across in a different language, and that wastes a lot of energy.",
+            "Title": "Italian Coach",
+            "Name": "Antonio Conte"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franz-beckenbauer.webp",
+            "Text": "I kept my speeches short as captain. I focused on the key points of the opposition of the day. As coach, I was never afraid to give long speeches to the players throughout our preparations. It was important they had all the information possible.",
+            "Title": "German Athlete",
+            "Name": "Franz Beckenbauer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hermann-hesse.webp",
+            "Text": "Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.",
+            "Title": "German Novelist",
+            "Name": "Hermann Hesse"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arthur-ashe.webp",
+            "Text": "One important key to success is self-confidence. An important key to self-confidence is preparation.",
+            "Title": "American Tennis Player",
+            "Name": "Arthur Ashe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johnnie-cochran.webp",
+            "Text": "I'm a big believer in the fact that life is about preparation, preparation, preparation.",
+            "Title": "American Lawyer",
+            "Name": "Johnnie Cochran"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-dewey.webp",
+            "Text": "Education is not preparation for life; education is life itself.",
+            "Title": "American Philosopher",
+            "Name": "John Dewey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kinky-friedman.webp",
+            "Text": "A happy childhood... is the worst possible preparation for life.",
+            "Title": "American Singer",
+            "Name": "Kinky Friedman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-butler-yeats.webp",
+            "Text": "Life is a long preparation for something that never happens.",
+            "Title": "Irish Poet",
+            "Name": "William Butler Yeats"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/manuel-neuer.webp",
+            "Text": "Before important games, I don't change my preparation.",
+            "Title": "German Athlete",
+            "Name": "Manuel Neuer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/caris-levert.webp",
+            "Text": "Preparation is very important for me.",
+            "Title": "American Basketball Player",
+            "Name": "Caris LeVert"
+        }
+    ]
+}

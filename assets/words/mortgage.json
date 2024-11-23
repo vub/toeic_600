@@ -1,0 +1,256 @@
+{
+    "currentWord": {
+        "wordRoot": "mortgage",
+        "id": 18968,
+        "phonemic": "ˈmɔːɡɪdʒ|ˈmɔːrɡɪdʒ\r",
+        "bigId": "001fbecc-d2b2-44c4-8493-659c9a8c3089",
+        "wordForms": [
+            "mortgages",
+            "mortgaging",
+            "mortgaged",
+            "mortgage"
+        ]
+    },
+    "senses": [
+        {
+            "id": "001fbecc-d2b2-44c4-8493-659c9a8c3089",
+            "de": "A legal agreement where you borrow money from a bank or similar organization to buy a house, in which that organization could take your house if you do not make the payments back.",
+            "ty": "noun",
+            "ex": "They took out a $90,000 mortgage to buy the house.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "take out a mortgage",
+                " pay off a mortgage",
+                " mortgage payment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/001fbecc-d2b2-44c4-8493-659c9a8c3089.webp",
+            "Tips": [
+                {
+                    "title": "Financial Commitment",
+                    "description": "A mortgage is a long-term financial obligation, often 15 to 30 years.",
+                    "example": "Before taking out a mortgage, consider your ability to make long-term payments.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/guMtZmSLHxERFILgjoNWktuIva0.webp"
+                },
+                {
+                    "title": "Default Consequences",
+                    "description": "Failing to repay a mortgage can result in losing your home to the lender.",
+                    "example": "If they default on the mortgage, the bank may foreclose on their home.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0DcwfqubnBuVqN7Ui5u5V4w7DD4.webp"
+                },
+                {
+                    "title": "Cultural Significance",
+                    "description": "Owning a home with a mortgage is often linked with success and stability in many cultures.",
+                    "example": "Their goal was to have a mortgage by 30, as a sign of financial achievement.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Vzkzbvi5wMQFZN3829Yp4JIEKy4.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3ac4f049-7abf-43d2-997e-6d73fb67a1e5",
+            "de": "To give your property to a bank or similar organization as a way to get a loan, with the understanding that the property could be taken by that organization if the loan is not paid back.",
+            "ty": "verb",
+            "ex": "They had to mortgage their home to pay for the medical bills.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mortgage a house",
+                " mortgage a property",
+                " mortgage a home"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3ac4f049-7abf-43d2-997e-6d73fb67a1e5.webp",
+            "Tips": [
+                {
+                    "title": "Repayment Risk",
+                    "description": "If you can't repay a mortgaged loan, the lender can take your property.",
+                    "example": "They were careful to mortgage their home only when they were sure of repayment.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Leveraging Assets",
+                    "description": "Mortgaging can be a way to use your property's value to secure funds.",
+                    "example": "To start a business, they mortgaged their house for the necessary capital.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Legal Process",
+                    "description": "Mortgaging involves legal paperwork outlining the terms of the loan and collateral.",
+                    "example": "They consulted a lawyer to understand the terms before they mortgaged their property.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Charge": {
+            "wordRoot": "Charge",
+            "wordDefinition": "A charge is a form of security interest that is created to secure repayment of a debt. It is a legal claim over a specific asset of the borrower, such as shares, vehicles, or land.\n\nCharges are applied by lenders or creditors to protect their interests and ensure that they have a legal right to recover their money if the borrower defaults on payments.\n\nIn simpler terms, a charge is a type of lien on property that acts as collateral for a loan or debt.\n\nA mortgage is a specific type of charge that is created against a property as security for a loan to purchase the property.\n\nA charge is a legal claim over an asset that serves as collateral for a loan or debt, while a mortgage is a specific type of charge that is created against a property to secure a loan for the purchase of that property.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ce82455-58ee-4af7-8e72-5c206b8731ac.webp"
+        },
+        "Claim": {
+            "wordRoot": "Claim",
+            "wordDefinition": "Claim means to demand or assert ownership or a right to something.\n\nIt is typically used in situations where someone believes they are entitled to something, such as an insurance claim or a legal claim.\n\nClaim is used when someone is asserting ownership or a right, while mortgage is used when someone is borrowing money to purchase a property.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bbcde130-4870-4dbb-85c4-395ba3b23513.webp"
+        },
+        "Debt": {
+            "wordRoot": "Debt",
+            "wordDefinition": "Debt is money that you owe to someone or a company, and you have to pay it back. It could be from borrowing money for a car, a credit card, or other reasons.\n\nSo debt can refer to any kind of money that you owe.\n\nA mortgage is a specific type of debt that you take on to buy a house. It's money that you borrow from a bank or a lender to pay for the house, and you have to pay it back over many years.\n\nSo, in short, debt is a general term for money that you owe, while a mortgage is a specific type of debt that you take on to buy a house.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3dda4422-e4b7-4f1d-87ac-64f9e1084ca3.webp"
+        },
+        "Encumbrance": {
+            "wordRoot": "Encumbrance",
+            "wordDefinition": "An encumbrance is a legal claim or burden on a property, which may affect its value, use or transfer of ownership. It includes things like liens, easements, and restrictions that limit the owner's rights over the property.\n\nA mortgage is a specific type of encumbrance that refers to a loan taken to purchase a property. The mortgage serves as security for the repayment of the loan, and the lender has the right to foreclose on the property if the borrower defaults on the loan.\n\nIn simpler terms, an encumbrance is a general term that refers to any legal claim or burden that affects a property.\n\nA mortgage is a type of encumbrance that specifically refers to a loan taken to purchase a property.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/25ec20c6-4790-49b2-aace-c66ab2405549.webp"
+        },
+        "Lien": {
+            "wordRoot": "Lien",
+            "wordDefinition": "Mortgage and lien are both legal terms that refer to different things.\n\nA lien is a legal claim on a property that is used to secure a debt. It is similar to a mortgage in that it provides the creditor with a way to recover their money if the debtor cannot pay.\n\nHowever, a lien can be placed on property that is already owned by the debtor, and it does not necessarily involve a loan.\n\nSo, in short, a mortgage is a type of loan used to buy property, while a lien is a legal claim to property that is used to secure a debt.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62aa0ccf-931e-49a4-b2c1-57918e886645.webp"
+        },
+        "Loan": {
+            "wordRoot": "Loan",
+            "wordDefinition": "A loan is when someone borrows money from a lender with the promise of paying it back over time with interest. This money can be used for anything the borrower needs, such as buying a car or paying for college.\n\nA mortgage is a specific type of loan used to buy a house or other property. The borrower puts a down payment on the property and then pays back the rest of the money with interest over many years.\n\nThe property is used as collateral, which means that if the borrower doesn't pay back the loan, the lender can take possession of the property.\n\nA loan can be used for many different things, while a mortgage is specifically for buying property.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06849811-dace-48fa-a188-c5d97c7d62c0.webp"
+        },
+        "Pledge": {
+            "wordRoot": "Pledge",
+            "wordDefinition": "Pledge is a promise to give something as security for a loan, without actually transferring ownership. For example, if you borrow money from a pawn shop, you might pledge your watch as collateral.\n\nThe main difference between the words mortgage and pledge is that mortgage involves the transfer of ownership of a property, while pledge involves only the promise to give something as collateral.\n\nMortgage is applicable when purchasing a property, while pledge is applicable in a variety of situations where collateral is needed for a loan.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ddd6100c-c831-4593-abbd-8cb6ef833728.webp"
+        },
+        "Security": {
+            "wordRoot": "Security",
+            "wordDefinition": "A security is a financial instrument that represents ownership or debt.\n\nA mortgage is a loan used to buy a property, while a security is an investment that can be bought or sold for profit. Mortgages are applicable in the real estate market, while securities are applicable in the financial markets.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/390b93b2-84a0-49fd-a1d0-2400af6db763.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Imagine putting everything you have into your mortgage, it goes underwater, and you have to pay twice as much for all the driving that you're doing. So we know what it's done to our society and all the extra work we have to do to support our cars. What happens when a city decides",
+            "Title": "Jeff Speck: The walkable...",
+            "VideoId": "Wai4ub90stQ",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " patterns of the way the world works this is how you make money this is how you graduate school this is how you get a mortgage this is how you have kids I've got that on lockdown I know my car and I'm gonna go to work every day and I'm gonna check out all these things and",
+            "Title": "Life Lessons From a...",
+            "VideoId": "zUTL4Op56CM",
+            "Controls": "start=119"
+        },
+        {
+            "Text": " our home mortgage interest deduction that bribes Americans to leave urban apartments and move into suburban homes and most of all to rethink our urban school system that does so much to discourage parents from living in in urban areas thank you very much",
+            "Title": "It’s time to embrace our...",
+            "VideoId": "ILDwnzQNlGc",
+            "Controls": "start=894"
+        },
+        {
+            "Text": " second security third relationships fourth status self-esteem that is vanity and we're taking vanity and shoving it down here and so we end up with vain decisions and we can't even afford our mortgage we can't afford to eat anything except",
+            "Title": "Creative houses from...",
+            "VideoId": "owbfNJMumEs",
+            "Controls": "start=918"
+        },
+        {
+            "Text": " that I would invite you to consider as well. So if you need to move in with your brother to make ends meet, call him. If you need to take in a boarder to help you pay your mortgage or pay your rent, do it. If you need to get food stamps,",
+            "Title": "An honest look at the...",
+            "VideoId": "qxz68bDIHCw",
+            "Controls": "start=937"
+        },
+        {
+            "Text": " Medscape's public forum and several online doctors' communities had thousands of posts about this topic. Here are a few. From a gastroenterologist in \"I devoted 12 years of my life to being a slave. I have loans and mortgages.",
+            "Title": "Leana Wen: What your...",
+            "VideoId": "lVQ3KUTHDe0",
+            "Controls": "start=509"
+        },
+        {
+            "Text": " and to know who was trustworthy in the local community for paying back their mortgage. Well, the merchant bankers who brought the world to their knees may have been morally remiss, but they were cognitively very agile.",
+            "Title": "Why our IQ levels are...",
+            "VideoId": "9vpqilhW9uI",
+            "Controls": "start=592"
+        },
+        {
+            "Text": " and then, you all remember, there was weeks and weeks of revelations, everything from porn movies and bath plugs and new kitchens and mortgages that had never been paid off. The end result was six ministers resigned,",
+            "Title": "Heather Brooke: My...",
+            "VideoId": "sYUjyH8Y0No",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " to function in the world today, you've got to be pretty quantitative, much more so than a few years figure out your mortgages, being skeptical of government statistics, those kinds of things --",
+            "Title": "Conrad Wolfram: Teaching...",
+            "VideoId": "60OVlfAUPJg",
+            "Controls": "start=166"
+        },
+        {
+            "Text": " mortgage and that contains four million seeds even the slightest air currents will carry them hundreds of miles through the forest",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "eHQXBCJhuZ0",
+            "Controls": "start=109"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sophie-okonedo.webp",
+            "Text": "Sometimes I really need the money, really need to go straight to work. But if I had the absolute choice - money no object, my mortgage paid off - I'd really just work once or twice a year - but wouldn't everybody! - or at least do a different job sometimes.",
+            "Title": "British Actress",
+            "Name": "Sophie Okonedo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sallie-krawcheck.webp",
+            "Text": "First, pay off your high-interest-rate debt. If you have student loan debt - that's low interest rate; that has a tax benefit - you can leave that out. A mortgage can be an OK one. Credit card debt is poison. That needs to be paid off right away.",
+            "Title": "American Businesswoman",
+            "Name": "Sallie Krawcheck"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonny-lee-miller.webp",
+            "Text": "It sounds so incredibly selfish, but you just can't earn the same money doing theater as you can doing television and film. I know that's awful, but you get a mortgage and a family, and suddenly, paying that seems quite important.",
+            "Title": "British Actor",
+            "Name": "Jonny Lee Miller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-burghoff.webp",
+            "Text": "The richest people are those who have life arranged so they have food for the family and the rent or mortgage paid. After that, at least in my case, it can become a pretty boring existence if wealth is the only objective.",
+            "Title": "American Actor",
+            "Name": "Gary Burghoff"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-chatzky.webp",
+            "Text": "Debt certainly isn't always a bad thing. A mortgage can help you afford a home. Student loans can be a necessity in getting a good job. Both are investments worth making, and both come with fairly low interest rates.",
+            "Title": "American Journalist",
+            "Name": "Jean Chatzky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rory-mccann.webp",
+            "Text": "If I had a long-term partner, I don't think I'd be an actor. It'd be too much of a strain; you have to work too hard to balance that life with a family and a mortgage and all that stuff - it would be too much.",
+            "Title": "Scottish Actor",
+            "Name": "Rory McCann"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-karam.webp",
+            "Text": "Until I have a family or a mortgage, I'm trying to keep my lifestyle simple and my apartment affordable so that I can continue to focus on theater. That's as good as it gets for me.",
+            "Title": "American Playwright",
+            "Name": "Stephen Karam"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-frampton.webp",
+            "Text": "As long as I can have enough to make the record and pay the mortgage, those were always the two things that were most important to me.",
+            "Title": "English Musician",
+            "Name": "Peter Frampton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-mays.webp",
+            "Text": "The universe of mortgage lending has gotten to the point where there is a place in it for everybody.",
+            "Title": "American Athlete",
+            "Name": "Joe Mays"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-dee.webp",
+            "Text": "Whenever you're in any acting role you are mortgaging your own character.",
+            "Title": "British Comedian",
+            "Name": "Jack Dee"
+        }
+    ]
+}

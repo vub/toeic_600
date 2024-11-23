@@ -1,0 +1,318 @@
+{
+    "currentWord": {
+        "wordRoot": "market",
+        "id": 8540,
+        "phonemic": "ˈmɑːkɪt|ˈmɑːrkɪt\r",
+        "bigId": "547d9471-4ae4-4657-818f-2db36033c398",
+        "wordForms": [
+            "markets",
+            "marketing",
+            "marketed",
+            "marketer",
+            "marketers",
+            "market"
+        ]
+    },
+    "senses": [
+        {
+            "id": "547d9471-4ae4-4657-818f-2db36033c398",
+            "de": "A place where people buy and sell goods and services",
+            "ty": "noun",
+            "ex": "I usually buy my fresh produce from the farmer’s market on Sundays.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stock market",
+                " farmer's market",
+                " flea market"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/547d9471-4ae4-4657-818f-2db36033c398.webp",
+            "Tips": [
+                {
+                    "title": "Physical Space",
+                    "description": "Refers to a specific location where trading occurs, often outdoors or in a designated building.",
+                    "example": "Let's meet at the Christmas market in the square.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9NLy40GAfUCkc8IT7OskEapDM.webp"
+                },
+                {
+                    "title": "Variety of Goods",
+                    "description": "Can indicate the types of items offered, from food and clothes to antiques and crafts.",
+                    "example": "You'll find handmade jewelry at the craft market.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/VE6LbejVvxEIoIiwNS52BasMV4M.webp"
+                },
+                {
+                    "title": "Regular Events",
+                    "description": "Some markets, like farmer's markets, occur weekly or seasonally.",
+                    "example": "The farmer's market sets up every Thursday.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/eAapG2zBIz6IOYat65KxNZgGu4.webp"
+                }
+            ]
+        },
+        {
+            "id": "19b24452-b6a0-4a51-b960-e4cf73dc1a9d",
+            "de": "The total number of people who might want to buy something",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "We're researching the market for electric vehicles in the United States.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "target market",
+                " niche market",
+                " market segment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/19b24452-b6a0-4a51-b960-e4cf73dc1a9d.webp",
+            "Tips": [
+                {
+                    "title": "Potential Buyers",
+                    "description": "Not everyone, but those who are interested and can afford the product or service.",
+                    "example": "Our market is parents looking for educational toys.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Market Research",
+                    "description": "Understanding the market helps tailor products to consumer needs and preferences.",
+                    "example": "Their market research revealed a demand for organic skincare.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specific Interest",
+                    "description": "The market may focus on a special interest or hobby, such as vintage cars.",
+                    "example": "We found a niche market with our vegan baking supplies.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "815c6dc2-eb1b-4299-a157-b1a65b4aadc8",
+            "de": "To try to sell a product by advertising or other methods",
+            "do": "Business",
+            "ty": "verb",
+            "ex": "They've hired a new agency to market their products.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "market a product",
+                " market a service",
+                " market a brand"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/815c6dc2-eb1b-4299-a157-b1a65b4aadc8.webp",
+            "Tips": [
+                {
+                    "title": "Marketing Methods",
+                    "description": "Marketing can include different strategies like advertisements, social media, and public relations.",
+                    "example": "We need to market our app through influencers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Branding Strategy",
+                    "description": "Marketing involves creating a unique image and identity for a product or service.",
+                    "example": "Our team decided to market the brand as eco-friendly.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d87af7f3-c365-4b26-a012-c95c3abdbf56",
+            "de": "The demand for a particular product or service",
+            "do": "Economics",
+            "ty": "noun",
+            "ex": "There's a big market for luxury cars among the country's wealthy elites.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "labour market",
+                " housing market",
+                " stock market"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d87af7f3-c365-4b26-a012-c95c3abdbf56.webp",
+            "Tips": [
+                {
+                    "title": "Supply vs Demand",
+                    "description": "The market is affected by how much of a product is available versus how much people want it.",
+                    "example": "The housing market is hot because demand exceeds supply.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Economic Indicator",
+                    "description": "Reflects the health of an economy, such as a strong job market indicating growth.",
+                    "example": "A bullish stock market usually means the economy is doing well.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Auction": {
+            "wordRoot": "Auction",
+            "wordDefinition": "An auction is a process of selling goods or services to the highest bidder.\n\nAuctions are typically used for unique or antique items, where the value of the item is subjective and difficult to determine.\n\nAn auction is a specific type of sale where people bid on unique items, while a market is a general term for any place where goods or services are bought and sold.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3348f30f-02c5-4f90-8c8a-0e8c0afda680.webp"
+        },
+        "Bazaar": {
+            "wordRoot": "Bazaar",
+            "wordDefinition": "Bazaar and market are both terms that refer to places where people go to buy and sell goods.\n\nA bazaar typically refers to an outdoor market in a Middle Eastern or Asian country, where vendors sell a variety of goods, such as clothing, jewelry, spices, and food.\n\nBazaars are known for being lively, colorful, and full of energy.\n\nIn summary, while both terms refer to places where goods are sold, a bazaar is an outdoor market in a specific region of the world, while a market can refer to any place where buying and selling occurs.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ff3e4b10-2f52-4a4d-a3fe-8be2950ca271.webp"
+        },
+        "Emporium": {
+            "wordRoot": "Emporium",
+            "wordDefinition": "Emporium is typically a large store or marketplace, often selling luxury or high-end goods. It is a more formal and upscale version of a market, with a focus on quality over quantity.\n\nEmporiums are usually found in urban or tourist areas, and they offer a more curated and exclusive shopping experience.\n\nThe main difference between the two is that emporiums are more exclusive and high-end, while markets are more widely accessible and varied.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ce2a1da-17eb-420b-9742-02613cda25b7.webp"
+        },
+        "Exchange": {
+            "wordRoot": "Exchange",
+            "wordDefinition": "An exchange is a place where different things are traded or swapped, like money for goods or stocks for cash.\n\nFor example, a stock exchange is where stocks are bought and sold by investors. A stock market refers to the entire system of investors, brokers, companies, and other factors that influence the pricing and trading of stocks.\n\nAn exchange is a specific place or platform for exchanging goods, while a market is a broader term that refers to the forces that facilitate these transactions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e99727f-5e15-46be-b642-e663786b5987.webp"
+        },
+        "Fair": {
+            "wordRoot": "Fair",
+            "wordDefinition": "Fair refers to something that is just and equitable, meaning it is unbiased and reasonable.\n\nIt can refer to a situation that is fair to everyone involved.\n\nFair can be applicable in many situations, such as in the distribution of resources or opportunities, where everyone is treated equally and without discrimination.\n\nFair is about fairness and justice, while market is about buying and selling in an economic system.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74354f57-c96e-4d39-bf18-0d45703e089d.webp"
+        },
+        "Marketplace": {
+            "wordRoot": "Marketplace",
+            "wordDefinition": "A market is a physical or virtual place where goods and services are bought and sold, whereas a marketplace is a physical or virtual space where vendors sell goods or services to customers.\n\nIn other words, a market refers to the overall concept of buying and selling goods or services, while a marketplace is a specific location or platform where individuals or businesses come together to buy and sell.\n\nFor example, a grocery store is a physical market where customers can buy food products. But the online store Amazon is a virtual marketplace that connects buyers and sellers from all over the world.\n\nMarket is a broader term that encompasses various types of buying and selling, while a marketplace is a specific setting for commerce.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e576cf91-1c12-45fd-9481-f5f53d168b14.webp"
+        },
+        "Mart": {
+            "wordRoot": "Mart",
+            "wordDefinition": "Mart is a more specific term that usually refers to a large store that sells a variety of goods, similar to a department store.\n\nMarket is a broader term that can apply to various places where goods and services are exchanged, while mart is a more specific term that usually refers to a large store selling a variety of goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cfcb4ad3-8631-4d4d-8b6c-dc749ded22d5.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Soon it was popping up in markets all over the world and is now a delicacy. Unfortunately, these deep water fish don't reproduce until they're at least ten years old, making them extremely vulnerable to overfishing when the young are caught before they've had the chance to spawn. Consumer taste and prices can also have harmful effects.",
+            "Title": "Will the ocean ever run...",
+            "VideoId": "WNdR808jMSA",
+            "Controls": "start=98"
+        },
+        {
+            "Text": " by whichever measure -- PPP, market exchange rates -- the largest economy in the world over the course of the decade ahead. They're already the largest trading nation, already the largest exporting nation, already the largest manufacturing nation, and they're also the biggest emitters of carbon in the world.",
+            "Title": "Are China and the US...",
+            "VideoId": "8XQ1onjXJK0",
+            "Controls": "start=108"
+        },
+        {
+            "Text": " Like, each person that I encountered in that market place, and like it was really genuine. And this spirit really went through all the people we met, all the regions. There seems to be the mix of pride and welcome that felt truly special as a traveler. People have gone out of their way to help me understand,",
+            "Title": "New Zealand's Stunning...",
+            "VideoId": "1Evj5XMTWEo",
+            "Controls": "start=147"
+        },
+        {
+            "Text": " bottom line bulk electricity storage and fossil fuel backup are the costliest ways to make the grid more flexible so we would use them last not first a breakthrough in cheap bulk storage would be helpful but not vital we needn't wait for it and the market isn't waiting only the myth holds us back thank you",
+            "Title": "Why modern renewable...",
+            "VideoId": "Oo8iEL6SqgI",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " It's vital that the crabs have the best possible protection from the heavy teeth of the waiting sharks and rays. For that, they need the shell with a perfect fit. Today, there is new real estate on offer and competition in this housing market is fierce.",
+            "Title": "Giant Horse Conch &...",
+            "VideoId": "P_hBp1sEwfs",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " but later as a less expensive option. And while today's mass produced cover illustrations are marketing tools, the cover designs of early books were made to order. Even spines have a history. Initially, they were not considered aesthetically important,",
+            "Title": "The evolution of the...",
+            "VideoId": "_YqYtdPUis4",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " and it's often used in marketing and negotiations to raise the prices that people are willing to pay. So, if heuristics lead to all these wrong decisions, why do we even have them? Well, because they can be quite effective. For most of human history,",
+            "Title": "The psychology behind...",
+            "VideoId": "V2EMuoM5IX4",
+            "Controls": "start=202"
+        },
+        {
+            "Text": " Not all diet crazes tout weight loss. What about claims of superfoods, cleanses, and other body-boosting solutions? Marketing emphasizes the allure of products associated with ancient and remote cultures to create a sense of mysticism for consumers.",
+            "Title": "How to spot a fad diet -...",
+            "VideoId": "8V15Z-yyiVg",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " as a marketing technique. It's tempting to think of this as a sign of us being stuck in the past, but that's not really how nostalgia works. Instead, nostalgia helps us remember that our lives can have meaning and value,",
+            "Title": "Why do we feel...",
+            "VideoId": "WiTgn5QH_HU",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " Rather than providing definite conclusions for business and sales, focus groups would be used for exploratory research, generating new ideas for products and marketing based on deeper understanding of consumer habits.",
+            "Title": "How do focus groups...",
+            "VideoId": "3TwgVQIZPsw",
+            "Controls": "start=91"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alain-ducasse.webp",
+            "Text": "I'm in love with the markets of the world. It's a photograph of a city, a culture.",
+            "Title": "French Chef",
+            "Name": "Alain Ducasse"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alessandro-michele.webp",
+            "Text": "I don't feel the pressure of the market - otherwise, I wouldn't be able to work.",
+            "Title": "Italian Designer",
+            "Name": "Alessandro Michele"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giorgio-armani.webp",
+            "Text": "Marketing is not a nice word, but the world is about marketing now.",
+            "Title": "Italian Designer",
+            "Name": "Giorgio Armani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-baena.webp",
+            "Text": "It's so rare when marketing and press doesn't ruin your movie.",
+            "Title": "American Director",
+            "Name": "Jeff Baena"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/trent-franks.webp",
+            "Text": "If we can employ free market principles, we can help everyone.",
+            "Title": "American Politician",
+            "Name": "Trent Franks"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edgar-guest.webp",
+            "Text": "I take the family shopping round. The markets of the world.",
+            "Title": "American Poet",
+            "Name": "Edgar Guest"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robyn.webp",
+            "Text": "The marketing is just as important as the music, almost.",
+            "Title": "Swedish Musician",
+            "Name": "Robyn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rene-rivkin.webp",
+            "Text": "I love the market, it is my work, my play and my life.",
+            "Title": "Australian Businessman",
+            "Name": "Rene Rivkin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-rohn.webp",
+            "Text": "We get paid for bringing value to the market place.",
+            "Title": "American Businessman",
+            "Name": "Jim Rohn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-santelli.webp",
+            "Text": "At the end of the day, the markets are my passion.",
+            "Title": "American Journalist",
+            "Name": "Rick Santelli"
+        }
+    ]
+}

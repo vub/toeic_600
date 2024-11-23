@@ -1,0 +1,380 @@
+{
+    "currentWord": {
+        "wordRoot": "bear",
+        "id": 14760,
+        "phonemic": "beə(r)|ber\r",
+        "bigId": "74627720-6298-4396-9373-2d88d4ad4fd8",
+        "wordForms": [
+            "bears",
+            "bearing",
+            "bore",
+            "borne",
+            "bearer",
+            "bearings",
+            "bearers",
+            "bear"
+        ]
+    },
+    "senses": [
+        {
+            "id": "74627720-6298-4396-9373-2d88d4ad4fd8",
+            "de": "To carry or bring along",
+            "ty": "verb",
+            "ex": "She always bears a smile on her face.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bear a child",
+                " bear a grudge",
+                " bear gifts"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/74627720-6298-4396-9373-2d88d4ad4fd8.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Bearing",
+                    "description": "Using 'bear' to convey supportive or positive actions, often emotionally charged.",
+                    "example": "He bore her sorrows with great care.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gw7UdoiDES0reFrm6AGv39DrRs.webp"
+                },
+                {
+                    "title": "Physical Objects",
+                    "description": "'Bear' can refer to physically carrying items, not just abstract concepts.",
+                    "example": "She bore the basket on her head.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/42mqtMLgFZMlha03QhHglry2I.webp"
+                }
+            ]
+        },
+        {
+            "id": "a7089d7c-2e7f-43a4-908b-62acd7ebd586",
+            "de": "To tolerate or endure",
+            "ty": "verb",
+            "ex": "He could not bear the pain anymore.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "bear the pain",
+                " bear the brunt",
+                " bear the burden"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a7089d7c-2e7f-43a4-908b-62acd7ebd586.webp",
+            "Tips": [
+                {
+                    "title": "Negative Endurance",
+                    "description": "Often used to express endurance of negative experiences or feelings.",
+                    "example": "I can barely bear the cold winters here.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "acc3b9cb-3f65-4ec8-a19a-8dbdda754ead",
+            "de": "A large mammal",
+            "ty": "noun",
+            "ex": "I saw a bear in the forest.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "grizzly bear",
+                " polar bear",
+                " bear cub"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/acc3b9cb-3f65-4ec8-a19a-8dbdda754ead.webp",
+            "Tips": [
+                {
+                    "title": "Physical Representation",
+                    "description": "It implies having a visible mark or characteristic that is notable or significant.",
+                    "example": "The ancient coin bore the king's insignia.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Family Resemblance",
+                    "description": "Often used when discussing similarities in appearance or behavior between relatives.",
+                    "example": "She bears a strong resemblance to her grandmother.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a9811da7-4dc8-4cd6-ad57-a5475dddd398",
+            "de": "To have as a characteristic or feature",
+            "ty": "verb",
+            "ex": "The letter bears his signature.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bear resemblance",
+                " bear a signature",
+                " bear witness"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a9811da7-4dc8-4cd6-ad57-a5475dddd398.webp",
+            "Tips": [
+                {
+                    "title": "Evidence and Proof",
+                    "description": "Can imply providing evidence for something or witnessing an event.",
+                    "example": "This document bears evidence of his involvement.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e46161a9-ef6c-487b-97b0-0e7fdcc44b2a",
+            "de": "To produce or yield especially by natural growth",
+            "ty": "verb",
+            "ex": "The tree bears fruit every summer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bear fruit",
+                " bear flowers",
+                " bear leaves"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e46161a9-ef6c-487b-97b0-0e7fdcc44b2a.webp",
+            "Tips": [
+                {
+                    "title": "Natural Processes",
+                    "description": "Often used to describe natural processes, referring to plants or trees producing fruit.",
+                    "example": "Our garden bears tomatoes and cucumbers every year.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "786b7c8e-dc1b-44c2-9e9d-40fbb30734e1",
+            "de": "To be responsible for",
+            "ty": "verb",
+            "ex": "He bears the responsibility for the accident.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "bear responsibility",
+                " bear the blame",
+                " bear the cost"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/786b7c8e-dc1b-44c2-9e9d-40fbb30734e1.webp",
+            "Tips": [
+                {
+                    "title": "Moral Accountability",
+                    "description": "Implies moral or ethical responsibility for actions or decisions.",
+                    "example": "The CEO bears the blame for the company's failure.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b0e77b31-2dd0-47c7-9f47-57c4be65448b",
+            "de": "Person who sells shares hoping price will fall",
+            "do": "Finance",
+            "ty": "noun",
+            "ex": "He's a bear when it comes to the stock market.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bear market",
+                " bear trend",
+                " bear position"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b0e77b31-2dd0-47c7-9f47-57c4be65448b.webp",
+            "Tips": [
+                {
+                    "title": "Investment Trends",
+                    "description": "Used in finance to describe a negative outlook or a decline in the market.",
+                    "example": "Investors fear we're entering a bear market.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Strategic Pessimism",
+                    "description": "Can refer to someone who strategically expects lower prices to profit.",
+                    "example": "Bob's a bear; he profits when stocks fall.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Abide": {
+            "wordRoot": "Abide",
+            "wordDefinition": "Abide means to accept, follow or obey something, to stay or live somewhere, or to tolerate something or someone.\n\nFor example: \"I will abide by the rules of the game\" or \"I can't abide the noise in this city anymore.\"\n\nAbide is used when we talk about following rules or living in a place, while bear is used when we talk about enduring difficulties or carrying weights.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f6b991c7-3ee8-40bf-a6a7-4c18ce9bdfd2.webp"
+        },
+        "Carry": {
+            "wordRoot": "Carry",
+            "wordDefinition": "Carry means to transport or hold something while moving from one place to another. For example, \"I can carry the load of books from the library to my home.\".\n\nBear implies more physical strain and endurance, while carry implies more movement from place to place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f1fc64ba-4c77-4c53-9147-59cb31259f23.webp"
+        },
+        "Confront": {
+            "wordRoot": "Confront",
+            "wordDefinition": "Confront means to face a problem directly and try to solve it. For instance, if you have a problem with someone, you confront them by talking to them and trying to find a solution.\n\nBear means to tolerate, while confront means to face and solve a problem.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0e652407-fb56-4d58-92c8-3cd871cbec99.webp"
+        },
+        "Endure": {
+            "wordRoot": "Endure",
+            "wordDefinition": "It can also mean to tolerate or endure a difficult or unpleasant situation. For example, \"I can't bear the thought of losing you\" means I can't handle the idea of losing you.\n\nEndure means to suffer or experience something difficult for a long time without giving up. For example, \"I endured a lot of pain during my recovery from surgery\" means I suffered through a lot of pain during my recovery.\n\nBear is typically used to describe carrying a burden or tolerating a difficult situation, while endure describes suffering through something for a long time without giving up.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/40ebae8f-7454-4294-90a5-7609b5ce23c3.webp"
+        },
+        "Support": {
+            "wordRoot": "Support",
+            "wordDefinition": "Support means to help something or someone by providing assistance, encouragement or backing. For example, you may support a friend who is going through a tough time or support a political candidate you believe in.\n\nBear is about carrying something while support is about helping something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f630745-f3a5-4454-92eb-c75d98a5f411.webp"
+        },
+        "Sustain": {
+            "wordRoot": "Sustain",
+            "wordDefinition": "Sustain means to support or keep something going. For example, a company can sustain its growth by continuing to innovate, or a person can sustain their health by eating a balanced diet and exercising regularly.\n\nBear is applicable when referring to enduring or tolerating something, while sustain is applicable when referring to supporting or maintaining something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/daac1394-d0f1-429d-8c42-f41773b09132.webp"
+        },
+        "Tolerate": {
+            "wordRoot": "Tolerate",
+            "wordDefinition": "Tolerate means to allow or permit something to happen or exist without interference. It means putting up with something or someone you may not agree with.\n\nFor example: \"I tolerate my little brother's messy room.\"\n\nBear is more focused on enduring something difficult, while tolerate is about accepting something you may not necessarily like.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/151195fc-fb6c-4d62-aa07-86c60f809aab.webp"
+        },
+        "Withstand": {
+            "wordRoot": "Withstand",
+            "wordDefinition": "Withstand means to resist, oppose, or endure something that is harmful or challenging. For example, if a building can withstand an earthquake, it means it is strong enough to resist the shaking and not collapse.\n\nBear is more about enduring something that is uncomfortable or unpleasant, while withstand is about resisting something that is potentially harmful or dangerous.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/85e489e9-1c35-442c-abe6-152c8f7d168e.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Whether it's an anxiety-filled night of being chased through the woods by a bear or fighting off a ninja in a dark alley, these dreams allow you to practice your fight or flight instincts and keep them sharp and dependable in case you'll need them in real life. But it doesn't always have to be unpleasant.",
+            "Title": "Why do we dream? - Amy...",
+            "VideoId": "2W85Dwxx218",
+            "Controls": "start=205"
+        },
+        {
+            "Text": " where we ended up watching helplessly from the water as bears ravaged our camp site. They walked off with our food and bits of our tent, clearly letting us know that we were at the bottom of the food chain and that this was their spot, not ours. But to me, that trip",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=372"
+        },
+        {
+            "Text": " polar bear life no one appreciates this more than scientist malcolm ramsey in the summertime when we're working it's at the time the bears are just coming on shore and we've caught individual bears probably on the day",
+            "Title": "Best Polar Bear Moments...",
+            "VideoId": "_7gga4Z_d4U",
+            "Controls": "start=440"
+        },
+        {
+            "Text": " only the biggest bears have the energy reserves to fight after a summer without food the bear systems are in no gear these aerobics help warm them up in readiness for the winter hunting ahead",
+            "Title": "A Collection Of Autumn...",
+            "VideoId": "B4f7qAdddvg",
+            "Controls": "start=236"
+        },
+        {
+            "Text": " Cold War alive and well not coincidentally life liberty and the pursuit of happiness the only three things for which we will bear any burden and pay any price and fight forever to",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=297"
+        },
+        {
+            "Text": " Anything that the bear eats, especially fruits, The seeds that the bear is moving from one tree to the other, it's helping to disperse through the forest.",
+            "Title": "How Can Bees Save Bears?...",
+            "VideoId": "8tyasmWo3dM",
+            "Controls": "start=51"
+        },
+        {
+            "Text": " But this can't go on forever. As summer continues, temperatures are rising. Each hunt requires more energy draining the bears of their reserves.",
+            "Title": "Hungry Polar Bear...",
+            "VideoId": "zNO0kxTClYo",
+            "Controls": "start=195"
+        },
+        {
+            "Text": " But this can't go on forever. As summer continues, temperatures are rising. Each hunt requires more energy draining the bears of their reserves.",
+            "Title": "The Most Dramatic...",
+            "VideoId": "1z0bhcTHOMQ",
+            "Controls": "start=1618"
+        },
+        {
+            "Text": " only imagine the horrific damage brown bears inflict in an attack without this cage to protect me I'd stand no chance",
+            "Title": "Brown Bear Attack PIPE...",
+            "VideoId": "0ThZ8dc2B8E",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " They need to take the bear as deep into the mountain wilderness as possible.",
+            "Title": "Honey-Trapping Bears PIPE...",
+            "VideoId": "HTcIzJ_YZZU",
+            "Controls": "start=175"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/douglas-macarthur.webp",
+            "Text": "The soldier above all others prays for peace, for it is the soldier who must suffer and bear the deepest wounds and scars of war.",
+            "Title": "American General",
+            "Name": "Douglas MacArthur"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-nietzsche.webp",
+            "Text": "Is life not a thousand times too short for us to bore ourselves?",
+            "Title": "German Philosopher",
+            "Name": "Friedrich Nietzsche"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jacqueline-fernandez.webp",
+            "Text": "The most important thing is that you don't bore the audience.",
+            "Title": "Actress",
+            "Name": "Jacqueline Fernandez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/akshaye-khanna.webp",
+            "Text": "Even in my personal life, I can't bear to have bad feelings.",
+            "Title": "Indian Actor",
+            "Name": "Akshaye Khanna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mohamed-elbaradei.webp",
+            "Text": "I cannot bear the responsibility for one drop of blood.",
+            "Title": "Egyptian Scientist",
+            "Name": "Mohamed ElBaradei"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elvis-presley.webp",
+            "Text": "I hope I didn't bore you too much with my life story.",
+            "Title": "American Singer",
+            "Name": "Elvis Presley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-pesci.webp",
+            "Text": "I'm a bore. I save all my energy for my characters.",
+            "Title": "American Actor",
+            "Name": "Joe Pesci"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/herta-muller.webp",
+            "Text": "I write in order to bear witness to life.",
+            "Title": "German Novelist",
+            "Name": "Herta Muller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/baltasar-gracian.webp",
+            "Text": "Without courage, wisdom bears no fruit.",
+            "Title": "Spanish Philosopher",
+            "Name": "Baltasar Gracian"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-shakespeare.webp",
+            "Text": "I bear a charmed life.",
+            "Title": "English Playwright",
+            "Name": "William Shakespeare"
+        }
+    ]
+}

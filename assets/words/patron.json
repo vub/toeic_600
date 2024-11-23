@@ -1,0 +1,311 @@
+{
+    "currentWord": {
+        "wordRoot": "patron",
+        "id": 16316,
+        "phonemic": "ˈpeɪtrən|ˈpeɪtrən\r",
+        "bigId": "c700fda0-4417-4305-b514-dc36fea86229",
+        "wordForms": [
+            "patrons",
+            "patron"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c700fda0-4417-4305-b514-dc36fea86229",
+            "de": "A person who gives financial or other support to a person, organization, cause, or activity.",
+            "ty": "noun",
+            "ex": "He is a well-known patron of the arts.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "patron of the arts",
+                " patron of a charity",
+                " patron of a cause"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c700fda0-4417-4305-b514-dc36fea86229.webp",
+            "Tips": [
+                {
+                    "title": "Cultural Support",
+                    "description": "Used for someone who upholds the arts or charitable causes through financial help or influence.",
+                    "example": "Thanks to the patron, the exhibition was a success.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZZCcZTv451VrEmtPs6FFuQPLF4.webp"
+                },
+                {
+                    "title": "Honorific Title",
+                    "description": "Often a term of respect, implying the person's generosity or contribution is well-recognized.",
+                    "example": "She was named patron of the new art gallery.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vhoFu2syXpccTGpekgIXnrT7cOc.webp"
+                },
+                {
+                    "title": "Not Always Fiscal",
+                    "description": "Support can be in forms other than money, such as advice or presence at events.",
+                    "example": "His role as a patron involved advising young artists.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZfQA1sLfuyjx9EBiidmuPMDpiw.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f9e6deb1-7a44-4594-bb21-d177e7ffb85e",
+            "de": "A regular customer of a store or business, especially a restaurant or bar.",
+            "ty": "noun",
+            "ex": "The pub was filled with its regular patrons.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "regular patron",
+                " patron of a restaurant",
+                " patron of a bar"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f9e6deb1-7a44-4594-bb21-d177e7ffb85e.webp",
+            "Tips": [
+                {
+                    "title": "Business Loyalty",
+                    "description": "Emphasizes consistent support to a particular business, indicating loyalty and habit.",
+                    "example": "Being a patron for years, he knew the menu by heart.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sense of Community",
+                    "description": "Can suggest a personal connection to the place, a sense of belonging.",
+                    "example": "Local patrons are the heart of our café.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "491f8f39-14e3-4225-951c-4c54134903ac",
+            "de": "A person who protects or guides a smaller or less experienced person.",
+            "ty": "noun",
+            "ex": "A teacher can be seen as a patron for their students.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "patron of students",
+                " patron of a group",
+                " patron in a relationship"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/491f8f39-14e3-4225-951c-4c54134903ac.webp",
+            "Tips": [
+                {
+                    "title": "Guidance Not Control",
+                    "description": "Indicates a protective figure who advises, but doesn't control the less experienced person.",
+                    "example": "As a patron, he helped me navigate my first job.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Support",
+                    "description": "Can also offer encouragement and moral support in addition to guidance.",
+                    "example": "Her mentor was also her patron during tough times.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "368263da-b0b6-4c2b-9f12-7d15da8af4ad",
+            "de": "In the Catholic Church, a saint who is believed to give special help to a particular place or type of person.",
+            "do": "Religious",
+            "ty": "noun",
+            "ex": "Saint Patrick is the patron saint of Ireland.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "patron saint of a country",
+                " patron saint of a profession",
+                " patron saint of a cause"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/368263da-b0b6-4c2b-9f12-7d15da8af4ad.webp",
+            "Tips": [
+                {
+                    "title": "Religious Guardian",
+                    "description": "Reflects a spiritual protector linked to specific groups or causes.",
+                    "example": "Saint Christopher is the patron saint of travelers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Historic Connections",
+                    "description": "Often pertains to a historical context or long-standing tradition in Catholic communities.",
+                    "example": "Each year, they celebrate their patron saint with a parade.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Advocate": {
+            "wordRoot": "Advocate",
+            "wordDefinition": "Advocate means a person who supports or speaks in favor of something or someone. For example, a lawyer can be an advocate for their client in court.\n\nAn advocate speaks up for something or someone, while a patron supports them financially or with their influence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1b238f3d-1a20-4fa7-8cd3-6164ca47eb08.webp"
+        },
+        "Backer": {
+            "wordRoot": "Backer",
+            "wordDefinition": "A backer is someone who supports a particular project or idea financially or with their influence. They may invest money in a business or help fund a creative project.\n\nSo, while both backer and patron involve providing financial support, a backer tends to support commercial or entrepreneurial projects, while a patron supports artistic or cultural endeavors.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/842cc580-f33d-450b-8c1d-1f55b77f4e08.webp"
+        },
+        "Benefactor": {
+            "wordRoot": "Benefactor",
+            "wordDefinition": "A benefactor is someone who provides help or assistance to others, often in the form of money or resources. For example, a person who donates money to a charity is a benefactor.\n\nBoth words refer to people who provide financial support, but benefactors tend to be more focused on helping those in need, while patrons tend to focus on supporting a particular artistic or cultural institution.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62125dd3-923e-400a-82de-6eda6c2d72b4.webp"
+        },
+        "Contributor": {
+            "wordRoot": "Contributor",
+            "wordDefinition": "A contributor is someone who gives money, time, or effort towards a cause or project. They are typically viewed as a supporter or helper, rather than someone who is financially invested in the cause or project.\n\nFor example, someone who volunteers at a homeless shelter or donates a small sum of money to a charity can be considered a contributor.\n\nIn simpler terms, a contributor is someone who helps out, while a patron is someone who provides financial support for a specific cause, often in the arts or culture.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bf9cca3c-810a-4c1f-8afa-d9925b421f30.webp"
+        },
+        "Donor": {
+            "wordRoot": "Donor",
+            "wordDefinition": "A donor is someone who gives money or donates something to a cause or organization. They typically make a one-time or occasional contribution.\n\nThey provide ongoing support to help the person continue their work. Donors are applicable in charity and fundraising while patrons are applicable in the arts and cultural world.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5451802a-33b5-4650-9a46-a49dfdb17d1a.webp"
+        },
+        "Protector": {
+            "wordRoot": "Protector",
+            "wordDefinition": "A protector is someone who ensures the safety and well-being of another person or group. For example, a bodyguard can be called a protector of their client.\n\nA patron provides financial support, while a protector provides physical safety.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eeff704c-f167-4e1a-9df2-7c267b8bd3b3.webp"
+        },
+        "Sponsor": {
+            "wordRoot": "Sponsor",
+            "wordDefinition": "Both the words patron and sponsor imply support, but they are used in different contexts.\n\nA sponsor is a person or company that supports an event, team, or individual with financial aid, exposure, or promotional backing.\n\nSponsors support sports teams, cultural events, concerts, and other similar events. They receive recognition and exposure through the sponsored event.\n\nA patron supports artists or a charitable organization, whereas a sponsor supports events, teams or an individual.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9f8ca4db-b08e-40bc-b785-ec6162f8e2c0.webp"
+        },
+        "Supporter": {
+            "wordRoot": "Supporter",
+            "wordDefinition": "A supporter is someone who helps a cause or an idea, without necessarily giving money. They may volunteer their time or advocate on behalf of the cause.\n\nBoth terms are applicable in different contexts, but a patron is typically associated with financial support of the arts, while a supporter can help any organization or cause.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eb62ed0d-2f8e-40fc-8d4d-af9a04c8d378.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " leaving nothing but pyramids of skulls in his wake. Timur may have been illiterate, but he was also an active patron of culture and the arts. During his conquests, he spared artisans and scholars, sending them to work on public projects like schools and mosques. Unlike many women in the world at the time,",
+            "Title": "History vs. Tamerlane...",
+            "VideoId": "0yL102ubTiw",
+            "Controls": "start=219"
+        },
+        {
+            "Text": " where the thing gets glued, the registration marks for the ink. I just love boxes. My grandfather was the guy who kind of got me into all sorts of these things. He would also supply me with tools. He was this amazing encourager -- this patron, sort of, to make stuff.",
+            "Title": "The mystery box PIPE JJ...",
+            "VideoId": "vpjVgF5JDq8",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " he described the clouds as the patron godesses of idle fellows two and a half thousand years ago, and you can see what he means. It's just that these days, us adults seem reluctant to allow ourselves the indulgence of just allowing our imaginations",
+            "Title": "Gavin Pretor-Pinney:...",
+            "VideoId": "lhP52caGW6s",
+            "Controls": "start=111"
+        },
+        {
+            "Text": " might just raise an incense stick to the God in the far left corner of the room what the locals don't tell you is that this is the God of War and one of his jobs is patron deity of the Triads I like to walk this route when I'm in Hong",
+            "Title": "Singing from the...",
+            "VideoId": "0W8cGtJQ4fY",
+            "Controls": "start=407"
+        },
+        {
+            "Text": " of his diverse and rowdy audience. The Globe welcomed all sections of society. Wealthier patrons watched the stage from covered balconies while poorer people paid a penny to take in the show from an open-air section called the pit.",
+            "Title": "Why should you read...",
+            "VideoId": "rD5goS69LT4",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " but fall slowly under the influence of gravity. Some of them stay aloft due to upward convection from the sun-heated ground, but most are in a state of slow, balletic descent. \"Clouds are the patron goddesses of idle fellows,\"",
+            "Title": "How did clouds get their...",
+            "VideoId": "UuW1jhxCgx0",
+            "Controls": "start=254"
+        },
+        {
+            "Text": " but his powerful patrons managed to have his sentence revoked. Some scholars have suggested that Artemisia started the painting while the trial was still underway. Many have debated whether the rape influenced her work.",
+            "Title": "Artemisia Gentileschi:...",
+            "VideoId": "v7Xl6a4J7Wk",
+            "Controls": "start=238"
+        },
+        {
+            "Text": " than collective production. A few brave painters, who for many centuries, had been paid by the square foot, successfully petitioned their patrons to pay them on the basis of merit instead. Within a single generation,",
+            "Title": "Is there a difference...",
+            "VideoId": "tVdw60eCnJI",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " Each city was dedicated to a patron deity, considered the city’s founder. The largest and most important building in the city was this patron god’s the ziggurat, a temple designed as a stepped pyramid.",
+            "Title": "The rise and fall of...",
+            "VideoId": "XBk9KywTIgk",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " the story tells us of a patron deity of Kings that sets up the world that makes a sacrifice of his own blood and of a series of animals at for trees representing the four corners of the",
+            "Title": "Bill Saturno: Adding...",
+            "VideoId": "YcJY22wFpFg",
+            "Controls": "start=464"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/will-self.webp",
+            "Text": "I am a regular, if not exactly enthusiastic, patron of my local bookshop. I try to buy at least some books there because I cling to the belief that it's important to maintain those businesses which put a human face on the exchange of money for goods and services.",
+            "Title": "English Author",
+            "Name": "Will Self"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ryan-mcginley.webp",
+            "Text": "Most of the e-mails I get nowadays are from students who ask me how I got my start. In truth it's from having a really supportive family but also having a good patron who will help you - like financing all those early trips I took.",
+            "Title": "American Photographer",
+            "Name": "Ryan McGinley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/quentin-tarantino.webp",
+            "Text": "Movies are my religion and God is my patron. I'm lucky enough to be in the position where I don't make movies to pay for my pool. When I make a movie, I want it to be everything to me; like I would die for it.",
+            "Title": "American Director",
+            "Name": "Quentin Tarantino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/honore-de-balzac.webp",
+            "Text": "The life of a man who deliberately runs through his fortune often becomes a business speculation; his friends, his pleasures, patrons, and acquaintances are his capital.",
+            "Title": "French Novelist",
+            "Name": "Honore de Balzac"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ezra-pound.webp",
+            "Text": "If a patron buys from an artist who needs money, the patron then makes himself equal to the artist; he is building art into the world; he creates.",
+            "Title": "American Poet",
+            "Name": "Ezra Pound"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/a-n-wilson.webp",
+            "Text": "Tennyson seems to be the patron saint of the wishy washies, which is perhaps why I admire him so much, not only as a poet, but as a man.",
+            "Title": "English Writer",
+            "Name": "A. N. Wilson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/allen-weinstein.webp",
+            "Text": "NARA must provide security at our facilities to protect our public patrons, our staff, and our holdings.",
+            "Title": "American Public Servant",
+            "Name": "Allen Weinstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelangelo.webp",
+            "Text": "I cannot live under pressures from patrons, let alone paint.",
+            "Title": "Italian Artist",
+            "Name": "Michelangelo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guillermo-del-toro.webp",
+            "Text": "Monsters are the patron saints of imperfection.",
+            "Title": "Mexican Director",
+            "Name": "Guillermo del Toro"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fiona-apple.webp",
+            "Text": "I want to be like the patron saint of reality.",
+            "Title": "American Musician",
+            "Name": "Fiona Apple"
+        }
+    ]
+}

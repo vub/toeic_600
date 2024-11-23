@@ -1,0 +1,345 @@
+{
+    "currentWord": {
+        "wordRoot": "maintain",
+        "id": 10373,
+        "phonemic": "meɪnˈteɪn|meɪnˈteɪn\r",
+        "bigId": "1d69b783-d8ec-4343-a862-bd0ae1a9caac",
+        "wordForms": [
+            "maintains",
+            "maintaining",
+            "maintained",
+            "maintain"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1d69b783-d8ec-4343-a862-bd0ae1a9caac",
+            "de": "To keep in good condition or working order",
+            "ty": "verb",
+            "ex": "He maintains his car by getting regular check-ups.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "maintain good health",
+                " maintain balance",
+                " maintain equipment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1d69b783-d8ec-4343-a862-bd0ae1a9caac.webp",
+            "Tips": [
+                {
+                    "title": "Regular Use",
+                    "description": "Used for objects or skills you want to keep in good shape by using them regularly.",
+                    "example": "She maintains her language skills by practicing daily.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vgb44DGkzTNnDEWFAnVHJvJbro8.webp"
+                },
+                {
+                    "title": "Routine Care",
+                    "description": "Often involves routine activities that prevent damage or deterioration over time.",
+                    "example": "To maintain his bicycle, Tom oils the chain every month.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/j6gOGBEIa1BDWAtom4x4OMomv8.webp"
+                }
+            ]
+        },
+        {
+            "id": "b4884502-e42d-4903-92f6-1fa423322307",
+            "de": "To continue to have something; to keep a particular quality",
+            "ty": "verb",
+            "ex": "He maintains a strong relationship with his family.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "maintain contact",
+                " maintain relationship",
+                " maintain standards"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b4884502-e42d-4903-92f6-1fa423322307.webp",
+            "Tips": [
+                {
+                    "title": "Steady Effort",
+                    "description": "Keeping something requires constant effort, it doesn't happen automatically.",
+                    "example": "Lila studies every evening to maintain her high grades.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6e9dba26-a569-4de9-9ef7-5cef18407a1d",
+            "de": "To assert or uphold something as true, especially in an argument",
+            "ty": "verb",
+            "ex": "She maintains her innocence despite the evidence against her.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "maintain innocence",
+                " maintain position",
+                " maintain argument"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6e9dba26-a569-4de9-9ef7-5cef18407a1d.webp",
+            "Tips": [
+                {
+                    "title": "Firm Assertion",
+                    "description": "Expressing a strong belief or stance, even when challenged.",
+                    "example": "Despite the skeptics, he maintains that the project will succeed.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "de5cabfe-cdb7-4649-bb9c-642642414298",
+            "de": "To provide with necessities for life or existence",
+            "ty": "verb",
+            "ex": "It's difficult to maintain a large family on a small income.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "maintain family",
+                " maintain oneself",
+                " maintain household"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/de5cabfe-cdb7-4649-bb9c-642642414298.webp",
+            "Tips": [
+                {
+                    "title": "Financial Struggle",
+                    "description": "It suggests difficulty in providing for basic needs due to limited resources.",
+                    "example": "She managed to maintain her family on a limited budget.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e58515be-d2c9-46ab-b68e-83ab6325e654",
+            "de": "To keep a facility or system operating",
+            "do": "Technical",
+            "ty": "verb",
+            "ex": "The company maintains a large network of servers.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "maintain system",
+                " maintain network",
+                " maintain database"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e58515be-d2c9-46ab-b68e-83ab6325e654.webp",
+            "Tips": [
+                {
+                    "title": "Operational State",
+                    "description": "Refers to keeping equipment or systems functional and efficient.",
+                    "example": "Technicians work around the clock to maintain the power grid.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8faa28db-8cf7-435e-bdc9-3e84c5202706",
+            "de": "To keep a public road or a railroad",
+            "do": "Transportation",
+            "ty": "verb",
+            "ex": "The city maintains the roads and other public infrastructure.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "maintain roads",
+                " maintain infrastructure",
+                " maintain railway"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8faa28db-8cf7-435e-bdc9-3e84c5202706.webp",
+            "Tips": [
+                {
+                    "title": "Public Responsibility",
+                    "description": "Indicates a shared duty to keep communal spaces or services in good condition.",
+                    "example": "The council voted to maintain the park with new facilities.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Conserve": {
+            "wordRoot": "Conserve",
+            "wordDefinition": "Conserve means to protect something from harm, damage or destruction so that it can be preserved for future use. For example, conserving energy means using it wisely and making sure that resources are not wasted.\n\nSo, while conserving focuses on protecting and preserving something for the future, maintaining focuses on keeping something in good condition for the present.\n\nBoth terms are applicable in different contexts- conserve in environmental or resource management situations, and maintain in personal or organizational situations like car maintenance or building upkeep.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a52c47ce-dffd-4e61-8e76-46f55643d7b0.webp"
+        },
+        "Continue": {
+            "wordRoot": "Continue",
+            "wordDefinition": "Continue refers to continuing an action or state that has already started. For example, if you're reading a book and you say \"I'll continue reading after dinner,\" this means you'll pick up where you left off and keep reading.\n\nBoth words are applicable in different contexts. Continue is useful when talking about ongoing activities, while maintain is useful when talking about keeping something in a certain state or condition over time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/03a07759-f76d-4927-9aa9-46592935af69.webp"
+        },
+        "Keep up": {
+            "wordRoot": "Keep up",
+            "wordDefinition": "The words keep up and maintain are similar but have slight differences. Keep up means to continue doing something at the same level or pace, without decreasing.\n\nFor example, you might say \"I need to keep up my exercise routine\" - meaning you need to continue exercising regularly and not let it slip.\n\nMaintain means to keep something in its current state, to prevent it from deteriorating or changing. For example, you might say \"I need to maintain my car\" - meaning you need to take care of it, get it serviced regularly, make necessary repairs, etc., in order to keep it running well.\n\nKeep up is used for activities or actions that you want to continue doing without losing momentum, while maintain is used for objects or things that you want to keep in good condition or prevent from deteriorating.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b4840087-b266-48c5-ade9-d74a10fcb326.webp"
+        },
+        "Manage": {
+            "wordRoot": "Manage",
+            "wordDefinition": "Manage means to control or direct the resources, people or activities related to a particular task, project or enterprise.\n\nIt often involves decision-making and organizing resources to achieve specific goals. For example, managing a team of workers involves assigning tasks, setting goals, monitoring progress, and making decisions to ensure that the project or task is completed successfully.\n\nIn summary, maintaining is about preserving something while managing is about directing or controlling something to achieve a specific outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ad91e78-9546-410a-83ae-0d6f673c381b.webp"
+        },
+        "Preserve": {
+            "wordRoot": "Preserve",
+            "wordDefinition": "Preserve means to protect something from harm or decay, to keep it as it is without changing its original state or condition.\n\nFor example, we preserve our family photos, art, or artifacts to keep them safe for future generations to appreciate. We use the term preserve when we desire to conserve something as it is or to make it last a very long time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/872e3541-6813-4bd6-b2c5-52680fc60c29.webp"
+        },
+        "Retain": {
+            "wordRoot": "Retain",
+            "wordDefinition": "Retain means to keep something that you already have or that already exists. For example, you might retain a lawyer to help you with a legal issue.\n\nMaintain is used when you want to keep something the same, while retain is used when you want to keep something that you already have.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3bd99be-8acc-44ec-884f-04ae6f2f96f2.webp"
+        },
+        "Support": {
+            "wordRoot": "Support",
+            "wordDefinition": "Maintain means to keep something in good condition, while support means to help someone or something achieve an objective.\n\nFor example, you maintain your health by exercising and eating healthy, while you support a friend by encouraging them and helping them through tough times.\n\nIn terms of technology, you maintain a computer by cleaning it and updating software, while you support a user by answering questions and offering technical assistance.\n\nMaintain refers to keeping something in good condition, while support refers to helping someone or something achieve a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f630745-f3a5-4454-92eb-c75d98a5f411.webp"
+        },
+        "Sustain": {
+            "wordRoot": "Sustain",
+            "wordDefinition": "Sustain means to keep something going or to support something. For example, you sustain an argument by presenting evidence or you sustain a plant by watering it.\n\nMaintain refers to preserving something that already exists while sustain refers to supporting something in order to keep it going.\n\nBoth words can be applied in many different contexts, such as maintaining relationships or sustaining the environment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/daac1394-d0f1-429d-8c42-f41773b09132.webp"
+        },
+        "Uphold": {
+            "wordRoot": "Uphold",
+            "wordDefinition": "Uphold means to support, defend or adhere to something, often a set of moral principles or beliefs. For example, you uphold the laws of your country by obeying them.\n\nYou uphold justice by supporting fairness and equality for all people.\n\nSo, in short, maintain is used for keeping something in good condition, while uphold is used for supporting a belief or set of principles.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cb5fb620-b207-4773-aece-69b316405e28.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " that mammals have evolved to make and maintain social bonds, and clearly to regulate emotions, to make ourselves feel better. It's not something specific to humans -- it's a really ancient behavior which really helps us regulate how we feel and makes us feel better. In other words, when it comes to laughter,",
+            "Title": "Why we laugh PIPE Sophie...",
+            "VideoId": "UxLRv0FEndM",
+            "Controls": "start=991"
+        },
+        {
+            "Text": " But getting to your brain cells is tricky, and amino acids have to compete for limited access. A diet with a range of foods helps maintain a balanced combination of brain messengers, and keeps your mood from getting skewed in one direction or the other. Like the other organs in our bodies,",
+            "Title": "How the food you eat...",
+            "VideoId": "xyQY8a-ng6g",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " In some bed bug species, the females have evolved an entirely new set of genitalia on their right hand flanks where the males usually pierce them. That allows them to maintain the power to filter out unwanted sperm with their genitalia. And duck vaginas are shaped like a clockwise spiral",
+            "Title": "The evolution of animal...",
+            "VideoId": "vcPJkz-D5II",
+            "Controls": "start=259"
+        },
+        {
+            "Text": " and maintaining a good, balanced relationship with them is to our advantage. Together, they form the gut microbiome, a rich ecosystem that performs a variety of functions in our bodies. The bacteria in our guts can break down food the body can't digest, produce important nutrients,",
+            "Title": "How the food you eat...",
+            "VideoId": "1sISguPDlhY",
+            "Controls": "start=10"
+        },
+        {
+            "Text": " Healthy brains maintain strong connections between neurons thanks to the brain's continuous efforts to prune itself and remove unused or faulty neural connections. This process is important because our neural pathways serve as a map for everything we do.",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " vomiting, and, in rare instances, seizures or death. But that's a pretty extreme situation. On a normal, day-to-day basis, maintaining a well-hydrated system is easy to manage for those of us fortunate enough to have access to clean drinking water.",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=181"
+        },
+        {
+            "Text": " much of this land is managed for shooting birds through a combination of cutting grazing and burning large parts of our national parks are agricultural lands supporting the people livelihoods and cultures that maintain the landscape",
+            "Title": "UK National Parks in 100...",
+            "VideoId": "-zDNMgeeQrc",
+            "Controls": "start=85"
+        },
+        {
+            "Text": " most cults share some basic characteristics. A typical cult requires a high level of commitment from its members and maintains a strict hierarchy, separating unsuspecting supporters and recruits from the inner workings.",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=111"
+        },
+        {
+            "Text": " living that life now what kinds of foods i would eat how many calories i would need to maintain a healthy weight for a lifetime that would be the way i would achieve my goal i had to come up with strategies that i",
+            "Title": "The psychological weight...",
+            "VideoId": "DLYb3IgQ1Qk",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " it floats with the help of a gas-filled bladder topped by a vertical membrane with that serving as a sail it maintains",
+            "Title": "The Deadly Portuguese...",
+            "VideoId": "aIovmgzyuL0",
+            "Controls": "start=120"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "At Facebook, we build tools to help people connect with the people they want and share what they want, and by doing this we are extending people's capacity to build and maintain relationships.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-lopez.webp",
+            "Text": "I like to maintain a certain sense of fantasy in my life. I am kind of like that at home. Do I have the full hair and makeup? No. But I might have the nice dress on.",
+            "Title": "American Musician",
+            "Name": "Jennifer Lopez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-a-garfield.webp",
+            "Text": "Next in importance to freedom and justice is popular education, without which neither freedom nor justice can be permanently maintained.",
+            "Title": "American President",
+            "Name": "James A. Garfield"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/blaise-pascal.webp",
+            "Text": "I maintain that, if everyone knew what others said about him, there would not be four friends in the world.",
+            "Title": "French Philosopher",
+            "Name": "Blaise Pascal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-statham.webp",
+            "Text": "Each director maintains a different personality. Either you get along, or you don't.",
+            "Title": "British Actor",
+            "Name": "Jason Statham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paz-vega.webp",
+            "Text": "I think it is important to maintain your personality, your roots, very important.",
+            "Title": "Spanish Actress",
+            "Name": "Paz Vega"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neha-sharma.webp",
+            "Text": "I have tried to maintain the variety in the characters I choose to play.",
+            "Title": "Indian Actress",
+            "Name": "Neha Sharma"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/morrissey.webp",
+            "Text": "I do maintain that if your hair is wrong, your entire life is wrong.",
+            "Title": "English Musician",
+            "Name": "Morrissey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rashami-desai.webp",
+            "Text": "Food is an important element of maintaining a fitter body.",
+            "Title": "Indian Actress",
+            "Name": "Rashami Desai"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amanda-lindhout.webp",
+            "Text": "Maintaining my dignity is so important for me.",
+            "Title": "Canadian Journalist",
+            "Name": "Amanda Lindhout"
+        }
+    ]
+}

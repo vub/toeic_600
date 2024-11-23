@@ -1,0 +1,357 @@
+{
+    "currentWord": {
+        "wordRoot": "address",
+        "id": 19110,
+        "phonemic": "əˈdres|ˈædres\r",
+        "bigId": "53475b4e-33e2-4021-8ee4-6167bcc266b5",
+        "wordForms": [
+            "addresses",
+            "addressing",
+            "addressed",
+            "addressable",
+            "address"
+        ]
+    },
+    "senses": [
+        {
+            "id": "53475b4e-33e2-4021-8ee4-6167bcc266b5",
+            "de": "The place where someone lives or works, which is used for sending letters, etc. to them.",
+            "ty": "noun",
+            "ex": "What is your current address?",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "return address",
+                " email address",
+                " home address"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/53475b4e-33e2-4021-8ee4-6167bcc266b5.webp",
+            "Tips": [
+                {
+                    "title": "Postal Communication",
+                    "description": "An address allows for sending and receiving mail, packages, and critical documents physically.",
+                    "example": "I updated my address to receive bank statements at my new location.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/rFpIAKtxug5pMJKQb7vEsnXv2BU.webp"
+                },
+                {
+                    "title": "Online Shopping",
+                    "description": "E-commerce sites require your address to deliver items you purchase online.",
+                    "example": "Don't forget to provide your apartment number in your shipping address.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/o0T0NclgRUy47kyBVpz8kOleBbM.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3842d62b-3c86-4b37-aa04-848120801615",
+            "de": "To talk or write to someone to gain attention or to express something.",
+            "ty": "verb",
+            "ex": "He addressed the audience before the play began.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "address a problem",
+                " address an issue",
+                " address the question"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3842d62b-3c86-4b37-aa04-848120801615.webp",
+            "Tips": [
+                {
+                    "title": "Public Speaking",
+                    "description": "When you address a group, it implies public speaking, often formal and planned.",
+                    "example": "She will address the meeting on behalf of her team.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Attention Getter",
+                    "description": "To address can signal the start of communication, calling listeners' attention first.",
+                    "example": "Please address the class before starting your presentation.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "695f6bd0-c75a-4c37-90e2-3f1de46eede3",
+            "de": "A formal speech that is given to a group.",
+            "ty": "noun",
+            "ex": "The queen gave a televised address to the nation.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "presidential address",
+                " televised address",
+                " keynote address"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/695f6bd0-c75a-4c37-90e2-3f1de46eede3.webp",
+            "Tips": [
+                {
+                    "title": "Formal Occasion",
+                    "description": "An address, like a speech, is often given on formal events, needing preparation.",
+                    "example": "The commencement address inspired graduating students.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "dbaca2cf-bc99-4650-856b-1a877c04c80a",
+            "de": "To think about, attempt to do or aware of a situation and try to deal with it.",
+            "ty": "verb",
+            "ex": "We need to address the problem of obesity in children.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "address an issue",
+                " address a need",
+                " address a challenge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dbaca2cf-bc99-4650-856b-1a877c04c80a.webp",
+            "Tips": [
+                {
+                    "title": "Problem Solving",
+                    "description": "Addressing a situation implies actively working to resolve it.",
+                    "example": "She addressed the feedback promptly and efficiently.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "79a49b21-cb85-41cd-9f64-b47fc60c05d3",
+            "de": "The name or details that are used to send an email to a person's electronic mailbox.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Please enter your email address.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "email address",
+                " ip address",
+                " web address"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/79a49b21-cb85-41cd-9f64-b47fc60c05d3.webp",
+            "Tips": [
+                {
+                    "title": "Digital Identity",
+                    "description": "Email addresses identify you online and are required for internet communication.",
+                    "example": "I use a professional email address for job applications.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Internet Navigation",
+                    "description": "Web addresses, like URLs, help you find websites and navigate the internet.",
+                    "example": "Check the web address is correct if the page doesn't load.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7bce99c0-169c-43b5-92e2-0b147d44a29d",
+            "de": "The way a person stands or positions themselves ready to play the ball in some sports, such as golf.",
+            "do": "Sports",
+            "ty": "noun",
+            "ex": "Her address of the ball was impeccable.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "address a golf ball",
+                " address the ball"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7bce99c0-169c-43b5-92e2-0b147d44a29d.webp",
+            "Tips": [
+                {
+                    "title": "Sports Stance",
+                    "description": "In golf, 'address the ball' refers to taking the correct position before swinging.",
+                    "example": "He took a moment to properly address the ball.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Abode": {
+            "wordRoot": "Abode",
+            "wordDefinition": "Abode refers to a place where someone lives, like a home, a house or an apartment.\n\nFor example, if someone asks where you live, you would answer with your abode, like \"I live in a house down the street.\" If someone asks for your address, you would give them the specific location of your abode such as \"123 Main St., Anytown, USA.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d774790-aa62-41dc-a1e0-36815c0e9e1f.webp"
+        },
+        "Direction": {
+            "wordRoot": "Direction",
+            "wordDefinition": "Direction refers to the way in which something or someone is moving or facing. It could be north, south, east or west, or left or right.\n\nAddress points to a location while direction points to a way or path.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/96ef0d15-a293-4dfc-8ee1-de42ed919036.webp"
+        },
+        "Domicile": {
+            "wordRoot": "Domicile",
+            "wordDefinition": "Domicile refers to a person's legal residence, which can be different from their actual physical address.\n\nDomicile is typically used in legal documents or government forms, and it determines things like tax obligations and voting rights.\n\nIn simpler terms, address is where someone lives, while domicile is their legal home base.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5341fe95-17a7-475e-8223-df5cfa634124.webp"
+        },
+        "Dwell": {
+            "wordRoot": "Dwell",
+            "wordDefinition": "It is used when you need to give someone directions to where you live or work. Dwell typically refers to living in a particular place or residence, like a home or apartment.\n\nIt is used when talking about where someone lives or stays. Address is applicable when you want to give or receive directions, whereas dwell is applicable when you want to talk about where someone lives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fb7331e1-9c6c-4c33-ac68-e3df18c1e29b.webp"
+        },
+        "Lecture": {
+            "wordRoot": "Lecture",
+            "wordDefinition": "Lecture refers to a talk given by a teacher or an expert on a specific topic.\n\nEssentially, an address is a speech given to convey important information or messages, whereas a lecture is a talk given to educate or teach an audience.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ff3e895d-c39d-4c6f-8fd0-02c9fb47c57d.webp"
+        },
+        "Location": {
+            "wordRoot": "Location",
+            "wordDefinition": "Address and location are two different terms used to describe a place. An address is a unique identification of a place, consisting of street name, number, city, and state.\n\nLocation describes the physical position or coordinates of a place on the earth's surface.\n\nIn simpler terms, an address is like a name for a place, while location is more like its geographical position on a map.\n\nAddresses are used for mailing or visiting a place, while location is useful for navigation or finding nearby places.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ef4275b3-d954-4f62-b2a7-175fae8547b7.webp"
+        },
+        "Residence": {
+            "wordRoot": "Residence",
+            "wordDefinition": "Residence refers to the place where a person lives, usually their home. It may or may not be the same as their mailing or business address.\n\nAddress is a formal means of locating someone or something, whereas residence refers to the physical location where someone lives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5d82cc26-e421-4234-be36-76e73ed0b6a9.webp"
+        },
+        "Speech": {
+            "wordRoot": "Speech",
+            "wordDefinition": "An address is a formal statement or message delivered to a group of people, often with a specific purpose or occasion, such as a speech given by a politician or a welcome address given at a conference.\n\nA speech is a formal or public talk given by a person to convey information, persuade others, or express opinions on a particular topic or issue.\n\nSpeeches can vary in length and formality and can be given in various settings such as at a school assembly, a business conference, or a political rally.\n\nAn address is a formal statement or message delivered to a group of people or a physical location, while a speech is a formal or public talk given by a person on a particular topic or issue.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a65ab407-0074-4491-82b5-48a189eb7364.webp"
+        },
+        "Street": {
+            "wordRoot": "Street",
+            "wordDefinition": "Address refers to the location of a building, consisting of both the street name and the number assigned to the building.\n\nStreet refers only to the road or thoroughfare that the building is located on. For example, if someone asked for your address, you would give them a specific number on a specific street.\n\nThe street is just the name of the road while the address is the specific location where someone can find a building.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36f749fd-1f33-4964-bf2d-10d0cc7dc6cb.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " By learning how to better control wound healing and the formation of scar tissue, we can utilize the multi-billion-dollar budgets currently used to address the aftermath of wounding in a much more efficient manner, and help millions of people live better and healthier lives. But until then, at least some of our scars",
+            "Title": "How do scars form? -...",
+            "VideoId": "ucRMDdw82yw",
+            "Controls": "start=182"
+        },
+        {
+            "Text": " It seems a bit ironic, but sometimes you also move more slowly to protect them. Because you do have to make sure you're doing the exact right thing, and it's not always obvious what that exact right thing is. I think longer term, really what we all need to do is we need to, as a society, address climate change.",
+            "Title": "Saving Hawaii’s Birds...",
+            "VideoId": "ySv8X195sNk",
+            "Controls": "start=313"
+        },
+        {
+            "Text": " people together in a peaceful ways we can give not just ourselves but our culture and our society and our species a goal and can unite so many different types of people together you're actually addressing fundamental issues on Earth by giving people something optimistic to pursue and that's why I want to see us",
+            "Title": "Why Should We Go to...",
+            "VideoId": "aCEvMY3nZoU",
+            "Controls": "start=149"
+        },
+        {
+            "Text": " The statement is short and direct, calling the child by name and addressing his role in her life. So how can you apply these lie-spotting techniques to your life? First, remember that many of the lies we encounter on a daily basis are far less serious that these examples, and may even be harmless.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=291"
+        },
+        {
+            "Text": " we're going to hear about some of humanity's most important and complex issues and whether your issue is climate change world hunger education or anything else I'm going to propose that a precursor to effectively addressing any of these issues its first addressing",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=72"
+        },
+        {
+            "Text": " So researchers who study autonomous systems are collaborating with philosophers to address the complex problem of programming ethics into machines, which goes to show that even hypothetical dilemmas can wind up on a collision course with the real world.",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=255"
+        },
+        {
+            "Text": " could provide a solution for farmers working in drought-stricken regions, or a way to clean municipal water in polluted cities. In fact, many scientific advances have occurred when serendipitous failures in one field address the constraints of another.",
+            "Title": "The power of creative...",
+            "VideoId": "v5FL9VTBZzQ",
+            "Controls": "start=231"
+        },
+        {
+            "Text": " to sponsor kids, to fund microloans, to support generous levels of foreign aid. But until I had actually talked to Venus, I would have had no idea that none of those approaches actually addressed why she had to watch her son die.",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=341"
+        },
+        {
+            "Text": " who must be convinced that he has lived a righteous life. Ani approaches each one, addressing them by name, and declaring a sin he has not committed. Among these negative confessions, or declarations of innocence,",
+            "Title": "The Egyptian Book of the...",
+            "VideoId": "1yv_MXNYbAo",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " The UDHR itself, despite being highly authoritative and respected, is a declaration, not a hard law. So when individual countries violate it, the mechanisms to address those violations are weak.",
+            "Title": "What are the universal...",
+            "VideoId": "nDgIVseTkuE",
+            "Controls": "start=160"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-maccaig.webp",
+            "Text": "It's like breathing in and out to me. It's like having a conversation with someone who isn't there. Because it has to be addressed to somebody - not a particular person, or very rarely.",
+            "Title": "Scottish Poet",
+            "Name": "Norman MacCaig"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-d-hull.webp",
+            "Text": "While I have some regrets that this is my last opportunity to deliver a State of the State address, I appreciate and am humbled by the opportunities this great state has given me.",
+            "Title": "American Politician",
+            "Name": "Jane D. Hull"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeffrey-skoll.webp",
+            "Text": "It's a real concern of mine every day. What can we do? How much can we do? How quickly can we address all these important things?",
+            "Title": "Canadian Businessman",
+            "Name": "Jeffrey Skoll"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barnett-newman.webp",
+            "Text": "Any art worthy of its name should address 'life', 'man', 'nature', 'death' and 'tragedy'.",
+            "Title": "American Artist",
+            "Name": "Barnett Newman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julian-nagelsmann.webp",
+            "Text": "Every player is motivated by different things and needs to be addressed accordingly.",
+            "Title": "German Coach",
+            "Name": "Julian Nagelsmann"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yair-lapid.webp",
+            "Text": "People like to invent enemies. It spares us the need to address complex worldviews.",
+            "Title": "Israeli Politician",
+            "Name": "Yair Lapid"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yvette-nicole-brown.webp",
+            "Text": "It's very rare, as an actor, to be someplace - to have an address, so to speak.",
+            "Title": "American Actress",
+            "Name": "Yvette Nicole Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-cooper-clarke.webp",
+            "Text": "When you write poetry you are always addressing the world somehow.",
+            "Title": "English Poet",
+            "Name": "John Cooper Clarke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karim-benzema.webp",
+            "Text": "We footballers don't address one another as 'My dear.",
+            "Title": "French Athlete",
+            "Name": "Karim Benzema"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/metta-world-peace.webp",
+            "Text": "I'm not afraid to address anything ever.",
+            "Title": "American Coach",
+            "Name": "Metta World Peace"
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "currentWord": {
+        "wordRoot": "remember",
+        "id": 22893,
+        "phonemic": "rɪˈmembə(r)|rɪˈmembər\r",
+        "bigId": "3db65f46-f9b3-4335-aef8-01ec76159a4c",
+        "wordForms": [
+            "remembers",
+            "remembering",
+            "remembered",
+            "remember"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3db65f46-f9b3-4335-aef8-01ec76159a4c",
+            "de": "To have in your mind an image, sound or information from the past",
+            "ty": "verb",
+            "ex": "Do you remember the first time we met?",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "remember the past",
+                " remember a face",
+                " remember a name"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3db65f46-f9b3-4335-aef8-01ec76159a4c.webp",
+            "Tips": [
+                {
+                    "title": "Past Events",
+                    "description": "Use 'remember' to talk about experiences, events, or people from your past.",
+                    "example": "I remember the thrill of my first rollercoaster ride.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qhylBa1fNRmAJssCUCDtMsYxZQ.webp"
+                },
+                {
+                    "title": "Visual Memory",
+                    "description": "Precede 'remember' with 'can' when asking if someone has a mental image of something.",
+                    "example": "Can you remember what she was wearing?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9OLGXVloC8oWon7sLVvXdGcZN4.webp"
+                },
+                {
+                    "title": "Emotional Recall",
+                    "description": "'Remember' is often used for recollecting personal and emotional memories.",
+                    "example": "I'll always remember how you helped me.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tOmtnvZHOQKJC019gOTsGgJDi2A.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "2cc59352-5acb-49c2-898f-871fce42204a",
+            "de": "To keep information in your mind or to have the ability to bring it into consciousness",
+            "ty": "verb",
+            "ex": "Remember, the exam is tomorrow.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "remember the date",
+                " remember the place",
+                " remember the fact"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2cc59352-5acb-49c2-898f-871fce42204a.webp",
+            "Tips": [
+                {
+                    "title": "Active Reminder",
+                    "description": "Use 'remember' when you remind someone to do something in the future.",
+                    "example": "Remember to lock the door when you leave.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mental Retention",
+                    "description": "Indicate holding onto facts or information, often for academic or professional purposes.",
+                    "example": "She has an incredible ability to remember statistics.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6fd94250-a217-4b84-844b-e818326e33ad",
+            "de": "To honor or acknowledge someone or something by doing something special",
+            "ty": "verb",
+            "ex": "We remember the soldiers by observing a moment of silence.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "remember the fallen",
+                " remember the victims",
+                " remember a person"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6fd94250-a217-4b84-844b-e818326e33ad.webp",
+            "Tips": [
+                {
+                    "title": "Special Observance",
+                    "description": "'Remember' can mean to formally honor or celebrate someone or something.",
+                    "example": "We wear poppies to remember those lost in war.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Tribute",
+                    "description": "Use 'remember' to describe a gesture made to personally honor someone.",
+                    "example": "I remember my grandfather by wearing his watch.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "18ad31e9-a646-4251-a0f2-f1ba776dd512",
+            "de": "To mention something to someone because you think it may be important or useful",
+            "ty": "verb",
+            "ex": "Will you remember me to your parents?",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "remember something to someone",
+                " remember me to them"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/18ad31e9-a646-4251-a0f2-f1ba776dd512.webp",
+            "Tips": [
+                {
+                    "title": "Important Mention",
+                    "description": "Use 'remember' to stress the importance of mentioning something or someone to others.",
+                    "example": "Please remember my regards to your family.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Politeness",
+                    "description": "It's polite in some cultures to ask someone to 'remember' you to others.",
+                    "example": "Remember me to your colleagues when you return to work.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Memorize": {
+            "wordRoot": "Memorize",
+            "wordDefinition": "However, to memorize something means to intentionally commit it into your memory by repeating it over and over again until it becomes second nature.\n\nFor example, you might memorize a speech or a presentation, or some formulas for a math test.\n\nRemember is recalling something stored in your memory while memorize is intentionally learning something to retain in your memory for future recall.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0f8857e6-b956-4352-843a-6d5b65c4e982.webp"
+        },
+        "Recall": {
+            "wordRoot": "Recall",
+            "wordDefinition": "Both recall and remember refer to the process of retrieving information from memory.\n\nHowever, recall is usually used when trying to retrieve specific information that has been previously learned or experienced.\n\nFor example, trying to recall a specific phone number or the name of a person.\n\nRecall is applicable when trying to retrieve specific information from memory, while remember describes the general act of retaining information in memory.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2acacaf2-6fe1-473d-8646-3f562a15dfd6.webp"
+        },
+        "Recollect": {
+            "wordRoot": "Recollect",
+            "wordDefinition": "Recollect and remember are similar words but have slightly different meanings.\n\nRecollect is the act of recalling something that may not be very clear or vivid in one's mind. It's like trying to remember something that is hazy or unclear.\n\nFor example, if you're trying to remember a childhood memory, you might have to recollect the details by asking family members or looking at old photos.\n\nRecollect is applicable when trying to retrieve details that are not very clear in one's mind, while remember is applicable when recalling something that is clear and vivid in one's mind.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9ff39b4-fd59-47cc-a53d-7f7fba04b3ec.webp"
+        },
+        "Reminisce": {
+            "wordRoot": "Reminisce",
+            "wordDefinition": "Reminisce means to indulge in pleasant memories of the past, often with a sense of longing, and usually with someone else.\n\nRemember is to recall specific facts or events from the past, while reminisce is to enjoy and talk about past memories with feelings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/939b7b55-3f50-4366-81ac-516f73c22131.webp"
+        },
+        "Retain": {
+            "wordRoot": "Retain",
+            "wordDefinition": "Retain means that you can keep information in your memory or keep an object or position, and not lose it. For example, if you study hard for a test, you will be able to retain the information you learned in your memory.\n\nRemember refers to bringing something to mind from the past or stored memory, whereas retain refers to holding onto something in one's memory or keeping possession of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3bd99be-8acc-44ec-884f-04ae6f2f96f2.webp"
+        },
+        "Retrospect": {
+            "wordRoot": "Retrospect",
+            "wordDefinition": "Retrospect refers to looking back on past events or situations with a critical eye or reflection. This means that when you retrospect, you're both observing and evaluating those past events.\n\nYou use remember when you're trying to recall something from memory and retrospect when you're looking back on past events or situations with a critical eye or reflection.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4df5b4f5-e429-4463-b792-873adadd7aa3.webp"
+        },
+        "Think of": {
+            "wordRoot": "Think of",
+            "wordDefinition": "The phrase think of suggests that you are trying to come up with a new idea, concept or memory. For example, if you want to think of a new topic to write an essay, you are trying to come up with a fresh idea.\n\nRemember is used to recall something you already know, while think of is used when you want to come up with something new.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b949992f-0d73-47ad-985e-76339b4eff0b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " I don't know if your first introduction might have been choruses of \"We Are the World,\" or maybe the picture of a sponsored child on your refrigerator door, or maybe the birthday you donated for fresh water. I don't really remember what my first introduction to poverty was but I do remember the most jarring.",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=110"
+        },
+        {
+            "Text": " The statement is short and direct, calling the child by name and addressing his role in her life. So how can you apply these lie-spotting techniques to your life? First, remember that many of the lies we encounter on a daily basis are far less serious that these examples, and may even be harmless.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=291"
+        },
+        {
+            "Text": " it can actually help them remember and revisit flowers. In the human body, caffeine acts as a stimulant for the central nervous system. It keeps us awake by blocking one of the body's key sleep-inducing molecules, a substance called adenosine. Your body needs a constant supply of energy,",
+            "Title": "How does caffeine keep...",
+            "VideoId": "foLf5Bi9qXs",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " completely non-existent when I was in high school I sported this absolutely terrible mullet spike haircut and I had friends that would literally let me copy all of their homework math science mythology I literally had help with all of it and I remember it was my second senior year or",
+            "Title": "How math saved my life PIPE...",
+            "VideoId": "GDU7lEmiiD8",
+            "Controls": "start=44"
+        },
+        {
+            "Text": " and leading them to their doom through deception. Remembering the green smoke, you realize two of the students have been cursed. At any time, one or both of them might lie, though they also might tell the truth. You know for sure that the curse didn't get you,",
+            "Title": "Can you solve the temple...",
+            "VideoId": "nSbvlktToSY",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " They also remember and distinguish particular cues that signal danger and can recall important locations long after their last visit. But it's the memories unrelated to survival that are the most fascinating. Elephants remember not only their herd companions",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=43"
+        },
+        {
+            "Text": " Now, remember that the fish are equally distributed across all the tanks. Why is that important? Because it means that one of the possible values for the total amount of fish must be divisible by one of the possible values for the total amount of tanks.",
+            "Title": "Can you solve the fish...",
+            "VideoId": "lLOALyWls2k",
+            "Controls": "start=219"
+        },
+        {
+            "Text": " and strengthening the neural network where the information will be returned as long-term memory. So why do we remember some things and not others? Well, there are a few ways to influence the extent and effectiveness of memory retention.",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=198"
+        },
+        {
+            "Text": " but remember, we said levitation with no mechanical assistance. And little tiny speakers, I think that's mechanical assistance. So, keep trying. Yeah, all right, Colin. Fair point.",
+            "Title": "How To Levitate PIPE The...",
+            "VideoId": "xDyJkFehDk0",
+            "Controls": "start=576"
+        },
+        {
+            "Text": " hereby crown you queen also make sure the world only sees the aretha franklin you want them to yeah you're gonna remember her name",
+            "Title": "Genius: Aretha Chain of...",
+            "VideoId": "ryGpdVuuq_Y",
+            "Controls": "start=39"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/simon-sinek.webp",
+            "Text": "If you want to be a great leader, remember to treat all people with respect at all times. For one, because you never know when you'll need their help. And two, because it's a sign you respect people, which all great leaders do.",
+            "Title": "English Author",
+            "Name": "Simon Sinek"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/audrey-hepburn.webp",
+            "Text": "Remember, if you ever need a helping hand, it's at the end of your arm, as you get older, remember you have another hand: The first is to help yourself, the second is to help others.",
+            "Title": "British Actress",
+            "Name": "Audrey Hepburn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/morgan-freeman.webp",
+            "Text": "All my life, all my life that I can, as far back as I can remember, I saw my first movie when I was six years old. And since then I wanted to do that. I wanted to be a part of that.",
+            "Title": "American Actor",
+            "Name": "Morgan Freeman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-santayana.webp",
+            "Text": "We must welcome the future, remembering that soon it will be the past; and we must respect the past, remembering that it was once all that was humanly possible.",
+            "Title": "Spanish Philosopher",
+            "Name": "George Santayana"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yoko-ono.webp",
+            "Text": "Remember, each one of us has the power to change the world. Just start thinking peace, and the message will spread quicker than you think.",
+            "Title": "American Artist",
+            "Name": "Yoko Ono"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/toni-morrison.webp",
+            "Text": "At some point in life the world's beauty becomes enough. You don't need to photograph, paint or even remember it. It is enough.",
+            "Title": "American Novelist",
+            "Name": "Toni Morrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/will-smith.webp",
+            "Text": "As a child, I watched 'Dallas' and that was my vision for my life for as long as I could remember.",
+            "Title": "American Actor",
+            "Name": "Will Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lebron-james.webp",
+            "Text": "Akron, Ohio, is my home. It will always be remembered. Akron, Ohio, is my life.",
+            "Title": "American Basketball Player",
+            "Name": "LeBron James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-twain.webp",
+            "Text": "If you tell the truth, you don't have to remember anything.",
+            "Title": "American Writer",
+            "Name": "Mark Twain"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alice-walker.webp",
+            "Text": "It is important to remember yourself.",
+            "Title": "American Author",
+            "Name": "Alice Walker"
+        }
+    ]
+}

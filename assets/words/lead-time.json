@@ -1,0 +1,72 @@
+{
+    "currentWord": {
+        "wordRoot": "lead time",
+        "id": 0,
+        "phonemic": "ˈliːd taɪm",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID2",
+            "de": "The time between the initiation and completion of a production process or the delivery of a product or service.",
+            "ty": "noun",
+            "ex": "The lead time for custom-made furniture is usually eight weeks.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "short lead time",
+                "long lead time",
+                "reduce lead time",
+                "increase lead time",
+                "estimate lead time",
+                "calculate lead time",
+                "the lead time for the project",
+                "lead time is critical",
+                "average lead time",
+                "typical lead time"
+            ],
+            "ImageSrc": "./senses/3e031d9f-5911-4ebc-a838-5615489169db.webp",
+            "Tips": [
+                {
+                    "title": "Manufacturing",
+                    "description": "Lead time is crucial in manufacturing to ensure timely delivery of products and efficient inventory management.",
+                    "example": "The factory needs to shorten its lead time to meet the increasing demand.",
+                    "imageUrl": "./tips/940f3639-7ff5-49b6-96e7-44769523f729.webp"
+                },
+                {
+                    "title": "Project Management",
+                    "description": "In project management, lead time is used to schedule tasks and estimate project completion dates.",
+                    "example": "The project manager factored in the lead time for procuring materials when creating the project timeline.",
+                    "imageUrl": "./tips/35c954ac-93df-4ab1-b9f6-f8de047baa7a.webp"
+                },
+                {
+                    "title": "Supply Chain Management",
+                    "description": "Lead time is a critical factor in supply chain management as it affects inventory levels and customer satisfaction.",
+                    "example": "The company's long lead times for raw materials caused production delays.",
+                    "imageUrl": "./tips/e286a79e-769c-43a4-a630-df9376ab5917.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Turnaround time": {
+            "wordRoot": "Turnaround time",
+            "wordDefinition": "While both refer to a duration, turnaround time focuses on the time taken to complete a process and return it to the originator, often involving a service or repair. Lead time, on the other hand, focuses on the time from initiation to delivery, particularly in production or supply chain contexts.",
+            "wordImage": ""
+        },
+        "Delivery time": {
+            "wordRoot": "Delivery time",
+            "wordDefinition": "Delivery time is specifically the time it takes for a product or service to reach the customer after it's ready.  Lead time encompasses the entire process before delivery, including production or preparation.",
+            "wordImage": ""
+        },
+        "Processing time": {
+            "wordRoot": "Processing time",
+            "wordDefinition": "Processing time refers solely to the duration of a specific process within a larger sequence. Lead time can include multiple processing times along with other delays.",
+            "wordImage": ""
+        }
+    }
+}

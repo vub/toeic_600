@@ -1,0 +1,318 @@
+{
+    "currentWord": {
+        "wordRoot": "reason",
+        "id": 22802,
+        "phonemic": "ˈriːzn|ˈriːzn\r",
+        "bigId": "8691407a-7434-45aa-9d43-3c20fe98076b",
+        "wordForms": [
+            "reasons",
+            "reasoning",
+            "reasoned",
+            "reason"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8691407a-7434-45aa-9d43-3c20fe98076b",
+            "de": "The cause or explanation for something that happens or is done",
+            "ty": "noun",
+            "ex": "The reason I was late was because my car broke down.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "for some reason",
+                " there's no reason",
+                " reason for"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8691407a-7434-45aa-9d43-3c20fe98076b.webp",
+            "Tips": [
+                {
+                    "title": "Common Triggers",
+                    "description": "Often used after words like 'The,' 'A,' or 'One' to introduce the cause.",
+                    "example": "One reason he succeeded was his dedication.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SWzm4yw7ehuNnH5BN8Eb0LhKsZU.webp"
+                },
+                {
+                    "title": "Question Responses",
+                    "description": "Use 'reason' to answer 'Why' questions for clear explanations.",
+                    "example": "The reason I study is to learn new things.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nHw0pbD0ERGvoN6TKxZMeA6x2PA.webp"
+                },
+                {
+                    "title": "Not Always Rational",
+                    "description": "Sometimes people say 'for some reason' when a reason isn't clear or logical.",
+                    "example": "For some reason, I felt anxious.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/pc5kOdtTtdJ0MCv9fFXLObsDncE.webp"
+                }
+            ]
+        },
+        {
+            "id": "7f04e8de-ede3-4b87-a4b8-c55ca97ae7f6",
+            "de": "The power of the mind to think, understand, and form judgments logically",
+            "ty": "noun",
+            "ex": "Humans possess the ability to reason.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "ability to reason",
+                " reason with",
+                " lack of reason"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7f04e8de-ede3-4b87-a4b8-c55ca97ae7f6.webp",
+            "Tips": [
+                {
+                    "title": "Logical Thinking",
+                    "description": "Use to describe someone's ability to think clearly and make good judgments.",
+                    "example": "Her reason was evident in her decision-making.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conflict Resolution",
+                    "description": "In disagreements, to 'reason with' someone means to discuss calmly.",
+                    "example": "I managed to reason with the upset customer.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Intellectual Ability",
+                    "description": "Refers to a fundamental human characteristic to understand and learn.",
+                    "example": "The philosopher argued about the nature of human reason.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f1d32991-65ea-451c-8da3-a7c4a0f208e2",
+            "de": "Think about something in a logical and sensible way",
+            "ty": "verb",
+            "ex": "She reasoned that the crime could not have occurred as the police suggest.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reasoned that",
+                " reason with",
+                " reasoned argument"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f1d32991-65ea-451c-8da3-a7c4a0f208e2.webp",
+            "Tips": [
+                {
+                    "title": "Sensible Planning",
+                    "description": "Thinking or arguing logically about future actions.",
+                    "example": "She reasoned out the best way to approach the problem.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Predicting Outcomes",
+                    "description": "Used to describe the logical process of determining what may happen.",
+                    "example": "We must reason what will occur if we take no action.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a18cf9db-d141-4bfe-b2cd-3136efcb785e",
+            "de": "Persuade someone with logical argument",
+            "ty": "verb",
+            "ex": "He tried to reason with his captors.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reason with",
+                " reasoned argument",
+                " reason against"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a18cf9db-d141-4bfe-b2cd-3136efcb785e.webp",
+            "Tips": [
+                {
+                    "title": "Convincing Others",
+                    "description": "To use logic to change someone's mind or explain your viewpoint.",
+                    "example": "He tried to reason his way out of punishment.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Avoiding Conflict",
+                    "description": "When you 'reason with' someone, it implies an attempt to avoid aggression.",
+                    "example": "He reasoned with the bullies instead of fighting.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Argument": {
+            "wordRoot": "Argument",
+            "wordDefinition": "Argument refers to a debate or disagreement between two or more people where they present their views or opinions with the intention of convincing the others that their own viewpoint is correct.\n\nReasoning is applicable in situations where one needs to analyze a problem, make an informed decision, or support an argument with evidence.\n\nAn argument is a debate that may or may not be backed by logic or evidence, while reason is a logical process used to support an argument, make a decision or solve a problem.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1928ea66-d516-465d-92fb-a8db5954ae0d.webp"
+        },
+        "Basis": {
+            "wordRoot": "Basis",
+            "wordDefinition": "Basis refers to the underlying foundation or support for something. For example, the basis for a strong relationship might include trust, communication, and respect.\n\nThe basis for an argument might be supported by evidence or facts.\n\nBasis refers to the underlying support or foundation, while reason refers to the explanation or justification for something.\n\nThese words can be used interchangeably in some cases, but generally, basis is more focused on the foundation of something, while reason is more focused on the explanation for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bccc858d-df5d-436a-9b43-32ca192371e8.webp"
+        },
+        "Explanation": {
+            "wordRoot": "Explanation",
+            "wordDefinition": "An explanation is a detailed description of a process or a concept, while a reason is a statement that explains why something has occurred.\n\nAn explanation would go into more detail about what specific cost-cutting measures were put into place and how they would impact the decision.\n\nExplanations are more applicable when someone is trying to understand how something works or how a particular decision was made.\n\nIn summary, explanations provide a more detailed understanding of a process, while reasons provide the cause behind something happening.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/feb0709b-fed8-4186-9b24-c40a31a00d24.webp"
+        },
+        "Ground": {
+            "wordRoot": "Ground",
+            "wordDefinition": "Ground typically refers to a physical surface or terrain. For example, we say that we walk on the ground or play sports on a field or ground.\n\nIt can also refer to a justification for something, such as the grounds for a legal case or grounds for dismissal from a job.\n\nGround often relates to physical or legal context, while reason relates to explanation and logic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d1c2c51-78cb-4921-8f59-678005e314cf.webp"
+        },
+        "Justification": {
+            "wordRoot": "Justification",
+            "wordDefinition": "Justification and reason are similar but have slight differences.\n\nJustification is a stronger and more complex form of reason. It involves explaining why your actions or beliefs are justified, or why they make sense in a wider context.\n\nFor example, if you ask someone why they cheated on a test, they might say \"I felt like I had to, in order to pass the class and graduate\" - this is a justification, a more nuanced explanation that attempts to explain the reasoning behind why they cheated.\n\nIn summary, reasons are simple explanations for actions or beliefs, while justifications are more complex and attempt to show why those actions or beliefs make sense in a broader context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e2344ae2-f1c2-464d-b5d1-6004e7944c53.webp"
+        },
+        "Logic": {
+            "wordRoot": "Logic",
+            "wordDefinition": "Logic and reason are related, but they have distinct meanings. Logic refers to a specific system for thinking and coming to conclusions, while reason is about using your judgement and common sense to understand and make sense of things.\n\nLogic is applicable in formal and technical contexts where precise reasoning and analysis are required, such as in mathematics, computer science, and philosophy.\n\nIt's a more abstract concept than logic and involves using your own perception, experience, and understanding to arrive at a conclusion.\n\nLogic is a more systematic and formal approach to thinking, while reason encompasses a broader set of skills and ways of understanding the world.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/680c1c88-78b2-4c7d-b538-a919f529c618.webp"
+        },
+        "Motive": {
+            "wordRoot": "Motive",
+            "wordDefinition": "Motive and reason are two words that refer to the cause or purpose behind someone's actions. The difference is that motive refers to a person's internal desire or intention to do something, while reason refers to an explanation or justification for their actions.\n\nFor example, a person might have a motive for committing a crime, such as revenge or greed. A person might have a reason for breaking the law, such as self-defense or necessity.\n\nMotive describes a person's personal or emotional motivation for doing something, while reason describes a logical or practical explanation for their actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/90e906ff-14c9-4bc6-911d-4290285babc9.webp"
+        },
+        "Rationality": {
+            "wordRoot": "Rationality",
+            "wordDefinition": "Rationality is the quality of being logical and reasonable based on facts or evidence, while reason is the process of thinking in a logical and rational way.\n\nRationality is applicable to decision-making, problem-solving, and critical thinking, while reason is applicable to argumentation, deduction, and induction.\n\nRationality refers to the outcome, while reason refers to the process.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/386de4a9-d137-4f7e-aa5a-cda775f996e3.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " If you rarely eat sugar or don't eat much at a time, the effect is similar to that of the balanced meal. But if you eat too much, the dopamine response does not level out. In other words, eating lots of sugar will continue to feel rewarding. In this way, sugar behaves a little bit like a drug. It's one reason people seem to be hooked on sugary foods.",
+            "Title": "How sugar affects the...",
+            "VideoId": "lEXBxijQREo",
+            "Controls": "start=242"
+        },
+        {
+            "Text": " reason we did it offshore is because everybody kind of knew that that was an era thing because if we had no problem with it we just do it here so we hit it away because we knew it was uncomfortable because we know what our values are so what's been happening in the world is we've been evaluating all of the things that have been going on by",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=475"
+        },
+        {
+            "Text": " and attention seeking. Grandiose narcissists pursue attention and power, sometimes as politicians, celebrities, or cultural leaders. Of course, not everyone who pursues these positions of power is narcissistic. Many do it for very positive reasons, like reaching their full potential, or helping make people's lives better.",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=86"
+        },
+        {
+            "Text": " and they say, Okay, so this is what you do when you go in for the job interview, right? You know, so we were of course horrified, and said, Oh my God, no, that's not what we meant at all. For numerous reasons, no, don't do that. Again, this is not about you talking to other people. It's you talking to yourself.",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=807"
+        },
+        {
+            "Text": " It's not the absurdity of bureaucracy alone, but the irony of the character's circular reasoning in reaction to it that is emblematic of Kafka's writing. His tragicomic stories act as a form of mythology for the modern industrial age, employing dream logic to explore the relationships",
+            "Title": "What makes something...",
+            "VideoId": "wkPR4Rcf4ww",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " Researchers have linked poor posture to scoliosis, tension headaches, and back pain, though it isn't the exclusive cause of any of them. Posture can even influence your emotional state and your sensitivity to pain. So there are a lot of reasons to aim for good posture.",
+            "Title": "The benefits of good...",
+            "VideoId": "OyK0oE5rwFY",
+            "Controls": "start=67"
+        },
+        {
+            "Text": " Whatever the reason, it must be very important, for a sloth on the ground is almost helpless. Any predator could attack it and it doesn't have the speed to escape. Why it comes down in this way is a mystery. Nobody knows.",
+            "Title": "The 'Busy' Life of the...",
+            "VideoId": "ndMKTnSRsKM",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " He reasoned that as the wheels spun, the mercury would flow to the bottom of each reservoir, leaving one side of the wheel perpetually heavier than the other. The imbalance would keep the wheel turning forever.",
+            "Title": "Why don't perpetual...",
+            "VideoId": "A-QgGXbDyR0",
+            "Controls": "start=17"
+        },
+        {
+            "Text": " i believe that we were all brought into this universe for purpose you exist for a very definite reason",
+            "Title": "Own the Room PIPE Official...",
+            "VideoId": "BS1n2UDqYzU",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " Deeper into the swamp lies the reason for all this fishing.",
+            "Title": "The Dark Side of...",
+            "VideoId": "4ArjlPAU_X4",
+            "Controls": "start=66"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chuck-palahniuk.webp",
+            "Text": "I think it's more important to write something that brings men back to reading than it is to write for people who already read. There's a reason men don't read, and it's because books don't serve men. It's time we produce books that serve men.",
+            "Title": "American Novelist",
+            "Name": "Chuck Palahniuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alice-walker.webp",
+            "Text": "The animals of the world exist for their own reasons. They were not made for humans any more than black people were made for white, or women created for men.",
+            "Title": "American Author",
+            "Name": "Alice Walker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viola-davis.webp",
+            "Text": "This is the richest country in the world. There's no reason kids should be going to school hungry. Food is something that everyone should have. It just is.",
+            "Title": "American Actress",
+            "Name": "Viola Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/les-brown.webp",
+            "Text": "When life knocks you down, try to land on your back. Because if you can look up, you can get up. Let your reason get you back up.",
+            "Title": "American Speaker",
+            "Name": "Les Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-baldwin.webp",
+            "Text": "The reason people think it's important to be white is that they think it's important not to be black.",
+            "Title": "American Novelist",
+            "Name": "James Baldwin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/abraham-lincoln.webp",
+            "Text": "Common looking people are the best in the world: that is the reason the Lord makes so many of them.",
+            "Title": "American President",
+            "Name": "Abraham Lincoln"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "For some reason, I'm really comfortable talking about my personal life in songs.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/blaise-pascal.webp",
+            "Text": "We know the truth, not only by the reason, but also by the heart.",
+            "Title": "French Philosopher",
+            "Name": "Blaise Pascal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-aquinas.webp",
+            "Text": "Reason in man is rather like God in the world.",
+            "Title": "Italian Theologian",
+            "Name": "Thomas Aquinas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aristotle.webp",
+            "Text": "The law is reason, free from passion.",
+            "Title": "Greek Philosopher",
+            "Name": "Aristotle"
+        }
+    ]
+}

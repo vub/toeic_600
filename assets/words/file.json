@@ -1,0 +1,377 @@
+{
+    "currentWord": {
+        "wordRoot": "file",
+        "id": 11964,
+        "phonemic": "faɪl|faɪl\r",
+        "bigId": "4b333a4e-d8ec-4bda-8ac6-3cbd6d6b19d4",
+        "wordForms": [
+            "files",
+            "filing",
+            "filed",
+            "file"
+        ]
+    },
+    "senses": [
+        {
+            "id": "4b333a4e-d8ec-4bda-8ac6-3cbd6d6b19d4",
+            "de": "A folder or box for holding loose papers that are organized.",
+            "ty": "noun",
+            "ex": "Please, submit your documents in a file.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "file a document",
+                " file a report",
+                " file for something"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4b333a4e-d8ec-4bda-8ac6-3cbd6d6b19d4.webp",
+            "Tips": [
+                {
+                    "title": "Physical Storage",
+                    "description": "Refers to tangible paper organization methods, not digital.",
+                    "example": "Could you retrieve the client's file from the cabinet?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/iRB3XDUolfCFO4W4KTU7i7wXia8.webp"
+                },
+                {
+                    "title": "Professional Term",
+                    "description": "Commonly used in office and administrative settings for paperwork handling.",
+                    "example": "Please file these documents before you leave today.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7W5AKsx2zMjeXj2hzimcSuZx1M.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4f4bc81f-6524-43f6-8f12-2f2eb36e671e",
+            "de": "Submit (a legal document, application, or charge) to be placed on record by the appropriate authority.",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "She filed a lawsuit against the company.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "file a lawsuit",
+                " file an application",
+                " file charges"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4f4bc81f-6524-43f6-8f12-2f2eb36e671e.webp",
+            "Tips": [
+                {
+                    "title": "Legal Action",
+                    "description": "Often used in legal contexts to begin formal processes or complaints.",
+                    "example": "He decided to file for divorce.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "First Step",
+                    "description": "Indicates the initial action in a series of legal procedures.",
+                    "example": "The first thing to do is file the form with the court.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0239893e-9cc8-417d-8c19-c71f2e3dc00f",
+            "de": "Use a file to smooth or remove rough edges or small amounts from something.",
+            "ty": "verb",
+            "ex": "She filed her nails before leaving for the party.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "file the nails",
+                " file down",
+                " file off"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0239893e-9cc8-417d-8c19-c71f2e3dc00f.webp",
+            "Tips": [
+                {
+                    "title": "Manual Labor",
+                    "description": "Involves a physical action to shape or finish materials by hand.",
+                    "example": "The carpenter filed the wood to make it smooth.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Fine Adjustment",
+                    "description": "Used for precise shaping or subtle removal, not large-scale changes.",
+                    "example": "Carefully file the edges until the two pieces fit together.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f3a67922-9e49-4780-9c47-3c1814b3dd45",
+            "de": "A tool with a rough surface for smoothing or removing small amounts from something",
+            "ty": "noun",
+            "ex": "He used a file to sharpen the knife.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "needle file",
+                " nail file",
+                " rasp file"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f3a67922-9e49-4780-9c47-3c1814b3dd45.webp",
+            "Tips": [
+                {
+                    "title": "Specific Tool",
+                    "description": "Relates to a hand tool, not machinery or digital objects.",
+                    "example": "His toolkit includes several types of files for woodworking.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Craftsmanship",
+                    "description": "Associated with careful work, often in arts or trades.",
+                    "example": "She took a file to smooth the sculpture's rough surfaces.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b318eb5f-b28d-4be6-a3e4-5cd8c3f78988",
+            "de": "A set of data in a computer, treated as a unit by the operating system.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Save the document as a file.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "file format",
+                " file size",
+                " file type"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b318eb5f-b28d-4be6-a3e4-5cd8c3f78988.webp",
+            "Tips": [
+                {
+                    "title": "Digital Item",
+                    "description": "Refers to a collection of digital information, not physical papers.",
+                    "example": "Download the file from the email attachment.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Computer Context",
+                    "description": "Used in relation to computers, smartphones, or digital storage devices.",
+                    "example": "Remember to back up your files to prevent data loss.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Many Formats",
+                    "description": "Comes in various types like .doc, .pdf, .jpg for different content.",
+                    "example": "Please save the image as a .png file.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0d3bf7a1-c850-4009-8e1b-b7ebc5d572b0",
+            "de": "Arrange (documents) in convenient order for storage or reference.",
+            "ty": "verb",
+            "ex": "The secretary filed all the letters alphabetically.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "file away",
+                " file in",
+                " file under"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0d3bf7a1-c850-4009-8e1b-b7ebc5d572b0.webp",
+            "Tips": [
+                {
+                    "title": "Organization System",
+                    "description": "About creating a system to find documents easily later.",
+                    "example": "File the contracts in the 'completed' folder for easy access.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Regular Maintenance",
+                    "description": "Routine part of office work to keep documents organized over time.",
+                    "example": "End each week by filing any new paperwork on your desk.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Archive": {
+            "wordRoot": "Archive",
+            "wordDefinition": "Archive describes a collection of important, historical or valuable documents or information that are carefully preserved and protected for future generations.\n\nArchives can contain museums, historical societies, or government institutions, and they can hold anything from old photographs to ancient manuscripts.\n\nA file is a container for digital or physical documents that are organized and stored for future use, while an archive is a collection of significant or precious documents that are preserved for historical or reference purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/52d17870-6b63-4f95-a147-4438a2139e27.webp"
+        },
+        "Catalogue": {
+            "wordRoot": "Catalogue",
+            "wordDefinition": "A catalogue is a list or collection of items arranged systematically, often with descriptions or pictures. It's usually used to showcase products for sale or to categorize items for easy reference.\n\nFor example, a clothing store might have a catalogue of all its merchandise to make it easier for customers to browse and order from.\n\nA catalogue is a list of items for display or reference, while a file is a document or collection of data for storage and organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/941a39ec-5b31-4254-987a-eb9b3c6a2311.webp"
+        },
+        "Document": {
+            "wordRoot": "Document",
+            "wordDefinition": "A document is a physical or digital record that contains information, such as text or images. It could be a letter, report, or presentation.\n\nA file is a container for storing documents or other types of data.\n\nIn simpler terms, a document is the content while a file is the container that holds the content. For example, a word processing document is the text, while the file is the document saved to your computer’s hard drive.\n\nDocuments are applicable in situations where you need to create or record something, such as in school or at work. Files are applicable when you need to store or organize documents or data on your computer or online.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61984871-0b17-4e65-a80e-607a21f7a6fb.webp"
+        },
+        "Dossier": {
+            "wordRoot": "Dossier",
+            "wordDefinition": "Both dossier and file are used to refer to a collection of papers or documents.\n\nHowever, the word dossier typically refers to a collection of documents or information regarding a particular person, organization, or subject that is compiled for reference or analysis.\n\nFor example, a detective might gather a dossier on a suspect in a criminal investigation.\n\nDossier is commonly used in situations where there is organized and detailed documentation related to a particular thing or person, while file is a more general term for a collection of documents.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4e56c183-71cd-41b9-bad4-5e1a0072fa5c.webp"
+        },
+        "Folder": {
+            "wordRoot": "Folder",
+            "wordDefinition": "A folder is a container that can hold multiple files.\n\nThink of a file as a piece of paper with writing on it, and a folder as a filing cabinet that can hold multiple pieces of paper.\n\nJust like you would use a filing cabinet to organize and store multiple documents, you would use a folder on your computer to organize and store multiple files.\n\nFiles are applicable for things like individual documents, photos, or videos, while folders are applicable for organizing those files into different categories or topics.\n\nFor example, you might have a folder called \"School\" where you store all your documents and assignments related to your classes, and within that folder, you might have subfolders for each class.\n\nIn short, files hold individual pieces of information, while folders organize and store multiple files.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/39604413-b2f6-4da0-9043-9e7be64a0f9e.webp"
+        },
+        "Inventory": {
+            "wordRoot": "Inventory",
+            "wordDefinition": "Inventory usually refers to a list or record of all the items or products that a business has in stock. Inventories are essential in managing and tracking the products that are bought and sold by a company.\n\nFor example, a grocery store would keep an inventory of all the items they have in stock, including their quantities, so that they know when they need to reorder and restock.\n\nIn summary, while both file and inventory relate to organizing and keeping records, the former is more applicable to documents or papers, while the latter is more relevant to goods, products, or physical items.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1.webp"
+        },
+        "Record": {
+            "wordRoot": "Record",
+            "wordDefinition": "A record refers to a single piece of information or data that is stored and maintained in a file. For example, in a record of student grades, each student's grade is considered a record.\n\nIn simpler terms, a file is like a book that contains several chapters or sections, while a record is like a sentence or a single piece of information within each chapter or section.\n\nIn practice, you might use the term file when talking about a collection of records, and record when discussing a single piece of information within that collection.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/39d86227-3e4d-4457-95c0-d2441a2bfb8d.webp"
+        },
+        "Register": {
+            "wordRoot": "Register",
+            "wordDefinition": "Register can refer to a list or record that is kept to track information or events, like a register of employee attendance or a register of customer purchases.\n\nFile is more commonly used in the context of documents or data storage, while register is more commonly used in the context of tracking information or events.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3d315ee-352d-4337-a592-7a5c9a8f9a0f.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " instructions to move your mouse around on the screen, to run that clock widget on your desktop, play your internet radio, manage the files you're editing on the hard drive, and much, much more. Your computer's CPU is one heck of a multitasker! \"But oh my gosh there's a very important mouse click",
+            "Title": "Inside your computer -...",
+            "VideoId": "AkFi90lZmXA",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " was bent over backwards to help us with anything we needed. So now we had a hangar space to work in, and prototypes to demo with. So in one year, we've negotiated manufacturing agreements, been awarded one patent, filed our second patent, talked to multiple people, demoed this to FEMA",
+            "Title": "Michael McDaniel: Cheap,...",
+            "VideoId": "rx1cyKs3ysg",
+            "Controls": "start=392"
+        },
+        {
+            "Text": " In many ways, our memories make us who we are, helping us remember our past, learn and retain skills, and plan for the future. And for the computers that often act as extensions of ourselves, memory plays much the same role, whether it's a two-hour movie, a two-word text file,",
+            "Title": "How computer memory...",
+            "VideoId": "p3q5zWCw8J4",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " To do this, we make a small cut or scratch into the seed coat. Be careful not to cut too deep! You don't want to damage the plant embryo inside. Another way is to file down the seed coat using sandpaper or a nail file. Once again, you don't want to file too much,",
+            "Title": "Got seeds? Just add...",
+            "VideoId": "9zmB3Gx3e_s",
+            "Controls": "start=106"
+        },
+        {
+            "Text": " The last hundred years have seen an incredible proliferation of devices that help you listen to the same thing again and again. Records, cassettes, CDs, or streamed audio files. Have these technologies bread some kind of unique, contemporary experience,",
+            "Title": "Earworms: Those songs...",
+            "VideoId": "3NE_OoO-N54",
+            "Controls": "start=122"
+        },
+        {
+            "Text": " file copy of eyes McClure the guns come back clean but the trespassers aren't off the hook what I'm gonna give you is a citation for the motor vehicle trespass in the wildlife area okay that one empty magazines make sure all the guns are clear",
+            "Title": "Troublesome Trespassers...",
+            "VideoId": "5ih-ZNaAd-E",
+            "Controls": "start=147"
+        },
+        {
+            "Text": " try to keep everything as as real as possible I messed up on the on the flat files because mine actually has five and I only made four I don't know why cuz they open and close anyone yeah they open and close and very important for a",
+            "Title": "See an Apocalyptic World...",
+            "VideoId": "nZh3Oi7d0q0",
+            "Controls": "start=317"
+        },
+        {
+            "Text": " radiation and no oxygen any life that would live here would have to be a form of extreme file so this is a type of life that can survive in and might even actually require these kind of extreme conditions but how do we go about",
+            "Title": "What does an alien look...",
+            "VideoId": "BEjjft5UILo",
+            "Controls": "start=68"
+        },
+        {
+            "Text": " But flexibility was more important, especially for the on-the-go reader. As the book evolves and we replace bound texts with flat screens and electronic ink, are these objects and files really books? Does the feel of the cover",
+            "Title": "The evolution of the...",
+            "VideoId": "_YqYtdPUis4",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " enough not to draw attention away from the dinosaur punchin is filing down part of the rib armature again this is specifically made like a piece of jewelry it has to hold a specific piece",
+            "Title": "Making Dinosaurs Come...",
+            "VideoId": "NBNIiG19o8E",
+            "Controls": "start=151"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chris-eigeman.webp",
+            "Text": "If I can feel that actual people made the thing, and that they have deeply felt opinions about it, and care about this, and don't care about that and so on and so on - then I think it falls into the 'independent' file.",
+            "Title": "American Actor",
+            "Name": "Chris Eigeman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-r-r-martin.webp",
+            "Text": "I have files, I have computer files and, you know, files on paper. But most of it is really in my head. So God help me if anything ever happens to my head!",
+            "Title": "American Author",
+            "Name": "George R. R. Martin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tamron-hall.webp",
+            "Text": "I date, don't get me wrong. I'm not up here filing my fingernails on a Friday night. I want to find someone to share my life with.",
+            "Title": "American Journalist",
+            "Name": "Tamron Hall"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pinarayi-vijayan.webp",
+            "Text": "Government officials should recognize that the files in front of them represent very important issues in the lives of people.",
+            "Title": "Indian Politician",
+            "Name": "Pinarayi Vijayan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/martina-navratilova.webp",
+            "Text": "Labels are for filing. Labels are for clothing. Labels are not for people.",
+            "Title": "American Tennis Player",
+            "Name": "Martina Navratilova"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-colson.webp",
+            "Text": "Deep Throat is a guy who could have your files and mine in his trust.",
+            "Title": "American Lawyer",
+            "Name": "Charles Colson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ken-thompson.webp",
+            "Text": "We have persistant objects, they're called files.",
+            "Title": "American Scientist",
+            "Name": "Ken Thompson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harvey-fierstein.webp",
+            "Text": "How time files when you's doin' all the talking.",
+            "Title": "American Actor",
+            "Name": "Harvey Fierstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/w-mark-felt.webp",
+            "Text": "The Bureau doesn't have any secret files.",
+            "Title": "American Public Servant",
+            "Name": "W. Mark Felt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aneurin-bevan.webp",
+            "Text": "Poor fellow, he suffers from files.",
+            "Title": "Welsh Politician",
+            "Name": "Aneurin Bevan"
+        }
+    ]
+}

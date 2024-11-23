@@ -1,0 +1,343 @@
+{
+    "currentWord": {
+        "wordRoot": "capacity",
+        "id": 4798,
+        "phonemic": "kəˈpæsəti|kəˈpæsəti\r",
+        "bigId": "958213bb-0ee8-466c-bcc8-6fc3e1faca41",
+        "wordForms": [
+            "capacities",
+            "capacity"
+        ]
+    },
+    "senses": [
+        {
+            "id": "958213bb-0ee8-466c-bcc8-6fc3e1faca41",
+            "de": "The maximum amount that something can contain or produce",
+            "ty": "noun",
+            "ex": "The stadium has a seating capacity of 50,000 people.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "seating capacity",
+                " storage capacity",
+                " maximum capacity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/958213bb-0ee8-466c-bcc8-6fc3e1faca41.webp",
+            "Tips": [
+                {
+                    "title": "Quantitative Limits",
+                    "description": "Refers to specific numbers illustrating the limit of a space or object.",
+                    "example": "The bottle's capacity is two liters.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kj9zRvZSobvG3YTzDZMwdWNtgw.webp"
+                },
+                {
+                    "title": "Physical Constraints",
+                    "description": "Indicates the physical boundaries within which something operates or fits.",
+                    "example": "The suitcase has a capacity of 45 kilograms.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/uFHsuf2y6G7ixmkMsTEKVNomXsM.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "03575353-b04e-4ada-af11-b25b934b9fe3",
+            "de": "The ability or power to do, experience, or understand something",
+            "ty": "noun",
+            "ex": "She has a great capacity for learning new languages.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "learning capacity",
+                " mental capacity",
+                " capacity for understanding"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/03575353-b04e-4ada-af11-b25b934b9fe3.webp",
+            "Tips": [
+                {
+                    "title": "Personal Abilities",
+                    "description": "Highlights a person's capability in mental or emotional terms.",
+                    "example": "She has the capacity to empathize with others.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Growth Potential",
+                    "description": "Refers to the potential to develop a skill or ability further.",
+                    "example": "He has the capacity to improve his math skills.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Self-development",
+                    "description": "Capacity can imply a person's readiness to learn or adapt to new situations.",
+                    "example": "Traveling alone for the first time challenged her emotional capacity.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e0badb38-4b9c-47cc-aff3-2c4588aa1ca6",
+            "de": "A person's role or job",
+            "ty": "noun",
+            "ex": "He is working in the capacity of a teacher.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "in the capacity of",
+                " official capacity",
+                " his capacity as"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e0badb38-4b9c-47cc-aff3-2c4588aa1ca6.webp",
+            "Tips": [
+                {
+                    "title": "Technical Specifications",
+                    "description": "Used to describe technical properties, often in computers and electronics.",
+                    "example": "This USB drive has a capacity of 128GB.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specific Terms",
+                    "description": "In computing, refers to data storage and memory capabilities.",
+                    "example": "Upgrade your RAM to increase the computer's capacity.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Upgrade Relevance",
+                    "description": "Capacity in computing often dictates device upgrade decisions.",
+                    "example": "A low capacity SSD may need upgrading to store more games.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ef552b47-3e13-4b6d-b77a-74bf2980e5a4",
+            "de": "The amount that something can hold",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The laptop has a hard drive capacity of 500 gigabytes.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "cl": [
+                "disk capacity",
+                " memory capacity",
+                " storage capacity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ef552b47-3e13-4b6d-b77a-74bf2980e5a4.webp",
+            "Tips": [],
+            "tp": "",
+            "op": ""
+        },
+        {
+            "id": "729a3575-860c-4bd7-ae6c-e15afa4c72ed",
+            "de": "Legal authority to make decisions",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "He signed the contract in his capacity as the company's CEO.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "legal capacity",
+                " capacity to contract",
+                " his capacity as"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/729a3575-860c-4bd7-ae6c-e15afa4c72ed.webp",
+            "Tips": [
+                {
+                    "title": "Legal Power",
+                    "description": "Indicates the legal power or role given to a person or organization.",
+                    "example": "As a guardian, you have the capacity to make decisions for the child.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Authority Context",
+                    "description": "Used to describe the jurisdiction or range of one's authoritative role.",
+                    "example": "The manager has the capacity to hire new employees.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Ability": {
+            "wordRoot": "Ability",
+            "wordDefinition": "Ability refers to the capability or skill to do something. It usually refers to a specific talent, skill or competence that one possesses.\n\nFor example, someone may have the ability to cook, write, or sing.\n\nAbility focuses on skills or talents while capacity focuses on potential or the amount something can hold. Both words are applicable in different contexts and it is important to use the correct word depending on the situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74f458fc-b291-47df-b505-9e5a5a53dbc5.webp"
+        },
+        "Aptitude": {
+            "wordRoot": "Aptitude",
+            "wordDefinition": "Aptitude refers to a person's natural ability or talent to do something well. It is innate and cannot be learned or acquired through training.\n\nFor example, if someone has an aptitude for music, they have a natural ability to play an instrument or sing well.\n\nAptitude refers to natural ability, while capacity refers to the ability to learn and acquire new skills through education and training.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5451b727-0d7a-4718-8a0f-4f9fcb59a480.webp"
+        },
+        "Capability": {
+            "wordRoot": "Capability",
+            "wordDefinition": "Capability and capacity are two similar words with subtle differences.\n\nCapability refers to the level of skill or ability a person or thing possesses to complete a particular task. For instance, a person may have the capability to sing well or a machine may have the capability to produce 100 units of a product in a day.\n\nCapability is about what a person or thing can do, while capacity is about how much they can do. Capability is more about the quality of performance, whereas capacity is more focused on quantity or volume.\n\nCapability can be used in assessing and developing individual skills, while capacity can be used in logistics and operations planning.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/69a50592-1073-4d17-9da4-6c4c43345d8f.webp"
+        },
+        "Competence": {
+            "wordRoot": "Competence",
+            "wordDefinition": "Competence refers to the ability to do something well or efficiently, like someone's skill set or expertise in a particular area.\n\nSo, while capacity is about how much someone or something can hold, competence is about their ability to do something well.\n\nCapacity is applicable in fields like architecture or engineering, while competence is applicable in fields like medicine or law.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/85b4ef04-bce0-4254-b375-2831aee4289c.webp"
+        },
+        "Potential": {
+            "wordRoot": "Potential",
+            "wordDefinition": "Capacity and potential are often used interchangeably, but they actually have different meanings.\n\nPotential refers to what something or someone can become. It's the possibility of achieving something in the future. For example, a student might have the potential to become a doctor because they have the intelligence, work ethic, and desire to succeed in medical school.\n\nCapacity is about what something or someone can do right now, while potential is about what they can become in the future.\n\nCapacity is measurable, while potential is a possibility.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f8b3cef8-79a6-4643-954f-8a38a8e5ef42.webp"
+        },
+        "Power": {
+            "wordRoot": "Power",
+            "wordDefinition": "Capacity and Power are both words that indicate the ability to do something, but they have different meanings and uses.\n\nPower refers to the ability to control, influence or affect something or someone.\n\nPower can be physical, political or economic.\n\nFor example, an athlete may have the power to lift heavy weights or a leader may have the power to make important decisions.\n\nIn physics, power is the rate at which work is done or energy is transferred.\n\nCapacity refers to the amount of something that can be held or accommodated, while power describes the ability to control, influence or affect something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/45a387c8-56f6-4ab7-b58f-1af8866b07d7.webp"
+        },
+        "Proficiency": {
+            "wordRoot": "Proficiency",
+            "wordDefinition": "Proficiency refers to a person's skill or ability to do something well. For example, if someone has proficiency in playing the guitar, it means that they are skilled at playing the guitar.\n\nCapacity is applicable when talking about how much of something can fit inside a container or space. Proficiency is applicable when discussing someone's skill or ability in a particular domain or activity.\n\nCapacity refers to the amount that can be held, while proficiency refers to a person's skill or ability in a particular activity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aec6a1e4-469d-4965-9176-0b3f6e236260.webp"
+        },
+        "Sufficiency": {
+            "wordRoot": "Sufficiency",
+            "wordDefinition": "Capacity refers to the maximum amount that something can hold or do, while sufficiency refers to having enough or being adequate.\n\nIn terms of usage, capacity is more commonly used in quantitative or measurable terms. In contrast, sufficiency is more often used in qualitative or subjective terms.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/88f1c0f0-cbf8-4394-b3a6-8cba11b0b4eb.webp"
+        },
+        "Talent": {
+            "wordRoot": "Talent",
+            "wordDefinition": "Talent refers to a natural ability or skill that a person possesses, such as musical talent or artistic talent.\n\nTalent is often seen as an innate gift that can be nurtured and developed over time.\n\nIn simpler terms, capacity is about how much a person or object can handle or hold, while talent is about a person's natural abilities or strengths.\n\nCapacity is applicable in situations where you need to determine how much of something can be accommodated or handled, while talent is used in situations where a person's abilities or strengths are relevant, such as in job interviews or career planning.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f99d8f97-686b-4ac0-87bf-062bb976cb39.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " From bicycles to jet packs, from looking up at the stars to entering outer space in the shuttle, our capacity to acquire knowledge and imagination to achieve impossible goals appears to be limitless. Exciting developments in the worlds of both humans and superheroes will always influence each other.",
+            "Title": "If superpowers were...",
+            "VideoId": "0jF9xyF8mxQ",
+            "Controls": "start=92"
+        },
+        {
+            "Text": " allowing scientists to study the long-term physical and psychological effects of being in space, which would prove useful for increasingly ambitious space travel, like trips to Mars. Over its lifetime, we've learned an immense amount scientifically, but also about our capacity to work together",
+            "Title": "The incredible...",
+            "VideoId": "bJ3oTTm_Pdo",
+            "Controls": "start=257"
+        },
+        {
+            "Text": " That's incredible when we think about how vast the universe is. Why would we expect it to be the same across such huge distances? On the scale of a galaxy, let alone the universe, we're smaller than we can readily comprehend, but we do have the capacity to wonder, to question, to explore,",
+            "Title": "How small are we in the...",
+            "VideoId": "WYQ3O8U6SMY",
+            "Controls": "start=200"
+        },
+        {
+            "Text": " if you believe in an afterlife, maybe you continue. But if you think of yourself as being, in a way, not a thing as such, but a kind of a process, something that is changing, then I think that's quite liberating. Because unlike the the waterfalls, we actually have the capacity to channel",
+            "Title": "Julian Baggini: Is there...",
+            "VideoId": "Q80MfH7xPPE",
+            "Controls": "start=588"
+        },
+        {
+            "Text": " This amazing advance in storage capacity wasn't just a matter of making everything smaller, but involved multiple innovations. A technique called the thin film lithography process allowed engineers to shrink the reader and writer. And despite its size, the reader became more sensitive",
+            "Title": "How do hard drives work?...",
+            "VideoId": "wteUW2sL7bc",
+            "Controls": "start=133"
+        },
+        {
+            "Text": " an amazing african-american female mathematician who changed the world because of catherine and nasa we've embraced that diversity of thought only improves our capacity to make change both in outer space and here on earth younger versions of myself don't have to",
+            "Title": "NASA Trailblazer:...",
+            "VideoId": "E4j_LpKzcZQ",
+            "Controls": "start=238"
+        },
+        {
+            "Text": " still convincing haze's capacity to recognize himself as well as long-lost friends shows that orangutans are far more aware than previously thought it's hoped that one day even the orphaned orangutans raised in forest school can make a similar journey",
+            "Title": "Incredible Orangutan...",
+            "VideoId": "lG491lUjDDQ",
+            "Controls": "start=654"
+        },
+        {
+            "Text": " Or have you been bumped off a flight that you paid for? These are all symptoms of overbooking, a practice where businesses and institutions sell or book more than their full capacity. While often infuriating for the customer,",
+            "Title": "Why do airlines sell too...",
+            "VideoId": "ZFNstNKgEDI",
+            "Controls": "start=14"
+        },
+        {
+            "Text": " thank you so much for dinner solar power is scaling up faster than cellphones for six years running half the world's editions of electric generating capacity have been renewable and the fastest-growing parts have been",
+            "Title": "Why modern renewable...",
+            "VideoId": "Oo8iEL6SqgI",
+            "Controls": "start=2"
+        },
+        {
+            "Text": " is a capacity even more important than their sense of empathy, altruism, and justice. Elephants are the only non-human animals to mourn their dead, performing burial rituals and returning to visit graves.",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=220"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-king.webp",
+            "Text": "I've always believed in God. I also think that's the sort of thing that either comes as part of the equipment, the capacity to believe, or at some point in your life, when you're in a position where you actually need help from a power greater than yourself, you simply make an agreement.",
+            "Title": "Author",
+            "Name": "Stephen King"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "At Facebook, we build tools to help people connect with the people they want and share what they want, and by doing this we are extending people's capacity to build and maintain relationships.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viola-davis.webp",
+            "Text": "Sometimes you see how humanity can rise above any kind of cultural ills and hate that a person's capacity to love and communicate and forgive can be bigger than anything else.",
+            "Title": "American Actress",
+            "Name": "Viola Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thich-nhat-hanh.webp",
+            "Text": "Meditation can help us embrace our worries, our fear, our anger; and that is very healing. We let our own natural capacity of healing do the work.",
+            "Title": "Vietnamese Clergyman",
+            "Name": "Thich Nhat Hanh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brene-brown.webp",
+            "Text": "When you stop caring what people think, you lose your capacity for connection. When you're defined by it, you lose our capacity for vulnerability.",
+            "Title": "American Author",
+            "Name": "Brene Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-cousins.webp",
+            "Text": "The capacity for hope is the most significant fact of life. It provides human beings with a sense of destination and the energy to get started.",
+            "Title": "American Author",
+            "Name": "Norman Cousins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tony-robbins.webp",
+            "Text": "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
+            "Title": "American Speaker",
+            "Name": "Tony Robbins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-merton.webp",
+            "Text": "We must make the choices that enable us to fulfill the deepest capacities of our real selves.",
+            "Title": "American Author",
+            "Name": "Thomas Merton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/baruch-spinoza.webp",
+            "Text": "The world would be happier if men had the same capacity to be silent that they have to speak.",
+            "Title": "Dutch Philosopher",
+            "Name": "Baruch Spinoza"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jordan-peterson.webp",
+            "Text": "People have this capacity within them to set the world straight.",
+            "Title": "Canadian Psychologist",
+            "Name": "Jordan Peterson"
+        }
+    ]
+}

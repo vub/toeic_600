@@ -1,0 +1,330 @@
+{
+    "currentWord": {
+        "wordRoot": "budget",
+        "id": 4507,
+        "phonemic": "ˈbʌdʒɪt|ˈbʌdʒɪt\r",
+        "bigId": "21f7fdf0-ae3c-42a0-a3f6-fbbb56c5c1cc",
+        "wordForms": [
+            "budgets",
+            "budgeting",
+            "budgeted",
+            "budget"
+        ]
+    },
+    "senses": [
+        {
+            "id": "21f7fdf0-ae3c-42a0-a3f6-fbbb56c5c1cc",
+            "de": "The plan for how to spend money",
+            "ty": "noun",
+            "ex": "The company has a tight budget for this project",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "tight budget",
+                " annual budget",
+                " project budget"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/21f7fdf0-ae3c-42a0-a3f6-fbbb56c5c1cc.webp",
+            "Tips": [
+                {
+                    "title": "Metaphorical Use",
+                    "description": "Sometimes 'budget' is used metaphorically for time or other resources that need managing.",
+                    "example": "You'll need to budget your time wisely to prepare for the exam.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/etNLBN3kscMkHOVcSQoPtoAPY.webp"
+                },
+                {
+                    "title": "Prioritize Spending",
+                    "description": "'Budget' implies prioritizing some areas over others due to limited funds.",
+                    "example": "Our budget focuses on marketing more than development.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/uYYaYtKbyrClB6x0e3gTbpd38.webp"
+                },
+                {
+                    "title": "Budget Cuts",
+                    "description": "Discussing budget often involves the concept of 'cuts', or reductions in spending.",
+                    "example": "The new manager made significant budget cuts.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/CpuVCzhjh6ZZm9tMk4drfLZOIg8.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7ed73db7-44ce-4830-b8d2-fe7211f58c1b",
+            "de": "The money that is available to an organization and that is planned to be spent",
+            "ty": "noun",
+            "ex": "His department is getting a larger share of the budget",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "department budget",
+                " household budget",
+                " corporate budget"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7ed73db7-44ce-4830-b8d2-fe7211f58c1b.webp",
+            "Tips": [
+                {
+                    "title": "Funding Allocation",
+                    "description": "A budget often details how funds are allocated to different departments or needs.",
+                    "example": "The budget allocated more to research this year.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Fiscal Year",
+                    "description": "An annual budget is usually aligned with a company's or government's fiscal year.",
+                    "example": "The annual budget is prepared every fiscal year.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Budget Surplus & Deficit",
+                    "description": "A budget might result in 'surplus' (extra funds) or 'deficit' (a shortfall).",
+                    "example": "The project ended with a budget surplus.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f5ba54a6-da04-4b0f-9ac1-1a4d5d2dfdf3",
+            "de": "To plan to use a specific amount of money for something",
+            "ty": "verb",
+            "ex": "We must budget our resources to last throughout the project",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "budget for",
+                " budget wisely",
+                " budget to last"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f5ba54a6-da04-4b0f-9ac1-1a4d5d2dfdf3.webp",
+            "Tips": [
+                {
+                    "title": "Future Planning",
+                    "description": "Budgeting as a verb involves planning expenses in advance, not just tracking them.",
+                    "example": "We need to budget for potential repairs.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mindful Spending",
+                    "description": "To budget means to spend mindfully rather than freely, often to save money.",
+                    "example": "She budgeted carefully to afford her vacation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Resource Allocation",
+                    "description": "Using 'budget' as a verb is about both money and other resources like time or materials.",
+                    "example": "We must budget our supplies for the whole season.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "18df5585-85a2-4d4d-ac0c-1178168faa87",
+            "de": "low in price; offering good value",
+            "ty": "adjective",
+            "ex": "The hotel is a good budget option for travellers",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "budget hotel",
+                " budget flight",
+                " budget option"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/18df5585-85a2-4d4d-ac0c-1178168faa87.webp",
+            "Tips": [
+                {
+                    "title": "Cost-effective Choices",
+                    "description": "As an adjective, 'budget' often describes options that save money without sacrificing quality.",
+                    "example": "For budget travelers, hostels are a great choice.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No-Frills",
+                    "description": "Budget options often have fewer luxuries or added services included.",
+                    "example": "Budget airlines may charge extra for checked bags.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Perception of Quality",
+                    "description": "Sometimes 'budget' might carry a connotation of lower quality, but not always.",
+                    "example": "This budget printer has surprisingly good performance.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Allocate": {
+            "wordRoot": "Allocate",
+            "wordDefinition": "Allocate means to set aside or distribute resources, such as money, time, or supplies, for a specific purpose or task.\n\nIt is typically used in a more specific or precise context, such as allocating funds to a particular project or allocating time for different activities.\n\nBudget refers to a plan for managing and allocating financial resources over a certain period of time, usually a year. It is a more general term that encompasses all types of expenses and resources, including money, time, and personnel.\n\nBoth words are applicable in different contexts, but allocate is more specific and focused on a particular task, while budget is more broad and encompasses all aspects of financial planning.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/64c40776-14f2-4d1b-992c-4fbca1f445f9.webp"
+        },
+        "Cost": {
+            "wordRoot": "Cost",
+            "wordDefinition": "Cost refers to the actual amount of money spent on something after it is purchased or used. It is the total amount of money that has been used to acquire or produce something.\n\nFor example, the cost of a car includes the price of the car itself, any maintenance costs, and the price of gas used to drive it.\n\nBudget is applicable when you are planning your expenses, while cost is applicable when calculating your actual expenses.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/085b4924-fb2c-4f96-9948-826bd0b13358.webp"
+        },
+        "Economize": {
+            "wordRoot": "Economize",
+            "wordDefinition": "Economize means to reduce your spending in order to save money.\n\nEconomizing is more appropriate when you want to save money for a specific goal or if you're facing financial difficulties.\n\nFor example, you might economize by cutting back on eating out, using coupons when you go shopping, or finding cheaper alternatives for things you regularly buy.\n\nOverall, budgeting is about managing your money effectively, while economizing is about reducing your expenses in order to save money.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b2eb60ed-bf6f-4eaf-95a2-52e8924937c7.webp"
+        },
+        "Estimate": {
+            "wordRoot": "Estimate",
+            "wordDefinition": "Estimate refers to a calculation of a cost or quantity that is not exact. It is an educated guess of how much something will cost or how long something will take.\n\nEstimate is applicable when someone wants to have a rough idea of how much something will cost or how long it will take before they commit to a project or purchase.\n\nFor example, a contractor may provide an estimate for a home renovation project or a customer may request an estimate on the cost of a car repair.\n\nA budget is a detailed plan for managing and allocating money, while an estimate is a rough calculation of a cost or quantity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20b933e6-66cb-46e9-bf0d-1797ef8852d6.webp"
+        },
+        "Expenditure": {
+            "wordRoot": "Expenditure",
+            "wordDefinition": "Expenditure refers to the actual amount of money that is spent on different items during a period of time.\n\nThen, at the end of the month, they will calculate their actual expenditure by adding up all the money they spent on groceries, entertainment, transportation, and other expenses.\n\nBudgets are applicable in planning and estimating income and expenses for future periods while expenditures are useful in tracking and determining the actual cost of goods and services after they have been purchased.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a2e5c97f-775e-4017-a863-2b54463d4de7.webp"
+        },
+        "Finance": {
+            "wordRoot": "Finance",
+            "wordDefinition": "Finance refers to the management of money and investments over a longer period of time. It involves making decisions about investments, loans, and other financial matters to achieve long-term financial goals.\n\nIn simpler terms, budgeting is about planning how to spend your money in the short term, while finance is about managing your money for the long term.\n\nBudgeting is applicable in everyday life when managing personal finances, while finance is more relevant when making investments or managing a business.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c96db670-6025-4a31-ad81-31e1558cc5ce.webp"
+        },
+        "Forecast": {
+            "wordRoot": "Forecast",
+            "wordDefinition": "A forecast is a prediction of future events or trends. It is an estimate of what will happen in the future based on current information and trends.\n\nForecasting is usually used to predict things like future sales or demand for a product.\n\nA budget is a plan for managing your money, while a forecast is a prediction of future events or trends.\n\nA budget is used to manage your finances right now, while a forecast is used to plan for the future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/92824039-ea75-434e-b8b1-e40edfa506d6.webp"
+        },
+        "Plan": {
+            "wordRoot": "Plan",
+            "wordDefinition": "Budget refers to a financial plan that includes income and expenses. It is a plan to manage your money by tracking your earnings and spending.\n\nA plan refers to a step-by-step strategy to achieve your goals. It is a blueprint for what is needed to be done to reach a certain objective.\n\nPlanning is applicable when you want to achieve a specific goal or objective, like finishing a project, travelling to a certain destination, or achieving a certain academic milestone.\n\nIn summary, budgeting is a financial plan while planning refers to a strategy to achieve a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9400d7b7-c746-474a-9b35-7ea1c6436540.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " reverse engineering tools to figure out what that software did, and then they found vulnerabilities in that software, and then they built exploits to exploit those. They actually carried out their attack in real life. They bought two cars, and I guess they have better budgets than I do. The first threat model was to see what someone could do",
+            "Title": "Avi Rubin: All your...",
+            "VideoId": "66-mr600NjU",
+            "Controls": "start=382"
+        },
+        {
+            "Text": " By learning how to better control wound healing and the formation of scar tissue, we can utilize the multi-billion-dollar budgets currently used to address the aftermath of wounding in a much more efficient manner, and help millions of people live better and healthier lives. But until then, at least some of our scars",
+            "Title": "How do scars form? -...",
+            "VideoId": "ucRMDdw82yw",
+            "Controls": "start=182"
+        },
+        {
+            "Text": " yeah and I said and I and he's just big strong burly swede and very strong guy and you know he's a Thorat ativ individual and I was like you know forget that except I probably used a different word starting with the letter F and he's like look at you complain about your budget you complained about",
+            "Title": "Face-to-Face with a...",
+            "VideoId": "UmVWGvO8Yhk",
+            "Controls": "start=143"
+        },
+        {
+            "Text": " They had deployed all the right incentives, They paid professionals to write and edit thousands of articles. Well-compensated managers oversaw the whole thing to make sure it came in on budget and on time. A few years later, another encyclopedia got started. Different model, right?",
+            "Title": "The puzzle of motivation...",
+            "VideoId": "rrkrvAUbU9Y",
+            "Controls": "start=974"
+        },
+        {
+            "Text": " that could work very, very quickly. Now I don't have an exact budget for what this would cost, but I'm quite sure it's very modest compared to the potential harm. The World Bank estimates that if we have a worldwide flu epidemic,",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=435"
+        },
+        {
+            "Text": " a few grams with the brain the size of a grain of salt this is no mean feat but it's vitally important because like the geese they're on a knife-edge energy budget the straight of their bee lines the less energy they expend",
+            "Title": "Watch the Flight of a...",
+            "VideoId": "P575vyxOc2Q",
+            "Controls": "start=203"
+        },
+        {
+            "Text": " point five million that's on a budget of 25 million and that is a film about african-american women mathematicians who helped to put a man on the moon so yes we can have creative products about",
+            "Title": "Why invest in the...",
+            "VideoId": "i_eDYfKWptw",
+            "Controls": "start=506"
+        },
+        {
+            "Text": " Well, this is about state budgets. This is probably the most boring topic of the whole morning. But I want to tell you, I think it's an important topic that we need to care about.",
+            "Title": "How state budgets are...",
+            "VideoId": "jiUKpX09zo4",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " well this is about state budgets this is probably the most boring topic of the whole morning but I want to tell you I think it's an important topic that we",
+            "Title": "How state budgets are...",
+            "VideoId": "sbWju-Pt4fk",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " Twenty-one percent of the national budget supports free, quality education.",
+            "Title": "A vision for the future...",
+            "VideoId": "L1VT0asH5Ck",
+            "Controls": "start=758"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wyclef-jean.webp",
+            "Text": "Wyclef is a musician that tried to unite as many musicians at once as possible. I am trying to be successful at that. The greatest challenge is that, I just got arrested for protesting in NYC for cutting the school budgets... And I think that it's important to stand up. Schools are important.",
+            "Title": "American Musician",
+            "Name": "Wyclef Jean"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-ryun.webp",
+            "Text": "As I said a moment ago, there is no higher priority in our budget, or certainly in the budgets of the past few years, than providing for what is needed for the protection and security of our country and support of our troops.",
+            "Title": "American Athlete",
+            "Name": "Jim Ryun"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helena-bonham-carter.webp",
+            "Text": "I'm always attracted to lower budget, not because it's lower budget, but because they tend to be better scripts. It's the scripts that tend to be the small arthouse film that tend to be more actor-led and character driven.",
+            "Title": "British Actress",
+            "Name": "Helena Bonham Carter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-b-pritzker.webp",
+            "Text": "There's a truth about public service that is often unspoken and rarely understood - that the role of our elected officials is about much more than balancing budgets and ensuring the delivery of essential services.",
+            "Title": "Argentinian Businessman",
+            "Name": "J. B. Pritzker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giovanni-ribisi.webp",
+            "Text": "There's the concept that if I do this big budget project, then that will help me do the things I really want to do and bring more money to those films.",
+            "Title": "American Actor",
+            "Name": "Giovanni Ribisi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jay-z.webp",
+            "Text": "Do you know how many athletes go broke three years after they stop playing? I want to help them hold on to their money. I mean, I know about budgets.",
+            "Title": "American Musician",
+            "Name": "Jay-Z"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emun-elliott.webp",
+            "Text": "I'd like to enter in and out of that big budget world, rather than staying in it. It's not the case that the bigger the film, the better it is.",
+            "Title": "Scottish Actor",
+            "Name": "Emun Elliott"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/felicia-day.webp",
+            "Text": "I learned that lack of budget can be overcome by fan passion if you can get your content to the people who like what you do.",
+            "Title": "American Actress",
+            "Name": "Felicia Day"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amit-sadh.webp",
+            "Text": "I went for a six-month trip around the world on a shoestring budget.",
+            "Title": "Indian Actor",
+            "Name": "Amit Sadh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/theresa-may.webp",
+            "Text": "The overall policing budget is protected.",
+            "Title": "British Politician",
+            "Name": "Theresa May"
+        }
+    ]
+}

@@ -1,0 +1,358 @@
+{
+    "currentWord": {
+        "wordRoot": "advance",
+        "id": 22686,
+        "phonemic": "ədˈvɑːns|ədˈvæns\r",
+        "bigId": "dd62f8c2-6bfa-49b4-a865-fc84ae840e0a",
+        "wordForms": [
+            "advances",
+            "advancing",
+            "advanced",
+            "advance"
+        ]
+    },
+    "senses": [
+        {
+            "id": "dd62f8c2-6bfa-49b4-a865-fc84ae840e0a",
+            "de": "To move forward or make progress",
+            "ty": "verb",
+            "ex": "The team advanced to the semifinals",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "advance to",
+                " advance towards",
+                " advance rapidly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dd62f8c2-6bfa-49b4-a865-fc84ae840e0a.webp",
+            "Tips": [
+                {
+                    "title": "Directional Movement",
+                    "description": "Used often to describe literal or figurative progress in a direction or field.",
+                    "example": "The research is advancing in the right direction.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kbzi6hwanDX3o4Zi7KeVeCgoE.webp"
+                },
+                {
+                    "title": "Achieving Stages",
+                    "description": "Marks the attainment of new stages in a process, competition, or sequence.",
+                    "example": "After winning the quarterfinals, our team advanced.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fRJNNxpW7xuefS3EQ7Z8ukhpD3o.webp"
+                }
+            ]
+        },
+        {
+            "id": "d5ccae7f-c706-40e5-ae1b-92ef8e38ff1a",
+            "de": "To propose or suggest an idea or plan",
+            "ty": "verb",
+            "ex": "He advanced a new theory in physics",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "advance an idea",
+                " advance a theory",
+                " advance a proposal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d5ccae7f-c706-40e5-ae1b-92ef8e38ff1a.webp",
+            "Tips": [
+                {
+                    "title": "Proposing Ideas",
+                    "description": "Introducing new concepts or suggestions in discussions or meetings.",
+                    "example": "She advanced her ideas during the brainstorming session.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formal Proposal",
+                    "description": "Commonly used in formal or academic contexts to propose well-thought plans or theories.",
+                    "example": "The scientist advanced a groundbreaking hypothesis.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d9deacdc-54ad-4501-8a1d-f488e140bd4a",
+            "de": "Done before it needs to be",
+            "do": "General",
+            "ty": "adjective",
+            "ex": "an advance payment",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "advance payment",
+                " advance booking",
+                " advance warning"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d9deacdc-54ad-4501-8a1d-f488e140bd4a.webp",
+            "Tips": [
+                {
+                    "title": "Prior Actions",
+                    "description": "Refers to actions taken before a future event, often for preparation or convenience.",
+                    "example": "They made advance arrangements for the conference.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9d91e1f8-6e90-4a0d-b738-841e048c03b2",
+            "de": "A movement forward",
+            "ty": "noun",
+            "ex": "The advance of technology",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "advance of technology",
+                " in advance of",
+                " make advances"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9d91e1f8-6e90-4a0d-b738-841e048c03b2.webp",
+            "Tips": [
+                {
+                    "title": "Forward Progress",
+                    "description": "Often related to development or improvement in various contexts like technology or society.",
+                    "example": "The advance of medical science has saved many lives.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ed7b9502-0198-42c8-a485-1a9435b2e971",
+            "de": "To give or loan money or goods beforehand",
+            "do": "Financial",
+            "ty": "verb",
+            "ex": "I need my employer to advance my paycheck",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "advance a loan",
+                " advance wages",
+                " advance funds"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ed7b9502-0198-42c8-a485-1a9435b2e971.webp",
+            "Tips": [
+                {
+                    "title": "Money Beforehand",
+                    "description": "Refers to receiving money sooner than the usual payment schedule.",
+                    "example": "He asked to be advanced half his salary due to the emergency.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Early Provision",
+                    "description": "Getting goods or services earlier than normal, often implying trust or urgency.",
+                    "example": "The supplier advanced the goods, knowing we'd pay after selling.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b0b07bff-fbaa-4701-8a4f-d64a24560e27",
+            "de": "To increase in number or value",
+            "do": "Financial",
+            "ty": "verb",
+            "ex": "Stock prices advanced today",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "advance prices",
+                " advance value"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b0b07bff-fbaa-4701-8a4f-d64a24560e27.webp",
+            "Tips": [
+                {
+                    "title": "Financial Growth",
+                    "description": "Indicates a rise in financial terms such as stock prices or market value.",
+                    "example": "The tech company's stock advanced by 5% after the product launch.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Value Increase",
+                    "description": "Can also describe general increases in value or quantity in various contexts.",
+                    "example": "The new policy advanced the school's educational standards.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Advancement": {
+            "wordRoot": "Advancement",
+            "wordDefinition": "Advancement refers to the act of improving or making progress in a particular field or area of knowledge.\n\nThe advancement of technology refers to the improvement of technology over time. It typically refers to progress in terms of intellectual or academic achievement.\n\nAdvance is applicable to physical movement while advancement is applicable to intellectual improvement or growth.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ebe22493-e664-4520-9462-c665cb202880.webp"
+        },
+        "Development": {
+            "wordRoot": "Development",
+            "wordDefinition": "Advance means moving forward or making progress, while development refers to the process of growth and improvement. Advance is typically used when we talk about improving or updating something that already exists.\n\nFor example, advances in technology or advances in medicine. Development is used when we discuss creating or building something new or improving upon something that is not yet fully formed.\n\nThis could include the development of a new product or the development of an individual's skills or abilities.\n\nEssentially, advance is about moving forward from a starting point, while development is about creating something from scratch or improving something that is still in progress.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed896c33-c4cc-45bf-9c44-6830fd7739ca.webp"
+        },
+        "Enhance": {
+            "wordRoot": "Enhance",
+            "wordDefinition": "Enhance means to improve or make something better. It's applicable when something needs to be improved in terms of quality, appearance, or functionality.\n\nFor example, you may enhance a dish by adding more flavors to it, enhance a photograph by editing it to make it look better, or enhance your skills by taking extra courses.\n\nAdvance involves moving forward, while enhance involves making something better.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/acf0f29a-905b-473f-86f6-4995fffdc23c.webp"
+        },
+        "Improvement": {
+            "wordRoot": "Improvement",
+            "wordDefinition": "Improvement refers to the act of making something better.\n\nIn simpler terms, advance refers to progress and moving forward while improvement refers to making something better.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ba21daf-5e5e-49bb-8646-da967cc34266.webp"
+        },
+        "Progress": {
+            "wordRoot": "Progress",
+            "wordDefinition": "Progress means to move forward steadily towards a goal or objective. It suggests a continual improvement or change over time.\n\nFor example, a society can progress over time by developing new technologies or improving living standards.\n\nAdvance describes a specific achievement or improvement, while progress describes a continual improvement or change over time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a51ab4d3-35cc-49aa-92c1-26e5c4548536.webp"
+        },
+        "Promotion": {
+            "wordRoot": "Promotion",
+            "wordDefinition": "Promotion specifically refers to the act of being given a higher position or rank in a job or organization.\n\nA promotion happens when someone is given a better job or responsibility at work.\n\nPromotion is applicable in the context of a job or organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/029e0001-ebc2-416c-b8ac-56c1ecdf7cab.webp"
+        },
+        "Rise": {
+            "wordRoot": "Rise",
+            "wordDefinition": "Rise means to move upwards physically or metaphorically, and is often used to describe the increase of something, such as prices, temperature, or popularity.\n\nBoth words can be used in various contexts, but advance is more often used to describe intentional progress, while rise often describes a gradual increase.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a17ca1f0-4ff2-4fbd-8b0a-276ea852865f.webp"
+        },
+        "Upgrade": {
+            "wordRoot": "Upgrade",
+            "wordDefinition": "Upgrade refers to improving something that already exists. This term is often used in reference to technology, such as upgrading a computer's hardware or software to enhance its capabilities.\n\nTo simplify, advance is more about making progress or improving oneself in a general sense, while an upgrade is about making specific improvements to something that already exists, such as technology or equipment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e832f761-afa7-4748-9114-c4063ba4b00e.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " We have the benefits of all the science and technology that we talk about here. We've got cell phones to get information from the public and get information out to them. We have satellite maps where we can see where people are and where they're moving. We have advances in biology that should dramatically change the turnaround time to look at a pathogen",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=306"
+        },
+        {
+            "Text": " a student it change what you do change your world and if enough people change their worlds we changed the world whether it happens quickly or slowly we don't know but at least we can set off on the journey and many people are well II I think very well advanced along it",
+            "Title": "Expanding our definition...",
+            "VideoId": "8awctnozMdo",
+            "Controls": "start=613"
+        },
+        {
+            "Text": " regardless of accent or pronunciation, the difference may not be apparent to a casual observer. But recent advances in brain imaging technology have given neurolinguists a glimpse into how specific aspects of language learning affect the bilingual brain.",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=108"
+        },
+        {
+            "Text": " the centipede advances on the iguana the iguana retreats the iguana scoots the centipede crawls scoot crawl scoot crawl",
+            "Title": "Giant Centipede PIPE...",
+            "VideoId": "TzF0GKfOvRY",
+            "Controls": "start=84"
+        },
+        {
+            "Text": " Whilst the more advanced chicks take to the air",
+            "Title": "The Most Dramatic...",
+            "VideoId": "1z0bhcTHOMQ",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " whilst the more advanced chicks take to the air",
+            "Title": "Fish Vs Bird PIPE Blue...",
+            "VideoId": "xuWWajvFnxI",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " Whilst the more advanced chicks take to the air",
+            "Title": "Incredible Animal...",
+            "VideoId": "-TUqGbGa500",
+            "Controls": "start=664"
+        },
+        {
+            "Text": " at last she succumbs to his advances and",
+            "Title": "BBC Earth 50 Top Natural...",
+            "VideoId": "a6roH6RffnA",
+            "Controls": "start=205"
+        },
+        {
+            "Text": " at last she succumbs to his advances and",
+            "Title": "Nature's Greatest...",
+            "VideoId": "t2b1c69nXz0",
+            "Controls": "start=1055"
+        },
+        {
+            "Text": " they drip into the pond as more advanced",
+            "Title": "Top 5 Slithering Snake...",
+            "VideoId": "RKTnxc9sfSQ",
+            "Controls": "start=674"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barack-obama.webp",
+            "Text": "No other country in the world does what we do. On every issue, the world turns to us, not simply because of the size of our economy or our military might - but because of the ideals we stand for, and the burdens we bear to advance them.",
+            "Title": "American President",
+            "Name": "Barack Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/victor-hugo.webp",
+            "Text": "The brutalities of progress are called revolutions. When they are over we realize this: that the human race has been roughly handled, but that it has advanced.",
+            "Title": "French Author",
+            "Name": "Victor Hugo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-einstein.webp",
+            "Text": "To raise new questions, new possibilities, to regard old problems from a new angle, requires creative imagination and marks real advance in science.",
+            "Title": "German Physicist",
+            "Name": "Albert Einstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "One can't predict the weather more than a few days in advance.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/winston-churchill.webp",
+            "Text": "Let our advance worrying become advance thinking and planning.",
+            "Title": "British Statesman",
+            "Name": "Winston Churchill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/h-jackson-brown-jr.webp",
+            "Text": "Remember that life's big changes rarely give advance warning.",
+            "Title": "American Author",
+            "Name": "H. Jackson Brown, Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "Really advanced civilization is based on advances in energy.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-ford.webp",
+            "Text": "As we advance in life we learn the limits of our abilities.",
+            "Title": "American Businessman",
+            "Name": "Henry Ford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/simon-sinek.webp",
+            "Text": "If no one ever broke the rules, then we'd never advance.",
+            "Title": "English Author",
+            "Name": "Simon Sinek"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/coretta-scott-king.webp",
+            "Text": "Justice is never advanced in the taking of a human life.",
+            "Title": "American Activist",
+            "Name": "Coretta Scott King"
+        }
+    ]
+}

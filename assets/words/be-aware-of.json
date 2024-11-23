@@ -1,0 +1,56 @@
+{
+    "currentWord": {
+        "wordRoot": "be aware of",
+        "id": 0,
+        "phonemic": "bi əˈwɛər əv",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID2",
+            "de": "Having knowledge or consciousness of something.",
+            "ty": "verb phrase",
+            "ex": "Please be aware of the slippery floor.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "be aware of the dangers",
+                "be aware of your surroundings",
+                "be acutely aware of",
+                "make someone aware of",
+                "be aware of the latest developments"
+            ],
+            "ImageSrc": "./senses/58f83e6c-2692-4547-810a-bd65f8a582a5.webp",
+            "Tips": [
+                {
+                    "title": "Giving warnings",
+                    "description": "Use 'be aware of' to warn someone about potential hazards or important information.",
+                    "example": "Be aware of the falling rocks in this area.",
+                    "imageUrl": "./assets/tips/4586fac2-5e33-4f0c-b5e7-9a8666b1694f.webp"
+                },
+                {
+                    "title": "Highlighting information",
+                    "description": "Use 'be aware of' to draw attention to specific facts or circumstances.",
+                    "example": "Be aware of the new regulations before you submit your application.",
+                    "imageUrl": "./tips/758fee35-7911-4982-855d-bbedd681d753.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "conscious of": {
+            "wordRoot": "conscious of",
+            "wordDefinition": "'Conscious of' often implies a more deliberate and thoughtful awareness, while 'be aware of' can be more general.",
+            "wordImage": ""
+        },
+        "know about": {
+            "wordRoot": "know about",
+            "wordDefinition": "'Know about' suggests having information about something, while 'be aware of' implies being mindful or vigilant about it.",
+            "wordImage": ""
+        }
+    }
+}

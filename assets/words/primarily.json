@@ -1,0 +1,253 @@
+{
+    "currentWord": {
+        "wordRoot": "primarily",
+        "id": 2630,
+        "phonemic": "ˈpraɪmərəli|praɪˈmerəli\r",
+        "bigId": "efe33744-27fa-476a-9961-5deb98252163",
+        "wordForms": [
+            "primarily"
+        ]
+    },
+    "senses": [
+        {
+            "id": "efe33744-27fa-476a-9961-5deb98252163",
+            "de": "Most importantly; mainly",
+            "ty": "adverb",
+            "ex": "This tool is primarily used to cut wood",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "primarily used",
+                " primarily focused",
+                " primarily aimed"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/efe33744-27fa-476a-9961-5deb98252163.webp",
+            "Tips": [
+                {
+                    "title": "Primary Use",
+                    "description": "Emphasize the main use or purpose of something, but not its only use.",
+                    "example": "The hall is primarily a concert venue, though it also hosts conferences.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8Ayi42zgJUYqBDNf3cKWWlE0.webp"
+                },
+                {
+                    "title": "Precedence in Importance",
+                    "description": "Indicate that one thing is most important among others, though others may still be significant.",
+                    "example": "Our strategy is primarily focused on quality, but speed is also a concern.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gmks857pIt0OkMAtSd0gNqZnWc.webp"
+                },
+                {
+                    "title": "Contrast of Priorities",
+                    "description": "Shows contrast when one thing takes priority over another possibly expected option.",
+                    "example": "She is primarily an actress, not a singer.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/5NsuMmNaHwwEMWaLCfoVanEuNs.webp"
+                }
+            ]
+        },
+        {
+            "id": "cc68f1bb-9a91-4660-8367-8551d1ff196a",
+            "de": "In the first place",
+            "ty": "adverb",
+            "ex": "Primarily, the project was aimed at helping children",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "primarily aimed",
+                " primarily targeted",
+                " primarily designed"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cc68f1bb-9a91-4660-8367-8551d1ff196a.webp",
+            "Tips": [
+                {
+                    "title": "Starting Point",
+                    "description": "Refers to the initial intent or position before other factors were considered.",
+                    "example": "Primarily, we considered location when choosing the office.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Historical Context",
+                    "description": "Indicates the original purpose or role something had when it first began.",
+                    "example": "The building was primarily a factory, before becoming a museum.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Core Objective",
+                    "description": "Highlights the most fundamental goal or rationale behind an action or plan.",
+                    "example": "The policy was primarily designed to reduce pollution.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Chief": {
+            "wordRoot": "Chief",
+            "wordDefinition": "Chief refers to the leader or head of a group or organization.\n\nIt describes a person who has the most important or influential position in a group. For example, the chief executive officer of a company is the person who makes the most important decisions for that company.\n\nChief describes a person in charge, while primarily describes the main focus or purpose of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b26e9146-c08c-4171-aceb-ba0ea37a707d.webp"
+        },
+        "Essential": {
+            "wordRoot": "Essential",
+            "wordDefinition": "Essential means something that is absolutely necessary, crucial or vital for something to function properly. It's often used to describe something that is needed to survive or to achieve a particular goal.\n\nFor example, in a recipe for chocolate cake, the essential ingredients include flour, sugar, eggs, and chocolate. Without these ingredients, the cake would not turn out correctly.\n\nEssential describes things that are necessary, while primarily describes the main aspect or reason for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8cc1da05-187c-4a8f-b15c-589129dd2b91.webp"
+        },
+        "Fundamental": {
+            "wordRoot": "Fundamental",
+            "wordDefinition": "Fundamental means something that is essential or basic, while primarily means something that is the main or most important thing.\n\nFor example, in science, the fundamental principles of the universe are things like gravity and the laws of thermodynamics.\n\nFundamental refers to things that are essential or basic, while primarily refers to things that are the main focus or most important.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/600feace-98c4-4000-8328-2ba18f425170.webp"
+        },
+        "Initial": {
+            "wordRoot": "Initial",
+            "wordDefinition": "Initial refers to something that happens at the beginning, or at the start of something. It's often used to describe a first step or early actions.\n\nFor example, you might use initial to describe the first few days of a job or the first steps of a project.\n\nSo, in short, initial refers to something that happens at the beginning while primarily refers to something that is the main focus or primary focus.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/28335c75-ae94-4279-a804-1c73fb91d1a8.webp"
+        },
+        "Largely": {
+            "wordRoot": "Largely",
+            "wordDefinition": "Largely means mostly or mainly, while primarily means mainly or chiefly. Both indicate that something is the most important or significant aspect, but largely implies that there may be some other factors involved as well, while primarily suggests that there is only one main factor.\n\nFor example, you could say that your success in school is largely due to your hard work, but your success in sports is primarily due to your natural ability.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3b25ba4b-7582-4c30-890d-6d85cfd264e2.webp"
+        },
+        "Main": {
+            "wordRoot": "Main",
+            "wordDefinition": "Main means the most important or significant thing, while primarily means mainly or mostly.\n\nFor example, in a recipe, the main ingredient might be chicken, while other components like vegetables are primarily used to add flavor and nutrition.\n\nIn a conversation about someone's career, the main focus might be on their current job, while primarily discussing their past experiences and education that led them to where they are.\n\nMain describes the most important or prominent object or idea, while primarily describes something that is the primary or main focus but not necessarily the most important thing overall.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f2c4a44e-2e54-46aa-b290-843ec21510bc.webp"
+        },
+        "Predominant": {
+            "wordRoot": "Predominant",
+            "wordDefinition": "Predominant means something that is the most important, most frequent or most noticeable among a group or thing. For example, if most of the people in a room are wearing blue, then blue is the predominant color.\n\nPredominant describes something that is most noticeable among a group of things, while primarily describes the main idea or focus of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c894fa80-440d-4e16-8c89-990ccacfc94a.webp"
+        },
+        "Principal": {
+            "wordRoot": "Principal",
+            "wordDefinition": "Principal means the most important or leading.\n\nFor example, \"The principal reason for his success was his hard work.\" This means that hard work was the most important or leading reason among other factors that contributed to the person's success.\n\nPrimarily is used to indicate predominance or focus, while principal is used to indicate importance or priority.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/edca5cb3-d95d-4cfe-ab68-d774e843c05c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " the kinds of countries we prefer are good countries. We don't admire countries primarily because they're rich, because they're powerful, because they're successful, because they're modern, because they're technologically advanced. We primarily admire countries that are good. What do we mean by good? We mean countries that seem to contribute",
+            "Title": "Which country does the...",
+            "VideoId": "1X7fZoDs9KU",
+            "Controls": "start=606"
+        },
+        {
+            "Text": " tipsters are liberal let's find out i'm going to ask you to raise your hand uh whether you are liberal left of center on social issues we're talking about primarily or conservative and i'll give a third option because i know the number of libertarians in the audience so right now please raise your hand down in the simulcast rooms too let's",
+            "Title": "The moral roots of...",
+            "VideoId": "8SOQduoLgRw",
+            "Controls": "start=138"
+        },
+        {
+            "Text": " to explain what or who is making it. And only then could we consider that we have found life. We're all just trying to figure out the truth, and I would love for there to be phosphine, but primarily I would love to know what's happening in the clouds of Venus, phosphine or no phosphine.",
+            "Title": "Are There Aliens on...",
+            "VideoId": "9fzhHiYDGhg",
+            "Controls": "start=342"
+        },
+        {
+            "Text": " to be permanently eradicated from the world, shows how disease eradication can happen and why it is so difficult to achieve. Smallpox emerged in human populations thousands of years ago as a contagious virus that spread rapidly, primarily through close, face to face contact,",
+            "Title": "Learning from smallpox:...",
+            "VideoId": "oBSandHijDc",
+            "Controls": "start=32"
+        },
+        {
+            "Text": " that your voice sounds much better in the bath? What is the extent of teachers' rights? What if you could become something like an animal? Is that possible? What separates those who primarily have an idea and those who want to bring it to life is simple.",
+            "Title": "Bring TED to the...",
+            "VideoId": "ZDq_pWi7dH4",
+            "Controls": "start=8"
+        },
+        {
+            "Text": " and play an important role in gastrointestinal barrier function, motility and the development of various organ systems. Clearly, it's in our best interest to keep these bacteria happy. Gut bacteria get their nutrition primarily from undigested food,",
+            "Title": "Why do we pass gas? -...",
+            "VideoId": "GTvnjaUU6Xk",
+            "Controls": "start=56"
+        },
+        {
+            "Text": " Those endocannabinoids travel backward to influence the sending neuron— essentially giving it feedback from the receiving neuron. This leads scientists to believe that the endocannabinoid system serves primarily to modulate other kinds of signals—",
+            "Title": "Is marijuana bad for...",
+            "VideoId": "Nlcr1jd_Tok",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " and even world-famous musicians. Most people intuitively blame it on their nerves, but why does being nervous undermine expert performance? There are two sets of theories, which both say that primarily, choking under pressure boils down to focus.",
+            "Title": "How to stay calm under...",
+            "VideoId": "CqgmozFr_GM",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " we currently use primarily to engage an audience with wildlife the first is traditional fundraising and the second is ecotourism and both of these only reach a limited audience either they already converted or the small",
+            "Title": "Making wildlife a part...",
+            "VideoId": "EwbIbMmNve4",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " Life-giving heat and light Such volatility is contained. Thanks to the sun's tremendous gravity It's strong enough to hold the solar system intact and is primarily due to the sun's size and mass",
+            "Title": "Sun 101 PIPE National...",
+            "VideoId": "2HoTK_Gqi2Q",
+            "Controls": "start=103"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-jobs.webp",
+            "Text": "The design of the Mac wasn't what it looked like, although that was part of it. Primarily, it was how it worked. To design something really well, you have to get it. You have to really grok what it's all about. It takes a passionate commitment to really thoroughly understand something, chew it up, not just quickly swallow it.",
+            "Title": "American Businessman",
+            "Name": "Steve Jobs"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-l-brooks.webp",
+            "Text": "I was raised primarily by women. I had a mother who almost killed herself to survive, I had a sister who was eight years older who was like a second mother, and my mother had two sisters. In the environment I grew up in, I heard a lot of female perspectives.",
+            "Title": "American Producer",
+            "Name": "James L. Brooks"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frederick-sanger.webp",
+            "Text": "I believe that we have been doing this not primarily to achieve riches or even honour, but rather because we were interested in the work, enjoyed doing it and felt very strongly that it was worthwhile.",
+            "Title": "English Scientist",
+            "Name": "Frederick Sanger"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hema-malini.webp",
+            "Text": "I am an artist, and I will always be working. But a film should match my personality and should be primarily based on a woman for me to go forward with it.",
+            "Title": "Indian Actress",
+            "Name": "Hema Malini"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ian-mckellen.webp",
+            "Text": "Anyone in public life who comes out, comes out primarily for themselves, and their life is immediately improved. That's what happened to me.",
+            "Title": "English Actor",
+            "Name": "Ian Mckellen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harrison-barnes.webp",
+            "Text": "I think it's important that we as athletes do whatever we can to help kids, primarily helping kids of color.",
+            "Title": "American Basketball Player",
+            "Name": "Harrison Barnes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/irving-langmuir.webp",
+            "Text": "The scientist is motivated primarily by curiosity and a desire for truth.",
+            "Title": "American Scientist",
+            "Name": "Irving Langmuir"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/muhammad-iqbal.webp",
+            "Text": "Man is primarily governed by passion and instinct.",
+            "Title": "Pakistani Poet",
+            "Name": "Muhammad Iqbal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-peterffy.webp",
+            "Text": "The rich support the poor primarily via taxes.",
+            "Title": "Hungarian Businessman",
+            "Name": "Thomas Peterffy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eleanor-parker.webp",
+            "Text": "I'm primarily a character actress.",
+            "Title": "American Actress",
+            "Name": "Eleanor Parker"
+        }
+    ]
+}

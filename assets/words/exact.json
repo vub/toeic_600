@@ -1,0 +1,343 @@
+{
+    "currentWord": {
+        "wordRoot": "exact",
+        "id": 20508,
+        "phonemic": "ɪɡˈzækt|ɪɡˈzækt\r",
+        "bigId": "0b360822-2977-4243-97e0-44b1e54e2a84",
+        "wordForms": [
+            "exacts",
+            "exacting",
+            "exacted",
+            "exactly",
+            "exactness",
+            "exact"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0b360822-2977-4243-97e0-44b1e54e2a84",
+            "de": "Precise and accurate, leaving no room for uncertainty",
+            "ty": "adjective",
+            "ex": "The exact cost of the project is not yet known.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "exact amount",
+                " exact location",
+                " exact match"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0b360822-2977-4243-97e0-44b1e54e2a84.webp",
+            "Tips": [
+                {
+                    "title": "Precision Needed",
+                    "description": "Use 'exact' when details are crucial and one needs to avoid misunderstandings.",
+                    "example": "Please provide the exact measurements of the shelf.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/p8Zb8MK4nJYP9lLmqBlBTO6HcI.webp"
+                },
+                {
+                    "title": "Uncertainty Indicator",
+                    "description": "'Exact' signals that you are looking for or giving specific information.",
+                    "example": "He couldn't remember the exact words she used.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/CrdSJcvv4HyRpeVO2p6NMAGAg4.webp"
+                },
+                {
+                    "title": "Lacks Flexibility",
+                    "description": "Conveys a sense that there is no flexibility or estimate; only the precise fact is acceptable.",
+                    "example": "They agreed to meet at the exact time of 3 p.m.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8ahugX3blqoWmOYesxy30BuazI.webp"
+                }
+            ]
+        },
+        {
+            "id": "882edeff-78ea-4f5f-8830-2a23a1814864",
+            "de": "To demand and get something, especially by using your authority",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The court ordered that the defendant must exact damages from the plaintiff.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal, Disapproving",
+            "tp": "",
+            "cl": [
+                "exact payment",
+                " exact toll",
+                " exact revenge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/882edeff-78ea-4f5f-8830-2a23a1814864.webp",
+            "Tips": [
+                {
+                    "title": "Authority or Power",
+                    "description": "Highlights the use of power or authority when getting what is demanded.",
+                    "example": "The government will exact taxes from all working citizens.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Money",
+                    "description": "Remember, what's exacted can be an action, not just a fee or payment.",
+                    "example": "The queen exacted a promise of loyalty from her knights.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "dbb30cc1-0a46-4bb5-a403-ea12db5b6773",
+            "de": "Being the same in all ways",
+            "ty": "adjective",
+            "ex": "This is the exact same shirt I lost last month.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "exact same",
+                " exact copy",
+                " exact replica"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dbb30cc1-0a46-4bb5-a403-ea12db5b6773.webp",
+            "Tips": [
+                {
+                    "title": "Perfect Match",
+                    "description": "Suggests that two things are not just similar, but identical in every way.",
+                    "example": "I found the exact same dress in another store.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e91630be-7153-45ed-bf9a-5153b485b6eb",
+            "de": "To force someone to experience a difficult or unpleasant situation",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The king exacted tribute from his subjects.",
+            "use": "",
+            "co": "Historical",
+            "sy": "",
+            "op": "",
+            "re": "Formal, Disapproving",
+            "tp": "",
+            "cl": [
+                "exact punishment",
+                " exact a toll",
+                " exact a price"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e91630be-7153-45ed-bf9a-5153b485b6eb.webp",
+            "Tips": [
+                {
+                    "title": "Imposition of Hardship",
+                    "description": "Conveys causing someone to bear something difficult or harsh.",
+                    "example": "The conqueror exacted heavy tributes from the population.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Historical Connotation",
+                    "description": "It often refers to historical or antiquated practices of authority and submission.",
+                    "example": "In medieval times, lords exacted obedience from their vassals.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c00d616e-5035-47f5-8b8b-6ce815bcef85",
+            "de": "Having or showing very strict moral behaviour",
+            "ty": "adjective",
+            "ex": "He lived his life according to his own exact moral code.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "exact in manners",
+                " exact in duty",
+                " exact in conduct"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c00d616e-5035-47f5-8b8b-6ce815bcef85.webp",
+            "Tips": [
+                {
+                    "title": "High Standards",
+                    "description": "Emphasizes someone’s uncompromising adherence to very specific rules or ethics.",
+                    "example": "His exacting standards for the project left no room for errors.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Flexible",
+                    "description": "Often paired with routines or methods that admit no deviation or flexibility.",
+                    "example": "He follows an exact regimen for his morning routine.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accurate": {
+            "wordRoot": "Accurate",
+            "wordDefinition": "The words accurate and exact are sometimes used interchangeably, but they actually have slightly different meanings. Accurate means close to the correct or expected result, but not necessarily identical.\n\nFor example, if you measure a table and get a result of 3 feet and 3 inches, an accurate measurement might be within a quarter of an inch of that, while an exact measurement would be exactly 3 feet and 3 inches, without any rounding or approximation.\n\nAccurate is used when a result is close to the expected answer, but not necessarily identical, while exact is used when the result is completely correct and precise, without any deviation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9775a665-5549-490f-89eb-ce22157a4de7.webp"
+        },
+        "Correct": {
+            "wordRoot": "Correct",
+            "wordDefinition": "Correct means that something is right or accurate. For example, if your answer to a math problem is correct, it means you got it right.\n\nCorrect is used more often in everyday situations when something is simply right or accurate. Exact is used when something needs to be completely precise, like in scientific or mathematical contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8da0e1dc-72d8-489a-a023-b7e783501afa.webp"
+        },
+        "Definite": {
+            "wordRoot": "Definite",
+            "wordDefinition": "Definite suggests that something is certain or clear, while exact refers to something that is precise or accurate.\n\nFor example, if you say \"I am definitely going to the party,\" it means that you have made up your mind and there is no doubt.\n\nDefinite is often used to describe things that are certain or distinct, while exact describes things that are accurate or precise.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/72bdc5e3-8339-42fb-8d8c-0634be47d4c2.webp"
+        },
+        "Meticulous": {
+            "wordRoot": "Meticulous",
+            "wordDefinition": "Meticulous means something that is done with great attention to detail. It means that something is done very carefully and precisely, with the intention of getting everything right.\n\nYou might use the word meticulous when you want to describe someone's attention to detail or their carefulness, like when you say that your friend is meticulous about keeping their room clean.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6aec564b-d681-454e-9d5a-d56db6da27b9.webp"
+        },
+        "Precise": {
+            "wordRoot": "Precise",
+            "wordDefinition": "Exact means completely accurate without any mistakes or errors, while the word precise means accurate to a very detailed level.\n\nIf you were building a model airplane, you would need to be precise in your measurements because even a slight difference in measurement can affect the final product.\n\nExact refers to accuracy without errors, while precise refers to accuracy at a very detailed level. Both words are applicable in different contexts, depending on the level of accuracy needed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf78f6a1-4d2b-4525-9b2a-037b7f6e424b.webp"
+        },
+        "Rigorous": {
+            "wordRoot": "Rigorous",
+            "wordDefinition": "Rigorous refers to something that is thorough, careful, and strict.\n\nFor example: \"The scientist's rigorous testing process ensured that the results were accurate and reliable.\"\n\nSo, while exact refers to precision and correctness, rigorous refers to the amount of effort and strictness involved in achieving that precision and correctness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fe6c2805-5c88-4c60-b033-41c8d1f16f8b.webp"
+        },
+        "Specific": {
+            "wordRoot": "Specific",
+            "wordDefinition": "Both words refer to being clear and precise, but exact implies being completely accurate or correct in all details, whereas specific implies being clearly defined or identified in a particular way.\n\nFor example, if someone asks for the exact time, they want an answer that is completely accurate down to the second. If someone asks for a specific time, they may be referring to a particular hour or minute, but not necessarily down to the second.\n\nSpecific is applicable when something needs to be clearly defined or identified in a particular way, such as in instructions or descriptions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a367fd9b-75fc-4111-af54-8df77a989f6e.webp"
+        },
+        "Strict": {
+            "wordRoot": "Strict",
+            "wordDefinition": "Strict means following rules or guidelines very closely, with no exceptions. It is applicable when someone wants a discipline to be rigorously followed or when someone is following a set of rules or regulations.\n\nIf a teacher asks a student to follow strict rules regarding classroom behavior, the student should never violate those rules under any circumstances.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2214d182-9a9e-4e5b-9c01-ee50a1a2881c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and the home depot work by telling you exactly what the company does but these names can be a mouthful and are much harder to own and protect acronyms like ge and bp are just shorthand versions of descriptive names some acronyms are more strategic kentucky fried chicken switched to kfc",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " Tigers are one of the few cats in the world to communicate in this way. These guys are very inquisitive, so their facial expression with their ears is exactly that. Now he's being a bit submissive for the fact that he's putting his ears slightly back. He's getting down low.",
+            "Title": "Cubs Meet Adult Tiger...",
+            "VideoId": "_UbDeqPdUek",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " OCD sufferers report feeling crazy for experiencing anxiety based on irrational thoughts and finding it difficult to control their responses. So what exactly causes OCD? The frustrating answer is we don't really know. However, we have some important clues.",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=160"
+        },
+        {
+            "Text": " and have helped many people live better lives. Although we've come a long way in improving how we treat and diagnose asthma, we still don't know its exact causes. We currently believe that a combination of genetic and environmental factors play a role,",
+            "Title": "How does asthma work? -...",
+            "VideoId": "PzfLDi-sL3w",
+            "Controls": "start=253"
+        },
+        {
+            "Text": " Now I don't have an exact budget for what this would cost, but I'm quite sure it's very modest compared to the potential harm. The World Bank estimates that if we have a worldwide flu epidemic, global wealth will go down by over three trillion dollars",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=439"
+        },
+        {
+            "Text": " For me, there are so many moments in the world that are so loud and you come here and you can feel Yeah. You can feel a little more human. Yeah, exactly right. You get all sorts of visitors, when they're going on a guided tour and then they go,",
+            "Title": "Exploring the Bay of...",
+            "VideoId": "cA5cX1YuuGA",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " but there is a very large man on the bridge next to you. If you push him over, his body will stop the trolley, saving the five workers, but he'll die. To utilitarians, the decision is exactly the same, lose one life to save five.",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " but why does it come down to the ground to do it? And why does it nearly always choose to do so in exactly the same place? Whatever the reason, it must be very important, for a sloth on the ground is almost helpless.",
+            "Title": "The 'Busy' Life of the...",
+            "VideoId": "ndMKTnSRsKM",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " And why do happy people cheat? And when we say \"infidelity,\" what exactly do we mean? Is it a hookup, a love story, paid sex, a chat room, a massage with a happy ending?",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=14"
+        },
+        {
+            "Text": " not exactly what she was after deeper",
+            "Title": "Top 5 David Attenborough...",
+            "VideoId": "-tvA3Ezqjl8",
+            "Controls": "start=353"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "I've been on tour since I was 16, and I always do meet-and-greets before and after shows, so you kind of build these friendships with people. I have girls come up to me and tell me exactly what's going on in their love lives.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/billie-eilish.webp",
+            "Text": "I feel like I write so that people can think of it as theirs. If my song is exactly about your life right now, then it is - I don't even want to say that it's mine, because it's yours.",
+            "Title": "American Singer",
+            "Name": "Billie Eilish"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "I think it makes sense to believe in God, but exactly what decision in your life you make differently because of it, I don't know.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/audrey-hepburn.webp",
+            "Text": "Success is like reaching an important birthday and finding you're exactly the same.",
+            "Title": "British Actress",
+            "Name": "Audrey Hepburn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lauren-bacall.webp",
+            "Text": "Looking at yourself in a mirror isn't exactly a study of life.",
+            "Title": "American Actress",
+            "Name": "Lauren Bacall"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/timur-bekmambetov.webp",
+            "Text": "If you know exactly what your character knows, it's a drama.",
+            "Title": "Director",
+            "Name": "Timur Bekmambetov"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jitendra-kumar.webp",
+            "Text": "Everyone thinks I am exactly like the characters I play.",
+            "Title": "Indian Actor",
+            "Name": "Jitendra Kumar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mike-jackson.webp",
+            "Text": "Missing your lunch is not exactly the end of the world.",
+            "Title": "British Soldier",
+            "Name": "Mike Jackson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-butler.webp",
+            "Text": "Life is not an exact science, it is an art.",
+            "Title": "British Poet",
+            "Name": "Samuel Butler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/octavia-spencer.webp",
+            "Text": "My life is exactly the way it needs to be.",
+            "Title": "American Actress",
+            "Name": "Octavia Spencer"
+        }
+    ]
+}

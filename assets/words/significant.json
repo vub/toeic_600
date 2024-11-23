@@ -1,0 +1,302 @@
+{
+    "currentWord": {
+        "wordRoot": "significant",
+        "id": 1189,
+        "phonemic": "sɪɡˈnɪfɪkənt|sɪɡˈnɪfɪkənt\r",
+        "bigId": "b39f198e-2003-4bdf-befd-191832e5bfe7",
+        "wordForms": [
+            "significantly",
+            "insignificant",
+            "significant"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b39f198e-2003-4bdf-befd-191832e5bfe7",
+            "de": "Having a big effect or importance.",
+            "ty": "adjective",
+            "ex": "Everyone was surprised by the significant change in his attitude.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "significant change",
+                " significant difference",
+                " significant impact"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b39f198e-2003-4bdf-befd-191832e5bfe7.webp",
+            "Tips": [
+                {
+                    "title": "Impact Level",
+                    "description": "Use 'significant' to express a strong influence or considerable importance in many contexts.",
+                    "example": "The CEO's decision had a significant impact on the company's direction.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DHup8WW2DxIm0LhlZyfiDnK9rQg.webp"
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "'Significant' can refer to both positive and negative outcomes.",
+                    "example": "The storm had a significant effect on the small village.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/KhfXnwVvx1tGvkpOTvyAtjmVOA.webp"
+                },
+                {
+                    "title": "Surprising Changes",
+                    "description": "Use it when an event or change is unexpected and worth noting.",
+                    "example": "His resignation was significant, few had anticipated it.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1900jvZzO9W2JTZoJ8yAT9xCvOw.webp"
+                }
+            ]
+        },
+        {
+            "id": "04b4dedb-5154-40a4-8833-2ed94c7007e7",
+            "de": "Easy to notice or understand.",
+            "do": "Statistics",
+            "ty": "adjective",
+            "ex": "There's a significant difference between the two sets of data.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "significant increase",
+                " significant decrease",
+                " significant difference"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/04b4dedb-5154-40a4-8833-2ed94c7007e7.webp",
+            "Tips": [
+                {
+                    "title": "Academic Precision",
+                    "description": "In academic or statistical contexts, 'significant' often implies evidence-based importance.",
+                    "example": "The study found a significant correlation between diet and health.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Just Noticeable",
+                    "description": "In statistics, 'significant' means more than noticeable; it suggests a meaningful relationship.",
+                    "example": "The treatment led to a significant reduction in symptoms.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e114e152-e470-4a81-bfce-9de857229a51",
+            "de": "Describes something that has a special or hidden meaning.",
+            "ty": "adjective",
+            "ex": "Her significant glance at him suggested that he should follow her.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "significant glance",
+                " significant gesture",
+                " significant look"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e114e152-e470-4a81-bfce-9de857229a51.webp",
+            "Tips": [
+                {
+                    "title": "Subtle Communication",
+                    "description": "'Significant' can imply subtle, non-verbal communication with deeper meaning.",
+                    "example": "Her significant smile conveyed her approval without words.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Hidden Messages",
+                    "description": "It often indicates a message intended only for certain people to understand.",
+                    "example": "The spies exchanged significant looks across the room.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Considerable": {
+            "wordRoot": "Considerable",
+            "wordDefinition": "Considerable means a large amount or great in size, while significant means having an important or noticeable effect.\n\nConsiderable usually describes something that is large in quantity or size. For example, \"There was a considerable amount of ice on the road.\".\n\nConsiderable describes the amount or size of something, while significant describes the impact or effect of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b859e1c-6861-4d93-bb20-11d9f5a766f4.webp"
+        },
+        "Critical": {
+            "wordRoot": "Critical",
+            "wordDefinition": "Critical means extremely important or crucial.\n\nIt describes a situation that is urgent or requires immediate attention. For example, if someone is in critical condition, it means they are in a very serious state and need urgent medical attention.\n\nBoth words can describe things that are important, but critical is used for situations that require urgent action or attention, while significant is used for things that have meaning or value.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d86904b-867a-4094-9da9-7f3f9756a7cb.webp"
+        },
+        "Crucial": {
+            "wordRoot": "Crucial",
+            "wordDefinition": "Crucial means extremely important or essential, meaning that something cannot be done without it. It usually implies that something is necessary for the success or failure of a task or goal.\n\nFor example: \"Sleep is crucial for the human body to function properly.\"\n\nCrucial is applicable when something is absolutely necessary for success, while significant is more appropriate when stressing the importance or impact of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/935776ff-1c61-4835-b3f6-a193acfec858.webp"
+        },
+        "Important": {
+            "wordRoot": "Important",
+            "wordDefinition": "Important means something that has value, worth or meaning.\n\nBoth words are applicable in different situations, depending on the context. For example, a knowledge or skill that is important for a particular job may not necessarily be significant in terms of its impact on society.\n\nA discovery that may not seem important at first glance may turn out to be significant in terms of its impact on science or technology.\n\nImportant generally refers to value or usefulness, while significant refers to impact or consequence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b7874512-abf0-477a-93be-7fb406dab70e.webp"
+        },
+        "Key": {
+            "wordRoot": "Key",
+            "wordDefinition": "Key refers to something that is important or essential to understanding or achieving something else. For example, in music, a key signature is the set of notes that a piece of music is played in, and it is essential to know the key signature in order to play the piece correctly.\n\nIn cryptography, a key is a code or password that is essential to unlocking encrypted information.\n\nKey usually implies a more direct or essential relationship to something else, while significant refers more to the importance or impact of something in a broader context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5abf028c-06c4-4514-a6cf-a7c82871b1f8.webp"
+        },
+        "Meaningful": {
+            "wordRoot": "Meaningful",
+            "wordDefinition": "The words meaningful and significant both refer to the importance or value of something, but they are used in slightly different ways.\n\nMeaningful refers to something that has personal or emotional value to an individual. For example, a meaningful experience might be a trip to a place that has special memories, or a conversation with a loved one that brings a sense of connection or understanding.\n\nThe term meaningful is often used in the context of personal relationships, experiences, or beliefs.\n\nMeaningful describes personal value, while significant describes broader-scale importance or impact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/054fd63e-2f9c-498a-bee5-f2d1fa26d4c1.webp"
+        },
+        "Momentous": {
+            "wordRoot": "Momentous",
+            "wordDefinition": "Momentous and significant are both adjectives used to describe events or things that are noteworthy, but they have slightly different meanings.\n\nMomentous refers to an event or situation that is very important because it will have a great impact on the future or is a very significant turning point in history.\n\nExample: The momentous election of Barack Obama as the first Black president of the United States.\n\nMomentous is typically used to describe large-scale, history-changing events, while significant describes anything that is important or meaningful, regardless of the scale.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5211e829-6a9d-4b33-9d89-707684c04e2d.webp"
+        },
+        "Notable": {
+            "wordRoot": "Notable",
+            "wordDefinition": "Both notable and significant have similar meanings, as they both refer to something that is important or worthy of attention.\n\nHowever, notable usually suggests that the thing being described is well-known or famous, while significant suggests that it has a particular importance or impact.\n\nFor example, a notable person would be someone who is famous or well-known, such as a celebrity or historical figure, whereas a significant event might be something that has a big impact on history or people's lives, such as a war or scientific discovery.\n\nNotable tends to be used more for people or things that are famous, while significant tends to be used more for events or situations that have a particular impact or importance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c110adc5-e4d4-4095-a169-fc678a233029.webp"
+        },
+        "Pertinent": {
+            "wordRoot": "Pertinent",
+            "wordDefinition": "Pertinent refers to something that is relevant or directly related to a certain topic, issue, or situation.\n\nFor example, if we were discussing the effects of climate change on ocean life, a pertinent fact would be the increase in ocean acidity levels.\n\nPertinent refers to something that is relevant or directly related, while significant refers to something that has a substantial or meaningful impact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4e8c66f5-f287-43af-8f07-2159a9afc88f.webp"
+        },
+        "Relevant": {
+            "wordRoot": "Relevant",
+            "wordDefinition": "Relevant means that something is related or connected to a certain topic or situation, and has an impact on it.\n\nFor example, if you're writing an essay about climate change, statistics on greenhouse gas emissions would be relevant because they are related to the topic and add to your argument.\n\nRelevant refers to how things are connected or related, while significant refers to the importance or impact of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ced59ad9-c7de-475d-9dca-ab2307bba0b3.webp"
+        },
+        "Substantial": {
+            "wordRoot": "Substantial",
+            "wordDefinition": "The words significant and substantial are similar in meaning but have slightly different uses. Significant means something is important or meaningful, usually in a specific context, such as a study or experiment.\n\nSubstantial means something is large in size or amount, often used to describe physical objects, quantities or sums of money.\n\nFor example, you might use substantial to describe a store discount that's more than 50%, or the weight of a large rock.\n\nSignificant describes importance, while substantial describes size or quantity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/95444393-dfd0-4242-b0cf-a79e5ab7c0d4.webp"
+        },
+        "Weighty": {
+            "wordRoot": "Weighty",
+            "wordDefinition": "Weighty means that something has a lot of importance or influence.\n\nIt is often used when referring to a decision or issue that carries a lot of responsibility or consequences. For example, a weighty decision might be one that involves a lot of money or affects many people's lives.\n\nIn summary, while both words imply a level of importance, significant refers to something that has an impact, while weighty refers to something that carries a lot of responsibility or consequences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4c06f7d4-b5ab-4130-8d62-47ac7b2f01ec.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " But because the skin does not fully recover, scarring continues to be a major clinical issue for doctors around the world. And even though researchers have made significant strides in understanding the healing process, many fundamental mysteries remain unresolved. For instance, do fibroblast cells arrive from the blood vessels",
+            "Title": "How a wound heals itself...",
+            "VideoId": "TLVwELDMDWs",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " can cause massive ecological disruption. This is why the second graph, which show the average temperature variation each year, is far more significant. When they're used well, graphs can help us intuitively grasp complex data. But as visual software has enabled more usage of graphs throughout all media,",
+            "Title": "How to spot a misleading...",
+            "VideoId": "E91bGT9BjYk",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " will really start to make significant shifts shifts in outcome I think several things are happening already you know we were hearing earlier from Susan about Gandhi and Gandhi's other great dictum was be the change you want to see in the world and my case for all of this is",
+            "Title": "Expanding our definition...",
+            "VideoId": "8awctnozMdo",
+            "Controls": "start=535"
+        },
+        {
+            "Text": " What makes these trait a true personality disorder is that they take over people's lives and cause significant problems. Imagine that instead of caring for your spouse or children, you used them as a source of attention or admiration. Or imagine that instead of seeking",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=188"
+        },
+        {
+            "Text": " and we'd have millions and millions of deaths. These investments offer significant benefits beyond just being ready for the epidemic. The primary healthcare, the R&D, those things would reduce global health equity and make the world more just as well as more safe.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=455"
+        },
+        {
+            "Text": " I see you. So I want you to pay attention to what you're doing right now. We're going to come back to that in a few minutes, and I'm hoping that if you learn to tweak this a little bit, it could significantly change the way your life unfolds.",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=46"
+        },
+        {
+            "Text": " their striking patches may help them stay cool it was found that underneath each darkened patch they had sweat glands but the size of these glands were significantly larger suggesting that indeed their skin plays a vital part in",
+            "Title": "Top 5 Animal Adaptations...",
+            "VideoId": "ZT8YswmQuAg",
+            "Controls": "start=539"
+        },
+        {
+            "Text": " People affected have little or no control over their obsessive thoughts and compulsive behaviors, which tend to be time consuming and interfere with work, school or social life to the point of causing significant distress.",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=74"
+        },
+        {
+            "Text": " Baked or fried, boiled or roasted, as chips or fries. At some point in your life, you've probably eaten a potato. Delicious, for sure, but the fact is potatoes have played a much more significant role in our history",
+            "Title": "History through the eyes...",
+            "VideoId": "xROmDsULcLE",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " the radiation era's last two stages, the protons and neutrons underwent a significant change. They fused and created nuclei. And in doing so, they created the first chemical element in the universe, helium.",
+            "Title": "Origins of the Universe...",
+            "VideoId": "HdPzOWlLrbE",
+            "Controls": "start=183"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/simon-sinek.webp",
+            "Text": "To spend more money, you have to have more money, but time is fixed and we all have the same amount to spare. How we choose to spend it can make a significant difference on the impact we have in our careers or in the world.",
+            "Title": "English Author",
+            "Name": "Simon Sinek"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/t-s-eliot.webp",
+            "Text": "All significant truths are private truths. As they become public they cease to become truths; they become facts, or at best, part of the public character; or at worst, catchwords.",
+            "Title": "American Poet",
+            "Name": "T. S. Eliot"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lou-holtz.webp",
+            "Text": "We can all be successful and make money, but when we die, that ends. But when you are significant is when you help other people be successful. That lasts many a lifetime.",
+            "Title": "American Coach",
+            "Name": "Lou Holtz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/virginia-woolf.webp",
+            "Text": "This is an important book, the critic assumes, because it deals with war. This is an insignificant book because it deals with the feelings of women in a drawing-room.",
+            "Title": "British Author",
+            "Name": "Virginia Woolf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-cousins.webp",
+            "Text": "The capacity for hope is the most significant fact of life. It provides human beings with a sense of destination and the energy to get started.",
+            "Title": "American Author",
+            "Name": "Norman Cousins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/soren-kierkegaard.webp",
+            "Text": "It seems essential, in relationships and all tasks, that we concentrate only on what is most significant and important.",
+            "Title": "Danish Philosopher",
+            "Name": "Soren Kierkegaard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-covey.webp",
+            "Text": "The challenge of work-life balance is without question one of the most significant struggles faced by modern man.",
+            "Title": "American Educator",
+            "Name": "Stephen Covey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mahatma-gandhi.webp",
+            "Text": "Whatever you do may seem insignificant to you, but it is most important that you do it.",
+            "Title": "Indian Leader",
+            "Name": "Mahatma Gandhi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johann-wolfgang-von-goethe.webp",
+            "Text": "There is nothing insignificant in the world. It all depends on the point of view.",
+            "Title": "German Writer",
+            "Name": "Johann Wolfgang von Goethe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-boswell.webp",
+            "Text": "What an insignificant life is this which I am now leading!",
+            "Title": "Scottish Lawyer",
+            "Name": "James Boswell"
+        }
+    ]
+}

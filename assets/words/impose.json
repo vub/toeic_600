@@ -1,0 +1,341 @@
+{
+    "currentWord": {
+        "wordRoot": "impose",
+        "id": 2357,
+        "phonemic": "ɪmˈpəʊz|ɪmˈpəʊz\r",
+        "bigId": "74d27e17-d01e-4961-ba7b-59bb4f79d0fb",
+        "wordForms": [
+            "imposes",
+            "imposing",
+            "imposed",
+            "impose"
+        ]
+    },
+    "senses": [
+        {
+            "id": "74d27e17-d01e-4961-ba7b-59bb4f79d0fb",
+            "de": "To force someone to accept something, especially a belief or way of living",
+            "ty": "verb",
+            "ex": "The government imposed a new tax on the public.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "impose a ban",
+                " impose a tax",
+                " impose a penalty"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/74d27e17-d01e-4961-ba7b-59bb4f79d0fb.webp",
+            "Tips": [
+                {
+                    "title": "Authority Connotation",
+                    "description": "Imposing something often implies authority or power making one submit to a rule or decision.",
+                    "example": "Employers impose dress codes in the workplace.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/sRaEpj1qxx0dCIfgYtiIn4eCYk.webp"
+                },
+                {
+                    "title": "Unpopularity Hint",
+                    "description": "When something is imposed, it may not be well-received as it did not come from a group's consensus.",
+                    "example": "The new policy was imposed without consulting the staff.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/wthKHiUz8fJ80AKKfUvwd3uSw.webp"
+                }
+            ]
+        },
+        {
+            "id": "ce0d650b-e9ec-4f73-84af-81ef9c553225",
+            "de": "To arrange or dictate the terms, conditions, or course of action",
+            "do": "Business",
+            "ty": "verb",
+            "ex": "The company was dominated by its CEO who imposed his will with an iron fist.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "impose a rule",
+                " impose a decision",
+                " impose one's will"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ce0d650b-e9ec-4f73-84af-81ef9c553225.webp",
+            "Tips": [
+                {
+                    "title": "Leadership Inference",
+                    "description": "In business, 'impose' can indicate a leadership style that does not invite collaboration.",
+                    "example": "The director imposed her strategy on the company without any discussion.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Negative Perception",
+                    "description": "Imposing one's will can be seen negatively, suggesting a disregard for others' input or opinions.",
+                    "example": "He imposed his preferences, ignoring the team's ideas.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8c808b3b-ad85-4ccc-86f0-b4732f5f32cc",
+            "de": "To lay on another as an obligation, duty, or charge",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The court is imposing a fine for his actions.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "impose a fine",
+                " impose a sentence",
+                " impose a duty"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8c808b3b-ad85-4ccc-86f0-b4732f5f32cc.webp",
+            "Tips": [
+                {
+                    "title": "Legal Obligation",
+                    "description": "'Imose' in legal contexts indicates the application of a legal requirement or punishment.",
+                    "example": "The judge imposed a community service order on the defendant.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mandatory Nature",
+                    "description": "Something imposed in law must be adhered to; it is not optional.",
+                    "example": "The law imposes a minimum wage employers must pay.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bbfb0991-e628-4ddf-a67b-7ae06b36fe3f",
+            "de": "To take advantage by placing unwelcome demands",
+            "ty": "verb",
+            "ex": "She always imposes on us to take care of her children.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "impose on someone's hospitality",
+                " impose on someone's time",
+                " impose on someone's space"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bbfb0991-e628-4ddf-a67b-7ae06b36fe3f.webp",
+            "Tips": [
+                {
+                    "title": "Social Sensitivity",
+                    "description": "Using 'impose' in social contexts often implies a lack of sensitivity or awareness about others' boundaries.",
+                    "example": "When he stayed for a week uninvited, he was imposing on their generosity.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Breach of Etiquette",
+                    "description": "To 'impose on' someone indicates a breach of social etiquette or an overstep of casualness.",
+                    "example": "She felt she was imposing on their privacy by calling late at night.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8e4a4699-80f3-44f9-8176-9bd061372dfb",
+            "de": "To put or set by or as if by authority",
+            "do": "Literary",
+            "ty": "verb",
+            "ex": "The King imposed a new law to maintain peace in the kingdom.",
+            "use": "",
+            "co": "Literary",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "impose an order",
+                " impose a law",
+                " impose an authority"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8e4a4699-80f3-44f9-8176-9bd061372dfb.webp",
+            "Tips": [
+                {
+                    "title": "Archaic Usage",
+                    "description": "In historical or literary contexts, 'impose' carries a formal tone of decrees issued by authorities.",
+                    "example": "The sovereign imposed curfews to quell the growing unrest.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formality and Power",
+                    "description": "Literary uses often reflect formal use associated with power and governance, not personal interactions.",
+                    "example": "The council imposed regulations to preserve the town's character.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Command": {
+            "wordRoot": "Command",
+            "wordDefinition": "Command refers to giving an order or directing someone to do something.\n\nThis word is applicable when someone is in a position of authority and has the power to give orders. For example, a military commander may command their troops to move to a specific location.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ec835d22-9b0b-4e7c-a8ab-e85edbef4e71.webp"
+        },
+        "Dictate": {
+            "wordRoot": "Dictate",
+            "wordDefinition": "Dictate means to give orders, commands, or directions in a forceful way, like a boss telling their employees what to do.\n\nIn essence, dictate implies a person telling someone else what to do while impose is more about a system or authority placing rules upon people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2dc3a104-8539-4fad-b3d9-e91d38135ea0.webp"
+        },
+        "Enforce": {
+            "wordRoot": "Enforce",
+            "wordDefinition": "Enforce means to make sure that a rule or law is being followed by using punishments or consequences.\n\nFor example, a police officer might enforce traffic laws by giving a ticket to someone who is speeding.\n\nEnforce is used when someone is making sure a rule is being followed, while impose is used when someone is creating a new rule that others must follow.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d03c62f-cc9e-41b0-88d3-b88c96813a7e.webp"
+        },
+        "Impel": {
+            "wordRoot": "Impel",
+            "wordDefinition": "The difference between impel and impose is that impel means to urge or drive someone to do something on their own free will, while impose means to force something on someone without their consent.\n\n1. An inspiring speech can impel people to take action towards a common goal.\n\nImpel is applicable in situations where people are encouraged or motivated to take action based on their own decision, while impose is applicable in situations where rules or regulations are set in place and people are forced to follow regardless of their personal preference.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af278254-33e5-4ebc-aeff-27b48e3a839a.webp"
+        },
+        "Inflict": {
+            "wordRoot": "Inflict",
+            "wordDefinition": "Inflict means to cause harm or suffering on someone or to cause pain to someone. It is applicable in a situation where someone intentionally causes harm or injury to another.\n\nIn simpler terms, impose is when something is forced upon someone, while inflict is when harm or suffering is caused to someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a42deaa1-7c13-4f26-829f-cf957cc96189.webp"
+        },
+        "Levy": {
+            "wordRoot": "Levy",
+            "wordDefinition": "Both impose and levy mean to charge or place a burden on someone or something, but they are used in slightly different situations.\n\nLevy, on the other hand, is more commonly used to describe a situation where taxes or fines are charged by an authoritative body.\n\nFor example, the government might levy a tax on imports to protect domestic industries or a court might levy a fine on someone who broke the law.\n\nIn simplified terms, you can think of it like this: impose is more about enforcing rules, while levy is more about collecting money.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ba1eee3-5ffa-490f-8d52-d8956274c449.webp"
+        },
+        "Oblige": {
+            "wordRoot": "Oblige",
+            "wordDefinition": "Oblige means to do something because it is necessary or expected, usually out of a sense of duty or courtesy.\n\nFor example, if a friend asks for help moving, you may feel obliged to assist them because they are your friend and have helped you in the past.\n\nSo, while both words may involve someone being compelled to do something, impose implies greater coercion or force from an external source, while oblige implies a voluntary action due to personal responsibility or expectations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61f2e56f-b434-421e-b890-d82fe73b6c89.webp"
+        },
+        "Prescribe": {
+            "wordRoot": "Prescribe",
+            "wordDefinition": "Both impose and prescribe refer to the act of mandating or requiring something, but there is a slight difference in their usage.\n\nPrescribe, on the other hand, is often used when something is recommended or assigned in a professional capacity. For example, a doctor might prescribe medication to treat an illness or a teacher might prescribe a reading list for their students.\n\nTo sum it up in simple terms, impose has a negative connotation of forcing something on someone, while prescribe has a more neutral connotation of recommending something in a professional setting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0a1a630-041a-4e46-b519-4c9b2f91c9ff.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " just been absolutely transformative I was here three weeks before I was scheduled to argue two cases at the United States Supreme Court where we were asking the court to ban death and prison sentences imposed on children the u.s. is still the only country in the world that legalized its life",
+            "Title": "Talking about history...",
+            "VideoId": "xCdh2yHmVwQ",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " Some people broadcast the whole time. Try not to do that. That's called sodcasting, Imposing your sound on people around you carelessly and inconsiderately. Not nice. Of course, where this all comes into play most of all is when you've got something really important to do.",
+            "Title": "How to speak so that...",
+            "VideoId": "eIho2S0ZahI",
+            "Controls": "start=426"
+        },
+        {
+            "Text": " This is a little bit like giving the same description to three different sketch artists from all around the world. If they all produce a very similar-looking face, then we can start to become confident that they're not imposing their own cultural biases on the drawings.",
+            "Title": "How to take a picture of...",
+            "VideoId": "BIvezCVcsYs",
+            "Controls": "start=575"
+        },
+        {
+            "Text": " as a masterpiece of dystopian fiction. Dystopian fiction as a genre amplifies troubling features of the world around us and imagines the consequences of taking them to an extreme. In many dystopian stories, the government imposes constrictions onto unwilling subjects.",
+            "Title": "Why should you read...",
+            "VideoId": "YMZcp0EQO2s",
+            "Controls": "start=173"
+        },
+        {
+            "Text": " it may be best to simply foster the imposter. Brood parasitism tends to evoke horror and disdain. But why should it be thought of as any more objectionable than predator-prey relationships? And is it ever productive to impose human morals onto other animals?",
+            "Title": "Would you raise the bird...",
+            "VideoId": "RAPPT7gcl5s",
+            "Controls": "start=267"
+        },
+        {
+            "Text": " intensifies the new goal is to cause an individual to become subservient to an imposed control to the point where he will perform acts against his will and then have no memory of the act the search for a real-life manchurian candidate",
+            "Title": "CIA Mind Control PIPE CIA...",
+            "VideoId": "NUW-frxo2X4",
+            "Controls": "start=201"
+        },
+        {
+            "Text": " by our society, our moment in history, even our own bodies. Some people have the courage to break free, not to accept the limitations imposed by the color of their skin or by the beliefs of those that surround them.",
+            "Title": "Why I must come out PIPE...",
+            "VideoId": "mCZCok_u37w",
+            "Controls": "start=72"
+        },
+        {
+            "Text": " millions of dark huge winged creatures dominate the skies they're an imposing sight but these black flying foxes are just big harmless bats the biggest in the world their wingspan can reach a whopping six feet",
+            "Title": "Meet the World's Biggest...",
+            "VideoId": "5FK9tWT5pA4",
+            "Controls": "start=3"
+        },
+        {
+            "Text": " Cap and trade can’t solve every environmental problem. But by using scientific consensus to guide policy, adopting efficient technology, and being unafraid to impose reasonable costs for pollution,",
+            "Title": "Whatever happened to...",
+            "VideoId": "WIdWjqZsGgg",
+            "Controls": "start=300"
+        },
+        {
+            "Text": " Often when we're filming our mammal cousins, it's very tempting to impose our own human anthropocentric values on their actions, and that is, I think, a mistake.",
+            "Title": "Orcas Kill, But Not Just...",
+            "VideoId": "3f-FsAUcqMs",
+            "Controls": "start=2"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emily-v-gordon.webp",
+            "Text": "A lot of people end up getting married more out of expectation than out of passion for each other, but if your options have ever been, 'We either get married or break up,' be careful. Marriage should be a new addition you add to the house that is your relationship, not the structure you impose on the house once it's already built.",
+            "Title": "American Writer",
+            "Name": "Emily V. Gordon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-frey.webp",
+            "Text": "I will not allow people to impose rules on me that don't make sense to me. And I live and work very much outside the literary world and the literary system. What they think and what they believe and what their rules are mean nothing to me.",
+            "Title": "American Writer",
+            "Name": "James Frey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-ma.webp",
+            "Text": "I want to stress the importance of being fair to our readers. You should not impose your own view and prejudice on the readers and try to lead them to a conclusion. As a reader, I understand what a fair report is.",
+            "Title": "Chinese Businessman",
+            "Name": "Jack Ma"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-keane.webp",
+            "Text": "When you had thugs and bullies and killers imposing their will on their own people or other people - if you don't respond to it, it just keeps coming because they're encouraged by their own success.",
+            "Title": "American General",
+            "Name": "Jack Keane"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-sowell.webp",
+            "Text": "President Obama seems completely unaware of how many of the policies he is trying to impose have been tried before, in many times and places around the world, and have failed time and again.",
+            "Title": "American Economist",
+            "Name": "Thomas Sowell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zico.webp",
+            "Text": "For me dialogue is as essential in football as in life. I like to talk to my players and I never impose anything, I always give them the chance to make their own choices.",
+            "Title": "Brazilian Coach",
+            "Name": "Zico"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franz-kafka.webp",
+            "Text": "By imposing too great a responsibility, or rather, all responsibility, on yourself, you crush yourself.",
+            "Title": "Novelist",
+            "Name": "Franz Kafka"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/naguib-mahfouz.webp",
+            "Text": "Winning Nobel imposed on me a lifestyle to which I am not used and which I would not have preferred.",
+            "Title": "Egyptian Novelist",
+            "Name": "Naguib Mahfouz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sergei-lavrov.webp",
+            "Text": "Russia would not support anything which would be actually imposed on Syrians.",
+            "Title": "Russian Diplomat",
+            "Name": "Sergei Lavrov"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/avigdor-lieberman.webp",
+            "Text": "It's impossible to impose peace, only to create it.",
+            "Title": "Israeli Politician",
+            "Name": "Avigdor Lieberman"
+        }
+    ]
+}

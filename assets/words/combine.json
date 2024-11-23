@@ -1,0 +1,361 @@
+{
+    "currentWord": {
+        "wordRoot": "combine",
+        "id": 19107,
+        "phonemic": "kəmˈbaɪn|kəmˈbaɪn\r",
+        "bigId": "344ceaa8-b8c4-4983-b0cb-841e8c66de83",
+        "wordForms": [
+            "combines",
+            "combining",
+            "combined",
+            "combinator",
+            "combinators",
+            "combine"
+        ]
+    },
+    "senses": [
+        {
+            "id": "344ceaa8-b8c4-4983-b0cb-841e8c66de83",
+            "de": "To join or mix two or more things together to make one",
+            "ty": "verb",
+            "ex": "She combines work with caring for her children.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "combine efforts",
+                " combine resources",
+                " combine talents"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/344ceaa8-b8c4-4983-b0cb-841e8c66de83.webp",
+            "Tips": [
+                {
+                    "title": "Combined Purpose",
+                    "description": "Use 'combine' when actions or things unite for the same goal.",
+                    "example": "The charities combined their efforts to improve education.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/uHH4QlkmPZIclfQw1dhjSTPwYI.webp"
+                },
+                {
+                    "title": "Simultaneous Actions",
+                    "description": "Use 'combine' to express doing multiple activities at once efficiently.",
+                    "example": "He combines studying with part-time work effortlessly.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/s5rEmiq7kE5nqKMe63LROI0U.webp"
+                }
+            ]
+        },
+        {
+            "id": "3d914e91-c8ec-4586-ae53-0a75fe35b5f1",
+            "de": "A machine that separates the grain from the stalks",
+            "do": "Agriculture",
+            "ty": "noun",
+            "ex": "The farmer used a combine to harvest the wheat.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "drive a combine",
+                " combine harvester",
+                " combine operation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3d914e91-c8ec-4586-ae53-0a75fe35b5f1.webp",
+            "Tips": [
+                {
+                    "title": "Agricultural Machinery",
+                    "description": "'Combine' as a noun usually relates to harvesting equipment.",
+                    "example": "Farmers wait for dry weather to operate the combine.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Harvest Context",
+                    "description": "Remember 'combine' in agriculture often implies the harvesting season.",
+                    "example": "During autumn, you'll see combines out in the fields.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8f01f2df-5264-4d41-b4f6-8d7f5b1fa433",
+            "de": "To have two or more different features or qualities at the same time",
+            "ty": "verb",
+            "ex": "She combines beauty with intelligence.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "combine beauty and brains",
+                " combine speed and power",
+                " combine skill and experience"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8f01f2df-5264-4d41-b4f6-8d7f5b1fa433.webp",
+            "Tips": [
+                {
+                    "title": "Dual Characteristics",
+                    "description": "Use 'combine' to highlight multiple attributes in one entity.",
+                    "example": "The gadget combines elegance with durability.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Appearance",
+                    "description": "Use 'combine' to discuss attributes not immediately noticeable.",
+                    "example": "This role requires someone who can combine patience with expertise.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7b127955-88c6-4cd3-87ac-257429d5f546",
+            "de": "In cooking, to mix two or more ingredients together",
+            "do": "Cooking",
+            "ty": "verb",
+            "ex": "Combine the flour and the sugar before adding it to the mixture.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "combine ingredients",
+                " combine flour and sugar",
+                " combine butter and eggs"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7b127955-88c6-4cd3-87ac-257429d5f546.webp",
+            "Tips": [
+                {
+                    "title": "Culinary Mix",
+                    "description": "'Combine' often introduces a step in recipes to blend ingredients.",
+                    "example": "Combine the eggs and milk before adding flour.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Baking Specific",
+                    "description": "In baking, 'combine' means mixing ingredients until they're uniform.",
+                    "example": "Make sure to combine the dry ingredients thoroughly before adding liquids.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "712ea9d9-164c-4eed-acc8-a338f1421542",
+            "de": "An organization of people or groups who have joined together for a common purpose",
+            "ty": "noun",
+            "ex": "The combine of labor unions rallied for higher wages.",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "labor combine",
+                " combine forces",
+                " business combine"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/712ea9d9-164c-4eed-acc8-a338f1421542.webp",
+            "Tips": [
+                {
+                    "title": "United Effort",
+                    "description": "A 'combine' refers to a group forming a single unit for common interests.",
+                    "example": "The defense companies formed a combine to lobby the government.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Coalition Power",
+                    "description": "Use 'combine' to describe the strength of an organized group's influence.",
+                    "example": "The combine exerted significant power on trade policies.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Amalgamate": {
+            "wordRoot": "Amalgamate",
+            "wordDefinition": "Amalgamate means to join or mix two or more things together to form a new entity.\n\nThis word usually describes the merging of companies or organizations. For example, if two small businesses merge to become one larger company, they can be said to have amalgamated.\n\nAmalgamate is a more specific term that is used when talking about the merging of larger entities like organizations, while combine is a more general term that can be used in many different situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2c4fd31b-300f-487f-8932-807f807031eb.webp"
+        },
+        "Blend": {
+            "wordRoot": "Blend",
+            "wordDefinition": "Blend means to mix two or more things together so that they become one uniform mixture. For example, when you blend ingredients in a blender, you're creating a smooth and consistent mixture.\n\nTo summarize, blend means to mix together into one uniform mixture, while combine means to put together while still retaining individual identities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5160eb33-b562-4889-8519-88149908fdba.webp"
+        },
+        "Coalesce": {
+            "wordRoot": "Coalesce",
+            "wordDefinition": "Coalesce means to come together to form one whole or unite closely.\n\nIt is typically used to describe things like ideas or groups of people that are coming together. For example, \"The two groups coalesced into one larger organization.\".\n\nCoalesce emphasizes the coming together and unity of things, while combine focuses more on physical things being joined together.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3c26bc0c-5a9b-474e-86e5-5d2d5f6b1ad9.webp"
+        },
+        "Conflate": {
+            "wordRoot": "Conflate",
+            "wordDefinition": "The words combine and conflate both mean to bring two or more things together, but they are used in slightly different ways.\n\nConflate on the other hand, is used when you merge two or more things into a single concept or idea, often without much regard for their individual differences.\n\nCombine is more focused on the physical merging of things (e.g. ingredients in a recipe), while conflate is more focused on the conceptual merging of things (e.g.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4e0bb72e-ca07-4bef-9fdc-be2c2614e24c.webp"
+        },
+        "Consolidate": {
+            "wordRoot": "Consolidate",
+            "wordDefinition": "Both combine and consolidate refer to bringing together multiple things into one.\n\nHowever, combine suggests merging things together without necessarily eliminating any of them, while consolidate suggests consolidating things in a way that eliminates redundancy and streamlines things.\n\nFor example, combining multiple sports teams might simply mean putting them all under one banner, while consolidating them would refer to making cuts and creating a more efficient and sustainable organization.\n\nCombine is applicable when you want to keep everything intact but bring it together, while consolidate is applicable when you want to optimize and simplify a process.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/41e46f04-6519-4fd8-a4a8-38b26e15dc15.webp"
+        },
+        "Fuse": {
+            "wordRoot": "Fuse",
+            "wordDefinition": "Both combine and fuse mean to bring two or more things together, but fuse usually means to combine things so much that they become one.\n\nIf you fuse metal together, you are melting them and combining them to make one new piece.\n\nYou would use combine when you want to bring things together but not necessarily make something completely new, and you would use fuse when you want to make one new thing out of multiple things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/75a84011-b268-40b8-9d4c-c5fd6f6657ee.webp"
+        },
+        "Integrate": {
+            "wordRoot": "Integrate",
+            "wordDefinition": "Integrate means to combine or blend different parts or elements so they work together as a whole, so as to create a more complex, unified system.\n\nFor example, integrating different computer systems to work seamlessly together within a network.\n\nSo, while combine emphasizes bringing things together, integrate emphasizes making them work together as a single, unified system.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9cfe70a-4b18-4bc4-8de3-3eea1a29c597.webp"
+        },
+        "Intermix": {
+            "wordRoot": "Intermix",
+            "wordDefinition": "Intermix means to mix two or more things together thoroughly until they become completely inseparable, resulting in a homogenous mixture.\n\nFor example, intermixing different colors of paint to create a new color.\n\nIn short, combining involves mixing while keeping the individual elements separate, while intermixing involves mixing until the elements cannot be distinguished.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b30a5c22-40d7-48bf-aa97-81aed0c2e139.webp"
+        },
+        "Meld": {
+            "wordRoot": "Meld",
+            "wordDefinition": "The words combine and meld both mean to bring things together or blend them.\n\nMeld often describes a more abstract process of blending or fusing elements together smoothly, such as melding two different styles of music into a unique sound.\n\nBoth words can be used in a wide range of contexts, but combine tends to be more concrete and specific, while meld tends to be more figurative and abstract.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7342ff06-2cca-403d-b32d-94773f827428.webp"
+        },
+        "Merge": {
+            "wordRoot": "Merge",
+            "wordDefinition": "Both combine and merge mean to join things together.\n\nHowever, combine usually means adding things together to make one whole, while merge usually means two things coming together to form a single unit.\n\nFor example, when you add flour, sugar, and eggs to make a cake batter, you are combining the ingredients. When two companies join forces to make a new company, they are merging.\n\nIf you want to emphasize that you're putting things together to make a bigger or more complex thing, use the word 'combine.' If you want to emphasize that two things are becoming one, use the word 'merge.'",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5831c29f-179a-4844-907c-55ae932eaeac.webp"
+        },
+        "Mix": {
+            "wordRoot": "Mix",
+            "wordDefinition": "Mix generally means to combine two or more things together without necessarily making a new single item. For example, if you mix water and food coloring, you get tinted water - the water and the food coloring don't become a new substance.\n\nSo, in short, combine implies a specific recipe, while mix implies more freedom in the process.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1bb8fd01-8d4a-425a-9582-bb299e348ad8.webp"
+        },
+        "Unite": {
+            "wordRoot": "Unite",
+            "wordDefinition": "The words combine and unite both mean bringing things together, but they are used in different contexts.\n\nUnite is used when we want to bring two or more groups or things together for a common purpose or goal. For example, we can unite different communities to work towards a common goal, like cleaning up the environment.\n\nCombine means mixing things to form a new thing, and unite means bringing together individuals or groups to work towards a common goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74782aa8-c833-4695-a9c8-97a5f1c92f66.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " it's about creating a movement in education in which people develop their own solutions, but with external support based on a personalized curriculum. Now in this room, there are people who represent extraordinary resources in business, in multimedia, in the Internet. These technologies, combined with the extraordinary talents of teachers,",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=930"
+        },
+        {
+            "Text": " strengthens those brain functions, allowing us to apply that strength to other activities. The most obvious difference between listening to music and playing it is that the latter requires fine motor skills, which are controlled in both hemispheres of the brain. It also combines the linguistic and mathematical precision,",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " think about your tools but more importantly think about your thinking because Einstein said that today's problems cannot be of the same thinking that created them well the technology of management got us this far but it's going to require progressive and empathetic leaders combined with the right tools to",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=383"
+        },
+        {
+            "Text": " Instead of throwing them away at the end of their life, donate, recycle, or reuse them as cleaning rags. And, finally, you might ask yourself, how many t-shirts and articles of clothing will you consume over your lifetime, and what will be their combined impact on the world?",
+            "Title": "The life cycle of a...",
+            "VideoId": "BiSYoeqb_VY",
+            "Controls": "start=291"
+        },
+        {
+            "Text": " Layering multiple patterns using concentric wheels lets us create more complex rhythms. For example, we can combine a basic two beat rhythm with off beats to get a four beat system. This is the recognizable backbone of many genres popular around the world,",
+            "Title": "A different way to...",
+            "VideoId": "2UphAzryVpY",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " built on different types of particles, with different properties, obeying different laws. Most of these universes could never support life, and might flash in and out of existence in a nanosecond. But nonetheless, combined, they make up a vast multiverse",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " The droplets combine with each other and other molecules and are then expelled and stored in spaces between cells. Mammary glands eventually secrete the milk through the breasts, udders, or, in the rare case of the platypus, through ducts in the abdomen.",
+            "Title": "The science of milk -...",
+            "VideoId": "xmNzUEmFZMg",
+            "Controls": "start=87"
+        },
+        {
+            "Text": " with different properties, obeying different laws. Most of these universes could never support life, and might flash in and out of existence in a nanosecond, but nonetheless, combined they make up a vast multiverse of possible universes.",
+            "Title": "How many universes are...",
+            "VideoId": "a1bWKZFP2Tc",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " a great white's jaws so deadly. Other investigators have seen how a bull shark's bite works. Now, getting a bite impression might help them solve the mystery of how a great white combines bite force with thrust.",
+            "Title": "How a Great White Shark...",
+            "VideoId": "fBsQrMsEJ1g",
+            "Controls": "start=8"
+        },
+        {
+            "Text": " each element of the egg combined to create new life from the nutritious yolk to the defensive albumen to the protective shell nature's most perfect life support system has served its purpose",
+            "Title": "The Miracle of Hatching...",
+            "VideoId": "7uWe0FMAq1E",
+            "Controls": "start=231"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/clayton-kershaw.webp",
+            "Text": "There's a responsibility to the coaches, to the organization, to the front office, to the owners, to everybody who believes in you enough to give you what you've gotten, to the fans that show up every day and pay to watch you play - all those things combined. It's not fair to take a day off.",
+            "Title": "American Athlete",
+            "Name": "Clayton Kershaw"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geoff-dyer.webp",
+            "Text": "What I've really liked doing is combining what you might call art criticism or music criticism with something that is happening in real life.",
+            "Title": "English Writer",
+            "Name": "Geoff Dyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-de-boer.webp",
+            "Text": "Talent is important, but it's more important that you have character. Combined with talent, you can be a very good player.",
+            "Title": "Dutch Manager",
+            "Name": "Frank de Boer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/flume.webp",
+            "Text": "Combining sounds that are from another universe with the classic songwriting structures never gets old for me.",
+            "Title": "Australian Musician",
+            "Name": "Flume"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emma-bonino.webp",
+            "Text": "Men don't have as many difficulties and are more supported to combine the different aspects of their life.",
+            "Title": "Italian Politician",
+            "Name": "Emma Bonino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francis-marion-crawford.webp",
+            "Text": "No one person can possibly combine all the elements supposed to make up what everyone means by friendship.",
+            "Title": "American Writer",
+            "Name": "Francis Marion Crawford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arsene-wenger.webp",
+            "Text": "Of course, we also have the responsibility to win games and the difficulty in the job is to combine both.",
+            "Title": "French Coach",
+            "Name": "Arsene Wenger"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-einstein.webp",
+            "Text": "The attempt to combine wisdom and power has only rarely been successful and then only for a short while.",
+            "Title": "German Physicist",
+            "Name": "Albert Einstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lauren-conrad.webp",
+            "Text": "You have your personal life and you have work life; when it's combined, it's difficult.",
+            "Title": "American Designer",
+            "Name": "Lauren Conrad"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anoushka-shankar.webp",
+            "Text": "I really am a fan of combining worlds in my own life.",
+            "Title": "British Musician",
+            "Name": "Anoushka Shankar"
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "currentWord": {
+        "wordRoot": "scan",
+        "id": 8666,
+        "phonemic": "skæn|skæn\r",
+        "bigId": "b7456381-eb41-49e7-9a09-bcd4e771ef72",
+        "wordForms": [
+            "scans",
+            "scanning",
+            "scanned",
+            "scan"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b7456381-eb41-49e7-9a09-bcd4e771ef72",
+            "de": "To look at something carefully in order to understand it",
+            "ty": "verb",
+            "ex": "Scientists have been scanning the sky for signs of extraterrestrial life.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "scan the room",
+                " scan the horizon",
+                " scan the area"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b7456381-eb41-49e7-9a09-bcd4e771ef72.webp",
+            "Tips": [
+                {
+                    "title": "Detailed Observation",
+                    "description": "Usually implies carefully looking for specific information or details.",
+                    "example": "She scanned the crowd for a familiar face.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bsspwx9glDuCISNQy03gdnEsY4w.webp"
+                },
+                {
+                    "title": "Active Engagement",
+                    "description": "Involves actively seeking out information, not passively glancing.",
+                    "example": "He scanned the report for the latest data.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/2wnFOKHHr7FTnjOjTvPZfNNDiGg.webp"
+                },
+                {
+                    "title": "Visual Coverage",
+                    "description": "Can suggest a sweeping look over a large area or range.",
+                    "example": "The guard scanned the horizon for signs of the caravan.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/INRkXdQccQHlHdp5ebPfEdyXnBs.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f38568af-9eeb-45be-92c4-cac219c81358",
+            "de": "To use a machine to get an image or information from something",
+            "do": "computing, medical",
+            "ty": "verb",
+            "ex": "I need to scan these documents to my computer.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "scan a document",
+                " scan a passport",
+                " scan a barcode"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f38568af-9eeb-45be-92c4-cac219c81358.webp",
+            "Tips": [
+                {
+                    "title": "Technical Process",
+                    "description": "In tech, it refers to the process of digitizing or analyzing something using a device.",
+                    "example": "Please scan the photographs onto the system.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Medical Imaging",
+                    "description": "In medicine, it involves creating images of the body for diagnosis or treatment.",
+                    "example": "The MRI scan will take about 30 minutes.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "1a454407-ad0c-48cb-ab08-d22054f2d601",
+            "de": "To look through a piece of writing quickly, not reading every word",
+            "ty": "verb",
+            "ex": "I quickly scanned the newspaper for the sports results.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "scan a newspaper",
+                " scan a book",
+                " scan an article"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1a454407-ad0c-48cb-ab08-d22054f2d601.webp",
+            "Tips": [
+                {
+                    "title": "Quick Reading",
+                    "description": "Focuses on getting a general idea or finding specific information quickly.",
+                    "example": "Can you scan this article for the main arguments?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Speed Over Detail",
+                    "description": "You don't read everything, just enough to understand the gist or locate key points.",
+                    "example": "She scanned the menu, looking for vegan options.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5ee8e4f6-27ab-4544-8387-cfd138bc52b6",
+            "de": "To control electronically, to identify or monitor",
+            "do": "military, computing",
+            "ty": "verb",
+            "ex": "The radar scans the area for any incoming missiles.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "scan for viruses",
+                " scan for threats",
+                " scan for malware"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5ee8e4f6-27ab-4544-8387-cfd138bc52b6.webp",
+            "Tips": [
+                {
+                    "title": "Monitoring Activity",
+                    "description": "Implies actively searching for something specific within a larger space or system.",
+                    "example": "The system scans for security breaches.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Continuous Process",
+                    "description": "Often refers to an ongoing activity that is regularly repeated.",
+                    "example": "The antivirus software scans my computer daily.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "013c91c4-7f37-43d1-9e77-e724c642b6e9",
+            "de": "An act or instance of scanning",
+            "do": "computing, medical",
+            "ty": "noun",
+            "ex": "The doctor requested a scan to get a clearer picture of the injury.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "get a scan",
+                " conduct a scan",
+                " request a scan"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/013c91c4-7f37-43d1-9e77-e724c642b6e9.webp",
+            "Tips": [
+                {
+                    "title": "Diagnostic Tool",
+                    "description": "In medical or computing contexts, it's used to detect or investigate problems.",
+                    "example": "The ultrasound scan showed the baby's heartbeat.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Check": {
+            "wordRoot": "Check",
+            "wordDefinition": "Check means to examine something carefully in order to make sure it is correct, accurate, or safe. For example, we check our homework before submitting it to the teacher to ensure that it is error-free.\n\nWe also check the expiry date of a product before buying it to ensure that it is still good to use.\n\nCheck is used to carefully examine something for accuracy or safety, while scan is used to look quickly over something for specific details or information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3358b0cb-8094-47da-81a8-349bd29dc7f1.webp"
+        },
+        "Examine": {
+            "wordRoot": "Examine",
+            "wordDefinition": "Examine means to look at something closely, carefully and in detail to get a deeper understanding of its qualities, characteristics, or condition.\n\nIt refers to a thorough inspection, investigation, or analysis of something. We can use it for objects, articles, documents, and even people, for example, a doctor may examine a patient to diagnose an illness.\n\nThe difference between examine and scan lies in the level of detail, depth, and purpose of the inspection. While examine requires careful attention and a deep investigation about something, scan implies a superficial and fast overview to find particular information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9624135c-7cec-4c0a-a399-a81e6fe400d4.webp"
+        },
+        "Explore": {
+            "wordRoot": "Explore",
+            "wordDefinition": "Both explore and scan refer to looking at something, but they have different connotations.\n\nExplore means to examine something in depth or thoroughly. Think of it like going on a journey into something unknown to learn and discover more about it.\n\nFor example, you can explore a new city, a new concept or a new culture.\n\nExplore is used when you want to learn more deeply about something, while scan is used when you want to quickly gather information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b648c8ad-e138-43d6-8513-3546dd23201d.webp"
+        },
+        "Inspect": {
+            "wordRoot": "Inspect",
+            "wordDefinition": "Inspect means to carefully look at something to identify any problems or issues. It usually involves a detailed examination and analysis of an object or situation.\n\nFor example, a car mechanic might inspect an engine to identify any issues that need to be repaired. A barcode scanner might scan a product at a checkout counter to quickly identify the price.\n\nInspect is used for careful examination while scan is used for quickly finding specific information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62160a0b-b5c7-4529-b1e2-0c2b6cd9ce80.webp"
+        },
+        "Investigate": {
+            "wordRoot": "Investigate",
+            "wordDefinition": "Investigate means to look into something carefully in order to find out information or facts about it.\n\nIt is typically used when a detailed examination or analysis is needed to understand a situation better. For example, a detective might investigate a crime to gather evidence and identify suspects.\n\nIf you need to look at something in detail and find out information, you would investigate it. If you just want to glance over something quickly and get a general idea, you would scan it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e835359-0865-4d86-ac05-e053e13feb1a.webp"
+        },
+        "Peruse": {
+            "wordRoot": "Peruse",
+            "wordDefinition": "Peruse means to read or examine something very carefully and thoroughly, paying attention to every detail. The word scan means to quickly look through something to get a general idea of what it is about, without paying much attention to every detail.\n\nFor example, if you are reading a novel for school, you would peruse it carefully to understand the characters, the plot and the message behind it.\n\nPeruse means to read or examine something carefully, while scan means to quickly look through something for a general idea.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/31d5bfa2-bc8d-4684-aed5-400175becf91.webp"
+        },
+        "Scrutinize": {
+            "wordRoot": "Scrutinize",
+            "wordDefinition": "Scrutinize means to look at something very closely and carefully, with the intention of finding any errors, problems, or details.\n\nIt's like studying or analyzing something in detail. For example, you might scrutinize a contract before signing it, or scrutinize a scientific report to see if the research methods were sound.\n\nScan is used when you just want a quick overview, while scrutinize is used when you want to carefully examine something in detail.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53f17615-8dfe-4eba-9d1e-aef39e0ff54e.webp"
+        },
+        "Survey": {
+            "wordRoot": "Survey",
+            "wordDefinition": "Survey refers to a more thorough and systematic examination of a larger area or a larger set of data. It involves collecting and analyzing more detailed information to gain a better understanding of the subject matter.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a8e79ac-f73e-4d67-9757-3704e5b0c97a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " years ago we wrote a grant for a laser scanner and a 3d printer thinking this could be a better process so we could scan these objects using the laser scanner and that would be a non-contact method so minimal risk to the object and then once we have that data we could bring it back into the real world",
+            "Title": "Inside Smithsonian's 3D...",
+            "VideoId": "6-2tLyTPs7Y",
+            "Controls": "start=49"
+        },
+        {
+            "Text": " Now the technology around what the truth looks like is progressing on, the science of it. We know, for example, that we now have specialized eye trackers and infrared brain scans, MRI's that can decode the signals that our bodies send out when we're trying to be deceptive.",
+            "Title": "How to spot a liar PIPE...",
+            "VideoId": "P_6vDLq64gE",
+            "Controls": "start=997"
+        },
+        {
+            "Text": " to begin the first scan with the localize are you ready one of Greg's earliest experiments is revealing an important clue as to what happens in a dog's brain when it receives information from its senses first he's looking at a visual signal so Katie's in the scanner",
+            "Title": "Dog MRI PIPE Studying The...",
+            "VideoId": "Q5sXqk4j9jk",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " able to quickly understand the biological strategy get the design principle an application idea and then download a 3d model that goes right into the tools they use every day those computed aided computer-aided design tools but first we have to scan the",
+            "Title": "Creating a Bio-Industrial...",
+            "VideoId": "YSOFd0YgpQQ",
+            "Controls": "start=796"
+        },
+        {
+            "Text": " And emotion recognition software can help treat mental disorders or even provide people with low-cost automated psychotherapy. Despite the potential benefits, the prospect of a massive network automatically scanning our photos, communications,",
+            "Title": "Can machines read your...",
+            "VideoId": "QFk3e5PcK7s",
+            "Controls": "start=195"
+        },
+        {
+            "Text": " We interview them in their living rooms. We get their medical records from their doctors. We draw their blood, we scan their brains, we talk to their children. We videotape them talking with their wives about their deepest concerns.",
+            "Title": "Robert Waldinger: What...",
+            "VideoId": "8KkKuTCFvzI",
+            "Controls": "start=324"
+        },
+        {
+            "Text": " Aided by some distance and direction information from the neutrino detectors, the amateur astronomers and scientists alike will scan the skies and share information to quickly identify the new galactic supernova",
+            "Title": "How to detect a...",
+            "VideoId": "xYxyTZG7APQ",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " Hospitals and clinics now conduct over 100 millions scans each year worldwide to treat diseases and save lives.",
+            "Title": "How X-rays see through...",
+            "VideoId": "gsV7SJDDCY4",
+            "Controls": "start=255"
+        },
+        {
+            "Text": " you have been scanned. The two wizards that I have that are behind the curtain will help me bring",
+            "Title": "Ben Kacyra: Ancient...",
+            "VideoId": "a7t61U6BBcs",
+            "Controls": "start=620"
+        },
+        {
+            "Text": " Modsidi series scans the world she needs to conquer.",
+            "Title": "Leopard Stalks an Impala...",
+            "VideoId": "JtlfSKT1iU4",
+            "Controls": "start=0"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grant-shapps.webp",
+            "Text": "For anyone who has found it easy to conceive, it is perhaps hard to imagine how IVF can become all-encompassing in someone's life. The endless check-ups, scans, tests, periods of waiting and finally the day when you learn the result. It's a physically punishing process for the women and an emotionally exhausting process for both partners.",
+            "Title": "British Politician",
+            "Name": "Grant Shapps"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-pearce.webp",
+            "Text": "I'll generally write out every scene that's in the film on a couple of pieces of paper, just with a little one-line. And then I can scan it a bit and go, 'This first third of the film, generally, I'm kind of calm.' Then I might do something on one piece of paper that just relates to the energy of the character.",
+            "Title": "English Actor",
+            "Name": "Guy Pearce"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samantha-morton.webp",
+            "Text": "I will check the internet for at least an hour every morning scanning worldwide news to do with child abuse. So if you're constantly putting yourself in an environment where you're checking up on social economics or homelessness problems, if you keep yourself aware of it, you don't really have a day off.",
+            "Title": "English Actress",
+            "Name": "Samantha Morton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/claudio-reyna.webp",
+            "Text": "I had to wait a while to get the scans back but it shows nothing in terms of needing surgery which is good. I hurt my AC joint and I just need to strengthen it. There is an outside chance to start training by the end of this week and if not than the start of next week.",
+            "Title": "American Athlete",
+            "Name": "Claudio Reyna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eric-topol.webp",
+            "Text": "When you're asked to have a CT scan or a nuclear scan, do you know how much radiation that involves? How many of those sorts of scans have you already had? Is it necessary? Is there an alternative? I don't think many people know about that.",
+            "Title": "American Scientist",
+            "Name": "Eric Topol"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-griffith.webp",
+            "Text": "But now with technology I could sit down and do a bunch of character drawings and scan them into a computer, and the computer using my exact style could bring it into life, where it would have been edited by various human beings before.",
+            "Title": "American Cartoonist",
+            "Name": "Bill Griffith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chris-wood.webp",
+            "Text": "I've done many body scans. Every time your character fights in a different look, they'll rescan you. Because my character has taken so long to get a super suit, every time Mon-El fights, he's in something different.",
+            "Title": "American Actor",
+            "Name": "Chris Wood"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/daniel-lyons.webp",
+            "Text": "Some law firms now use artificial intelligence software to scan and read mountains of legal documents, work that previously was performed by highly paid human lawyers.",
+            "Title": "American Writer",
+            "Name": "Daniel Lyons"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/louis-theroux.webp",
+            "Text": "I'm not necessarily scanning for clues when I make documentaries.",
+            "Title": "British Director",
+            "Name": "Louis Theroux"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peggy-johnson.webp",
+            "Text": "We are constantly scanning for opportunities.",
+            "Title": "American Businesswoman",
+            "Name": "Peggy Johnson"
+        }
+    ]
+}

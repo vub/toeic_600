@@ -1,0 +1,342 @@
+{
+    "currentWord": {
+        "wordRoot": "delivery",
+        "id": 3907,
+        "phonemic": "dɪˈlɪvəri|dɪˈlɪvəri\r",
+        "bigId": "4c448aa3-f422-4f0f-af9d-cac25a51a743",
+        "wordForms": [
+            "deliveries",
+            "delivery"
+        ]
+    },
+    "senses": [
+        {
+            "id": "4c448aa3-f422-4f0f-af9d-cac25a51a743",
+            "de": "The action of bringing goods or letters to a person or place.",
+            "ty": "noun",
+            "ex": "The pizza delivery was faster than I expected.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "parcel delivery",
+                " food delivery",
+                " express delivery"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4c448aa3-f422-4f0f-af9d-cac25a51a743.webp",
+            "Tips": [
+                {
+                    "title": "Delivery Speed",
+                    "description": "Discuss how fast or slow the delivery service is in different contexts.",
+                    "example": "Overnight delivery is expensive but convenient.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gaIj4NGGSwv6jq5wB4y21qZ2w.webp"
+                },
+                {
+                    "title": "Delivery Tracking",
+                    "description": "Mention tracking services that allow customers to know the location of their delivery.",
+                    "example": "I received a tracking number to monitor my delivery.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/FKia5N4YYykWsx1jpZB8uD5jUQ.webp"
+                },
+                {
+                    "title": "Delivery Issues",
+                    "description": "Talk about potential problems like delays or lost items and customer service.",
+                    "example": "The delivery was late, so I contacted customer support.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gpKr4yGIy43zc1thzwWfuUZuRdA.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "004e8fdf-d64b-429d-9efe-267bf80b0d19",
+            "de": "The process of giving birth.",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "The doctor prepared for the delivery of the baby.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "natural delivery",
+                " emergency delivery",
+                " safe delivery"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/004e8fdf-d64b-429d-9efe-267bf80b0d19.webp",
+            "Tips": [
+                {
+                    "title": "Delivery Methods",
+                    "description": "Discuss different healthcare settings and methods for childbirth.",
+                    "example": "She chose water birth for her delivery.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "After Delivery Care",
+                    "description": "Talk about postpartum care for the mother and newborn.",
+                    "example": "After delivery, the mother received care in the maternity ward.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b37397a0-e083-4f64-ab9c-7f90ccf8a03c",
+            "de": "The way in which someone talks or performs in public.",
+            "ty": "noun",
+            "ex": "The singer's delivery was very emotional and the audience loved it.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "speech delivery",
+                " performance delivery",
+                " delivery of lines"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b37397a0-e083-4f64-ab9c-7f90ccf8a03c.webp",
+            "Tips": [
+                {
+                    "title": "Delivery Confidence",
+                    "description": "Explain the importance of confidence in public speaking or performances.",
+                    "example": "Her confident delivery captivated the audience.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Delivery",
+                    "description": "Explore how emotional tone can affect an audience's reception.",
+                    "example": "His tearful delivery touched everyone's heart.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7e54fa9e-7d89-4316-a0fd-f930797fc12e",
+            "de": "The action of throwing a ball in a game or sport.",
+            "do": "Sports",
+            "ty": "noun",
+            "ex": "His delivery of the ball was perfect and he scored a goal.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bowling delivery",
+                " pitch delivery",
+                " delivery of the ball"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7e54fa9e-7d89-4316-a0fd-f930797fc12e.webp",
+            "Tips": [
+                {
+                    "title": "Delivery Technique",
+                    "description": "Discuss the skill and practice behind a successful sports throw.",
+                    "example": "A golfer's delivery can affect the swing's outcome.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f7a8a246-f1b0-4091-bba1-faa2d6db7573",
+            "de": "The action of doing something promised or expected, especially supplying a product or service.",
+            "ty": "noun",
+            "ex": "He's responsible for the delivery of this project on time.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "project delivery",
+                " service delivery",
+                " delivery of promise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f7a8a246-f1b0-4091-bba1-faa2d6db7573.webp",
+            "Tips": [
+                {
+                    "title": "Delivery Reliability",
+                    "description": "Stress the importance of meeting deadlines and being reliable.",
+                    "example": "Their reliable delivery of services won them many clients.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Delivery Satisfaction",
+                    "description": "Discuss meeting or exceeding expectations when delivering a product or service.",
+                    "example": "Customer satisfaction is key to successful project delivery.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Cargo": {
+            "wordRoot": "Cargo",
+            "wordDefinition": "Cargo refers to the goods or materials being transported from one place to another, usually by a large vehicle such as a ship, plane, or truck.\n\nIn other words, cargo is the stuff that's being moved, while delivery is the process of getting it to where it needs to go.\n\nCargo is applicable anytime something needs to be transported, while delivery is more specific to when the cargo is being brought to a specific location.\n\nFor example, a ship might carry cargo across the ocean, but it's the delivery trucks that bring that cargo to individual stores or warehouses.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b374b12-2e20-4a70-9429-7be7585d2522.webp"
+        },
+        "Consignment": {
+            "wordRoot": "Consignment",
+            "wordDefinition": "Consignment refers to an arrangement in which goods are given to a seller but the ownership remains with the original owner until the goods are sold.\n\nConsignment is a specific type of arrangement where ownership of goods remains with the original owner until sold, while delivery simply refers to the transportation of goods from one location to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4179279b-2bc8-465b-a26b-e8a4f1870290.webp"
+        },
+        "Conveyance": {
+            "wordRoot": "Conveyance",
+            "wordDefinition": "Conveyance refers to the act of transporting something from one place to another, usually by a means of transportation like a car, truck, or train.\n\nConveyance is about getting something from one place to another while delivery refers to getting something to the person it is meant for.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1748e53b-7b22-4dd9-9aff-908d0be6982b.webp"
+        },
+        "Dispatch": {
+            "wordRoot": "Dispatch",
+            "wordDefinition": "Delivery refers to the act of getting something to a person or place, while dispatch means to send something off to a destination.\n\nDelivery is applicable when something has already been sent or dispatched and has reached its destination. Dispatch is applicable when something is being sent off to a destination.\n\nFor example, a parcel is dispatched from a warehouse and then delivered to the recipient's address.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2bbe5e05-17bb-4094-b81d-48ec88ee3faf.webp"
+        },
+        "Distribution": {
+            "wordRoot": "Distribution",
+            "wordDefinition": "Distribution refers to the process of getting a product from the manufacturer or supplier to the end customer, which may involve several steps such as transportation, storage, and retail.\n\nIn simpler terms, delivery is the final step in bringing a product to a specific person or location, while distribution refers to the entire process of getting a product to customers in general.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/89752752-2a60-42c1-af50-421170cd1910.webp"
+        },
+        "Freight": {
+            "wordRoot": "Freight",
+            "wordDefinition": "Freight refers to the transportation of goods or cargo on a larger scale. This typically involves the use of trucks, trains, ships, or planes to transport large amounts of goods from one location to another.\n\nFreight is often used in business and commerce for the movement of goods between manufacturers, suppliers, and retailers.\n\nDelivery is used for small-scale transportation of goods to customers or recipients, while freight is used for larger-scale transportation of goods between businesses and commercial entities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ec7608fe-21e9-4247-88b6-e634892bcc0a.webp"
+        },
+        "Shipment": {
+            "wordRoot": "Shipment",
+            "wordDefinition": "Shipment refers to the transportation of goods from one place to another for the purpose of trade or commerce.\n\nShipment can involve transporting items by air, sea, or land.\n\nDelivery focuses on getting an item to a specific person or location, while shipment focuses on the process of moving goods from one place to another.\n\nDelivery is more commonly used in the context of individual orders or smaller packages, while shipment is generally used in the context of larger quantities of goods being transported.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0f6b6715-9233-4bdb-b39d-ee35a671b653.webp"
+        },
+        "Transfer": {
+            "wordRoot": "Transfer",
+            "wordDefinition": "Transfer is the act of moving something from one place to another.\n\nIt can refer to physical objects, but it can also refer to intangible things like money or data. For example, when you transfer money from your checking account to your savings account, you are moving the money from one account to another.\n\nDelivery is focused on getting something to a specific recipient or destination, while transfer is focused on moving something from one place to another.\n\nDelivery is typically used for physical items, while transfer can be used for physical objects or intangible things like data or money.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1fe3c27f-7f43-47bf-a69b-656cff334342.webp"
+        },
+        "Transport": {
+            "wordRoot": "Transport",
+            "wordDefinition": "Transport refers to the movement of people or goods from one place to another, such as transporting goods from a factory to a store.\n\nDelivery is a specific type of transport that involves bringing something to a specific location while transport is a broad term for moving things or people from one place to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/013addf6-9435-47bf-825b-e2d25976534a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " What the global delivery model allows is, it allows you to take previously geographically core-located tasks, break them up into parts, send them around the world where the expertise and the cost structure exists, and then specify the means for reintegrating them. Without that, you could not have any of the other",
+            "Title": "Nirmalya Kumar: India's...",
+            "VideoId": "iyfdWsa1zns",
+            "Controls": "start=618"
+        },
+        {
+            "Text": " Inspection, environmental monitoring, photography and film and these are some of the potential applications for commercial drones, and their enablers are the capabilities being developed at research facilities around the world. For example, before aerial package delivery entered our social consciousness,",
+            "Title": "Meet the dazzling flying...",
+            "VideoId": "RCXGpEmFbOw",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " Astra biotics goal is to make the moon accessible to the world and towards that what we are creating is an affordable routine delivery service to the moon where space agencies and commercial organizations and even individuals all over the world can access the moon and",
+            "Title": "If We Colonize the Moon,...",
+            "VideoId": "LljPYWfFtao",
+            "Controls": "start=285"
+        },
+        {
+            "Text": " the hepatic artery delivers blood from the heart, while the hepatic portal vein brings it from the intestine. This double delivery fills the liver with nutrients, that it then sorts, processes and stores with the help of thousands of tiny internal processing plants,",
+            "Title": "What does the liver do?...",
+            "VideoId": "wbh3SjzydnQ",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " And then you put tree seeds in here, and then you end up growing -- potentially -- an old-growth forest from a cardboard box. I want to reinvent the delivery system, and the use of cardboard around the world, so they become ecological footprints.",
+            "Title": "6 ways mushrooms can...",
+            "VideoId": "XI5frPV58tY",
+            "Controls": "start=922"
+        },
+        {
+            "Text": " There is no system in the world or any school in the country that is better than its teachers. Teachers are the lifeblood of the success of schools. But teaching is a creative profession. Teaching, properly conceived, is not a delivery system.",
+            "Title": "How to escape...",
+            "VideoId": "wX78iKhInsc",
+            "Controls": "start=414"
+        },
+        {
+            "Text": " regularly up to the delivery and met the backroom physician on my tour of the hospital birthing center I had a support system in place I was lucky I knew how I wanted my labor and delivery to go and I had a plan to ensure that outcome I",
+            "Title": "Caring for maternal...",
+            "VideoId": "Tz7e-uMiaJs",
+            "Controls": "start=168"
+        },
+        {
+            "Text": " Shortly before delivery, the fetus drops down, decreasing the pressure on the diaphragm and allowing the pregnant woman to take deeper breaths. During labor and birth, much of the extra fluid in the body is lost when the water breaks.",
+            "Title": "The surprising effects...",
+            "VideoId": "F_ssj7-8rYg",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " a new life living wild on the plains of new mexico there's a special delivery for the vets at arcast rescue center animals find their way here from all",
+            "Title": "Adorable Baby Animal...",
+            "VideoId": "W9zdyytICHU",
+            "Controls": "start=274"
+        },
+        {
+            "Text": " Disposable diapers made life easy for parents, but they killed off diaper delivery services. And do we want landfills overwhelmed by dirty diapers?",
+            "Title": "How inventions change...",
+            "VideoId": "0SMNYivhGsc",
+            "Controls": "start=282"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/betsy-devos.webp",
+            "Text": "I need to stress that I could not be more supportive of great teachers and great teaching, no matter what kind of delivery vehicle they are teaching through. We have to support great teachers. They just have to be freed up to do what they do best.",
+            "Title": "American Public Servant",
+            "Name": "Betsy DeVos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-demme.webp",
+            "Text": "There is so much going on in our country and in the world today... We're getting the headlines for a second, shaped by corporate delivery most of the time, but what's really the story there? Well, I'm turned on by that kind of stuff.",
+            "Title": "American Director",
+            "Name": "Jonathan Demme"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-b-pritzker.webp",
+            "Text": "There's a truth about public service that is often unspoken and rarely understood - that the role of our elected officials is about much more than balancing budgets and ensuring the delivery of essential services.",
+            "Title": "Argentinian Businessman",
+            "Name": "J. B. Pritzker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lacey-chabert.webp",
+            "Text": "Meeting my daughter for the first time was the most special moment of my life. They laid Julia on my chest in the delivery room, and my heart completely melted. She was just so peaceful.",
+            "Title": "American Actress",
+            "Name": "Lacey Chabert"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rajiv-menon.webp",
+            "Text": "Good acting is confused with good dialogue delivery. Acting is about all about performance, and the way we interpret and understand the character that we bring alive onscreen.",
+            "Title": "Indian Director",
+            "Name": "Rajiv Menon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ian-gillan.webp",
+            "Text": "Elvis's voice was unique. Like so many others, he had natural, technical ability, but there was something in the humanity of his voice, and his delivery.",
+            "Title": "English Musician",
+            "Name": "Ian Gillan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dj-premier.webp",
+            "Text": "I'm real particular about delivery. You can write the illest rhymes in the world, but can you deliver it right?",
+            "Title": "American Musician",
+            "Name": "DJ Premier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-cousins.webp",
+            "Text": "A library is the delivery room for the birth of ideas, a place where history comes to life.",
+            "Title": "American Author",
+            "Name": "Norman Cousins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kenny-omega.webp",
+            "Text": "Part of what makes my character work is the delivery of the truth behind my comments.",
+            "Title": "Canadian Athlete",
+            "Name": "Kenny Omega"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nipsey-hussle.webp",
+            "Text": "I get a more passionate delivery when I just go in the booth and let the music talk.",
+            "Title": "American Rapper",
+            "Name": "Nipsey Hussle"
+        }
+    ]
+}

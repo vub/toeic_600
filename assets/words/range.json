@@ -1,0 +1,371 @@
+{
+    "currentWord": {
+        "wordRoot": "range",
+        "id": 5275,
+        "phonemic": "reɪndʒ|reɪndʒ\r",
+        "bigId": "ddf0fa27-7d26-4511-a73a-cfa8a48e94e1",
+        "wordForms": [
+            "ranges",
+            "ranging",
+            "ranged",
+            "range"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ddf0fa27-7d26-4511-a73a-cfa8a48e94e1",
+            "de": "A variety of different things or activities",
+            "ty": "noun",
+            "ex": "The store sells a range of organic products.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "wide range",
+                " range of products",
+                " range of services"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ddf0fa27-7d26-4511-a73a-cfa8a48e94e1.webp",
+            "Tips": [
+                {
+                    "title": "When Diversity Matters",
+                    "description": "Use 'range' to highlight the diversity within a group or collection.",
+                    "example": "Our club offers a range of different sports.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/It75mKz0xu1UTB9ub6UdSIGI2NA.webp"
+                },
+                {
+                    "title": "Amplitude of Options",
+                    "description": "'Range' emphasizes the extent of choices or alternatives available.",
+                    "example": "You have a range of options for your assignment topics.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/043E9JPDl7hflDIzHq0JfwRBNks.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d75f9236-fec3-4f7c-b82d-50d99aac0e82",
+            "de": "The extent or area over which something can operate effectively",
+            "ty": "noun",
+            "ex": "This car has a range of 500 miles on a full tank.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "within range",
+                " out of range",
+                " range of motion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d75f9236-fec3-4f7c-b82d-50d99aac0e82.webp",
+            "Tips": [
+                {
+                    "title": "Effectiveness Area",
+                    "description": "'Range' indicates how far something can work effectively, like a signal.",
+                    "example": "Your Wi-Fi signal has a limited range inside the house.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Limitations of Movement",
+                    "description": "In physical contexts, 'range' can refer to how much you can move a body part.",
+                    "example": "After the injury, his range of motion was reduced.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9b33d085-c99a-49f0-8d12-6050f971fec4",
+            "de": "A cooking appliance with multiple burners and usually an oven",
+            "ty": "noun",
+            "ex": "She cooked dinner on the range.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "gas range",
+                " range hood",
+                " oven range"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9b33d085-c99a-49f0-8d12-6050f971fec4.webp",
+            "Tips": [
+                {
+                    "title": "Kitchen Essential",
+                    "description": "A 'range' is a common kitchen appliance for cooking, essential in many recipes.",
+                    "example": "Preheat the range to 375 degrees before baking the cookies.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Combination Appliance",
+                    "description": "A 'range' combines a stovetop and oven, usually positioned in one place.",
+                    "example": "The new kitchen features a modern gas range.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5ecafdfe-eadc-4f8a-ba1f-65b5950ec2ca",
+            "de": "To vary between a set of values or limits",
+            "ty": "verb",
+            "ex": "The scores ranged from 0 to 100.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "range from",
+                " range between",
+                " range over"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5ecafdfe-eadc-4f8a-ba1f-65b5950ec2ca.webp",
+            "Tips": [
+                {
+                    "title": "Span of Values",
+                    "description": "Use 'range' when talking about a set of possible numbers or amounts.",
+                    "example": "Temperatures range between 20 and 30 degrees Celsius in spring.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2d0ffdb6-150b-4924-bf69-e128f17dd029",
+            "de": "An open area for shooting practice or military exercises",
+            "do": "Military",
+            "ty": "noun",
+            "ex": "The soldiers trained on the firing range.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "firing range",
+                " shooting range",
+                " target range"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2d0ffdb6-150b-4924-bf69-e128f17dd029.webp",
+            "Tips": [
+                {
+                    "title": "Practice Area",
+                    "description": "In military or sport, a 'range' is a designated area for shooting practice.",
+                    "example": "Let's head to the shooting range to practice our accuracy.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "1bd14c43-33f5-484d-b51e-49831c269f41",
+            "de": "To travel or roam over a large area",
+            "ty": "verb",
+            "ex": "The wolves range across the entire forest.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "range across",
+                " range over",
+                " range around"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1bd14c43-33f5-484d-b51e-49831c269f41.webp",
+            "Tips": [
+                {
+                    "title": "Roaming Free",
+                    "description": "'Range' as a verb describes moving over a wide area without a fixed path.",
+                    "example": "The mustangs range freely over the plains.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Ambit": {
+            "wordRoot": "Ambit",
+            "wordDefinition": "Ambit refers to the range or limit of something, such as the scope or extent of a project or authority.\n\nIt usually describes a specific area or domain of influence. For example, the ambit of a law enforcement agency might be the entire country.\n\nAmbit refers to the limits or scope of something specific, while range refers to a broader series of possibilities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cd7d6102-6faa-4862-b336-0b01d4131bc7.webp"
+        },
+        "Breadth": {
+            "wordRoot": "Breadth",
+            "wordDefinition": "Breadth refers to the extent or scope of something, typically covering a wide variety of areas or topics. For example, a breadth of knowledge indicates that someone has a wide range of knowledge in different subjects.\n\nBoth words can describe the coverage or extent of something, but breadth tends to be used more for knowledge or understanding, while range is often used for physical measurements or variables.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6de8922e-ca1d-4732-9eca-b44b99c1b984.webp"
+        },
+        "Compass": {
+            "wordRoot": "Compass",
+            "wordDefinition": "Compass usually refers to a tool or instrument that helps someone determine the direction in which they are moving or facing, such as a magnetic or directional compass used for navigation.\n\nIn simpler terms, a compass helps you find which way you're going, while a range tells you how far you can go.\n\nA compass is mostly used by travelers or explorers, while a range can be used in various fields such as science, transportation, or sports.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1effbb8e-8131-40a4-99d0-703b7b8b00c2.webp"
+        },
+        "Extent": {
+            "wordRoot": "Extent",
+            "wordDefinition": "Extent refers to the size or degree of something, usually indicating how much of it there is. For example, \"The extent of the damage caused by the hurricane is still being assessed.\".\n\nIn simpler terms, extent refers to how much of something there is, while range refers to the different types of something that exist.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5124ca73-f507-4af8-871a-7f9c7781ab0e.webp"
+        },
+        "Field": {
+            "wordRoot": "Field",
+            "wordDefinition": "Field describes an area or a region where something is happening or exists. For example, a soccer field, a field of crops, a field of study.\n\nSo, while field refers to a physical or metaphorical area where something exists or happens, range refers to the spread or variety of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c7c05540-7024-4a1b-a2df-790738bf2172.webp"
+        },
+        "Gamut": {
+            "wordRoot": "Gamut",
+            "wordDefinition": "Gamut and Range are both words that describe a group of things that belong to a certain category.\n\nHowever, the difference between these words is that Gamut refers to the complete extent or entire range of something, while Range refers to the specified limits or a limited extent.\n\nFor example, if you are describing the colors of an image, the gamut would refer to the entire range of colors that can be displayed or printed.\n\nGamut means the complete extent of something, while range means a limited extent or a specified limit of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a7efa769-f8aa-4e9b-830a-535c4e7aeec1.webp"
+        },
+        "Reach": {
+            "wordRoot": "Reach",
+            "wordDefinition": "Reach refers to the distance or extent that someone or something can physically touch or affect. For example, a person's reach might be six feet, meaning they can touch or grab something up to six feet away.\n\nRange describes distance or capability, while reach describes physical proximity or impact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06f7c490-d09c-4f45-b475-7c3aaa985aef.webp"
+        },
+        "Scale": {
+            "wordRoot": "Scale",
+            "wordDefinition": "Range and scale are both words used to describe measurements or values in a particular situation.\n\nScale refers to the proportion or ratio of the measurements or values in relation to the whole.\n\nIt is often used to indicate a system or method of measurement, such as a linear scale on a map or a logarithmic scale on a graph.\n\nFor example, a logarithmic scale may be used to show a wide range of values on a graph, where the distance between each point on the scale increases exponentially as the scale increases.\n\nRange is applicable when discussing the limits or extremes of a set of data, while scale describes the size, proportion or order of these values.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/32905dc6-95f5-4bbb-8bf3-6cd3206cab3d.webp"
+        },
+        "Scope": {
+            "wordRoot": "Scope",
+            "wordDefinition": "Scope can refer to the extent or opportunity for something, or the influence or reach of something.\n\nFor example, the scope of a project or the scope of a company's operations.\n\nRange describes the variety or extent of things within a specific category, while scope describes the opportunity or influence of something.\n\nYou might say that the scope of a project includes the goals, timeline, and resources needed to complete it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1b2071f8-9192-4be0-a6c2-0447ed4521fd.webp"
+        },
+        "Span": {
+            "wordRoot": "Span",
+            "wordDefinition": "Span refers to the distance or length between two points or endpoints.\n\nIt can also refer to the amount of time between two events. For example, the span of a bridge might be 50 meters. Span is applicable when talking about distances, lengths, or durations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a3ea2c9-da72-4a51-90d0-d0d162b77dee.webp"
+        },
+        "Sweep": {
+            "wordRoot": "Sweep",
+            "wordDefinition": "Sweep refers to the action of moving through an area or range. For example, a radar sweep refers to the process of scanning an area for signals or activity.\n\nRange means the measurement of how far something can go, while sweep means the action of moving or scanning through a specific range.\n\nRange is applicable when measuring distance or capacity, while sweep is applicable when scanning areas for signals or activity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b2c5682-1424-430c-b1ce-e08efcdd10c8.webp"
+        },
+        "Variety": {
+            "wordRoot": "Variety",
+            "wordDefinition": "Variety refers to the number of different types of something. For instance, a farmer may grow a variety of crops, such as corn, wheat, and soybeans.\n\nIn this context, variety describes the diversity or assortment of a collection of items.\n\nRange refers to the values or extent of a specific attribute, while variety pertains to the number of different types of something.\n\nRange applies to quantitative measurements, while variety is more qualitative in nature.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a4b62145-5543-4407-a838-23ee8705ebdf.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " These techniques are known as cherry picking. A time range can be carefully chosen to exclude the impact of a major event right outside it. And picking specific data points can hide important changes in between. Even when there's nothing wrong with the graph itself, leaving out relevant data can give a misleading impression.",
+            "Title": "How to spot a misleading...",
+            "VideoId": "E91bGT9BjYk",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " can stimulate brain cells to release mood-altering norepinephrine, dopamine, and serotonin. But getting to your brain cells is tricky, and amino acids have to compete for limited access. A diet with a range of foods helps maintain a balanced combination of brain messengers,",
+            "Title": "How the food you eat...",
+            "VideoId": "xyQY8a-ng6g",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " missing and I would say where you getting your information from because if it's the mainstream I'd like to tell you that in the range that the mainstream was suffering from a serious strain of you know I would say an easier as far as the truth is concerned it would it will",
+            "Title": "A message of peace, hope...",
+            "VideoId": "Ec2lto9dPo4",
+            "Controls": "start=541"
+        },
+        {
+            "Text": " all seem to be beneficial. A good diet and exercise plan can also keep your weight in a healthy range, which will lower your heart attack risk as well. And of course, medications can also help prevent heart attacks. Doctors often prescribe low-dose aspirin, for example,",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=227"
+        },
+        {
+            "Text": " Worldwide, about one to three percent of adults experience the broad range of symptoms that indicate bipolar disorder. Most of those people are functional, contributing members of society, and their lives, choices, and relationships aren't defined by the disorder,",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=93"
+        },
+        {
+            "Text": " In spite of these limitations, it actually would be possible to power the entire world with today's solar technology. We'd need the funding to build the infrastructure and a good deal of space. Estimates range from tens to hundreds of thousands of square miles,",
+            "Title": "How do solar panels...",
+            "VideoId": "xKxrkht7CpY",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " the virus replicates within helper T cells, destroying many of them in the process. During this stage, patients often experience flu-like symptoms, but are typically not yet in mortal danger. However, for a period ranging from a few months to several years,",
+            "Title": "Why it’s so hard to cure...",
+            "VideoId": "0TipTogQT3E",
+            "Controls": "start=73"
+        },
+        {
+            "Text": " to track us down at night. And there's a whole range of compounds that they do use. And this was not going to be an easy task. And therefore we set up various experiments. Why did we set up these experiments? Because half the world's population",
+            "Title": "Bart Knols: Cheese, dogs...",
+            "VideoId": "Fivy99RtMfM",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " Jupiter's gassiest composition can be observed in its atmosphere. About 44 miles thick, the atmosphere is a canvas of stripes and storms, churning across the giant planet. Their colors range between shades of whites,",
+            "Title": "Jupiter 101 PIPE National...",
+            "VideoId": "PtkqwslbLY8",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " further trials fish must face the californian coast a wide range of species live here but all this life means competition for",
+            "Title": "Greatest Fights In The...",
+            "VideoId": "sf7LVPIZMR8",
+            "Controls": "start=798"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/garret-dillahunt.webp",
+            "Text": "It's kind of my whole philosophy as an actor. I think that's what we're supposed to do is play a wide range of characters - or it's just what I like to do, I should say. I like to try to be as different as I can from one thing to the next.",
+            "Title": "American Actor",
+            "Name": "Garret Dillahunt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-reynor.webp",
+            "Text": "With 'Richard,' I was excited to make this film with such an amazing role for an actor. Play a wide range of emotion and really invest myself in the character.",
+            "Title": "Irish Actor",
+            "Name": "Jack Reynor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-statham.webp",
+            "Text": "Once you expose your private life, if you give one little bit, the floodgates are open and everyone's got a free range for you.",
+            "Title": "British Actor",
+            "Name": "Jason Statham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/garrett-dillahunt.webp",
+            "Text": "I think that's what we're supposed to do is play a wide range of characters - or it's just what I like to do, I should say.",
+            "Title": "",
+            "Name": "Garrett Dillahunt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/javed-jaffrey.webp",
+            "Text": "It is very important for me to do different things so that people see that my range is more than just comedy.",
+            "Title": "Indian Actor",
+            "Name": "Javed Jaffrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-eaton.webp",
+            "Text": "We need to have as broad a range as possible, because life itself has that kind of range.",
+            "Title": "American Composer",
+            "Name": "John Eaton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jodi-lyn-okeefe.webp",
+            "Text": "I'm trying to broaden my range and get different characters in each film.",
+            "Title": "American Model",
+            "Name": "Jodi Lyn O'Keefe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-capaldi.webp",
+            "Text": "We all had a desire and appreciation for such a wide range of music.",
+            "Title": "British Musician",
+            "Name": "Jim Capaldi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gabriel-e-gomez.webp",
+            "Text": "I have a very broad range of life experiences.",
+            "Title": "American Politician",
+            "Name": "Gabriel E. Gomez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/juergen-teller.webp",
+            "Text": "I think the range of my life shows in my work.",
+            "Title": "German Photographer",
+            "Name": "Juergen Teller"
+        }
+    ]
+}

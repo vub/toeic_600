@@ -1,0 +1,414 @@
+{
+    "currentWord": {
+        "wordRoot": "level",
+        "id": 3296,
+        "phonemic": "ˈlevl|ˈlevl\r",
+        "bigId": "6cd33925-0b1e-48b4-89b5-71a84e599bc7",
+        "wordForms": [
+            "levels",
+            "levelling",
+            "levelled",
+            "leveled",
+            "leveling",
+            "leveler",
+            "level"
+        ]
+    },
+    "senses": [
+        {
+            "id": "6cd33925-0b1e-48b4-89b5-71a84e599bc7",
+            "de": "A specific height or point",
+            "ty": "noun",
+            "ex": "Sea level is the average height of the ocean's surface.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6cd33925-0b1e-48b4-89b5-71a84e599bc7.webp",
+            "Tips": [
+                {
+                    "title": "Geographical Reference",
+                    "description": "Used to describe natural or established heights against which other elevations are measured.",
+                    "example": "Mount Everest is 8,848 meters above sea level.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/iRjDGnfJEUXlQzaud6z14lgArI.webp"
+                },
+                {
+                    "title": "Comparative Measure",
+                    "description": "Can compare stages of progress, development, or quality.",
+                    "example": "Her cooking skill is at a professional level.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xHBDmYOF8sAoB1bcufupVVzwoV0.webp"
+                }
+            ]
+        },
+        {
+            "id": "d1408a4e-7a14-41c5-8481-9affe9dc9546",
+            "de": "The amount something is at, especially in amount or size",
+            "ty": "noun",
+            "ex": "He has a high level of intelligence.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d1408a4e-7a14-41c5-8481-9affe9dc9546.webp",
+            "Tips": [
+                {
+                    "title": "Indicates Extent",
+                    "description": "Expresses intensity, extent, or concentration of a trait or phenomenon.",
+                    "example": "The river's water level rose due to the rain.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subjective Assessment",
+                    "description": "Can describe perceived qualities, not just measurable amounts.",
+                    "example": "She showed a high level of enthusiasm.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "151f901e-9b0e-464f-ae8d-136b49d7c552",
+            "de": "At the same height as someone or something else",
+            "ty": "adjective",
+            "ex": "Their eyes were level with each other.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/151f901e-9b0e-464f-ae8d-136b49d7c552.webp",
+            "Tips": [
+                {
+                    "title": "Physical Alignment",
+                    "description": "Refers to the positioning of objects or people on the same horizontal plane.",
+                    "example": "The table needs to be level with the window sill.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "84bae057-79a4-40e0-85e9-5beae663e77a",
+            "de": "To make a surface smooth and flat",
+            "ty": "verb",
+            "ex": "He levelled the ground before building the house.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/84bae057-79a4-40e0-85e9-5beae663e77a.webp",
+            "Tips": [
+                {
+                    "title": "Construction Work",
+                    "description": "Often used in building, landscaping, and DIY terminology.",
+                    "example": "We need to level the floor before laying tiles.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2d1f7392-a1d6-46d5-bb69-17bcb2db7e9d",
+            "de": "To aim or direct something at someone or something",
+            "ty": "verb",
+            "ex": "The soldier levelled his gun at the target.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2d1f7392-a1d6-46d5-bb69-17bcb2db7e9d.webp",
+            "Tips": [
+                {
+                    "title": "Preparation of Threat",
+                    "description": "Can imply the act of threatening by aiming a weapon.",
+                    "example": "He levelled a warning glance before speaking.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f85715f5-0a71-47a5-a256-21cf4bcb76aa",
+            "de": "A device used for determining or adjusting something to a vertical or horizontal position",
+            "do": "Technical",
+            "ty": "noun",
+            "ex": "The builder used a level to make sure the wall was straight.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f85715f5-0a71-47a5-a256-21cf4bcb76aa.webp",
+            "Tips": [
+                {
+                    "title": "Precision Instrument",
+                    "description": "Refers to a tool that ensures accuracy in establishing a plane.",
+                    "example": "Use the spirit level for hanging pictures straight.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Assessment Context",
+                    "description": "Technical domain often deals with accuracy and precision.",
+                    "example": "Check the fluid level with the dipstick.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f908bd9b-df5d-48a2-9e03-67412037cfb7",
+            "de": "The standard of power or ability in a game or system",
+            "do": "Gaming",
+            "ty": "noun",
+            "ex": "He has a low level character in the game.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f908bd9b-df5d-48a2-9e03-67412037cfb7.webp",
+            "Tips": [
+                {
+                    "title": "Gaming Progression",
+                    "description": "In gaming, level can refer to the player's experience or game stages.",
+                    "example": "I reached level 30 in my favorite game.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "88a424e4-dfea-42de-8629-c8f53cfff380",
+            "de": "To drop to zero or eliminate completely",
+            "ty": "verb",
+            "ex": "The politician promised to level taxes.",
+            "use": "",
+            "co": "Idiomatic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/88a424e4-dfea-42de-8629-c8f53cfff380.webp",
+            "Tips": [
+                {
+                    "title": "Idiomatic Use",
+                    "description": "Can mean to remove disparities or make things equal.",
+                    "example": "The new policy aims to level the playing field for small businesses.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "32e7e3c7-9a6c-4cc6-b87c-58b34571898f",
+            "de": "To knock or bring down",
+            "ty": "verb",
+            "ex": "The hurricane levelled several buildings.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/32e7e3c7-9a6c-4cc6-b87c-58b34571898f.webp",
+            "Tips": [
+                {
+                    "title": "Destructive Connotation",
+                    "description": "Has an aggressive or devastating implication in certain contexts.",
+                    "example": "The scandal levelled his reputation.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Equal": {
+            "wordRoot": "Equal",
+            "wordDefinition": "While both equal and level refer to something being balanced or the same in some way, they are used in different situations.\n\nEqual is used when referring to things that are the same in value or quantity. For example, \"The two students received equal scores on their exams.\".\n\nEqual is used when things are the same in value or quantity, while level is used when things are the same in height or position.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/690cd2ad-2e94-4761-a9ad-cfd1a03f7938.webp"
+        },
+        "Even": {
+            "wordRoot": "Even",
+            "wordDefinition": "Even refers to something that is flat or has a smooth surface, while the word level means that something is at the same height or position.\n\nFor example, a table can be even if all four legs are the same length and keep it level on the ground. A shelf can be level if it is parallel to the ground and not tilted in any direction.\n\nEven refers more to a surface, while level pertains more to the position of an object in relation to something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f2e87a08-97b3-4323-baff-ffd883f36c88.webp"
+        },
+        "Flat": {
+            "wordRoot": "Flat",
+            "wordDefinition": "Flat means something that has a smooth and even surface, which is usually horizontal or parallel to the ground. For example, a flat table or a flat piece of paper.\n\nTherefore, while flat describes the physical appearance of something, level describes its position or orientation relative to a standard.\n\nBoth words can be applicable in different situations, such as describing the surface of a road (flat) or making sure a shelf is mounted straight (level).",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/85cf0b22-7175-4e57-92ec-4b861a38abba.webp"
+        },
+        "Horizontal": {
+            "wordRoot": "Horizontal",
+            "wordDefinition": "Horizontal refers to something that is parallel to the ground or floor. This means that it is flat and parallel to the surface beneath it.\n\nHowever, horizontal specifically refers to something being flat and parallel to the ground, while level refers to something being balanced and at the same height as another object.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8bbc9996-1aab-4903-9f65-a03a69222b8f.webp"
+        },
+        "Parallel": {
+            "wordRoot": "Parallel",
+            "wordDefinition": "Parallel refers to two or more things that are running alongside each other, but never meet. For example, train tracks are parallel to each other.\n\nLevel refers to height or slope, while parallel describes the position and direction of two or more things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a77c712c-9c63-4541-9642-a9c56ab85c9f.webp"
+        },
+        "Plane": {
+            "wordRoot": "Plane",
+            "wordDefinition": "Plane refers to a flat surface that extends infinitely in all directions, like a sheet of paper.\n\nThe main difference between level and plane is that level refers to a specific surface that is flat and even, while plane refers to any flat surface, whether it is part of a larger object or extends infinitely in all directions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6baed399-8f03-4bc6-9083-4fd60b95dd2d.webp"
+        },
+        "Smooth": {
+            "wordRoot": "Smooth",
+            "wordDefinition": "Smooth refers to a surface that lacks roughness or is free from uneven texture or roughness. It is applicable to surfaces that are soft to the touch, such as skin or fabrics.\n\nLevel is concerned with flatness and stability, while smooth is concerned with texture and feel.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e9795986-4d2c-40e5-9261-e7086ee7d9ce.webp"
+        },
+        "Uniform": {
+            "wordRoot": "Uniform",
+            "wordDefinition": "Uniform refers to clothing that is the same design or style worn by members of a group or organization. It also describes a consistent or unchanging pattern or behavior.\n\nFor example, a uniformed officer of law enforcement may wear the same clothing as others in their department, and a school may have a uniform policy for its students.\n\nLevel refers to the position of an object, while uniform refers to the consistent style of a garment or a behavioral pattern.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e09b35f-c71a-4884-b5fe-3efa210a3fd0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " who showed the same levels of cognitive function and neural processing at the start, found that those who were exposed to a period of music learning showed enhancement in multiple brain areas, compared to the others. This recent research about the mental benefits of playing music has advanced our understanding of mental function,",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=242"
+        },
+        {
+            "Text": " And sugar is rare among dopamine-inducing foods. Broccoli, for example, has no effect, which probably explains why it's so hard to get kids to eat their veggies. Speaking of healthy foods, let's say you're hungry and decide to eat a balanced meal. You do, and dopamine levels spike in the reward system hot spots.",
+            "Title": "How sugar affects the...",
+            "VideoId": "lEXBxijQREo",
+            "Controls": "start=181"
+        },
+        {
+            "Text": " up program which is actually teaching children about the amygdala about the hippocampus about the different regions of the brain and helping children have some emotional accountability and with emotional accountability comes a level of higher cognitive accountability so",
+            "Title": "The right brain vs. left...",
+            "VideoId": "PEzzZ__ccgQ",
+            "Controls": "start=312"
+        },
+        {
+            "Text": " and emotional and motivational responses. The other piece of the puzzle is that OCD is associated with low levels of serotonin, a neurotransmitter that communicates between brain structures and helps regulate vital processes, such as mood, aggression, impulse control,",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " climate models predict subtle changes others forecast rising sea levels which could flood coastal areas around the world weather patterns could change making hurricanes more frequent severe droughts could become more common in warm areas and species unable to adapt",
+            "Title": "Global Warming 101 PIPE...",
+            "VideoId": "oJAbATJCugs",
+            "Controls": "start=131"
+        },
+        {
+            "Text": " High levels of cortisol can also cause you to put on those extra calories as visceral or deep belly fat. This type of fat doesn't just make it harder to button your pants. It is an organ that actively releases hormones and immune system chemicals called cytokines",
+            "Title": "How stress affects your...",
+            "VideoId": "v-t1Z5-oPtU",
+            "Controls": "start=151"
+        },
+        {
+            "Text": " A typical cult requires a high level of commitment from its members and maintains a strict hierarchy, separating unsuspecting supporters and recruits from the inner workings. It claims to provide answers to life's biggest questions through its doctrine,",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=116"
+        },
+        {
+            "Text": " He's treated with a special clay that'll help heal the wound. What do you think, Fred? Do you think it'll survive? Ah, because the guy's body condition is good he was walking and also getting to another bad level, but he's still okay to survive.",
+            "Title": "Saving an Elephant from...",
+            "VideoId": "0fWtpVDSh9w",
+            "Controls": "start=165"
+        },
+        {
+            "Text": " because structural change takes time, and I don't have that level of patience. So if we're going to create a change, if we're going to create a world where we all have those kinds of opportunities, then choose to open doors for people.",
+            "Title": "What does my headscarf...",
+            "VideoId": "18zvlz5CxPE",
+            "Controls": "start=748"
+        },
+        {
+            "Text": " New Life This quest has changed the hero; he has outgrown his old life. Resolution All the tangled plot lines get straightened out. Status Quo, but upgraded to a new level.",
+            "Title": "What makes a hero? -...",
+            "VideoId": "Hhk4N9A0oCA",
+            "Controls": "start=143"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "I got my first computer in the 6th grade or so. As soon as I got it, I was interested in finding out how it worked and how the programs worked and then figuring out how to write programs at just deeper and deeper levels within the system.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lebron-james.webp",
+            "Text": "Once you get on the playing field it's not about whether you're liked or not liked. All that matters is to play at a high level and do whatever it takes to help your team win. That's what it's about.",
+            "Title": "American Basketball Player",
+            "Name": "LeBron James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicolas-cage.webp",
+            "Text": "I like movies where you feel like you're going into another world, and no matter how many times you watch it, you're gonna see something new in that world. That level of detail really inspires me.",
+            "Title": "Actor",
+            "Name": "Nicolas Cage"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aesop.webp",
+            "Text": "The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted.",
+            "Title": "Greek Author",
+            "Name": "Aesop"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ralph-marston.webp",
+            "Text": "Don't lower your expectations to meet your performance. Raise your level of performance to meet your expectations.",
+            "Title": "American Writer",
+            "Name": "Ralph Marston"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/luka-modric.webp",
+            "Text": "Of course it is very important for me to play for Croatia, however different it is to play at club level.",
+            "Title": "Croatian Athlete",
+            "Name": "Luka Modric"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/keylor-navas.webp",
+            "Text": "Neymar is a player at a whole different level, in a different world.",
+            "Title": "Costa Rican Athlete",
+            "Name": "Keylor Navas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/penn-jillette.webp",
+            "Text": "I came to magic absolutely hating magic on a very, very deep level.",
+            "Title": "American Entertainer",
+            "Name": "Penn Jillette"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johann-wolfgang-von-goethe.webp",
+            "Text": "A person places themselves on a level with the ones they praise.",
+            "Title": "German Writer",
+            "Name": "Johann Wolfgang von Goethe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kenny-chesney.webp",
+            "Text": "I want there to be a level of respect between everybody.",
+            "Title": "American Musician",
+            "Name": "Kenny Chesney"
+        }
+    ]
+}

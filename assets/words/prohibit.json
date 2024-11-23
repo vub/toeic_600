@@ -1,0 +1,299 @@
+{
+    "currentWord": {
+        "wordRoot": "prohibit",
+        "id": 6997,
+        "phonemic": "prəˈhɪbɪt|prəʊˈhɪbɪt\r",
+        "bigId": "536e1c55-4eb4-449e-8f30-666b0da987ed",
+        "wordForms": [
+            "prohibits",
+            "prohibiting",
+            "prohibited",
+            "prohibit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "536e1c55-4eb4-449e-8f30-666b0da987ed",
+            "de": "To officially say no to an action or behavior, making it not allowed to happen.",
+            "ty": "verb",
+            "ex": "The school prohibits smoking on its campus.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "prohibits the use of",
+                " prohibits from doing",
+                " strictly prohibited"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/536e1c55-4eb4-449e-8f30-666b0da987ed.webp",
+            "Tips": [
+                {
+                    "title": "Spatial Context",
+                    "description": "Used to describe physical spaces where specific actions are not allowed.",
+                    "example": "The museum prohibits flash photography.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/YNCEybNapL7vbvw7TVY0XXHlYTw.webp"
+                },
+                {
+                    "title": "Authority and Rules",
+                    "description": "'Prohibit' often implies that a rule or regulation is backed by an authority.",
+                    "example": "The new policy prohibits employees from using social media at work.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NrgR1ce3dqQLJNoZqH31w235M.webp"
+                },
+                {
+                    "title": "Common Collocations",
+                    "description": "Pairs often with 'smoking,' 'weapons,' or 'cellphones' in institutional settings.",
+                    "example": "This restaurant prohibits bringing in outside food or drinks.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/TkOq0bB6HuISa13LiRSGX8xW4I.webp"
+                }
+            ]
+        },
+        {
+            "id": "a925e7d3-d452-4dd2-ae99-cbed92c0bf6c",
+            "de": "To make it impossible for something to happen or exist.",
+            "ty": "verb",
+            "ex": "His health problems prohibit him from taking part in strenuous activities.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "prohibits from participating",
+                " prohibits any potential",
+                " prohibit the occurrence of"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a925e7d3-d452-4dd2-ae99-cbed92c0bf6c.webp",
+            "Tips": [
+                {
+                    "title": "Physical Limitation",
+                    "description": "Indicates when physical or health conditions prevent certain activities.",
+                    "example": "Her injury prohibits her from playing tennis.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impossibility",
+                    "description": "Emphasizes that an external factor makes an action impossible, not just undesirable.",
+                    "example": "Severe weather conditions prohibit the launch of the spacecraft.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Inclusive Language",
+                    "description": "'Prohibit' can imply a restriction that affects everyone in a given situation.",
+                    "example": "The law prohibits anyone under the age of 18 from purchasing tobacco.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0077d45d-52d0-441b-a9b9-d0fdd56b7b03",
+            "de": "To order someone not to use or do something.",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The court prohibited him from contacting her.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "prohibit under law",
+                " prohibit any contact",
+                " legally prohibited"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0077d45d-52d0-441b-a9b9-d0fdd56b7b03.webp",
+            "Tips": [
+                {
+                    "title": "Legal Authority",
+                    "description": "Legal use implies an order by a court or governing body that must be obeyed.",
+                    "example": "The judge's ruling prohibits the company from dumping waste into the river.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Legal Consequences",
+                    "description": "Ignoring a legal prohibition can lead to penalties or legal action.",
+                    "example": "He was fined for violating a city ordinance that prohibits public intoxication.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Legal Specificity",
+                    "description": "In legal context, 'prohibit' is often used with specific terms and conditions.",
+                    "example": "The contract prohibits any subcontracting without prior approval.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Ban": {
+            "wordRoot": "Ban",
+            "wordDefinition": "Both words, ban and prohibit indicate a restriction on certain actions or items.\n\nHowever, ban is generally used to refer to an official action taken by a government or authority to restrict, remove, or forbid the use, distribution, or carrying of something.\n\nFor instance, smoking is banned in public places such as parks, beaches, and restaurants. Prohibit, on the other hand, refers to a legal or moral instruction against doing something, without specifying any penalties or official sanctions.\n\nBan suggests an authoritative, legal, or official restriction or ban, while prohibit refers to a moral or personal disapproval.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0eeab577-7eab-4aa3-b1da-b2af33f1f1a1.webp"
+        },
+        "Bar": {
+            "wordRoot": "Bar",
+            "wordDefinition": "Bar means to prevent someone from entering a place or participating in an activity. For example, a bouncer can bar someone from entering a nightclub if they are underage.\n\nBar is applicable in situations where access or participation is being restricted, while prohibit is applicable in situations where an action or behavior is being forbidden.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f88b4058-f619-4933-a255-07ed14ede1bc.webp"
+        },
+        "Disallow": {
+            "wordRoot": "Disallow",
+            "wordDefinition": "Disallow and prohibit have similar meanings, but prohibit is the stronger of the two. Disallow suggests that something is not allowed because of a rule or decision, while prohibit suggests a strong and explicit ban.\n\nFor example, a school may disallow cellphones in the classroom, meaning they are not permitted but may be allowed in certain circumstances.\n\nDisallow is used for less serious or formal situations, while prohibit is used for more serious or formal situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/54f4332a-85ab-4cf6-9e08-a827a2ef0c1c.webp"
+        },
+        "Embargo": {
+            "wordRoot": "Embargo",
+            "wordDefinition": "Embargo means a legal or official ban on trade or other commercial activity with a particular country or organization.\n\nEmbargo is generally applied to trade, while prohibit is applied to social or moral issues.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/98b55511-6596-4a35-9d57-2867fc8b1831.webp"
+        },
+        "Forbid": {
+            "wordRoot": "Forbid",
+            "wordDefinition": "Both ‘forbid’ and ‘prohibit’ mean to disallow or forbid something from happening.\n\nHowever, ‘prohibit’ is more formal than ‘forbid’ and is often used in legal or official contexts. ‘Forbid’ is generally used in everyday language.\n\nFor example, a parent might forbid their child from watching a certain TV show, while a law might prohibit smoking in public places.\n\nSo, in general, you can use ‘forbid’ for everyday situations and ‘prohibit’ for more formal or legal situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46e16c6d-e007-404d-a46f-9b84fa4b4803.webp"
+        },
+        "Interdict": {
+            "wordRoot": "Interdict",
+            "wordDefinition": "Interdict means to forbid or prohibit something by law or court order.\n\nInterdict is a more formal and specific term used in legal contexts, while prohibit is a broader term that can be used in various contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/589b8091-6962-43f1-9b06-adf2df4ce22c.webp"
+        },
+        "Outlaw": {
+            "wordRoot": "Outlaw",
+            "wordDefinition": "Outlaw means to make something illegal and impose a punishment for it. For example, if a certain activity is outlawed, anyone caught doing it can be punished by law enforcement or the legal system.\n\nBoth words are used to indicate that something is not allowed, but outlaw usually involves a more severe consequence, like imprisonment or a fine, while prohibit may not have such consequences.\n\nOutlaw applies only in legal contexts while prohibit can apply everywhere, for example- a parent might prohibit their child from staying up late, but it is not outlawed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0cc2451c-b5f2-4064-8596-e30ee2eb7889.webp"
+        },
+        "Prevent": {
+            "wordRoot": "Prevent",
+            "wordDefinition": "Prevent means to stop something from happening or to make sure something doesn't occur. For example, wearing a seatbelt can prevent injuries in a car accident or taking medicine can prevent getting sick.\n\nIn simpler terms, prevent means to stop something from happening while prohibit means to make it illegal or against the rules.\n\nPrevent is used in situations where you want to avoid something from occurring while prohibit is used to enforce a rule or law.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc4be65b-ea65-476b-8e41-d5a6af2fdd3a.webp"
+        },
+        "Restrict": {
+            "wordRoot": "Restrict",
+            "wordDefinition": "Prohibit means to completely forbid or ban something, whereas restrict means to limit or control something.\n\nRestrict is applicable when there is a need to control or limit something without completely banning it. For example, speed limits are put in place on roads to restrict the speed of vehicles for safety purposes.\n\nIn simplest terms, prohibit means to completely stop something, while restrict means to limit or control it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b77baf01-14f3-4ce3-86f0-9336d367c8d7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " narrative of racial difference that we created to legitimated it's the ideology of white supremacy that we made up to make ourselves feel comfortable with enslaving people who are black and we never address that that legacy we have in the 13th amendment language that prohibits involuntary servitude in",
+            "Title": "The urgent need for...",
+            "VideoId": "VNzEb77diyI",
+            "Controls": "start=92"
+        },
+        {
+            "Text": " and your character is called into question. So nonprofits are really reluctant to attempt any brave, daring, giant-scale new fundraising endeavors, for fear that if the thing fails, their reputations will be dragged through the mud. Well, you and I know when you prohibit failure, you kill innovation.",
+            "Title": "The way we think about...",
+            "VideoId": "bfAzi6D5FpM",
+            "Controls": "start=489"
+        },
+        {
+            "Text": " from punishments for adultery to the legal status of children born to slaves. Many ancient civilizations allowed some form of multiple simultaneous marriage. And even today, less than a quarter of the world's hundreds of different cultures prohibit it. But just because something was allowed",
+            "Title": "The history of marriage...",
+            "VideoId": "ZZZ6QB5TSfk",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " It's popular because it forces us to think about how to choose when there are no good choices. Do we pick the action with the best outcome or stick to a moral code that prohibits causing someone's death? In one survey, about 90% of respondents said that it's okay to flip the switch,",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " and ocean pollution are also concerns. However, policies have been enacted to reduce bycatch, protect turtle habitats, and prohibit the killing of sea turtles and their eggs. By continuing this kind of intervention, humans can help stop the decline of sea turtles,",
+            "Title": "Sea Turtles 101 PIPE...",
+            "VideoId": "5Rmv3nliwCs",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " To truly understand the extent to which your self-consciousness prohibits you from engaging in opportunities should lead everyone to take risks they otherwise wouldn't. We're merely a blip on the time line of the universe, right? Act accordingly.",
+            "Title": "The perks of being a...",
+            "VideoId": "KzIp4IzDPG0",
+            "Controls": "start=447"
+        },
+        {
+            "Text": " The combined running, jumping, wrestling, javelin throwing, and hurling the discus events known as the pentathlon inspired world-class competition, and the pankration, a no holds barred fight where only biting and eye-gouging were prohibited,",
+            "Title": "The ancient origins of...",
+            "VideoId": "VdHHus8IgYA",
+            "Controls": "start=85"
+        },
+        {
+            "Text": " such as a djembe or a djun djun. But what they did have were plenty of shipping crates. Not only were these readily accessible, but their inconspicuous appearance may have helped get around laws prohibiting slaves from playing music.",
+            "Title": "Rhythm in a box: The...",
+            "VideoId": "iJRfx0o5648",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " across the world whale sharks are facing threats from overfishing pollution and habitat loss but here they live in a marine protected area and fishing forum is strictly prohibited",
+            "Title": "Swim With The Biggest...",
+            "VideoId": "FOKHJcRvElI",
+            "Controls": "start=144"
+        },
+        {
+            "Text": " genetically and prohibit future dispersals for them and other important species",
+            "Title": "Wildlife and the Wall PIPE...",
+            "VideoId": "smeoiCqS_YU",
+            "Controls": "start=211"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dick-durbin.webp",
+            "Text": "Personally, I would counsel any woman who asked, in my family, to do her best to carry the child full term, and I'd try to help. But I do believe the government should not prohibit a woman from making that decision.",
+            "Title": "American Politician",
+            "Name": "Dick Durbin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bret-bielema.webp",
+            "Text": "I thought as a young coach, there were times when my head coach might have prohibited me from moving forward. I always said if I am ever in that position, I'll do anything I can to make our guys move forward.",
+            "Title": "American Coach",
+            "Name": "Bret Bielema"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/murray-rothbard.webp",
+            "Text": "It is important to realize that gold and silver are international commodities and that, therefore, when not prohibited by government decree, foreign coins are perfectly capable of serving as standard moneys.",
+            "Title": "American Economist",
+            "Name": "Murray Rothbard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dean-kamen.webp",
+            "Text": "In some cases, inventions prohibit innovation because we're so caught up in playing with the technology, we forget about the fact that it was supposed to be important.",
+            "Title": "American Inventor",
+            "Name": "Dean Kamen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pete-hoekstra.webp",
+            "Text": "The U.S. should prohibit perpetrators and supporters of Islamist brutality from entering the country while embracing advocates for religious freedom. End of story.",
+            "Title": "American Politician",
+            "Name": "Pete Hoekstra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thabo-mbeki.webp",
+            "Text": "It's very worrying at this time in the world that any point of view should be prohibited, that's banned, there are heretics that should be burned at the stake.",
+            "Title": "South African Statesman",
+            "Name": "Thabo Mbeki"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kate-christensen.webp",
+            "Text": "Ham is undoubtedly one of the most universally beloved of meats, at least in those parts of the world where it's not prohibited.",
+            "Title": "American Novelist",
+            "Name": "Kate Christensen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-glover.webp",
+            "Text": "Welding torches, cutting torches and any activity producing a flame outside is prohibited. Any open flame is discouraged.",
+            "Title": "American Actor",
+            "Name": "John Glover"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jacky-rosen.webp",
+            "Text": "I'm supporting plans in Congress to fully ban bump stock devices and prohibit the sale of high-capacity magazines.",
+            "Title": "American Politician",
+            "Name": "Jacky Rosen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmi-simpson.webp",
+            "Text": "I've skateboarded my whole life, and I'm going to keep enjoying it until my age prohibits me.",
+            "Title": "American Actor",
+            "Name": "Jimmi Simpson"
+        }
+    ]
+}

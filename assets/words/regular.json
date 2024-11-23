@@ -1,0 +1,331 @@
+{
+    "currentWord": {
+        "wordRoot": "regular",
+        "id": 15919,
+        "phonemic": "ˈreɡjələ(r)|ˈreɡjələr\r",
+        "bigId": "ec5b5991-1fd9-4b30-b9f8-04e4455e947d",
+        "wordForms": [
+            "regulars",
+            "regularities",
+            "regularity",
+            "irregulars",
+            "irregularity",
+            "irregular",
+            "regularly",
+            "irregularities",
+            "regular"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ec5b5991-1fd9-4b30-b9f8-04e4455e947d",
+            "de": "Things that happen often and at the same time",
+            "ty": "adjective",
+            "ex": "She goes to the gym on a regular basis.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "regular basis",
+                " regular intervals",
+                " regular time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ec5b5991-1fd9-4b30-b9f8-04e4455e947d.webp",
+            "Tips": [
+                {
+                    "title": "Routine Events",
+                    "description": "Used to describe actions that occur at specific, unchanging intervals, like habits.",
+                    "example": "The meetings are held at regular intervals.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/2A5ts8Ktsg9AZL7lCODSaTrU4Q.webp"
+                },
+                {
+                    "title": "Fixed Schedule",
+                    "description": "Indicates something is part of a set schedule and not random.",
+                    "example": "She takes her medication at regular times every day.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NBZxYmyZaNNaf2giMCNxtu0vsc.webp"
+                }
+            ]
+        },
+        {
+            "id": "c852f860-c0d7-4552-9def-d3badca3f914",
+            "de": "Normal or usual type",
+            "ty": "adjective",
+            "ex": "He is just a regular guy.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "regular guy",
+                " regular day",
+                " regular food"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c852f860-c0d7-4552-9def-d3badca3f914.webp",
+            "Tips": [
+                {
+                    "title": "Colloquial Usage",
+                    "description": "Often used in everyday conversation to describe someone or something familiar.",
+                    "example": "We had a regular meal, nothing fancy.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ordinary People",
+                    "description": "Refers to people without special rank, position, or distinction in society.",
+                    "example": "Despite his fame, he likes to be seen as a regular person.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b02e4600-6d27-463e-a002-9b2ea9f1bc3d",
+            "de": "Having an even and symmetrical shape or structure",
+            "ty": "adjective",
+            "ex": "The house has a regular geometric shape.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "regular shape",
+                " regular pattern",
+                " regular structure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b02e4600-6d27-463e-a002-9b2ea9f1bc3d.webp",
+            "Tips": [
+                {
+                    "title": "Geometric Consistency",
+                    "description": "Emphasizes uniformity in shapes and structures, often in math or art.",
+                    "example": "She prefers clothes with regular patterns.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Symmetry Emphasis",
+                    "description": "Highlights the balance and proportion in design or arrangement.",
+                    "example": "The garden was laid out in a regular design for simplicity.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "921ba192-8cac-4d4e-97d5-9f7ec9c1c92d",
+            "de": "A person who often goes to the same place",
+            "ty": "noun",
+            "ex": "He's a regular at the local pub.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "a regular customer",
+                " a regular visitor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/921ba192-8cac-4d4e-97d5-9f7ec9c1c92d.webp",
+            "Tips": [
+                {
+                    "title": "Patronage Frequency",
+                    "description": "Suggests a high frequency of visits to a place, showing loyalty or habit.",
+                    "example": "She's become a regular at our coffee shop.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "25eadf85-52c5-42b9-879b-c88f71abbf81",
+            "de": "A predictable and established pattern",
+            "ty": "adjective",
+            "ex": "There is a regular beat in the song.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "regular beat",
+                " regular rhythm",
+                " regular cycle"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/25eadf85-52c5-42b9-879b-c88f71abbf81.webp",
+            "Tips": [
+                {
+                    "title": "Patterned Rhythm",
+                    "description": "Refers to a consistent and identifiable pattern in music, poetry, or dance.",
+                    "example": "Drummers must maintain a regular rhythm for the band.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Common": {
+            "wordRoot": "Common",
+            "wordDefinition": "Common means something that is widely found, seen or experienced by many people. For example, it is common to see people using smartphones these days.\n\nCommon refers to something that is normal or widespread, while regular refers to something that happens frequently or consistently.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af247a1c-4ca1-4fff-983e-d20bda0907d4.webp"
+        },
+        "Normal": {
+            "wordRoot": "Normal",
+            "wordDefinition": "The words normal and regular are similar in meaning but the subtle difference is that normal refers to what is expected or typical within a certain range, while regular refers to something happening consistently or at equal intervals of time.\n\nFor example, a person's height could be considered normal for their age, gender and genetics. A person who goes to the gym every Monday, Wednesday and Friday can be said to have a regular exercise routine.\n\nNormal is typically used to talk about what is considered average or standard, while regular describes something that happens frequently or consistently.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e5a9718d-381c-4e10-ad20-f7439076df89.webp"
+        },
+        "Ordinary": {
+            "wordRoot": "Ordinary",
+            "wordDefinition": "Ordinary means something that is normal or typical. For example, an ordinary day might consist of waking up, going to school or work, and coming home.\n\nSo, while both words are similar in meaning, ordinary refers to the typical or common, while regular refers to something that happens consistently or frequently.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6613882e-4ec1-4fae-91ea-a6bc9fef452e.webp"
+        },
+        "Routine": {
+            "wordRoot": "Routine",
+            "wordDefinition": "Regular refers to something that happens frequently or consistently, usually on a set schedule. For example, if you go to the gym every Monday, Wednesday, and Friday, that is a regular exercise routine.\n\nRoutine refers to a sequence of actions that you frequently perform in a particular order. For example, your morning routine might include showering, brushing your teeth, and getting dressed before you go to school.\n\nSo while they are similar in some ways, regular relates more to frequency and timing, while routine relates more to the sequence of actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b4e68cbb-0d92-45e3-aa52-aa75ad0aeee4.webp"
+        },
+        "Standardize": {
+            "wordRoot": "Standardize",
+            "wordDefinition": "Standardize refers to making something consistent or uniform. This can be applied to many things, such as manufacturing products to meet specific specifications or setting standardized tests for students.\n\nRegular means normal or common, while standardize means to make something consistent or uniform.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24a5be17-f501-4ff2-8044-e64d386c1404.webp"
+        },
+        "Traditional": {
+            "wordRoot": "Traditional",
+            "wordDefinition": "Traditional refers to something that is related to the customs or beliefs of a particular culture or group. It is applicable when talking about things that have been practiced for a long time and have a strong cultural or historical association.\n\nFor example, a regular day would be a typical day that one would expect to happen, whereas a traditional day would be a day where certain cultural or religious customs are observed.\n\nA regular sandwich would be a typical sandwich, whereas a traditional sandwich would be one that is made using a particular recipe that is unique to a certain culture or region.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c4a2a804-0f61-4dcf-b24b-721e3083d70f.webp"
+        },
+        "Typical": {
+            "wordRoot": "Typical",
+            "wordDefinition": "Typical refers to something that is commonly seen or expected, based on past experiences or general knowledge.\n\nRegular describes the frequency or pattern of something while typical describes the general expectation or norm. So, for example, a person's regular exercise routine might involve running three times a week, while it is typical for students to take exams at the end of each semester.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49c0ea1b-4a8c-48a5-9918-a66102ff5436.webp"
+        },
+        "Usual": {
+            "wordRoot": "Usual",
+            "wordDefinition": "Usual, on the other hand, means something that is common or familiar. It refers to something that is typical or expected in a particular situation, such as it being usual to have a cup of coffee in the morning.\n\nThe word regular refers to something that happens frequently or routinely, while the word usual refers to something that is commonplace or expected in a particular situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c4de0cda-d32a-467d-b356-947e5392f32d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and a processing plant. And each of these functions involve so many important subtasks that without the liver, our bodies would simply stop working. One of the liver's main functions is to filter the body's blood, which it receives in regular shipments from two the hepatic artery delivers blood from the heart,",
+            "Title": "What does the liver do?...",
+            "VideoId": "wbh3SjzydnQ",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " and looking for regular patterns of sound changes and correspondences between languages, linguists can determine relationships, trace specific steps in their evolution and even reconstruct earlier languages with no written records. Linguistics can even reveal other important historical clues,",
+            "Title": "How languages evolve -...",
+            "VideoId": "iWDKsHm6gTA",
+            "Controls": "start=101"
+        },
+        {
+            "Text": " the techniques that people use for example I've developed all these funky techniques is the regular lip whistle but I can also whistle with my tongue and then go so I use those as embellishments to mimic an instrument or to add diversity and it really helps me",
+            "Title": "What a World Champion...",
+            "VideoId": "51nfpGY_AJk",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " It's also not enough to just have good posture. Keeping your muscles and joints moving is extremely important. In fact, being stationary for long periods with good posture can be worse than regular movement with bad posture. When you do move, move smartly.",
+            "Title": "The benefits of good...",
+            "VideoId": "OyK0oE5rwFY",
+            "Controls": "start=200"
+        },
+        {
+            "Text": " there's a mechanism through regular summitry to do these things and to make them better. But the heart must also find a way to reimagine the possibilities of the America-China relationship, and the possibilities of China's future engagement in the world.",
+            "Title": "Are China and the US...",
+            "VideoId": "8XQ1onjXJK0",
+            "Controls": "start=1052"
+        },
+        {
+            "Text": " regular people could also reach the afterlife if they succeeded in the passage. Ani's epic journey begins with his death. His body is mummified by a team of priests who remove every organ except the heart, the seat of emotion, memory, and intelligence.",
+            "Title": "The Egyptian Book of the...",
+            "VideoId": "1yv_MXNYbAo",
+            "Controls": "start=37"
+        },
+        {
+            "Text": " the world most of you here know me for being able to design parts of my body but the genesis of that was in harnessing what happened regularly in my mind as a child designing and redesigning an identity which usually",
+            "Title": "Daydreaming: The bridge...",
+            "VideoId": "g_rKE_AWUW0",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " We usually think of rhythm as an element of music, but it's actually found everywhere in the world around us, from the ocean tides to our own heartbeats, rhythm is essentially an event repeating regularly over time.",
+            "Title": "A different way to...",
+            "VideoId": "2UphAzryVpY",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " where there was a couple of hours of not really much activity. She's just getting to the point now where she's having some pretty regular and strong contractions. Kaitlyn is entering the advanced stages of labour.",
+            "Title": "Birth of Twin Tiger Cubs...",
+            "VideoId": "SR6X-j55eEA",
+            "Controls": "start=7"
+        },
+        {
+            "Text": " much activity she's just getting to the point now where she's having some pretty regular and strong contractions caitlin is entering the advanced stages of labor",
+            "Title": "Adorable Tiger Cub...",
+            "VideoId": "s_8NoWpu-Ys",
+            "Controls": "start=8"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mitch-hedberg.webp",
+            "Text": "My friend asked me if I wanted a frozen banana. I said 'No, but I want a regular banana later, so... yeah.",
+            "Title": "American Comedian",
+            "Name": "Mitch Hedberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/manny-pacquiao.webp",
+            "Text": "I'm just a regular person who believes life is simple, and I like a simple life.",
+            "Title": "Filipino Boxer",
+            "Name": "Manny Pacquiao"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/toni-kroos.webp",
+            "Text": "The most important thing for me is that I get regular first team action.",
+            "Title": "German Athlete",
+            "Name": "Toni Kroos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jo-wilfried-tsonga.webp",
+            "Text": "In regular life, I'm somebody pretty simple, pretty calm.",
+            "Title": "French Athlete",
+            "Name": "Jo-Wilfried Tsonga"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/soleil-moon-frye.webp",
+            "Text": "My mom always made sure I lived my life as a regular kid.",
+            "Title": "American Actress",
+            "Name": "Soleil Moon Frye"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tarana-burke.webp",
+            "Text": "The world doesn't realise I have a regular job!",
+            "Title": "American Activist",
+            "Name": "Tarana Burke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christy-turlington.webp",
+            "Text": "I was a regular kid with a normal family life.",
+            "Title": "American Model",
+            "Name": "Christy Turlington"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kandyse-mcclure.webp",
+            "Text": "I'm always preparing for a regular life.",
+            "Title": "South African Actress",
+            "Name": "Kandyse McClure"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francois-henri-pinault.webp",
+            "Text": "I have a regular, normal private life.",
+            "Title": "French Businessman",
+            "Name": "Francois-Henri Pinault"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yg.webp",
+            "Text": "I feel like I'm regular. I'm humble.",
+            "Title": "American Musician",
+            "Name": "YG"
+        }
+    ]
+}

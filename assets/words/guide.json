@@ -1,0 +1,325 @@
+{
+    "currentWord": {
+        "wordRoot": "guide",
+        "id": 18147,
+        "phonemic": "ɡaɪd|ɡaɪd\r",
+        "bigId": "1f804794-9b88-49fa-8b3e-7d9216f94710",
+        "wordForms": [
+            "guides",
+            "guiding",
+            "guided",
+            "guidebook",
+            "guide"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1f804794-9b88-49fa-8b3e-7d9216f94710",
+            "de": "To lead someone to a destination by going in front of them or beside them.",
+            "ty": "verb",
+            "ex": "The park ranger guided us through the forest.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "guide someone",
+                " guide through",
+                " guide around."
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1f804794-9b88-49fa-8b3e-7d9216f94710.webp",
+            "Tips": [
+                {
+                    "title": "Physical Movement",
+                    "description": "Use this when talking about someone leading the way in a physical space.",
+                    "example": "Please guide the guests to their seats.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/KUJXLG4C5yQR7JSZNpdn6cN8E.webp"
+                },
+                {
+                    "title": "Figurative Path",
+                    "description": "Can also refer to abstract guidance, like through a process or experience.",
+                    "example": "The counselor will guide you through the application steps.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DWAxtH8JIoAPH7TTHh5dT32Vs40.webp"
+                },
+                {
+                    "title": "Temporary Assistance",
+                    "description": "Implies guidance for a limited time or until the goal is reached.",
+                    "example": "I can guide you until you're comfortable doing it alone.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tMcEEUwhMQ8TesYdnhgxeJqmsfE.webp"
+                }
+            ]
+        },
+        {
+            "id": "7211f499-e6eb-445a-880e-86ea84021989",
+            "de": "A person who advises or shows the way to others.",
+            "ty": "noun",
+            "ex": "This handbook is an excellent guide for beginners.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "tour guide",
+                " city guide",
+                " guide book."
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7211f499-e6eb-445a-880e-86ea84021989.webp",
+            "Tips": [
+                {
+                    "title": "Expert Helper",
+                    "description": "Suggests the guide has more knowledge or experience in a particular area.",
+                    "example": "Our tour guide in Rome knew the city's history very well.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Role",
+                    "description": "Often a paid position, such as a museum guide or a mountain guide.",
+                    "example": "She earns her living as a mountain guide.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Informative Content",
+                    "description": "Refers to providing insightful information in a guidebook or document.",
+                    "example": "You'll find everything you need in the travel guide.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "079a3df4-b750-46f6-8087-ac5ca14ccce9",
+            "de": "To influence the behavior or direction of something.",
+            "do": "General",
+            "ty": "verb",
+            "ex": "You can guide the team to success with your experience.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "guide behavior",
+                " guide direction",
+                " guide decision."
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/079a3df4-b750-46f6-8087-ac5ca14ccce9.webp",
+            "Tips": [
+                {
+                    "title": "Influence Decisions",
+                    "description": "Focuses on advising or influencing choices and behavior.",
+                    "example": "His mentor's advice helped to guide his career path.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Control",
+                    "description": "Indicates subtle assistance, not direct control or command.",
+                    "example": "The director guided the actors' performances with care.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4879ad89-3cee-422b-9ab7-57f545a9c297",
+            "de": "A document that gives assistance or instructions.",
+            "ty": "noun",
+            "ex": "I refer to the user guide of the software whenever I can't figure things out.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "user guide",
+                " reference guide",
+                " style guide."
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4879ad89-3cee-422b-9ab7-57f545a9c297.webp",
+            "Tips": [
+                {
+                    "title": "Reference Tool",
+                    "description": "Use as a helpful resource when needing specific information.",
+                    "example": "If you're lost, the user guide has a troubleshooting section.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Step-by-Step",
+                    "description": "Guides often break down processes into easier steps.",
+                    "example": "Follow the installation guide to set up your new device.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Coach": {
+            "wordRoot": "Coach",
+            "wordDefinition": "Coach refers to a person who helps and trains someone to improve their skills in a particular area, usually in a structured and measurable way.\n\nFor example, a football coach would train the team to become better football players by teaching them specific skills and strategies.\n\nBoth coach and guide can overlap in certain situations, but the main difference lies in their approach.\n\nA coach is often more hands-on and prescriptive, providing structured training and feedback to help someone improve their skills.\n\nA coach provides structured training to improve skills, while a guide offers advice and information to help navigate a situation or achieve a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/44fb10b5-a940-420a-8eb5-2a1c5ee3de12.webp"
+        },
+        "Consultant": {
+            "wordRoot": "Consultant",
+            "wordDefinition": "A consultant is someone who gives expert advice or solutions to specific problems to help businesses, organizations, or individuals achieve their goals.\n\nA consultant is usually hired for a short period to address a specific issue.\n\nConsultants are commonly hired in a professional setting, such as a business, while guides are often used in travel or outdoor recreational activities.\n\nThe main difference is that a consultant is focused on solving specific problems, while a guide provides long-term support and direction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5a5e7586-a697-429a-af74-d69fa467ec30.webp"
+        },
+        "Counsel": {
+            "wordRoot": "Counsel",
+            "wordDefinition": "Counsel refers to advice or guidance given by someone who is an expert or authority in a particular field or subject.\n\nIt is usually more formal and often refers to legal or professional advice. For example, a lawyer may counsel their client on the best course of legal action to take.\n\nBoth words are applicable in different situations, but generally, counsel is used in more formal or professional contexts, while guide is used in more informal or personal contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/93a4f852-49a4-4326-85e1-72d7cd9b14fd.webp"
+        },
+        "Director": {
+            "wordRoot": "Director",
+            "wordDefinition": "A director is someone who is in charge of a movie, play, or other creative work. They make decisions about the actors, the setting, and how the story will be told.\n\nA director has control over the outcome of a creative project, while a guide helps you understand and navigate something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/711be782-bdf5-4363-b777-30d13cf9b348.webp"
+        },
+        "Expert": {
+            "wordRoot": "Expert",
+            "wordDefinition": "An expert is someone who has extensive knowledge, skills, and expertise in a certain area, while a guide is someone who takes you through a process, journey or a place.\n\nFor example, if you want advice or help with something specific, like fixing your computer, you would go to an expert in technology.\n\nAn expert is someone who has in-depth knowledge about a topic, while a guide is someone who leads or assists you in navigating a process or place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c8b20344-d614-4d05-9c46-8f7667df8e83.webp"
+        },
+        "Instruct": {
+            "wordRoot": "Instruct",
+            "wordDefinition": "Instruct means to give someone specific directions or information on how to do something. It is applicable when someone needs to learn a skill or follow a set process.\n\nFor example, a piano teacher will instruct their student on how to correctly place their fingers and play specific notes in order to play a song accurately.\n\nGuide is more about providing support and allowing someone to make their own decisions, while instruct is more about giving explicit directions on how to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af3ca991-ebf6-402a-bd4b-183333908afb.webp"
+        },
+        "Leader": {
+            "wordRoot": "Leader",
+            "wordDefinition": "A leader is someone who has influence over a group of people and makes decisions for them.\n\nA leader is applicable in situations where there are multiple people working together towards a common goal, like a team captain in sports or a manager in a company.\n\nA guide shows the way, while a leader takes charge and makes decisions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a81c3bb5-7379-475a-8761-0d0b43610ad3.webp"
+        },
+        "Mentor": {
+            "wordRoot": "Mentor",
+            "wordDefinition": "A mentor is someone who has experience and knowledge in a certain area and who helps you develop skills, overcome challenges, and achieve goals in that area.\n\nFor example, a mentor in business may guide you in making decisions, developing skills, and building your career.\n\nA guide shows you the way while a mentor helps you develop skills and achieve goals in a specific area. The term guide is more applicable in situations where direction or basic instructions are needed, while the term mentor is more applicable in situations where in-depth guidance and support towards a particular goal or skill is required.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad1e4d6c-f7ca-4a98-8159-cacc0a885691.webp"
+        },
+        "Teach": {
+            "wordRoot": "Teach",
+            "wordDefinition": "Teach refers to someone who shares their knowledge or expertise with another person in order to help them learn a particular subject or skill.\n\nA teacher might instruct students in a classroom, while a coach might teach athletes how to improve their performance.\n\nGuide emphasizes the role of the person providing support and direction, while teach emphasizes the transfer of knowledge or skill from the teacher to the learner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fdca74bc-ab07-464e-b223-4daefd17fa96.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And when people talk about life after fossil fuels and climate change action, I think there's a lot of fluff, a lot of greenwash, a lot of misleading advertising, and I feel a duty as a physicist to try to guide people around the claptrap and help people understand the actions that really make a difference, and to focus on ideas that do add up.",
+            "Title": "David Mackay: A reality...",
+            "VideoId": "1gAQ82IHyZ8",
+            "Controls": "start=72"
+        },
+        {
+            "Text": " in a world where state interests wield so much power. Critics also question the universality of human rights and emphasize that their development has been heavily guided by a small number of mostly Western nations to the detriment of inclusiveness. The result? A general bias in favor of civil policital liberties",
+            "Title": "What are the universal...",
+            "VideoId": "nDgIVseTkuE",
+            "Controls": "start=191"
+        },
+        {
+            "Text": " Instead, the queen's new consort is guided directly to the royal chamber. He's not the first consort to the queen, and he probably won't be the last. Driver ant queens are, for ants, unusually promiscuous. He'll be one of many suitors she'll entertain during her lifetime.",
+            "Title": "Queen Ant Mating Season...",
+            "VideoId": "MHoRiFq3ekw",
+            "Controls": "start=153"
+        },
+        {
+            "Text": " without knowing the actual sequence. Using the overlapping bits as a guide, the researchers marked each fragment's place in the genome to create a contiguous map, a process that took about six years. The cloned fragments were sequenced in labs around the world",
+            "Title": "The race to sequence the...",
+            "VideoId": "AhsIF-cmoQQ",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " queen's new consort is guided directly to the royal chamber he's not the first consort to the queen and he probably won't be the last driver and queens are for ants unusually promiscuous he'll be one of many suitors she'll entertain during her lifetime",
+            "Title": "Best Of Ants PIPE BBC Earth",
+            "VideoId": "qu0HN9rYtIw",
+            "Controls": "start=311"
+        },
+        {
+            "Text": " printer chemistry you've got some alternative like this natural silica formation and lastly we need these deep life's principles to be an interactive guide to keep life's wisdom right in front of us we need to become lifelong",
+            "Title": "Creating a Bio-Industrial...",
+            "VideoId": "YSOFd0YgpQQ",
+            "Controls": "start=872"
+        },
+        {
+            "Text": " and by education in ritual, literature, and history. A person cultivated in this way works to help others, guiding them by moral inspiration rather than brute force. To put his philosophy into practice,",
+            "Title": "Who was Confucius? -...",
+            "VideoId": "wFt_VGG0kJU",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " and allow you to feel the landscape so, so your job here is really important. It is. In my family there's four generations who have all guided, we have become kaitiaki or guardians, of all the areas,",
+            "Title": "Exploring the Bay of...",
+            "VideoId": "cA5cX1YuuGA",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " Deep inside, hormones in her blood have been stimulating her ovaries, producing an egg. When it reaches maturity, her ovary wall ruptures, and the single egg is guided into her reproductive tract.",
+            "Title": "Elephant Mating,...",
+            "VideoId": "WuIYg9z_Oqo",
+            "Controls": "start=32"
+        },
+        {
+            "Text": " Good evening! What's the matter? Are you afraid of vampires? He he, no need to worry, I'm not staying for dinner. I'm here to guide you through a brief history of vampires,",
+            "Title": "Vampires: Folklore,...",
+            "VideoId": "_0ThKRmySoU",
+            "Controls": "start=11"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ludwig-van-beethoven.webp",
+            "Text": "The true artist is not proud: he unfortunately sees that art has no limits; he feels darkly how far he is from the goal, and though he may be admired by others, he is sad not to have reached that point to which his better genius only appears as a distant, guiding sun.",
+            "Title": "German Composer",
+            "Name": "Ludwig van Beethoven"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-obama.webp",
+            "Text": "At the end of the day, when it comes time to make that decision, as president, all you have to guide you are your values, and your vision, and the life experiences that make you who you are.",
+            "Title": "American First Lady",
+            "Name": "Michelle Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/les-brown.webp",
+            "Text": "Your goals are the road maps that guide you and show you what is possible for your life.",
+            "Title": "American Speaker",
+            "Name": "Les Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/laurence-sterne.webp",
+            "Text": "Respect for ourselves guides our morals, respect for others guides our manners.",
+            "Title": "Irish Novelist",
+            "Name": "Laurence Sterne"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-kennedy.webp",
+            "Text": "Tragedy is a tool for the living to gain wisdom, not a guide by which to live.",
+            "Title": "American Politician",
+            "Name": "Robert Kennedy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bertrand-russell.webp",
+            "Text": "The good life is one inspired by love and guided by knowledge.",
+            "Title": "British Philosopher",
+            "Name": "Bertrand Russell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-namath.webp",
+            "Text": "Something's been guiding me around throughout my life.",
+            "Title": "American Athlete",
+            "Name": "Joe Namath"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/walter-lord.webp",
+            "Text": "Events alone rarely provide much guide to the future.",
+            "Title": "American Author",
+            "Name": "Walter Lord"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adina-porter.webp",
+            "Text": "My life guided me to express my full potential.",
+            "Title": "American Actress",
+            "Name": "Adina Porter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/america-ferrera.webp",
+            "Text": "I am trying to be guided by my passion.",
+            "Title": "American Actress",
+            "Name": "America Ferrera"
+        }
+    ]
+}

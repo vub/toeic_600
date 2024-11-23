@@ -1,0 +1,336 @@
+{
+    "currentWord": {
+        "wordRoot": "limit",
+        "id": 7994,
+        "phonemic": "ˈlɪmɪt|ˈlɪmɪt\r",
+        "bigId": "e497b1b7-a978-44f5-b7c6-4d67aac6a116",
+        "wordForms": [
+            "limits",
+            "limiting",
+            "limited",
+            "unlimited",
+            "limitless",
+            "limit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e497b1b7-a978-44f5-b7c6-4d67aac6a116",
+            "de": "The highest or smallest amount that is allowed or possible",
+            "ty": "noun",
+            "ex": "The speed limit is 50 mph on this road.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "speed limit",
+                " limit of liability",
+                " age limit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e497b1b7-a978-44f5-b7c6-4d67aac6a116.webp",
+            "Tips": [
+                {
+                    "title": "Regulatory Nature",
+                    "description": "The term often relates to rules set by an authority like governments or institutions.",
+                    "example": "The baggage limit for this flight is two suitcases.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6jRoM8Tlwzi3fOGMVVHSwZOwE.webp"
+                },
+                {
+                    "title": "Implies Penalty",
+                    "description": "Exceeding a limit can result in penalties such as fines or consequences.",
+                    "example": "If you exceed the speed limit, you might get a ticket.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/LpFo0axSZ9qX7zQoN6RUVYCnTQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "180bca86-ec47-4fb1-8ce4-9094090ad767",
+            "de": "A point or level that you cannot go beyond",
+            "ty": "noun",
+            "ex": "There is a limit to how much one person can do.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reach a limit",
+                " push the limit",
+                " beyond the limit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/180bca86-ec47-4fb1-8ce4-9094090ad767.webp",
+            "Tips": [
+                {
+                    "title": "Physical or Abstract",
+                    "description": "Limits can be tangible boundaries or intangible points of capacity or endurance.",
+                    "example": "She tested her limit with a marathon run.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Context Sensitivity",
+                    "description": "Depending on context, 'limit' can either be seen as a challenge to overcome or a necessary safeguard.",
+                    "example": "He likes to push his limits in extreme sports.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7696c552-80f0-4426-9422-9626240a25b6",
+            "de": "To control or keep something within a particular range or not exceed a particular point",
+            "ty": "verb",
+            "ex": "We need to limit the amount of money we spend each month.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "limit spending",
+                " limit access",
+                " limit damage"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7696c552-80f0-4426-9422-9626240a25b6.webp",
+            "Tips": [
+                {
+                    "title": "Control and Moderation",
+                    "description": "'Limit' as a verb suggests moderation and careful management, often for improvement or safety.",
+                    "example": "Limit your sun exposure to avoid sunburn.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "38e1a2c0-2391-43c0-be48-81acc803d32a",
+            "de": "A control that is set on something, especially by rules or regulations",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "According to export limits, we can only send a certain quantity of goods.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "export limits",
+                " import limits",
+                " trading limits"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/38e1a2c0-2391-43c0-be48-81acc803d32a.webp",
+            "Tips": [
+                {
+                    "title": "Legal Constraints",
+                    "description": "In legal context, 'limit' emphasizes mandatory constraints that must be followed.",
+                    "example": "Trading limits ensure market stability.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Policy Understanding",
+                    "description": "Understanding limits in a legal context is crucial for compliance with rules, regulations, and policies.",
+                    "example": "Her knowledge of import limits saved the company from fines.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "77288024-4575-4ccc-9423-e8c754130bc5",
+            "de": "In mathematics, limit is the value that a function or sequence approaches as the input or index approaches some value",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "The limit of a sequence can be finite or infinite.",
+            "use": "",
+            "co": "Academic",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "finite limit",
+                " infinite limit",
+                " limit of a sequence"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/77288024-4575-4ccc-9423-e8c754130bc5.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical Concept",
+                    "description": "In mathematics, understanding limits helps in grasping theories and solving calculus problems.",
+                    "example": "The function's limit as x approaches zero was undefined.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Abstract Calculation",
+                    "description": "'Limit' in math isn't always a solid number; it can be a concept of approaching a value.",
+                    "example": "The sequence had a limit approaching infinity.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Barrier": {
+            "wordRoot": "Barrier",
+            "wordDefinition": "A barrier is something that physically or mentally blocks our ability to do or achieve something. For example, a wall is a physical barrier that prevents us from getting to the other side.\n\nA language barrier limits communication between people who speak different languages. A cultural barrier can limit understanding between people from different cultures.\n\nA barrier stops us from doing something, while a limit is a line we should not cross. Barangay refers to the smallest administrative division in the Philippines, characterized by being a dominant settlement or center of population.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9d16ca56-5eb9-4955-8607-05363676c409.webp"
+        },
+        "Border": {
+            "wordRoot": "Border",
+            "wordDefinition": "Border refers to the physical boundary or edge of something, such as the line between two countries or the edge of a piece of paper.\n\nBorders are typically used to identify the outermost extent of something, while limits are more commonly used to define the boundaries of what is permissible or possible.\n\nIn other words, borders are geographical or physical in nature, while limits are more abstract.\n\nFor example, you might say that the border between two countries is heavily guarded, or that the border of a page is a solid black line.\n\nThe main difference between border and limit is that borders are typically physical or geographical boundaries, while limits are more abstract and refer to maximum or minimum boundaries for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a891395-5e21-4e5e-8279-ced24111a9d7.webp"
+        },
+        "Bound": {
+            "wordRoot": "Bound",
+            "wordDefinition": "Bound refers to a restriction or a boundary that is set, either by a person or by a situation. For example, you might say that you are bound by the rules of a game, meaning that you have to follow them in order to play.\n\nBound is applicable in situations where there are rules or conditions that limit what you can do, while limit is more applicable in situations where there is a physical or numerical boundary that restricts what is possible.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4098b41f-0761-488e-99d2-97192d955dac.webp"
+        },
+        "Cap": {
+            "wordRoot": "Cap",
+            "wordDefinition": "The words cap and limit both refer to setting a boundary or maximum amount for something.\n\nHowever, cap usually describes a fixed maximum, while limit can refer to a range of possible amounts.\n\nFor example, if a company sets a cap on the number of employees it will hire, that means it has a specific number in mind and won't hire more than that.\n\nCap refers to a specific maximum amount, while limit refers to a range of possible amounts up to a maximum.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/29a74145-ba4d-42f7-9490-59cfede418fb.webp"
+        },
+        "Frontier": {
+            "wordRoot": "Frontier",
+            "wordDefinition": "Frontier refers to a boundary that marks the farthest advance or limit of an area or field.\n\nA frontier is generally seen as a challenge to be overcome, as there is typically a sense of adventure or danger associated with it.\n\nA frontier is a boundary that is meant to be pushed, while a limit is a boundary that is meant to be observed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3fd1d7c0-2151-41d0-9097-1a60df228363.webp"
+        },
+        "Maximum": {
+            "wordRoot": "Maximum",
+            "wordDefinition": "For example, a speed limit is the maximum speed at which a vehicle can legally travel on a road.\n\nMaximum refers to the highest level or quantity of something. It denotes the upper limit, but there may not be any restriction on reaching it.\n\nFor example, the maximum weight limit for luggage on an airplane is the highest amount of weight that can be carried, but if a passenger's luggage is below this weight, they can still bring it on board.\n\nIn simpler terms, limit is used to indicate a restriction or a boundary that cannot be exceeded, while maximum refers to the highest or largest amount that is allowed or achievable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/793570b7-faf5-4212-acf5-adc21c2653e4.webp"
+        },
+        "Restriction": {
+            "wordRoot": "Restriction",
+            "wordDefinition": "Both limit and restriction imply the idea of something being restricted or held back in some way.\n\nHowever, the main difference between the two is that a limit is usually set by an external force or a particular circumstance, whereas a restriction is typically imposed by a set of rules or regulations.\n\nLimits can often be flexible and may depend on a variety of factors, such as time or resources, while restrictions are usually clear-cut and more rigid.\n\nA restriction would be a rule that prohibits smoking in certain public places like restaurants or parks, which is a clear and specific guideline written in the law.\n\nRestrictions is about following rules set by the authority, which may also limit us but for a different reason.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/233665be-b9f5-4a9b-8505-5c5da9e26308.webp"
+        },
+        "Threshold": {
+            "wordRoot": "Threshold",
+            "wordDefinition": "Threshold refers to a point at which something starts or changes. For example, in medicine, a threshold may refer to the level of a drug in the bloodstream that causes a certain effect.\n\nIn finance, a threshold may refer to a level of income below which a person is eligible for government assistance.\n\nIn simpler terms, limit is the maximum or minimum boundary that something can reach, while a threshold is the point at which something starts to happen.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/df74bdaf-134d-464d-b1d1-3d6187eeee7b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " because pleasure is the greatest good that life has to offer. For hedonists, the best choice that a person could make for himself is one that brings him the greatest possible amount of pleasure while bringing him no pain. Limitless pleasure minus zero pain equals maximum net pleasure,",
+            "Title": "Would you opt for a life...",
+            "VideoId": "XNP1x11Z2Ig",
+            "Controls": "start=64"
+        },
+        {
+            "Text": " and now have more time I think deeper I have more insights cutting out the news was one of the best decisions of my life and I will never go back see news is to the brain what sugar is to the body you can swallow limitless quantities of news flash if it bit like jelly beans but",
+            "Title": "Four reasons you should...",
+            "VideoId": "-miTTiaqFlI",
+            "Controls": "start=61"
+        },
+        {
+            "Text": " can stimulate brain cells to release mood-altering norepinephrine, dopamine, and serotonin. But getting to your brain cells is tricky, and amino acids have to compete for limited access. A diet with a range of foods helps maintain a balanced combination of brain messengers,",
+            "Title": "How the food you eat...",
+            "VideoId": "xyQY8a-ng6g",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " All of these behaviors reinforce social bonds, communicate feelings and establish who is in charge of the group. They even perform actions that seem all too human. But while chimps across the world only have a limited repertoire of vocalizations,",
+            "Title": "How to Speak Chimpanzee...",
+            "VideoId": "NBFBbFcixRY",
+            "Controls": "start=175"
+        },
+        {
+            "Text": " ruling over impoverished masses. The new century brought more exciting and terrifying changes. Medical advances made it possible to transcend biological limits while mass media allowed instant communication between leaders and the public.",
+            "Title": "How to recognize a...",
+            "VideoId": "6a6kbU88wu0",
+            "Controls": "start=131"
+        },
+        {
+            "Text": " when she sees the apple. Could it be that there are fundamental limits to what we can know about something we can't experience? And would this mean there are certain aspects of the universe that lie permanently beyond our comprehension?",
+            "Title": "Mary's Room: A...",
+            "VideoId": "mGYmiQkah4o",
+            "Controls": "start=249"
+        },
+        {
+            "Text": " We dream to solve problems. Unconstrained by reality and the rules of conventional logic, in your dreams, your mind can create limitless scenarios to help you grasp problems and formulate solutions that you may not consider while awake.",
+            "Title": "Why do we dream? - Amy...",
+            "VideoId": "2W85Dwxx218",
+            "Controls": "start=270"
+        },
+        {
+            "Text": " depending on precisely which group of experts we asked. Now, it could happen much, much later, or sooner, the truth is nobody really knows. What we do know is that the ultimate limit to information processing",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=293"
+        },
+        {
+            "Text": " like arithmetic, that they've otherwise mastered. Academic anxiety certainly isn't limited to math, but it does seem to happen much more frequently, and cause more harm in that subject. So why would that be?",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=86"
+        },
+        {
+            "Text": " understand how the world works push the limits of human endurance",
+            "Title": "Vote for the 2016...",
+            "VideoId": "PJ9zNNel_2w",
+            "Controls": "start=92"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "There are a lot of things you can do in space, and space essentially is unlimited resources. We are climbing over ourselves here looking for the next source of energy. The universe has an unlimited source of energy.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-schumacher.webp",
+            "Text": "If you do things to the limit, and don't purposely go over that limit, then I think it's fine to do whatever you want. So long as you enjoy it. That's what's important.",
+            "Title": "German Celebrity",
+            "Name": "Michael Schumacher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronald-reagan.webp",
+            "Text": "Government exists to protect us from each other. Where government has gone beyond its limits is in deciding to protect us from ourselves.",
+            "Title": "American President",
+            "Name": "Ronald Reagan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aesop.webp",
+            "Text": "The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted.",
+            "Title": "Greek Author",
+            "Name": "Aesop"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/les-brown.webp",
+            "Text": "The only limits to the possibilities in your life tomorrow are the buts you use today.",
+            "Title": "American Speaker",
+            "Name": "Les Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/venus-williams.webp",
+            "Text": "I spent my whole life playing sports and training and pushing myself to the limits.",
+            "Title": "American Tennis Player",
+            "Name": "Venus Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arthur-schopenhauer.webp",
+            "Text": "Every man takes the limits of his own field of vision for the limits of the world.",
+            "Title": "German Philosopher",
+            "Name": "Arthur Schopenhauer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-cocteau.webp",
+            "Text": "The extreme limit of wisdom, that's what the public calls madness.",
+            "Title": "French Director",
+            "Name": "Jean Cocteau"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-ford.webp",
+            "Text": "As we advance in life we learn the limits of our abilities.",
+            "Title": "American Businessman",
+            "Name": "Henry Ford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-zolciak-biermann.webp",
+            "Text": "I don't have any limits in my life.",
+            "Title": "American Celebrity",
+            "Name": "Kim Zolciak-Biermann"
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "currentWord": {
+        "wordRoot": "link",
+        "id": 14299,
+        "phonemic": "lɪŋk|lɪŋk\r",
+        "bigId": "0c7c1e0d-4ca1-40ca-bca9-92fce4b1a509",
+        "wordForms": [
+            "links",
+            "linking",
+            "linked",
+            "link"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0c7c1e0d-4ca1-40ca-bca9-92fce4b1a509",
+            "de": "A relationship between two things or situations.",
+            "ty": "noun",
+            "ex": "There is a clear link between poverty and crime.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "establish a link",
+                " break a link",
+                " the link between"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0c7c1e0d-4ca1-40ca-bca9-92fce4b1a509.webp",
+            "Tips": [
+                {
+                    "title": "Abstract Concept",
+                    "description": "The link here is intangible, showing relationship or relevance between abstract concepts.",
+                    "example": "She found a link between diet and well-being.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MJk7U0ldXvog2sHnkfrMBpmDbT8.webp"
+                },
+                {
+                    "title": "Implicit Cause",
+                    "description": "Sometimes 'link' indicates an underlying cause, not just a correlation.",
+                    "example": "Scientists discovered a link between smoking and lung cancer.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PF6U4z3ZTFgi2jBYEKPbrAiZtM.webp"
+                },
+                {
+                    "title": "Research Context",
+                    "description": "Often used in academic or research contexts to show findings or hypotheses.",
+                    "example": "The study explored the link between sleep patterns and learning abilities.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/WKCkwAIue6uSP397RGMJikyYeA.webp"
+                }
+            ]
+        },
+        {
+            "id": "c8643b01-3ff9-4721-92ad-fd9e6d61fbcd",
+            "de": "A ring of a chain.",
+            "ty": "noun",
+            "ex": "One link of the chain was weak and broke.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "chain link",
+                " missing link",
+                " weakest link"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c8643b01-3ff9-4721-92ad-fd9e6d61fbcd.webp",
+            "Tips": [
+                {
+                    "title": "Physical Object",
+                    "description": "This 'link' refers to the physical and visible part of a chain or series.",
+                    "example": "If a single link in the chain is broken, the entire chain fails.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Strength Metaphor",
+                    "description": "Used metaphorically to describe the strongest or weakest point in a system or argument.",
+                    "example": "The weakest link in our team's defense cost us the game.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a751cae2-f188-4934-a51f-0070c8101986",
+            "de": "To connect or associate with each other.",
+            "ty": "verb",
+            "ex": "The two incidents were quickly linked by the police.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "link together",
+                " link up",
+                " link to"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a751cae2-f188-4934-a51f-0070c8101986.webp",
+            "Tips": [
+                {
+                    "title": "Action of Joining",
+                    "description": "Emphasizes the act of joining two or more elements together.",
+                    "example": "You can link your phone to your computer to share files.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cause and Effect",
+                    "description": "Can represent a causal relationship, where one action leads to another.",
+                    "example": "Poor planning was linked to the event's failure.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e0fdc917-711a-49de-9be3-49d873b7e6ea",
+            "de": "A code allowing a user to go from a webpage or file to another part on the internet.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Click on this link to access the article.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "click on a link",
+                " broken link",
+                " url link"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e0fdc917-711a-49de-9be3-49d873b7e6ea.webp",
+            "Tips": [
+                {
+                    "title": "Online Navigation",
+                    "description": "This 'link' is a tool for navigating between web pages or online content.",
+                    "example": "Click this link to jump to the registration page.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Shortcut",
+                    "description": "Links provide a quick way to access information without the need for lengthy searches.",
+                    "example": "I sent you a link to the article instead of the whole text.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5a094e48-4a35-4539-bae3-82d3ed3a0273",
+            "de": "A setting used in golf.",
+            "do": "Sports",
+            "ty": "noun",
+            "ex": "He played a round on the famous St Andrews links.",
+            "use": "",
+            "co": "Specific",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "golf links",
+                " link course",
+                " play on the links"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5a094e48-4a35-4539-bae3-82d3ed3a0273.webp",
+            "Tips": [
+                {
+                    "title": "Golfing Term",
+                    "description": "Here, 'links' is specific to golf and refers to the type of course.",
+                    "example": "He enjoys playing on old links courses by the sea.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "British Usage",
+                    "description": "Most common in the UK, 'links' in golf may be less familiar to those outside of Britain.",
+                    "example": "On our trip to Scotland, we played on a historic links.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Affiliate": {
+            "wordRoot": "Affiliate",
+            "wordDefinition": "An affiliate is a person or company that earns a commission by promoting someone else's products or services. They sign up for an affiliate program, and then they share a special link with their audience to promote the product.\n\nWhen someone clicks on their link and makes a purchase, the affiliate earns a percentage of the sale.\n\nAn affiliate is a person who earns money by promoting someone else's product or service, while a link is a clickable element that takes you from one website or page to another.\n\nAffiliates use links to promote products and earn commissions on sales.\n\nLinks can be used for a variety of purposes beyond affiliate marketing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/59193733-6f82-48fb-aabe-04fddb81836a.webp"
+        },
+        "Attach": {
+            "wordRoot": "Attach",
+            "wordDefinition": "Attach means to physically connect two things. For example, you can attach a document to an email by including it as an attachment.\n\nAttach is used when you want to include a separate file or physical object, while link is used when you want to reference something without including it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3d799c9a-8abc-402b-800e-1b3b14441781.webp"
+        },
+        "Bond": {
+            "wordRoot": "Bond",
+            "wordDefinition": "Bond refers to a strong connection between two things or people, like the bond between friends or the bond between atoms in a molecule.\n\nLink refers to a connection between two things, but it may not be as strong or significant as a bond. For example, two websites might be linked, but they don't necessarily have a bond.\n\nA bond is a strong connection that implies closeness, while a link is just a connection between two things or ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8badbbb4-0c2b-4f0e-bcd1-20ed270ef85c.webp"
+        },
+        "Connect": {
+            "wordRoot": "Connect",
+            "wordDefinition": "Connect means to bring together or join two or more things, ideas, or persons. For example, you can connect a printer to a computer to start printing.\n\nIn terms of persons, connect means to establish communication or build a relationship with someone.\n\nLink means to attach or connect one thing to another. For example, you can link a webpage to another by clicking on a hyperlink.\n\nIn this case, link refers to establishing a connection between two different things or ideas.\n\nConnect is more often used when referring to people and relationships, while link is more commonly used when referring to technology and information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5610d91a-3dce-41ff-9a46-5aebc8cfd751.webp"
+        },
+        "Couple": {
+            "wordRoot": "Couple",
+            "wordDefinition": "Couple refers to two things that are paired together or joined.\n\nIt can describe a romantic relationship between two people, but it can also be used in everyday language to mean two things that go together, like a couple of books or a couple of pencils.\n\nCouple is more commonly used to describe a pairing or relationship between two things, while link describes a connection or association between two things, whether they are physical or abstract.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36488b9d-85e2-4a81-8f66-f71f28907c76.webp"
+        },
+        "Interconnect": {
+            "wordRoot": "Interconnect",
+            "wordDefinition": "Both interconnect and link refer to connecting things together, but interconnect is used when referring to more complex and intricate connections between parts or systems, while link is used for simpler or more direct connections.\n\nFor example, a computer's hardware components are interconnected through a complex network of wires, circuits, and interfaces, whereas files on a computer are linked together through simpler processes like hyperlinks.\n\nInterconnect is used for deeper and more complex connections, while link is used for shallower and more straightforward connections.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3703725-1bc5-4ba9-abdb-f2b8be4e0870.webp"
+        },
+        "Join": {
+            "wordRoot": "Join",
+            "wordDefinition": "Join refers to two separate things coming together to become one, like pieces of a puzzle fitting together. For example, you can join a club or a team, meaning you become a member of that group.\n\nSo, while both words involve bringing things together, join implies becoming a part of something larger, while link implies creating a connection between two separate things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/651ee729-0924-4676-a5fc-51b387f27e36.webp"
+        },
+        "Link up": {
+            "wordRoot": "Link up",
+            "wordDefinition": "Link refers to a connection between two things or people.\n\nIt can be used in a general sense to describe any type of connection, such as a hyperlink on a website or a physical chain linking two objects together.\n\nThe phrase link up means to connect or join together. It usually implies a more intentional and purposeful connection between two or more things or people.\n\nFor example, people might link up to collaborate on a project or to meet in person after online communication.\n\nLink refers to a connection while link up describes a deliberate connecting of two or more things or people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/743086ec-a5f4-4576-9d6e-e62cf44c8fce.webp"
+        },
+        "Tie": {
+            "wordRoot": "Tie",
+            "wordDefinition": "Tie describes a physical or symbolic connection between two or more things. For example, a tie is a piece of clothing worn around the neck that symbolizes a connection to a group or organization.\n\nIt can also indicate a close relationship or bond between people, like a family tie.\n\nLink is used more in digital contexts and to describe connections or relationships between abstract concepts. Tie is more likely to be used in physical contexts and to describe connections or relationships between people or things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b4df0528-e328-4e48-a632-1a2eddda800b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " not just two pieces of data being connected, or six like he did, but I want to think about a world where everybody has put data on the web and so virtually everything you can imagine is on the web and then calling that linked data. The technology is linked data, and it's extremely simple.",
+            "Title": "Tim Berners-Lee: The...",
+            "VideoId": "OM6XIICm_qo",
+            "Controls": "start=350"
+        },
+        {
+            "Text": " Researchers have linked poor posture to scoliosis, tension headaches, and back pain, though it isn't the exclusive cause of any of them. Posture can even influence your emotional state and your sensitivity to pain. So there are a lot of reasons to aim for good posture.",
+            "Title": "The benefits of good...",
+            "VideoId": "OyK0oE5rwFY",
+            "Controls": "start=67"
+        },
+        {
+            "Text": " and are evolutionarily linked to the rest of the class. Whether placental, marsupial, or monotreme, each of these creatures and its unique birthing methods, however bizarre, have succeeded for many millennia in bringing new life and diversity into the mammal kingdom.",
+            "Title": "The three different ways...",
+            "VideoId": "sz3Yv3On4lE",
+            "Controls": "start=254"
+        },
+        {
+            "Text": " communication second the name provides a playful link back to the companies underneath g for google c for calico n for nest x and so on third the name encourages wall street investors buy this stock and you're making an alpha bet one that will outperform others",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=282"
+        },
+        {
+            "Text": " Well, there are a few ways to influence the extent and effectiveness of memory retention. For example, memories that are formed in times of heightened feeling, or even stress, will be better recorded due to the hippocampus' link with emotion.",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=206"
+        },
+        {
+            "Text": " and damaged infrastructure from pressure and waste water injection. Links between fracking and increased seismic activity leave unresolved questions about long-term pressure imbalances that might be happening deep beneath our feet.",
+            "Title": "How does fracking work?...",
+            "VideoId": "Tudal_4x4F0",
+            "Controls": "start=233"
+        },
+        {
+            "Text": " Recent studies have found that sitting for long periods is linked with some types of cancers and heart disease and can contribute to diabetes, kidney and liver problems. In fact, researchers have worked out that, worldwide,",
+            "Title": "Why sitting is bad for...",
+            "VideoId": "wUEl8KrMz14",
+            "Controls": "start=223"
+        },
+        {
+            "Text": " Caffeine can also boost positive feelings. In some neurons, the adenosine receptors are linked to receptors for another molecule called dopamine. One of dopamine's roles in the brain is to promote feelings of pleasure.",
+            "Title": "How does caffeine keep...",
+            "VideoId": "foLf5Bi9qXs",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " That actually leads to a pretty crazy story about how clones are transforming sports and your life. Well, maybe not yet, but soon. So let's take a deeper look at how the polo G.O.A.T and the pancreas are linked.",
+            "Title": "The GOAT and the...",
+            "VideoId": "mbVaNKlWffg",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " without it there would be no life on earth powered by the sun our weather moves water around the planet linking the earth skies oceans and lands into one thriving living system",
+            "Title": "The Unsinkable Lizard PIPE...",
+            "VideoId": "Ry2ipjR3HII",
+            "Controls": "start=2"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/etel-adnan.webp",
+            "Text": "My writing and my paintings do not have a direct connection in my mind. But I am sure they influence each other in the measure that everything we do is linked to whatever we are, which includes whatever we have done or are doing.",
+            "Title": "Lebanese Poet",
+            "Name": "Etel Adnan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tony-robbins.webp",
+            "Text": "The truth is that we can learn to condition our minds, bodies, and emotions to link pain or pleasure to whatever we choose. By changing what we link pain and pleasure to, we will instantly change our behaviors.",
+            "Title": "American Speaker",
+            "Name": "Tony Robbins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eve-ensler.webp",
+            "Text": "For many years now, I feel like my own body struggle has been linked and connected with women I meet in the world. I think we're in this together.",
+            "Title": "American Playwright",
+            "Name": "Eve Ensler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franz-kafka.webp",
+            "Text": "Suffering is the positive element in this world, indeed it is the only link between this world and the positive.",
+            "Title": "Novelist",
+            "Name": "Franz Kafka"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-bach.webp",
+            "Text": "The bond that links your true family is not one of blood, but of respect and joy in each other's life.",
+            "Title": "American Novelist",
+            "Name": "Richard Bach"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/genesis-p-orridge.webp",
+            "Text": "All culture, all important culture, is always linked to how people express and experience being alive.",
+            "Title": "English Musician",
+            "Name": "Genesis P-Orridge"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-maynard-keynes.webp",
+            "Text": "The importance of money flows from it being a link between the present and the future.",
+            "Title": "English Economist",
+            "Name": "John Maynard Keynes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-manuel-de-homem-christo.webp",
+            "Text": "You cannot separate your life and your music and your job; everything's linked.",
+            "Title": "",
+            "Name": "Guy-Manuel de Homem-Christo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-james.webp",
+            "Text": "A chain is no stronger than its weakest link, and life is after all a chain.",
+            "Title": "American Philosopher",
+            "Name": "William James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geert-wilders.webp",
+            "Text": "I'm very afraid of being linked with the wrong, rightist, Fascist groups.",
+            "Title": "Dutch Politician",
+            "Name": "Geert Wilders"
+        }
+    ]
+}

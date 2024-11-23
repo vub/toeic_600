@@ -1,0 +1,356 @@
+{
+    "currentWord": {
+        "wordRoot": "taste",
+        "id": 22199,
+        "phonemic": "teɪst|teɪst\r",
+        "bigId": "84597b5c-5612-4299-a751-a92de8e927e7",
+        "wordForms": [
+            "tastes",
+            "tasting",
+            "tasted",
+            "tasteless",
+            "taste"
+        ]
+    },
+    "senses": [
+        {
+            "id": "84597b5c-5612-4299-a751-a92de8e927e7",
+            "de": "The sensation realized by the tongue when it experiences food or drink.",
+            "ty": "noun",
+            "ex": "I love the taste of strawberries.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sweet taste",
+                " salty taste",
+                " bitter taste"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/84597b5c-5612-4299-a751-a92de8e927e7.webp",
+            "Tips": [
+                {
+                    "title": "Sensory Experience",
+                    "description": "Use 'taste' to describe the sensory experience involving your tongue and sense of smell.",
+                    "example": "The taste of garlic lingers in my mouth.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ybmqUWCmuEUD4tySVf85L0Knfs.webp"
+                },
+                {
+                    "title": "Subjective Perception",
+                    "description": "'Taste' can be subjective, so what tastes good to one person may not to another.",
+                    "example": "I dislike the taste of cilantro, but my friend loves it.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/iQaKeL8vwWgiDuKN55vhuF4nD4.webp"
+                },
+                {
+                    "title": "Describing Flavors",
+                    "description": "Combine 'taste' with adjectives to describe specific flavors, such as 'sweet' or 'sour'.",
+                    "example": "The sweet taste of ripe mangoes is delightful.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/aQ52ifAmcJxEIMoya4YGfZWky4.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ddf2ddc4-7a2f-4997-a2df-eab6ce1ab1e9",
+            "de": "A person's preference or liking for something.",
+            "ty": "noun",
+            "ex": "Everyone has their own taste in music.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "taste in music",
+                " taste in fashion",
+                " taste in art"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ddf2ddc4-7a2f-4997-a2df-eab6ce1ab1e9.webp",
+            "Tips": [
+                {
+                    "title": "Personal Likes",
+                    "description": "Use 'taste' when talking about preferences, especially in creative or cultural contexts.",
+                    "example": "Our tastes in books are quite different.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Differences",
+                    "description": "'Taste' often reflects cultural influences, informing preferences in food, art, and more.",
+                    "example": "His taste in clothing is influenced by his culture.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8cbbf7ac-0542-49f8-8bb0-ad9b10c059fd",
+            "de": "To experience or perceive the flavor of something by putting it in your mouth.",
+            "ty": "verb",
+            "ex": "I tasted the soup and it was delicious.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "taste good",
+                " taste bad",
+                " taste delicious"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8cbbf7ac-0542-49f8-8bb0-ad9b10c059fd.webp",
+            "Tips": [
+                {
+                    "title": "Metaphorical Use",
+                    "description": "Use 'taste' metaphorically to describe a brief experience of something larger.",
+                    "example": "She got a taste of acting in school plays and pursued it as a career.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Hint of Experience",
+                    "description": "A 'taste' can be a small hint that introduces you to a new situation or environment.",
+                    "example": "Traveling gives you a taste of different cultures.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8d395a0c-b08d-4999-9427-c5ea72f3ec4a",
+            "de": "A small amount of experience of something which gives you an idea of what it's like.",
+            "ty": "noun",
+            "ex": "I've had a taste of the superstar lifestyle and I can see why people get addicted.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "cl": [
+                "taste of success",
+                " taste of freedom",
+                " taste of adventure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8d395a0c-b08d-4999-9427-c5ea72f3ec4a.webp",
+            "Tips": [],
+            "tp": "",
+            "op": ""
+        },
+        {
+            "id": "9329c0a1-9dbf-458e-bb00-f6e67019e690",
+            "de": "To have a slight flavor of something, often something unwelcome.",
+            "ty": "verb",
+            "ex": "The water tastes a little of chlorine.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "taste of salt",
+                " taste like chocolate",
+                " taste like metal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9329c0a1-9dbf-458e-bb00-f6e67019e690.webp",
+            "Tips": [
+                {
+                    "title": "Subtle Presence",
+                    "description": "'Taste' describes when a flavor is not strong but noticeably present.",
+                    "example": "There's a taste of mint in this tea.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "75102584-a484-43d2-9700-2a51109a8408",
+            "de": "A person's ability to recognize and appreciate what is beautiful, good, or well done.",
+            "ty": "noun",
+            "ex": "She has excellent taste in art.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "good taste",
+                " bad taste",
+                " exquisite taste"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/75102584-a484-43d2-9700-2a51109a8408.webp",
+            "Tips": [
+                {
+                    "title": "Judgment of Quality",
+                    "description": "'Taste' can refer to the ability to appreciate quality and beauty in various domains.",
+                    "example": "Architects are admired for their taste in design.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subjective Assessment",
+                    "description": "'Taste' involves personal assessment and can differ greatly between individuals.",
+                    "example": "He has quite unique taste in art.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Flavour": {
+            "wordRoot": "Flavour",
+            "wordDefinition": "Flavor refers to the distinctive quality that a food or drink has, often related to its ingredients and seasoning. Taste refers to the way something feels in the mouth, including sweet, salty, sour, bitter, and umami.\n\nSo, flavor is a more general term, while taste refers specifically to the different sensations on the tongue. When you talk about the overall deliciousness of something, you might use the word flavor.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f0f707d0-51a5-4189-973b-aeb4e130cedf.webp"
+        },
+        "Gusto": {
+            "wordRoot": "Gusto",
+            "wordDefinition": "Gusto refers to the enjoyment or enthusiasm with which something is done or experienced, while taste refers to the sense of flavor or preference for certain foods or things.\n\nFor example, if you say \"I ate the pizza with gusto,\" you mean you ate it with a lot of enthusiasm or enjoyment. If you say \"I don't have a taste for spicy food,\" you mean you don't prefer or like spicy food.\n\nGusto is applicable in situations where you want to express enthusiasm, enjoyment or zest in doing something or experiencing something, while taste is more applicable when expressing your personal preference for something or the way something tastes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c552071b-2332-4600-857d-96bc337f9503.webp"
+        },
+        "Palate": {
+            "wordRoot": "Palate",
+            "wordDefinition": "Palate refers to the physical part of your mouth that can distinguish between different flavors and textures.\n\nPalate refers to the physical ability to taste, while taste refers to personal preference for certain flavors.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/33b251e7-0376-4525-8d81-9248aebf13a4.webp"
+        },
+        "Relish": {
+            "wordRoot": "Relish",
+            "wordDefinition": "Relish means to enjoy or take pleasure in something, particularly food or an experience. It implies a sense of excitement or enthusiasm.\n\nFor example, you might say that you relish the opportunity to try new foods or that you relish spending time with your friends.\n\nRelish relates to how much pleasure or excitement you feel when experiencing something, while taste is purely focused on the flavor sensations you experience when eating or drinking.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3cac470f-9b3a-40d6-befa-60b5a02117ea.webp"
+        },
+        "Save": {
+            "wordRoot": "Save",
+            "wordDefinition": "Save means to keep or preserve something for future use or to prevent harm, while taste means to sense or experience the flavor of something.\n\nFor example, you save money in a bank account so you can use it later or save leftovers in the fridge to eat later.\n\nSave is applicable when wanting to hold onto something for the future, while taste is applicable when trying to experience a flavor.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/197946a0-7b9c-4f65-bd71-019fcdfa0612.webp"
+        },
+        "Smack": {
+            "wordRoot": "Smack",
+            "wordDefinition": "Smack usually refers to a sudden, sharp sound, a blow, or a hit.\n\nIt can also mean a loud kiss, especially on the cheek. In slang, smack can mean a drug called heroin.\n\nSmack is a sound or hit, while taste is a sensation or flavor. Smack is applicable in situations where there is a sudden sound or a punch, and taste is applicable when you are talking about food or trying a new product.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e020fff6-93a7-4ceb-8b76-676947d7816f.webp"
+        },
+        "Tang": {
+            "wordRoot": "Tang",
+            "wordDefinition": "Tang refers to a sharp or sour flavor that is often associated with citrus fruits or certain candies. It is a more specific term than taste and can describe a specific element of a food or drink.\n\nSo, while tang refers to a specific aspect of taste, taste is a broader term that encompasses all of the various flavors and sensations that we experience when we eat or drink something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/55c7bba3-3a96-4b0b-8966-c394a8408cee.webp"
+        },
+        "Zest": {
+            "wordRoot": "Zest",
+            "wordDefinition": "Zest refers to the outermost layer of the rind of a citrus fruit such as lemon, lime, or orange.\n\nIn conclusion, taste refers to the actual flavor of something when consumed, while zest refers to the tangy and flavorful outermost layer of citrus fruits.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/809dbfa6-2783-4ef8-b061-e075a384842d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " This reward system is a series of electrical and chemical pathways across several different regions of the brain. It's a complicated network, but it helps answer a single, subconscious should I do that again? That warm, fuzzy feeling you get when you taste Grandma's chocolate cake? That's your reward system saying,",
+            "Title": "How sugar affects the...",
+            "VideoId": "lEXBxijQREo",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " and is now a delicacy. Unfortunately, these deep water fish don't reproduce until they're at least ten years old, making them extremely vulnerable to overfishing when the young are caught before they've had the chance to spawn. Consumer taste and prices can also have harmful effects.",
+            "Title": "Will the ocean ever run...",
+            "VideoId": "WNdR808jMSA",
+            "Controls": "start=101"
+        },
+        {
+            "Text": " diverse group of arthropods in the world being one of the earliest animals to walk on land as a result of having poor eyesight they communicate through touch they navigate their environment by feeling with their legs and then 10i and are able to taste their surroundings",
+            "Title": "Top 5 Animal Adaptations...",
+            "VideoId": "ZT8YswmQuAg",
+            "Controls": "start=412"
+        },
+        {
+            "Text": " and for years, I always used to eat them like this. What? And they taste disgusting because they're full of-- --this yellow kind of weird stuff and really pungent. It stays with you forever. But if you cook them and you barbecue them up, then it's perfect.",
+            "Title": "Danica Patrick Eats a...",
+            "VideoId": "rbQ10sGExd8",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " It would be nice to be objective in life, in many ways. The problem is that we have these color-tinted glasses as we look at all kinds of situations. For example, think about something as simple as beer. If I gave you a few beers to taste",
+            "Title": "How equal do we want the...",
+            "VideoId": "2tCcoSRZqVY",
+            "Controls": "start=10"
+        },
+        {
+            "Text": " So, breeders have to consider everything from how well apples grow in certain climates to their color, taste, and size. And sometimes finding the perfect fit means breeding something new. To create apples with desirable characteristics,",
+            "Title": "Why are there so many...",
+            "VideoId": "mQePz62zkqA",
+            "Controls": "start=52"
+        },
+        {
+            "Text": " And I think once you've had that taste, it's just you can't let it go. It's not quite adrenaline junkie stuff, but you want to do it again, and so it would be absolutely incredible to do it twice in a lifetime. What a privilege.",
+            "Title": "Exploring Pluto's...",
+            "VideoId": "Sl26XAVbEE4",
+            "Controls": "start=446"
+        },
+        {
+            "Text": " we take that flour and we cook it we bake bread and the heat of the fire makes the food taste nice but most importantly helps to break down the food so that we can absorb it so in a very real sense the mill stones are like a",
+            "Title": "How to rebuild the world...",
+            "VideoId": "CdTzsbqQyhY",
+            "Controls": "start=438"
+        },
+        {
+            "Text": " meeting the writer halfway in the imaginative play of creating a dynamic world of the senses. So when you write, use well-chosen words to engage sound, sight, taste, touch, smell, and movement.",
+            "Title": "How to write descriptivel...",
+            "VideoId": "RSoRzTtwgP4",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " they have proliferated virtually exterminated the local fish stocks and they've now developed a taste for pigeon",
+            "Title": "The Fish That Hunts...",
+            "VideoId": "on7cixfDl8I",
+            "Controls": "start=103"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-spielberg.webp",
+            "Text": "I don't drink coffee. I've never had a cup of coffee in my entire life. That's something you probably don't know about me. I've hated the taste since I was a kid.",
+            "Title": "American Director",
+            "Name": "Steven Spielberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lucius-annaeus-seneca.webp",
+            "Text": "No man enjoys the true taste of life, but he who is ready and willing to quit it.",
+            "Title": "Roman Statesman",
+            "Name": "Lucius Annaeus Seneca"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-herbert.webp",
+            "Text": "Read as you taste fruit or savor wine, or enjoy friendship, love or life.",
+            "Title": "British Poet",
+            "Name": "George Herbert"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bertolt-brecht.webp",
+            "Text": "Sometimes it's more important to be human, than to have good taste.",
+            "Title": "German Poet",
+            "Name": "Bertolt Brecht"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mel-brooks.webp",
+            "Text": "Bad taste is simply saying the truth before it should be said.",
+            "Title": "American Comedian",
+            "Name": "Mel Brooks"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/billie-holiday.webp",
+            "Text": "A kiss that is never tasted, is forever and ever wasted.",
+            "Title": "American Musician",
+            "Name": "Billie Holiday"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/florence-pugh.webp",
+            "Text": "My characters do have some fantastic taste in men.",
+            "Title": "English Actress",
+            "Name": "Florence Pugh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-shakespeare.webp",
+            "Text": "Praise us as we are tasted, allow us as we prove.",
+            "Title": "English Playwright",
+            "Name": "William Shakespeare"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hattie-carnegie.webp",
+            "Text": "Taste is so much more important than fashion.",
+            "Title": "Austrian Businesswoman",
+            "Name": "Hattie Carnegie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-chow.webp",
+            "Text": "There's no common taste in this world.",
+            "Title": "Chinese Actor",
+            "Name": "Stephen Chow"
+        }
+    ]
+}

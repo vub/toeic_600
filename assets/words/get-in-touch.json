@@ -1,0 +1,49 @@
+{
+    "currentWord": {
+        "wordRoot": "get in touch",
+        "id": 1,
+        "phonemic": "ɡɛt ɪn tʌtʃ",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "f1e2d3c4-b5a6-7890-1234-bcaef5678901",
+            "de": "to communicate with someone, typically to maintain a relationship or check in on them",
+            "ty": "phrasal verb",
+            "ex": "I’ll get in touch with you later to finalize the details.",
+            "use": "used to indicate establishing contact, especially by phone or email",
+            "sy": "contact, reach out",
+            "op": "",
+            "re": "",
+            "tp": "informal",
+            "cl": [
+                "get in touch with someone",
+                "get in touch through email",
+                "get in touch over the phone"
+            ],
+            "ImageSrc": "./senses/cdcd8a73-5f2a-4fb1-b876-3c6be67717d0.webp",
+            "Tips": [
+                {
+                    "title": "Professional Context",
+                    "description": "Use 'get in touch' when initiating communication for professional or formal matters.",
+                    "example": "Our representative will get in touch with you to discuss further.",
+                    "imageUrl": "./tips/404b2913-b171-48e5-9eee-88642cd4fed1.webp"
+                },
+                {
+                    "title": "Casual Context",
+                    "description": "Use 'get in touch' to reconnect with friends or family members informally.",
+                    "example": "Let’s get in touch when you’re back in town.",
+                    "imageUrl": "./tips/ad6926f9-a5ff-4658-8756-f71f9854d5ef.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Elementary": {
+            "wordRoot": "contact",
+            "wordDefinition": "‘Get in touch’ is slightly more informal and implies initiating or continuing communication, whereas ‘contact’ is more formal and straightforward.",
+            "wordImage": ""
+        }
+    }
+}

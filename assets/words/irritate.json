@@ -1,0 +1,287 @@
+{
+    "currentWord": {
+        "wordRoot": "irritate",
+        "id": 2272,
+        "phonemic": "ˈɪrɪteɪt|ˈɪrɪteɪt\r",
+        "bigId": "6f5b398a-d220-4990-b7f7-c946c66d2509",
+        "wordForms": [
+            "irritates",
+            "irritating",
+            "irritated",
+            "irritation",
+            "irritate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "6f5b398a-d220-4990-b7f7-c946c66d2509",
+            "de": "To make someone annoyed or a bit angry",
+            "ty": "verb",
+            "ex": "The constant noise from the machine started to irritate him",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "irritate someone",
+                " irritate the eyes",
+                " irritate the skin"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6f5b398a-d220-4990-b7f7-c946c66d2509.webp",
+            "Tips": [
+                {
+                    "title": "Expressing Annoyance",
+                    "description": "Use 'irritate' to describe actions or behaviors that are annoying but not extremely upsetting.",
+                    "example": "Chewing with an open mouth can irritate people nearby.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/aPT67T6LgTM9pW80sJLRKHrRE.webp"
+                },
+                {
+                    "title": "Subtle Disturbance",
+                    "description": "'Irritate' suggests a smaller, often continuous disturbance rather than a single, intense action.",
+                    "example": "His habit of interrupting me mid-sentence really irritates me.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tH3lPxnabs3gGKirC9tKn6g9Ivg.webp"
+                }
+            ]
+        },
+        {
+            "id": "f8b2cf3a-dace-48db-9611-461275ba44ee",
+            "de": "To cause an uncomfortable feeling in a part of the body",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The cream might irritate the skin",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "irritate the skin",
+                " irritate the eye",
+                " irritate the throat"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f8b2cf3a-dace-48db-9611-461275ba44ee.webp",
+            "Tips": [
+                {
+                    "title": "Physical Discomfort",
+                    "description": "Use 'irritate' to describe mild physical discomfort, often caused by a reaction to something.",
+                    "example": "Be careful, that plant may irritate your skin.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Medical Context",
+                    "description": "'Irritate' in medical terms often involves inflammation or sensitivity as a reaction.",
+                    "example": "This laundry detergent may irritate sensitive skin.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "45aac2f8-9f0b-4408-b3ca-2a40e0a99b41",
+            "de": "To make something such as a situation or problem worse",
+            "ty": "verb",
+            "ex": "His remarks could irritate the already delicate situation",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "irritate the situation",
+                " irritate the problem",
+                " irritate the issue"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/45aac2f8-9f0b-4408-b3ca-2a40e0a99b41.webp",
+            "Tips": [
+                {
+                    "title": "Worsening Situations",
+                    "description": "In complex situations, 'irritate' means contributing to the problem, making it more problematic.",
+                    "example": "His careless comments only served to irritate tensions in the meeting.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Avoid During Conflicts",
+                    "description": "Avoid using 'irritate' aimed at someone's personality during conflict; it might escalate the situation.",
+                    "example": "Saying 'You're irritating me' during an argument is not constructive.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Aggravate": {
+            "wordRoot": "Aggravate",
+            "wordDefinition": "Aggravate means to make something worse or more serious. For example, if someone with a sprained ankle goes for a run, it will aggravate the injury and make it worse.\n\nSo irritate is used for minor annoyances, and aggravate is used for situations where something is being made worse.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6a05c792-a0a8-406d-af03-70b0bd42fcb6.webp"
+        },
+        "Anger": {
+            "wordRoot": "Anger",
+            "wordDefinition": "Anger and irritate are two different emotions, though they both involve a feeling of annoyance or displeasure. Anger is a stronger, more intense emotion that often involves feeling threatened or hurt in some way.\n\nIn terms of where each one is applicable, anger is often used to describe more extreme situations, such as when someone is treated unfairly or harmed in some way.\n\nAnger is a stronger, more intense emotion that is often associated with feeling threatened or hurt, while irritation is a milder emotion that involves feeling bothered or frustrated.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9d2cb0bb-c252-41d5-a724-b13847ade8b8.webp"
+        },
+        "Annoy": {
+            "wordRoot": "Annoy",
+            "wordDefinition": "Both words mean to bother or cause discomfort, but there is a slight difference. Annoy is used for situations where someone is bothering you, but not to the extent where you become very upset or mad.\n\nIrritate is used when something bothers you to the point of making you a bit angry or frustrated. For example, a person talking loudly on their phone during a movie can be annoying, but their constant talking and interruptions might irritate other people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20fced07-aad2-4888-b76e-710e3027474b.webp"
+        },
+        "Bother": {
+            "wordRoot": "Bother",
+            "wordDefinition": "Both words bother and irritate describe a feeling of annoyance, but the difference between them lies in the intensity and cause of the annoyance.\n\nBother is a milder term compared to irritate and usually implies a general feeling of inconvenience or annoyance caused by something that is not very significant.\n\nFor example, if you are bothered by the sound of someone tapping their foot, it means that it's not a big problem, but it's still annoying you a little bit.\n\nIrritate is a stronger term than bother and indicates a higher level of annoyance. It usually refers to something that is more persistent and noticeable, like a buzzing mosquito or a nagging person.\n\nWhen someone irritates you, their behavior is likely to continue and consistently bother you over time.\n\nBother describes a mild annoyance caused by something insignificant, while irritate describes a stronger annoyance caused by something more persistent or troublesome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/87d6395a-581a-46e5-8681-5c3b49d82fba.webp"
+        },
+        "Disturb": {
+            "wordRoot": "Disturb",
+            "wordDefinition": "Disturb means to cause a disruption or interruption in something, like a quiet environment or a peaceful moment.\n\nFor instance: A loud noise can disturb studying or reading. A disturbing news article might upset someone.\n\nIn summary, both words involve a kind of disturbance, but disturb is about interrupting or upsetting something, while irritate is more about causing annoyance or frustration in someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f48e628-b8cd-403c-ba42-06bdbdd67fab.webp"
+        },
+        "Exasperate": {
+            "wordRoot": "Exasperate",
+            "wordDefinition": "Exasperate means to annoy or frustrate someone to the point of anger or exasperation. It implies a more intense level of annoyance than 'irritate.' For example, a difficult problem or a person who repeatedly does something annoying can exasperate someone.\n\nIrritate means to annoy or bother someone to a lesser extent than 'exasperate.' It can refer to things like small annoyances, such as a mosquito buzzing around your ear or an itchy tag in your clothing.\n\nBoth words describe the feeling of being annoyed, but exasperate implies a more intense level of annoyance than 'irritate.'",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b00a4c0-0396-4100-839e-d42f85f22646.webp"
+        },
+        "Pester": {
+            "wordRoot": "Pester",
+            "wordDefinition": "Pester refers to someone or something that keeps bothering you or asking for something repeatedly. For example, a younger sibling might pester you to play with them even when you're busy.\n\nIrritate describes something that is annoying, whereas pester refers to someone or something that bothers you repeatedly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0630aadb-8c3a-4668-9519-f7fe80a5722c.webp"
+        },
+        "Provoke": {
+            "wordRoot": "Provoke",
+            "wordDefinition": "Provoke means to evoke a reaction or response from someone, often intentionally. It's when someone is purposely trying to make you angry or upset.\n\nFor example, teasing your younger sibling can provoke them into getting angry.\n\nIrritate describes when something is bothering you, while provoke describes when someone is intentionally trying to make you react a certain way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b6fbca12-5483-451f-a03d-4ca2cebac470.webp"
+        },
+        "Ruffle": {
+            "wordRoot": "Ruffle",
+            "wordDefinition": "Ruffle means to upset someone or to make them angry. For example, if someone insults or disrespects another person, it can ruffle their feathers and make them upset.\n\nIrritate describes something that annoys or bothers someone, while ruffle describes something that upsets or angers someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c22de91e-84d2-4d54-b495-8cdc9d401ef9.webp"
+        },
+        "Vex": {
+            "wordRoot": "Vex",
+            "wordDefinition": "Vex means to cause someone to feel frustrated or worried, which can lead to anger or agitation. It often refers to something that causes deeper emotional distress, like a difficult situation at school or work or a personal relationship problem.\n\nBoth words describe negative emotions caused by something or someone, but irritate is used for a smaller annoyance and vex is used for more significant emotional distress.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bd1cd355-6564-4166-93db-5c85ac8d03ae.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " they're less irritating than carbon-based chemical sunscreens. These mineral-based sunscreens are preferential for the environment, too. If you plan on catching rays while splashing in a river or the ocean, keep in mind that carbon-based chemical sunscreens can harm marine life. Take coral reefs, for example.",
+            "Title": "Which sunscreen should...",
+            "VideoId": "JX8rv_natkw",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " What's obvious to you may not be to the next person. And the opposite of the dumbest idea might just turn out to be the smartest. What about all that dumb stuff that happens in real life? Have you ever noticed how much comedy revolves around things that irritate, frustrate, and humiliate us?",
+            "Title": "How to make your writing...",
+            "VideoId": "zNTxSBgDNp4",
+            "Controls": "start=185"
+        },
+        {
+            "Text": " and some of them are going to be irritating, but they're all related to me. So this email inspired me to dive into genealogy, which I always thought was a very staid and proper field, but it turns out it's going through a fascinating revolution, and a controversial one.",
+            "Title": "The world's largest...",
+            "VideoId": "2_lBiFZ85d0",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " I need help with my wife. Lately, everything I do irritates her, even small things, like the noise I make when I chew. At breakfast, I noticed that she even tries to secretly put extra milk in my granola so it won't be as crunchy.\"",
+            "Title": "How changing your story...",
+            "VideoId": "O_MQr4lHm0c",
+            "Controls": "start=677"
+        },
+        {
+            "Text": " owns really get into your socks and really irritate you so wearing gaiters is one of the things it really helps fighting instead among apart from the ticks that's one of the reasons why we use that and there's my guy says yes you",
+            "Title": "Safari Live - Day 146 PIPE...",
+            "VideoId": "TW66pnd15PY",
+            "Controls": "start=2434"
+        },
+        {
+            "Text": " That if they eat a lot of grass, it will actually help them regurgitate and it will stop the irritation in the stomach. So if they're not feeling well, they know it will help them feel better. So, yeah, How do lions mate?",
+            "Title": "Lion vs Tiger - Who...",
+            "VideoId": "L8QGUQil3k0",
+            "Controls": "start=232"
+        },
+        {
+            "Text": " dyrus eye contact she could not stand being moved touched or help and would begin to moan and bite on her wrist in her distress he's all very different now she now loves being lost Katie went from being irritated at",
+            "Title": "Neglect in child-care...",
+            "VideoId": "7c4m1N0E1lY",
+            "Controls": "start=253"
+        },
+        {
+            "Text": " technique it's not unusual for the females to reject the amorous advances of their suitors it must be very irritating being followed around day and night sometimes they express their feelings quite locally",
+            "Title": "Mating habits of the...",
+            "VideoId": "mnQHHf2cs1E",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " it doesn't really help it actually frustrates them or pinches him you know it just creates an irritation my suggestion is to use it when there's not so much intensity",
+            "Title": "A Rescue from Euthanasia...",
+            "VideoId": "U52lzr1dnaQ",
+            "Controls": "start=60"
+        },
+        {
+            "Text": " Now, obviously I said this in a fit of mild irritation. But it would never have occurred to me to think",
+            "Title": "Chimamanda Ngozi...",
+            "VideoId": "D9Ihs241zeg",
+            "Controls": "start=683"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paul-dano.webp",
+            "Text": "I'd always been fascinated by people who allow themselves to be so rude and irritated and foul-mouthed and hostile, but usually you can sense there's something vulnerable beneath them - a shield they use to protect that vulnerable side. Finally, when they expose that soft spot, it's kind of touching.",
+            "Title": "American Actor",
+            "Name": "Paul Dano"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-oldman.webp",
+            "Text": "I know what it means to do a job... I worked in a factory. I respect people in the service industry. What irritates me more is when people aren't respectful. There's a lot of nonsense behavior, especially in a place like Hollywood. The money, the power, they create little monsters.",
+            "Title": "English Actor",
+            "Name": "Gary Oldman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geddy-lee.webp",
+            "Text": "My diet, my regime, the whole life I have on the road has always got that little bit of stress because I'm always afraid I'm going to get a cold. And it's just such a nightmare when you got a cold or an irritation and you have to do a show.",
+            "Title": "Canadian Musician",
+            "Name": "Geddy Lee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dalai-lama.webp",
+            "Text": "I am sometimes sad when I hear the personal stories of Tibetan refugees who have been tortured or beaten. Some irritation, some anger comes. But it never lasts long. I always try to think at a deeper level, to find ways to console.",
+            "Title": "Tibetan Leader",
+            "Name": "Dalai Lama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jamie-hyneman.webp",
+            "Text": "We seriously irritate each other and don't want to spend any time together. And yet we have a profound respect for the partnership. We're like a couple of dogs with a rag.",
+            "Title": "American Entertainer",
+            "Name": "Jamie Hyneman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nick-moran.webp",
+            "Text": "No one thinks they're irritating. Nobody thinks they're boring. So if you're playing a character like that you have to play them as how they think of themselves.",
+            "Title": "English Actor",
+            "Name": "Nick Moran"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/evelyn-underhill.webp",
+            "Text": "After all it is those who have a deep and real inner life who are best able to deal with the irritating details of outer life.",
+            "Title": "English Writer",
+            "Name": "Evelyn Underhill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joan-didion.webp",
+            "Text": "I don't lead a writer's life. And I think that can be a source of suspicion and irritation to some people.",
+            "Title": "American Author",
+            "Name": "Joan Didion"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/louis-auchincloss.webp",
+            "Text": "Perfection irritates as well as it attracts, in fiction as in life.",
+            "Title": "American Novelist",
+            "Name": "Louis Auchincloss"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pasquier-quesnel.webp",
+            "Text": "The truth only irritates those it enlightens, but does not convert.",
+            "Title": "French Theologian",
+            "Name": "Pasquier Quesnel"
+        }
+    ]
+}

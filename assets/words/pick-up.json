@@ -1,0 +1,202 @@
+{
+    "currentWord": {
+        "wordRoot": "pick up",
+        "id": 42983,
+        "phonemic": "pɪk ʌp|pɪk ʌp",
+        "bigId": "cc9a5385-ead9-47df-8e1c-7d5e5b1405c7",
+        "wordForms": [
+            "pick up"
+        ]
+    },
+    "senses": [
+        {
+            "id": "cc9a5385-ead9-47df-8e1c-7d5e5b1405c7",
+            "de": "To lift something or someone",
+            "ty": "phrasal verb",
+            "ex": "Can you please pick up those books from the floor?",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "pick up the phone",
+                " pick up the pace",
+                " pick up the pieces"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cc9a5385-ead9-47df-8e1c-7d5e5b1405c7.webp",
+            "Tips": [
+                {
+                    "title": "Physical Action",
+                    "description": "Used when talking about a physical act involving hands or arms.",
+                    "example": "Pick up your toys before bedtime.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DFqCb33NTmfWPH2iP2WFSI5ta6A.webp"
+                },
+                {
+                    "title": "Helping Others",
+                    "description": "Often used to suggest helping by holding or carrying something for someone.",
+                    "example": "Can you pick up these bags for me?",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ndQSe5PCa2FAaOJ39BWdwc7eDqM.webp"
+                }
+            ]
+        },
+        {
+            "id": "b21c6efb-2039-4418-a10c-2ec85acb5ca4",
+            "de": "To learn new skill or knowledge",
+            "ty": "phrasal verb",
+            "ex": "She picked up French during her stay in Paris.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "pick up a skill",
+                " pick up a language",
+                " pick up knowledge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b21c6efb-2039-4418-a10c-2ec85acb5ca4.webp",
+            "Tips": [
+                {
+                    "title": "Passive Learning",
+                    "description": "Describes learning that happens casually and without formal study.",
+                    "example": "He picked up some Italian by listening to songs.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subconscious Process",
+                    "description": "Can indicate learning without realizing it at the time.",
+                    "example": "Kids can pick up bad habits easily.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d9d10f31-bff0-4e11-b596-aadf349ee8de",
+            "de": "To get better, improve",
+            "ty": "phrasal verb",
+            "ex": "Business has picked up since the new manager started.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "pick up speed",
+                " pick up the pace",
+                " pick up momentum"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d9d10f31-bff0-4e11-b596-aadf349ee8de.webp",
+            "Tips": [
+                {
+                    "title": "Change Over Time",
+                    "description": "Suggests a gradual improvement or increase over a period.",
+                    "example": "The wind is picking up; take a jacket.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporary Decline",
+                    "description": "Used when after a decline things start to get better.",
+                    "example": "Sales are slow now but should pick up soon.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6dab16bc-742f-483b-bb97-4c28806102a4",
+            "de": "To collect someone from a certain place",
+            "ty": "phrasal verb",
+            "ex": "I'll pick you up at 5 from the train station.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "pick up from school",
+                " pick up from work",
+                " pick up from station"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6dab16bc-742f-483b-bb97-4c28806102a4.webp",
+            "Tips": [
+                {
+                    "title": "Scheduled Arrival",
+                    "description": "Used when arranging a specific time and place to get someone.",
+                    "example": "I'll pick you up after your meeting ends.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reliability",
+                    "description": "Shows promise of punctuality and presence for someone waiting.",
+                    "example": "Don't worry, I will always pick you up on time.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ab4caf0e-6346-446c-9b96-6f81f1e8bdf2",
+            "de": "To buy something",
+            "ty": "phrasal verb",
+            "ex": "I'll pick up some milk on the way home.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "pick up groceries",
+                " pick up supplies",
+                " pick up a copy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ab4caf0e-6346-446c-9b96-6f81f1e8bdf2.webp",
+            "Tips": [
+                {
+                    "title": "Along the Way",
+                    "description": "Indicates buying something while already on a trip or outing.",
+                    "example": "Could you pick up some bread while you're out?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Casual Purchase",
+                    "description": "Used when the purchase is unplanned or not the main purpose of a trip.",
+                    "example": "I picked up a few snacks at the gas station.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8af36909-e727-422f-843d-502a9e7ff808",
+            "de": "To start a casual relationship with someone",
+            "ty": "phrasal verb",
+            "ex": "He tried to pick up a girl at the club.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "pick up a girl",
+                " pick up a guy",
+                " pick up someone"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8af36909-e727-422f-843d-502a9e7ff808.webp",
+            "Tips": [
+                {
+                    "title": "Social Context",
+                    "description": "Often said about meeting someone with a romantic intent in a social setting.",
+                    "example": "He's going to the party to try and pick up.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Slight Suggestiveness",
+                    "description": "Can imply a less serious, more casual intention than formal dating.",
+                    "example": "People often go to bars to pick up dates.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {},
+    "videos": [],
+    "quotes": []
+}

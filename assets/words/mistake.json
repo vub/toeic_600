@@ -1,0 +1,290 @@
+{
+    "currentWord": {
+        "wordRoot": "mistake",
+        "id": 15601,
+        "phonemic": "mɪˈsteɪk|mɪˈsteɪk\r",
+        "bigId": "645aec51-4bee-4769-a0a8-540647914ee5",
+        "wordForms": [
+            "mistakes",
+            "mistaking",
+            "mistook",
+            "mistake"
+        ]
+    },
+    "senses": [
+        {
+            "id": "645aec51-4bee-4769-a0a8-540647914ee5",
+            "de": "Something that is not correct, a wrong action or statement",
+            "ty": "noun",
+            "ex": "She made a mistake in her calculations and we lost the game.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make a mistake",
+                " serious mistake",
+                " common mistake"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/645aec51-4bee-4769-a0a8-540647914ee5.webp",
+            "Tips": [
+                {
+                    "title": "Apologies Expected",
+                    "description": "When acknowledging a mistake in English-speaking cultures, saying sorry is often expected.",
+                    "example": "I'm sorry, that was my mistake for not double-checking the report.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1ig671S5kCh0o3JJTMh4kjbXd9c.webp"
+                },
+                {
+                    "title": "Learn from Errors",
+                    "description": "Discussing mistakes can be a sign of wanting to improve and not repeat them.",
+                    "example": "My last mistake taught me to always verify my sources.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/TNPrTUq1qNlbncIThQn1pOHDo.webp"
+                },
+                {
+                    "title": "Politeness Factor",
+                    "description": "Using 'small', 'tiny' or 'slight' before 'mistake' can make it sound less severe.",
+                    "example": "There’s a small mistake here; you forgot to include the date.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gLX7qIQnrkCra9AyBrGAz95NkFg.webp"
+                }
+            ]
+        },
+        {
+            "id": "4a9615b1-8881-4355-86b6-bcdaeb1e3eb0",
+            "de": "To understand, judge, or identify something wrongly",
+            "ty": "verb",
+            "ex": "I mistook you for my brother in the dark.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mistake someone for",
+                " mistake something for",
+                " mistake for"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4a9615b1-8881-4355-86b6-bcdaeb1e3eb0.webp",
+            "Tips": [
+                {
+                    "title": "Identity Confusion",
+                    "description": "Mistaking people can lead to awkward social situations. Always clarify if unsure.",
+                    "example": "Oh, I'm sorry, I mistook you for someone else!\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Context Clues",
+                    "description": "Pay attention to context to avoid mistaking things, like sarcasm for seriousness.",
+                    "example": "I mistook his sarcasm for sincerity and agreed with him.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Expect Corrections",
+                    "description": "If you mistake something, be prepared for someone to correct you. It's how you learn.",
+                    "example": "She corrected me when I mistook the plant for a weed.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bfb2e9af-b260-40d6-bb86-745a827b146e",
+            "de": "An action or judgment that is misguided or wrong",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "His mistake of fact led to a wrongful conviction.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "mistake of fact",
+                " mistake of law",
+                " innocent mistake"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bfb2e9af-b260-40d6-bb86-745a827b146e.webp",
+            "Tips": [
+                {
+                    "title": "Legal Ramifications",
+                    "description": "In legal contexts, a mistake can have serious consequences; precision is key.",
+                    "example": "Due to a mistake of law, the contract was deemed void.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Excusable",
+                    "description": "Claiming something was a 'mistake' doesn't always excuse legal or ethical responsibilities.",
+                    "example": "Despite his claims, that serious mistake cost him a penalty.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Factual Accuracy",
+                    "description": "Distinguishing between 'mistake of fact' and 'mistake of law' helps assess legal implications.",
+                    "example": "Her mistake of fact did not excuse her from the liability imposed by law.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Blunder": {
+            "wordRoot": "Blunder",
+            "wordDefinition": "Blunder describes a more serious error, a mistake that was made due to careless, reckless or foolish behaviour.\n\nIt is a more severe form of mistake that often has negative consequences. For example, misinterpreting a client's request and delivering the wrong product or deleting an important file without backing it up would be considered a blunder.\n\nTo sum it up, mistakes are unintentional errors that can be forgiven, while blunders are careless actions that can lead to serious consequences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7738f716-8d81-4088-bb92-cf14d1603d55.webp"
+        },
+        "Error": {
+            "wordRoot": "Error",
+            "wordDefinition": "The words error and mistake are quite similar in meaning.\n\nHowever, error usually refers to something that is done incorrectly because of a lack of knowledge or understanding, while mistake refers to a wrong action or decision made based on faulty judgment or misunderstanding.\n\nFor example, if someone solves a math problem incorrectly because they don't know the formula, that would be an error. If someone makes a decision to invest in a stock that later becomes worthless, that would be a mistake made due to faulty judgment.\n\nError tends to be more technical and scientific, while mistake is used in more everyday situations. But both words can be used interchangeably depending on the context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/874061fa-a165-41b6-840f-2ce255552d9a.webp"
+        },
+        "Fault": {
+            "wordRoot": "Fault",
+            "wordDefinition": "Fault refers to a problem or flaw that is someone's responsibility or that they are to blame for. For example, if a car crashes because someone didn't look both ways before driving through a red light, it is their fault.\n\nFault is used when talking about something more serious or consequential, while mistake is used when discussing something less serious or accidental.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d76fa7f9-ecd2-4446-a1bb-33caf46aaeb9.webp"
+        },
+        "Lapse": {
+            "wordRoot": "Lapse",
+            "wordDefinition": "A lapse is a momentary or temporary failure to behave or act in the expected or appropriate way.\n\nIt is usually unintentional and can be caused by forgetfulness, distraction or even exhaustion. For example, forgetting to turn off the oven after cooking or missing a deadline due to being too busy with other tasks could be considered a lapse.\n\nA mistake is an error or fault caused by a wrong decision or an incorrect action taken by a person. Unlike lapses, mistakes can be intentional or unintentional, but they usually result from a lack of knowledge, misunderstanding, poor judgement or carelessness.\n\nA lapse typically involves a brief moment of forgetfulness or inattention, whereas a mistake is a broader term that refers to broader misjudgements or errors in action or decision-making.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ce232dfc-773a-4a85-a07a-57b05530d161.webp"
+        },
+        "Misstep": {
+            "wordRoot": "Misstep",
+            "wordDefinition": "Both misstep and mistake refer to an error or a wrong decision.\n\nHowever, a misstep refers to a specific action or movement that was taken, while a mistake can refer to any kind of error, whether it be in action or decision-making.\n\nFor example, if you are dancing and you accidentally step on someone's foot, that would be a misstep. If you were to choose the wrong answer on a test, that would be a mistake.\n\nA misstep is a more narrow term referring to a misstep in action, while a mistake is a more general term referring to any kind of error.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/187a560f-049e-430c-a326-b9987d471e34.webp"
+        },
+        "Oversight": {
+            "wordRoot": "Oversight",
+            "wordDefinition": "An oversight is when you didn't realize something important that needed to be done or taken care of. It's not necessarily because you didn't know what to do or didn't do it correctly, but more because you just missed it.\n\nFor example, if you forgot to send an important email, that would be an oversight.\n\nA mistake is doing something wrong because you didn't know how to do it right, whereas an oversight is forgetting to do something important that you actually knew you needed to do.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61de1a08-5677-409b-a26f-c587ad39d35c.webp"
+        },
+        "Slip": {
+            "wordRoot": "Slip",
+            "wordDefinition": "A slip is a mistake made due to lack of care or attention in a particular moment.\n\nIt is usually unintentional and can be a result of physical or mental factors. For example, spilling a drink, slipping on an icy sidewalk, or forgetting a word while speaking.\n\nA mistake is usually related to knowledge or comprehension, while a slip is more related to a physical or mental action.\n\nBoth can happen to anyone, but a mistake can usually be prevented with more knowledge or attention, whereas slips may require more physical or mental abilities in the moment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ff8dacd4-d655-48a3-bf26-07a55d17f687.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " that you cannot simply be curious, that you are not afforded the luxury of making a mistake, that someone's implicit bias might be the reason you don't wake up in the morning. But this cannot be what defines us. Because we have parents who raised us to understand that our bodies weren't meant for the backside of a bullet,",
+            "Title": "How to raise a Black son...",
+            "VideoId": "Us70DN2XSfM",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " All his knowledge had come from his sensory perceptions of the world. Same as you, right? You know you're watching this video with your eyes, hearing it with your ears. Your senses show you the world as it is. They aren't deceiving you, but sometimes they do. You might mistake a person far away for someone else,",
+            "Title": "How do you know you...",
+            "VideoId": "LmxlcJFTaYU",
+            "Controls": "start=26"
+        },
+        {
+            "Text": " translate from a sketch to the actual prototype. Instead of using fancy paper, start with the cheap stuff and allow yourself to make mistakes and adjustments. This prototype lets you see how your preliminary sketches will come to life. You will want to first draw all individual parts on a single sheet,",
+            "Title": "Making a TED-Ed Lesson:...",
+            "VideoId": "RZR_b753ZJ0",
+            "Controls": "start=103"
+        },
+        {
+            "Text": " when he uses that diamond shaped symbol with the two lines inside you tell me what you want me to do with this closed container okay open all right good that was actually a very good choice because there's a little something in there for him mistakes are are actually quite rare",
+            "Title": "Incredible Orangutan...",
+            "VideoId": "MFQS7kOCwoI",
+            "Controls": "start=851"
+        },
+        {
+            "Text": " This is one of five plastic-filled gyres in the world's seas. Places where the pollutants turn the water into a cloudy plastic soup. Some animals, like seabirds, get entangled in the mess. They, and others, mistake the brightly colored plastic bits for food.",
+            "Title": "What really happens to...",
+            "VideoId": "_6xlNyWPpB8",
+            "Controls": "start=140"
+        },
+        {
+            "Text": " More importantly, think about how you learned it. You were a baby when you first started speaking, and even though you spoke the language incorrectly you were allowed to make mistakes. And the more mistakes you made, the more your parents smiled.",
+            "Title": "Music as a language -...",
+            "VideoId": "3yRMbH36HRE",
+            "Controls": "start=92"
+        },
+        {
+            "Text": " of this environment the boys and girls mixed was a nurturing caring environment he weren't slapped if he made a mistake and this contrast would lay the foundation for an identity crisis for my identity crisis that would manifest",
+            "Title": "An inside look at...",
+            "VideoId": "RK8zb8dA4G4",
+            "Controls": "start=68"
+        },
+        {
+            "Text": " You tell me what you want me to do with this first container, okay. Open, alright, good. That was actually a very good choice because there's a little something in there. For him, mistakes are actually quite rare.",
+            "Title": "Orangutan understands 72...",
+            "VideoId": "kwslHICR7K4",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " He invented carpentry and all the tools used for it. He designed the first bathhouse and the first dance floor. He made sculptures so lifelike that Hercules mistook them for actual men.",
+            "Title": "The myth of Icarus and...",
+            "VideoId": "3s2QPQnuaGk",
+            "Controls": "start=53"
+        },
+        {
+            "Text": " How can you even think about taking that away from somebody? MAN No mistakes tomorrow. I'm starting to become afraid. If you're pushing the edge, eventually you find the edge.",
+            "Title": "Free Solo - Trailer PIPE...",
+            "VideoId": "urRVZ4SW7WU",
+            "Controls": "start=109"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-gaiman.webp",
+            "Text": "I hope that in this year to come, you make mistakes. Because if you are making mistakes, then you are making new things, trying new things, learning, living, pushing yourself, changing yourself, changing your world. You're doing things you've never done before, and more importantly, you're doing something.",
+            "Title": "British Author",
+            "Name": "Neil Gaiman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/melania-trump.webp",
+            "Text": "I think is important to give a child room to make mistakes in order to learn. Mistakes build wings so later in life they can fly and go on their own. Let them fall once in awhile... Be their friend and parent as well. When they're in trouble, they will come to you first. Don't try to change their opinion.",
+            "Title": "American First Lady",
+            "Name": "Melania Trump"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-lopez.webp",
+            "Text": "I know that being seen as a role model means taking responsibility for all my actions. I am human, and of course, sometimes I make mistakes. But I promise that when I fall, I get back up.",
+            "Title": "American Musician",
+            "Name": "Jennifer Lopez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joel-osteen.webp",
+            "Text": "You can live your life angry, bitter, mad at somebody or even guilty, not letting go of your own mistakes, but you won't receive the good things God has in store.",
+            "Title": "American Clergyman",
+            "Name": "Joel Osteen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-wright.webp",
+            "Text": "When I woke up this morning my girlfriend asked me, 'Did you sleep good?' I said 'No, I made a few mistakes.",
+            "Title": "American Comedian",
+            "Name": "Steven Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/buddha.webp",
+            "Text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+            "Title": "Leader",
+            "Name": "Buddha"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/future.webp",
+            "Text": "I've made a lot of mistakes in my life. I wouldn't say musically, though.",
+            "Title": "American Musician",
+            "Name": "Future"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chuck-palahniuk.webp",
+            "Text": "Your birth is a mistake you'll spend your whole life trying to correct.",
+            "Title": "American Novelist",
+            "Name": "Chuck Palahniuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-nietzsche.webp",
+            "Text": "Without music, life would be a mistake.",
+            "Title": "German Philosopher",
+            "Name": "Friedrich Nietzsche"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-kardashian.webp",
+            "Text": "I've made mistakes in my life for sure.",
+            "Title": "American Celebrity",
+            "Name": "Kim Kardashian"
+        }
+    ]
+}

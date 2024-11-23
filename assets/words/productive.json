@@ -1,0 +1,321 @@
+{
+    "currentWord": {
+        "wordRoot": "productive",
+        "id": 20341,
+        "phonemic": "prəˈdʌktɪv|prəˈdʌktɪv\r",
+        "bigId": "cc0beedd-cd76-451f-844f-881fb76f5e68",
+        "wordForms": [
+            "productively",
+            "unproductive",
+            "productive"
+        ]
+    },
+    "senses": [
+        {
+            "id": "cc0beedd-cd76-451f-844f-881fb76f5e68",
+            "de": "Able to produce or make a lot of something",
+            "ty": "adjective",
+            "ex": "He had a particularly productive day at work yesterday.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "productively",
+                " productive use",
+                " productive time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cc0beedd-cd76-451f-844f-881fb76f5e68.webp",
+            "Tips": [
+                {
+                    "title": "Quantity Emphasis",
+                    "description": "Focuses on the high quantity or volume of work performed or items produced.",
+                    "example": "After the course, she became a productive writer, publishing several books.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1095NFtYwiWgb15Iy9lcQur5zg.webp"
+                },
+                {
+                    "title": "Personal Achievement",
+                    "description": "Describes a satisfying amount of work done by a person in a given time.",
+                    "example": "Despite numerous interruptions, I had a productive morning.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/m6m5ixfQJJKrh44hXKrb2A76eoc.webp"
+                },
+                {
+                    "title": "Positive Connotation",
+                    "description": "Carries a positive meaning, implying good use of time and effort.",
+                    "example": "Their team meetings are always productive and to the point.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/BTCBE1d0Tz7OVvRK3lp9PDDNjfM.webp"
+                }
+            ]
+        },
+        {
+            "id": "be12626f-7f01-47c9-b047-64ea93fff86e",
+            "de": "Able to generate good results or outcomes",
+            "ty": "adjective",
+            "ex": "The discussion was beneficial, it turned out to be very productive.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "productiveness",
+                " nonproductive",
+                " productive capacity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/be12626f-7f01-47c9-b047-64ea93fff86e.webp",
+            "Tips": [
+                {
+                    "title": "Outcome Oriented",
+                    "description": "Indicates achieving desired or successful results from an activity or process.",
+                    "example": "Her approach to solving problems is really productive.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Workplace Norm",
+                    "description": "Commonly used to describe employee performance and efficiency.",
+                    "example": "Managers often measure how productive their staff is.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Improved Results",
+                    "description": "Suggests an improvement or beneficial change in state or quality.",
+                    "example": "We've implemented new software to make our process more productive.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2385a83f-184f-4f83-8b7b-0e815266d9cb",
+            "de": "Being able to give birth or reproduce",
+            "do": "Biology",
+            "ty": "adjective",
+            "ex": "The study of productive features of living organisms is essential.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "productive age",
+                " productive system",
+                " species productive"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2385a83f-184f-4f83-8b7b-0e815266d9cb.webp",
+            "Tips": [
+                {
+                    "title": "Biological Ability",
+                    "description": "In biology, refers to an organism's ability to reproduce or bear offspring.",
+                    "example": "The physicians studied the productive health of the endangered species.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not about Work",
+                    "description": "In biological context, it's not about work productivity but about reproduction.",
+                    "example": "Those plants are particularly productive during the spring season.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "563d2bcd-3e11-4e81-999b-428512cb7815",
+            "de": "Generating revenue or income",
+            "do": "Economy",
+            "ty": "adjective",
+            "ex": "Investing in this business will be productive, it will boost the economy.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "productive investment",
+                " productive sector",
+                " productive economy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/563d2bcd-3e11-4e81-999b-428512cb7815.webp",
+            "Tips": [
+                {
+                    "title": "Economic Term",
+                    "description": "Refers to activities that create financial gain or economic growth.",
+                    "example": "Countries strive for a productive workforce to strengthen their economies.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Financial Return",
+                    "description": "Emphasizes generating a financial return or profit from an investment.",
+                    "example": "What makes an industry productive can vary significantly from one economy to another.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Constructive": {
+            "wordRoot": "Constructive",
+            "wordDefinition": "Constructive means making or contributing to progress or improvement, usually through criticism or feedback. For example, when someone gives you constructive feedback on a project, they are pointing out areas for improvement in a helpful way.\n\nConstructive is often used in situations where improvement is needed, such as in a work environment or during a peer review process.\n\nConstructive criticism helps someone grow and improve, while productivity measures how much is accomplished.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c8975eeb-35ef-4a0c-8c66-39fa7082e960.webp"
+        },
+        "Creative": {
+            "wordRoot": "Creative",
+            "wordDefinition": "Creative refers to the ability to come up with new and original ideas, while productive refers to the ability to complete tasks efficiently and effectively.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9ddc7e4-4cb1-40b9-9f49-61f666de2570.webp"
+        },
+        "Effective": {
+            "wordRoot": "Effective",
+            "wordDefinition": "Effective means doing something in a way that achieves the desired result or purpose. It is applicable when you want to make sure that what you're doing actually works and achieves your goals.\n\nFor example, an effective teacher is someone who is able to help their students learn and understand the material they're teaching.\n\nThe key difference between these two words is that effective is about achieving a specific goal, while productive is about getting a lot of things done efficiently.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/81ff5448-c34a-4ebc-8939-73c1170b1feb.webp"
+        },
+        "Efficient": {
+            "wordRoot": "Efficient",
+            "wordDefinition": "Efficient and productive are both positive adjectives used to describe how well something is done, but they have slightly different meanings.\n\nEfficient means doing something in a way that uses the minimum amount of time, effort, or resources to get the desired result.\n\nFor example, if your car gets good gas mileage and you use it to run errands all over town, you are being efficient.\n\nTo summarize, efficient is about doing things in a smart way that saves time and resources, while productive is about achieving a lot of output.\n\nBoth qualities are important in different situations. For example, if you work in a factory, it's important to be efficient so that you can produce as many items as possible in a short amount of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2adb715f-38d9-41f8-92b4-d2c06968cc9c.webp"
+        },
+        "Fruitful": {
+            "wordRoot": "Fruitful",
+            "wordDefinition": "The words fruitful and productive both refer to something that produces a positive result or outcome.\n\nHowever, fruitful tends to be used more in the context of something that bears fruit or produces a tangible, desirable result.\n\nFor example, a fruitful meeting might be one where ideas are generated, decisions are made or actions are taken. Productive is usually used in the context of achieving goals or completing tasks efficiently.\n\nEssentially, fruitful emphasizes the quality of the outcome, while productive emphasizes the quantity of work done.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/132c1f7f-27de-4dfb-b2b4-3cf85b955b5f.webp"
+        },
+        "Impressive": {
+            "wordRoot": "Impressive",
+            "wordDefinition": "Impressive means something that is very remarkable or leaves a strong impression. It could be used to describe something like a cool science experiment or an athlete's performance.\n\nImpressive is more focused on creating a strong reaction or feeling, while productive is more focused on achieving a specific outcome or goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e5c64277-e915-4349-b671-f22acf62fd09.webp"
+        },
+        "Prolific": {
+            "wordRoot": "Prolific",
+            "wordDefinition": "Both productive and prolific relate to someone's ability to produce or create something.\n\nProlific means that someone is able to produce a large amount of work, usually in terms of creative output like books or paintings.\n\nFor example, a prolific writer is someone who has published many books or articles, often at a high level of quality.\n\nTo simplify further, productive refers to someone who is able to do a lot of work, while prolific refers to someone who is able to create a lot of quality work in a specific field, such as writing or art.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/56f43e7f-d572-42ed-859e-1556c8edda6a.webp"
+        },
+        "Successful": {
+            "wordRoot": "Successful",
+            "wordDefinition": "In simple terms, being productive is more about the process, while success is about the outcome. You can be productive without necessarily being successful, but you can't be successful without being productive.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4689f7f3-69a9-4b6e-ae30-8a8b4a413f92.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " since insect farms can be small scale, highly productive, and yet relatively inexpensive to keep. Insects can also be turned into more sustainable food for livestock and can be reared on organic waste, like vegetable peelings, that might otherwise just end up rotting in landfills. Feeling hungry yet?",
+            "Title": "Should we eat bugs? -...",
+            "VideoId": "rDqXwUS402I",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " this world and today believe it or not he's happy he's productive he's in a loving marriage so it turns out that embracing their quiet nature does not cause introverts to flee to a shack in the woods it empowers them to embrace the world but to do it for the first",
+            "Title": "Blueprint for a quiet...",
+            "VideoId": "l1SM9NxxmJo",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " Plus, there may be all sorts of other eased road congestion, decreased harmful emissions, and minimized unproductive and stressful driving time. But accidents can and will still happen, and when they do, their outcomes may be determined months or years in advance",
+            "Title": "The ethical dilemma of...",
+            "VideoId": "ixIoDYVfKA0",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " Now it's true, technology has accumulated through human history, and right now, technology advances extremely rapidly -- that is the proximate cause, that's why we are currently so very productive. But I like to think back further to the ultimate cause.",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=84"
+        },
+        {
+            "Text": " This pick worker's life is completely different. Rather than wandering around the warehouse, she gets to stay still in a pick station like this and every product in the building can now come to her. So the process is very productive.",
+            "Title": "Mick Mountz: What...",
+            "VideoId": "9UiK4llJOXc",
+            "Controls": "start=404"
+        },
+        {
+            "Text": " too terrified to invest it into the productive activities that can generate the incomes from which you can extinguish the mountain of debts and which can produce all those things that humanity desperately needs, like green energy.",
+            "Title": "Capitalism will eat...",
+            "VideoId": "GB4s5b9NL3I",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " His job done, he retires from the royal chamber and dies. A short but productive life, for he'll father several million new ants with hungry mouths.",
+            "Title": "Queen Ant Mating Season...",
+            "VideoId": "MHoRiFq3ekw",
+            "Controls": "start=173"
+        },
+        {
+            "Text": " chamber and dies a short but productive life for he'll father several million new ants with hungry mouths slugs are fair game for driver ants",
+            "Title": "Best Of Ants PIPE BBC Earth",
+            "VideoId": "qu0HN9rYtIw",
+            "Controls": "start=333"
+        },
+        {
+            "Text": " It's fine. The production of grass, shrubs, trees, wildlife, everything is now more productive, and we have virtually no fear of dry years.",
+            "Title": "How to green the world's...",
+            "VideoId": "vpTHi7O66pI",
+            "Controls": "start=936"
+        },
+        {
+            "Text": " is to support growing more forests and better forests to make land more productive and more able to tolerate the pressures that we put on",
+            "Title": "Iceland Is Growing New...",
+            "VideoId": "pnRNdbqXu1I",
+            "Controls": "start=78"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jocko-willink.webp",
+            "Text": "That nice, soft pillow and the warm blanket, and it's all comfortable, and no one wants to leave that comfort - but if you can wake up early in the morning, get a head start on everyone else that's still sleeping, get productive time doing things that you need to do - that's a huge piece to moving your life forward.",
+            "Title": "American",
+            "Name": "Jocko Willink"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-branson.webp",
+            "Text": "If you want to be more productive, then start at the start: get there on time. Whether it is a meeting, a flight, an appointment or a date, it's important to ensure you are there when you say you will be there. This may feel like an old-fashioned tip to give, but it has served me well for five decades in business.",
+            "Title": "British Businessman",
+            "Name": "Richard Branson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eric-ries.webp",
+            "Text": "In the industrial world we have the problem of having more productive capacity than we know what to do with. That's at the root of the unemployment crisis: we've got so productive at making things, we don't require people to be involved in making the basics of life any more. Or nearly as many people.",
+            "Title": "American Businessman",
+            "Name": "Eric Ries"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erik-larson.webp",
+            "Text": "Trying to find ideas is the hardest part of my job. You'd think it would be the most fun. Just sitting around reading whatever I want, going to cafes and libraries. But I always feel so unproductive. I think I was raised too well by my parents.",
+            "Title": "American Author",
+            "Name": "Erik Larson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/deepak-chopra.webp",
+            "Text": "In societies where mature workers are respected and where their wisdom is respected, everybody benefits. Workers are more engaged and productive. Their health is better. They live longer.",
+            "Title": "American Speaker",
+            "Name": "Deepak Chopra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-lowy.webp",
+            "Text": "What is it to enjoy life? Sit at the beach? No. What it is is that you have to do something, you have be productive, make a contribution to the society, to the family, to yourself.",
+            "Title": "Australian Businessman",
+            "Name": "Frank Lowy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sonia-sotomayor.webp",
+            "Text": "It is our responsibility to explain to the public how an often unpredictable system of justice is one that serves a productive, civilized, but always evolving, society.",
+            "Title": "American Judge",
+            "Name": "Sonia Sotomayor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fei-fei-li.webp",
+            "Text": "I imagine a world in which AI is going to make us work more productively, live longer, and have cleaner energy.",
+            "Title": "Chinese Scientist",
+            "Name": "Fei-Fei Li"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "I think songwriting is the ultimate form of being able to make anything that happens in your life productive.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kodak-black.webp",
+            "Text": "I just know that I'mma do something in life. I'mma do something productive.",
+            "Title": "American Musician",
+            "Name": "Kodak Black"
+        }
+    ]
+}

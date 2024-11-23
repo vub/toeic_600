@@ -1,0 +1,341 @@
+{
+    "currentWord": {
+        "wordRoot": "profession",
+        "id": 1397,
+        "phonemic": "prəˈfeʃn|prəˈfeʃn\r",
+        "bigId": "ead71a46-6ddc-4157-ab6d-704debc9438c",
+        "wordForms": [
+            "professions",
+            "professional",
+            "profession"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ead71a46-6ddc-4157-ab6d-704debc9438c",
+            "de": "The type of job that someone does, especially after studying it",
+            "ty": "noun",
+            "ex": "Amanda is considering a profession in health care.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "choose a profession",
+                " enter a profession",
+                " medical profession"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ead71a46-6ddc-4157-ab6d-704debc9438c.webp",
+            "Tips": [
+                {
+                    "title": "Educational Requirement",
+                    "description": "A profession usually requires formal education or qualifications.",
+                    "example": "Becoming a lawyer is a profession that requires a law degree.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UojdRcp2IGfFcmNRkHG91ilfOQk.webp"
+                },
+                {
+                    "title": "Skill Specialization",
+                    "description": "Professions often involve specialized knowledge or skills.",
+                    "example": "Architecture is a profession focusing on designing buildings.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DDanCuIBnhQOfHgD9Zv07PBo8.webp"
+                },
+                {
+                    "title": "Profession vs Job",
+                    "description": "Not all jobs are professions; professions generally require more training.",
+                    "example": "Working in retail is a job, while practicing medicine is a profession.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/wu5R7ClI4JOYQDif2In6ZegHRmQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "44196bc0-4981-4616-8d14-4f0b8697d242",
+            "de": "An act of openly and solemnly stating a belief or intention",
+            "do": "legal",
+            "ty": "noun",
+            "ex": "Sarah made a profession of her love for Joseph in front of everyone.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "make a profession",
+                " public profession",
+                " solemn profession"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/44196bc0-4981-4616-8d14-4f0b8697d242.webp",
+            "Tips": [
+                {
+                    "title": "Public Statement",
+                    "description": "A profession in legal and solemn contexts means to declare something publicly.",
+                    "example": "He made a profession of his commitment to the truth during the trial.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Weight",
+                    "description": "A profession can carry emotional significance, especially in personal relationships.",
+                    "example": "Her profession of trust in him strengthened their friendship.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5abace56-ee29-4300-9868-776a0f8eeb1e",
+            "de": "A group of people who have a similar occupation, especially one that needs specialist training or skill",
+            "do": "Education",
+            "ty": "noun",
+            "ex": "Lawyers and doctors are part of the same profession.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "medical profession",
+                " legal profession",
+                " teaching profession"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5abace56-ee29-4300-9868-776a0f8eeb1e.webp",
+            "Tips": [
+                {
+                    "title": "Group Identity",
+                    "description": "The term can also refer to a collective body of people in the same field.",
+                    "example": "He was proud to be part of the medical profession.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Standards",
+                    "description": "Members of a profession often adhere to ethical standards and regulations.",
+                    "example": "She was disbarred for not upholding the standards of the legal profession.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a062986f-698b-40bc-9340-8190a9162d0e",
+            "de": "The act of entering a religious order and taking vows",
+            "do": "Religious",
+            "ty": "noun",
+            "ex": "After his profession, the monk moved to the monastery.",
+            "use": "",
+            "co": "Religious",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "religious profession",
+                " profession of faith",
+                " solemn profession"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a062986f-698b-40bc-9340-8190a9162d0e.webp",
+            "Tips": [
+                {
+                    "title": "Religious Commitment",
+                    "description": "In a religious context, it refers to taking vows or formally joining a religious life.",
+                    "example": "His profession into the order was a significant spiritual event.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Lifetime Vow",
+                    "description": "A religious profession often implies a lifelong commitment.",
+                    "example": "Her religious profession marked the beginning of a life dedicated to service.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7c2fbb32-065b-4983-b819-1cdc5ab58081",
+            "de": "The act of declaring or admitting openly",
+            "ty": "noun",
+            "ex": "His profession of faith moved the crowd.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "profession of faith",
+                " profession of love",
+                " profession of guilt"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7c2fbb32-065b-4983-b819-1cdc5ab58081.webp",
+            "Tips": [
+                {
+                    "title": "Sincerity Expression",
+                    "description": "It can involve expressing sincere beliefs, emotions, or intentions.",
+                    "example": "His profession of sorrow was received with empathy by the audience.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Art": {
+            "wordRoot": "Art",
+            "wordDefinition": "Art refers to a creative skill or ability, often used in reference to things like painting, sculpture, music, or writing.\n\nArt usually involves self-expression and can be pursued as a hobby or passion.\n\nWhile both art and profession involve skills and knowledge, they are different in terms of their purpose and application.\n\nArt is typically pursued for personal enjoyment or as a means of expression, while a profession is pursued as a means of earning a living and contributing to society through one's specialized skills and expertise.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f8bf3e3c-8808-43a6-a6e5-105a86c7bde6.webp"
+        },
+        "Call": {
+            "wordRoot": "Call",
+            "wordDefinition": "Call refers to a strong inner feeling or desire to pursue a particular type of work or occupation. It is something that feels like a personal mission or purpose in life.\n\nFor instance, somebody may feel called to become a teacher, doctor, or artist.\n\nIt is a career that is typically governed by a set of ethical standards, requires specialized skills and knowledge, and involves a certain level of responsibility.\n\nCall relates to a personal sense of mission or purpose, while profession refers to a particular type of skilled occupation or career.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b658cde7-ecb7-4ee2-9dcb-497837deec79.webp"
+        },
+        "Career": {
+            "wordRoot": "Career",
+            "wordDefinition": "A career is a person's continuous professional journey through a number of jobs or positions in a particular field or industry.\n\nFor instance, someone might choose a career in healthcare and work in a variety of positions such as a nurse, physician, or healthcare administrator.\n\nA career is an overarching term for the journey of someone’s working life while profession is a specific occupation within a particular field of work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/87eed451-1712-4bd6-a58d-56f9f113c8da.webp"
+        },
+        "Craft": {
+            "wordRoot": "Craft",
+            "wordDefinition": "Craft refers to a skill or trade that involves making things by hand or with tools.\n\nIt is often associated with traditional or creative activities such as woodworking, pottery, or knitting. Craft is a form of work that requires a high level of skill and precision, but is not necessarily tied to formal education or training.\n\nCraft and profession represent different kinds of work that require different levels of expertise and training.\n\nWhile craft is often associated with traditional or creative activities, profession is more commonly used to refer to specialized fields that require formal education and credentials.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70edce81-3e1e-457c-9318-fa35b7e50a9c.webp"
+        },
+        "Occupation": {
+            "wordRoot": "Occupation",
+            "wordDefinition": "The difference between occupation and profession is that an occupation is any job that someone does to earn money, while a profession is a job that requires specialized knowledge and skills, usually acquired through education or training.\n\nFor example, working at a grocery store is an occupation, but being a doctor or a lawyer is a profession.\n\nA profession usually requires more education or training and has stricter requirements and standards than an occupation.\n\nThe term ‘occupation’ tends to be used more broadly and describes any work that someone does to earn a living, while ‘profession’ is used more narrowly to refer to jobs that require specialized skills, often regulated by licensing or professional associations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49166115-fe2f-4842-8b00-6e1c01cf0805.webp"
+        },
+        "Trade": {
+            "wordRoot": "Trade",
+            "wordDefinition": "A trade usually involves skilled manual work that requires practical skills, training and expertise such as carpentry, plumbing, electrician, etc.\n\nTradespeople usually learn their skills through an apprenticeship program or trade school and are regulated by professional or trade organizations.\n\nIn summary, professions are specialized careers that require higher education or training, while trades are skilled manual work that requires expertise in a particular field.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7063edb3-761d-4ff3-b6f4-4b235b85c54f.webp"
+        },
+        "Vocation": {
+            "wordRoot": "Vocation",
+            "wordDefinition": "A vocation is a calling to a particular career or way of life, often with a religious or spiritual connotation, such as being a priest or nun.\n\nA profession is applicable to any field that requires specialized skills and knowledge, whereas a vocation is applicable to fields that involve a strong sense of calling or purpose, often related to religious or spiritual beliefs.\n\nHowever, there is some overlap between the two terms, and some professions may be considered vocational in nature.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/91a2d825-11fa-48ef-ba25-669b7460b964.webp"
+        },
+        "Work": {
+            "wordRoot": "Work",
+            "wordDefinition": "Work refers to any job or employment that may or may not require a particular skill set.\n\nWork can be applied to any job, from manual labor to desk jobs.\n\nProfession is a specific type of work that requires advanced education or specialized knowledge, while work encompasses all types of jobs or tasks.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc4f55ab-ac2d-4061-a71b-e78e86123fd7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " that define what we want and how we view ourselves. When we're told that banking is a very respectable profession, a lot of us want to go into banking. When banking is no longer so respectable, we lose interest in banking. We are highly open to suggestion. So what I want to argue for is not that we should give up",
+            "Title": "A kinder, gentler...",
+            "VideoId": "MtSE4rglxbY",
+            "Controls": "start=819"
+        },
+        {
+            "Text": " And he said, \"When I got to the senior year of school, my teachers didn't take it seriously. This one teacher didn't take it seriously. He said I was throwing my life away if that's all I chose to do with it; that I should go to college, I should become a professional person, that I had great potential",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=591"
+        },
+        {
+            "Text": " It's like, you know-- You read-- Never fight a man who doesn't have a scratch on him. It's true. Did you feel it was harder for you going in as a girl to that world, especially when you went professional? Well, I mean, I don't know if I thought it was harder as much as I just ended up realizing",
+            "Title": "Danica Patrick Eats a...",
+            "VideoId": "rbQ10sGExd8",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " medical organizations any professional organization corporations it's like anybody who has a brain would like to have a better idea of how to get your brain to do what you want it to do we do have two very different ways of perceiving the world one more open and",
+            "Title": "The right brain vs. left...",
+            "VideoId": "PEzzZ__ccgQ",
+            "Controls": "start=219"
+        },
+        {
+            "Text": " and amazingly, we still live in a world where some women don't have them. But all that aside, we still have a problem, and it's a real problem. And the problem is Women are not making it to the top of any profession anywhere in the world.",
+            "Title": "Why we have too few...",
+            "VideoId": "18uDutylDa4",
+            "Controls": "start=32"
+        },
+        {
+            "Text": " and I was frustrated by the lagging status of women in our profession and what that meant for our image in the media. We make up half the population of the world, but we're just 24 percent of the news subjects quoted in news stories.",
+            "Title": "Megan Kamerick: Women...",
+            "VideoId": "rufeS-lZJg8",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " not a hard and fast grammar rule. It's a conundrum without a simple answer. Professional writers solve this problem by learning what's considered correct for a publication, and doing that. The important thing is to pick one style",
+            "Title": "When to use apostrophes...",
+            "VideoId": "My6oGvkHnfY",
+            "Controls": "start=104"
+        },
+        {
+            "Text": " This all started as a love story. And it still is. This love transformed me from a curious, stargazing young girl to a professional astrophysicist, hot on the heels of celestial discovery. Who knew that chasing after the universe",
+            "Title": "Jedidah Isler: How I...",
+            "VideoId": "XzZJuEDQ1a0",
+            "Controls": "start=223"
+        },
+        {
+            "Text": " to legislate on their behalf. But this poses its own problems, including the influence of wealth, and the emergence of professional politicians with different interests than their constituents.",
+            "Title": "What did democracy...",
+            "VideoId": "0fivQUlC7-8",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " Time to see what a professional can do. Hoverboard. Welcome to the future. Clearly, Rianne's a natural.",
+            "Title": "How To Levitate PIPE The...",
+            "VideoId": "xDyJkFehDk0",
+            "Controls": "start=1696"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viola-davis.webp",
+            "Text": "I think many women are successful in their professional lives - they are making the money and all that - but in their personal lives are a complete mess, because they haven't paid any attention to it, because they spent all of their time being successful.",
+            "Title": "American Actress",
+            "Name": "Viola Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "I study the universe. It's the second oldest profession. People have been looking up for a long time.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-stroumboulopoulos.webp",
+            "Text": "I am who I am: I have my life experiences and my professional experiences.",
+            "Title": "Canadian Journalist",
+            "Name": "George Stroumboulopoulos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hedy-lamarr.webp",
+            "Text": "I was in constant demand, in my professional life and my personal life.",
+            "Title": "Austrian Actress",
+            "Name": "Hedy Lamarr"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/coretta-scott-king.webp",
+            "Text": "My professional and personal roots in Alabama are deep and lasting.",
+            "Title": "American Activist",
+            "Name": "Coretta Scott King"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuzvendra-chahal.webp",
+            "Text": "I have never let the personal life affect my professional life.",
+            "Title": "",
+            "Name": "Yuzvendra Chahal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jose-mourinho.webp",
+            "Text": "I enjoy the work, I enjoy every minute of my professional life.",
+            "Title": "Portuguese Coach",
+            "Name": "Jose Mourinho"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeffrey-dean-morgan.webp",
+            "Text": "I have a lot of respect for what I do, for this profession.",
+            "Title": "American Actor",
+            "Name": "Jeffrey Dean Morgan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jermall-charlo.webp",
+            "Text": "I'm a grown man, a professional, and a world champion.",
+            "Title": "American Boxer",
+            "Name": "Jermall Charlo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zhang-ziyi.webp",
+            "Text": "My profession has helped me to grow up.",
+            "Title": "Chinese Actress",
+            "Name": "Zhang Ziyi"
+        }
+    ]
+}

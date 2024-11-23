@@ -1,0 +1,86 @@
+{
+    "currentWord": {
+        "wordRoot": "bring together",
+        "id": 0,
+        "phonemic": "brɪŋ təˈɡɛðər",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID",
+            "de": "To cause people or things to come together; to assemble or gather.",
+            "ty": "verb",
+            "ex": "The conference brought together leading experts from around the world.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bring together a group",
+                "bring together different perspectives",
+                "bring together evidence",
+                "events that bring people together",
+                "bring together a collection"
+            ],
+            "ImageSrc": "./senses/92c80d0f-601c-4780-8f50-58ee433fb80e.webp",
+            "Tips": [
+                {
+                    "title": "Organizing an Event",
+                    "description": "Use 'bring together' when describing the purpose or outcome of an event, like a conference or meeting.",
+                    "example": "The workshop aims to bring together community members to discuss local issues.",
+                    "imageUrl": "./tips/f80b7891-5521-4ab4-844e-571e3019e926.webp"
+                },
+                {
+                    "title": "Combining Elements",
+                    "description": "Use 'bring together' when talking about combining different things, like ideas, resources, or data.",
+                    "example": "The report brings together data from multiple sources to provide a comprehensive overview.",
+                    "imageUrl": "./tips/d467d339-5ad7-42f9-8430-0805b2ae73c8.webp"
+                }
+            ]
+        },
+        {
+            "id": "UUID",
+            "de": "To reconcile or cause harmony between people.",
+            "ty": "verb",
+            "ex": "The mediator tried to bring the two warring families together.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bring together opposing sides",
+                "bring together conflicting viewpoints",
+                "bring together estranged family members"
+            ],
+            "ImageSrc": "./senses/cd33ed11-f9c9-4d66-b8f7-9b52605fe067.webp",
+            "Tips": [
+                {
+                    "title": "Resolving Conflict",
+                    "description": "Use 'bring together' when describing efforts to reconcile or create harmony between people who are in disagreement.",
+                    "example": "Her efforts to bring together the two factions were ultimately successful.",
+                    "imageUrl": "./tips/435dfc39-0c41-45f9-87a8-acf5b129901c.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "unite": {
+            "wordRoot": "unite",
+            "wordDefinition": "'Unite' emphasizes a stronger and more permanent joining than 'bring together', often implying a shared purpose or identity.",
+            "wordImage": ""
+        },
+        "assemble": {
+            "wordRoot": "assemble",
+            "wordDefinition": "'Assemble' focuses on the physical gathering of people or things, while 'bring together' can also refer to a more abstract joining of ideas or concepts.",
+            "wordImage": ""
+        },
+        "gather": {
+            "wordRoot": "gather",
+            "wordDefinition": "'Gather' is more general and can simply refer to collecting things or people, whereas 'bring together' implies a deliberate act of joining them for a specific reason.",
+            "wordImage": ""
+        }
+    }
+}

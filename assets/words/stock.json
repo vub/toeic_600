@@ -1,0 +1,382 @@
+{
+    "currentWord": {
+        "wordRoot": "stock",
+        "id": 796,
+        "phonemic": "stɒk|stɑːk\r",
+        "bigId": "2cd09697-f848-4bc1-b212-2f38f4ebd4d8",
+        "wordForms": [
+            "stocks",
+            "stocking",
+            "stocked",
+            "stockings",
+            "stock"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2cd09697-f848-4bc1-b212-2f38f4ebd4d8",
+            "de": "The goods or merchandise kept on the premises of a business.",
+            "ty": "noun",
+            "ex": "The shop has a new stock of winter clothes.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "take stock",
+                " stock up on",
+                " out of stock"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2cd09697-f848-4bc1-b212-2f38f4ebd4d8.webp",
+            "Tips": [
+                {
+                    "title": "Business Operations",
+                    "description": "Used to discuss quantities or availability of products for sale.",
+                    "example": "Our stock of printers is running low.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jIf9u1V7h8JrnJuF67MS3BOfitE.webp"
+                },
+                {
+                    "title": "Inventory Management",
+                    "description": "Often comes up in conversations involving store management and restocking.",
+                    "example": "We need to check our stock before the big sale.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PFQn4RdWseFSlrdlYN3kfC0C3fI.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ce5bb115-cb2a-4497-8f20-3e8ce2889601",
+            "de": "Shares in the ownership of a company.",
+            "do": "Finance",
+            "ty": "noun",
+            "ex": "He owns a lot of stock in the company.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stock market",
+                " buy stock",
+                " sell stock"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ce5bb115-cb2a-4497-8f20-3e8ce2889601.webp",
+            "Tips": [
+                {
+                    "title": "Investment Discussions",
+                    "description": "Refers to financial equity in companies, commonly used in the context of buying and investing.",
+                    "example": "I'm considering buying tech stocks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ownership Evidence",
+                    "description": "Stock ownership shows partial ownership in a company and may come with voting rights.",
+                    "example": "With our stocks, we have voting rights in the company's decisions.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "94cf4ccb-b5dd-400c-becd-e251425c75bc",
+            "de": "The type of person or thing that comes from a particular place, family, or group.",
+            "ty": "noun",
+            "ex": "This dog is of pure stock.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "of noble stock",
+                " of good stock",
+                " of common stock"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/94cf4ccb-b5dd-400c-becd-e251425c75bc.webp",
+            "Tips": [
+                {
+                    "title": "Heritage Context",
+                    "description": "Used to describe someone's origins, family background or breed in a more formal or literary context.",
+                    "example": "He comes from a family of artists, an old stock of creatives.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Animal Breeding",
+                    "description": "Often encountered in discussions about animals' lineage or breed quality.",
+                    "example": "The horse is of excellent stock, winning many races.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "39bcd8be-1bf1-42b2-9937-0d3f870bf0af",
+            "de": "To fill (a place or container) with a supply of something.",
+            "ty": "verb",
+            "ex": "Supermarkets are stocking up for the holiday season.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stock up on",
+                " stock the shelves",
+                " well-stocked"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/39bcd8be-1bf1-42b2-9937-0d3f870bf0af.webp",
+            "Tips": [
+                {
+                    "title": "Retail Task",
+                    "description": "Used when talking about the action of adding goods to shelves in retail jobs.",
+                    "example": "After closing, we stock the shelves for the next day.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5365954e-4b66-4cef-a309-d3e9e9a22f6e",
+            "de": "The main stem of a plant.",
+            "do": "Botany",
+            "ty": "noun",
+            "ex": "He grafted the twig onto a sturdy stock.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "plant stock",
+                " stock of roses",
+                " graft onto stock"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5365954e-4b66-4cef-a309-d3e9e9a22f6e.webp",
+            "Tips": [
+                {
+                    "title": "Gardening and Botany",
+                    "description": "Discussing plant biology, especially in technical or professional contexts like horticulture.",
+                    "example": "This stock needs pruning to promote healthy growth.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c41579d9-8a8f-458c-89a7-e0c3d88c101f",
+            "de": "A liquid made by boiling bones, meat, or vegetables and used for cooking.",
+            "do": "Cooking",
+            "ty": "noun",
+            "ex": "I use chicken stock to make soup.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make stock",
+                " chicken stock",
+                " vegetable stock"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c41579d9-8a8f-458c-89a7-e0c3d88c101f.webp",
+            "Tips": [
+                {
+                    "title": "Culinary Foundations",
+                    "description": "A base for many dishes in cooking, often in the context of soups and sauces.",
+                    "example": "Let's simmer the bones to make a rich stock.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f8b30996-a877-42d4-8988-b6c9a8eb2bb4",
+            "de": "The handle of a gun where it is held against one's shoulder.",
+            "do": "Firearms",
+            "ty": "noun",
+            "ex": "He pressed the stock of the rifle against his shoulder.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stock of a gun",
+                " rifle's stock",
+                " butt stock"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f8b30996-a877-42d4-8988-b6c9a8eb2bb4.webp",
+            "Tips": [
+                {
+                    "title": "Firearm Terminology",
+                    "description": "Relates specifically to guns and shooting; common in military, police, or hunting contexts.",
+                    "example": "Keep the stock steady for better aim.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Arsenal": {
+            "wordRoot": "Arsenal",
+            "wordDefinition": "Arsenal means a collection of weapons or military equipment stored for potential use, while stock means a supply of goods kept on hand for sale or use.\n\nArsenal is applicable in the context of military or warfare, whereas stock is applicable in the context of business or commerce.\n\nEssentially, arsenal refers to weapons and ammunition, while stock refers to goods or inventory.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2c772f49-2266-47f5-b072-ab111bf17a18.webp"
+        },
+        "Cache": {
+            "wordRoot": "Cache",
+            "wordDefinition": "Cache refers to a temporary storage area that stores frequently accessed or important data to help speed up future tasks or processes.\n\nCaches are commonly used in computer systems, web browsers, and mobile devices to improve performance.\n\nCache is a temporary storage area used to improve performance in computer systems, while stock refers to a supply of goods or materials used in businesses.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f99c274f-ed06-41c3-a3c1-f698f29cdba2.webp"
+        },
+        "Collection": {
+            "wordRoot": "Collection",
+            "wordDefinition": "Collection describes a group of items that have been purposefully selected and gathered together based on a certain theme or criteria.\n\nFor example, a fashion designer may create a collection of clothing pieces for a specific season.\n\nA collection is a specific selection of items created for a purpose, while stock refers to a general supply of items that are available for purchase.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b7dffe9b-3c07-4208-897e-6b759ff39c4b.webp"
+        },
+        "Hoard": {
+            "wordRoot": "Hoard",
+            "wordDefinition": "Hoard refers to an excessive amount of something that is being kept secretly or with the intention of keeping it for a long period of time.\n\nFor example, a person hoards money or food.\n\nHoard implies an excessive amount being kept secretively, while stock implies a sufficient amount being kept for future use or sale.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fff9597-b982-488e-8eb4-0b2ac2ae85d3.webp"
+        },
+        "Inventory": {
+            "wordRoot": "Inventory",
+            "wordDefinition": "Inventory refers to the total amount of goods or materials that a business has on hand at a particular point in time. It includes everything from raw materials, work-in-progress items, and finished goods that are ready for sale.\n\nInventory is mostly used in industries like manufacturing, retail, or wholesale.\n\nInventory is commonly used in the manufacturing, wholesale, and retail industry to refer to the total goods or materials that a business has on hand.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1.webp"
+        },
+        "Reserve": {
+            "wordRoot": "Reserve",
+            "wordDefinition": "Reserve refers to something that is kept aside for future use. It is set aside so that it can be used when needed. An example of a reserve would be a reserve fund set aside by a company for emergencies or unexpected expenses.\n\nReserve refers to something that is held back for future use while stock refers to the total amount of goods that a company has available for sale.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b08ab217-57c0-4016-b277-0569c844a318.webp"
+        },
+        "Store": {
+            "wordRoot": "Store",
+            "wordDefinition": "It usually describes the amount of products that a store has available to sell to customers.\n\nStore refers to a physical location where goods are sold.\n\nTherefore, while stock refers to the inventory of goods that a business has for sale, store refers to the physical location where those goods are sold.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c0bf3bf8-953c-479f-b11b-231da9f82433.webp"
+        },
+        "Supply": {
+            "wordRoot": "Supply",
+            "wordDefinition": "Stock generally refers to the amount of goods or products a business currently possesses or owns, whereas supply refers to the act of providing or giving those goods or products to someone who needs them.\n\nFor example, a store may have a high stock of shoes in their inventory, but only supply a few pairs to a customer who wants to purchase them.\n\nStock is more focused on the quantity of goods available, while supply is concerned with the distribution and delivery of those goods to customers.\n\nStock refers to what a business has, and supply refers to what a business provides to others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f7e92a9c-75e5-4df6-94ba-00758c5a54d9.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " There is a very strong fishing pressure, especially on the fish stocks on the West Coast, With historically was a stronghold for the African penguin breeding areas, The fisheries and the penguins, all the seabirds and all top predators are competing for the same resources. By installing marine protected areas or no fish zone. It's obviously not only benefiting the one species,",
+            "Title": "Rescuing Penguin Chicks...",
+            "VideoId": "P8023MvvKYA",
+            "Controls": "start=284"
+        },
+        {
+            "Text": " and on that, we trebled the stocking rate, the number of animals, in the first year with no feeding, just by the movement, mimicking nature, and using a sigmoid curve, that principle. It's a little bit technical to explain here, but just that. Well, I would love to -- I mean, this such an interesting and important idea.",
+            "Title": "How to green the world's...",
+            "VideoId": "vpTHi7O66pI",
+            "Controls": "start=1294"
+        },
+        {
+            "Text": " back to the companies underneath g for google c for calico n for nest x and so on third the name encourages wall street investors buy this stock and you're making an alpha bet one that will outperform others and last of all the name is a real dictionary word which is a rare find these days now there was only one issue",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=285"
+        },
+        {
+            "Text": " Those are just a couple of many examples. Overfishing is happening all over the world. How did this happen? When some people think of fishing, they imagine relaxing in a boat and patiently reeling in the day's catch. But modern industrial fishing, the kind that stocks our grocery shelves, looks more like warfare.",
+            "Title": "Will the ocean ever run...",
+            "VideoId": "WNdR808jMSA",
+            "Controls": "start=26"
+        },
+        {
+            "Text": " because the body is generally well stocked. Once we figured the logistics of transport and storage, the vitamins are left to do the work they came here to do in the first place. Some, like many of the B Complex vitamins, make up coenzymes, whose job it is to help enzymes release the energy from food.",
+            "Title": "How do vitamins work? -...",
+            "VideoId": "ISZLTJH5lYg",
+            "Controls": "start=184"
+        },
+        {
+            "Text": " But it's still worthwhile to be aware of telltale clues, like minimal self-references, negative language, simple explanations and convoluted phrasing. It just might help you avoid an overvalued stock, an ineffective product, or even a terrible relationship.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=307"
+        },
+        {
+            "Text": " They're usually filled with funny types, or archetypes. The know-it-all, the loveable loser, the bad boss, the neurotic, the airhead. Incidentally, these are all stock characters found in Commedia Dell'Arte,",
+            "Title": "How to make your writing...",
+            "VideoId": "zNTxSBgDNp4",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " come from it makes us in some ways humble it also makes us fascinated and yet we risk losing them all newton guitar and render it rock a paean young you can cover stock arendelle a student of Turin green",
+            "Title": "A Rare Look at the...",
+            "VideoId": "0fts6x_EE_E",
+            "Controls": "start=780"
+        },
+        {
+            "Text": " putting dwindling fish stocks under even greater pressure to keep our oceans healthy we must protect these endangered giants just like top predators on land tuna",
+            "Title": "Tracking Bluefin Tuna PIPE...",
+            "VideoId": "rMtumsxoT8c",
+            "Controls": "start=74"
+        },
+        {
+            "Text": " they have proliferated virtually exterminated the local fish stocks and they've now developed a taste for pigeon",
+            "Title": "The Fish That Hunts...",
+            "VideoId": "on7cixfDl8I",
+            "Controls": "start=103"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ted-deutch.webp",
+            "Text": "It is no surprise that companies do not often respond to moral pressure alone. We need to hit them hard in their pocketbook and on their balance sheet. We need to show them that their stock prices will be affected if their actions encourage Iran's nuclear weapons ambitions.",
+            "Title": "American Politician",
+            "Name": "Ted Deutch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-cramer.webp",
+            "Text": "I have never for a minute felt in was my stock picking abilities. I feel that my stock picking abilities aided- I was able to pick out which are the good stocks in the good market, but I have been blessed with a great market.",
+            "Title": "American Businessman",
+            "Name": "Jim Cramer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kenneth-fisher.webp",
+            "Text": "In the world I've known most of my life, old stories quickly lose their power over capital markets and get replaced by new surprises. That which everyone fixates on gets priced into the stock market quickly and can't drag on.",
+            "Title": "American Businessman",
+            "Name": "Kenneth Fisher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-kiyosaki.webp",
+            "Text": "I am very concerned about the millions of baby boomers who are counting on the stock market to deliver them a safe, sound, long retirement. I am afraid the baby boomers who are counting on the stock market are in trouble.",
+            "Title": "American Author",
+            "Name": "Robert Kiyosaki"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ron-chernow.webp",
+            "Text": "One of the very nice things about investing in the stock market is that you learn about all different aspects of the economy. It's your window into a very large world.",
+            "Title": "American Author",
+            "Name": "Ron Chernow"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-rampton.webp",
+            "Text": "Even I have been at that point in my life where I thought I didn't have enough extra money laying around to start investing in stocks for my own retirement plans.",
+            "Title": "American Businessman",
+            "Name": "John Rampton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/omar-amanat.webp",
+            "Text": "I stopped asking myself questions like what the value of my stock was and started asking more fundamental questions of life and death.",
+            "Title": "American Businessman",
+            "Name": "Omar Amanat"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-thaler.webp",
+            "Text": "Don't get trapped by looking at what the price was that you paid for some stock originally.",
+            "Title": "American Economist",
+            "Name": "Richard Thaler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/van-heflin.webp",
+            "Text": "When I was a very young actor, I made a wise move. I invested in the stock market.",
+            "Title": "",
+            "Name": "Van Heflin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ant-mcpartlin.webp",
+            "Text": "I've took stock of things and said, 'Right I've got to think of me.",
+            "Title": "English Celebrity",
+            "Name": "Ant McPartlin"
+        }
+    ]
+}

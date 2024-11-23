@@ -1,0 +1,315 @@
+{
+    "currentWord": {
+        "wordRoot": "factor",
+        "id": 12234,
+        "phonemic": "ˈfæktə(r)|ˈfæktər\r",
+        "bigId": "d03ff319-f9d6-4bd4-8958-a7f7dd751229",
+        "wordForms": [
+            "factors",
+            "factored",
+            "factor"
+        ]
+    },
+    "senses": [
+        {
+            "id": "d03ff319-f9d6-4bd4-8958-a7f7dd751229",
+            "de": "One of the things that influence or cause a particular situation.",
+            "ty": "noun",
+            "ex": "Smoking is a major factor in many diseases.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "risk factor",
+                " key factor",
+                " major factor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d03ff319-f9d6-4bd4-8958-a7f7dd751229.webp",
+            "Tips": [
+                {
+                    "title": "Influence Importance",
+                    "description": "Use 'factor' when discussing something that significantly shapes an outcome or situation.",
+                    "example": "Exercise is a key factor in maintaining a healthy lifestyle.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QMrbl80qVAxiVUhl9CKosr73g.webp"
+                },
+                {
+                    "title": "Multiple Factors",
+                    "description": "Situations usually have more than one factor; suggest complexity by listing several.",
+                    "example": "Price, quality, and brand are factors that influence a customer's decision.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/D6juSMXkkU8Gu1bXH05ggu7bHk.webp"
+                },
+                {
+                    "title": "Abstract Concept",
+                    "description": "Use 'factor' to describe an abstract idea, not something physically tangible.",
+                    "example": "Trust is an essential factor in a successful partnership.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SfzDY1QynouLFdmpOBD4Nems.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "497c771b-3746-4068-a462-8134cb6c04ab",
+            "de": "A number that can be multiplied with another to produce a given number.",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "4 and 5 are factors of 20.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "prime factor",
+                " common factor",
+                " factor pair"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/497c771b-3746-4068-a462-8134cb6c04ab.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical Multiplication",
+                    "description": "In math, 'factors' are strictly numbers you multiply to get another specific number.",
+                    "example": "2 is a factor of 10, as 2 x 5 equals 10.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Examining Numbers",
+                    "description": "When examining factors, look for smaller numbers that divide exactly into the given number.",
+                    "example": "To find factors of 30, consider 1, 2, 3, 5, 6, 10, 15, and 30.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0a4e46c8-b1c6-41be-9fd5-85e4edb1d574",
+            "de": "To consider or include something in making a calculation or decision.",
+            "ty": "verb",
+            "ex": "We must factor in the cost of living increase.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "factor in",
+                " factor out",
+                " factor up"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0a4e46c8-b1c6-41be-9fd5-85e4edb1d574.webp",
+            "Tips": [
+                {
+                    "title": "Action Consideration",
+                    "description": "As a verb, 'factor' expresses the action of taking something into account.",
+                    "example": "When planning your study time, factor in breaks for rest.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Include or Exclude",
+                    "description": "'Factor in' means to include, while 'factor out' means to exclude or remove.",
+                    "example": "Factor out unexpected costs to get a clearer financial picture.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "64189478-4864-4cdd-965b-cdd34678211a",
+            "de": "A company that buys invoices from businesses at a discount.",
+            "do": "Finance",
+            "ty": "noun",
+            "ex": "She sold her invoice to a factor and got paid immediately.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "invoice factor",
+                " discount factor",
+                " debt factor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/64189478-4864-4cdd-965b-cdd34678211a.webp",
+            "Tips": [
+                {
+                    "title": "Financial Intermediary",
+                    "description": "In finance, a 'factor' is a third party that handles transactions for a fee.",
+                    "example": "A business might use a factor to quickly collect cash on its receivables.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not a Personal Factor",
+                    "description": "Don't confuse with personal traits; in finance, a 'factor' is always a business entity.",
+                    "example": "The term 'factor' does not refer to an individual's influence in finance.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Aspect": {
+            "wordRoot": "Aspect",
+            "wordDefinition": "Both aspect and factor refer to different parts or components of something, but they are used in slightly different ways.\n\nAspect refers to a particular angle, feature or perspective of something.\n\nIt is often used when describing the appearance or characteristics of something. For example, when looking at a painting, you might comment on the different aspects of the artist's style, such as their use of color, brushstrokes or composition.\n\nAspect focuses on the physical or aesthetic qualities of something, while factor looks at the underlying causes or reasons that explain why something is the way it is.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3300ecfe-1deb-4656-8643-42709f891009.webp"
+        },
+        "Cause": {
+            "wordRoot": "Cause",
+            "wordDefinition": "Cause is used when something directly brings about a particular result or outcome. For example, smoking is a cause of lung cancer.\n\nFactor is used when something contributes to or influences a particular result or outcome, but may not directly cause it.\n\nFor example, pollution is a factor in the increase in asthma cases. Cause refers to a direct impact, while factor refers to an indirect impact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be3489cb-babe-46a9-9f49-832adde49d10.webp"
+        },
+        "Component": {
+            "wordRoot": "Component",
+            "wordDefinition": "In general, both component and factor refer to something that contributes to a larger whole.\n\n- Component usually refers to a physical or tangible part of something. For example, the components of a computer might include the motherboard, processor, and hard drive.\n\nComponent is often used in technical or scientific contexts.\n\nOverall, both words are useful for discussing how different parts or elements come together to create a larger whole, but component tends to focus more on tangible parts while factor can be used more broadly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/12249d61-881b-408a-bdda-2273a370f660.webp"
+        },
+        "Determinant": {
+            "wordRoot": "Determinant",
+            "wordDefinition": "Determinant refers to something that determines the outcome or result of a situation or equation. For example, in linear algebra, the determinant of a matrix determines whether or not an equation has a solution.\n\nIn summary, while both words involve some level of influencing an outcome, determinant is more concerned with the outcome itself, while factor is more concerned with what helped create the outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5dbb17c0-6e0a-47bc-93e6-f1067cbf5e91.webp"
+        },
+        "Element": {
+            "wordRoot": "Element",
+            "wordDefinition": "Element refers to a basic, essential part of something, such as a chemical element in a compound or a key part of a story.\n\nAn element is a basic building block, while a factor is a contributing cause. Elements are commonly used in the context of science and literature, while factors are often used in math and social sciences.\n\n- In chemistry, oxygen is an element that is essential for life.\n\n- In literature, character development is an essential element of a good story.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0ea94ed-afca-4058-8180-39880e6a6b68.webp"
+        },
+        "Impetus": {
+            "wordRoot": "Impetus",
+            "wordDefinition": "Impetus refers to a force or energy that propels something forward or causes it to change direction.\n\nIt's often used to describe a spark or a catalyst for action. For example, a new law could provide the impetus for a company to change its policies.\n\nA factor is something that contributes to an outcome, while impetus is something that causes a change or action to happen.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/97f18e1a-3a84-4204-a68b-de7431980d0c.webp"
+        },
+        "Influence": {
+            "wordRoot": "Influence",
+            "wordDefinition": "Both factor and influence refer to something that has an effect on something else, but the difference lies in the degree of control that each one has.\n\nAn influence is a less direct and more general force that can shape or affect a result, but may not be directly measurable or quantifiable.\n\nFor example, a friend's opinion may influence your choice of a college major.\n\nIn summary, factors are more concrete and directly measurable, while influences are more abstract and less directly measurable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d79f0c3-b806-4004-b5a8-ff1f1cbd4e6e.webp"
+        },
+        "Ingredient": {
+            "wordRoot": "Ingredient",
+            "wordDefinition": "Ingredient usually refers to a substance or component that is mixed together with other substances to create a finished product.\n\nFor example, in cooking, ingredients are the components that are combined together to make a dish. In a skincare product, ingredients are the components that are mixed together to create the final product.\n\nFactor is used when discussing something that affects or contributes to a result, while ingredient is used when describing a specific substance that is combined with others to make something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f0de625e-59a8-4618-8392-e7f5cdd23278.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and have helped many people live better lives. Although we've come a long way in improving how we treat and diagnose asthma, we still don't know its exact causes. We currently believe that a combination of genetic and environmental factors play a role, potentially acting during early childhood.",
+            "Title": "How does asthma work? -...",
+            "VideoId": "PzfLDi-sL3w",
+            "Controls": "start=253"
+        },
+        {
+            "Text": " is very different and it maintains its ability to compute this type of problem now these are the problems don't just exist in physics in chemistry in fact one of the first quantum algorithms was found for finding the prime factors of very large numbers and that's important",
+            "Title": "How do you build a...",
+            "VideoId": "ArW8x1NpqGs",
+            "Controls": "start=52"
+        },
+        {
+            "Text": " These procedures reestablish circulation to the cardiac muscle, restoring heart function. Heart attack treatment is advancing, but prevention is vital. Genetics and lifestyle factors both affect your risk. And the good news is that you can change your lifestyle.",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=183"
+        },
+        {
+            "Text": " by providing the building blocks for new tissue in the form of amino acids. Adequate protein intake, along with naturally occurring hormones, like insulin-like growth factor and testosterone, help shift the body into a state where tissue is repaired and grown.",
+            "Title": "What makes muscles grow?...",
+            "VideoId": "2tM1LFFxeKg",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " All the basic sciences support them, including math. All that makes science, science is the rigor of math. And that rigor factors in because its results are eternal. You probably said or were told at some point that diamonds are forever, right?",
+            "Title": "Eduardo Sáenz de...",
+            "VideoId": "pGlZi2SwETc",
+            "Controls": "start=273"
+        },
+        {
+            "Text": " act courageously to face a challenge head-on. This is confidence. It turns thoughts into action. So where does confidence even come from? There are several factors that impact confidence. what you're born with, such as your genes,",
+            "Title": "3 tips to boost your...",
+            "VideoId": "l_NYrWqUR40",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " may be a contributing factor to their illnesses. We dream to solve problems. Unconstrained by reality and the rules of conventional logic, in your dreams, your mind can create limitless scenarios to help you grasp problems",
+            "Title": "Why do we dream? - Amy...",
+            "VideoId": "2W85Dwxx218",
+            "Controls": "start=266"
+        },
+        {
+            "Text": " But one of the major factors contributing to memory consolidation is, you guessed it, a good night's sleep. Sleep is composed of four stages, the deepest of which are known as slow-wave sleep",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=222"
+        },
+        {
+            "Text": " an added attractive factor to lure in prospective prey in most species an elongated lid covers the pitcher's opening sheltering it from heavy rain and protecting the digestive juices at the",
+            "Title": "This Plant Traps its...",
+            "VideoId": "JLc7ZRxJPZU",
+            "Controls": "start=60"
+        },
+        {
+            "Text": " still exists today but mostly in the form of polar ice caps because of factors such as the presence of water some scientists believe life may have existed on the Red Planet and may exist",
+            "Title": "Mars 101 PIPE National...",
+            "VideoId": "D8pnmwOXhoY",
+            "Controls": "start=148"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hunter-s-thompson.webp",
+            "Text": "One of the most basic factors in sports is that winning becomes a habit, and losing is the same way. When failure starts to feel normal in your life or your work or even your darkest vices, you won't have to go looking for trouble, because trouble will find you. Count on it.",
+            "Title": "American Journalist",
+            "Name": "Hunter S. Thompson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sofia-richie.webp",
+            "Text": "One of the key factors of life is love, and the key factor of God is love, so having that understanding is really important in a relationship. Having someone that genuinely respects you and understands your life and is open to hearing about your life is really cool.",
+            "Title": "American Celebrity",
+            "Name": "Sofia Richie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zakk-wylde.webp",
+            "Text": "You have to pay attention, like with tours and expenses; you have to factor that all in. You want to play music for the rest of your life, you have to pay attention to all the things. You want to know what's always going on.",
+            "Title": "American Musician",
+            "Name": "Zakk Wylde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-hunt.webp",
+            "Text": "I have to say, my celebrity is not a big factor in my life. Once in a while someone takes my picture. But I'm not exactly one of the four girls everyone's chasing at the moment.",
+            "Title": "American Actress",
+            "Name": "Helen Hunt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hema-malini.webp",
+            "Text": "Every marriage is different, but the most important factor in a strong relationship is the love and harmony between the couple.",
+            "Title": "Indian Actress",
+            "Name": "Hema Malini"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/benson-henderson.webp",
+            "Text": "It's definitely a motivational factor, becoming a three-organization world champion.",
+            "Title": "American Mixed Martial Artist",
+            "Name": "Benson Henderson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/woody-hayes.webp",
+            "Text": "Success is the only motivational factor that a boy with character needs.",
+            "Title": "American Coach",
+            "Name": "Woody Hayes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmy-dean.webp",
+            "Text": "Poverty was the greatest motivating factor in my life.",
+            "Title": "American Actor",
+            "Name": "Jimmy Dean"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dennis-brown.webp",
+            "Text": "Drugs have played no significant factor in my life.",
+            "Title": "Musician",
+            "Name": "Dennis Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-spielberg.webp",
+            "Text": "Money to me is not a factor in my life.",
+            "Title": "American Director",
+            "Name": "Steven Spielberg"
+        }
+    ]
+}

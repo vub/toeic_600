@@ -1,0 +1,371 @@
+{
+    "currentWord": {
+        "wordRoot": "proof",
+        "id": 17937,
+        "phonemic": "pruːf|pruːf\r",
+        "bigId": "936797b0-1b29-4130-8648-c863c40d990e",
+        "wordForms": [
+            "proofs",
+            "proof"
+        ]
+    },
+    "senses": [
+        {
+            "id": "936797b0-1b29-4130-8648-c863c40d990e",
+            "de": "Evidence that shows something is true or right",
+            "ty": "noun",
+            "ex": "The lawyers did not have enough proof to win the case.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "proof of identity",
+                " proof of purchase",
+                " proof of concept"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/936797b0-1b29-4130-8648-c863c40d990e.webp",
+            "Tips": [
+                {
+                    "title": "Legal Context",
+                    "description": "Used in legal situations to show evidence is strong enough to support a case.",
+                    "example": "Without solid proof, the judge dismissed the charges.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fsrhsLXmKec2uBUV7DW5XUkAl8.webp"
+                },
+                {
+                    "title": "Need for Precision",
+                    "description": "Proof must be clear and direct, leaving no room for doubt or interpretation.",
+                    "example": "Scientists require conclusive proof before declaring a new discovery.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bcm5cAQohBlrvkwMhE6EHaTKDf8.webp"
+                },
+                {
+                    "title": "Collocations Matter",
+                    "description": "Certain phrases naturally pair with 'proof', emphasizing the need for evidence.",
+                    "example": "After the trial, she demanded proof of innocence.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/o2jelxrYenzDXvH1QmqTHTOoEo.webp"
+                }
+            ]
+        },
+        {
+            "id": "a360ebca-1bbe-4371-a9da-68bc8996d37a",
+            "de": "Resistant to a particular kind of damage or harm",
+            "do": "General",
+            "ty": "adjective",
+            "ex": "The material is water-proof which makes it great for outdoor use.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "water-proof",
+                " fire-proof",
+                " bullet-proof"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a360ebca-1bbe-4371-a9da-68bc8996d37a.webp",
+            "Tips": [
+                {
+                    "title": "Describing Durability",
+                    "description": "Highlights an item's resistance to specific damage like water, fire, or bullets.",
+                    "example": "He wore a bullet-proof vest to the operation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Quality Assurance",
+                    "description": "Implies a product meets high standards of protection in its category.",
+                    "example": "This case is shock-proof, protecting your phone from falls.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Hyphenation Varies",
+                    "description": "Sometimes written as 'proof', 'proofed', or hyphenated, depending on usage.",
+                    "example": "My jacket is waterproof without the hyphen.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "30c43ddd-391b-423d-97cf-e7929b7b1f31",
+            "de": "A test to check something",
+            "do": "Mathematics, Science",
+            "ty": "noun",
+            "ex": "In mathematics, you have to show a proof for your answer.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mathematical proof",
+                " scientific proof",
+                " logical proof"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/30c43ddd-391b-423d-97cf-e7929b7b1f31.webp",
+            "Tips": [
+                {
+                    "title": "Academic Evidence",
+                    "description": "In scholarly contexts, it means a logical argument that confirms a theorem or idea.",
+                    "example": "Her paper provided a rigorous proof of the theorem.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Math Specific",
+                    "description": "Used in mathematics to denote a step-by-step explanation.",
+                    "example": "I couldn't solve the problem until I reviewed the proof.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "80f4467a-5601-46f1-a268-7d4199fe461e",
+            "de": "To make something resistant to damage or harm",
+            "do": "General",
+            "ty": "verb",
+            "ex": "They proofed the papers against water damage.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "cl": [
+                "proof against",
+                " proofed against"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/80f4467a-5601-46f1-a268-7d4199fe461e.webp",
+            "Tips": [],
+            "tp": "",
+            "op": ""
+        },
+        {
+            "id": "cf767588-13c9-4782-a374-9cb48fcca6ce",
+            "de": "Measure of alcohol content",
+            "do": "Alcohol production",
+            "ty": "noun",
+            "ex": "This whiskey is 80 proof, it's quite strong.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "am": true,
+            "cl": [
+                "80 proof",
+                " high-proof",
+                " low-proof"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cf767588-13c9-4782-a374-9cb48fcca6ce.webp",
+            "Tips": [
+                {
+                    "title": "Alcohol Content",
+                    "description": "Indicates the strength of alcohol using a specific scale in the US.",
+                    "example": "That bourbon is 90 proof, meaning it's quite potent.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Usage",
+                    "description": "The term is mainly used in the United States, not worldwide.",
+                    "example": "In Europe, they use percentage to show alcohol content, not proof.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "618c0cc4-f3f8-4aee-a190-461a7f8070d3",
+            "de": "To allow dough to rise",
+            "do": "Culinary",
+            "ty": "verb",
+            "ex": "You need to proof the dough for two hours before baking.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "proof yeast",
+                " proof before"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/618c0cc4-f3f8-4aee-a190-461a7f8070d3.webp",
+            "Tips": [
+                {
+                    "title": "Baking Process",
+                    "description": "Refers to the important step in baking where dough is allowed to expand.",
+                    "example": "Proof the dough in a warm, moist environment for best results.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Time-sensitive",
+                    "description": "Duration of proofing can affect the texture and taste of baked goods.",
+                    "example": "If you proof the dough too long, it may become too airy.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Authenticate": {
+            "wordRoot": "Authenticate",
+            "wordDefinition": "Authenticate means to verify that something is real, true or genuine. For example, when you are logging into your social media account, you may be asked to authenticate your identity by entering a password or a code that is sent to your phone.\n\nIn simple terms, authentication ensures that you are who you claim to be.\n\nIn summary, authentication is used to verify identity or genuineness of something, while proof is used to validate a claim or statement by providing evidence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f22565aa-8422-45f5-8a72-7259c8955c87.webp"
+        },
+        "Confirmation": {
+            "wordRoot": "Confirmation",
+            "wordDefinition": "Confirmation is when something is verified or agreed upon, often by a person or group.\n\nIn simpler terms, confirmation is a process of agreeing or verifying, while proof is evidence that supports or proves something to be true.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3e9c1fa-f03c-4048-88a4-65b18176363e.webp"
+        },
+        "Corroborate": {
+            "wordRoot": "Corroborate",
+            "wordDefinition": "Corroborate means to confirm or support a statement or theory with additional evidence or testimony.\n\nFor example, a witness who saw a crime and then another witness who saw the same crime and tells the same story, the second witness would be said to have corroborated the first witness's account.\n\nIn simpler terms, corroborate is used to strengthen a belief or theory while proof is used to confirm something as true with absolute certainty.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/66b9c94d-b51d-49ca-adb6-a6d98251b95c.webp"
+        },
+        "Demonstration": {
+            "wordRoot": "Demonstration",
+            "wordDefinition": "Demonstration refers to showing or illustrating how something works or is done.\n\nDemonstration is more applicable in situations where the goal is to teach or enlighten others, while proof is more applicable in situations where the goal is to establish the truth or validity of a claim.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24acecf7-2432-4deb-a767-9776018c0b7b.webp"
+        },
+        "Evidence": {
+            "wordRoot": "Evidence",
+            "wordDefinition": "Evidence refers to information or facts that support an idea or claim.\n\nIt can be used in different situations, such as a court case where the prosecution presents evidence to prove the defendant's guilt.\n\nProof refers to evidence that conclusively establishes a fact or confirms a belief.\n\nEvidence is used to support a claim, while proof is used to definitively confirm a claim.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc4989d6-72e0-4ea4-8253-0067e22978f5.webp"
+        },
+        "Substantiate": {
+            "wordRoot": "Substantiate",
+            "wordDefinition": "Substantiate means to provide support or evidence for a claim or statement, without necessarily proving it definitively.\n\nIt is often used in more casual or informal contexts, and can imply a lower standard of certainty. For example, a student might need to substantiate a point they are making in a classroom discussion by citing relevant sources or examples.\n\nProof implies a higher standard of certainty and is typically used in more formal or rigorous contexts, while substantiate implies a lower standard of certainty and is often used in more casual or everyday settings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36720bb4-5e93-4227-a677-71dfbcd619b8.webp"
+        },
+        "Testimony": {
+            "wordRoot": "Testimony",
+            "wordDefinition": "Testimony refers to statements or declarations made by a witness or an expert in a legal or formal setting. For example, in a court of law, witnesses are asked to give testimony about what they saw or heard in relation to a crime or event.\n\nTestimony is often associated with personal observation or experience.\n\nProof is about demonstrating the truth of something through evidence, while testimony is about providing a first-hand account or information from a person who witnessed or experienced something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5b7c30ff-b110-429e-afff-7e6827643b6d.webp"
+        },
+        "Verification": {
+            "wordRoot": "Verification",
+            "wordDefinition": "Verification is the process of checking whether something is true or correct.\n\nThe main difference between the two words is that proof is used to convince others that something is true, while verification is used to confirm that something is true.\n\nProof is more about providing evidence, while verification is more about testing and checking.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/85d52eda-8099-462d-9199-d931f77a2be6.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " which they raise whenever they're alarmed. They usually prefer to live in dense thickets of woodland, but the small trees and shrubs growing inside the barracks seems to be given this Owl all the cover it needs Absolute proof. And it was here. Beautiful feather. Yeah, it's gorgeous, right?",
+            "Title": "Finding Baby Seals on an...",
+            "VideoId": "whGoI0L_TLM",
+            "Controls": "start=565"
+        },
+        {
+            "Text": " a girl comes up to me and looks lost and can't talk looks like she's been abused and I say are you who you say you are have you really been abused I don't know if I can help you without proof who would do that I mean I would be a terrible human being of course I'm going",
+            "Title": "Storytelling can be...",
+            "VideoId": "JAxgqRFq1-A",
+            "Controls": "start=392"
+        },
+        {
+            "Text": " over every aspect of your life, boy, do we have a product for you. It pauses live TV, skips commercials, memorizes your viewing habits, etc., etc.\" People don't buy what you do; they buy why you do it, and what you do simply serves as the proof of what you believe.",
+            "Title": "How great leaders...",
+            "VideoId": "qp0HIF3SfI4",
+            "Controls": "start=896"
+        },
+        {
+            "Text": " for them people are get excited about the community to rebuild it to give it his promise now we are have the proof that we need to know that we will part of the is Bill Mobile we need to tell it we need to share it we need to expose it to the world",
+            "Title": "What the Discovery of...",
+            "VideoId": "pGeoFbTr3k0",
+            "Controls": "start=508"
+        },
+        {
+            "Text": " meant that there was an effective intervention to stop the virus from spreading. And finally, the initial success of several countries in eliminating the disease within their borders served as a proof of principle for its eradication worldwide.",
+            "Title": "Learning from smallpox:...",
+            "VideoId": "oBSandHijDc",
+            "Controls": "start=217"
+        },
+        {
+            "Text": " As with many unsolved mysteries of the ancient world, we may never know for sure, barring the invention of a time machine, that is. But while the answers remain elusive, these images are our earliest proof of human communication,",
+            "Title": "Explore cave paintings...",
+            "VideoId": "CX4KuIBmnjI",
+            "Controls": "start=133"
+        },
+        {
+            "Text": " and even hid Diderot's papers at his dad's house. Still, he faced years of difficulty. D'Alembert dropped out. Rousseau broke off his friendship over a line in a play. Worse yet, his publisher secretly edited some proofs",
+            "Title": "The controversial...",
+            "VideoId": "jv4bWkoG4k8",
+            "Controls": "start=245"
+        },
+        {
+            "Text": " states of others than we previously thought prairie voles which live in bonded pairs will go to great lengths to groom and nurture a mate that's showing signs of stress this isn't proof of empathy on its own",
+            "Title": "Do Animals Feel Empathy?...",
+            "VideoId": "fXUk2ylJ5YI",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " Eternal truths. But it isn't always easy to know the difference between an eternal truth, or theorem, and a mere conjecture. You need proof. For example, let's say I have a big, enormous, infinite field.",
+            "Title": "Eduardo Sáenz de...",
+            "VideoId": "pGlZi2SwETc",
+            "Controls": "start=329"
+        },
+        {
+            "Text": " all the parts of a puzzle together and to find you know this at the end of it conclusive proof that it all added up to the right signs is just incredibly exciting the rare clouded leopard raises their",
+            "Title": "Spotting One of the...",
+            "VideoId": "6hGKTW0ED0I",
+            "Controls": "start=48"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giordano-bruno.webp",
+            "Text": "It is proof of a base and low mind for one to wish to think with the masses or majority, merely because the majority is the majority. Truth does not change because it is, or is not, believed by a majority of the people.",
+            "Title": "Italian Philosopher",
+            "Name": "Giordano Bruno"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gloria-macapagal-arroyo.webp",
+            "Text": "I am falsely accused, without proof, of using my position for personal profit. Many who accuse me have lifestyles and spending habits that make them walking proofs of that crime.",
+            "Title": "Filipino Statesman",
+            "Name": "Gloria Macapagal Arroyo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gilbert-k-chesterton.webp",
+            "Text": "In matters of truth the fact that you don't want to publish something is, nine times out of ten, a proof that you ought to publish it.",
+            "Title": "English Writer",
+            "Name": "Gilbert K. Chesterton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rodney-dangerfield.webp",
+            "Text": "I remember the time I was kidnapped and they sent a piece of my finger to my father. He said he wanted more proof.",
+            "Title": "American Comedian",
+            "Name": "Rodney Dangerfield"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/park-won-soon.webp",
+            "Text": "Seoul is ready to share with the world proof that local actions can achieve global vision.",
+            "Title": "South Korean Politician",
+            "Name": "Park Won-soon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lady-colin-campbell.webp",
+            "Text": "I'm living proof that whatever happens to you in life, you can turn base metal into gold.",
+            "Title": "British Writer",
+            "Name": "Lady Colin Campbell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fantasia-barrino.webp",
+            "Text": "You can't tell me that dreams don't come true. My life is proof that they do.",
+            "Title": "American Musician",
+            "Name": "Fantasia Barrino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-zolciak-biermann.webp",
+            "Text": "I'm living proof that you can create your own life.",
+            "Title": "American Celebrity",
+            "Name": "Kim Zolciak-Biermann"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mariska-hargitay.webp",
+            "Text": "Life begins at 40, and I'm living proof.",
+            "Title": "American Actress",
+            "Name": "Mariska Hargitay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andrew-wiles.webp",
+            "Text": "Fermat said he had a proof.",
+            "Title": "English Mathematician",
+            "Name": "Andrew Wiles"
+        }
+    ]
+}

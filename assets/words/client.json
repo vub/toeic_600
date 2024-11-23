@@ -1,0 +1,295 @@
+{
+    "currentWord": {
+        "wordRoot": "client",
+        "id": 18979,
+        "phonemic": "ˈklaɪənt|ˈklaɪənt\r",
+        "bigId": "8df04670-7377-4c3f-9211-dc2597ba0352",
+        "wordForms": [
+            "clients",
+            "client"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8df04670-7377-4c3f-9211-dc2597ba0352",
+            "de": "A person or organization using the services or advice of a professional or company.",
+            "ty": "noun",
+            "ex": "The lawyer met with his client to discuss the case.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "client services",
+                " client satisfaction",
+                " client relationship"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8df04670-7377-4c3f-9211-dc2597ba0352.webp",
+            "Tips": [
+                {
+                    "title": "Service Relationship",
+                    "description": "Emphasizes ongoing interaction between the client and the service provider.",
+                    "example": "As a client, she regularly checked in with her consultant.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1dnCexxDOmnrGTF9x7sbPS0w.webp"
+                },
+                {
+                    "title": "Professional Context",
+                    "description": "Often used in formal or business situations where services are exchanged.",
+                    "example": "The agency's clients expect high-quality service.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/J3R9IcexhMg078D4QusC93qMhA.webp"
+                },
+                {
+                    "title": "Not Just Purchases",
+                    "description": "A client implies more than just a transaction; it includes advice or expertise.",
+                    "example": "As her client, I trust her financial advice.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/CLe615QpIVhLftQUndpcpqCvlqU.webp"
+                }
+            ]
+        },
+        {
+            "id": "91c86485-e045-41f6-9328-f945d2d21e64",
+            "de": "In computing, a piece of software or hardware that accesses a service made available by a server.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The client software communicates with the server to request information.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "client server",
+                " client application",
+                " client access"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/91c86485-e045-41f6-9328-f945d2d21e64.webp",
+            "Tips": [
+                {
+                    "title": "Technical Usage",
+                    "description": "Specific to technology; client software or hardware relies on server resources.",
+                    "example": "Her laptop is the client in this network.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Part of a System",
+                    "description": "Involves interaction within a network or system, not standalone use.",
+                    "example": "The client application needs the server to function.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Server Dependent",
+                    "description": "The client requests and receives services from a central server.",
+                    "example": "The website's client requests data from a central server.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7c4fa270-c82b-4f81-a5ed-b8d8936da603",
+            "de": "In ancient Rome, a plebeian protected by a patrician, also known as a patron.",
+            "do": "History",
+            "ty": "noun",
+            "ex": "In ancient Rome, a client was often obligated to support their patron's interests.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "patron and client",
+                " client protection",
+                " client obligations"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7c4fa270-c82b-4f81-a5ed-b8d8936da603.webp",
+            "Tips": [
+                {
+                    "title": "Historical Patrons",
+                    "description": "In ancient Rome, reflects a hierarchical social system of patronage.",
+                    "example": "He was a client of a prominent senator.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Social Obligation",
+                    "description": "Clients owed their patrons loyalty and support in return for protection.",
+                    "example": "The client supported his patron's political campaigns.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Just Business",
+                    "description": "This relationship was personal, linking individuals across social classes.",
+                    "example": "Ancient clients often dined with their patrons.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Account": {
+            "wordRoot": "Account",
+            "wordDefinition": "An account is a record of financial transactions that a person or organization has with a particular bank or business. For example, if you have a bank account, it means you have deposited your money in that bank and you can use that money when you need it.\n\nAn account is applicable when dealing with money or financial transactions, whereas a client is applicable when receiving services or advice from a professional or company.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/250fda7e-1773-4c14-9bc9-cc54242073dc.webp"
+        },
+        "Buy": {
+            "wordRoot": "Buy",
+            "wordDefinition": "Buy means to purchase something by paying for it, typically with money. It is applicable when someone is exchanging money for a product or service.\n\nBuy is used when exchanging money for a product or service once, while client is used for an ongoing relationship where a person or organization is receiving services or advice on a regular basis.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/520de066-2bd6-4f2f-ba80-2a4a09b47c1d.webp"
+        },
+        "Consumer": {
+            "wordRoot": "Consumer",
+            "wordDefinition": "Client is used to refer to someone who seeks and receives professional services from a service provider, while the word consumer refers to someone who buys and uses products.\n\nFor example, a person who goes to a lawyer to seek legal advice is considered the lawyer's client. A person who buys a smartphone from a company and uses it as their own is considered the company's consumer.\n\nIn summary, ‘client’ refers to a person who receives professional services, and ‘consumer’ refers to a person who buys and uses products.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e4e002d3-9ed7-4c67-bd6e-5a5a8dcefc33.webp"
+        },
+        "Customer": {
+            "wordRoot": "Customer",
+            "wordDefinition": "Both words client and customer refer to people who buy goods or services.\n\nA customer is someone who visits a store and purchases a product or service on a one-time or occasional basis. For example, when you buy a pair of shoes from a shoe store, you are a customer.\n\nThe main difference between a customer and a client is the duration and purpose of the relationship.\n\nA customer typically engages with a business on a transactional and infrequent basis, while a client has a sustained and ongoing relationship with a business or individual.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a81ac2b4-9575-4899-bd07-d73d427c9e32.webp"
+        },
+        "Guest": {
+            "wordRoot": "Guest",
+            "wordDefinition": "Guest is usually used in a social context to refer to a person who is invited to an event or someone who is staying in someone else's home.\n\nFor example, when you attend a friend's birthday party, you are a guest.\n\nA client is someone who uses or pays for a service, while a guest is someone who is invited to an event or stays in someone's home.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4f5c2a3a-1d23-4607-9417-091586abab46.webp"
+        },
+        "Member": {
+            "wordRoot": "Member",
+            "wordDefinition": "Member typically refers to a person who is part of a group, organization, or community. For example, if you join a gym, you become a member of the gym.\n\nThe main difference between client and member is that a client is someone who buys a product or service from a business, while a member is someone who belongs to a group or organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6cd507f5-7a7e-4c74-97d0-a162442f1a33.webp"
+        },
+        "Patron": {
+            "wordRoot": "Patron",
+            "wordDefinition": "Both the words client and patron refer to someone who uses a service or buys something from a business.\n\nA patron is someone who uses a service or buys something regularly, such as a regular customer of a restaurant or a supporter of a charity.\n\nIt implies a more personal and supportive relationship. For example, if you visit the same restaurant regularly and have a good relationship with the owner, you may be considered a patron of the restaurant.\n\nA client is someone who pays for a professional service, while a patron is someone who uses a service or buys something regularly and supports the business or organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c700fda0-4417-4305-b514-dc36fea86229.webp"
+        },
+        "User": {
+            "wordRoot": "User",
+            "wordDefinition": "User generally refers to someone who uses a product or service, like an app, website, or piece of software. For example, if someone uses Instagram to post pictures, they would be considered a user of Instagram.\n\nUser is more widely applicable to any type of product or service, while client typically refers to a professional service relationship.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/39f81eb1-3867-4450-980e-e2e52c3122aa.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " remembered fewer details a week later. And in my research, employees who were paid for their performance spent increasingly less time interacting with friends and family, and more and more time interacting with colleagues and clients. These constant interruptions come at a cost to organizations, too.",
+            "Title": "3 rules for better...",
+            "VideoId": "4c_xYLwOx-g",
+            "Controls": "start=73"
+        },
+        {
+            "Text": " my parents were really supportive. Many publishers were not quite so encouraging. One large children's publisher ironically said that they didn't work with children. Children's publisher not working with children? I don't know, you're kind of alienating a large client there.",
+            "Title": "What adults can learn...",
+            "VideoId": "V-bjOJzB7LY",
+            "Controls": "start=336"
+        },
+        {
+            "Text": " a client can clip into with an ascender and just keep putting one foot after another all the way to the top of the mountain. And quite often people will go up incredibly difficult looking faces and dangerous faces with the help of the Sherpas just because of these ropes.",
+            "Title": "Unsung Heroes of Everest...",
+            "VideoId": "ihmfkdEcDyk",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " wasn't spending my time wisely I was over investing in client care and under investing in self-care I was so busy reacting to other people's emergencies that I had little time for the prevention of my own instead of",
+            "Title": "Time Debt PIPE Linda...",
+            "VideoId": "RYYv2GRotZQ",
+            "Controls": "start=131"
+        },
+        {
+            "Text": " The family’s personal spiritual advisor likely painted it into the book to remind his clients of their failings and encourage their spiritual development. Some artists even painted themselves into the manuscripts.",
+            "Title": "What is a butt tuba and...",
+            "VideoId": "LgBj48s1SA8",
+            "Controls": "start=199"
+        },
+        {
+            "Text": " and then raise nearly half a million dollars from a community that gathered around their cause, no one client anymore. It means that no building is too small for innovation, like this little reindeer pavilion",
+            "Title": "Why the buildings of the...",
+            "VideoId": "hha0NsYXS5c",
+            "Controls": "start=963"
+        },
+        {
+            "Text": " wow it's a client we need your faith look at this one it's gonna start to your greed do you see that orange fish there's a clear on angelfish he's attracted because he claims the parasites of the manta rays",
+            "Title": "Dive with Giant Manta...",
+            "VideoId": "MIFVtVYfU90",
+            "Controls": "start=147"
+        },
+        {
+            "Text": " the greater the likelihood that you're going to save your client's life. That's the first thing I've learned. Here's the second thing I My client Will was not the exception to the rule; he was the rule.",
+            "Title": "Lessons from death row...",
+            "VideoId": "HYzrdn7YLCM",
+            "Controls": "start=483"
+        },
+        {
+            "Text": " by the time you get to adult life. So we see a lot of this. When we have a workshop or when we have clients in to work with us side by side, eventually we get to the point in the process",
+            "Title": "How to build your...",
+            "VideoId": "16p9YRF0l-g",
+            "Controls": "start=87"
+        },
+        {
+            "Text": " that we arrive and tell you what to do. And so what I did in Esperance that first year was to just walk the streets, and in three days I had my first client, and I helped this first guy",
+            "Title": "Ernesto Sirolli: Want to...",
+            "VideoId": "chXsLtHqfdM",
+            "Controls": "start=520"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judy-smith.webp",
+            "Text": "I will say this about the truth - that it's one of those crisis rules, whether you are a client or someone who's living their life just every day - is that the truth has a funny way of not going away, and telling the truth is extremely important in dealing with any problem or crisis.",
+            "Title": "American Producer",
+            "Name": "Judy Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-lois.webp",
+            "Text": "Nobody should force you to do a bad piece of work in your whole life - no client, no creative director, nobody. The job isn't to please the client; the job is to produce something for the client that makes them incredibly successful.",
+            "Title": "American Artist",
+            "Name": "George Lois"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giorgio-armani.webp",
+            "Text": "I have never had anything to do with the kind of fashion that is influenced by the press or identified with the spirit of the season. My clients come for me; they come back each season for my spirit. That's the reality.",
+            "Title": "Italian Designer",
+            "Name": "Giorgio Armani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paul-zane-pilzer.webp",
+            "Text": "You have to be passionate about your business. If you don't love your business, you are doing a terrible disservice to your customers and clients, your team members and business partners, your family and yourself.",
+            "Title": "American Economist",
+            "Name": "Paul Zane Pilzer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jocko-willink.webp",
+            "Text": "A lot of times, people have something that they're afraid of. They've got a client that's mad at them. They've got a project that's due. And they let that stress hang over their head. I don't let that happen.",
+            "Title": "American",
+            "Name": "Jocko Willink"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/latoya-jackson.webp",
+            "Text": "I married him because he told me it was the only way he could protect me. If we were just manager and client, my family could do whatever they wanted to get me back, but if I was his wife, they couldn't.",
+            "Title": "American Musician",
+            "Name": "LaToya Jackson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julie-sweet.webp",
+            "Text": "I don't care what level you are, there is the need to offer straight talk when you're working with clients. You have to have the courage to deliver tough messages.",
+            "Title": "American Businesswoman",
+            "Name": "Julie Sweet"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/coco-rocha.webp",
+            "Text": "It's especially important to make sure all clients are happy. You don't want to get stuck into a corner and for people to think you now only have one look.",
+            "Title": "Canadian Model",
+            "Name": "Coco Rocha"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-scott.webp",
+            "Text": "There have been some clients who have said, 'In order to compete, I'm going to put a pool in and then sell the house.' That's a terrible idea.",
+            "Title": "Canadian Entertainer",
+            "Name": "Jonathan Scott"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-kennedy.webp",
+            "Text": "A good lawyer is going to try to protect her client.",
+            "Title": "American Lawyer",
+            "Name": "John Kennedy"
+        }
+    ]
+}

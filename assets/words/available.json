@@ -1,0 +1,323 @@
+{
+    "currentWord": {
+        "wordRoot": "available",
+        "id": 1529,
+        "phonemic": "əˈveɪləbl|əˈveɪləbl\r",
+        "bigId": "1681a477-fe89-46af-b2fe-436733449b1c",
+        "wordForms": [
+            "unavailable",
+            "available"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1681a477-fe89-46af-b2fe-436733449b1c",
+            "de": "Something that is ready for use or able to be used",
+            "ty": "adjective",
+            "ex": "These apples are available for baking.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "rooms available",
+                " tickets available",
+                " appointments available"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1681a477-fe89-46af-b2fe-436733449b1c.webp",
+            "Tips": [
+                {
+                    "title": "Physical Items",
+                    "description": "Use 'available' for items you can physically use or borrow.",
+                    "example": "Bikes are available for rent.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/f9S4gfaG2pFpt72eqrjePYgLxY.webp"
+                },
+                {
+                    "title": "Not Always Free",
+                    "description": "'Available' doesn't imply something is without cost, just obtainable.",
+                    "example": "Tickets are available at the box office.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/dXwt65TGrv1SgOGBf2u1e0yFoIo.webp"
+                },
+                {
+                    "title": "Timing Matters",
+                    "description": "The item's availability might be limited to certain times.",
+                    "example": "The gym is only available in the morning.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UtS8jdEzUvk0ptuV2vqmZbp1pYE.webp"
+                }
+            ]
+        },
+        {
+            "id": "8c04c302-cc70-467a-ac7e-d7065cb4f780",
+            "de": "Someone who is not busy and is therefore free to talk or meet",
+            "ty": "adjective",
+            "ex": "She will be available to meet at 2 pm.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "available for meeting",
+                " available for discussion",
+                " professor is available"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8c04c302-cc70-467a-ac7e-d7065cb4f780.webp",
+            "Tips": [
+                {
+                    "title": "Planning Schedules",
+                    "description": "'Available' is often used when organizing meetings or events.",
+                    "example": "Are you available for lunch on Monday?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conveying Flexibility",
+                    "description": "Suggests flexibility and willingness to accommodate others' schedules.",
+                    "example": "I'm available all afternoon for your call.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Quick Availability",
+                    "description": "Expresses rapid readiness, often for urgent matters.",
+                    "example": "I'm available right now if you need help.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a1a284cd-be95-4c88-bdfd-71a9031b51f6",
+            "de": "Able to be bought or used",
+            "ty": "adjective",
+            "ex": "This product is not available in your country.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "available in stores",
+                " available online",
+                " not available"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a1a284cd-be95-4c88-bdfd-71a9031b51f6.webp",
+            "Tips": [
+                {
+                    "title": "Market Availability",
+                    "description": "Use when something is available for purchase in certain locations.",
+                    "example": "This model is now available in Europe.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Release Announcement",
+                    "description": "Indicates when new products are put on sale.",
+                    "example": "The book will be available next Thursday.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Limited Availability",
+                    "description": "Signals that an item may be difficult to find or soon out of stock.",
+                    "example": "These shoes are available, but only while supplies last.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "dbe319b5-e52c-48ce-9af7-f102f3303db6",
+            "de": "Able to be obtained, used, or reached",
+            "do": "Computing",
+            "ty": "adjective",
+            "ex": "Information is readily available on the internet.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "readily available",
+                " widely available",
+                " information available"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dbe319b5-e52c-48ce-9af7-f102f3303db6.webp",
+            "Tips": [
+                {
+                    "title": "Digital Reachability",
+                    "description": "Refers to online or digital items that can be easily accessed.",
+                    "example": "Our database is available 24/7 online.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Information Access",
+                    "description": "Highlights accessibility of information via the internet or databases.",
+                    "example": "The latest research papers are available in the library.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accessible": {
+            "wordRoot": "Accessible",
+            "wordDefinition": "Accessible means something that can be easily reached or entered, or something that can be understood or used by someone.\n\nIt refers to how easy it is to get to or use something. For example, a building can be accessible if it has ramps and elevators for people with disabilities.\n\nTo sum up - accessible means something is easy to get to or use, while available means something is currently offered or existing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b94ab8bc-35a0-4e0a-9493-bc9949c7bc7a.webp"
+        },
+        "Attain": {
+            "wordRoot": "Attain",
+            "wordDefinition": "Attain means to achieve or reach a goal, while available means to have access to or be able to obtain something.\n\nFor example, you can attain good grades by studying hard and completing assignments, but a scholarship may not be available to everyone.\n\nAttain is applicable when talking about personal achievements, while available is applicable when talking about accessibility or whether something is within reach or not.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a76e45b6-6772-40a8-b731-21c122c2a6cc.webp"
+        },
+        "Obtain": {
+            "wordRoot": "Obtain",
+            "wordDefinition": "Available means something is present or can be obtained easily. For example, there may be a lot of ice cream flavors available at the store.\n\nObtain means to acquire something, usually through effort or difficulty. For example, you may need to obtain a passport in order to travel to another country.\n\nAvailable refers to something that is currently accessible, while obtain refers to the act of acquiring something that may not be readily accessible.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74ca53ea-29c3-49b7-8184-25c4d7d811bf.webp"
+        },
+        "Offer": {
+            "wordRoot": "Offer",
+            "wordDefinition": "Offer means to provide something for someone to take or accept. For example, a company may offer a discount to its customers or an employer may offer a job to a candidate.\n\nIn simpler terms, available means that something is there and can be used or bought, whereas offer means that someone is giving or providing something to someone else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5c1e662c-501d-4f76-9c09-a87453c02ada.webp"
+        },
+        "On hand": {
+            "wordRoot": "On hand",
+            "wordDefinition": "The phrase on hand means that something is physically present or easily accessible. For example, a store might have a certain product on hand, meaning they have it in stock and ready to sell.\n\nThe difference between the two is that available refers to something that can be obtained or accessed, while on hand refers to something that is already present or easily accessible.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f96b6c1e-1e28-417d-a83c-1a9f9a31f44a.webp"
+        },
+        "Present": {
+            "wordRoot": "Present",
+            "wordDefinition": "Present means that something or someone is physically in a particular place or situation. For example, a teacher is present in the classroom.\n\nAvailable is used when referring to something that can be used or obtained, while present is used when referring to something or someone that is physically in a particular place or situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2bf9fb1d-786b-4595-85a1-d38507078281.webp"
+        },
+        "Reach": {
+            "wordRoot": "Reach",
+            "wordDefinition": "Reach means to extend your arm or body to touch, grab, or grasp something.\n\nIt is often used to describe physical actions or movements, such as reaching for a book on a high shelf.\n\nAdditionally, it can also refer to the extent of influence or impact that someone or something has. For example, a celebrity might have a large social media following, which gives them a wide reach.\n\nAvailable describes something that is accessible or obtainable, while reach refers to either physical extension or the extent of influence or impact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06f7c490-d09c-4f45-b475-7c3aaa985aef.webp"
+        },
+        "Ready": {
+            "wordRoot": "Ready",
+            "wordDefinition": "Ready, on the other hand, implies that something is not only present and accessible, but has also been fully prepared and is in the appropriate state to be used.\n\nFor example, a meal might be ready if it has been cooked and is on the table, while it may not be available if it is still being prepared in the kitchen.\n\nThe difference lies in whether something is simply present and accessible (available) versus also being fully prepared and in the correct state for use (ready).",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/43a2c60c-f143-4d48-98c6-15d04b6f9529.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " been available for many of our native fish dogs like snapper and grouper that are feeding on similar small bodied reef fishes they're also certainly having a direct predatory impact on many of those small reef fishes and while we don't fish for those species those species perform important ecological services on",
+            "Title": "Divers Fight the...",
+            "VideoId": "GzaeYzAC8Ro",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " without also having cracked the additional challenge of ensuring perfect safety. So I think that we should work out a solution to the control problem in advance, so that we have it available by the time it is needed. Now it might be that we cannot solve the entire control problem in advance",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=929"
+        },
+        {
+            "Text": " that repeatedly reuse and rebuild ingredients crafting as much as possible out of the planet's available resources. Such as that sugar, built using raw sunlight and carbon converted in plant factories to become the energy that powers you and keeps the cycles revolving in your own life.",
+            "Title": "Nature's smallest...",
+            "VideoId": "0UzMaoaXKaM",
+            "Controls": "start=301"
+        },
+        {
+            "Text": " that helps you organize the information you need to complete a task. Worrying about being able to solve math problems, or not doing well on a test, eats up working memory, leaving less of it available to tackle the math itself. People can suddenly struggle with even basic math skills,",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=69"
+        },
+        {
+            "Text": " And then there's the insects' mighty power of metamorphosis. This trait not only transforms insects, but also helps them maximize the available resources in an ecosystem. Take butterflies. In their larval caterpillar form, they chomp hungrily through leaves at a rapid rate",
+            "Title": "Why are there so many...",
+            "VideoId": "2ivZ6GSaK1M",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " The electrons are no longer available to flow through a circuit and the battery dies. Some everyday rechargeable batteries will die after only hundreds of discharge-recharge cycles, while newer, advanced batteries can survive and function for thousands.",
+            "Title": "How batteries work -...",
+            "VideoId": "9OVtk6G2TnQ",
+            "Controls": "start=197"
+        },
+        {
+            "Text": " adapting devices or creating solutions when what was available did it work it's something I've always embraced it's something I've carried over into my work as an occupational therapist the use of technology to help",
+            "Title": "Accessible fart machines...",
+            "VideoId": "-We84cxubCY",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " As the reporters and photographers cheer, the professor promises his planes will soon be available for commercial flights, just as soon as they figure out how to keep their inflight meals from spilling everywhere.",
+            "Title": "Can you solve the...",
+            "VideoId": "dzrwnwOx0fw",
+            "Controls": "start=242"
+        },
+        {
+            "Text": " the soft corals are one of the main reasons that all this life is attracted to the yongala almost every available space on its once smooth hull is covered with them",
+            "Title": "ONE HOUR Of Amazing...",
+            "VideoId": "CSgDjZ_Vv8g",
+            "Controls": "start=1076"
+        },
+        {
+            "Text": " Imagine that you're a crow. Here's your food in a deep hole. How would you go about, with the tools available to you on this table, solving this problem?",
+            "Title": "Are Crows the Ultimate...",
+            "VideoId": "cbSu2PXOTOc",
+            "Controls": "start=16"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/quentin-tarantino.webp",
+            "Text": "One of the privileges you have of living the life of an artist and creating your own world and everything is the fact that, in-between times, you can kind of spend them however you want. Because, you know, once you open up your candy store again, you're open for business. And you have to be responsible. You have to be available.",
+            "Title": "American Director",
+            "Name": "Quentin Tarantino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gale-harold.webp",
+            "Text": "You are preparing yourself for a scene, and the most important thing is to remain emotionally available and remain in the moment with your scene partner. You don't want to let your own self-consciousness block the flow of creativity that's coming out so that you can act and react, and play what the scene is all about.",
+            "Title": "American Actor",
+            "Name": "Gale Harold"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/haley-joel-osment.webp",
+            "Text": "For me, choice is the most important thing because I'm going to be an adult actor pretty soon. So I've got to be choosing the right roles now so that by the time I get to that age there will be wide options available.",
+            "Title": "American Actor",
+            "Name": "Haley Joel Osment"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-byrne.webp",
+            "Text": "As I visited the various neighborhoods in the campaign, I learned fast that it's a mistake to think that all of the wisdom and possible solutions to our problems are available only in this building.",
+            "Title": "American Politician",
+            "Name": "Jane Byrne"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helmut-lang.webp",
+            "Text": "In the fashion world if you're successful, everyone loves you, and you have available every service. It's hard to walk away, except it wasn't hard for me. I had my mind completely made up.",
+            "Title": "Austrian Designer",
+            "Name": "Helmut Lang"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thich-nhat-hanh.webp",
+            "Text": "People sacrifice the present for the future. But life is available only in the present. That is why we should walk in such a way that every step can bring us to the here and the now.",
+            "Title": "Vietnamese Clergyman",
+            "Name": "Thich Nhat Hanh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emmanuel-lubezki.webp",
+            "Text": "I would love if film doesn't disappear, if we can have film forever so we would have all these brushes, all these possibilities available.",
+            "Title": "Mexican Director",
+            "Name": "Emmanuel Lubezki"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/faye-marsay.webp",
+            "Text": "I feel passionately that the opportunities I have had should be available to everyone.",
+            "Title": "English Actress",
+            "Name": "Faye Marsay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gail-sheehy.webp",
+            "Text": "The delights of self-discovery are always available.",
+            "Title": "American Writer",
+            "Name": "Gail Sheehy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pepe.webp",
+            "Text": "I'm always available to help Madrid.",
+            "Title": "Brazilian Athlete",
+            "Name": "Pepe"
+        }
+    ]
+}

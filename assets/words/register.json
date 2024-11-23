@@ -1,0 +1,377 @@
+{
+    "currentWord": {
+        "wordRoot": "register",
+        "id": 13872,
+        "phonemic": "ˈredʒɪstə(r)|ˈredʒɪstər\r",
+        "bigId": "c3d315ee-352d-4337-a592-7a5c9a8f9a0f",
+        "wordForms": [
+            "registers",
+            "registering",
+            "registered",
+            "register"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c3d315ee-352d-4337-a592-7a5c9a8f9a0f",
+            "de": "An official list or record for something",
+            "ty": "noun",
+            "ex": "His name is not on the school register.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "register office",
+                " property register",
+                " register vote"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c3d315ee-352d-4337-a592-7a5c9a8f9a0f.webp",
+            "Tips": [
+                {
+                    "title": "Official Record",
+                    "description": "Used for formal contexts where official documentation is involved.",
+                    "example": "Her marriage was finalized in the city register.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/LYX2nII5ASoarpYxTuS3gM6yOY.webp"
+                },
+                {
+                    "title": "Legal Documentation",
+                    "description": "Often related to legal or semi-legal documentation of events or assets.",
+                    "example": "The register of deeds includes all property transactions.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OZh1BIzLs87acRLtNA7sHiufTk.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "adb413c5-5534-46fc-9250-a396d0121cde",
+            "de": "To record or list something officially",
+            "ty": "verb",
+            "ex": "He registered his birth certificate.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "register vote",
+                " register name",
+                " register company"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/adb413c5-5534-46fc-9250-a396d0121cde.webp",
+            "Tips": [
+                {
+                    "title": "Action Required",
+                    "description": "Implies an action of listing or recording, often by someone's initiative.",
+                    "example": "You need to register online to attend the webinar.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Starting Point",
+                    "description": "Beginning step in a process, such as voting or attending an event.",
+                    "example": "Students should register for courses early to avoid full classes.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8e6d81d1-6d94-4c86-af46-465ab3bd63d0",
+            "de": "A part of the range of a voice or musical instrument",
+            "do": "Music",
+            "ty": "noun",
+            "ex": "The soprano's high register is clear and pure.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "upper register",
+                " lower register",
+                " musical register"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8e6d81d1-6d94-4c86-af46-465ab3bd63d0.webp",
+            "Tips": [
+                {
+                    "title": "Technical Term",
+                    "description": "Specific to music; may be unclear to non-musicians without context.",
+                    "example": "Celia practiced singing in a lower register.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Voice Variation",
+                    "description": "Defines the range of sounds from high to low in voice or instruments.",
+                    "example": "He has an impressive register when he plays the trumpet.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "563e0804-963b-459a-a2b9-85e5bb92f345",
+            "de": "To notice, understand or feel something",
+            "ty": "verb",
+            "ex": "I registered the shock on his face.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "register shock",
+                " register surprise",
+                " register emotion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/563e0804-963b-459a-a2b9-85e5bb92f345.webp",
+            "Tips": [
+                {
+                    "title": "Subtle Perceptions",
+                    "description": "Can be used to describe noticing subtle details or changes.",
+                    "example": "She didn't register the sly glance he gave her.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Internal Reaction",
+                    "description": "Describes internal responses that may not be immediately obvious to others.",
+                    "example": "He registered disappointment, but quickly hid it with a smile.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "9b2edf40-1b7b-4955-bb4a-1db36b5c1159",
+            "de": "A device in a store's cash register",
+            "ty": "noun",
+            "ex": "The total will be $7.99, I'll ring it up at the register.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cash register",
+                " register receipt",
+                " register draw"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9b2edf40-1b7b-4955-bb4a-1db36b5c1159.webp",
+            "Tips": [
+                {
+                    "title": "Transaction Tool",
+                    "description": "Refers to a device commonly used in retail for transactions.",
+                    "example": "Once you've scanned all items, enter the total into the register.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Checkout Point",
+                    "description": "Specifically associated with the area in a store where payments are made.",
+                    "example": "Please bring your selection to the register for purchase.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6504fe2c-3801-4356-8f5e-6e86cbbd4b53",
+            "de": "A place to store data",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The CPU register stores the data temporarily for quick access.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cpu register",
+                " data register",
+                " register memory"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6504fe2c-3801-4356-8f5e-6e86cbbd4b53.webp",
+            "Tips": [
+                {
+                    "title": "Computer Component",
+                    "description": "In computing, it's an essential component not typically seen by users.",
+                    "example": "The programmer checked the register for the calculation result.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporary Storage",
+                    "description": "Computing registers hold data briefly for quick processing.",
+                    "example": "This register holds the address of the next instruction.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Catalogue": {
+            "wordRoot": "Catalogue",
+            "wordDefinition": "A catalogue refers to a comprehensive list or collection of items, while a register refers to an official record of names, details, or events.\n\nA catalogue is typically used for organizing and presenting information about products, services, or other items in a systematic way, often for marketing or selling purposes.\n\nFor example, a clothing store might produce a catalogue of their new collection, showcasing the different styles, colors, and sizes available.\n\nA catalogue is a collection of information organized for presentation, while a register is an official record for documentation purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/941a39ec-5b31-4254-987a-eb9b3c6a2311.webp"
+        },
+        "Enrol": {
+            "wordRoot": "Enrol",
+            "wordDefinition": "The words enrol and register are both used to mean signing up or joining something, like a school or a club.\n\nEnrol is usually used when signing up for a course, class or program. For example, if you sign up for a language course, you would be said to enrol in it.\n\nEnrol is used when signing up for a course or program, while register can be used for both specific sign-ups and general memberships.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8095a02-be46-4a15-8c2b-6ac1bdb44d5f.webp"
+        },
+        "File": {
+            "wordRoot": "File",
+            "wordDefinition": "File typically refers to a collection of documents or data that is stored electronically or physically, like a file on a computer or a physical file in a cabinet.\n\nFile is more commonly used in the context of documents or data storage, while register is more commonly used in the context of tracking information or events.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b333a4e-d8ec-4bda-8ac6-3cbd6d6b19d4.webp"
+        },
+        "Inventory": {
+            "wordRoot": "Inventory",
+            "wordDefinition": "Inventory refers to the list of goods or materials that a business or organization has in stock. It includes the quantity, description, and value of each item.\n\nInventory refers to the goods or materials that a business has, while a register is a tool used to track sales or transactions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1.webp"
+        },
+        "Ledger": {
+            "wordRoot": "Ledger",
+            "wordDefinition": "A ledger is a book or computer file where a company keeps track of all its financial transactions. It shows the money coming in and out of the company, and it's used to calculate how much money the company has made or lost.\n\nA ledger is specifically used for financial transactions, while a register can be used for a variety of things depending on the context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/da2667e6-8713-4b58-839c-2bda77ed6c23.webp"
+        },
+        "List": {
+            "wordRoot": "List",
+            "wordDefinition": "List means to create a record of something in a particular order. For example, you may create a list of groceries you need to buy or a list of people attending a party.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b2715178-90a7-45be-8be3-37a2033682e7.webp"
+        },
+        "Log": {
+            "wordRoot": "Log",
+            "wordDefinition": "A log is a written record of events, usually maintained chronologically.\n\nLogging could involve noting time, place, and duration of an event or activity.\n\nA log is appropriate for maintaining a chronological record of events or activities, while a register is suitable for keeping track of specific items, people, or events that require monitoring or documentation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/02f41283-1877-493e-8420-68f905d3dacb.webp"
+        },
+        "Record": {
+            "wordRoot": "Record",
+            "wordDefinition": "Record means to document something or make a note of it.\n\nIt is usually used to refer to keeping track of information. For example, a doctor might record a patient's medical history in their file or a teacher might record a student's grades in a class.\n\nRecord refers to documenting information and register refers to formally signing up for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/39d86227-3e4d-4457-95c0-d2441a2bfb8d.webp"
+        },
+        "Roster": {
+            "wordRoot": "Roster",
+            "wordDefinition": "Roster generally refers to a schedule or list of tasks or duties that need to be performed by people. Rosters are used to assign and organize duties among a group, such as employees or team members.\n\nFor example, a sports team might make a roster of its players' positions and responsibilities, or a company might create a roster of its employees' shifts and tasks.\n\nA register is a list of information, and a roster is a list of tasks or duties. One is used for record-keeping purposes, and the other is used for organizing and assigning work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14082716-7b9e-4fd6-b100-62d984b76dd7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " they need to justify it to themselves. Some feel entitled to the money because they are underpaid and overworked and others believe their fraud is victimless, perhaps even planning to return the money once their crisis is resolved. Some of the most common types of fraud don't even register as such to the perpetrator.",
+            "Title": "How people rationalize...",
+            "VideoId": "Tb6QX9Yy1GM",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " And these people go to great lengths to hide any links between their names and the companies they own. The life of an anonymous company usually begins in what's known as a secrecy jurisdiction, a place whose laws allow new companies to be registered with little disclosure about who owns or controls them.",
+            "Title": "How exposing anonymous...",
+            "VideoId": "FyOVMqAIFw8",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " And the most staggering thing of all of this, to me, is that not only is this a problem, not only do we recognize that this is a problem, but we've had to suffer fake fixes. We've had people pretend that this is a problem that's been fixed. First of all, we had trials registers, and everybody said,",
+            "Title": "What doctors don't know...",
+            "VideoId": "RKmxL8VYy0M",
+            "Controls": "start=672"
+        },
+        {
+            "Text": " And she said, you can't make that conclusion, because animals don't register pain or pleasure on their faces in the same way that we do. Pigs, for example, are more like dogs. They use the upper half of the face; the ears are very expressive. So you're not really sure what's going on with the pig.",
+            "Title": "Mary Roach: 10 things...",
+            "VideoId": "7jx0dTYUO5E",
+            "Controls": "start=807"
+        },
+        {
+            "Text": " As an amateur artist Hermann was fascinated by how visual perception varies from person to person. He carried this interest to medical school, where he learned all our senses are deeply connected. He studied how our process of perception doesn’t just register sensory inputs, but transforms them.",
+            "Title": "How does the Rorschach...",
+            "VideoId": "LYi19-Vx6go",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " between humans, nature, and culture than with character or plot. These themes manifest in a truly upsetting production which combines harsh music, jerky dancing, and uncanny staging. It opens with dancers awakening to a solo bassoon, playing in an eerily high register.",
+            "Title": "The ballet that incited...",
+            "VideoId": "8FXA_8LR2IM",
+            "Controls": "start=53"
+        },
+        {
+            "Text": " you're looking at is the tiny little guy stuck there forever until a cue arrives this is called a flip-flop a standard flip-flop when put together turns into registers registers give you rise to memory and we have all the basic units",
+            "Title": "Computing with fluids PIPE...",
+            "VideoId": "OhroLzvW-JI",
+            "Controls": "start=808"
+        },
+        {
+            "Text": " it should register... about 120 pounds per square inch. To get the dragons to bite, we're going to need a little bit of encouragement in the form of some honking meat. We have a bite test gauge with stinking rotten meat on it.",
+            "Title": "Largest Lizard on Earth...",
+            "VideoId": "28FzV5OHqMU",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " through the external area the fenceline which is actually has cuts in it and then trespass through the wildlife area make sure all the weapons are registered ones that are more serious in nature",
+            "Title": "Troublesome Trespassers...",
+            "VideoId": "5ih-ZNaAd-E",
+            "Controls": "start=67"
+        },
+        {
+            "Text": " the camera sees the infrared dot, and I can register the location of the camera pixels to the projector pixels. And now this is like an interactive whiteboard surface.",
+            "Title": "Wii remote hacks PIPE...",
+            "VideoId": "QgKCrGvShZs",
+            "Controls": "start=121"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmy-carter.webp",
+            "Text": "I think all Americans believe in human rights. And health is an often overlooked aspect of basic human rights. And it's one that's easily corrected. The reason I say that is that many of the diseases that we treat around the world, I knew when I was a child. My mother was a registered nurse. And they no longer exist in our country.",
+            "Title": "American President",
+            "Name": "Jimmy Carter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pk-subban.webp",
+            "Text": "I operate from a place of like water on a duck's back. When things are thrown at me or said to me that aren't worth my time, they don't register with me. Like it just rolls off my back.",
+            "Title": "Canadian Athlete",
+            "Name": "P.K. Subban"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jello-biafra.webp",
+            "Text": "I got involved because I wanted to help inspire more people to get off their butts and register and vote - not just in this election, but in every other election from now on, you know?",
+            "Title": "American Musician",
+            "Name": "Jello Biafra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-trujillo.webp",
+            "Text": "You can make an album, and people won't get it. Or won't connect with it. Or won't - whatever is going on in the universe at that time, it doesn't really register.",
+            "Title": "American Musician",
+            "Name": "Robert Trujillo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-sinise.webp",
+            "Text": "I'm not registered to any party. I don't really play in the political world. I'm really more interested in getting things done.",
+            "Title": "American Actor",
+            "Name": "Gary Sinise"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fulton-j-sheen.webp",
+            "Text": "Life is like a cash register, in that every account, every thought, every deed, like every sale, is registered and recorded.",
+            "Title": "American Clergyman",
+            "Name": "Fulton J. Sheen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/reham-khan.webp",
+            "Text": "I am keen to create opportunities for women and youth leaders. I want to get women voters registered and protected.",
+            "Title": "",
+            "Name": "Reham Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emmylou-harris.webp",
+            "Text": "Pretty much all I say politically is I encourage people to register to vote.",
+            "Title": "American Musician",
+            "Name": "Emmylou Harris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/roger-stone.webp",
+            "Text": "If you have to drag somebody to register, they're not highly motivated.",
+            "Title": "American Politician",
+            "Name": "Roger Stone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-lacy.webp",
+            "Text": "Register is very important. Music sounds best in a certain register.",
+            "Title": "American Musician",
+            "Name": "Steve Lacy"
+        }
+    ]
+}

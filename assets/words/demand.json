@@ -1,0 +1,345 @@
+{
+    "currentWord": {
+        "wordRoot": "demand",
+        "id": 12749,
+        "phonemic": "dɪˈmɑːnd|dɪˈmænd\r",
+        "bigId": "d691c841-3470-43d0-92e1-24d5a54d5da3",
+        "wordForms": [
+            "demands",
+            "demanding",
+            "demanded",
+            "demand"
+        ]
+    },
+    "senses": [
+        {
+            "id": "d691c841-3470-43d0-92e1-24d5a54d5da3",
+            "de": "A strong request for something to be done or given",
+            "ty": "noun",
+            "ex": "The demand for this product has increased.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "on demand",
+                " in demand",
+                " demand for"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d691c841-3470-43d0-92e1-24d5a54d5da3.webp",
+            "Tips": [
+                {
+                    "title": "Implies Urgency",
+                    "description": "Using 'demand' suggests you can't wait much longer for a response.",
+                    "example": "The workers' demand for better conditions was urgent.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/p7cVmfbnVaCPSHXVspOYooVFZY.webp"
+                },
+                {
+                    "title": "Often Assertive",
+                    "description": "Can be seen as assertive or even aggressive, especially in personal situations.",
+                    "example": "She demanded an apology immediately.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OlvB3Cb1X0H8s2YnOueUHaGAYA.webp"
+                },
+                {
+                    "title": "Confusion with 'Ask'",
+                    "description": "'Demand' is much stronger than 'ask'; use it when 'ask' is too mild.",
+                    "example": "He didn't just ask for silence; he demanded it.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8g5bOgeAi6xbo2iM4E1Qz1tNcqQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "9177e605-8ac4-4def-9d8e-ca87446baab2",
+            "de": "To ask for forcefully or urgently",
+            "ty": "verb",
+            "ex": "John demanded to speak to the manager.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "demand to",
+                " demand answers",
+                " demand for"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9177e605-8ac4-4def-9d8e-ca87446baab2.webp",
+            "Tips": [
+                {
+                    "title": "Conveys Authority",
+                    "description": "When you 'demand', it often implies a position of power or right.",
+                    "example": "The officer demanded respect from the recruits.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Immediate Action",
+                    "description": "Verb form signifies a need or wish for immediate action.",
+                    "example": "Demanding action, the protesters wouldn't leave.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "725970e0-de3a-4c0c-a86f-8bb0a26b7f7e",
+            "de": "The need for a particular product or service",
+            "ty": "noun",
+            "ex": "The demand for electric cars is growing.",
+            "use": "",
+            "co": "Economic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "meet the demand",
+                " product demand",
+                " increase in demand"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/725970e0-de3a-4c0c-a86f-8bb0a26b7f7e.webp",
+            "Tips": [
+                {
+                    "title": "Market Relevance",
+                    "description": "Refers to consumer interest in products or services within a market.",
+                    "example": "Smartphone demand rises during the holidays.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impacts Prices",
+                    "description": "High demand can often increase prices, while low demand might lower them.",
+                    "example": "Surging demand led to higher prices for flights.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "1b889846-575a-4771-a3cc-d1da847e9fef",
+            "de": "To need something in order to be successful or continue existing",
+            "ty": "verb",
+            "ex": "This job demands total concentration.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "job demands",
+                " demand attention",
+                " demand time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1b889846-575a-4771-a3cc-d1da847e9fef.webp",
+            "Tips": [
+                {
+                    "title": "Essential Requirement",
+                    "description": "Emphasizes that something is a necessity, not just a desire.",
+                    "example": "Professional attire demands crisp dressing.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No Flexibility",
+                    "description": "Indicates there is no alternative; the need is non-negotiable.",
+                    "example": "The role demands punctuality at all times.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "665a7755-17c1-49cb-9d48-b743001cf96f",
+            "de": "An act of claiming something as due or payment",
+            "ty": "noun",
+            "ex": "The bank sent a demand for payment of the loan.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "send a demand",
+                " demand payment",
+                " legal demand"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/665a7755-17c1-49cb-9d48-b743001cf96f.webp",
+            "Tips": [
+                {
+                    "title": "Legal Obligation",
+                    "description": "Implies a legal right to request payment or action.",
+                    "example": "The landlord's demand for overdue rent was formal.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implies Consequences",
+                    "description": "A legal or formal 'demand' may suggest consequences if not met.",
+                    "example": "The demand for payment had a strict deadline.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Claim": {
+            "wordRoot": "Claim",
+            "wordDefinition": "Claim means to state that something is true or belongs to you. For example, if you say that you lost your phone and ask someone to help you find it, you can claim that the phone is yours.\n\nYou can use claim when you want to state that something is yours or that something is true, while you can use demand when you want to ask for something strongly or with authority.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bbcde130-4870-4dbb-85c4-395ba3b23513.webp"
+        },
+        "Desire": {
+            "wordRoot": "Desire",
+            "wordDefinition": "Desire refers to a strong feeling of wanting or wishing for something. Unlike demand, desire is not necessarily associated with urgency or necessity.\n\nFor example, a person may desire a new phone, but it is not a requirement for their well-being.\n\nDemand implies a stronger and more urgent need, while desire suggests a want or preference, but not necessarily a pressing need.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6bd756d2-74c8-4af9-bd38-2f46e85b04a7.webp"
+        },
+        "Exigency": {
+            "wordRoot": "Exigency",
+            "wordDefinition": "Exigency refers to an urgent or pressing need or situation that requires immediate attention or action. It suggests that there is a sense of emergency or crisis.\n\nFor example, a doctor might face an exigency when a patient's life is in danger and immediate medical intervention is needed.\n\nDemand is a request or requirement, while exigency is a situation that requires urgent action. Demand is commonly used in everyday conversations, while exigency is more formal and used in specific situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a3deb18-4e3b-46e6-8668-f385762cff53.webp"
+        },
+        "Necessity": {
+            "wordRoot": "Necessity",
+            "wordDefinition": "Necessity refers to something that is essential or required for a certain purpose. It implies that something is needed in order to achieve a particular goal or objective.\n\nFor example, food, shelter, and clothing are considered necessities for survival.\n\nIn simpler terms, demand means wanting something strongly while necessity means needing something essential for a particular purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ac9915bb-0323-478d-a151-ec67c3b292b5.webp"
+        },
+        "Order": {
+            "wordRoot": "Order",
+            "wordDefinition": "Order means to give a command or instruction to do something. It is applicable to situations when you have an authority to give commands or when you are purchasing something.\n\nFor example, you might order food at a restaurant or order your employees to finish a task by a certain deadline.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc50fd79-d055-4244-a872-8cdade011ffc.webp"
+        },
+        "Request": {
+            "wordRoot": "Request",
+            "wordDefinition": "Demand means to forcefully ask for something as a right or with great insistence. It implies a sense of entitlement or an expectation that the request will be fulfilled.\n\nA demand is often more forceful and less flexible than a request.\n\nRequest means to politely ask for something, leaving room for the other person to choose whether or not they will fulfill the request.\n\nA request is often less forceful and more respectful than a demand.\n\nRequests are more appropriate in situations where the person is asking for a favor or seeking someone’s help or cooperation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4473aba0-12db-42df-8a94-7cfaac7e02a2.webp"
+        },
+        "Requirement": {
+            "wordRoot": "Requirement",
+            "wordDefinition": "Requirement is a condition or criterion that must be met or fulfilled in order to achieve a certain goal or outcome. It refers to something that is necessary or mandatory, usually for legal or regulatory reasons, and that must be satisfied in order to achieve a particular objective.\n\nDemand is a request or desire for something, while requirement is something that must be met in order for something else to be achieved.\n\nDemand is usually applicable in a business or consumer context, while requirements are more commonly found in academic, technical, or legal contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/28a1d45d-53f4-428a-9091-9ab26d010255.webp"
+        },
+        "Urgency": {
+            "wordRoot": "Urgency",
+            "wordDefinition": "Urgency refers to the need for something to be done immediately or quickly. For example, if a person is experiencing chest pains, it is urgent that they seek medical attention.\n\nBoth words imply a need for action, but demand is typically used in a more formal or business-related context, while urgency is used in situations where there is a time-sensitive need for action, often related to health or safety.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70edf438-785d-4e62-83f3-f81bb4051521.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " but how we treat bodies and burials continues to evolve. We may each have different spiritual, religious, or practical approaches to dying, but the ever-increasing demand for burial space might give us a push to be creative about where our bodies go after the final stages of life.",
+            "Title": "What happens to our...",
+            "VideoId": "mRsa2wb0aTs",
+            "Controls": "start=244"
+        },
+        {
+            "Text": " Urban parents demand school vouchers. You may support these efforts or not. Whether you get what you want depends on how adept you are with power, which brings us finally to what you can do to become more powerful in public life. Here, it's useful to think in terms of literacy.",
+            "Title": "How to understand power...",
+            "VideoId": "c_Eutci7ack",
+            "Controls": "start=271"
+        },
+        {
+            "Text": " and has a similar fat content to human milk. In their natural environment, mammals secrete milk on call for immediate consumption by their young. But with the demands of thirsty consumers, the dairy industry has enlisted methods to step up production, enhance shelf life,",
+            "Title": "The science of milk -...",
+            "VideoId": "xmNzUEmFZMg",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " By selling them, kings enriched their own realms, and strengthened them against neighboring enemies. African kingdoms prospered from the slave trade, but meeting the European's massive demand created intense competition.",
+            "Title": "The Atlantic slave...",
+            "VideoId": "3NXC4Q_4JVg",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " to financial assets and living arrangements. Cults also demand obedience to human leaders who tend to be highly persuasive people with authoritarian and narcissistic streaks motivated by money, sex, power, or all three.",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " and let me tell you that this was the first time when a campaign was launched by me or anywhere in the world, to educate and sensitize the consumers to create a demand for child-labor-free rugs.",
+            "Title": "Kailash Satyarthi: How...",
+            "VideoId": "HI7zfpitZpo",
+            "Controls": "start=727"
+        },
+        {
+            "Text": " for their future protection So, they must prevent them fighting over sex. They do this by being sexually insatiable. As each lioness comes into heat, she demands to be mated every 20 minutes.",
+            "Title": "Brutal Lion Infanticide...",
+            "VideoId": "KUGf-irpTMQ",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " it to be altered on demand this anger protected me I knew what I knew and it couldn't be erased so the person gaslighting you will often try to bully",
+            "Title": "How to deal with...",
+            "VideoId": "v4P2Qwh1QCU",
+            "Controls": "start=357"
+        },
+        {
+            "Text": " The lucky survivors can begin learning the unique way of life, demanded by this hostile island.",
+            "Title": "The Most Dramatic...",
+            "VideoId": "1z0bhcTHOMQ",
+            "Controls": "start=2349"
+        },
+        {
+            "Text": " watersheds demand our respect and attention",
+            "Title": "Canada's Wild Rivers -...",
+            "VideoId": "lTDsN6PGT2c",
+            "Controls": "start=302"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-barkley.webp",
+            "Text": "I've always said that: 'We as black people, if you want respect, you have to give each other respect.' You can't demand respect from white people and the cops if we don't respect each other.",
+            "Title": "American Baseball Player",
+            "Name": "Charles Barkley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bertrand-russell.webp",
+            "Text": "If all our happiness is bound up entirely in our personal circumstances it is difficult not to demand of life more than it has to give.",
+            "Title": "British Philosopher",
+            "Name": "Bertrand Russell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/manuel-neuer.webp",
+            "Text": "Bayern are a club where success is demanded, and second place isn't particularly appreciated. We have a history and culture to respect.",
+            "Title": "German Athlete",
+            "Name": "Manuel Neuer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sergio-ramos.webp",
+            "Text": "We all know the demands at this club, but I'm ready for this responsibility to make sure every Madridista is happy.",
+            "Title": "Spanish Athlete",
+            "Name": "Sergio Ramos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-lennon.webp",
+            "Text": "If everyone demanded peace instead of another television set, then there'd be peace.",
+            "Title": "English Musician",
+            "Name": "John Lennon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/josh-hartnett.webp",
+            "Text": "I'm not all that demanding, I don't think. My family might think otherwise.",
+            "Title": "Actor",
+            "Name": "Josh Hartnett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hedy-lamarr.webp",
+            "Text": "I was in constant demand, in my professional life and my personal life.",
+            "Title": "Austrian Actress",
+            "Name": "Hedy Lamarr"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mary-j-blige.webp",
+            "Text": "You demand respect and you'll get it. First of all, you give respect.",
+            "Title": "American Musician",
+            "Name": "Mary J. Blige"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johann-wolfgang-von-goethe.webp",
+            "Text": "First and last, what is demanded of genius is love of truth.",
+            "Title": "German Writer",
+            "Name": "Johann Wolfgang von Goethe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/glenn-beck.webp",
+            "Text": "You've got to demand the truth from yourself.",
+            "Title": "American Journalist",
+            "Name": "Glenn Beck"
+        }
+    ]
+}

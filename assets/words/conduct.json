@@ -1,0 +1,346 @@
+{
+    "currentWord": {
+        "wordRoot": "conduct",
+        "id": 5221,
+        "phonemic": "kənˈdʌkt|kənˈdʌkt\r",
+        "bigId": "fbbe1d8e-c059-433e-bd43-6fa5653954c7",
+        "wordForms": [
+            "conducts",
+            "conducting",
+            "conducted",
+            "conduct"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fbbe1d8e-c059-433e-bd43-6fa5653954c7",
+            "de": "The way a person behaves, especially in public.",
+            "ty": "noun",
+            "ex": "Her conduct at the party was inappropriate.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conduct of business",
+                " professional conduct",
+                " criminal conduct"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fbbe1d8e-c059-433e-bd43-6fa5653954c7.webp",
+            "Tips": [
+                {
+                    "title": "Public Perception",
+                    "description": "Refers to behavior viewed by others; can affect reputation.",
+                    "example": "His polite conduct at the dinner impressed the guests.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fJU41renxwalIsGxALKNo8QoNnU.webp"
+                },
+                {
+                    "title": "Ethical Standards",
+                    "description": "Often tied to moral or professional expectations; breaking these can lead to consequences.",
+                    "example": "Her exemplary conduct won her the Employee of the Month award.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/w1Sd7ivpakJUizpjInJihhFPNx4.webp"
+                },
+                {
+                    "title": "Social Situations",
+                    "description": "Varies with context; different settings require different behavior.",
+                    "example": "Despite the tense meeting, she maintained calm conduct.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DSB5YpOpCs8IlMdaR1RAKQqU4.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fba2bb2a-109a-43b4-a1ce-29a0f1f4a451",
+            "de": "To manage or control something, like an activity or business.",
+            "ty": "verb",
+            "ex": "They conduct a monthly meeting to discuss progress.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conduct research",
+                " conduct an investigation",
+                " conduct a survey"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fba2bb2a-109a-43b4-a1ce-29a0f1f4a451.webp",
+            "Tips": [
+                {
+                    "title": "Action Process",
+                    "description": "Emphasizes the steps or manner in which activities are carried out.",
+                    "example": "We will conduct the training session with a hands-on approach.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Tasks",
+                    "description": "Commonly used in formal or business contexts to describe the overseeing of duties.",
+                    "example": "The manager conducts weekly reviews to improve team performance.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b2a84740-cc93-4ad5-acce-da45ed4ee264",
+            "de": "To guide or lead someone somewhere.",
+            "ty": "verb",
+            "ex": "The guide conducted us through the museum.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conduct an orchestra",
+                " conduct visitors",
+                " conduct passengers"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b2a84740-cc93-4ad5-acce-da45ed4ee264.webp",
+            "Tips": [
+                {
+                    "title": "Safe Guidance",
+                    "description": "Implies responsibility for the safety and direction of others.",
+                    "example": "The tour guide conducted the group safely through the crowded bazaar.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Leadership Role",
+                    "description": "Often involves a leader-follower dynamic in various scenarios.",
+                    "example": "As a seasoned mountaineer, she conducted the new climbers up the trail.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e5664dec-a171-41c4-8100-b9e5ba6a4539",
+            "de": "To allow heat, electricity, sound, etc. to go through.",
+            "do": "Physics",
+            "ty": "verb",
+            "ex": "Metals conduct electricity well.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conduct heat",
+                " conduct electricity",
+                " conduct sound"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e5664dec-a171-41c4-8100-b9e5ba6a4539.webp",
+            "Tips": [
+                {
+                    "title": "Technical Context",
+                    "description": "Used in scientific and technical domains, meaning to transmit or allow passage.",
+                    "example": "This material conducts heat more effectively than plastic.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Physical Properties",
+                    "description": "Often relates to the inherent capabilities of materials, mainly in physics.",
+                    "example": "Copper wires are chosen because they conduct electricity efficiently.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b3f83619-95fb-4685-abea-22584d0f2097",
+            "de": "The act of leading an orchestra or choir.",
+            "ty": "noun",
+            "ex": "His conduct of the symphony was masterful.",
+            "use": "",
+            "co": "Musical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conduct of orchestra",
+                " conduct of choir",
+                " conduct of symphony"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b3f83619-95fb-4685-abea-22584d0f2097.webp",
+            "Tips": [
+                {
+                    "title": "Musical Interpretation",
+                    "description": "Implies a creative and directive role in a musical performance.",
+                    "example": "Her ability to conduct brought a vibrant energy to the music.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Control in Performance",
+                    "description": "Conductor balances individual musicians to achieve a harmonious outcome.",
+                    "example": "The conductor's precise conduct ensured a flawless concert.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Behaviour": {
+            "wordRoot": "Behaviour",
+            "wordDefinition": "Behaviour refers to the way a person acts or behaves in certain situations, it includes their actions, reactions, and how they present themselves in front of others.\n\nConduct refers to a person's behavior in relation to ethical, social, and moral standards, it encompasses how they interact with others, their attitudes towards work, and how they handle certain situations.\n\nBehaviour is more about how someone acts in general, while conduct is more about how they act in specific situations or towards specific goals or standards.\n\nFor example, a student's behavior in class includes how they interact with their peers and how attentive they are to the teacher, whereas their conduct refers to whether they follow classroom rules and engage in academic integrity.\n\nBehaviour and conduct both relate to how someone acts, but behaviour is broader and conduct is more specific and connected to social and ethical standards.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a57a71d6-c319-4877-98ae-dac815c25bf2.webp"
+        },
+        "Demean": {
+            "wordRoot": "Demean",
+            "wordDefinition": "Demean refers to how you carry yourself, your posture, and the way you express yourself. For example, if someone says, \"her demeanor was very confident during the presentation,\" they mean that she appeared confident and self-assured while presenting.\n\nBoth words are applicable in different ways. Conduct is used more when talking about specific behavior in a situation or setting, while \"demeanor\" is used more when expressing someone's overall mood or how they carry themselves.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a452b95c-91eb-493e-837d-94f6472faf18.webp"
+        },
+        "Direction": {
+            "wordRoot": "Direction",
+            "wordDefinition": "Direction refers to the way something is headed or aimed towards a particular goal or objective. For example, a company may have a direction for growth, meaning it has a plan or strategy for expanding its business.\n\nBoth words can be applicable in many different situations, but conduct is more focused on how someone handles themselves, while direction is more focused on where things are headed or should be headed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/96ef0d15-a293-4dfc-8ee1-de42ed919036.webp"
+        },
+        "Execute": {
+            "wordRoot": "Execute",
+            "wordDefinition": "Execute means to carry out or complete a task or plan. For example, a chef executes a recipe when they prepare and cook a dish.\n\nIn essence, conduct means to lead or manage, while execute means to carry out a specific task. Conduct is applicable in situations where there is a need for organization and direction, while execute is applicable when there is a need to complete a specific task or plan.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/265a1337-6185-41c1-8bc6-0864f5f1cbf2.webp"
+        },
+        "Guidance": {
+            "wordRoot": "Guidance",
+            "wordDefinition": "Guidance refers to advice or direction given to someone to help them make a decision or achieve a goal. It is applicable when we talk about providing help or support to someone who needs it.\n\nFor example, a teacher might provide guidance to a student who is struggling with a particular subject or a friend might provide guidance to someone who is going through a difficult time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a0be916-7896-4911-8286-cf66df9b7f11.webp"
+        },
+        "Management": {
+            "wordRoot": "Management",
+            "wordDefinition": "Management refers to the process of overseeing and controlling the actions of others. For example, a business may have a management team responsible for decisions, strategies, and tactics that drive the success of the company.\n\nConduct is applicable in situations where a certain set of acceptable behaviors is expected, while management is applicable in situations where there is a need to ensure that organizational goals are achieved effectively and efficiently, often within a given set of resources or constraints.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d3e200fb-5b04-42d7-ba4f-553b46dd31a2.webp"
+        },
+        "Operation": {
+            "wordRoot": "Operation",
+            "wordDefinition": "Conduct generally refers to the way someone behaves or carries out a task, while operation refers to the overall process of how something works or is accomplished.\n\nOperation refers to the overall process of how something works. For instance, the operation of a factory involves all the steps necessary to produce a product, from raw materials to finished goods.\n\nOperation can also refer to medical procedures like surgery or the way a machine functions.\n\nConduct describes the behavior of a person during a task, while operation describes the overall process of how something works or is accomplished.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a9d6e3f-7145-4fb6-ac12-8ba80c9d4cf9.webp"
+        },
+        "Performance": {
+            "wordRoot": "Performance",
+            "wordDefinition": "Performance is used to denote how well a person does something, such as a task or an activity. It refers to the level of achievement or success that a person demonstrates in carrying out a particular task or fulfilling a certain role.\n\nConduct is about how a person behaves or carries themselves, while performance is about how well they do a specific task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c7e70a92-f837-4236-88cd-dcda6c596b50.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Scientists are currently monitoring the world's active volcanoes, and procedures for predicting eruptions, conducting evacuations and diverting lava flows have improved over the years. But the massive scale and global reach of a supervolcano means that for many people there would be nowhere to run.",
+            "Title": "The colossal consequences...",
+            "VideoId": "hDNlu7Qf6_E",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " Scientists have been conducting experiments using new forms of technology, which they believe may encourage brain plasticity in people with aphasia. Meanwhile, many people with aphasia remain isolated, afraid that others won't understand them or give them extra time to speak.",
+            "Title": "Aphasia: The disorder...",
+            "VideoId": "-GsVhbmecJA",
+            "Controls": "start=259"
+        },
+        {
+            "Text": " bearing and twisting it was simply shatter but whereas these little bones are protected deep with inside the skull by being very hard allows them to transfer and conduct sound perfectly so the chemical composition of bone and the way the three ossicles work together",
+            "Title": "The Smallest Bones in...",
+            "VideoId": "AsPtiV8NkaU",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " with straightforward questions and quantifiable answers, the researchers conducted in-person interviews, sometimes with small groups, engaging them in more open discussions. Later, this method was picked up by the advertising industry with the help of consultants,",
+            "Title": "How do focus groups...",
+            "VideoId": "3TwgVQIZPsw",
+            "Controls": "start=47"
+        },
+        {
+            "Text": " conducting extraordinary experiments in microgravity. Their schedules are packed with exercise, two hours a day to fend off muscle atrophy, station maintenance and repair, and connecting with family or awe-inspired minds around the world.",
+            "Title": "The incredible...",
+            "VideoId": "bJ3oTTm_Pdo",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " but they're distributed across a global ledger, using the highest level of cryptography. And when a transaction is conducted, it's posted globally, across millions and millions of computers. And out there, around the world,",
+            "Title": "How the blockchain is...",
+            "VideoId": "Pl8OlkkwRpc",
+            "Controls": "start=333"
+        },
+        {
+            "Text": " what would you say to them I'd say where are you getting your information from we just heard from Christina about truth about the need for a code of conduct regard you know in in the media they're",
+            "Title": "A message of peace, hope...",
+            "VideoId": "Ec2lto9dPo4",
+            "Controls": "start=524"
+        },
+        {
+            "Text": " It only conducts electricity when a voltage exceeding a certain threshold is applied. Otherwise, it remains switched off. In this way, small variations in the input voltage",
+            "Title": "How transistors work -...",
+            "VideoId": "WhNyURBiJcU",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " we've invited these babies puppies and their respective Guardians to take part in what might be the cutest experiment we've ever conducted our toddlers and",
+            "Title": "Jealousy Bites PIPE Brain...",
+            "VideoId": "7tKZB2k14iY",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " Hospitals and clinics now conduct over 100 millions scans each year worldwide to treat diseases and save lives.",
+            "Title": "How X-rays see through...",
+            "VideoId": "gsV7SJDDCY4",
+            "Controls": "start=255"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "For most of human civilization, the pace of innovation has been so slow that a generation might pass before a discovery would influence your life, culture or the conduct of nations.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ennio-morricone.webp",
+            "Text": "I really like conducting my music in concerts because I'm convinced it's not just for films; it has its own life. It can live far away from the images of the movie.",
+            "Title": "Italian Composer",
+            "Name": "Ennio Morricone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rufus-sewell.webp",
+            "Text": "I don't have any shame about the way I conducted my professional life.",
+            "Title": "English Actor",
+            "Name": "Rufus Sewell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/matthew-arnold.webp",
+            "Text": "Conduct is three-fourths of our life and its largest concern.",
+            "Title": "English Poet",
+            "Name": "Matthew Arnold"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-grunwald.webp",
+            "Text": "One must measure and conduct one's life on its own terms.",
+            "Title": "Austrian Editor",
+            "Name": "Henry Grunwald"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-malkovich.webp",
+            "Text": "I prefer to conduct my life based on how I treat people.",
+            "Title": "American Actor",
+            "Name": "John Malkovich"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barry-diller.webp",
+            "Text": "I've not conducted my life in the service of smallness.",
+            "Title": "American Businessman",
+            "Name": "Barry Diller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tiberius.webp",
+            "Text": "Let them hate me, provided they respect my conduct.",
+            "Title": "Roman Statesman",
+            "Name": "Tiberius"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/prosenjit-chatterjee.webp",
+            "Text": "It is an honour to conduct a masterclass at IFFI.",
+            "Title": "Indian Actor",
+            "Name": "Prosenjit Chatterjee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-austen.webp",
+            "Text": "Respect for right conduct is felt by every body.",
+            "Title": "British Writer",
+            "Name": "Jane Austen"
+        }
+    ]
+}

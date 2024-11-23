@@ -1,0 +1,314 @@
+{
+    "currentWord": {
+        "wordRoot": "assemble",
+        "id": 23980,
+        "phonemic": "əˈsembl|əˈsembl\r",
+        "bigId": "cc520a7d-c7a6-4a48-ad5b-c700a58fca2d",
+        "wordForms": [
+            "assembled",
+            "assembling",
+            "assemble"
+        ]
+    },
+    "senses": [
+        {
+            "id": "cc520a7d-c7a6-4a48-ad5b-c700a58fca2d",
+            "de": "To put together pieces",
+            "ty": "verb",
+            "ex": "She had to assemble the furniture herself because it came in parts.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assemble furniture",
+                " assemble parts",
+                " assemble a puzzle"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cc520a7d-c7a6-4a48-ad5b-c700a58fca2d.webp",
+            "Tips": [
+                {
+                    "title": "DIY Context",
+                    "description": "Used when describing self-assembly of products, common in furniture or toys.",
+                    "example": "After moving, they had to assemble the bookshelf from the flat-pack.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jzcecqRfIlvV47A0SW4iFzSdn3A.webp"
+                },
+                {
+                    "title": "Step by Step",
+                    "description": "Suggests a process with instructions or stages, often provided in a manual.",
+                    "example": "Refer to the manual to assemble the parts in the correct order.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/CFSVAn0WsII4rVgMDnjLoR2JH1U.webp"
+                },
+                {
+                    "title": "Hands-on Activity",
+                    "description": "Involves physical work or activity, not just conceptual or planning stages.",
+                    "example": "The kids were excited to assemble the model airplane.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1zs89z7n9juT3XCh38CLFLOogU.webp"
+                }
+            ]
+        },
+        {
+            "id": "8b8db1bd-2ea7-405a-928e-9cf9ff9febfb",
+            "de": "To bring people together",
+            "ty": "verb",
+            "ex": "The whole team will assemble at the park by 7 am tomorrow.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assemble a team",
+                " assemble a group",
+                " assemble for a meeting"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8b8db1bd-2ea7-405a-928e-9cf9ff9febfb.webp",
+            "Tips": [
+                {
+                    "title": "Gathering Event",
+                    "description": "Often used for formal or organized events where people come together.",
+                    "example": "We will assemble in the conference room at noon.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Time Specific",
+                    "description": "Usually implies a specific time and place for people to meet.",
+                    "example": "The ceremony will begin once everyone has assembled.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b33d1e05-4324-4b6d-be2b-7419b1bf3149",
+            "de": "To fit together pieces of a machine",
+            "do": "Engineering",
+            "ty": "verb",
+            "ex": "The engineers had to assemble the engine carefully to ensure everything ran smoothly.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assemble an engine",
+                " assemble machine parts",
+                " assemble a device"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b33d1e05-4324-4b6d-be2b-7419b1bf3149.webp",
+            "Tips": [
+                {
+                    "title": "Precision Needed",
+                    "description": "Accuracy is vital when assembling technical parts to avoid malfunctions.",
+                    "example": "Carefully assemble the parts to prevent leaks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Safety First",
+                    "description": "Proper assembly in engineering can be critical for safety.",
+                    "example": "Always wear protective gear when you assemble the chemical reactor.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6f90423d-67b4-488f-b5e4-c81f9b3ae62a",
+            "de": "To create a computer program by converting instructions into machine code",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "The programmer used an assembler to assemble the source code into binary code.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assemble source code",
+                " assemble a program"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6f90423d-67b4-488f-b5e4-c81f9b3ae62a.webp",
+            "Tips": [
+                {
+                    "title": "Programming Step",
+                    "description": "In computing, assembling is a step before the program is runnable.",
+                    "example": "After writing the code, you need to assemble it to test the software.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Tech Tool Required",
+                    "description": "A specific software tool, an assembler, is required for this process.",
+                    "example": "You'll need a good assembler to efficiently assemble the new app's code.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accumulate": {
+            "wordRoot": "Accumulate",
+            "wordDefinition": "Accumulate means to gather or collect something gradually over a period of time.\n\nIt is often used when talking about things that build up over time, like savings or snow. For example, a person might accumulate a large amount of money in their bank account over several years.\n\nBoth words are different and applicable depending on the context in which they are used. We use accumulate when we are talking about something that is gradually built up or increased, while assemble is used when we are talking about putting different things together to create a whole.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ac84393-8701-422d-81d8-b8ff647c5b21.webp"
+        },
+        "Amass": {
+            "wordRoot": "Amass",
+            "wordDefinition": "Amass means to gather or collect a large amount of something over time.\n\nExample: The billionaire businessman was able to amass a fortune through wise investments.\n\nIn simpler terms, amass describes accumulating a large quantity of something over time, whereas assemble means bringing things or people together for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5817fda0-e6bd-4a21-b1a8-6b2e26563fc5.webp"
+        },
+        "Collect": {
+            "wordRoot": "Collect",
+            "wordDefinition": "Collect means to gather things together, generally with a specific goal in mind. For example, you might collect stamps or coins as a hobby, or you might collect money for a charitable cause.\n\nSo, where assemble is applicable when you want to put things together to create something new, collect is used when you want to gather items for some specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1273f9c2-bfaf-4207-9c5a-4207a4b99f6e.webp"
+        },
+        "Congregate": {
+            "wordRoot": "Congregate",
+            "wordDefinition": "Congregate means to gather in a more informal or spontaneous way, such as congregating in a park or at a concert. This implies that there may not be a specific plan or schedule in place for the people coming together.\n\nAssemble is typically used in a more formal or organized context, while congregate is used in a more casual or spontaneous context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c2e93ea9-8850-4b8a-86d3-b8a3e8364426.webp"
+        },
+        "Gather": {
+            "wordRoot": "Gather",
+            "wordDefinition": "Gather means to collect or come together in a group or crowd, like gathering with friends or gathering information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e0ed609-a4a1-4831-88cf-4a316f42e7c9.webp"
+        },
+        "Marshal": {
+            "wordRoot": "Marshal",
+            "wordDefinition": "Marshal means to arrange or organize things in a particular order or formation. For example, soldiers can be marshaled in a certain way for a military parade or information can be marshaled in a report to present it in a clear and organized manner.\n\nSo, while both words involve bringing things together, assemble refers to the act of gathering while marshal refers to the act of organizing.\n\nAssemble is more commonly used to refer to physical objects or groups of people, while marshal is often used in more abstract contexts like organizing data or ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c36a2d4d-49d5-4298-ac11-52e9b087b1ae.webp"
+        },
+        "Muster": {
+            "wordRoot": "Muster",
+            "wordDefinition": "Muster means to gather, especially troops or military personnel before a battle.\n\nFor example, \"The general mustered his troops for battle\" or \"The sergeant mustered the troops for morning inspection.\"\n\nAssemble is used when talking about gathering people or things in general, while muster is specifically used when talking about gathering military troops or personnel.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af8fd7ff-94a8-40ad-8d64-9ff713af4afe.webp"
+        },
+        "Round up": {
+            "wordRoot": "Round up",
+            "wordDefinition": "Round up means to gather or collect something or someone that may be difficult to find or capture, such as rounding up cattle or rounding up escaped prisoners.\n\nAssemble is applicable when you want to gather things/people for a specific purpose, while round up is applicable when you want to gather things/people that may be more difficult to find or capture.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e7df764e-325b-47ad-ad52-007ddd20b908.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " This company raised hundreds of millions of dollars with the notion that we will deliver grocery orders online. And it really came down to the fact that we couldn't do it cost effectively. Turns out e-commerce was something that was very hard and very costly. In this particular instance we were trying to assemble 30 items of inventory",
+            "Title": "Mick Mountz: What...",
+            "VideoId": "9UiK4llJOXc",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " They heard excerpts from these pieces in either their original form, or in a version that had been digitally altered to include repetition. Although the original versions had been composed by some of the most respected 20th century composers, and the repetitive versions had been assembled by brute force audio editing,",
+            "Title": "Why we love repetition...",
+            "VideoId": "1lo8EomDrwA",
+            "Controls": "start=74"
+        },
+        {
+            "Text": " which is this idea that in our world we're stuck with two ways of making things there is the subtractive you can take a chisel in chisel of a matter and you can build stuff and the exciting and 3d printer base additive assembly where you can assemble bits of matter the",
+            "Title": "Computing with fluids PIPE...",
+            "VideoId": "OhroLzvW-JI",
+            "Controls": "start=924"
+        },
+        {
+            "Text": " and sent around the world, atoms for the same chemical elements could have this information imprinted on them in Bangalore and be carefully directed to assemble, becoming the exact same baseball. There's a wrinkle though. Quantum states aren't so easy to measure.",
+            "Title": "Will we ever be able to...",
+            "VideoId": "JMdO5KyjwAw",
+            "Controls": "start=63"
+        },
+        {
+            "Text": " or with this paper or computer screen right up in your face. What optical illusions show us is the way your photo receptors and brain assemble visual information into the three-dimensional world you see around you, where edges should get extra attention",
+            "Title": "How optical illusions...",
+            "VideoId": "rfdJyDfIHIc",
+            "Controls": "start=144"
+        },
+        {
+            "Text": " is believed to be the largest single-celled organism in the world thanks to its unique biological hacks. Its surface area is enhanced with a frond-like structure. It uses photosynthesis to assemble its own food molecules and it's coenocytic.",
+            "Title": "What is the biggest...",
+            "VideoId": "FK9xHry877U",
+            "Controls": "start=183"
+        },
+        {
+            "Text": " houses building furniture building halls billing in assembling buildings with limestone and wood that's the family business the Nazareth region also provides clues to Jesus's level of education and his knowledge of the world the language of",
+            "Title": "The Missing Years of...",
+            "VideoId": "Rxkz_ygndLU",
+            "Controls": "start=147"
+        },
+        {
+            "Text": " wolves how to warn neighboring packs to keep their distance but they also do so to reunite their own pack if it's got scattered after a long hunt and as they assemble again they visibly delight in one another's",
+            "Title": "A Collection Of Wild...",
+            "VideoId": "uCOTLyKhsMg",
+            "Controls": "start=408"
+        },
+        {
+            "Text": " and when they're all assembled in their new stronghold they form one of the largest concentrations of ants on earth protected by these living walls are the",
+            "Title": "5 Reasons Ants Are...",
+            "VideoId": "T8aAu2dUg2w",
+            "Controls": "start=1018"
+        },
+        {
+            "Text": " assembling in these dense colonies after having spent a largely solitary life at provides the birds with the social",
+            "Title": "A Collection Of Spring...",
+            "VideoId": "T_ECL3fn1Pw",
+            "Controls": "start=954"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/red-adair.webp",
+            "Text": "Throughout my years, I've had the pleasure of assembling and training what I believe to be the best group of people in the world. People with the presence of mind to deal with any flare-up, including my own. People who share the belief that nothing is impossible.",
+            "Title": "American Celebrity",
+            "Name": "Red Adair"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patti-davis.webp",
+            "Text": "The house I grew up in had large plate-glass windows, which birds frequently crashed into headfirst. My father helped me assemble a bird hospital, consisting of a few shoe boxes, some old rags, and tiny dishes for water and food.",
+            "Title": "American Celebrity",
+            "Name": "Patti Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elizabeth-gilbert.webp",
+            "Text": "You know, why at the end of your life should you assemble thousands of pages of 'Why am I so sad, why am I so depressed?' Instead, assemble thousands of pages of why you're so content.",
+            "Title": "American Novelist",
+            "Name": "Elizabeth Gilbert"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tim-gunn.webp",
+            "Text": "Life is not a solo act. It's a huge collaboration, and we all need to assemble around us the people who care about us and support us in times of strife.",
+            "Title": "American Designer",
+            "Name": "Tim Gunn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gail-sheehy.webp",
+            "Text": "No sooner do we think we have assembled a comfortable life than we find a piece of ourselves that has no place to fit in.",
+            "Title": "American Writer",
+            "Name": "Gail Sheehy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/al-pacino.webp",
+            "Text": "I've never cared for guns. In fact, when I did 'Scent of a Woman' I had to learn how to assemble one.",
+            "Title": "American Actor",
+            "Name": "Al Pacino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/debbie-reynolds.webp",
+            "Text": "My lifetime dream has been to assemble and preserve the history of the Hollywood film industry.",
+            "Title": "American Actress",
+            "Name": "Debbie Reynolds"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-addington.webp",
+            "Text": "It is with deep regret that the determination to assemble Parliament has been so long delayed.",
+            "Title": "British Statesman",
+            "Name": "Henry Addington"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-flynt.webp",
+            "Text": "I'm trying to assemble materials for a different mode of life.",
+            "Title": "American Artist",
+            "Name": "Henry Flynt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/morgan-ortagus.webp",
+            "Text": "We have the right to peacefully assemble in the United States.",
+            "Title": "American Public Servant",
+            "Name": "Morgan Ortagus"
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "currentWord": {
+        "wordRoot": "value",
+        "id": 9497,
+        "phonemic": "ˈvæljuː|ˈvæljuː\r",
+        "bigId": "3308a6e0-5f7b-47f5-8dee-72991f65f2e7",
+        "wordForms": [
+            "values",
+            "valuing",
+            "valued",
+            "valueless",
+            "value"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3308a6e0-5f7b-47f5-8dee-72991f65f2e7",
+            "de": "How much something is worth.",
+            "ty": "noun",
+            "ex": "The value of the house has increased over the years.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "value of money",
+                " property value",
+                " value of gold"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3308a6e0-5f7b-47f5-8dee-72991f65f2e7.webp",
+            "Tips": [
+                {
+                    "title": "Market Influence",
+                    "description": "Value can fluctuate based on demand, rarity, or market trends.",
+                    "example": "The value of vintage cars can skyrocket as they become rarer.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DeaAJhJtvNlxoybGUUY5IDIynk.webp"
+                },
+                {
+                    "title": "Context Specific",
+                    "description": "Value differs in contexts like insurance, appraisals, or sales.",
+                    "example": "For insurance purposes, the value of her necklace was appraised higher.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/XkNWxzvTnddtonsVDg4vKOYilgw.webp"
+                }
+            ]
+        },
+        {
+            "id": "84a20ce3-0c46-4f7f-9fb0-dd51f534f80d",
+            "de": "Importance or usefulness of something.",
+            "ty": "noun",
+            "ex": "He sees great value in learning a second language.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "value of education",
+                " value in diversity",
+                " value of hard work"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/84a20ce3-0c46-4f7f-9fb0-dd51f534f80d.webp",
+            "Tips": [
+                {
+                    "title": "Subjective Assessment",
+                    "description": "What's valuable to one may not be to another due to personal interests.",
+                    "example": "To a musician, the value of a rare instrument is unparalleled.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Variation",
+                    "description": "Different cultures value different things, often reflected in idioms.",
+                    "example": "In many cultures, the value of hospitality is expressed in sayings.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "af7cc28a-d053-4310-998c-714c184df710",
+            "de": "A person's principles or moral standards.",
+            "ty": "noun",
+            "ex": "Honesty is a value that he holds dear.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "family values",
+                " personal values",
+                " societal values"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/af7cc28a-d053-4310-998c-714c184df710.webp",
+            "Tips": [
+                {
+                    "title": "Personal Conviction",
+                    "description": "Values guide personal conduct and are often non-negotiable.",
+                    "example": "His refusal to lie at work shows the value he places on honesty.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Reflection",
+                    "description": "Values can reflect a society's norm and can change over time.",
+                    "example": "The values of ancient societies can be gleaned from their laws.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6ad5e685-d7bc-4cda-8715-57e76fc16621",
+            "de": "To consider something as important or useful.",
+            "ty": "verb",
+            "ex": "She values her time and does not like to waste it.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "value someone's opinion",
+                " value time",
+                " value privacy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6ad5e685-d7bc-4cda-8715-57e76fc16621.webp",
+            "Tips": [
+                {
+                    "title": "Not Monetary",
+                    "description": "Valuing in this sense is emotional or intellectual, not financial.",
+                    "example": "She truly values your friendship even though it's not tangible.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Acknowledging Quality",
+                    "description": "To value can mean recognizing something's superior quality.",
+                    "example": "A good employer values dedication in their employees.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5a87c829-feb2-4c3f-8f79-db48b5e9d95c",
+            "de": "To determine how much money something could be sold for.",
+            "do": "Financial",
+            "ty": "verb",
+            "ex": "The jeweler valued the diamond at three thousand dollars.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "value a property",
+                " value artwork",
+                " value an asset"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5a87c829-feb2-4c3f-8f79-db48b5e9d95c.webp",
+            "Tips": [
+                {
+                    "title": "Expert Opinion",
+                    "description": "A professional often values an item based on their expertise.",
+                    "example": "The appraiser valued the painting based on the artist's reputation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Estimate Precision",
+                    "description": "The value assigned can be an estimate, not always exact.",
+                    "example": "They valued the company at $2 million, give or take a few thousands.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Advantage": {
+            "wordRoot": "Advantage",
+            "wordDefinition": "Advantage is something that gives a better position or benefit over others. For example, a runner who starts ahead of others has an advantage over them.\n\nBoth words are applicable in different contexts. Advantage is usually used in contexts where there is competition or comparison, while value is used in contexts where there is a need for evaluation or assessment of worth.\n\nFor a 15 year old, advantage could be thought of as having an edge or head start, while value could be thought of as something being useful or important.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a4104053-7e5e-4240-a9c2-939aecc24043.webp"
+        },
+        "Appreciate": {
+            "wordRoot": "Appreciate",
+            "wordDefinition": "Appreciate means to recognize the worth or quality of something or someone. It's usually used when someone is grateful for something or someone.\n\nFor example, \"I appreciate your help with my homework.\" It is applicable when you are thanking someone for their help or kindness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f4aba09c-a6e1-4456-bb59-9cf9236d3bef.webp"
+        },
+        "Benefit": {
+            "wordRoot": "Benefit",
+            "wordDefinition": "Benefit refers to the advantage or profit gained from something. For example, if you start exercising regularly, the benefits could include improved health, increased energy, and better mood.\n\nIn general, benefits are more specific and measurable, while value is more general and subjective. Benefits apply to individual instances or situations, while value can apply to a broad range of things.\n\nBoth words are applicable in many contexts, from personal decisions to business strategies. In making decisions, it is important to consider both the benefits and the value of different options.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f97464b3-84a6-4dae-aab6-db5804f59c6c.webp"
+        },
+        "Esteem": {
+            "wordRoot": "Esteem",
+            "wordDefinition": "Esteem refers to the level of respect or admiration that someone has towards another person or thing. It describes the positive feelings you have towards something or someone.\n\nFor example, you can esteem a friend for their kind and caring personality, while valuing your phone for its functionality and usefulness.\n\nEsteem is more applicable when talking about people or relationships, while value is more applicable when talking about objects or things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/caec7e06-36eb-4ff0-bf04-af2991b969b0.webp"
+        },
+        "Important": {
+            "wordRoot": "Important",
+            "wordDefinition": "Important relates to how much attention or significance something deserves. For example, a test may be important because it determines a student's grade.\n\nBoth words are applicable in different situations. Important is more commonly used to describe how much attention something deserves, while value describes how much something is worth.\n\nHowever, both words can be used interchangeably in some contexts, such as when discussing the importance or value of something to a specific person or group.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b7874512-abf0-477a-93be-7fb406dab70e.webp"
+        },
+        "Merit": {
+            "wordRoot": "Merit",
+            "wordDefinition": "Merit refers to the qualities or achievements that make someone deserving of recognition or reward.\n\nIt is often used in academic or professional settings to evaluate a person's performance and potential. Merit is usually based on factors such as skills, abilities, hard work, and accomplishments.\n\nMerit is about earning recognition or reward based on one's qualities and achievements, while value is about assigning worth or importance to something based on personal judgment or cultural norms.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1c7bf1a1-cc20-4d66-a8d5-11c815956743.webp"
+        },
+        "Significance": {
+            "wordRoot": "Significance",
+            "wordDefinition": "Significance represents the importance or meaning of something. It focuses on the impact of an event or object on the circumstances and people around it.\n\nFor example, the significance of a historical event is the impact it had on society and future generations.\n\nSignificance is more concerned with the broader impact of something, while value is more concerned with its immediate practicality or usefulness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24a5484c-1df8-4085-99cb-2bbaba1e6dda.webp"
+        },
+        "Worth": {
+            "wordRoot": "Worth",
+            "wordDefinition": "The words value and worth are often used interchangeably, but they have slightly different meanings.\n\nWorth refers to the emotional or moral significance something holds. For example, if you receive a gift from a loved one, it may not have a high value, but its worth may be priceless because of the sentiment behind it.\n\nBoth words are applicable in different situations. You might use the word value when talking about investments or trade, and you might use the word worth when talking about personal relationships, beliefs, or principles.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/920e560d-6796-4d9a-8f37-d753e3786703.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " although we don't know which genes are involved. But environment matters, too. Parents who put their child on a pedestal can foster grandiose narcissism. And cold, controlling parents can contribute to vulnerable narcissism. Narcissism also seems to be higher in cultures that value individuality and self-promotion.",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " can lead you to claim more value from that negotiation. If you use them poorly, bad idea. Right? So when we think of nonverbals, we think of how we judge others, how they judge us and what the outcomes are. We tend to forget, though, the other audience that's influenced by our nonverbals, and that's ourselves.",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " decisions through our values first and though it may not always go our way just like I said we make decisions all the time that aren't always in our interests like bringing an injured bad guy in putting them in our hospitals not our interests but what that does it",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=534"
+        },
+        {
+            "Text": " But these machines can only construct gold atom by atom. So it would take almost the age of the universe to produce one gram at a cost vastly exceeding the current value of gold. So that's not a very good solution. But if we were to reach a hypothetical point",
+            "Title": "Where does gold come...",
+            "VideoId": "jf_4z4AKwJg",
+            "Controls": "start=206"
+        },
+        {
+            "Text": " On the game show, you were thinking about each item's exchange value, what you could obtain for them at a later time, but in an emergency, like the desert scenario, what matters far more is their use value, how helpful they are in your current situation.",
+            "Title": "The paradox of value -...",
+            "VideoId": "e7S8jWh6AEs",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " They are often people who are deeply monogamous in their beliefs, and at least for their partner. But they find themselves in a conflict between their values and their behavior. They often are people who have actually been faithful for decades,",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=632"
+        },
+        {
+            "Text": " or not, to the rules of society and the punishments for individuals who break them. What kind of government does this world have? Who has power, and who doesn't? What do people believe in here? And what does this society value most?",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=223"
+        },
+        {
+            "Text": " He wanted to fulfill his dream with my dad, because he wanted my dad to be a lawyer. And that's why I wanted to be a lawyer. I want to be like my dad. I wanted to help my family. People think that bandits don't have values.",
+            "Title": "The Rise of the Cali...",
+            "VideoId": "BMmrYHWdkf8",
+            "Controls": "start=153"
+        },
+        {
+            "Text": " If we want these actions to be ethical, we have to decide in advance how to value human life and judge the greater good. So researchers who study autonomous systems are collaborating with philosophers",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=247"
+        },
+        {
+            "Text": " to one hundred thousand insects in a single raid despite the ant's formidable reputation most farmers value their role as pest",
+            "Title": "Killer Ant Swarm...",
+            "VideoId": "OnooyOZRzkM",
+            "Controls": "start=237"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thich-nhat-hanh.webp",
+            "Text": "In the past there were people who were not rich but contented with their living style, laughing and happy all day. But when the new rich people appear, people look at them and ask, 'why don't I have a life like that too, a beautiful house, car and garden,' and they abandon their values.",
+            "Title": "Vietnamese Clergyman",
+            "Name": "Thich Nhat Hanh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/swami-vivekananda.webp",
+            "Text": "If money help a man to do good to others, it is of some value; but if not, it is simply a mass of evil, and the sooner it is got rid of, the better.",
+            "Title": "Indian Clergyman",
+            "Name": "Swami Vivekananda"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-david-thoreau.webp",
+            "Text": "There is no value in life except what you choose to place upon it and no happiness in any place except what you bring to it yourself.",
+            "Title": "American Author",
+            "Name": "Henry David Thoreau"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-ruskin.webp",
+            "Text": "Life being very short, and the quiet hours of it few, we ought to waste none of them in reading valueless books.",
+            "Title": "English Writer",
+            "Name": "John Ruskin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gordon-b-hinckley.webp",
+            "Text": "We live in a world of shifting values. The family is falling apart. Parents failing in what they ought to do.",
+            "Title": "American Clergyman",
+            "Name": "Gordon B. Hinckley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dolly-parton.webp",
+            "Text": "I think your values are always influenced by your family and your community.",
+            "Title": "American Singer",
+            "Name": "Dolly Parton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/virginia-woolf.webp",
+            "Text": "Someone has to die in order that the rest of us should value life more.",
+            "Title": "British Author",
+            "Name": "Virginia Woolf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-london.webp",
+            "Text": "Do you know the only value life has is what life puts on itself?",
+            "Title": "American Novelist",
+            "Name": "Jack London"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/billie-eilish.webp",
+            "Text": "It's rare for anyone to value the opinions of a teenage girl.",
+            "Title": "American Singer",
+            "Name": "Billie Eilish"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-rohn.webp",
+            "Text": "We get paid for bringing value to the market place.",
+            "Title": "American Businessman",
+            "Name": "Jim Rohn"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "currentWord": {
+        "wordRoot": "hamper",
+        "id": 19066,
+        "phonemic": "ˈhæmpə(r)|ˈhæmpər\r",
+        "bigId": "64cf7242-7d12-4fad-9748-c6e7e3e7d851",
+        "wordForms": [
+            "hampers",
+            "hampering",
+            "hampered",
+            "unhampered",
+            "hamper"
+        ]
+    },
+    "senses": [
+        {
+            "id": "64cf7242-7d12-4fad-9748-c6e7e3e7d851",
+            "de": "To prevent something or make it more difficult",
+            "ty": "verb",
+            "ex": "Heavy rains hampered the relief efforts.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hamper progress",
+                " hamper efforts",
+                " hamper growth"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/64cf7242-7d12-4fad-9748-c6e7e3e7d851.webp",
+            "Tips": [
+                {
+                    "title": "Imply Obstruction",
+                    "description": "Use 'hamper' when something slows down progress or creates obstacles, not just any difficulty.",
+                    "example": "The lack of funding hampered the new school's construction.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Q3tkFZfn5g2h6zYV7A0AqRmCanM.webp"
+                },
+                {
+                    "title": "Negative Situations",
+                    "description": "Hamper is used in negative contexts, suggesting problems or challenges.",
+                    "example": "The constant interruptions hampered her ability to concentrate.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/2xJFIhnjpHQi9wH2Xd174SIqo0.webp"
+                },
+                {
+                    "title": "Active Hindrance",
+                    "description": "'Hamper' implies an active hindrance rather than a passive one.",
+                    "example": "The bad weather didn't just complicate the trip; it actively hampered our plans.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EPY402qcJ2rHf0PPRa9y8ex20.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "176fee78-acd5-4470-b18e-a182a109798b",
+            "de": "A basket with a lid, used usually for carrying food, often in a picnic",
+            "ty": "noun",
+            "ex": "She packed a picnic hamper with sandwiches and fruit.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/176fee78-acd5-4470-b18e-a182a109798b.webp",
+            "Tips": [
+                {
+                    "title": "Carrying Food",
+                    "description": "Remember 'hamper' as a noun usually refers to a basket for carrying meals, especially outdoors.",
+                    "example": "Don't forget to bring the hamper for our beach picnic.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Traditional Picnics",
+                    "description": "A 'hamper' often implies a traditional or old-fashioned style picnic.",
+                    "example": "Their picnic hamper was filled with homemade bread and jars of pickles.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "With a Lid",
+                    "description": "A 'hamper' typically has a lid which makes it differ from an open-top basket.",
+                    "example": "She secured the lid on the hamper before setting off on her hike.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Block": {
+            "wordRoot": "Block",
+            "wordDefinition": "Block means to obstruct or stop something from moving forward or progressing. For example, a roadblock can block the path of a car.\n\nIn short, while block refers to complete obstruction, hamper refers to an obstacle that makes something more difficult.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/69e3c111-f4f7-4b0e-b2bd-f46810010f03.webp"
+        },
+        "Cripple": {
+            "wordRoot": "Cripple",
+            "wordDefinition": "Cripple is often used to describe a person or thing that has been significantly disabled or rendered incapable.\n\nIt can be perceived as a derogatory or offensive term when applied to a person with a physical or mental disability. Examples might include \"his injury will cripple his ability to play sports,\" or \"the company's poor financial decisions will cripple its growth.\".\n\nCripple implies a significant and often permanent disabling of something or someone, whereas hamper only suggests a temporary or partial obstacle.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f33fa291-37bd-42c5-9b9a-643b266d5483.webp"
+        },
+        "Encumber": {
+            "wordRoot": "Encumber",
+            "wordDefinition": "Both encumber and hamper mean to hinder or impede progress.\n\nHowever, encumber specifically refers to something that is a burden or obstacle, such as a heavy backpack encumbering a hiker's movement.\n\nIn other words, encumber is more about weight or burden, while hamper is more about physical limitation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0b3ab43-3b2c-45e5-b592-0bce10b56c32.webp"
+        },
+        "Hinder": {
+            "wordRoot": "Hinder",
+            "wordDefinition": "Hinder means to make it difficult for someone or something to do something or to prevent it from happening altogether.\n\nFor example, if you cut someone's internet connection, you are hindering their ability to access online resources.\n\nBoth words imply a sense of obstacle or obstruction, but hamper refers to something that slows down progress or movement, while hinder implies something that actively prevents or makes it difficult to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bbf77ffd-2b7d-4d4b-af6b-3ef868702502.webp"
+        },
+        "Impede": {
+            "wordRoot": "Impede",
+            "wordDefinition": "Impede on the other hand, means to prevent or obstruct progress or movement entirely.\n\nFor example, a roadblock on the highway would impede traffic entirely, preventing people from getting to their destination.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5fe39e3e-b4b5-46db-945a-d42cacb941a5.webp"
+        },
+        "Inhibit": {
+            "wordRoot": "Inhibit",
+            "wordDefinition": "Inhibit means to prevent or restrain someone or something from taking action. It implies more of a mental or psychological block or restriction, like feeling shy or timid that could inhibit your ability to speak up in public or socialize effectively.\n\nHamper refers to physical obstructions, while inhibit refers to mental/intellectual restrictions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9ed8c1e6-3da1-4cf8-ba67-dd34edd3b394.webp"
+        },
+        "Interfere": {
+            "wordRoot": "Interfere",
+            "wordDefinition": "Both hamper and interfere relate to obstacles that get in the way of something.\n\nInterfere means to get in the way of or prevent someone or something from completing a task properly. It's usually used when someone or something is causing a problem, like a meddling person who interferes with a business deal.\n\nHamper refers to physical obstructions, while interfere refers to difficulties caused by people or things getting in the way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/692095e2-813c-48c1-9548-30ae6c862f2b.webp"
+        },
+        "Obstruct": {
+            "wordRoot": "Obstruct",
+            "wordDefinition": "Obstruct means to block or hinder completely, so that no progress can be made.\n\nIt is often used in legal or political contexts, such as if someone tries to obstruct justice by lying to investigators.\n\nIt can also refer to physical blockages, such as when a fallen tree obstructs a road and prevents cars from passing through.\n\nHamper is used when something is causing a delay or making progress slower, whereas obstruct refers to a complete blockage that prevents any progress at all.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f9e5c35f-4d48-4c25-b139-85cfbed40793.webp"
+        },
+        "Restrain": {
+            "wordRoot": "Restrain",
+            "wordDefinition": "Restrain denotes the act of holding back or preventing someone or something from doing something.\n\nFor example, if a person was becoming agitated and violent, their doctor might need to restrain them to prevent harm to themselves or others.\n\nHamper means to limit progress or success, while restrain means to hold back or prevent something from happening entirely.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/119c5755-832e-4afa-9d29-bf4739a10eaa.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and that's one of the reasons why I'm trying to get away from the fleet and get off on my own you make this change crew wise you bring in a couple of new guys you said yourself there they know a little bit more about it they're a little more seasoned how much do you think the crew affected you last year I think big time you know when I got sick there and it kind of hampered my ability to fish because it's kind of hard being",
+            "Title": "Reel Talk Ep. 1: Opening...",
+            "VideoId": "KpxY-Ytn4oI",
+            "Controls": "start=284"
+        },
+        {
+            "Text": " our car and just went what would have happened like what were you afraid of happening these traders make a lot of money from the traded manta rays and other marine products so if you are someone who could hurt that income if you were someone who could a hamper the amount of revenue coming into their bank accounts every month",
+            "Title": "Going Undercover to Save...",
+            "VideoId": "psSHkzn2N2Q",
+            "Controls": "start=1631"
+        },
+        {
+            "Text": " aren't exactly what the world needs maybe you've had grand plans before but stopped yourself thinking the that's impossible or that costs too much or that won't benefit me for better or worse sweet kids aren't hampered as much when it comes to thing about reasons why not to do things kids can be full of",
+            "Title": "What adults can learn...",
+            "VideoId": "TN79Qyddsf0",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " important distinction lots of them so this was my opportunity this is my opportunity to give back do something an animal that had not been really worked on before probably for lack of opportunity and a paucity of data that was hampering its conservation status listing and so this was how I was going",
+            "Title": "Andrea Marshall: Queen...",
+            "VideoId": "0k_Ky_H8Ods",
+            "Controls": "start=260"
+        },
+        {
+            "Text": " Willard who used to chair DuPont reminds us in companies hampered by old thinking won't be a problem because he said they simply won't be around long term I've described not just a once in a civilization business opportunity but",
+            "Title": "A 40-year plan for...",
+            "VideoId": "PQqv8cWWV2U",
+            "Controls": "start=1526"
+        },
+        {
+            "Text": " of your reaction time your ability to make logical decisions becomes increasingly hampered causing all sorts of potential problems in your life this is not something that we should be messing with sleep is crucial to our",
+            "Title": "Jason Silva on Sleep PIPE...",
+            "VideoId": "yqi8Mv0FDu0",
+            "Controls": "start=39"
+        },
+        {
+            "Text": " the winds here are literally the fiercest and most continuous anywhere in the world any other part of antarctica any other place in the world and this created tremendous stress and and hampered all of the research",
+            "Title": "Alone on the Ice: The...",
+            "VideoId": "7lkS5psgo6Q",
+            "Controls": "start=385"
+        },
+        {
+            "Text": " than their maximum demands. Second, an international diplomatic effort that was hampered from the beginning by Western support for Kosovo's independence. And third, a lack of imagination",
+            "Title": "Stefan Wolff: The path...",
+            "VideoId": "UfM7t_oqNDw",
+            "Controls": "start=761"
+        },
+        {
+            "Text": " Air trapped in their feathers hampers the gannets' ability to dive deep, so they have to strike hard. They hit the water head first with arrow-like posture,",
+            "Title": "Sardine Feeding Frenzy PIPE...",
+            "VideoId": "1V8F3ekQIFo",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " hampered by the two young calves himba is hot thirsty and above all hungry he won't be able to eat even grass till he's at least three months",
+            "Title": "Baby Elephant's Struggle...",
+            "VideoId": "bEtVuzYngh8",
+            "Controls": "start=92"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frederick-banting.webp",
+            "Text": "Especially during the hot weather, we have been so greatly hampered by infections despite our utmost care, and since we have lost so many dogs, I strongly desire more help to keep the place clean and gloves and gowns and a thorough fitting up of our operating room.",
+            "Title": "Canadian Scientist",
+            "Name": "Frederick Banting"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alfred-adler.webp",
+            "Text": "Death is really a great blessing for humanity, without it there could be no real progress. People who lived for ever would not only hamper and discourage the young, but they would themselves lack sufficient stimulus to be creative.",
+            "Title": "Austrian Psychologist",
+            "Name": "Alfred Adler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-b-smoove.webp",
+            "Text": "You don't want to take the world over with a whole hamper full of dirty clothes. That's the main thing people overlook. And take a shower, take a bath every day.",
+            "Title": "American Actor",
+            "Name": "J. B. Smoove"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zhuangzi.webp",
+            "Text": "Those who seek to satisfy the mind of man by hampering it with ceremonies and music and affecting charity and devotion have lost their original nature.",
+            "Title": "Chinese Philosopher",
+            "Name": "Zhuangzi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/w-somerset-maugham.webp",
+            "Text": "It is not wealth one asks for, but just enough to preserve one's dignity, to work unhampered, to be generous, frank and independent.",
+            "Title": "British Playwright",
+            "Name": "W. Somerset Maugham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ioan-gruffudd.webp",
+            "Text": "I'm determined not to lose my name. It's who I am. It has neither aided my progress nor hampered it. It's just who I am.",
+            "Title": "Welsh Actor",
+            "Name": "Ioan Gruffudd"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-harrison.webp",
+            "Text": "Marriage, for a woman at least, hampers the two things that made life to me glorious - friendship and learning.",
+            "Title": "English Writer",
+            "Name": "Jane Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gever-tulley.webp",
+            "Text": "Every day, new laws are created that further hamper the ways children can engage with the world.",
+            "Title": "American Writer",
+            "Name": "Gever Tulley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marc-rich.webp",
+            "Text": "You can't run a business based on sympathies; otherwise our business would be hampered.",
+            "Title": "American Businessman",
+            "Name": "Marc Rich"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shamita-shetty.webp",
+            "Text": "I don't want to get someone in my life who is going to hamper my state of mind.",
+            "Title": "",
+            "Name": "Shamita Shetty"
+        }
+    ]
+}

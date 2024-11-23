@@ -1,0 +1,273 @@
+{
+    "currentWord": {
+        "wordRoot": "remainder",
+        "id": 16174,
+        "phonemic": "rɪˈmeɪndə(r)|rɪˈmeɪndər\r",
+        "bigId": "8ebf1acf-8526-4111-9472-916ad942943e",
+        "wordForms": [
+            "remaindered",
+            "remainder"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8ebf1acf-8526-4111-9472-916ad942943e",
+            "de": "The part that is left when other parts have been taken away, used, or removed.",
+            "ty": "noun",
+            "ex": "After the party, the remainder of the cake was stored in the fridge.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "the remainder of",
+                " a small remainder",
+                " remainder of the day"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8ebf1acf-8526-4111-9472-916ad942943e.webp",
+            "Tips": [
+                {
+                    "title": "Left Behind",
+                    "description": "Use 'remainder' to describe something left after parts are removed, often unwanted or surplus.",
+                    "example": "We packed the leftovers, leaving only the remainder to dispose of.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/oBRGvRAPo9J2YqO9DUxfD7n7IqQ.webp"
+                },
+                {
+                    "title": "Time Remaining",
+                    "description": "'The remainder of the day' often implies a significant portion of time left.",
+                    "example": "He spent the remainder of the day relaxing.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qhGrC3r4oRFGa9wOy35JbqdHOUI.webp"
+                },
+                {
+                    "title": "Final Part",
+                    "description": "Used for the last part of something when its end is near.",
+                    "example": "In the remainder of her speech, she thanked her team.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jS26GlxrL8i6qGdwLWog6EPMclg.webp"
+                }
+            ]
+        },
+        {
+            "id": "4339f7b7-1f3e-41ef-9467-6ee4e070f078",
+            "de": "In mathematics, the amount left over when one quantity cannot be exactly divided by another.",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "In the division 17 ÷ 5, the quotient is 3 and the remainder is 2.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "a remainder of",
+                " no remainder",
+                " division remainder"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4339f7b7-1f3e-41ef-9467-6ee4e070f078.webp",
+            "Tips": [
+                {
+                    "title": "Exact Division",
+                    "description": "When quantities don't divide evenly, 'remainder' describes the amount left.",
+                    "example": "Dividing 15 by 4 gives a remainder of 3.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "No Remainder",
+                    "description": "If a number divides evenly, we often say there is 'no remainder'.",
+                    "example": "20 divided by 5 is exactly 4, with no remainder.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Nonzero Remainder",
+                    "description": "In math, a 'remainder' must be smaller than the divisor and nonzero.",
+                    "example": "When dividing 22 by 6, the remainder is 4.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5d9f983b-4af4-4bc5-8663-5c0edabfa790",
+            "de": "A book that is left unsold when it is no longer new and desirable.",
+            "do": "Publishing",
+            "ty": "noun",
+            "ex": "The store was selling remainders from last year's best-seller list at discounted prices.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "books remainder",
+                " remainder table",
+                " discounted remainders"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5d9f983b-4af4-4bc5-8663-5c0edabfa790.webp",
+            "Tips": [
+                {
+                    "title": "Discounted Books",
+                    "description": "'Remainder' can refer to unsold books sold at a lower price.",
+                    "example": "I found this novel on the remainder shelf for half price.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Marketing Tactics",
+                    "description": "Remainders may be marketed as 'discounted' or 'bargain books'.",
+                    "example": "They put bright stickers on books for remainder sales.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Balance": {
+            "wordRoot": "Balance",
+            "wordDefinition": "Balance refers to the amount of money that is remaining in an account after all debits and credits have been accounted for.\n\nFor example, if you have $100 in your bank account and you spend $25, your balance would be $75.\n\nBalance is applicable in the context of finances, while remainder is applicable in the context of mathematical operations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/84cbbb2f-d484-4c04-80f0-43adc840181a.webp"
+        },
+        "Remain": {
+            "wordRoot": "Remain",
+            "wordDefinition": "Remain means what is left after something has been removed or used up. For example, if you have a pizza and you eat three slices, the remaining slices would be whatever is left over.\n\nRemainder refers to the part that is left over after something has been divided or shared. For example, if you have 10 apples and you give away 4, the remainder would be 6.\n\nRemain is used when something has already been consumed or removed, while remainder is used when something has been divided or shared.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a60ad2c6-d9fe-42a3-885d-470764bd8a27.webp"
+        },
+        "Remnant": {
+            "wordRoot": "Remnant",
+            "wordDefinition": "Remnant refers to a small remaining piece of something that has been largely used up or destroyed. For example, if you have a piece of fabric and you cut out a large section for a project, the remaining small piece would be a remnant.\n\nSo, in short, remainder is used when something is left over after division or subtraction, while remnant is used when something has been largely used up or destroyed and only a small piece remains.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad3ddc0b-60b2-41b3-b123-086f235f08c6.webp"
+        },
+        "Residue": {
+            "wordRoot": "Residue",
+            "wordDefinition": "Residue is generally used in a mathematical context to mean the part of a solution that is left over after removing something else.\n\nFor example, in algebra, sometimes one has to remove a certain factor or term from an equation to solve it. The residue, then, would be the solution once that factor or term has been removed.\n\nA remainder refers to what is left over after a basic calculation or operation, while a residue is typically used in more complex mathematical situations to refer to the solution or part of the solution that remains after some element has been removed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7649971e-f122-496b-a0eb-506f3d318d07.webp"
+        },
+        "Rest": {
+            "wordRoot": "Rest",
+            "wordDefinition": "Rest refers to what is left over or remaining of a whole when some part has been removed.\n\nIt can be used in a variety of contexts, but often refers to physical objects or actions. For example, if you eat a pizza but leave a slice on the plate, the rest of the pizza is what's left.\n\nRemainder is used in math to represent what's left over after division, while rest is used as a more general term for what's left over after something has been taken away.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/db6afbce-8e0d-47b9-84ea-73f069db50ee.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " But that's all in the context of these very controlled laboratory settings. What about in the real world? What about in our actual day-to-day life? What about now? Where is your attention right now? To kind of bring it back, I'd like to make a prediction about your attention for the remainder of my talk. Are you up for it?",
+            "Title": "How to tame your...",
+            "VideoId": "UQzvNIIMayo",
+            "Controls": "start=548"
+        },
+        {
+            "Text": " and with most of the remainder living close enough to lakes, rivers, or swamps, all of which ultimately lead to the ocean, virtually every single person on the planet has the opportunity to influence the general health and nature of the world ocean. Evidence of human influence is seen in every part of the ocean,",
+            "Title": "How big is the ocean? -...",
+            "VideoId": "QUW_Zv_jJb8",
+            "Controls": "start=269"
+        },
+        {
+            "Text": " that information and then when you receive G to the Y mod P from the iTunes server you raise that to the X meaning you multiply that result by itself x times divided by P and take the remainder and so if you plug numbers into this really really simple numbers you can see like if we're using three",
+            "Title": "Math can save us from...",
+            "VideoId": "hoLsld2zdy8",
+            "Controls": "start=283"
+        },
+        {
+            "Text": " he rarely spoke of his experiences in waking life. But at night I would hear him shouting obscenities from his room down the hall. And during the day I would announce myself as I entered the room, careful not to startle or agitate him. He lived out the remainder of his days",
+            "Title": "Art can heal PTSD's...",
+            "VideoId": "Qs9m8obl0AY",
+            "Controls": "start=149"
+        },
+        {
+            "Text": " that will bring us to question not only who we are but where we will be going. The answers will lie in our choice to use or abandon the technology that we have gleaned from life itself, and it will define us for the remainder of our term in this universe. Thank you.",
+            "Title": "How humans could evolve...",
+            "VideoId": "CtvIX4s1bTU",
+            "Controls": "start=747"
+        },
+        {
+            "Text": " remainder of that spring and well into the following summer their behavior changed and they appeared depressed hanging their heads they drifted about their home in a listless manner now this Jamie had mentioned earlier we have observed that normally Omega wolves",
+            "Title": "Jim & Jamie Dutcher: The...",
+            "VideoId": "d36MK94POaI",
+            "Controls": "start=1423"
+        },
+        {
+            "Text": " I say, one, if you get elected, what are you going to do for the rest of us, for the remainder of the seven billion who live on this planet? Second What is your vision for your country's future in the world? What role do you see it playing?",
+            "Title": "Who would the rest of...",
+            "VideoId": "ag33QJmknXM",
+            "Controls": "start=324"
+        },
+        {
+            "Text": " However, much of that radiation is non-ionizing. For the remainder that is ionizing, our exposures are usually low, and choices like getting your home tested for radon and wearing sunscreen can help reduce the associated health risks.",
+            "Title": "Is radiation dangerous?...",
+            "VideoId": "zI2vRwFKnHQ",
+            "Controls": "start=272"
+        },
+        {
+            "Text": " But for the remainder, she would stay in the world of the dead. When Persephone ascended to Earth, she and her mother rejoiced. Together, they showered the fields with rain and nurtured them with sun.",
+            "Title": "The myth of Hades and...",
+            "VideoId": "zLAYGZeVTPQ",
+            "Controls": "start=256"
+        },
+        {
+            "Text": " are the precise reasons why this remainder goes away most important of all they'd learned from an early age to react quickly to",
+            "Title": "The Great Flamingo...",
+            "VideoId": "ZWd7Di2HLg0",
+            "Controls": "start=7"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "My parents didn't know much science; in fact, they didn't know science at all. But they could recognize a science book when they saw it, and they spent a lot of time at bookstores, combing the remainder tables for science books to buy for me. I had one of the biggest libraries of any kid in school, built on books that cost 50 cents or a dollar.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cesare-beccaria.webp",
+            "Text": "Laws are the terms by which independent and isolated men united to form a society, once they tired of living in a perpetual state of war where the enjoyment of liberty was rendered useless by the uncertainty of its preservation. They sacrificed a portion of this liberty so that they could enjoy the remainder in security and peace.",
+            "Title": "Italian Judge",
+            "Name": "Cesare Beccaria"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gordon-b-hinckley.webp",
+            "Text": "I promise you that the time will come, if you have tattoos, that you will regret your actions. They cannot be washed off. They are permanent. Only by an expensive and painful process can they be removed. If you are tattooed, then probably for the remainder of your life you will carry it with you.",
+            "Title": "American Clergyman",
+            "Name": "Gordon B. Hinckley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/buzz-aldrin.webp",
+            "Text": "I have no intention of selling any more of the historical Apollo 11 items in my possession for the remainder of my life. I intend to pass a portion of these items on to my children and to loan the most important items for permanent display in suitable museums around the country.",
+            "Title": "American Astronaut",
+            "Name": "Buzz Aldrin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-chatzky.webp",
+            "Text": "You'll get the biggest bang for each buck by paying off the highest interest rate debt in your portfolio first, while making minimum payments on the remainder. It's called the avalanche method, and it gets you out of debt cheapest and fastest.",
+            "Title": "American Journalist",
+            "Name": "Jean Chatzky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/augusto-roa-bastos.webp",
+            "Text": "In all nations an exceptional man exists that compensates the deficiencies of the remainder. In those moments, when humanity is found collectively in a state of decadence, there always remain those exceptional beings as point of reference.",
+            "Title": "Paraguayan Novelist",
+            "Name": "Augusto Roa Bastos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dick-york.webp",
+            "Text": "I was seeing everything through pain. I would roll out of bed and do my exercises. I had to do that to work out the remainder of the pain pills. I would drink coffee and go to the set and plunge myself so far into my work.",
+            "Title": "American Actor",
+            "Name": "Dick York"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/graydon-carter.webp",
+            "Text": "Many of the architects of the Vietnam War became near pariahs as they spent the remainder of their lives in the futile quest to explain away their decisions at the time.",
+            "Title": "American Journalist",
+            "Name": "Graydon Carter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/saint-augustine.webp",
+            "Text": "Find out how much God has given you and from it take what you need; the remainder is needed by others.",
+            "Title": "Saint",
+            "Name": "Saint Augustine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kajal-aggarwal.webp",
+            "Text": "Trust me: I've been travelling, making movies, and spending the remainder of my time at home.",
+            "Title": "Indian Actress",
+            "Name": "Kajal Aggarwal"
+        }
+    ]
+}

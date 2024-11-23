@@ -1,0 +1,348 @@
+{
+    "currentWord": {
+        "wordRoot": "decision",
+        "id": 5606,
+        "phonemic": "dɪˈsɪʒn|dɪˈsɪʒn\r",
+        "bigId": "c3446f6a-049b-422a-90a6-184f63febb98",
+        "wordForms": [
+            "decisions",
+            "decision"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c3446f6a-049b-422a-90a6-184f63febb98",
+            "de": "A choice that you make about something after thinking about it",
+            "ty": "noun",
+            "ex": "The decision to start a family is a big one.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make a decision",
+                " final decision",
+                " important decision"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c3446f6a-049b-422a-90a6-184f63febb98.webp",
+            "Tips": [
+                {
+                    "title": "Life Choices",
+                    "description": "Used when referring to significant decisions about personal life or career paths.",
+                    "example": "Her decision to become a nurse was influenced by her desire to help others.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qzEr8uWqF2nBL8fVPjQIrYqyC6o.webp"
+                },
+                {
+                    "title": "Deliberation Required",
+                    "description": "Implies careful thought before making a decision.",
+                    "example": "After much deliberation, his decision was to enroll at the university.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EI2BVVBCgwtAcf3CS2tkicyY6kQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "c4d6ccd6-12b7-49dd-bf5a-2da3c6d032ef",
+            "de": "A conclusion reached after consideration",
+            "ty": "noun",
+            "ex": "We are making decisions based on the information we have.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "decision process",
+                " decision maker",
+                " split decision"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c4d6ccd6-12b7-49dd-bf5a-2da3c6d032ef.webp",
+            "Tips": [
+                {
+                    "title": "Informed Choices",
+                    "description": "Highlights decisions made based on available information and analysis.",
+                    "example": "The company's decision to expand overseas was data-driven.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Objective Assessment",
+                    "description": "Involves a conclusion without personal feelings or biases.",
+                    "example": "The jury's decision was supposed to be based on facts alone.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2bc6c5f5-35fe-4c0f-b777-b8bbce91fd1d",
+            "de": "The action of deciding something or settling a question",
+            "ty": "noun",
+            "ex": "The decision to go ahead with the project was made by the board.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "decision point",
+                " decision tree",
+                " decision making"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2bc6c5f5-35fe-4c0f-b777-b8bbce91fd1d.webp",
+            "Tips": [
+                {
+                    "title": "Academic Setting",
+                    "description": "Often found in scholarly discussions about research and analysis.",
+                    "example": "The decision point in the experiment determined the research path.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Corporate Resolution",
+                    "description": "Refers to decisions made by businesses or organizations.",
+                    "example": "The board's decision will affect the future of the company.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "50594ad5-21ed-4c26-a850-17b0b68b1485",
+            "de": "The ability or tendency to make decisions quickly",
+            "ty": "noun",
+            "ex": "I admire his decision when dealing with difficult problems.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "judgement decision",
+                " decision fatigue",
+                " decision support"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/50594ad5-21ed-4c26-a850-17b0b68b1485.webp",
+            "Tips": [
+                {
+                    "title": "Quick Thinking",
+                    "description": "Describes a person's swift response to a situation requiring a choice.",
+                    "example": "His quick decision saved the project from failure.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Under Pressure",
+                    "description": "Relates to making a tough decision during stressful circumstances.",
+                    "example": "Despite the pressure, she showed great decision in the emergency.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2d4bf7cc-cc9e-4dc0-8b10-c5a38cf4d682",
+            "de": "A legal judgment, such as the outcome of a case or a court order",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The court's decision is final and binding.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "court decision",
+                " decision law",
+                " decision review"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2d4bf7cc-cc9e-4dc0-8b10-c5a38cf4d682.webp",
+            "Tips": [
+                {
+                    "title": "Legal Authority",
+                    "description": "Involves rulings or judgments made in a court of law.",
+                    "example": "The judge's decision will determine the outcome of the case.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Binding Outcome",
+                    "description": "Denotes a decision in a legal context that must be followed.",
+                    "example": "The tribunal's decision is binding on both parties.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Choice": {
+            "wordRoot": "Choice",
+            "wordDefinition": "Choice refers to the act of selecting from two or more options. It means that there are multiple possibilities, and one must pick the one they prefer.\n\nFor instance, when you are given a menu at a restaurant, you have a choice to select from various dishes.\n\nThe term decision entails making a firm choice between multiple options. It means that there are various possibilities, and one must select one and settle for it.\n\nA choice is selecting between alternatives, while a decision involves determining and committing to one alternative.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b6e9db84-48c5-41ff-a359-6ad738def0a4.webp"
+        },
+        "Conclusion": {
+            "wordRoot": "Conclusion",
+            "wordDefinition": "A conclusion is the end result or final thought reached after considering all of the facts or evidence.\n\nIt is often used in writing, such as in a conclusion paragraph at the end of an essay.\n\nA conclusion is the end result of considering information, while a decision is a choice made after contemplating options.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a6c7833-37a6-42dd-a36f-f06699355949.webp"
+        },
+        "Determination": {
+            "wordRoot": "Determination",
+            "wordDefinition": "Determination refers to the attitude or mindset of being firm and dedicated towards achieving a goal despite difficulties and obstacles.\n\nFor example, a determined athlete who trains hard and perseveres despite setbacks is said to have determination.\n\nDecision is about choosing between options, while determination is about having a strong will to achieve a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/464ea829-1e15-4682-9bc4-ec4dd720e99c.webp"
+        },
+        "Election": {
+            "wordRoot": "Election",
+            "wordDefinition": "An election is when people vote to choose someone or something. For example, when people vote for the President of the United States, they are participating in an election.\n\nA decision is a personal choice, while an election is a collective choice made by a group of people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6875d73a-b728-4729-97a5-12cf02d53bec.webp"
+        },
+        "Judgement": {
+            "wordRoot": "Judgement",
+            "wordDefinition": "Judgement refers to the process of forming an opinion or coming to a conclusion based on observation, experience, or knowledge.\n\nIt could also mean the ability to make sound decisions or choices. For instance, a teacher may use judgement to determine the most effective way to teach a particular lesson; or a manager might be praised for his/her judgement in handling a difficult situation at work.\n\nDecision is a choice made from available options, while judgement is the ability or process used to make that choice.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d14ed90-3ca4-43c5-a97e-5168a029a566.webp"
+        },
+        "Option": {
+            "wordRoot": "Option",
+            "wordDefinition": "A decision is a choice that has been made after considering different options. An option is one of the choices available to make a decision.\n\nIn other words, a decision is the final choice that has been made, whereas an option is one of the alternatives that was considered before making the final decision.\n\nFor example, if you were trying to decide what to have for dinner, your options might include pizza, pasta, or salad. Once you choose pizza, that is your decision.\n\nIn summary, options are the alternatives you have when making a decision, and decisions are the final choices that have been made.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a68a8577-4682-4fa2-9440-dbbb89efadc6.webp"
+        },
+        "Resolution": {
+            "wordRoot": "Resolution",
+            "wordDefinition": "A resolution is a determination to do something or achieve a specific goal. It is a promise to oneself or others to follow through on a chosen course of action.\n\nA decision is a one-time choice, while a resolution is a commitment towards a long-term goal. Decisions are applicable in situations where one needs to choose between two or more options, while resolutions are applicable in situations where one wants to achieve or change something in their life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f8dc4409-11bb-4bb6-8ca9-143a0cd751aa.webp"
+        },
+        "Selection": {
+            "wordRoot": "Selection",
+            "wordDefinition": "Selection is more about making a choice based on a specific set of criteria or preferences.\n\nSelections are usually simpler and more immediate choices, and they're often based on personal preferences rather than objective facts.\n\nA decision involves carefully weighing different options and selecting the best one based on logic and facts, whereas a selection involves choosing from among several options based on personal preferences or specific criteria.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4fd223c6-2ed5-4c8d-a224-864d98f4c3e9.webp"
+        },
+        "Verdict": {
+            "wordRoot": "Verdict",
+            "wordDefinition": "Decision refers to a choice that is made after considering different options, while verdict refers to the final decision made by a judge or jury in a legal case.\n\nIn a legal case, a verdict is the final decision made by a judge or jury after all evidence has been presented and arguments have been heard.\n\nFor example, a verdict of guilty or not guilty would be the final decision made in a criminal case.\n\nA decision is a choice made after considering options, while a verdict is the final decision made in a legal case.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d8481167-ee11-4140-9453-75ab6a1313b5.webp"
+        },
+        "Will": {
+            "wordRoot": "Will",
+            "wordDefinition": "Decisions are applicable in situations where you need to make a choice, such as selecting a college, choosing a career path, or deciding what to eat for dinner.\n\nWill refers to the desire or determination to do something. It is the mental state of knowing what you want to achieve and being committed to making it happen.\n\nWillpower is applicable in situations where you need to overcome obstacles or achieve a goal, such as sticking to a diet, exercising regularly, or studying for exams.\n\nA decision is about choosing between options, while will is about taking action to achieve a desired outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/37acbf8b-12a7-44b3-9770-52665a28af05.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " the last person in line who wasn't in on it with a tough decision to go with their gut or with a group you're gonna go with the group yeah although not all of the test subjects at the end of the line fell for it I think it's C in spite of what everybody else thinks you don't trust the wisdom of the crowd uh I'm",
+            "Title": "Question the Herd PIPE...",
+            "VideoId": "0IJCXXTMrv8",
+            "Controls": "start=99"
+        },
+        {
+            "Text": " but in very rare cases, such as when as a person can't sense the need to urinate, the pouch can rupture painfully requiring surgery to fix. But under normal circumstances, your decision to urinate stops the brain's signal to the external urethral sphincter, causing it to relax and the bladder to empty.",
+            "Title": "Is it bad to hold your...",
+            "VideoId": "Ze4Qmpq48AQ",
+            "Controls": "start=154"
+        },
+        {
+            "Text": " though it may not always go our way just like I said we make decisions all the time that aren't always in our interests like bringing an injured bad guy in putting them in our hospitals not our interests but what that does it makes us predictable and it makes our allies trust us because they know what",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=537"
+        },
+        {
+            "Text": " from a U.S. Navy vessel trying to signal it to come up. The commanders on the sub, too deep to communicate with the surface, thought war had begun and prepared to launch a nuclear torpedo. That decision had to be made unanimously by three officers.",
+            "Title": "The history of the Cuban...",
+            "VideoId": "bwWW3sbk4EU",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " And in many of our own life decisions, we use information gained from past experience and our surroundings to narrow down our choices to the best options so that maybe next time, we can avoid eating that poisonous mushroom in the first place.",
+            "Title": "Can you solve the frog...",
+            "VideoId": "cpwSGsb-rTs",
+            "Controls": "start=238"
+        },
+        {
+            "Text": " No one else has the perfect answers for your life. And you need to keep picking those decisions, right? The pipes are infinite and you're going to bump your head, and it's a part of the process. Three, and it's very subtle but very",
+            "Title": "5 ways to kill your...",
+            "VideoId": "sR6P5Qdvlnk",
+            "Controls": "start=119"
+        },
+        {
+            "Text": " but there is a very large man on the bridge next to you. If you push him over, his body will stop the trolley, saving the five workers, but he'll die. To utilitarians, the decision is exactly the same, lose one life to save five.",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " They must keep moving or risk the same fate as their quarry, the creatures that have collapsed from heat stroke. Too deeply buried, but a good place to cool off. Foraging decisions must be fast.",
+            "Title": "Antlion Cone Death Trap...",
+            "VideoId": "QSYpWaFsIRY",
+            "Controls": "start=66"
+        },
+        {
+            "Text": " Every day, a sea of decisions stretches before us. Some are small and unimportant, but others have a larger impact on our lives.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=9"
+        },
+        {
+            "Text": " Well, she can be picky if she wants. Moving house is an important decision.",
+            "Title": "Hermit Crabs Use Litter...",
+            "VideoId": "LuwQKJCO9UQ",
+            "Controls": "start=196"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/orson-welles.webp",
+            "Text": "I'm never certain of a performance - my own or the other actors' - or the script or anything... But to me it seems there's only one place in the world the camera can be, and the decision usually comes immediately.",
+            "Title": "American Actor",
+            "Name": "Orson Welles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mary-j-blige.webp",
+            "Text": "When you know what pain is, and when you have to make a choice, you learn that it is a decision. People think it's a fairytale thing, love and happiness, but you have to work hard. And then - you feel it deeply.",
+            "Title": "American Musician",
+            "Name": "Mary J. Blige"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-obama.webp",
+            "Text": "At the end of the day, when it comes time to make that decision, as president, all you have to guide you are your values, and your vision, and the life experiences that make you who you are.",
+            "Title": "American First Lady",
+            "Name": "Michelle Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lyndon-b-johnson.webp",
+            "Text": "Presidents quickly realize that while a single act might destroy the world they live in, no one single decision can make life suddenly better or can turn history around for the good.",
+            "Title": "American President",
+            "Name": "Lyndon B. Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-welch.webp",
+            "Text": "Strong managers who make tough decisions to cut jobs provide the only true job security in today's world. Weak managers are the problem. Weak managers destroy jobs.",
+            "Title": "American Businessman",
+            "Name": "Jack Welch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/b-f-skinner.webp",
+            "Text": "I did not direct my life. I didn't design it. I never made decisions. Things always came up and made them for me. That's what life is.",
+            "Title": "American Psychologist",
+            "Name": "B. F. Skinner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "I think it makes sense to believe in God, but exactly what decision in your life you make differently because of it, I don't know.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sonia-sotomayor.webp",
+            "Text": "I think that the day a justice forgets that each decision comes at a cost to someone, then I think you start losing your humanity.",
+            "Title": "American Judge",
+            "Name": "Sonia Sotomayor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harry-s-truman.webp",
+            "Text": "All my life, whenever it comes time to make a decision, I make it and forget about it.",
+            "Title": "American President",
+            "Name": "Harry S Truman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-paul-sartre.webp",
+            "Text": "It is only in our decisions that we are important.",
+            "Title": "French Philosopher",
+            "Name": "Jean-Paul Sartre"
+        }
+    ]
+}

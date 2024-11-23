@@ -1,0 +1,379 @@
+{
+    "currentWord": {
+        "wordRoot": "appeal",
+        "id": 20699,
+        "phonemic": "əˈpiːl|əˈpiːl\r",
+        "bigId": "955e6ba3-1d10-4b21-aa6c-9760ad9e37d7",
+        "wordForms": [
+            "appeals",
+            "appealing",
+            "appealed",
+            "unappealing",
+            "appeal"
+        ]
+    },
+    "senses": [
+        {
+            "id": "955e6ba3-1d10-4b21-aa6c-9760ad9e37d7",
+            "de": "A request to a higher court to review a lower court's decision",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "David's lawyer filed an appeal against the verdict.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "file an appeal",
+                " lose an appeal",
+                " win an appeal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/955e6ba3-1d10-4b21-aa6c-9760ad9e37d7.webp",
+            "Tips": [
+                {
+                    "title": "Court Hierarchy",
+                    "description": "Use 'appeal' when discussing seeking judgment from a higher legal authority.",
+                    "example": "After losing the case, the defendant chose to appeal.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/e3ysZ0Ow6oYm9xlao34HUpJB3CA.webp"
+                },
+                {
+                    "title": "Legal Process",
+                    "description": "'Appeal' is a formal term, specifically used in legal contexts.",
+                    "example": "The appeal process can be lengthy and complex.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/KJnIQ0mWXJt51XalhDU5HzMwc.webp"
+                }
+            ]
+        },
+        {
+            "id": "2a0e3bcd-977c-4702-b869-197dad50eabf",
+            "de": "A plea or request for help or support",
+            "ty": "noun",
+            "ex": "They made a public appeal for information about the crime.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "public appeal",
+                " international appeal",
+                " appeal for funds"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2a0e3bcd-977c-4702-b869-197dad50eabf.webp",
+            "Tips": [
+                {
+                    "title": "Pleading Tone",
+                    "description": "Use 'appeal' for earnest requests reflecting urgency or seriousness.",
+                    "example": "The family's appeal for a missing relative was heart-wrenching.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Context of Need",
+                    "description": "'Appeal' often implies that assistance or support is desperately needed.",
+                    "example": "The flood victims made an appeal for clean water.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "48fd84c9-6803-41c7-a4d4-8fcb54ef0c8f",
+            "de": "Attraction or interest",
+            "ty": "noun",
+            "ex": "The appeal of city life is the vibrant culture and multitude of leisure activities.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "have appeal",
+                " lose appeal",
+                " hold appeal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/48fd84c9-6803-41c7-a4d4-8fcb54ef0c8f.webp",
+            "Tips": [
+                {
+                    "title": "Personal Subjectivity",
+                    "description": "'Appeal' suggests subjective attraction; what appeals to one might not to another.",
+                    "example": "The appeal of snowy landscapes varies from person to person.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Widespread Interest",
+                    "description": "When many are attracted to or interested in something, it 'has appeal'.",
+                    "example": "The new phone model has wide appeal due to its features.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "91c3574a-9c1c-46cf-aedd-8b27e55697c5",
+            "de": "Ask for help or support",
+            "ty": "verb",
+            "ex": "The charity is appealing for donations to help those affected by the flood.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "appeal to someone",
+                " appeal for aid",
+                " appeal for help"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/91c3574a-9c1c-46cf-aedd-8b27e55697c5.webp",
+            "Tips": [
+                {
+                    "title": "Assistance and Support",
+                    "description": "'Appeal' as a verb often conveys an urgent request for help.",
+                    "example": "Local charities appeal to the public after natural disasters.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ed9a164e-42c7-4109-a785-6880202c61fc",
+            "de": "Apply to a higher court for a reversal of a decision",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "They decided to appeal the judgement.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "appeal a decision",
+                " appeal a conviction",
+                " appeal a ruling"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ed9a164e-42c7-4109-a785-6880202c61fc.webp",
+            "Tips": [
+                {
+                    "title": "Legal Re-evaluation",
+                    "description": "Use 'appeal' to indicate a formal request to reconsider a legal decision.",
+                    "example": "Unsatisfied with the outcome, they appealed the ruling.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "029c2107-72cd-443d-8ffd-0f6eea3d2198",
+            "de": "Generally attractive or interesting",
+            "ty": "verb",
+            "ex": "The idea of a holiday appeals to everyone in the family.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "appeal to someone",
+                " appeal to one's interests",
+                " appeal to one's instincts"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/029c2107-72cd-443d-8ffd-0f6eea3d2198.webp",
+            "Tips": [
+                {
+                    "title": "General Attractiveness",
+                    "description": "Use 'appeal' to express general interest or attractiveness in non-legal contexts.",
+                    "example": "Working from home appeals to many because of its flexibility.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Connection",
+                    "description": "Something that 'appeals' often resonates on an emotional level.",
+                    "example": "The story's theme of hope appeals to a wide audience.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Allure": {
+            "wordRoot": "Allure",
+            "wordDefinition": "Allure and appeal are similar in that they both describe a quality that something or someone has that makes it attractive or desirable.\n\nAllure typically refers to a sense of magic or mystery that makes something especially captivating or fascinating. For example, a mysterious person might have an allure about them that draws others in.\n\nHowever, allure tends to be more evocative of a sense of magic or intrigue, while appeal focuses more on tangible elements that create attraction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/157a4c39-fbbb-4caf-9b5d-d58a80be649d.webp"
+        },
+        "Attractive": {
+            "wordRoot": "Attractive",
+            "wordDefinition": "Attractive means having qualities or features that are pleasing or appealing to the senses or the mind. It describes something that is physically or emotionally appealing to someone.\n\nFor example, a person may be attractive because they have a beautiful smile or an appealing personality.\n\nAppeal is more related to the effect something has on others, while attractive is more related to the qualities or features of something that make it appealing to others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7dffdd97-8413-4c00-88ac-b9631186bb47.webp"
+        },
+        "Charm": {
+            "wordRoot": "Charm",
+            "wordDefinition": "Charm refers to the ability of something or someone to captivate or enchant others, often through a certain personality, wit or charisma.\n\nCharms can be seen as more personal and intimate, as opposed to the more general appeal.\n\nBoth words can be applied to a wide range of contexts, but generally appeal is more objective, while charm is more subjective.\n\nFor example, a movie might have broad appeal to many different types of viewers, but a particular actor might be said to have a charming personality that only resonates with certain people.\n\nAppeal is about something being attractive or interesting to a broad audience, while charm is about a certain personal quality that creates a deeper connection with a smaller group of people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5ff33fc4-db2f-479a-b4ec-02b171eb8cd7.webp"
+        },
+        "Entice": {
+            "wordRoot": "Entice",
+            "wordDefinition": "Entice means to attract or persuade someone mainly through excitement or pleasure.\n\nFor example, “The smell of freshly baked cookies entices me to come into the kitchen.”\n\nTo summarize, appeal is used when something has logical or good qualities that make it attractive, while entice is used when something has exciting or pleasurable features that make it attractive.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36316d6b-7476-4630-8e48-52a5388abe00.webp"
+        },
+        "Entreaty": {
+            "wordRoot": "Entreaty",
+            "wordDefinition": "Both appeal and entreaty refer to a request or plea for someone to do something.\n\nHowever, appeal is usually used when asking a higher authority to review a decision or judgment, while entreaty is used when making a sincere and emotional request to someone for help or assistance.\n\nFor example, a person might appeal a court decision, but make an entreaty for forgiveness from a loved one.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6850a2f5-2284-496d-bc93-1e3e300afdb1.webp"
+        },
+        "Fascination": {
+            "wordRoot": "Fascination",
+            "wordDefinition": "Fascination is used when something captivates or intrigues someone, often because it is strange or unusual.\n\nAppeal describes something that is attractive and positive, while fascination describes something that is captivating and intriguing, regardless of whether it is positive or negative.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f5f6e96d-8b12-4ddb-bd41-1023e2c65110.webp"
+        },
+        "Magnetism": {
+            "wordRoot": "Magnetism",
+            "wordDefinition": "Magnetism on the other hand refers to a kind of attraction that is almost irresistible.\n\nFor example, a charismatic speaker might have a magnetism that makes people want to listen to what they have to say.\n\nAppeal is more about the specific qualities of something that make it attractive, while magnetism is more about the deeper, intangible quality of attraction that something or someone has.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/409f7a83-2768-44b2-a2b4-c250f7cbaab5.webp"
+        },
+        "Petition": {
+            "wordRoot": "Petition",
+            "wordDefinition": "A petition is a request or a formal written document asking an authority figure or government to take a specific action or change a policy.\n\nIt is often used by individuals or groups to raise awareness about an issue and to gather support for a cause. For example, a petition could be created to request that a school administration implement a new policy or to demand changes to a local law.\n\nAppeal is used in legal situations to challenge a decision, while petition is used to ask for action or change from an authority figure or government.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/945d5675-3a1d-48be-8ea4-a5811899fec0.webp"
+        },
+        "Plea": {
+            "wordRoot": "Plea",
+            "wordDefinition": "Plea refers to a request made by a defendant in a court of law, asking for mercy or leniency in sentencing. For example, a defendant may plead guilty to a crime and ask for a lesser punishment.\n\nSo, while appeal is more about changing a decision, plea is about requesting leniency or making a case for a more favorable sentencing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/116691f0-081b-4bdf-914b-4ac80ae0bc0b.webp"
+        },
+        "Request": {
+            "wordRoot": "Request",
+            "wordDefinition": "Appeal refers to making a serious and urgent request for something, often in an emotional manner, and may involve a formal legal process.\n\nRequest refers to asking for something politely or formally and often implies that the person asking has less power or authority than the person they are asking.\n\nIt can be used in a variety of situations, from asking someone for a favor to requesting information from a company or government agency.\n\nThe main difference is that an appeal is a more serious and urgent request made to a higher authority, while a request is a more general term that can apply to any polite or formal asking for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4473aba0-12db-42df-8a94-7cfaac7e02a2.webp"
+        },
+        "Supplication": {
+            "wordRoot": "Supplication",
+            "wordDefinition": "Supplication refers to a humble and earnest request or prayer, often addressed to a divine or higher power. For example, a person may make a supplication to a deity for help or guidance.\n\nBoth appeal and supplication involve making requests or pleas, but they differ in their context and focus. Appeals are often made in a formal or legal setting, whereas supplications are more personal and spiritual in nature.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/094d6bd0-cd7c-4c4e-8abe-3d032f06b6ef.webp"
+        },
+        "Temptation": {
+            "wordRoot": "Temptation",
+            "wordDefinition": "Temptation refers to the urge to do something that is considered wrong or forbidden. It's usually used in the context of something negative, and often involves a moral dilemma.\n\nFor example, eating a slice of cake when on a diet would be considered a temptation, as it goes against one's desire to be healthy.\n\nAppeal refers to the attractiveness of something, while temptation refers to the urge to do something that is considered wrong or forbidden.\n\nAppeal is usually positive, while temptation is usually negative.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f90bff6-eb86-49da-9b5c-82f91cf6e672.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " brand names don't don't describe they stand for a big idea ones that translates into emotional appeal nike is about winning gopros about heroism apple is about simplicity and usability and google comes from the math term that's a one with a hundred zeros after it so that really big number helps support the",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " But what if the door is made of solid iron? At this point, your arm muscles alone won't be able to generate enough tension to pull it open, so your brain appeals to other muscles for help. You plant your feet, tighten your belly, and tense your back, generating enough force to yank it open.",
+            "Title": "What makes muscles grow?...",
+            "VideoId": "2tM1LFFxeKg",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " then from a design perspective are you respecting the visual boundaries of design are you creating something that's going to be beautiful are the lines beautiful is the form beautiful is the balance what it needs to be for that tree to be visually appealing",
+            "Title": "The Art of Shaping a...",
+            "VideoId": "TwqZ32TmbIU",
+            "Controls": "start=294"
+        },
+        {
+            "Text": " The words you see and hear in everyday advertising have been crafted to appeal to you and affect your behavior, as have the soundbites and talking points of political campaigns which rarely present the most nuanced perspective on the issues.",
+            "Title": "What \"Orwellian\" really...",
+            "VideoId": "oe64p-QzhNE",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " And finally, pathos appeals to emotion, and in our age of mass media, it's often the most effective mode. Pathos is neither inherently good nor bad, but it may be irrational and unpredictable. It can just as easily rally people for peace",
+            "Title": "How to use rhetoric to...",
+            "VideoId": "3klMM9BkW5o",
+            "Controls": "start=200"
+        },
+        {
+            "Text": " which I think is kind of what you've said you'd love to do? I think it's important to have a future that is inspiring and appealing. I just think there have to be reasons that you get up in the morning and you want to live.",
+            "Title": "Elon Musk: The future...",
+            "VideoId": "zIwLWfaAg-8",
+            "Controls": "start=2090"
+        },
+        {
+            "Text": " might explain why some policies that don't seem valid to you appeal to others. This will allow you to explore alternatives, evaluate your own choices, and ultimately help you make more informed decisions.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " appealing to dozens of ob-gyns over many years, only to be turned down so many times, often with such blatant disrespect that they just gave up.",
+            "Title": "I don't want children --...",
+            "VideoId": "A_xXC37CDSw",
+            "Controls": "start=248"
+        },
+        {
+            "Text": " I want to appeal to Americans. I want to appeal to their humanity, to their dignity, to their civic pride and ownership",
+            "Title": "James A. White Sr.: The...",
+            "VideoId": "N6LxuFpDIYM",
+            "Controls": "start=743"
+        },
+        {
+            "Text": " it's a scent that might not appeal to every animal",
+            "Title": "Corpse Flower Stinks of...",
+            "VideoId": "YxIpl38rsMo",
+            "Controls": "start=125"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fka-twigs.webp",
+            "Text": "I'm appealing to people who want something different, but the world, on the whole, doesn't really embrace different things. Not on the whole.",
+            "Title": "British Musician",
+            "Name": "FKA twigs"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/finn-cole.webp",
+            "Text": "Coming-of-age stories are always appealing, especially as a young man who's still trying to figure out this complicated world.",
+            "Title": "",
+            "Name": "Finn Cole"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/estelle.webp",
+            "Text": "I think the one group I am trying to appeal to is the world. That would be big enough.",
+            "Title": "British Musician",
+            "Name": "Estelle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joseph-rotblat.webp",
+            "Text": "I appeal to my fellow scientists to remember their responsibility to humanity.",
+            "Title": "Polish Physicist",
+            "Name": "Joseph Rotblat"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ali-wong.webp",
+            "Text": "The life of a true, traditional stand-up is really unappealing for women.",
+            "Title": "American Actress",
+            "Name": "Ali Wong"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marc-platt.webp",
+            "Text": "Watching familiar characters take unexpected turns is very appealing.",
+            "Title": "American Producer",
+            "Name": "Marc Platt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/seth-macfarlane.webp",
+            "Text": "There are things about the single lifestyle that are very appealing.",
+            "Title": "American Cartoonist",
+            "Name": "Seth MacFarlane"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christie-hefner.webp",
+            "Text": "The power of Playboy is its appeal around the world.",
+            "Title": "American Businesswoman",
+            "Name": "Christie Hefner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-hal-cone.webp",
+            "Text": "Truth knows no color; it appeals to intelligence.",
+            "Title": "American Theologian",
+            "Name": "James Hal Cone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hannah-gadsby.webp",
+            "Text": "Stories appeal to humanity.",
+            "Title": "Australian Comedian",
+            "Name": "Hannah Gadsby"
+        }
+    ]
+}

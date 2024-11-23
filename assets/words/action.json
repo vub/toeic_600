@@ -1,0 +1,345 @@
+{
+    "currentWord": {
+        "wordRoot": "action",
+        "id": 15821,
+        "phonemic": "ˈækʃn|ˈækʃn\r",
+        "bigId": "9107598c-8111-4a6b-915c-5fd4e0cfb1f9",
+        "wordForms": [
+            "actions",
+            "action"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9107598c-8111-4a6b-915c-5fd4e0cfb1f9",
+            "de": "The fact of doing something, rather than just talking about it",
+            "ty": "noun",
+            "ex": "The city council needs to take immediate action on the housing crisis.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "take action",
+                " action plan",
+                " call for action"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9107598c-8111-4a6b-915c-5fd4e0cfb1f9.webp",
+            "Tips": [
+                {
+                    "title": "Prompting Change",
+                    "description": "Used before or after expressing the need for change or solution.",
+                    "example": "Global warming demands immediate action.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1bd8fxA35Rv7ZDWo3iKkI1lj9U0.webp"
+                },
+                {
+                    "title": "Urgency Implied",
+                    "description": "Often suggests a response to something urgent or important.",
+                    "example": "The committee will take action by tomorrow.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yiSKouK18IMuASi6gbjMpzjo8.webp"
+                },
+                {
+                    "title": "Result Expectation",
+                    "description": "Implies doing something with the expectation of a clear result.",
+                    "example": "We need action, not words.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/n3XVjI5DjrCaGKj5rwImVj3U4.webp"
+                }
+            ]
+        },
+        {
+            "id": "0b70c265-1f9c-4e1e-a4e8-2b0fb84e2282",
+            "de": "A thing done, an act",
+            "ty": "noun",
+            "ex": "His actions earned him a promotion.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "follow through on action",
+                " action sequence",
+                " action replay"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0b70c265-1f9c-4e1e-a4e8-2b0fb84e2282.webp",
+            "Tips": [
+                {
+                    "title": "Concrete Achievement",
+                    "description": "Focuses on concrete acts that lead to noticeable achievements.",
+                    "example": "Her decisive actions saved the project.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Reflects Character",
+                    "description": "Actions can indicate a person's character or intentions.",
+                    "example": "His kind actions spoke louder than words.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b602988b-54bd-438f-aecb-10c3cfa50930",
+            "de": "The way something works or moves",
+            "do": "Mechanical",
+            "ty": "noun",
+            "ex": "The action of the machine was fascinating.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "smooth action",
+                " rough action",
+                " action of gears"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b602988b-54bd-438f-aecb-10c3cfa50930.webp",
+            "Tips": [
+                {
+                    "title": "Technical Context",
+                    "description": "Used in technical contexts to describe mechanical processes.",
+                    "example": "The smooth action of a well-oiled hinge is pleasing.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Describing Performance",
+                    "description": "Describes how well a mechanism performs.",
+                    "example": "Check the action of the brakes before driving.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f3b2f938-ee2c-4a86-b909-1ff83b0ee886",
+            "de": "Exciting events in a story or a movie",
+            "ty": "noun",
+            "ex": "The action in the movie was intense.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "action-packed",
+                " action scene",
+                " action thriller"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f3b2f938-ee2c-4a86-b909-1ff83b0ee886.webp",
+            "Tips": [
+                {
+                    "title": "Genre-Specific",
+                    "description": "Used for movies or books in the action genre, often involves suspense.",
+                    "example": "He enjoys films with a lot of action.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Intensity & Pace",
+                    "description": "Can describe the intensity and fast pace of events in entertainment media.",
+                    "example": "The book's action kept me on edge.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1b784757-ff43-4c1f-812f-31ff7b334965",
+            "de": "A legal process",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "He took legal action against the company.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "legal action",
+                " take action",
+                " civil action"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1b784757-ff43-4c1f-812f-31ff7b334965.webp",
+            "Tips": [
+                {
+                    "title": "Seeking Justice",
+                    "description": "References the initiation of legal proceedings.",
+                    "example": "If unsatisfied, customers may resort to legal action.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Prosecution",
+                    "description": "Associated with the process of prosecuting someone in court.",
+                    "example": "Legal action was pursued for the breach of contract.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Activity": {
+            "wordRoot": "Activity",
+            "wordDefinition": "The difference between action and activity is that action refers to a specific task or behavior that is done intentionally and deliberately, while activity refers to any action or behavior that one does, whether intentional or not.\n\nActivity, on the other hand, would be applicable when talking about any sort of behavior that one performs throughout their day, such as walking, talking, or eating.\n\nAction is a deliberate and intentional behavior, while activity includes all behaviors, both intentional and unintentional.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5b87ead1-e7f8-416d-ac40-ae1941fb1170.webp"
+        },
+        "Behaviour": {
+            "wordRoot": "Behaviour",
+            "wordDefinition": "Action generally refers to something that a person physically does, such as running, jumping, or speaking. 'Behavior' is a broader term that refers to the way a person conducts themselves, including their actions but also including their attitudes, manners, and other non-physical aspects.\n\nSo, for example, if someone is being loud and disruptive in a movie theater, their behavior would be considered inappropriate.\n\nHowever, if they were to throw popcorn at the screen, that would be both a behavior and an action.\n\nThe word action tends to refer more to specific physical activities, while 'behavior' is more about broader patterns of conduct.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a57a71d6-c319-4877-98ae-dac815c25bf2.webp"
+        },
+        "Conduct": {
+            "wordRoot": "Conduct",
+            "wordDefinition": "Action refers to something that a person does, whereas conduct refers to the way in which a person behaves.\n\nFor example, if someone does something, such as running a race, that is considered an action. If someone behaves in a particular way, such as being honest or dishonest, that is considered their conduct.\n\nActions can be physical or mental, deliberate or unintentional, and positive or negative. Conduct refers to a person's overall behavior, including their actions and their attitudes, and can be judged as either good or bad.\n\nHowever, conduct is generally used to refer to a person's behavior in a more formal or professional context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fbbe1d8e-c059-433e-bd43-6fa5653954c7.webp"
+        },
+        "Deed": {
+            "wordRoot": "Deed",
+            "wordDefinition": "Action and Deed are two words used to describe a behavior, an activity, or a task done by a person.\n\nDeed is a more specific word that refers to a particular, usually noteworthy or heroic or infamous, action that is done intentionally to achieve something, such as donating money to a charity, rescuing someone from danger, or committing a crime.\n\nFor example, \"His heroic deeds were widely praised.\"\n\nAction is a general term for everything a person does, and deed refers to a specific, intentional action with consequences that may be either positive or negative.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/67a3ad43-f977-452e-9744-1f2501a8a4a5.webp"
+        },
+        "Exertion": {
+            "wordRoot": "Exertion",
+            "wordDefinition": "Action refers to any kind of movement or activity, while exertion refers to the physical or mental effort put into that action.\n\nFor example, if you were playing soccer, the action would be running and kicking the ball, while the exertion would be the amount of energy you put into those movements.\n\nExertion is typically used to emphasize the effort and energy required for a particular task or activity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/52bff26b-7117-4791-8801-80c919228026.webp"
+        },
+        "Movement": {
+            "wordRoot": "Movement",
+            "wordDefinition": "Movement refers to a physical change in position or location.\n\nIt can also describe a group of people or a culture working towards a shared goal or ideal. Examples include the movement of a dancing body or the movement for gender equality.\n\nAction involves the act of doing something while movement refers to a physical change or cultural shifts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eb2b6861-f647-4aa6-a385-662b3be9bfa3.webp"
+        },
+        "Operation": {
+            "wordRoot": "Operation",
+            "wordDefinition": "Operation refers to a specific set of actions or procedures that are performed to achieve a particular goal or result.\n\nFor example, a surgical operation, or the operation of a machine.\n\nIn simpler terms, action refers to an individual action whereas operation refers to a set of actions performed together to accomplish a specific task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a9d6e3f-7145-4fb6-ac12-8ba80c9d4cf9.webp"
+        },
+        "Performance": {
+            "wordRoot": "Performance",
+            "wordDefinition": "Performance refers to how well someone or something does a specific action or task. It is the measurement of the effectiveness of the action.\n\nFor example, \"The performance of the athlete was impressive during the competition.\"\n\nIn simpler terms, action is what a person or thing does, and performance refers to how well they do it. Action is applicable in describing the behavior or activity being carried out, while performance is applicable in analyzing the effectiveness or efficiency of the action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c7e70a92-f837-4236-88cd-dcda6c596b50.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " At the Passover meal, every item on the menu symbolizes an aspect of the escape from slavery. The importance of growing up is emphasized when young people reach the age of bar and bat mitzvah, ceremonies during which they assume responsibility for their actions and celebrate the weaving of their own lives",
+            "Title": "The five major world...",
+            "VideoId": "m6dCxo7t_aE",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " wisdom listens and we willingly covered our ears to mother nature screams and closed our eyes to all of her help wanted signs wisdom knows that every action has an equal and opposite reaction so if we were wise we would not be shocked we see storms that are stronger than ever before or more",
+            "Title": "His Epic Message Will...",
+            "VideoId": "B-nEYsyRlYo",
+            "Controls": "start=58"
+        },
+        {
+            "Text": " takes practice. Practice is the repetition of an action with the goal of improvement, and it helps us perform with more ease, speed, and confidence. So what does practice do in our brains to make us better at things? Our brains have two kinds of neural grey matter and white matter.",
+            "Title": "How to practice...",
+            "VideoId": "f2O6mQkFiiw",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " to learn what we value, and its motivation system is constructed in such a way that it is motivated to pursue our values or to perform actions that it predicts we would approve of. We would thus leverage its intelligence as much as possible to solve the problem of value-loading.",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=842"
+        },
+        {
+            "Text": " survival of their species depended on crucial instinctual behaviors which we still observe in wild and domestic cats today. While the feline actions of your house cat Grizmo might seem perplexing, in the wild, these same behaviors, naturally bred into cats for millions of years,",
+            "Title": "Why do cats act so...",
+            "VideoId": "sI8NsYIyQ2A",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " to attack a high-value target. If we want these actions to be ethical, we have to decide in advance how to value human life and judge the greater good. So researchers who study autonomous systems are collaborating with philosophers",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=243"
+        },
+        {
+            "Text": " and then empowered by these, act courageously to face a challenge head-on. This is confidence. It turns thoughts into action. So where does confidence even come from? There are several factors that impact confidence.",
+            "Title": "3 tips to boost your...",
+            "VideoId": "l_NYrWqUR40",
+            "Controls": "start=32"
+        },
+        {
+            "Text": " Maybe all the action takes place inside the mysterious recently discovered dark matter, or dark energy, that appear to account for most of the universe's mass. Or, maybe we're looking at the wrong scale.",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=576"
+        },
+        {
+            "Text": " They even perform actions that seem all too human. But while chimps across the world only have a limited repertoire of vocalizations, they constantly invent and share new gestures with each other.",
+            "Title": "How to Speak Chimpanzee...",
+            "VideoId": "NBFBbFcixRY",
+            "Controls": "start=183"
+        },
+        {
+            "Text": " recycled materials I was committed to helping the planet but I came to realize that none of the eco conscious actions I've mentioned even if we all did them would be enough to solve the great",
+            "Title": "An eco-modernist...",
+            "VideoId": "PcAKs7DVkPw",
+            "Controls": "start=30"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "Getting stress out of your life takes more than prayer alone. You must take action to make changes and stop doing whatever is causing the stress. You can learn to calm down in the way you handle things.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-lopez.webp",
+            "Text": "I know that being seen as a role model means taking responsibility for all my actions. I am human, and of course, sometimes I make mistakes. But I promise that when I fall, I get back up.",
+            "Title": "American Musician",
+            "Name": "Jennifer Lopez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tony-robbins.webp",
+            "Text": "You see, in life, lots of people know what to do, but few people actually do what they know. Knowing is not enough! You must take action.",
+            "Title": "American Speaker",
+            "Name": "Tony Robbins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johann-wolfgang-von-goethe.webp",
+            "Text": "Thinking is easy, acting is difficult, and to put one's thoughts into action is the most difficult thing in the world.",
+            "Title": "German Writer",
+            "Name": "Johann Wolfgang von Goethe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-spurgeon.webp",
+            "Text": "All our actions, as well as our thoughts and words, should praise Him who always blesses us.",
+            "Title": "British Clergyman",
+            "Name": "Charles Spurgeon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jackie-chan.webp",
+            "Text": "I'm tired of fighting. I've always known that I can't be an action star all my life.",
+            "Title": "Chinese Actor",
+            "Name": "Jackie Chan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rainer-maria-rilke.webp",
+            "Text": "One had to take some action against fear when once it laid hold of one.",
+            "Title": "German Poet",
+            "Name": "Rainer Maria Rilke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francis-bacon.webp",
+            "Text": "The great end of life is not knowledge but action.",
+            "Title": "English Philosopher",
+            "Name": "Francis Bacon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/benjamin-disraeli.webp",
+            "Text": "Justice is truth in action.",
+            "Title": "British Statesman",
+            "Name": "Benjamin Disraeli"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/f-scott-fitzgerald.webp",
+            "Text": "Action is character.",
+            "Title": "American Author",
+            "Name": "F. Scott Fitzgerald"
+        }
+    ]
+}

@@ -1,0 +1,294 @@
+{
+    "currentWord": {
+        "wordRoot": "policy",
+        "id": 16564,
+        "phonemic": "ˈpɒləsi|ˈpɑːləsi\r",
+        "bigId": "2604e368-d0b6-4bf9-8e4e-0a44675e3b51",
+        "wordForms": [
+            "policies",
+            "policy"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2604e368-d0b6-4bf9-8e4e-0a44675e3b51",
+            "de": "A set of plans or actions agreed on by a government, political party, business, or other group",
+            "ty": "noun",
+            "ex": "The government is planning a change in its foreign policy.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "foreign policy",
+                " economic policy",
+                " government policy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2604e368-d0b6-4bf9-8e4e-0a44675e3b51.webp",
+            "Tips": [
+                {
+                    "title": "Political Context",
+                    "description": "Used when discussing actions taken by governments or parties, often debated in news.",
+                    "example": "The new climate policy aims to reduce emissions.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kRYYYeEXr2azu3CnpMBNG9DE.webp"
+                },
+                {
+                    "title": "Organizational Decisions",
+                    "description": "Reflects collective decisions in business or groups, which impact many people.",
+                    "example": "The HR policy includes diversity hiring practices.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/LZlHwhNc9cJdCgAJoFGp6gc7pjw.webp"
+                },
+                {
+                    "title": "Public Expectations",
+                    "description": "Policies can be promises that influence public opinion or expectations.",
+                    "example": "Voters were swayed by the party's education policy.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EARDCl8iVxuVC86H8hfW0UyerU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5dd18c2b-92eb-48e4-a253-f201cc18de39",
+            "de": "A document showing an agreement you have with an insurance company",
+            "do": "Insurance",
+            "ty": "noun",
+            "ex": "I've lost my insurance policy - what should I do?",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "insurance policy",
+                " policy holder",
+                " policy number"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5dd18c2b-92eb-48e4-a253-f201cc18de39.webp",
+            "Tips": [
+                {
+                    "title": "Binding Document",
+                    "description": "An insurance policy is a legal document that binds both the insurer and the insured.",
+                    "example": "She filed a claim under her health insurance policy.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Detailed Terms",
+                    "description": "Policies detail the terms, including coverage, premiums, and claims process.",
+                    "example": "Read your policy carefully to understand the coverage.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Financial Protection",
+                    "description": "The main purpose of an insurance policy is to offer financial protection against risks.",
+                    "example": "Her flood policy covered all the damages.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9ace36ee-e193-492a-8f3e-36bfe93be620",
+            "de": "A principle or rule that guides decisions or actions",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "Our company has a strict policy against disclosing customer information.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "company policy",
+                " privacy policy",
+                " refund policy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9ace36ee-e193-492a-8f3e-36bfe93be620.webp",
+            "Tips": [
+                {
+                    "title": "Guiding Decisions",
+                    "description": "Policies in a company shape decisions and set expectations for behavior.",
+                    "example": "The dress code is part of our company policy.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mandatory Compliance",
+                    "description": "Employees are often required to comply with company policies to avoid penalties.",
+                    "example": "Violating the privacy policy may lead to dismissal.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conflict Resolution",
+                    "description": "Policies can help resolve conflicts by providing a clear framework for action.",
+                    "example": "Refer to the refund policy to handle customer complaints.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Approach": {
+            "wordRoot": "Approach",
+            "wordDefinition": "Approach refers to the way you go about solving a problem or achieving a goal. It's more like a strategy or method of doing something.\n\nFor example, a doctor has different approaches to treating different diseases.\n\nSo, in short, approach is more about the method, while policy is more about the rules and guidelines. Approach is applicable in situations where there are multiple ways to achieve a goal, while policy is applicable in situations where specific rules and guidelines need to be followed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8c0eee9-ccef-4d22-b622-bb77972ccf69.webp"
+        },
+        "Doctrine": {
+            "wordRoot": "Doctrine",
+            "wordDefinition": "Doctrine refers to a set of beliefs or principles that guide behavior or decision-making, usually within a religious or political context.\n\nDoctrine is more applicable in contexts such as religion or politics, where it guides general beliefs and actions. Policies are more applicable in business or government, where they regulate specific actions and behaviors.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d40f1586-0e53-4a04-932a-968cbfbcfbcc.webp"
+        },
+        "Guideline": {
+            "wordRoot": "Guideline",
+            "wordDefinition": "Guidelines are recommendations or suggestions on how to behave or complete a task. They offer a general direction without necessarily enforcing rules or consequences.\n\nGuidelines are typically used in situations where flexibility and adaptability are necessary, such as creative projects, personal behavior, or problem-solving.\n\nTo summarize, guidelines are flexible suggestions, while policies are rigid rules. Guidelines are applied to situations requiring flexibility, while policies are applied to situations requiring consistency and safety.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/33098e9d-2c2c-4bed-af98-3d1b3cddae34.webp"
+        },
+        "Plan": {
+            "wordRoot": "Plan",
+            "wordDefinition": "A plan is a specific strategy or set of actions that someone intends to carry out in order to accomplish a goal. For example, a student might make a plan to study for an exam by organizing their time, reviewing notes, and completing practice problems.\n\nPlans are more focused on specific goals, while policies are more broad in scope and apply to larger organizations or institutions.\n\nPlans are typically made by individuals or small groups, while policies are usually determined by higher-ups in an organization (like managers or administrators).\n\nOverall, plans are about figuring out how to achieve specific goals, while policies are about creating a framework for decision-making and behavior across a larger group or organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9400d7b7-c746-474a-9b35-7ea1c6436540.webp"
+        },
+        "Principle": {
+            "wordRoot": "Principle",
+            "wordDefinition": "On the other hand, principles refer to fundamental beliefs, values or moral standards that guide a person or organization's behavior and decision-making.\n\nFor example, the principle of equality states that everyone should be treated fairly and equally regardless of their race, gender, religion or social status.\n\nSo, policies are specific, tangible and practical guidelines that help achieve a specific goal, while principles are more abstract, philosophical and values-based beliefs that guide behavior and decision-making.\n\nPolicies are more applicable in specific situations where rules and guidelines are necessary, while principles are more widely applicable and help shape an organization's culture, morals and ethics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8d5687a9-a042-4d66-a802-8d81b799316e.webp"
+        },
+        "Protocol": {
+            "wordRoot": "Protocol",
+            "wordDefinition": "A protocol is a set of specific steps or procedures that are followed to accomplish a particular task. It is a more detailed set of instructions for accomplishing a specific goal or objective.\n\nProtocols are often used in scientific research, medical procedures, or computer networking, where the steps to be taken are highly precise and specific.\n\nIn summary, policies are broader guidelines for decision-making, while protocols are specific steps for achieving a particular goal or objective.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ebc31f1-de63-47cd-87ce-6d7a1b7ba1e4.webp"
+        },
+        "Rule": {
+            "wordRoot": "Rule",
+            "wordDefinition": "Policy and rule are both terms used in the context of outlining guidelines for behavior and decision-making.\n\nIt guides decision-making and provides a framework for action. Policies are generally less specific and more flexible than rules, allowing for interpretation and discretion.\n\nA rule is a specific directive or requirement that must be followed. Rules are more precise and have more immediate consequences for non-compliance.\n\nThey are designed to ensure consistency and standardization in behavior or performance. Examples of rules include traffic rules, school rules, or workplace safety rules.\n\nIn summary, policies provide a general direction for decision-making and action, while rules provide specific requirements for behavior and performance.\n\nPolicies are more flexible but less enforceable than rules. Both policies and rules have their place in different settings and serve different purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9fc6a0d9-602f-4710-ae59-7d417bb30595.webp"
+        },
+        "Strategy": {
+            "wordRoot": "Strategy",
+            "wordDefinition": "Strategy is a plan of action designed to achieve a long-term aim. It is the overall plan that will guide and direct an organization towards its objectives.\n\nStrategies are usually developed to gain competitive advantage over others in the market.\n\nIn simple terms, while policies are rules created to achieve specific goals, strategies are plans for achieving long-term objectives.\n\nPolicies are mostly applicable in the government or various organizations, while strategies are often used in the business world.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3d77d040-d0b5-4d95-98db-6f0658ec2c99.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " The head says there's a way forward. The head says there is a policy framework, there's a common narrative, there's a mechanism through regular summitry to do these things and to make them better. But the heart must also find a way to reimagine the possibilities of the America-China relationship, and the possibilities of China's future engagement in the world.",
+            "Title": "Are China and the US...",
+            "VideoId": "8XQ1onjXJK0",
+            "Controls": "start=1046"
+        },
+        {
+            "Text": " Population statistics are some of the most important data social scientists and policy experts have to work with. But understanding a country's situation and making accurate predictions requires knowing not just the total size of the population but its internal characteristics,",
+            "Title": "Population pyramids:...",
+            "VideoId": "RLmKfXwWQtE",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " finite and the United States policies these days are become shorter and shorter term which creates turmoil and chaos in strategy in how we present ourselves to the world the easiest way to understand the game you're in is when you have an opposing force in other",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=353"
+        },
+        {
+            "Text": " mostly monitor and investigate violations, but they cannot force states to, say, change a policy or compensate a victim. That's why some critics say it's naive to consider human rights a given in a world where state interests wield so much power.",
+            "Title": "What are the universal...",
+            "VideoId": "nDgIVseTkuE",
+            "Controls": "start=178"
+        },
+        {
+            "Text": " and when they do, their outcomes may be determined months or years in advance by programmers or policy makers. And they'll have some difficult decisions to make. It's tempting to offer up general decision-making principles, like minimize harm,",
+            "Title": "The ethical dilemma of...",
+            "VideoId": "ixIoDYVfKA0",
+            "Controls": "start=101"
+        },
+        {
+            "Text": " in order to expand or contract their power. Others determine the extent to which legislation should be enforced. And sometimes, a president may use an executive order to clarify and help implement a policy that needs to be easily defined.",
+            "Title": "How do executive orders...",
+            "VideoId": "oyOf3g-PJ94",
+            "Controls": "start=121"
+        },
+        {
+            "Text": " governor talk about how they're working both locally and globally to protect their snow leopards is so reassuring and it's clearly working but policies alone don't save species i need to see what this means on the ground",
+            "Title": "Snow Leopards: Ghosts in...",
+            "VideoId": "ZE7dEshcnNo",
+            "Controls": "start=540"
+        },
+        {
+            "Text": " that I've become aware that this is an area that is being both culturally and ecologically devastated by both the consumption here in the US of cocaine, but also what I would argue are the US' deeply flawed policies",
+            "Title": "Kendra McSweeney: Drugs,...",
+            "VideoId": "Jx6wWbja9cE",
+            "Controls": "start=118"
+        },
+        {
+            "Text": " might explain why some policies that don't seem valid to you appeal to others. This will allow you to explore alternatives, evaluate your own choices, and ultimately help you make more informed decisions.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " We suppress it. You know, this is our policy. No doubt, something fascinating was happening then, which the Americans among us will be aware of. But he said",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=353"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-kennedy.webp",
+            "Text": "I like policy. It's why I decided to enter government. The other thing I like about government - you have good days, you have bad days, but you never have a boring day, and that's important to me.",
+            "Title": "American Lawyer",
+            "Name": "John Kennedy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "In Britain, like most of the developed world, stem-cell research is regarded as a great opportunity. America will be left behind if it doesn't change policy.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frankie-boyle.webp",
+            "Text": "To support policies that dehumanise others is to dehumanise yourself.",
+            "Title": "Scottish Comedian",
+            "Name": "Frankie Boyle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-hyman.webp",
+            "Text": "We need community action and policies to support healthy communities.",
+            "Title": "American Author",
+            "Name": "Mark Hyman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hanoi-hannah.webp",
+            "Text": "There's a policy now of opening the doors to the outside world.",
+            "Title": "Vietnamese Celebrity",
+            "Name": "Hanoi Hannah"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kamala-harris.webp",
+            "Text": "I support Medicare for all. It is my preferred policy.",
+            "Title": "American Vice President",
+            "Name": "Kamala Harris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/willie-aames.webp",
+            "Text": "My wife bought an extra life insurance policy on me.",
+            "Title": "American Actor",
+            "Name": "Willie Aames"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-capuano.webp",
+            "Text": "For me foreign policy is critically important.",
+            "Title": "American Politician",
+            "Name": "Michael Capuano"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/raveena-tandon.webp",
+            "Text": "My policy in life is to live and let live.",
+            "Title": "Indian Actress",
+            "Name": "Raveena Tandon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-scott.webp",
+            "Text": "Foreign policy is important.",
+            "Title": "American Politician",
+            "Name": "Rick Scott"
+        }
+    ]
+}

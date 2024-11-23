@@ -1,0 +1,284 @@
+{
+    "currentWord": {
+        "wordRoot": "circumstance",
+        "id": 12106,
+        "phonemic": "ˈsɜːkəmstæns|ˈsɜːrkəmstæns\r",
+        "bigId": "719be5ae-2d7f-467e-9524-9c6fc2cca20f",
+        "wordForms": [
+            "circumstances",
+            "circumstance"
+        ]
+    },
+    "senses": [
+        {
+            "id": "719be5ae-2d7f-467e-9524-9c6fc2cca20f",
+            "de": "A fact or condition connected to an event or action.",
+            "ty": "noun",
+            "ex": "We will discuss your case in more detail once we get to know the circumstances.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "under certain circumstances",
+                " due to circumstances",
+                " in any circumstances"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/719be5ae-2d7f-467e-9524-9c6fc2cca20f.webp",
+            "Tips": [
+                {
+                    "title": "Event Connection",
+                    "description": "Refers to the influencing factors or conditions related to an event, not just any detail.",
+                    "example": "The judges considered the circumstances leading to the athlete's disqualification.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DekhJ8C5DbnHzrnwfLVYdkIIcXI.webp"
+                },
+                {
+                    "title": "Context Specific",
+                    "description": "Used to describe details that impact understanding or outcomes of situations.",
+                    "example": "Given the circumstances of the case, the verdict was fair.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9G51qDaYzpFcvOXJdp5DFGEPd0.webp"
+                },
+                {
+                    "title": "Variable Influence",
+                    "description": "Indicates that situations can change depending on various circumstances.",
+                    "example": "She might join the trip, depending on her work circumstances.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/FtQPOzpZXkiZglygUdbPR4AdA.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8ec191a7-5cea-4412-b43b-69110587599f",
+            "de": "The conditions of one's life especially in terms of money.",
+            "ty": "noun",
+            "ex": "His family was not well-off; they lived in difficult circumstances.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "economic circumstances",
+                " financial circumstances",
+                " improve one's circumstances"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8ec191a7-5cea-4412-b43b-69110587599f.webp",
+            "Tips": [
+                {
+                    "title": "Financial Context",
+                    "description": "Highlights one's financial condition or socioeconomic status.",
+                    "example": "His circumstances improved after he got the new job.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Life Changes",
+                    "description": "Used when speaking about transitions in life that impact financial stability.",
+                    "example": "Moving to a new city can greatly affect your financial circumstances.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7814a33c-e34e-4ae2-945b-c199469b5b55",
+            "de": "An event or situation that is necessary for something else to happen",
+            "ty": "noun",
+            "ex": "The report's release is expected today, barring any unforeseen circumstances.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "unforeseen circumstances",
+                " extenuating circumstances",
+                " special circumstances"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7814a33c-e34e-4ae2-945b-c199469b5b55.webp",
+            "Tips": [
+                {
+                    "title": "Conditional Scenario",
+                    "description": "Describes a scenario with specific requirements for something else to occur.",
+                    "example": "Only under the circumstance of a unanimous vote will the policy change.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Necessary Conditions",
+                    "description": "Highlights the required situation for a potential event or action to take place.",
+                    "example": "Certain circumstances must be met for the contract to be valid.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Condition": {
+            "wordRoot": "Condition",
+            "wordDefinition": "Circumstance refers to a fact or event that surrounds a situation, while the word condition refers to a state that something or someone is in.\n\nCircumstance is often used to describe external factors that affect a situation, while condition is more likely to be used to describe an internal characteristic.\n\nFor example, a circumstance may be the weather conditions, the time of day, or the location of an event.\n\nA condition may refer to someone's health, a machine's functionality, or the characteristics of a specific material.\n\nHowever, circumstance is often used when discussing events or situations that are outside of our control, while condition is generally used in situations where the subject is something that can be changed or improved.\n\nCircumstance describes external facts or events affecting a situation, while condition refers to the state of something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/394e1d28-972a-4291-a254-307cdb54d02f.webp"
+        },
+        "Context": {
+            "wordRoot": "Context",
+            "wordDefinition": "Context refers to the background or larger situation in which an event occurs. It sets the scene for what's happening at the moment.\n\nFor example, if someone is making a joke about a serious topic during a comedy show, the context is the comedic environment.\n\nContext is more controllable and dependent on the people and setting around it.\n\nIn summary, circumstances are the specific events that occur, while context is the broader setting in which they occur.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cefd90df-72a7-4c7f-b8ae-934da30c8892.webp"
+        },
+        "Contingency": {
+            "wordRoot": "Contingency",
+            "wordDefinition": "Contingency refers to a possible future event that may or may not happen.\n\nIt describes a situation where you have to plan for different scenarios because you don't know what will happen. For instance, a company might create a contingency plan in case of an economic downturn or a natural disaster.\n\nCircumstance describes a situation that has already happened, while contingency describes a situation that may happen in the future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3127a0f6-38fc-438b-9f99-6519419c8936.webp"
+        },
+        "Eventuality": {
+            "wordRoot": "Eventuality",
+            "wordDefinition": "Circumstance and eventuality are similar in that they both refer to a situation or condition that may arise. The main difference is that circumstance refers to a particular situation that exists at the present moment, while eventuality refers to a potential situation that may or may not occur in the future.\n\nHowever, if you prepare for the possibility of losing your job and set up an emergency fund, you are anticipating an eventuality that may or may not happen.\n\nCircumstance is more commonly used to describe a current situation, while eventuality is used to talk about potential future situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dbf706ea-14e3-4fb5-b38f-0d1493a00641.webp"
+        },
+        "Factor": {
+            "wordRoot": "Factor",
+            "wordDefinition": "Factor refers to something that contributes to a result or outcome, and could be either positive or negative. For instance, hard work, determination and good health are all factors that can lead to success.\n\nIn short, circumstances are usually external events that happen to a person, while factors are more internal characteristics or attributes that individuals possess.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d03ff319-f9d6-4bd4-8958-a7f7dd751229.webp"
+        },
+        "Happen": {
+            "wordRoot": "Happen",
+            "wordDefinition": "Circumstance refers to the situation or conditions that surround a particular event, whereas happen simply means the occurrence or taking place of an event.\n\nIf someone says \"I heard a loud bang, something must have happened\", they are referring to an event that has taken place.\n\nCircumstance is applicable when referring to the specific details and conditions of an event, while happen is applicable when simply describing the occurrence of an event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ca0cdabe-3755-4588-8ccf-4a33e2856d6e.webp"
+        },
+        "Occurrence": {
+            "wordRoot": "Occurrence",
+            "wordDefinition": "Occurrences are specific events that happen during these circumstances. For example, during the meeting, an occurrence might be the discussion of a particular topic or the decision to take a certain course of action.\n\nSo, circumstances refer to the general situation and conditions surrounding an event, while occurrences are specific events that happen within those circumstances.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6951794f-a334-4aff-a710-b7cf693b0b3e.webp"
+        },
+        "Situation": {
+            "wordRoot": "Situation",
+            "wordDefinition": "The words circumstance and situation are often used interchangeably to describe a set of conditions or events that affect a person's life or a particular event.\n\nA situation is a set of circumstances or conditions that arise from a particular event, action, or decision.\n\nA situation often involves a specific place, time, or activity and can be influenced by a person's actions.\n\nFor example, if a person gets lost in the woods, the situation would be the fact that they are lost and need to find their way back to civilization.\n\nCircumstance describes broader external factors that shape a person's life, while situation refers to a specific event or condition that a person finds themselves in.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e622f392-e45e-44e7-84af-db1f2f0036be.webp"
+        },
+        "State": {
+            "wordRoot": "State",
+            "wordDefinition": "State, on the other hand, refers to a broader condition or status, often reflecting an internal aspect or characteristic.\n\nFor example, \"she was in a state of anxiety before her exam.\"\n\nCircumstance refers to a specific external situation, while state refers to a general internal condition.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc3d020f-22f6-44e7-a701-0cec0aaa5e11.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " But under normal circumstances, your decision to urinate stops the brain's signal to the external urethral sphincter, causing it to relax and the bladder to empty. The external urethral sphincter is one of the muscles of the pelvic floor, and it provides support to the urethra and bladder neck. It's lucky we have these pelvic floor muscles",
+            "Title": "Is it bad to hold your...",
+            "VideoId": "Ze4Qmpq48AQ",
+            "Controls": "start=162"
+        },
+        {
+            "Text": " they're often buried deep. You have to go looking for them, they're not just lying around on the surface. You have to create the circumstances where they show themselves. And you might imagine education would be the way that happens, but too often, it's not. Every education system in the world is being reformed at the moment",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=257"
+        },
+        {
+            "Text": " in this circumstance anyway it was the females doing all the hard work when you see the footage you can see everything because it's filmed with the infrared cameras but actually for us it's pitch black you're sat in a vehicle you may have been having your sleep or rest time or you're",
+            "Title": "Filming Lions Hunting...",
+            "VideoId": "OK5zPFzRD64",
+            "Controls": "start=365"
+        },
+        {
+            "Text": " The most feasible and accurate way to assess core body temperature is with a rectal thermometer as other common temperature-taking methods are not accurate in these circumstances. As far as treatment goes, the most important thing to remember is cool first, transport second.",
+            "Title": "What happens when you...",
+            "VideoId": "PpHM4DfPZQU",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " how we respond to even extremely difficult circumstances. There's also a long tradition of attempting to discern the value of sadness, and in that discussion, you'll find a strong argument that sadness is not only an inevitable part of life but an essential one.",
+            "Title": "A brief history of...",
+            "VideoId": "8li-3pRrA5Y",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " speak in those circumstances so they said hundreds of hours hundreds of thousands of dollars trying to establish this girl's identity trying to figure out who she was where she was from so that they could help her so that they could reunite her with her family",
+            "Title": "Storytelling can be...",
+            "VideoId": "JAxgqRFq1-A",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " blood-pressure and breathing monitors, voice-stress analyzers, eye trackers, infrared brain scanners, and even the 400-pound electroencephalogram. But although such tools have worked under certain circumstances, most can be fooled with enough preparation,",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=30"
+        },
+        {
+            "Text": " or leaving drought-stricken areas in search of better circumstances. There are many people around the world who have been displaced because of natural disasters, food insecurities, and other hardships, but international law, rightly or wrongly,",
+            "Title": "What does it mean to be...",
+            "VideoId": "25bwiSikRsI",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " and some playful wrestling I even get an occasional grizzly kiss all things that you would never think about doing under ordinary circumstances in fact the trust and respect that allows us to be this",
+            "Title": "800-pound Best Friend PIPE...",
+            "VideoId": "HGcM_yLH3D4",
+            "Controls": "start=178"
+        },
+        {
+            "Text": " justice, treating others with fairness even when they have done wrong; and courage, not just in extraordinary circumstances, but facing daily challenges with clarity and integrity.",
+            "Title": "The philosophy of...",
+            "VideoId": "R9OCA6UFE-0",
+            "Controls": "start=132"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-r-swindoll.webp",
+            "Text": "Attitude is more important than the past, than education, than money, than circumstances, than what people do or say. It is more important than appearance, giftedness, or skill.",
+            "Title": "American Clergyman",
+            "Name": "Charles R. Swindoll"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viola-davis.webp",
+            "Text": "Well, first of all, you read the script a million times. Because what the script gives you are given circumstances. Given circumstances are all the facts of your character.",
+            "Title": "American Actress",
+            "Name": "Viola Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-rohn.webp",
+            "Text": "You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of.",
+            "Title": "American Businessman",
+            "Name": "Jim Rohn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jordan-peterson.webp",
+            "Text": "If you're talking to a man who wouldn't fight with you under any circumstances whatsoever, then you're talking to someone for whom you have absolutely no respect.",
+            "Title": "Canadian Psychologist",
+            "Name": "Jordan Peterson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ralph-waldo-emerson.webp",
+            "Text": "It is a fact often observed, that men have written good verses under the inspiration of passion, who cannot write well under other circumstances.",
+            "Title": "American Philosopher",
+            "Name": "Ralph Waldo Emerson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-bernard-shaw.webp",
+            "Text": "The people who get on in this world are the people who get up and look for the circumstances they want and if they can't find them, make them.",
+            "Title": "Irish Playwright",
+            "Name": "George Bernard Shaw"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "Real life is the life that's in you, not your circumstances, like where you live or what job you have or who you're in relationship with.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bertrand-russell.webp",
+            "Text": "If all our happiness is bound up entirely in our personal circumstances it is difficult not to demand of life more than it has to give.",
+            "Title": "British Philosopher",
+            "Name": "Bertrand Russell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aristotle.webp",
+            "Text": "The ideal man bears the accidents of life with dignity and grace, making the best of circumstances.",
+            "Title": "Greek Philosopher",
+            "Name": "Aristotle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/booker-t-washington.webp",
+            "Text": "Character, not circumstances, makes the man.",
+            "Title": "American Educator",
+            "Name": "Booker T. Washington"
+        }
+    ]
+}

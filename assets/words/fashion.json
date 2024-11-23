@@ -1,0 +1,352 @@
+{
+    "currentWord": {
+        "wordRoot": "fashion",
+        "id": 12335,
+        "phonemic": "ˈfæʃn|ˈfæʃn\r",
+        "bigId": "1119f48e-a9ec-4dff-8f4b-d5bbaf836f56",
+        "wordForms": [
+            "fashions",
+            "fashioning",
+            "fashioned",
+            "oldfashioned",
+            "fashionably",
+            "fashion"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1119f48e-a9ec-4dff-8f4b-d5bbaf836f56",
+            "de": "A popular or latest style of clothing, hair, decoration, or behavior",
+            "ty": "noun",
+            "ex": "The latest fashion in dresses.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "follow the fashion",
+                " fall out of fashion",
+                " fashion show"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1119f48e-a9ec-4dff-8f4b-d5bbaf836f56.webp",
+            "Tips": [
+                {
+                    "title": "Fashion Evolution",
+                    "description": "Fashion often changes rapidly, so what's in could soon be out.",
+                    "example": "Flared jeans were once the height of fashion.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/FYyDAyijjofjYPW6ayvhL2oha8.webp"
+                },
+                {
+                    "title": "Cultural Indicator",
+                    "description": "Fashion can reflect cultural shifts, symbolizing societal changes.",
+                    "example": "The miniskirt became fashion in the 1960s' social revolution.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NjsRLiLutcw80UGP8l0LjYR0MI.webp"
+                },
+                {
+                    "title": "Personal Expression",
+                    "description": "Fashion can be a form of self-expression, not just following trends.",
+                    "example": "He uses fashion to show his unique personality.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/pm5tyTv2O2i1XocdivT2Y0kgU.webp"
+                }
+            ]
+        },
+        {
+            "id": "c74b4cd4-a5fd-4088-b4cb-cad393460488",
+            "de": "A manner of doing something",
+            "ty": "noun",
+            "ex": "After the fashion of his class.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "in a strange fashion",
+                " in the same fashion",
+                " in this fashion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c74b4cd4-a5fd-4088-b4cb-cad393460488.webp",
+            "Tips": [
+                {
+                    "title": "Figurative Use",
+                    "description": "'Fashion' can describe a way of doing things, not just style.",
+                    "example": "They settled the dispute in a peaceful fashion.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Variety of Applications",
+                    "description": "'Fashion' can refer to behavior, methods, or any other regular manner of acting.",
+                    "example": "He recounts his adventures in a grand fashion.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Imitation Involved",
+                    "description": "Acting 'in the fashion of' often implies imitation or following an example.",
+                    "example": "The novices sought to conduct their duties in the fashion of the masters.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "85f28603-8724-473d-a861-17a540df45ac",
+            "de": "Make into a particular form",
+            "ty": "verb",
+            "ex": "He fashioned a bow out of a twig.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fashion something from",
+                " fashion something into",
+                " fashion out of"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/85f28603-8724-473d-a861-17a540df45ac.webp",
+            "Tips": [
+                {
+                    "title": "Creativity Implied",
+                    "description": "Using 'fashion' as a verb implies crafting with creativity or artistry.",
+                    "example": "She fashioned a unique costume from vintage clothes.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Transformative Connotation",
+                    "description": "'Fashion into' signals turning something ordinary into something special.",
+                    "example": "From simple ingredients, he fashioned an extraordinary meal.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ce0a515b-c4c2-495a-8357-720ec53dc129",
+            "de": "Clothes, especially good or stylish clothes",
+            "do": "Textile",
+            "ty": "noun",
+            "ex": "He always buys his clothes at a fashionable men's store.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "high-end fashion",
+                " street fashion",
+                " men's/women's fashion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ce0a515b-c4c2-495a-8357-720ec53dc129.webp",
+            "Tips": [
+                {
+                    "title": "Beyond Clothing",
+                    "description": "'Fashion' implies more than clothes, it can denote lifestyle and class.",
+                    "example": "Designer labels can signal a high-fashion lifestyle.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Street Fashion",
+                    "description": "Street fashion is influenced by youth culture and is not always designer-made.",
+                    "example": "His street fashion sense always turns heads.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fe840744-48dd-4391-8270-589ef253411c",
+            "de": "A way of behaving or way of doing things",
+            "ty": "noun",
+            "ex": "The company was run in an orderly fashion.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "orderly fashion",
+                " timely fashion",
+                " efficient fashion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fe840744-48dd-4391-8270-589ef253411c.webp",
+            "Tips": [
+                {
+                    "title": "Generalized Method",
+                    "description": "'Fashion' suggests a particular way or method that may not be formalized.",
+                    "example": "The meetings are held in an informal fashion.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Order of Actions",
+                    "description": "'Fashion' can hint at the sequence or manner activities are carried out.",
+                    "example": "The project was completed in a systematic fashion.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Convention": {
+            "wordRoot": "Convention",
+            "wordDefinition": "Convention refers to a standard or a traditional practice that is widely accepted by a particular group of people or society.\n\nConvention is a standard that is followed for a long time, while fashion is a trend that people follow only for a short period.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0a5e0f9d-c8c8-4218-81fb-b2171600d1bd.webp"
+        },
+        "Form": {
+            "wordRoot": "Form",
+            "wordDefinition": "Form refers to the way something is arranged or structured.\n\nFashion is applicable when referring to the latest trends in clothing and personal appearance while form is applicable in many other areas such as the shape of an object, the structure of a sentence, or the arrangement of a painting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/773d1904-d590-4d92-b6e6-daf6279fd9f8.webp"
+        },
+        "Manner": {
+            "wordRoot": "Manner",
+            "wordDefinition": "Fashion refers to a popular trend in clothing or style, while manner refers to the way something is done or the behavior exhibited.\n\nFor example, \"The latest fashion trend is to wear oversized sweatshirts\" refers to a popular clothing style, while \"She spoke in a quiet and polite manner\" refers to someone's behavior or way of speaking.\n\nFashion is applicable primarily in the context of clothing, accessories and style, while manner can be used in a variety of contexts such as speech, behavior, and conduct.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/599d1644-e303-467d-9f20-829f3bd44eeb.webp"
+        },
+        "Mode": {
+            "wordRoot": "Mode",
+            "wordDefinition": "Mode refers to a general pattern or way of doing things that is commonly accepted or used.\n\nFashion is specifically related to clothing and accessories, and it changes quickly according to trends and influences, while mode is a more general term that can refer to many aspects of life, including but not limited to style and trends.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20c8460c-2c6d-4ba9-a958-155afafa3418.webp"
+        },
+        "Style": {
+            "wordRoot": "Style",
+            "wordDefinition": "Fashion refers to the latest trends and styles in clothing, accessories, and beauty products, which can change frequently.\n\nStyle refers to an individual's personal expression through clothing, accessories, and grooming. It is more timeless and less focused on trends, and involves understanding one's own preferences, body type, and personality.\n\nStyle can be both fashionable and classic, and is often about finding what looks and feels good for an individual.\n\nFashion is about keeping up with what's currently popular, while style is about developing a unique personal expression.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be3fb9ca-91a0-4015-ad43-727145c97a2c.webp"
+        },
+        "Trend": {
+            "wordRoot": "Trend",
+            "wordDefinition": "Fashion refers to a general style or design that lasts for a long time, while a trend refers to a popular style that is temporary and changes frequently.\n\nA trend is applicable to clothes, makeup, hairstyles, and other appearances, and it usually fades out after a short period of time.\n\nIn simpler terms, fashion is timeless and classic, while trends are fun and fleeting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c14aab72-0a55-4bce-bd90-036354a39026.webp"
+        },
+        "Vogue": {
+            "wordRoot": "Vogue",
+            "wordDefinition": "Fashion refers to a popular trend or style of clothing, accessories and other items of personal adornment. Vogue is a term used to describe the latest trends and styles that are considered popular in a particular time period.\n\nWhile fashion can be timeless and classic, vogue is always changing and refers to what is currently trendy. Both terms can be used in the context of clothing as well as other areas of design such as home decor or graphic design.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ee03bc51-1869-4d19-bf41-94b04d554cc5.webp"
+        },
+        "Way": {
+            "wordRoot": "Way",
+            "wordDefinition": "Way refers to a method or manner in which something is done or achieved.\n\nIt's a broader term and can be used for different things like a way of living, way of speaking, way of solving a problem, and so on.\n\nFashion is more specific and related to trends in clothing and style, while way is a more general term that can be applicable to various areas of life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b6e98d3-1517-4e51-ba91-7ddfa14fa84d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " you wouldn't accelerate in a linear fashion. Instead, you would instantaneously jump, or transition, from one speed to the next. For an atom, when a transition occurs from one energy level to another, quantum mechanics says that the energy difference is equal to a characteristic frequency,",
+            "Title": "How does your smartphone...",
+            "VideoId": "70cDSUI4XKE",
+            "Controls": "start=152"
+        },
+        {
+            "Text": " You can't be a feminist who's also interested in fashion. You can't care about clothes if it's not for the sake of what other people, usually men, will think of you. So I was trying to figure all that out, and I felt a little confused, and I said so on my blog,",
+            "Title": "Tavi Gevinson: A teen...",
+            "VideoId": "E22icGCvGXk",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " of time in fittings however I'm a bit of a missed it in the fashion industry because while at boss tyrunt a commercial business I also embody the art world make films installations and I show them in galleries and museums interestingly this",
+            "Title": "My life as an outsider PIPE...",
+            "VideoId": "-gMZeql_3Uw",
+            "Controls": "start=66"
+        },
+        {
+            "Text": " are actually hardwired to behave in a certain fashion. Research has implicated three regions of the brain variously involved in social behavior and complex cognitive planning, voluntary movement, and emotional and motivational responses.",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=184"
+        },
+        {
+            "Text": " driven by large corporations and the trend of fast fashion has cost the environment, the health of farmers, and driven questionable human labor practices. It's also turned fashion into the second largest polluter in the world after oil.",
+            "Title": "The life cycle of a...",
+            "VideoId": "BiSYoeqb_VY",
+            "Controls": "start=261"
+        },
+        {
+            "Text": " seal bone and it's really fairly unpleasant the first time we did it my knee blistered and skinned and was just really very painful our delightful camera assistant rowan fashioned me some very good knee pads which have been a godsend",
+            "Title": "Filming A Battle Of Life...",
+            "VideoId": "NSyUJ1194qY",
+            "Controls": "start=98"
+        },
+        {
+            "Text": " It's not just the fashion thing. So all this is happening, because of all the different things that are happening in the world. To wear clothes that are extreme and very fashiony doesn't feel right now, because it's not",
+            "Title": "A Strange Time For...",
+            "VideoId": "v-W8wYlwj7w",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " and share expertise to support the developing world as they fashion new, public systems of justice, not private security, that give everybody a chance to be safe. These transformations are actually possible",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=1023"
+        },
+        {
+            "Text": " and kill just about anything, whether it's a predator or otherwise. If it doesn't represent a meal, they just leave it. If it does, of course they eat it, but in that way, in a pretty violent fashion",
+            "Title": "Eternal Adversaries:...",
+            "VideoId": "pta_sLKi6nM",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " otherwise if it doesn't represent a meal they just leave it if it does of course they eat it but in that way in a pretty violent fashion they absolutely are top of the tree when it comes to the",
+            "Title": "Hair-Raising Hyena...",
+            "VideoId": "m3XuS8FN3Vg",
+            "Controls": "start=826"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jameela-jamil.webp",
+            "Text": "We really shouldn't be putting a label on size. Fashion is for all, and I think confidence and happiness is more important than dress labels.",
+            "Title": "English Celebrity",
+            "Name": "Jameela Jamil"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/woodrow-wilson.webp",
+            "Text": "He is not a true man of the world who knows only the present fashions of it.",
+            "Title": "American President",
+            "Name": "Woodrow Wilson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/georgia-may-jagger.webp",
+            "Text": "I think music influences fashion and has done so for generations.",
+            "Title": "English Model",
+            "Name": "Georgia May Jagger"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zinedine-zidane.webp",
+            "Text": "Obviously fashion is a completely different world from football.",
+            "Title": "French Athlete",
+            "Name": "Zinedine Zidane"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gunna.webp",
+            "Text": "I'm not sure people understand how important fashion is to me.",
+            "Title": "American Musician",
+            "Name": "Gunna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/g-dragon.webp",
+            "Text": "Don't be afraid. There is no right answer in fashion.",
+            "Title": "South Korean Musician",
+            "Name": "G-Dragon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alicia-keys.webp",
+            "Text": "I really like to live my life in a low-key fashion.",
+            "Title": "American Musician",
+            "Name": "Alicia Keys"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-rocha.webp",
+            "Text": "I love fashion, but fashion is not my whole life.",
+            "Title": "Chinese Designer",
+            "Name": "John Rocha"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yves-saint-laurent.webp",
+            "Text": "A good model can advance fashion by ten years.",
+            "Title": "French Designer",
+            "Name": "Yves Saint Laurent"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hattie-carnegie.webp",
+            "Text": "Taste is so much more important than fashion.",
+            "Title": "Austrian Businesswoman",
+            "Name": "Hattie Carnegie"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "currentWord": {
+        "wordRoot": "adhere to",
+        "id": 53116,
+        "phonemic": "ədˈhɪə tuː|ədˈhɪə tuː",
+        "bigId": "8af6df20-17d2-4b80-9239-9677af7c317d",
+        "wordForms": [
+            "adhere to"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8af6df20-17d2-4b80-9239-9677af7c317d",
+            "de": "to stick to something",
+            "ty": "verb",
+            "ex": "She had to adhere the label to the box.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "adhere to the surface",
+                " adhere to the wall",
+                " adhere to the skin"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8af6df20-17d2-4b80-9239-9677af7c317d.webp",
+            "Tips": [
+                {
+                    "title": "Literal Sticking",
+                    "description": "Used for describing a physical attachment of objects, like glue sticking things together.",
+                    "example": "The stickers must adhere to the notebook cover firmly.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ssMM85bJE1WAiuS8IlHRSn0qqGc.webp"
+                },
+                {
+                    "title": "Not Always Permanent",
+                    "description": "In this context, the attachment might be temporary, like a magnet adheres to a fridge.",
+                    "example": "Post-it notes are designed to adhere to surfaces temporarily.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HSvL3azM28TIK2MyA2MjmMmM0A.webp"
+                }
+            ]
+        },
+        {
+            "id": "514e0885-2546-4e7b-933f-900cc7be8173",
+            "de": "to follow or obey a rule, instruction, etc.",
+            "ty": "verb",
+            "ex": "It's important to adhere to the guidelines for the project to be successful.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "adhere to the rules",
+                " adhere to the guidelines",
+                " adhere to the standards"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/514e0885-2546-4e7b-933f-900cc7be8173.webp",
+            "Tips": [
+                {
+                    "title": "Obligation Sense",
+                    "description": "Conveys a sense of responsibility or duty to follow certain procedures or norms.",
+                    "example": "Employees must adhere to the dress code on weekdays.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formality",
+                    "description": "Often used in formal contexts, such as legal, academic, or safety-related situations.",
+                    "example": "The lab requires all researchers to adhere to safety protocols.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Serious Consequences",
+                    "description": "Not adhering to official rules or guidelines may lead to serious consequences or penalties.",
+                    "example": "Failing to adhere to the court order can result in a fine.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7d9a30ed-d815-429e-8051-3413d3a86881",
+            "de": "to support or maintain a particular belief, policy, attitude, etc.",
+            "ty": "verb",
+            "ex": "He adheres to a strict vegetarian diet.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "adhere to a belief",
+                " adhere to a policy",
+                " adhere to a principle"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7d9a30ed-d815-429e-8051-3413d3a86881.webp",
+            "Tips": [
+                {
+                    "title": "Strong Commitment",
+                    "description": "Shows a strong commitment or dedication to a cause, philosophy, or lifestyle.",
+                    "example": "They strictly adhere to the philosophy of non-violence.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Consistency",
+                    "description": "Reflects consistency in actions and beliefs over time, not just a one-time occurrence.",
+                    "example": "Even abroad, she adheres to her cultural traditions.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {},
+    "videos": [],
+    "quotes": []
+}

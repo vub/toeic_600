@@ -1,0 +1,314 @@
+{
+    "currentWord": {
+        "wordRoot": "calculate",
+        "id": 19959,
+        "phonemic": "ˈkælkjuleɪt|ˈkælkjuleɪt\r",
+        "bigId": "5256ba45-6628-4afc-a6c3-28c9b7b3e83c",
+        "wordForms": [
+            "calculates",
+            "calculating",
+            "calculated",
+            "calculation",
+            "calculate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "5256ba45-6628-4afc-a6c3-28c9b7b3e83c",
+            "de": "To find out a number or amount using math",
+            "ty": "verb",
+            "ex": "I need to calculate the total cost of the trip.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "calculate the cost",
+                " calculate the total",
+                " calculate the distance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5256ba45-6628-4afc-a6c3-28c9b7b3e83c.webp",
+            "Tips": [
+                {
+                    "title": "Math Required",
+                    "description": "Use 'calculate' when math operations like addition or division are needed to get a result.",
+                    "example": "Please calculate the average score from these grades.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/cH1bp4WxzASP80zuPfdKJfEIKI.webp"
+                },
+                {
+                    "title": "Objective Precision",
+                    "description": "'Calculate' implies a precise outcome, not a guess or estimation.",
+                    "example": "We'll need to calculate the exact dosage for the medication.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fFUjPjSzwWd42KcMkunSKyUvnIQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "d5e17f9e-7837-42c9-83db-968a8520244a",
+            "de": "To predict something based on known information",
+            "ty": "verb",
+            "ex": "They are trying to calculate the effect of the new tax law on their business.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "calculate the effect",
+                " calculate the risk",
+                " calculate the impact"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d5e17f9e-7837-42c9-83db-968a8520244a.webp",
+            "Tips": [
+                {
+                    "title": "Informed Prediction",
+                    "description": "Use 'calculate' for predictions based on data or evidence, not just intuition.",
+                    "example": "Analysts calculate that the company's revenue will double by next year.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Assessing Consequences",
+                    "description": "'Calculate' can involve considering different variables to predict possible outcomes.",
+                    "example": "They failed to calculate the effects of weather on the event.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2b532bd4-d337-4f59-bb71-b27115046f07",
+            "de": "To plan something in a clever way with a specific aim",
+            "ty": "verb",
+            "ex": "His every move is carefully calculated to help his image.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "carefully calculated",
+                " well-calculated",
+                " cunningly calculated"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2b532bd4-d337-4f59-bb71-b27115046f07.webp",
+            "Tips": [
+                {
+                    "title": "Strategic Planning",
+                    "description": "'Calculate' suggests a methodical and sometimes manipulative approach to planning.",
+                    "example": "The campaign's moves are calculated for maximum voter appeal.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subtle Tactics",
+                    "description": "A 'calculated' action often implies careful thought to gain advantage.",
+                    "example": "Her response was a calculated attempt to sway public opinion.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1fb35a46-549c-4337-a943-2e3dad4b93f6",
+            "de": "In computer science, to execute a series of operations on data",
+            "do": "computing",
+            "ty": "verb",
+            "ex": "The program is written to calculate all possible combinations.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "calculate combinations",
+                " calculate permutations",
+                " calculate algorithms"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1fb35a46-549c-4337-a943-2e3dad4b93f6.webp",
+            "Tips": [
+                {
+                    "title": "Data Processing",
+                    "description": "In computing, 'calculate' often refers to the computer executing operations on data.",
+                    "example": "The software calculates the optimal route in seconds.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technical Context",
+                    "description": "Use 'calculate' to describe actions within computer programs or algorithms.",
+                    "example": "This function calculates the time complexity of the algorithm.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Cipher": {
+            "wordRoot": "Cipher",
+            "wordDefinition": "Both calculate and cipher are related to doing numerical operations, but there are some differences in their meanings and connotations.\n\nCipher has more of a focus on encryption and decryption.\n\nA cipher is a code or system of codes used to conceal information, such as in cryptography.\n\nTo cipher can mean to encode or decode messages using a cipher, or to use mathematical algorithms to secure data.\n\nCalculate is a more general term for working with numbers, while cipher is more specific to coding and encryption.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d03fef96-f894-477a-8f01-9b9ecf52815b.webp"
+        },
+        "Compute": {
+            "wordRoot": "Compute",
+            "wordDefinition": "Calculate and compute are both verbs that mean to use mathematical methods to find an answer.\n\nCompute is typically used when referring to the use of technology or computers to solve the problem or perform a calculation.\n\nFor example, a computer can compute complex mathematical equations or analyze data sets to find patterns.\n\nThe difference between the two words is that calculate is often used when the process involves logic and reasoning, while compute implies the use of technology to solve the problem.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b9c44271-b857-4a4a-8b91-2161c8a4f733.webp"
+        },
+        "Count": {
+            "wordRoot": "Count",
+            "wordDefinition": "Count simply means to determine the number of something. This can be used in everyday situations such as counting the number of people in a room, or the number of items in a grocery list.\n\nCalculate is used when there is a more complex or rigorous problem to solve, while count is used when the goal is simply to determine the number of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/42fa2573-867f-40bc-a9ec-f8cf42e5e8e0.webp"
+        },
+        "Determine": {
+            "wordRoot": "Determine",
+            "wordDefinition": "Determine means to come to a decision or conclusion after considering all the available information. It's applicable when you need to make a judgment or reach a conclusion, like determining which college to attend based on various factors.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bb3c1d7-4dc7-4a4a-9a95-c1c82766d7be.webp"
+        },
+        "Estimate": {
+            "wordRoot": "Estimate",
+            "wordDefinition": "Estimate means to make an educated guess or prediction based on limited information or experience.\n\nYou would use estimate when you don't have all the information but need to make an informed guess, such as predicting the number of attendees at an event or the cost of a home renovation project.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20b933e6-66cb-46e9-bf0d-1797ef8852d6.webp"
+        },
+        "Evaluate": {
+            "wordRoot": "Evaluate",
+            "wordDefinition": "Evaluate means to assess or figure out the value, quality, or importance of something or someone.\n\nConversely, if you are trying to determine whether a book is worth reading or not, you would evaluate the book based on factors such as its plot, characterization, writing style, and overall impact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be62720b-6c1b-48e0-b518-8768e2efffd8.webp"
+        },
+        "Figure": {
+            "wordRoot": "Figure",
+            "wordDefinition": "Figure is used when you estimate or guess something. For instance, if you want to know if you have enough money to buy something without actually calculating it, you would use the word figure.\n\nYou can also use figure when talking about a plan or an idea that you are developing.\n\nCalculate involves using numbers and formulas to find specific information, while figure involves using your intuition or estimation to make a prediction or plan.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b2e3b76-13c6-4361-8b4b-a064726be68c.webp"
+        },
+        "Reckon": {
+            "wordRoot": "Reckon",
+            "wordDefinition": "Reckon is more informal and refers to making an estimate or guess about something.\n\nIt doesn't necessarily involve math or numbers. For example, you might reckon that it will take around 20 minutes to walk to the park.\n\nCalculate is used when precise mathematical calculations are required, whereas reckon is used when making an estimate or a guess.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7cc83c65-a47a-4ae9-b589-1a50c34c702f.webp"
+        },
+        "Tally": {
+            "wordRoot": "Tally",
+            "wordDefinition": "Tally means to count or add up a list of numbers or items. It is applicable in situations where you need to keep track of a quantity or keep a record.\n\nFor example, you might tally the number of votes in an election or tally the number of items in a inventory.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2cb30c9f-eaa7-4d63-b803-d9c07c57bb77.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Then that group of students is one thought closer to being what every teacher hopes their students will a lifelong learner. Based on the distance between the two stations -- The quest for knowledge and understanding never gets dull. He calculates the speed of light to within two percent of its actual value.",
+            "Title": "TED-Ed YouTube Channel...",
+            "VideoId": "2QZaONSuYKM",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " Scientists claim the tiny insects can calculate angles, and can even comprehend the roundness of the Earth. But there's particular mathematical bee genius behind the most important aspect of honeybee the hive. Just like humans, bees need food and shelter to stay alive. The hive is not only the bees' home,",
+            "Title": "Why do honeybees love...",
+            "VideoId": "QEzlsjAqADA",
+            "Controls": "start=19"
+        },
+        {
+            "Text": " And because the expansion and contraction causes their brightness to vary, we can calculate their luminosity by measuring the period of this cycle, with more luminous stars changing more slowly. By comparing the light we observe from these stars to the intrinsic brightness we've calculated this way,",
+            "Title": "Light seconds, light...",
+            "VideoId": "Op3AYaJc0Xw",
+            "Controls": "start=184"
+        },
+        {
+            "Text": " you don't want my job the average life for finance ministers is two years it's been calculated I thought about how to grab your attention today with just sitting here have learned so much and I decided there are two things one is I have to transport you from all these",
+            "Title": "Africa rising. Real or...",
+            "VideoId": "2N076SeLXPY",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " and I feel a duty as a physicist to try to guide people around the claptrap and help people understand the actions that really make a difference, and to focus on ideas that do add up. Let me illustrate this with what physicists call a back-of-envelope calculation.",
+            "Title": "David Mackay: A reality...",
+            "VideoId": "1gAQ82IHyZ8",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " bit like a nice peaceful curtain draping over a window that's not moving. And instead, it looks like there's some sort of breeze gently fluttering that curtain. And what we were able to do is calculate what ions were generating",
+            "Title": "Water Discovered In...",
+            "VideoId": "xxjSfuF6Cvo",
+            "Controls": "start=178"
+        },
+        {
+            "Text": " calculating trajectories for mercury missions and project apollo catherine johnson was so good at what she did they needed her as an engineer when they had briefings i asked permission to go and they said well the girls don't",
+            "Title": "NASA Trailblazer:...",
+            "VideoId": "E4j_LpKzcZQ",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " Instead, it's easier to calculate the odds that everyone's birthday is different. How does that help? Either there's a birthday match in the group, or there isn't, so the odds of a match and the odds of no match",
+            "Title": "Check your intuition:...",
+            "VideoId": "KtT_cgMzHx8",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " At their peak, it's been calculated they grow up to 40 kilograms every day. The dinosaur embryos are so well preserved we can see they already have their teeth, in preparation for a lifetime of eating.",
+            "Title": "The Biggest Dinosaur...",
+            "VideoId": "3QUK8gN1oSY",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " These days scientists know how you inherit characteristics from your parents. They're able to calculate probabilities of having a specific trait or getting a genetic disease",
+            "Title": "How Mendel's pea plants...",
+            "VideoId": "Mehz7tCxjSE",
+            "Controls": "start=12"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-laliberte.webp",
+            "Text": "I do like the thrill of risk-taking, but it's always carefully calculated. I have done many high risk undertakings, but I have always measured the stakes. Not feeding the fear nor the doubt. But I also believe that you need to fuel passion in whatever you do. This is what I am trying to teach my children today.",
+            "Title": "Canadian Businessman",
+            "Name": "Guy Laliberte"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeffrey-brown.webp",
+            "Text": "My books should feel like you're getting a peek into a private world: a diary no one was meant to read. As soon as I start thinking, 'This book is going to be published,' my drawing becomes calculated and deliberate. It's one of the ways I trick myself.",
+            "Title": "American Cartoonist",
+            "Name": "Jeffrey Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hal-needham.webp",
+            "Text": "Anyone who thinks stuntmen are crazy is dead wrong. These guys are calculating. They rig things, they think about different ways of doing it... they're not afraid.",
+            "Title": "American Director",
+            "Name": "Hal Needham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/knute-rockne.webp",
+            "Text": "Four years of football are calculated to breed in the average man more of the ingredients of success in life than almost any academic course he takes.",
+            "Title": "American Coach",
+            "Name": "Knute Rockne"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-douglas.webp",
+            "Text": "I've never been one to carefully calculate my career decisions, to sit on the outside looking in. I go with my passion and what moves me.",
+            "Title": "American Actor",
+            "Name": "Michael Douglas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gustave-flaubert.webp",
+            "Text": "You can calculate the worth of a man by the number of his enemies, and the importance of a work of art by the harm that is spoken of it.",
+            "Title": "French Novelist",
+            "Name": "Gustave Flaubert"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-nichols.webp",
+            "Text": "I'm really calculating when it comes to these scripts - I'm really calculated about character behavior and dialogue.",
+            "Title": "American Director",
+            "Name": "Jeff Nichols"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/conrad-wolfram.webp",
+            "Text": "Computers do the calculating to allow people to transform the world.",
+            "Title": "British Businessman",
+            "Name": "Conrad Wolfram"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henri-frederic-amiel.webp",
+            "Text": "Common sense is calculation applied to life.",
+            "Title": "Swiss Philosopher",
+            "Name": "Henri Frederic Amiel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rajon-rondo.webp",
+            "Text": "My life is pretty calculated.",
+            "Title": "American Athlete",
+            "Name": "Rajon Rondo"
+        }
+    ]
+}

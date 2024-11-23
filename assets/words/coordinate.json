@@ -1,0 +1,326 @@
+{
+    "currentWord": {
+        "wordRoot": "coordinate",
+        "id": 4573,
+        "phonemic": "kəʊˈɔːdɪneɪt|kəʊˈɔːrdɪneɪt\r",
+        "bigId": "30482e98-70f0-4843-a3c1-2f581092a8ba",
+        "wordForms": [
+            "coordinates",
+            "coordinated",
+            "coordinating",
+            "coordination",
+            "coordinate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "30482e98-70f0-4843-a3c1-2f581092a8ba",
+            "de": "To organize different things or people to work properly together",
+            "ty": "verb",
+            "ex": "She coordinated all the departments to work towards the same goal",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "coordinate efforts",
+                " coordinate activities",
+                " coordinate operations"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/30482e98-70f0-4843-a3c1-2f581092a8ba.webp",
+            "Tips": [
+                {
+                    "title": "Teamwork Enhancement",
+                    "description": "Implies improving collaboration among a group for efficiency.",
+                    "example": "The project manager coordinated the team to meet the tight deadline.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Gc3oRIMm2yJgvabbQiI9LK7pR0.webp"
+                },
+                {
+                    "title": "Leadership Action",
+                    "description": "Suggests a person is in charge of aligning efforts.",
+                    "example": "A supervisor must coordinate the staff's tasks during a shift.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6YLmlGxY9ThpQE6iYlNH29m3wU.webp"
+                },
+                {
+                    "title": "Action Plan",
+                    "description": "Used for establishing a strategic way to achieve a goal.",
+                    "example": "To coordinate relief efforts, we drafted a comprehensive action plan.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/CeIsZoIBOKOVYwEesRiDHs7zJQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "0700ab33-b86b-40ba-88d9-89be19b9d678",
+            "de": "Working well together, or look good together",
+            "ty": "adjective",
+            "ex": "Their outfits were perfectly coordinated",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "coordinated approach",
+                " coordinated effort",
+                " coordinated movement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0700ab33-b86b-40ba-88d9-89be19b9d678.webp",
+            "Tips": [
+                {
+                    "title": "Aesthetic Harmony",
+                    "description": "Often refers to colors or styles that look good together.",
+                    "example": "Their house is beautifully decorated with coordinated colors.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Efficient Teamwork",
+                    "description": "Describes people working together smoothly and effectively.",
+                    "example": "The dance troupe moved with perfectly coordinated steps.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0f72c934-1320-4036-ae85-a9ea85308f37",
+            "de": "Each pair of numbers giving the position of a point in a plane by reference to two fixed lines, the axes",
+            "do": "mathematics",
+            "ty": "noun",
+            "ex": "The point P has coordinates (2, 3)",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "coordinate plane",
+                " coordinate system",
+                " coordinate axis"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0f72c934-1320-4036-ae85-a9ea85308f37.webp",
+            "Tips": [
+                {
+                    "title": "Location Markers",
+                    "description": "References a specific point within a larger system or grid.",
+                    "example": "Find the treasure by locating its coordinates on the map.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mathematical Term",
+                    "description": "Specific to geometry for describing positions in space.",
+                    "example": "Using graph paper, plot the point at coordinates (x, y).\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Navigation Help",
+                    "description": "Helpful in finding locations, used in GPS and maps.",
+                    "example": "Enter the coordinates to find the closest coffee shop.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3ce6a40b-49fa-4479-8fdb-86251dd93a80",
+            "de": "To be equal in rank or importance",
+            "ty": "verb",
+            "ex": "The human resources department coordinates with the finance department",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "coordinate with",
+                " coordinate between",
+                " coordinate among"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3ce6a40b-49fa-4479-8fdb-86251dd93a80.webp",
+            "Tips": [
+                {
+                    "title": "Partnership Implication",
+                    "description": "Conveys a sense of collaboration without hierarchy.",
+                    "example": "During the merger, sales and marketing teams coordinated closely.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Equal Standing",
+                    "description": "Implies two or more elements have the same level of importance.",
+                    "example": "In debates, all speakers' points should be coordinated.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Align": {
+            "wordRoot": "Align",
+            "wordDefinition": "Align refers to when two or more things are arranged in such a way that they are in agreement or in a straight line with each other.\n\nFor example, a construction team will align the various pieces of a building to ensure that they fit together perfectly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/807aa761-70a6-4c10-b277-625cb48dac58.webp"
+        },
+        "Collaborate": {
+            "wordRoot": "Collaborate",
+            "wordDefinition": "Collaborate means to work together with others on a shared goal or project. It involves actively contributing ideas, feedback, and effort towards a common objective.\n\nCollaboration is applicable when people need to jointly work on a task or project that requires multiple skill sets or perspectives.\n\nCoordination is applicable when people need to work together, but their roles are more defined and there is less need for active collaboration.\n\nIn summary, collaboration is about actively working together towards a shared goal, while coordination is about organizing and arranging people and resources to work towards a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e67fffdb-9b97-44f1-bd6e-c2f49a82213b.webp"
+        },
+        "Correlate": {
+            "wordRoot": "Correlate",
+            "wordDefinition": "Coordinate refers to arranging or organizing things to work together in a planned way, while correlate refers to the relationship or connection between two things.\n\nThe performance of a player may correlate with their amount of practice or training.\n\nCoordinate is used when referring to the process of planning or organizing, while correlate is used when referring to the relationship between two things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/21758632-23c9-490d-bf54-09d180c5f67a.webp"
+        },
+        "Harmonize": {
+            "wordRoot": "Harmonize",
+            "wordDefinition": "Harmonize means to make different things or people work together in a way that is pleasing or enjoyable to experience.\n\nFor example, if you harmonize music, you make sure that the different parts of the song work together to create a beautiful and enjoyable sound.\n\nCoordinate focuses on making sure things work well together, while harmonize focuses on making sure things work together in a way that is enjoyable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8de9ccee-1a44-4ef6-b325-2fb09f8aeb84.webp"
+        },
+        "Integrate": {
+            "wordRoot": "Integrate",
+            "wordDefinition": "Integrate means to combine different things into a unified whole. In the same group project, each team member might integrate their individual efforts to create a final product that is cohesive and complete.\n\nCoordinate is best used when talking about organizing and managing different parts or people, while integrate is used when referring to combining and unifying different ideas or components.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9cfe70a-4b18-4bc4-8de3-3eea1a29c597.webp"
+        },
+        "Organize": {
+            "wordRoot": "Organize",
+            "wordDefinition": "Organize means to arrange or sort things in an orderly manner. It involves putting things in a specific order or sequence so that they can be easily accessed, used, or understood.\n\nYou might organize your bedroom by sorting your clothes, putting away your books, and tidying up your desk.\n\nCoordinate is about managing and directing different elements towards a common goal, while organize is about arranging things in a structured and logical manner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3903046-39b4-4ebe-802d-acb22458ee6f.webp"
+        },
+        "Synchronize": {
+            "wordRoot": "Synchronize",
+            "wordDefinition": "Synchronize means to make different things happen at the same time, or to ensure that they are timed properly.\n\nFor example, when dancers move their bodies to the beat of the music, they are synchronizing their movements with the rhythm.\n\nCoordinate is more about planning and bringing things together, while synchronize is more about timing and making things happen simultaneously.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c0042456-f26e-449b-a9da-5f51d0bce1c2.webp"
+        },
+        "Systematize": {
+            "wordRoot": "Systematize",
+            "wordDefinition": "Coordinate and systematize are both verbs that involve arranging things in a particular way, but they have slightly different meanings.\n\n- Systematize means to arrange something in a methodical and structured way. It implies creating a system or a framework of rules, procedures, or processes that govern the way things should be done.\n\nFor example, when a company systematizes its workflows, it sets up a sequence of steps that employees have to follow for each task they perform.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/de43fc08-9b5e-43d9-a9ec-9bfe96f01121.webp"
+        },
+        "Unify": {
+            "wordRoot": "Unify",
+            "wordDefinition": "Unify means to bring things or people together to form a single unit or entity.\n\nIt is used when there are multiple elements or groups that need to be merged as a whole. For example, a company may try to unify all of its departments under one vision and mission statement.\n\nCoordinate is used when there are multiple parts that need to work together effectively, while unify is used when multiple elements or groups need to be merged into a single entity or unit.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e65aa762-ac29-4580-b64e-63b95469be19.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and it does so in a variety of ways. So language can have big effects, like we saw with space and time, where people can lay out space and time in completely different coordinate frames from each other. Language can also have really deep effects -- that's what we saw with the case of number.",
+            "Title": "How language shapes the...",
+            "VideoId": "RKK7wGAYP6k",
+            "Controls": "start=660"
+        },
+        {
+            "Text": " it increases the production of vasopressin and noradrenaline throughout the brain, which help control our sleep cycles. At about 10 am, the body's rising temperature drives up our energy and alertness, and later in the afternoon, it also improves our muscle activity and coordination.",
+            "Title": "How does your body know...",
+            "VideoId": "Y8ZXOfWUbms",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " An insect's brain lets it perceive the world through sight and smell. It also chooses suitable mates, remembers locations of food sources and hives, regulates communication, and even coordinates navigation over huge distances. And this vast diversity of behaviors",
+            "Title": "Why the insect brain is...",
+            "VideoId": "OQw3TNRnJ1I",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " It carries signals to the other parts of the brain and to the spinal cord. The cerebellum is responsible for coordinating muscle movements, particularly those that help maintain the body's balance and posture. The third region, the brainstem,",
+            "Title": "Brain 101 PIPE National...",
+            "VideoId": "pRFXSjkpKWA",
+            "Controls": "start=57"
+        },
+        {
+            "Text": " As it grows and continues to release estrogen, this hormone not only helps coordinate growth and preparation of the uterus, it also communicates to the brain how well the follicle is developing. When the estrogen level is high enough,",
+            "Title": "How in vitro fertilizatio...",
+            "VideoId": "P27waC05Hdk",
+            "Controls": "start=72"
+        },
+        {
+            "Text": " cooperation coordination collaboration killer whales are highly social species who exhibit complex group interactions with in hierarchical dominant systems that is to say they work together to rear their young to protect their pod",
+            "Title": "Killer whale society PIPE...",
+            "VideoId": "Y0Pd5G2H6CM",
+            "Controls": "start=135"
+        },
+        {
+            "Text": " A defence system of soldier ants ready to act at any sign of danger. A digestive system processing piles of food deep inside. Even a coordinated system for dealing with all the waste.",
+            "Title": "Army Ants Rampage...",
+            "VideoId": "JsfiUR0ZzLw",
+            "Controls": "start=30"
+        },
+        {
+            "Text": " these mini currents are picked up by the lateral line of other fish and this helps them swim is a coordinated sure it detects predators to a touch sense a warning shot",
+            "Title": "How Do Goldfish Flirt? PIPE...",
+            "VideoId": "n5lp7nWn_5c",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " but behind the scenes, a huge coordinated effort is playing out. Your vital organs, the gut, brain, bones, lungs, blood, and heart work together to sustain your life",
+            "Title": "Oxygen’s surprisingly...",
+            "VideoId": "GVU_zANtroE",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " and appears to be protected from any oncoming wave. The matriarch whale, however, has a plan. Working in a coordinated way,",
+            "Title": "Incredible Orca Hunt PIPE...",
+            "VideoId": "fs8ZveNZQ8g",
+            "Controls": "start=64"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adeo-ressi.webp",
+            "Text": "There are a number of traits that combine to create entrepreneurial potential. We find that openness coordinates very well with successful entrepreneurs. The more open-minded you are, the more you see the world as it actually is. The more closed-minded, the more you see the world as you want it to be.",
+            "Title": "American Businessman",
+            "Name": "Adeo Ressi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/petr-cech.webp",
+            "Text": "I played tennis a lot when I had the skull injury. For the first two months of my preparation, it was all I could do. It is a great sport for me because it helps my hand-eye coordination, and you need quick feet, which is a good exercise for a keeper.",
+            "Title": "Czechoslovakian Athlete",
+            "Name": "Petr Cech"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fred-ehrsam.webp",
+            "Text": "To create an open protocol which helps coordinate resources towards a common goal, the resources need to be known at some level in the same way a lot of of data on the web needs to be public for it to be traversable and useful.",
+            "Title": "American Businessman",
+            "Name": "Fred Ehrsam"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-wicks.webp",
+            "Text": "Finger foods can help little ones to explore food at their own pace. They are also great for helping them to develop hand-eye coordination and encouraging them to try out a variety of textures.",
+            "Title": "British Author",
+            "Name": "Joe Wicks"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-sowell.webp",
+            "Text": "If you want to get each individual's honest opinion, you don't want that opinion to be influenced by others who are present, much less allow a group to coordinate what they are going to say.",
+            "Title": "American Economist",
+            "Name": "Thomas Sowell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dan-lipinski.webp",
+            "Text": "By coordinating with international partners on scientific issues, we strengthen the U.S. scientific enterprise and promote the free exchange of ideas in other nations.",
+            "Title": "American Politician",
+            "Name": "Dan Lipinski"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/austin-seferian-jenkins.webp",
+            "Text": "Foot work, hand-eye coordination. There's a lot of things. If you just watch basketball, you can tell where it would help someone who's receiving the ball.",
+            "Title": "American Athlete",
+            "Name": "Austin Seferian-Jenkins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ab-de-villiers.webp",
+            "Text": "I often speak about tennis being one of the most important sports when I was growing up, for my hand-eye coordination and quick feet.",
+            "Title": "South African Athlete",
+            "Name": "AB de Villiers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sunil-chhetri.webp",
+            "Text": "I used to play a lot of different sports. Now when I look back, I understand that it really helped with my hand-eye coordination.",
+            "Title": "",
+            "Name": "Sunil Chhetri"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julie-benz.webp",
+            "Text": "And I'm not very coordinated, either. Only on ice skates, not in real life.",
+            "Title": "American Actress",
+            "Name": "Julie Benz"
+        }
+    ]
+}

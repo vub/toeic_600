@@ -1,0 +1,312 @@
+{
+    "currentWord": {
+        "wordRoot": "fare",
+        "id": 5463,
+        "phonemic": "feə(r)|fer\r",
+        "bigId": "63e1b010-f76f-4ada-8fcf-2a1bd0d8adf9",
+        "wordForms": [
+            "fares",
+            "faring",
+            "fared",
+            "fare"
+        ]
+    },
+    "senses": [
+        {
+            "id": "63e1b010-f76f-4ada-8fcf-2a1bd0d8adf9",
+            "de": "The money a person needs to pay to travel by taxi, bus, train, etc.",
+            "ty": "noun",
+            "ex": "The bus fare from New York to Boston is $35.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bus fare",
+                " taxi fare",
+                " train fare"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/63e1b010-f76f-4ada-8fcf-2a1bd0d8adf9.webp",
+            "Tips": [
+                {
+                    "title": "Transportation Cost",
+                    "description": "Refers to the price for public or private vehicle travel.",
+                    "example": "Could you tell me the taxi fare to the airport?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/oLz0ZOBv53VtA0VPU7JcKs04.webp"
+                },
+                {
+                    "title": "Additional Fees",
+                    "description": "Fare might not include extras like tolls or tips.",
+                    "example": "The fare is $25, but that doesn't cover the bridge toll.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lkmEkbpIeaEU0UsE0kEgqH0pxQ.webp"
+                },
+                {
+                    "title": "Fixed or Variable",
+                    "description": "Some fares are fixed prices, others increase with distance or time.",
+                    "example": "Is the bus fare to downtown a fixed rate?",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZVQKty2pz2TEjAVw3DKA6eFteiU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "de956716-e8c9-4ba5-a76d-eec654ab16a0",
+            "de": "To perform in a specified way in a specific situation.",
+            "ty": "verb",
+            "ex": "How did your team fare in the match today?",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fare well",
+                " fare badly",
+                " fare better"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/de956716-e8c9-4ba5-a76d-eec654ab16a0.webp",
+            "Tips": [
+                {
+                    "title": "Assessing Performance",
+                    "description": "Used to comment on someone's or something's success or failure.",
+                    "example": "Without a strong strategy, our team didn't fare too well.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subjectivity",
+                    "description": "How well someone fares can be subjective, depending on expectations.",
+                    "example": "She fared better than expected in her new role.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7cd00691-4aad-4fc5-8430-5ad22b4656b0",
+            "de": "A type of food.",
+            "ty": "noun",
+            "ex": "The restaurant serves traditional Italian fare.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "traditional fare",
+                " local fare",
+                " daily fare"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7cd00691-4aad-4fc5-8430-5ad22b4656b0.webp",
+            "Tips": [
+                {
+                    "title": "Culinary Offerings",
+                    "description": "Concerns the variety or style of food provided.",
+                    "example": "The street festival had an array of local fare.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Association",
+                    "description": "Fare often implies traditional or characteristic food of a region.",
+                    "example": "You must try our regional fare, especially the cheese.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "17932567-3fd1-4f7d-a124-cd208d90a70a",
+            "de": "To experience something, usually something negative.",
+            "ty": "verb",
+            "ex": "Many small businesses fared poorly during the recession.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fare badly",
+                " fare poorly",
+                " fare worse"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/17932567-3fd1-4f7d-a124-cd208d90a70a.webp",
+            "Tips": [
+                {
+                    "title": "Enduring Difficulty",
+                    "description": "Indicates how well one handles adverse conditions or events.",
+                    "example": "How did the crops fare after the heavy rains?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Phrasal Context",
+                    "description": "Commonly used in questions or statements about well-being.",
+                    "example": "After the long journey, the travelers fared quite poorly.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Charge": {
+            "wordRoot": "Charge",
+            "wordDefinition": "Charge refers to the price that someone has to pay for a product or service, whereas fare is specifically used to describe the price that someone pays for transportation services such as a bus, train, or taxi.\n\nFor example, a restaurant might charge you for the food you order or a plumber might charge you for fixing a leaky faucet.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ce82455-58ee-4af7-8e72-5c206b8731ac.webp"
+        },
+        "Cost": {
+            "wordRoot": "Cost",
+            "wordDefinition": "Cost usually refers to the amount of money spent on a product or service to produce, purchase, or operate it. Fare typically refers to the amount paid for a journey, such as a bus or train journey, or for transport services like cab or taxi.\n\nFor example, the cost of a T-shirt may include the fabric, thread, labor, and other expenses needed to produce it. The fare for a train ride may depend on the distance traveled and the class of the compartment booked.\n\nCost usually refers to the total amount spent on something, while fare generally refers to the amount paid for a specific travel journey.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/085b4924-fb2c-4f96-9948-826bd0b13358.webp"
+        },
+        "Expense": {
+            "wordRoot": "Expense",
+            "wordDefinition": "Expense refers to the amount of money spent on something, like a purchase or a bill, usually for something that is not a journey or trip.\n\nFor example: \"The expense of buying a new car was more than I thought it would be.\"\n\nTo summarize, expense is used when talking about the amount of money spent on purchases or bills, while fare is used when talking about the price of transportation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5341a6da-f595-44d4-8411-18052d842875.webp"
+        },
+        "Fee": {
+            "wordRoot": "Fee",
+            "wordDefinition": "Fee generally refers to the amount of money you pay to use a service, like the fee paid to a doctor's office for a medical check-up or to a university for the tuition fee.\n\nA fare is what you pay to get from one place to another using public transportation like buses, trains, taxis or planes while a fee is what you pay for a service or use of a facility such as taking a course or using a gym or library.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/48e2ac1f-1edf-4e91-a8e3-5db97e52b34a.webp"
+        },
+        "Price": {
+            "wordRoot": "Price",
+            "wordDefinition": "Fare refers specifically to the cost of transportation, such as the fare for a bus, train, or airplane ticket. Price, on the other hand, refers to the cost of a product or service in general.\n\nThis could include anything from the price of a new pair of shoes to the price of a meal at a restaurant. Fare is applicable when discussing transportation costs, while price is applicable when discussing the cost of any product or service.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b507483b-fbfc-4619-b904-b321a8a15d6d.webp"
+        },
+        "Rate": {
+            "wordRoot": "Rate",
+            "wordDefinition": "Rate is a broader term that refers to the cost of something per unit or over a period of time, such as the exchange rate between two currencies or the interest rate on a loan.\n\nFare is more specific to transportation costs while rate is more general and versatile in its application.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6758e7b0-f424-4b48-8b00-01ada4dbd27a.webp"
+        },
+        "Tariff": {
+            "wordRoot": "Tariff",
+            "wordDefinition": "Fare and tariff are two words used to describe the amount of money people have to pay for transportation.\n\nTariff describes the amount of money charged for transportation of goods or cargo. Tariff is used specifically for shipping, trade, or commerce.\n\nIt is a tax or duty that is levied by a government on goods that are imported or exported. For example, when goods are imported or exported between countries, tariffs are added to the cost of the shipment as a way to protect domestic industries or to raise revenue for the government.\n\nFare is the amount of money a person pays for public transportation, while tariff is the amount of money charged for transporting goods or cargo.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2d563cde-db1f-4eb6-81f4-fe59a2919c80.webp"
+        },
+        "Toll": {
+            "wordRoot": "Toll",
+            "wordDefinition": "Both fare and toll are words that refer to a fee or charge for using a mode of transportation or road, but they are used in different contexts.\n\nToll is a fee paid for using certain roads or bridges. Toll roads are often more expensive than regular roads because they are designed to generate revenue to pay for their construction and maintenance.\n\nFor example, if you drive over a bridge, you may have to pay a toll to cross it.\n\nFare is used when referring to public transportation and toll is used when referring to a fee for using a road or bridge.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3fd54505-2ffc-4103-97e8-f8995781e545.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and they fared much, much better in the beginning of this pandemic. And I think all of us need to ask what could have been. I think that's the part that I struggle with the most, is What could have been? I don't let it hold me back because otherwise it would be very hard to get out of bed.",
+            "Title": "Maria Van Kerkhove: How...",
+            "VideoId": "1tN2W607Qbk",
+            "Controls": "start=785"
+        },
+        {
+            "Text": " near as these people will ever get to being in a plane crash without leaving the ground so we just had an evacuation if this were a real-life horrible situation how would people have fared what everyone have survived probably not they didn't follow instructions if it had been a worst-case",
+            "Title": "People Don’t Listen PIPE...",
+            "VideoId": "hY3lznEqvFk",
+            "Controls": "start=8"
+        },
+        {
+            "Text": " really believed that fame and wealth and high achievement were what they needed to go after to have a good life. But over and over, over these 75 years, our study has shown that the people who fared the best were the people who leaned in to relationships,",
+            "Title": "Robert Waldinger: What...",
+            "VideoId": "8KkKuTCFvzI",
+            "Controls": "start=656"
+        },
+        {
+            "Text": " times I've heard the phrase the golden age of air travels behind us but is it really I'm here today to give you four reasons you might want to consider otherwise first off air travels cheap fares have actually dropped 40% since",
+            "Title": "Travel hacks for...",
+            "VideoId": "RoAP_oDSoFU",
+            "Controls": "start=21"
+        },
+        {
+            "Text": " who made the rounds of the city's ferry stations. Passengers paid a fare to be carried from one side of the Grand Canal to the other, as well as to other points around the city. But gondoliers soon developed a bad rap.",
+            "Title": "Corruption, wealth and...",
+            "VideoId": "B5x5CnwQZD4",
+            "Controls": "start=46"
+        },
+        {
+            "Text": " a grandfather making a ship in a bottle, a woman making a pie -- somewhat standard fare of the day. But it was a sense of pride that we made things, that the world around us was made by us.",
+            "Title": "Dale Dougherty: We are...",
+            "VideoId": "mlrB6npbwVQ",
+            "Controls": "start=322"
+        },
+        {
+            "Text": " between the spots they're quite dark when they're younger I think it aids in camouflage and also keeping them a little bit warmer because darker fur is is more insulating than lighter fare",
+            "Title": "Safari Live - Day 146 PIPE...",
+            "VideoId": "TW66pnd15PY",
+            "Controls": "start=3304"
+        },
+        {
+            "Text": " daily dose of sun to warm up your insides so reptiles and insects generally fare better in the cold when they're small some species though just can't help but defy convention",
+            "Title": "The Insect That Freezes...",
+            "VideoId": "_G67UGmZMuI",
+            "Controls": "start=2"
+        },
+        {
+            "Text": " What a lost opportunity. The money had been spent and we didn't learn how women fared. And these studies could not contribute one iota to the very, very important question,",
+            "Title": "Paula Johnson: His and...",
+            "VideoId": "vhVWzkbAW4I",
+            "Controls": "start=440"
+        },
+        {
+            "Text": " adults protecting their eggs a high-standard the devil that's brilliant one awesome taxi fare must've had",
+            "Title": "Go Inside an Antarctic...",
+            "VideoId": "r1_8rRDHtQ8",
+            "Controls": "start=421"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-redford.webp",
+            "Text": "Films don't always tell a story; some films can achieve effect just by being razzle-dazzle or rock n' roll. That's part of the fare that's out there. And that's okay. For me, I place more value on a story.",
+            "Title": "American Actor",
+            "Name": "Robert Redford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/matt-bomer.webp",
+            "Text": "I tend toward more adult fare, and I would love to do a voice in an animated film or something the boys could go see, but at a certain point, I made peace with myself about it.",
+            "Title": "American Actor",
+            "Name": "Matt Bomer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/claudette-colvin.webp",
+            "Text": "I wanted the young African-American girls also on the bus to know that they had a right to be there, because they had paid their fare just like the white passengers.",
+            "Title": "American Activist",
+            "Name": "Claudette Colvin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ajit-pai.webp",
+            "Text": "Consumers fare best when the barriers to business entry are low, which helps ensure that the market - any market - becomes competitive and stays that way.",
+            "Title": "American Public Servant",
+            "Name": "Ajit Pai"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pooja-hegde.webp",
+            "Text": "As far as the type of movies I am offered is concerned, it's a mix. I have been offered both period films and the regular fare.",
+            "Title": "Indian Model",
+            "Name": "Pooja Hegde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sophocles.webp",
+            "Text": "Whoever understands how to do a kindness when he fares well would be a friend better than any possession.",
+            "Title": "Greek Poet",
+            "Name": "Sophocles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shangela.webp",
+            "Text": "It's not what color you are or how you fare with fans, it's who you are and what personality you have.",
+            "Title": "American Entertainer",
+            "Name": "Shangela"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aeschylus.webp",
+            "Text": "Death is easier than a wretched life; and better never to have born than to live and fare badly.",
+            "Title": "Greek Poet",
+            "Name": "Aeschylus"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geoffrey-s-fletcher.webp",
+            "Text": "I'm interested in how innocence fares when it collides with hard reality.",
+            "Title": "American Director",
+            "Name": "Geoffrey S. Fletcher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/allu-arjun.webp",
+            "Text": "I don't believe in awards, and I think only film fare awards are faring.",
+            "Title": "Indian Actor",
+            "Name": "Allu Arjun"
+        }
+    ]
+}

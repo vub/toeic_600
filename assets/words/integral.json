@@ -1,0 +1,287 @@
+{
+    "currentWord": {
+        "wordRoot": "integral",
+        "id": 18016,
+        "phonemic": "ɪnˈteɡrəl|ˈɪntɪɡrəl\r",
+        "bigId": "cda70564-4899-4e36-8760-322ba9738af6",
+        "wordForms": [
+            "integrally",
+            "integral"
+        ]
+    },
+    "senses": [
+        {
+            "id": "cda70564-4899-4e36-8760-322ba9738af6",
+            "de": "Absolutely necessary for a whole, complete, or the final result",
+            "ty": "adjective",
+            "ex": "An integral part of the team",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "integral part",
+                " integral to",
+                " integral in"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cda70564-4899-4e36-8760-322ba9738af6.webp",
+            "Tips": [
+                {
+                    "title": "Necessity",
+                    "description": "It signals that something is so important that without it, the whole cannot function or be complete.",
+                    "example": "Having trust is integral to a successful partnership.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/T3DbRqArxfc7aV8k5hqVZ1XchN0.webp"
+                },
+                {
+                    "title": "Non-substitutable",
+                    "description": "When something is integral, it can't be easily replaced or left out without affecting the outcome.",
+                    "example": "Good communication is integral to maintaining healthy relationships.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gM3wobLpv0dLez2ZJwQWdoenWEg.webp"
+                },
+                {
+                    "title": "Unifying Role",
+                    "description": "It often describes how parts come together to form a coherent whole.",
+                    "example": "Each department plays an integral role in the company's success.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vnvdWQFNOTTtjudRDBVcyJpPRA.webp"
+                }
+            ]
+        },
+        {
+            "id": "595138cf-c6fb-4738-a181-6cd37297728e",
+            "de": "Included as part of the whole",
+            "ty": "adjective",
+            "ex": "He is an integral part of the community",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "integral part",
+                " integral element",
+                " integral aspect"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/595138cf-c6fb-4738-a181-6cd37297728e.webp",
+            "Tips": [
+                {
+                    "title": "Inclusion",
+                    "description": "Usage emphasizes that something is a part of a whole, commonly found in group or community contexts.",
+                    "example": "Respect for others is an integral value in our school.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implicit Presence",
+                    "description": "Indicates that something is naturally present within something else, not just added on.",
+                    "example": "Cultural traditions are an integral part of a nation's identity.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f5d05190-4df6-4672-9d0c-2f4fc18cde61",
+            "de": "In mathematics, a process of finding integrals, opposite of derivative",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "In calculus, we learned how to solve integrals",
+            "use": "",
+            "co": "Academic",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "definite integral",
+                " indefinite integral",
+                " line integral"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f5d05190-4df6-4672-9d0c-2f4fc18cde61.webp",
+            "Tips": [
+                {
+                    "title": "Math Concept",
+                    "description": "Refers to a specific calculation in calculus, not to be confused with general use of the word.",
+                    "example": "The area under the curve can be found using the integral.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Calculus Application",
+                    "description": "Mainly used in an academic or educational setting related to advanced math.",
+                    "example": "We will discuss the fundamental theorem of calculus which connects derivatives and integrals.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Different Types",
+                    "description": "Within mathematics, it specifies various types of calculations, not just one.",
+                    "example": "He solved the surface integral by parametrizing the surface.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": ""
+        }
+    ],
+    "comparisons": {
+        "Basic": {
+            "wordRoot": "Basic",
+            "wordDefinition": "Basic refers to something that is fundamental or essential, and is often used when describing something that is necessary for understanding or accomplishing a task.\n\nFor example, a basic understanding of math is essential for solving complex problems.\n\nBasic refers to something that is necessary to get started, while integral refers to something that is necessary for a complete understanding or achievement of a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/546fbd7a-6595-4fb2-844d-9c44c0d545ff.webp"
+        },
+        "Constituent": {
+            "wordRoot": "Constituent",
+            "wordDefinition": "Constituent refers to a single part or element that makes up a larger whole. For example, the constituents of air are nitrogen, oxygen, and other gases.\n\nIn simpler terms, constituent refers to a smaller part that makes up a whole, whereas integral refers to something that is necessary for the whole to function properly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a067687d-59a1-437a-801f-af7dea13babf.webp"
+        },
+        "Essential": {
+            "wordRoot": "Essential",
+            "wordDefinition": "Essential means something that is absolutely necessary or crucial for something to work or exist. For example, water is essential for the survival of humans.\n\nBoth words imply necessity, but essential has a stronger sense of being mandatory, while integral implies importance but may not be absolutely necessary.\n\nTo summarize, essential is used when talking about something that is absolutely necessary, and integral is used when talking about something that is important or necessary for completeness or wholeness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8cc1da05-187c-4a8f-b15c-589129dd2b91.webp"
+        },
+        "Fundamental": {
+            "wordRoot": "Fundamental",
+            "wordDefinition": "Fundamental refers to something that is basic or essential to understanding or functioning.\n\nIt describes the core principles or concepts of a subject, such as the fundamental laws of physics or the fundamental principles of democracy.\n\nTo summarize, fundamental refers to the core principles or concepts of a subject, while integral refers to the necessary parts or components of a larger system or entity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/600feace-98c4-4000-8328-2ba18f425170.webp"
+        },
+        "Indispensable": {
+            "wordRoot": "Indispensable",
+            "wordDefinition": "Indispensable means something that is absolutely necessary or cannot be done without. It implies that if that thing is missing, the whole process or event will come to a standstill.\n\nFor example, oxygen is indispensable for human survival.\n\nIn essence, indispensable is used when something is critical and cannot be done without, whereas integral implies a necessary component of a system, but not necessarily the end-all, be-all.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3b843e1-f6df-4cff-ace2-1ce2a5ee2470.webp"
+        },
+        "Intrinsic": {
+            "wordRoot": "Intrinsic",
+            "wordDefinition": "Integral means something that is essential or necessary for completeness, while intrinsic refers to something that is inherent or natural to a particular thing or situation.\n\nFor example, in a car, the engine is integral as it is necessary for the car to function properly, while the color of the car is intrinsic as it is a natural characteristic of the car itself.\n\nIntegral would be applicable when referring to something that is crucial or necessary, while intrinsic would be used when describing a characteristic that is inherent or natural to something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/18b84515-713a-4f3f-b4a2-a578d8ccfd55.webp"
+        },
+        "Necessary": {
+            "wordRoot": "Necessary",
+            "wordDefinition": "Integral means essential, fundamental or necessary for completeness. It means something is so important that without it, the whole plan or system will not work as it should.\n\nNecessary means something that is required or needed. It indicates that a specific thing must be done or acquired to achieve a particular goal or objective.\n\nFor example, wearing a seatbelt is necessary for safety while driving. Also, having the right qualifications is necessary to get a job.\n\nThe difference between the two words is that integral refers to something that is fundamental and essential for the completeness of a system, whereas necessary refers to something required or needed to achieve a goal or objective.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9349245-fd47-4952-9371-2c5bf615ba98.webp"
+        },
+        "Vital": {
+            "wordRoot": "Vital",
+            "wordDefinition": "Integral and vital are both words used to describe something that is very important or necessary, but they have slightly different meanings.\n\nVital refers to something that is absolutely necessary for the continuation of life or health.\n\nIt describes something that is essential for living beings. For example: \"Water is vital to all living creatures.\" In this example, the statement means that water is absolutely necessary for all living beings to survive and thrive.\n\nIntegral is used when describing something that is essential to the completeness of something larger, while vital is used when describing something that is absolutely necessary for life or health.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7c4c27c6-c077-4ba9-8084-0c93955d83e3.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " the Higgs boson is simply a particle which is an excitation of the everywhere-permeating Higgs field. The Higgs field in turn plays an integral role in our model for the weak nuclear force. In particular, the Higgs field helps explain why it's so weak. We'll talk more about this in a later video,",
+            "Title": "Paper towns and why...",
+            "VideoId": "NgDGlcxYrhQ",
+            "Controls": "start=731"
+        },
+        {
+            "Text": " or the well constructed plot of a novel conveyed through perfectly crafted sentences. Most importantly, the network of associations formed by ideasethesia may not only be similar to our linguistic network but may, in fact, be an integral part of it. Rather than the traditional view,",
+            "Title": "Ideasthesia: How do...",
+            "VideoId": "GIF2tssedLI",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " Security cameras are everywhere, but they do not alert us when a child is drowning in a swimming pool. Photos and videos are becoming an integral part of global life. They're being generated at a pace that's far beyond what any human, or teams of humans, could hope to view,",
+            "Title": "How we teach computers...",
+            "VideoId": "40riCqvRoMs",
+            "Controls": "start=115"
+        },
+        {
+            "Text": " Bees are very busy little matchmakers. Wingmen in every sense of the word. You see, the bees' side of the whole \"birds and the bees\" business is to help plants find mates and reproduce. In their work as pollinators, honeybees are integral to the production",
+            "Title": "How bees help plants...",
+            "VideoId": "Y5uRVv7GGQM",
+            "Controls": "start=9"
+        },
+        {
+            "Text": " in order to re-learn how to compose meaningful places, places that are integral, that allow -- that are living organisms in the sense that they contain all the organs of our civic life and our communal life, deployed in an integral fashion.",
+            "Title": "James Kunstler: How bad...",
+            "VideoId": "Q1ZeXnmDZMQ",
+            "Controls": "start=1008"
+        },
+        {
+            "Text": " a way of life and that music and culture an integral fabric of society there was a sense of history as a part of cultural expression in parallel to learning the music of the kora I was also studying the cello in western classical music for",
+            "Title": "Music as a refuge PIPE...",
+            "VideoId": "ttf_GRn_O-s",
+            "Controls": "start=152"
+        },
+        {
+            "Text": " are an integral part of temple life and their presence here is entwined in folklore they are said to have once been headless fallen from the cut hair of manjushri a religious figure associated with the creation of the valley where",
+            "Title": "Spend Some Time With The...",
+            "VideoId": "qpnqdnGjAM8",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " like the speed of light. Consistent measurements are such an integral part of our daily lives that it's hard to appreciate what a major accomplishment for humanity they've been. And just as it arose from a political revolution,",
+            "Title": "Why the metric system...",
+            "VideoId": "7bUVjJWA6Vw",
+            "Controls": "start=269"
+        },
+        {
+            "Text": " that this supported something integral to who I was. And I understand informed consent, so I fully expected to be reeducated on how it all worked, but At one point, the information being given to me started to feel agenda'd,",
+            "Title": "I don't want children --...",
+            "VideoId": "A_xXC37CDSw",
+            "Controls": "start=377"
+        },
+        {
+            "Text": " ocean they're an integral part of the world's hydrological cycle and while some are protected from development most are not which can put them at risk that's a big deal",
+            "Title": "Canada's Wild Rivers -...",
+            "VideoId": "lTDsN6PGT2c",
+            "Controls": "start=87"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kiran-bedi.webp",
+            "Text": "Policing is an integral part of governance. It is a whole, but it is also a part of the larger whole. Just like a human organ like the head, it's got intelligence, stamina, strategy and surveillance. But it cannot function independently in the absence of other life-sustaining organs.",
+            "Title": "Indian Activist",
+            "Name": "Kiran Bedi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ncuti-gatwa.webp",
+            "Text": "Make-up are the first people the actors go to on set every day - they see you at your most vulnerable. Then they paint the character on you, they're integral to that transformation. It's such an intimate art form that you develop a really close relationship with your make-up artist.",
+            "Title": "",
+            "Name": "Ncuti Gatwa"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nazanin-boniadi.webp",
+            "Text": "As an actress, I value and rely on peaceful self-expression, not only in my daily life, but also in my professional work. This is particularly true, as my commitment to the promotion of human rights is an integral part of my calling as an artist.",
+            "Title": "British Actress",
+            "Name": "Nazanin Boniadi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/greig-fraser.webp",
+            "Text": "I'm a firm believer, and some people may disagree, and I'm happy to have a beer with them and talk about it, but I believe that locations are such an integral character to the movie.",
+            "Title": "Australian Diplomat",
+            "Name": "Greig Fraser"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jacque-fresco.webp",
+            "Text": "The shape and solutions of the future rely totally on the collective effort of people working together. We are all an integral part of the web of life.",
+            "Title": "American Inventor",
+            "Name": "Jacque Fresco"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gordon-smith.webp",
+            "Text": "Broadcasting's best days lie ahead as both an engine of local economies and as an integral part of tomorrow's technological world.",
+            "Title": "American Politician",
+            "Name": "Gordon Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/xun-kuang.webp",
+            "Text": "Music is a fantastic peacekeeper of the world, it is integral to harmony, and it is a required fundamental of human emotion.",
+            "Title": "Chinese Philosopher",
+            "Name": "Xun Kuang"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jerry-harrison.webp",
+            "Text": "That said, everything's important, and every musician who plays on the record is an integral part of it.",
+            "Title": "American Musician",
+            "Name": "Jerry Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jon-hopkins.webp",
+            "Text": "Music has always been so integral to my life. It's always been my work and my passion.",
+            "Title": "English Musician",
+            "Name": "Jon Hopkins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kirti-kulhari.webp",
+            "Text": "Make-up is an integral part of my lifestyle because of the profession I'm in.",
+            "Title": "Indian Actress",
+            "Name": "Kirti Kulhari"
+        }
+    ]
+}

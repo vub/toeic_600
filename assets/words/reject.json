@@ -1,0 +1,325 @@
+{
+    "currentWord": {
+        "wordRoot": "reject",
+        "id": 21352,
+        "phonemic": "rɪˈdʒekt|rɪˈdʒekt\r",
+        "bigId": "7f6a6799-da28-4936-a9ba-c3fe5573a943",
+        "wordForms": [
+            "rejects",
+            "rejecting",
+            "rejected",
+            "reject"
+        ]
+    },
+    "senses": [
+        {
+            "id": "7f6a6799-da28-4936-a9ba-c3fe5573a943",
+            "de": "To say no to something or someone",
+            "ty": "verb",
+            "ex": "She rejected his marriage proposal.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reject a proposal",
+                " reject an offer",
+                " reject a suggestion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7f6a6799-da28-4936-a9ba-c3fe5573a943.webp",
+            "Tips": [
+                {
+                    "title": "Personal Decisions",
+                    "description": "Used when someone makes a personal choice to decline something.",
+                    "example": "He rejected the job offer after considering his family's needs.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/uhmSkOLvOS0hVRbnm9xRAj7DC2E.webp"
+                },
+                {
+                    "title": "Implicit Reason",
+                    "description": "Often implies there's a reason for saying no that may not be explicitly stated.",
+                    "example": "She rejected the invitation, hinting she was busy.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/eIPoqhlyHbb3DzL51Lw1xHSIm8.webp"
+                },
+                {
+                    "title": "Not Always Negative",
+                    "description": "Rejection might lead to a better situation or offer.",
+                    "example": "They felt relieved after rejecting the risky deal.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OYQSeYse8uGM12HqBcyYapwL60A.webp"
+                }
+            ]
+        },
+        {
+            "id": "5b05ce0a-45f6-4cca-8162-755ad93504e8",
+            "de": "To not accept because it is not good enough",
+            "ty": "verb",
+            "ex": "The university rejected her application due to low scores.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reject an application",
+                " reject a manuscript",
+                " reject a product"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5b05ce0a-45f6-4cca-8162-755ad93504e8.webp",
+            "Tips": [
+                {
+                    "title": "Quality Standards",
+                    "description": "Suggests something did not meet a required standard or expectation.",
+                    "example": "The editor rejected the article for its lack of depth.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Performance-Based",
+                    "description": "Often associated with academic or job applications where criteria are not met.",
+                    "example": "His poor performance led the team to reject his candidacy.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Opportunity for Growth",
+                    "description": "Rejection can imply a chance to improve and try again.",
+                    "example": "She improved her skills after her proposal was rejected.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e3c4cda4-727c-4a79-9b64-d3a692c0b90e",
+            "de": "Something or someone that is not accepted",
+            "ty": "noun",
+            "ex": "This shirt is a factory reject because of its misplaced buttons.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "factory reject",
+                " quality reject",
+                " goods reject"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e3c4cda4-727c-4a79-9b64-d3a692c0b90e.webp",
+            "Tips": [
+                {
+                    "title": "Faulty Items",
+                    "description": "Refers to items that fail quality checks and are not sold as first-hand goods.",
+                    "example": "Marked as a reject, the flawed toys were discounted.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Distinction in Use",
+                    "description": "Used more in commercial or industrial contexts to describe faulty goods.",
+                    "example": "The machine stamped the incorrect parts as rejects.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a2bea920-91c5-4d76-bd5b-2d254fa3788b",
+            "de": "In medicine, a body rejects a new organ when it attacks it because it looks like foreign tissue.",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "After the transplant, the patient's body started to reject the new kidney.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reject a transplant",
+                " organ rejection",
+                " body rejection"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a2bea920-91c5-4d76-bd5b-2d254fa3788b.webp",
+            "Tips": [
+                {
+                    "title": "Medical Specific",
+                    "description": "In medical contexts, it's about the body’s response to foreign entities.",
+                    "example": "Despite medication, her body began to reject the donor heart.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Immediate",
+                    "description": "Rejection in medical transplants may occur weeks or months after surgery.",
+                    "example": "The symptoms suggested a late-stage rejection of the implant.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Decline": {
+            "wordRoot": "Decline",
+            "wordDefinition": "Decline means to politely refuse or say no to something, usually due to a reason or circumstance. For example, if someone invites you to a party but you have to study for an exam, you can decline the invitation by saying \"Thank you for inviting me, but I have to study for an exam.\".\n\nDecline is used for politely turning down something due to a reason, while reject is used for forcefully refusing something you don't like or agree with.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1c70c0eb-0fa5-4e32-8c45-4f40c7dbddbb.webp"
+        },
+        "Deny": {
+            "wordRoot": "Deny",
+            "wordDefinition": "Deny means to refuse to admit the truth or existence of something, while reject means to refuse to accept something.\n\nFor example, if someone denies that they stole something, they are saying that they did not do it. Whereas if someone rejects a gift, they are declining to accept it.\n\nDeny can also be used in more serious situations, such as when a person denies committing a crime.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a422423f-59bc-4c1c-b6a8-acbbb7fdd9ae.webp"
+        },
+        "Dismiss": {
+            "wordRoot": "Dismiss",
+            "wordDefinition": "Dismiss means to reject or deny something or someone, but it can also mean to disregard or ignore something or someone.\n\nThe main difference between the two words is that dismiss can be used in a broader sense than reject, which is more specific to saying \"no\".",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f17ca330-a295-4aba-ad64-d5001e85cac8.webp"
+        },
+        "Neglect": {
+            "wordRoot": "Neglect",
+            "wordDefinition": "Neglect means to fail to care for or pay attention to someone or something properly. This is applicable when someone or something is not given the necessary attention it requires for it to function properly.\n\nFor example, if a plant is neglected, it will not be watered and cared for causing it to die.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/01767325-0750-45ac-884b-339c782f6033.webp"
+        },
+        "Refuse": {
+            "wordRoot": "Refuse",
+            "wordDefinition": "Refuse means to say no to something that is being offered or asked for. For example, if someone offers you a piece of cake and you don't want it, you can refuse it.\n\nTo summarize, refuse is used when you want to say no to something that you simply don't want or need, while reject is used when you want to say no to something that doesn't meet your standards or expectations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2af82455-c596-40d9-b90d-3d34df01fac7.webp"
+        },
+        "Repudiate": {
+            "wordRoot": "Repudiate",
+            "wordDefinition": "Repudiate means to deny or disown something that you previously accepted or supported. For instance, if you had previously endorsed a political candidate, but later learned about something unethical they did, you might repudiate your support and publicly announce your change of heart.\n\nReject is used to refuse something upfront, while repudiate is typically used when someone changes their mind about something they previously supported.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5c08b3f8-f6ae-43af-886b-a671e525a481.webp"
+        },
+        "Snub": {
+            "wordRoot": "Snub",
+            "wordDefinition": "Snub means to reject someone in a disrespectful or dismissive way, often through actions rather than words. For example, if you try to talk to someone at a party and they turn away from you and start talking to someone else, they are snubbing you.\n\nReject is a general term for refusing, while snub involves actively and disrespectfully rejecting someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/75e2919d-ebad-402e-a5e4-e5009fb12778.webp"
+        },
+        "Spurn": {
+            "wordRoot": "Spurn",
+            "wordDefinition": "Both reject and spurn mean to refuse or decline something, but spurn carries a stronger notion of disdain, disgust, or contempt.\n\nReject is more neutral and can imply a reasoned decision. For example, you can reject an offer to go to a party because you have to finish your homework, but you can spurn the advances of someone who you find repulsive or disrespectful.\n\nHence, reject is a more general term, while spurn implies rejection with a negative or insulting attitude.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b4aaa1d-c5a5-49e5-8fdd-575318c0da2b.webp"
+        },
+        "Turn down": {
+            "wordRoot": "Turn down",
+            "wordDefinition": "Turn down also means to refuse or say no to something, but it implies a gentler or more polite way of doing so.\n\nIt can be used in situations such as turning down an invitation, turning down a request, or turning down an offer that one is not interested in.\n\nTo put it simply, reject is a more direct and firm way of saying no, while turn down is a softer and more polite way of doing so.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bdd58ed7-6878-45af-8f02-1b64fe1cc095.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " you have to have a 99 percent match with the body that's receiving the kidney and that is very specific because the body, of course, could reject the kidney and then it could be quite damaging. So how the angler fish is able to accept this alien male invader, accept it in fuse with it and attach together whilst kind of protecting itself",
+            "Title": "Deep Sea Anglerfish Sex...",
+            "VideoId": "mHxNrcED4CY",
+            "Controls": "start=726"
+        },
+        {
+            "Text": " scientists have weighed in, as well. Many modern scientists reject the idea that there's any distinction between the mind and body. Neuroscience suggests that our bodies, along with their physical senses, are deeply integrated with the activity in our brains to form what we call consciousness.",
+            "Title": "Are you a body with a...",
+            "VideoId": "ILDy6kYU-xQ",
+            "Controls": "start=168"
+        },
+        {
+            "Text": " who I knew would never speak to me again -- people whose thoughts and opinions had meant everything to me. And I wanted to hide from the world I'd rejected for so long -- people who had no reason at all to give me a second chance after a lifetime of antagonism. And yet, unbelievably, they did.",
+            "Title": "I grew up in the...",
+            "VideoId": "bVV2Zk88beY",
+            "Controls": "start=280"
+        },
+        {
+            "Text": " explore the galaxy rejects and neglects the home that we have here now so no that cannot be wisdom wisdom is different while intelligence speaks wisdom listens and we willingly covered our ears to mother nature screams and closed our eyes to all of her help",
+            "Title": "His Epic Message Will...",
+            "VideoId": "B-nEYsyRlYo",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " and electroconvulsive therapy, which works like a carefully controlled seizure in the brain, is sometimes used as an emergency treatment. Some bipolar patients reject treatment because they're afraid it will dim their emotions and destroy their creativity.",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=265"
+        },
+        {
+            "Text": " and very human. But there is something magical about them. Some have a miraculous birth and then are separated from their family. Others use enchanted swords or get help from magical beans. They could also reject the expectations of society",
+            "Title": "A host of heroes - April...",
+            "VideoId": "_p9Q8Dj3X2c",
+            "Controls": "start=192"
+        },
+        {
+            "Text": " finding the correct one is a matter of life and death. If someone with type A blood is given type B blood, or vice versa, their antibodies will reject the foreign antigens and attack them, potentially causing the transfused blood to clot.",
+            "Title": "Why do blood types...",
+            "VideoId": "xfZhb6lmxjk",
+            "Controls": "start=143"
+        },
+        {
+            "Text": " we keep complaining about this world but who's going to change it I mean you keep criticizing my generation forgetting who raised it you either accept us or you reject us but there's no way you're ever going to",
+            "Title": "An ode to the millennial...",
+            "VideoId": "AoUkqNvZQeM",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " After my limbs were gone, that loss, for example, became fact, fixed -- necessarily part of my life, and I learned that I could no more reject this fact than reject myself.",
+            "Title": "What really matters at...",
+            "VideoId": "apbSsILLh28",
+            "Controls": "start=246"
+        },
+        {
+            "Text": " and have accepted some while rejecting others. We are continuing to refine, amend, and edit his ideas which have become foundations of the modern world.",
+            "Title": "Plato’s best (and worst)...",
+            "VideoId": "jLesc5lITvo",
+            "Controls": "start=260"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/iskra-lawrence.webp",
+            "Text": "I spent so many years being repeatedly rejected and told I wasn't good enough. It took a huge toll on my self-esteem until I realized I am more than my body and that, actually, our beauty comes from diversity.",
+            "Title": "English Model",
+            "Name": "Iskra Lawrence"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jaideep-ahlawat.webp",
+            "Text": "In my journey, I got amazing characters to play which were as interesting as a lead role. In 'Commando,' my role was so good. I feel no actor have rejected that kind of a role.",
+            "Title": "Indian Actor",
+            "Name": "Jaideep Ahlawat"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/swami-vivekananda.webp",
+            "Text": "The whole secret of existence is to have no fear. Never fear what will become of you, depend on no one. Only the moment you reject all help are you freed.",
+            "Title": "Indian Clergyman",
+            "Name": "Swami Vivekananda"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fabrizio-moreira.webp",
+            "Text": "Social media has changed our lives forever. Some continue to reject social media, refusing to become one of the sheep, but you just can't avoid it.",
+            "Title": "Ecuadorian Politician",
+            "Name": "Fabrizio Moreira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gad-saad.webp",
+            "Text": "Everyone has the right to practice their religious beliefs in private but expect that people might publicly reject said beliefs.",
+            "Title": "Canadian Scientist",
+            "Name": "Gad Saad"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/clarence-thomas.webp",
+            "Text": "The thing that bothered me when I was in college was that I saw myself rejecting the way of life that got me to where I was.",
+            "Title": "American Judge",
+            "Name": "Clarence Thomas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katharine-elizabeth-fullerton-gerould.webp",
+            "Text": "Civilization is merely an advance in taste: accepting, all the time, nicer things, and rejecting nasty ones.",
+            "Title": "American Writer",
+            "Name": "Katharine Elizabeth Fullerton Gerould"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/felix-frankfurter.webp",
+            "Text": "Wisdom too often never comes, and so one ought not to reject it merely because it comes late.",
+            "Title": "American Judge",
+            "Name": "Felix Frankfurter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/havelock-ellis.webp",
+            "Text": "Pain and death are part of life. To reject them is to reject life itself.",
+            "Title": "British Psychologist",
+            "Name": "Havelock Ellis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rabih-alameddine.webp",
+            "Text": "When I wrote my first book, 'Koolaids,' I felt rejected and not wanted.",
+            "Title": "Lebanese Artist",
+            "Name": "Rabih Alameddine"
+        }
+    ]
+}

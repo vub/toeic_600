@@ -1,0 +1,338 @@
+{
+    "currentWord": {
+        "wordRoot": "item",
+        "id": 5862,
+        "phonemic": "ˈaɪtəm|ˈaɪtəm\r",
+        "bigId": "e249a45f-10c4-466c-86d7-6b35f9477096",
+        "wordForms": [
+            "items",
+            "item"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e249a45f-10c4-466c-86d7-6b35f9477096",
+            "de": "A single thing or article",
+            "ty": "noun",
+            "ex": "She gave me a list of items to buy from the grocery store.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "an item of",
+                " list of items",
+                " item in the"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e249a45f-10c4-466c-86d7-6b35f9477096.webp",
+            "Tips": [
+                {
+                    "title": "Physical Objects",
+                    "description": "Refers to physical items you can touch, often found in lists for shopping or tasks.",
+                    "example": "Please add another item to the package.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qeKUggd6qvqSwlHojWEnjoxFyMg.webp"
+                },
+                {
+                    "title": "Not People",
+                    "description": "'Item' shouldn't be used to refer to people, except in specific idiomatic expressions.",
+                    "example": "The wedding registry includes many kitchen items.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RJ2Epbbq8Qlygy3XpnpCubRXWY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5c53dd33-13e2-4756-80d2-399c4863d3fd",
+            "de": "A single piece of news or information",
+            "ty": "noun",
+            "ex": "The next item on the news is about the new tax law.",
+            "use": "",
+            "co": "Journalistic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "news item",
+                " item of news"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5c53dd33-13e2-4756-80d2-399c4863d3fd.webp",
+            "Tips": [
+                {
+                    "title": "News Context",
+                    "description": "In journalism, 'item' often relates to short pieces of news or articles.",
+                    "example": "Did you read the item about the election?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Opinions",
+                    "description": "News items should be factual reports, not opinion pieces or editorials.",
+                    "example": "The bulletin will cover several items on local updates.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "01fb0acf-005e-459e-a8c6-775af42a59bc",
+            "de": "A single point on an agenda or list",
+            "ty": "noun",
+            "ex": "Moving on to the next item on our meeting agenda...",
+            "use": "",
+            "co": "Professional",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "agenda item",
+                " item line",
+                " item of business"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/01fb0acf-005e-459e-a8c6-775af42a59bc.webp",
+            "Tips": [
+                {
+                    "title": "Meeting Agendas",
+                    "description": "In meetings, 'item' usually refers to specific points discussed, often listed in order.",
+                    "example": "Let's address each agenda item one by one.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Casual Speech",
+                    "description": "Using 'item' in a professional context implies formality and structured discussion.",
+                    "example": "We have three new items of business today.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "62a0830d-672f-4050-a8ed-91e253ecf0fb",
+            "de": "A object for sale",
+            "do": "Commerce",
+            "ty": "noun",
+            "ex": "This item is the best seller in our store.",
+            "use": "",
+            "co": "Sales",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sale item",
+                " item in stock",
+                " line item"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/62a0830d-672f-4050-a8ed-91e253ecf0fb.webp",
+            "Tips": [
+                {
+                    "title": "Commercial Goods",
+                    "description": "Refers to products or merchandise in a store or offered for sale online.",
+                    "example": "That clearance item is almost sold out.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Item Availability",
+                    "description": "Expresses whether something is in stock or part of the current sales offering.",
+                    "example": "Is this item still available for purchase?",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9d5252a0-7de0-472c-ab08-a6c145f4e825",
+            "de": "A person with whom one is having a romantic relationship",
+            "ty": "noun",
+            "ex": "The two actors are an item now.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "re": "Informal, Neutral",
+            "tp": "",
+            "cl": [
+                "be an item",
+                " seen as an item"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9d5252a0-7de0-472c-ab08-a6c145f4e825.webp",
+            "Tips": [
+                {
+                    "title": "Romantic Pair",
+                    "description": "Colloquially, 'item' can describe two people in a romantic relationship.",
+                    "example": "I didn't realize they became an item last summer.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Informal Term",
+                    "description": "Use 'an item' to talk about couples in a light, informal way, not in formal writing.",
+                    "example": "Everyone knows they're an item; they're always together.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Article": {
+            "wordRoot": "Article",
+            "wordDefinition": "An article is a written piece that provides information about a particular topic or subject.\n\nIt can be found in a newspaper, magazine, or online. Articles are usually longer than an item and are written by journalists or experts in a particular field.\n\nAn article is a written piece of information about a specific topic, while an item refers to a physical or non-physical object.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24bc00eb-0fe4-4d33-aeb8-73141e68a03d.webp"
+        },
+        "Component": {
+            "wordRoot": "Component",
+            "wordDefinition": "Component refers to a part or element that is essential to a larger whole. It is commonly used in the context of technology and engineering, such as the components of a computer or a car engine.\n\nComponent refers to a part of a larger system, while item refers to an individual object or thing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/12249d61-881b-408a-bdda-2273a370f660.webp"
+        },
+        "Element": {
+            "wordRoot": "Element",
+            "wordDefinition": "Element refers to a fundamental part or component of something.\n\nFor example, in chemistry, oxygen is an element. In programming or computer science, an element could refer to a basic building block of software or code.\n\nElement is applicable in scientific or technical contexts where fundamental components need to be identified or analyzed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0ea94ed-afca-4058-8180-39880e6a6b68.webp"
+        },
+        "Entity": {
+            "wordRoot": "Entity",
+            "wordDefinition": "An entity is a thing or a being, whether it is abstract or concrete. It refers to something that exists in its own right and can be identified as a unique individual.\n\nFor example, a person, a company, or a country can all be entities. If I am talking about an object with a specific identity, I would use the word \"entity.\".\n\nSo, in general, when you want to refer to a specific individual or single thing, you would use the word entity, and when you want to refer to a specific object or thing among many, you would use the word \"item.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/07303d87-dbe1-4db6-9571-47ac41803e42.webp"
+        },
+        "Object": {
+            "wordRoot": "Object",
+            "wordDefinition": "The words item and object can be similar in meaning, but they are used in different contexts.\n\nObject is a more general term that refers to a tangible thing with physical properties. It could be something like a chair, book or car.\n\nObjects can be touched, felt, and possessed. They are usually considered as individual entities that exist on their own.\n\nSo to simplify, item is a specific thing in a group or list, while object is a general term used to describe a physical thing that can be seen and touched.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8fb143ea-057d-4cc5-8f41-8f48047940f3.webp"
+        },
+        "Piece": {
+            "wordRoot": "Piece",
+            "wordDefinition": "Piece generally refers to a single unit that may make up a larger whole. For instance, a puzzle might be made up of several different pieces that fit together to create the completed picture.\n\nSimilarly, a cake can be divided into several pieces to be shared among a group of people.\n\nItem is a more general term for any individual thing, while piece usually pertains to a single component of a larger thing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a097931-773d-4303-b79e-617a50b0d9ae.webp"
+        },
+        "Thing": {
+            "wordRoot": "Thing",
+            "wordDefinition": "Item refers to a specific thing that has a name or a label. For example, a pencil, a phone, or a book. It usually implies that the thing is important or has value.\n\nThing is a more general term that can refer to any object, idea, or phenomenon. It is less specific than item and doesn't necessarily have a name or a label.\n\nItem is a more specific and formal term that refers to things with names, while thing is a more general and informal term that refers to anything.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e2d79319-f3e5-475b-9f90-433503f1370a.webp"
+        },
+        "Unit": {
+            "wordRoot": "Unit",
+            "wordDefinition": "Item refers to a specific thing, while the word unit refers to a quantity or measurement.\n\nIf you're measuring how much of something you have, you might use the word unit. For example, if you have a recipe that calls for two cups of flour, 'cup' is the unit of measurement.\n\nSo in general, item is more commonly used when referring to individual objects or things, while unit is more often used when referring to a specific quantity or measurement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46d8749b-f1aa-4226-ab9f-ad37d0831ed5.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And anybody that has access to an electronic device could potentially participate in the illegal wildlife trade, because if there are items being offered for sale, then it's as simple as clicking on buy and then they've participated in the trade. It's something that we are very mindful of. We are just scratching the surface, really.",
+            "Title": "Inside the Dead Shed PIPE...",
+            "VideoId": "WQ2MJAuYe4E",
+            "Controls": "start=116"
+        },
+        {
+            "Text": " collaborating with them sharing items really working together vetting content to make the best test prep available and this won't just be your classic test prep this will not just be how to game the exam how to guess appropriately test taking strategies it's really about state of the art tools for deep practice",
+            "Title": "The Khan Academy PIPE...",
+            "VideoId": "rDF84DMMx7w",
+            "Controls": "start=322"
+        },
+        {
+            "Text": " At the Passover meal, every item on the menu symbolizes an aspect of the escape from slavery. The importance of growing up is emphasized when young people reach the age of bar and bat mitzvah, ceremonies during which they assume responsibility for their actions and celebrate the weaving of their own lives",
+            "Title": "The five major world...",
+            "VideoId": "m6dCxo7t_aE",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " While social media has enabled the truth to reach us faster, it's also allowed rumors to spread before they can be verified and falsehoods to survive long after they've been refuted. So, before you share that unbelievable or outrageous news item, do a web search to find any additional",
+            "Title": "How to choose your news...",
+            "VideoId": "q-Y-z6HmRgI",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " and what life was like millennia ago. So what exactly can we find? At shallow depths mingled in with modern-day items, we've discovered all sorts of ancient artifacts. This zone contains evidence of how our ancestors fished, how they repaired their ships, disposed of their trash,",
+            "Title": "How much of human...",
+            "VideoId": "kSBB5PsRV-k",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " is said to have come up with the first compound microscope, along with the first telescope. Both claims are often disputed, as apparently he wasn't the only bored guy with a ton of glass lenses to play with at the time. Despite this, the microscope soon became a hot item",
+            "Title": "The wacky history of...",
+            "VideoId": "4OpBylwH9DU",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " Your partitions could end up lopsided, saving no time at all. Luckily, this rarely happens. That's why QuickSort is one of the most efficient strategies used by programmers today. They use it for things like sorting items in an online store by price,",
+            "Title": "What's the fastest way...",
+            "VideoId": "WaNLJf8xzC4",
+            "Controls": "start=233"
+        },
+        {
+            "Text": " Did you ever stop to think about how those items of inventory actually found their way inside that box in the warehouse? So I'm here to tell you it's that guy right there. So deep in the middle of that picture, you see a classic pick-pack worker",
+            "Title": "Mick Mountz: What...",
+            "VideoId": "9UiK4llJOXc",
+            "Controls": "start=67"
+        },
+        {
+            "Text": " pyramids at giza and underground mausoleums in the valley of the kings rulers filled their tombs with all the items they could need in the afterlife including gold jewelry food drink and even pets",
+            "Title": "Ancient Egypt 101 PIPE...",
+            "VideoId": "hO1tzmi1V5g",
+            "Controls": "start=114"
+        },
+        {
+            "Text": " making it one of the most common garments in the world. But how and where is the average t-shirt made, and what's its environmental impact? Clothing items can vary a lot,",
+            "Title": "The life cycle of a...",
+            "VideoId": "BiSYoeqb_VY",
+            "Controls": "start=12"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alexa-von-tobel.webp",
+            "Text": "Bring your kids along next time you go to the grocery store and ask them to help find the price per unit for the general grocery items. By comparing brands and looking for the best prices, kids will get in the habit of looking for deals and understand the value of the dollar.",
+            "Title": "American Businesswoman",
+            "Name": "Alexa Von Tobel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/poppy-delevingne.webp",
+            "Text": "I like my social media space to be somewhere very positive... I like to just be able to just share any images they see, or a piece of art or an item of clothing, and get to share that with the world.",
+            "Title": "English Model",
+            "Name": "Poppy Delevingne"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jenny-packham.webp",
+            "Text": "I have always loved to create pieces that are special, unique. It's very important to me that the dress means something to someone. I've no real interest in making something that's an everyday item.",
+            "Title": "British Designer",
+            "Name": "Jenny Packham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jessica-mulroney.webp",
+            "Text": "Sometimes all you need is that onetime break and it'll change your life. If you get your item on a celebrity, that's almost like the top of the top - a new way of creating business.",
+            "Title": "Canadian Entertainer",
+            "Name": "Jessica Mulroney"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/coco-rocha.webp",
+            "Text": "I think it's important to wear clothing that means something to you, and so I always try to make sure I'm wearing at least one item that has a personal meaning to me.",
+            "Title": "Canadian Model",
+            "Name": "Coco Rocha"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mackenzie-davis.webp",
+            "Text": "I fall in love with something and wear it every day until it's destroyed. My most treasured items have a very short shelf life because I love them too much.",
+            "Title": "Canadian Actress",
+            "Name": "Mackenzie Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-harrison.webp",
+            "Text": "People come from all over the world to be on the show, and it still works because of all the interesting items coming in.",
+            "Title": "American Businessman",
+            "Name": "Rick Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dustin-hoffman.webp",
+            "Text": "The two basic items necessary to sustain life are sunshine and coconut milk.",
+            "Title": "American Actor",
+            "Name": "Dustin Hoffman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/phil-crosby.webp",
+            "Text": "In a true zero-defects approach, there are no unimportant items.",
+            "Title": "American Businessman",
+            "Name": "Phil Crosby"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/candice-olson.webp",
+            "Text": "In tight quarters, it's important to choose small-scale items.",
+            "Title": "Canadian Designer",
+            "Name": "Candice Olson"
+        }
+    ]
+}

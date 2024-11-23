@@ -1,0 +1,311 @@
+{
+    "currentWord": {
+        "wordRoot": "destination",
+        "id": 12969,
+        "phonemic": "ˌdestɪˈneɪʃn|ˌdestɪˈneɪʃn\r",
+        "bigId": "ad3212a0-071d-4c87-998b-753ed93d30c8",
+        "wordForms": [
+            "destinations",
+            "destination"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ad3212a0-071d-4c87-998b-753ed93d30c8",
+            "de": "The place where someone is going or something is being sent or taken to",
+            "ty": "noun",
+            "ex": "Paris is a popular tourist destination.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "final destination",
+                " travel destination",
+                " dream destination"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ad3212a0-071d-4c87-998b-753ed93d30c8.webp",
+            "Tips": [
+                {
+                    "title": "Physical Places",
+                    "description": "Destination often refers to a physical place you plan to visit.",
+                    "example": "My destination for summer vacation is Greece.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/sz0uA4Euz6vh9I0MqEvKYwegYqY.webp"
+                },
+                {
+                    "title": "Travel Context",
+                    "description": "Commonly used in travel contexts, including holidays, exploring, or moving.",
+                    "example": "When booking flights, ensure your destination is correct.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/K9CVzTa7JmG7AHaCviNiHayT0.webp"
+                },
+                {
+                    "title": "Not Always a City",
+                    "description": "Destination doesn't always mean a city or country; it could be a landmark or establishment.",
+                    "example": "The museum is our main destination today.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/C0AYp3hsmAEAVpVlSAfsWY8Ihk.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "bc828195-970d-45e2-9b4c-001e1b27288b",
+            "de": "The purpose for which something is destined.",
+            "ty": "noun",
+            "ex": "He believes that his destination is to become a famous singer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "predestined destination",
+                " life's destination",
+                " spiritual destination"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bc828195-970d-45e2-9b4c-001e1b27288b.webp",
+            "Tips": [
+                {
+                    "title": "Future Purpose",
+                    "description": "Here, 'destination' implies a determined purpose or calling in someone's future.",
+                    "example": "He feels his destination is in humanitarian work.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Intangible Concept",
+                    "description": "Can refer to intangible concepts, like a state of being or fulfillment.",
+                    "example": "Inner peace was her lifelong destination.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Aspiration",
+                    "description": "Used to speak about someone's personal aspirations or dreams.",
+                    "example": "Becoming a painter is his desired destination.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "53be30b4-e675-42bd-b034-1947ec3fc9c3",
+            "de": "A place where a particular action or activity happens.",
+            "ty": "noun",
+            "ex": "The park had become a favorite destination for joggers.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "holiday destination",
+                " favorite destination",
+                " top destination"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/53be30b4-e675-42bd-b034-1947ec3fc9c3.webp",
+            "Tips": [
+                {
+                    "title": "Activity Location",
+                    "description": "Refers to a place primarily known for a specific activity or event.",
+                    "example": "The beach is a popular destination for surfing.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Social Gathering",
+                    "description": "Often used to describe where people gather socially, like bars or festivals.",
+                    "example": "That café is a destination for local artists.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "baa51525-973d-4834-87c1-798c2cb29791",
+            "de": "A value to which a math function converges",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "In calculus, the limit of a sequence is the destination of the sequence as the number of terms goes to infinity",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/baa51525-973d-4834-87c1-798c2cb29791.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical Concept",
+                    "description": "In math, 'destination' suggests a final value or item that a function approaches.",
+                    "example": "The curve approaches zero as its destination.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Abstract Destination",
+                    "description": "'Destination' can symbolize an abstract end point in a mathematical process.",
+                    "example": "In this equation, what is the destination of x as y increases?",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Aim": {
+            "wordRoot": "Aim",
+            "wordDefinition": "Aim refers to a goal or objective that you set for yourself, while destination refers to the place or point that you are traveling to.\n\nFor example, if you want to become a doctor, your aim is to complete medical school and become a licensed physician.\n\nAim is generally used when referring to personal goals or ambitions, while destination is used when referring to physical locations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/891d8ab4-bc85-4fb0-ae8d-381a53c78695.webp"
+        },
+        "Goal": {
+            "wordRoot": "Goal",
+            "wordDefinition": "Goal refers to something that you want to achieve or accomplish. For example, if your goal is to learn how to play the piano, then that is what you are working towards.\n\nGoal can be used in various areas of life such as personal development, education, career, and sports.\n\nTo summarize, destination and goal have different meanings and applications. Destination refers to a physical place while goal refers to something that you want to achieve.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ab84e0a1-951d-4015-9f89-43a54f86c736.webp"
+        },
+        "Intention": {
+            "wordRoot": "Intention",
+            "wordDefinition": "Destination refers to the place or location that a person is traveling to, while intention refers to the purpose or aim behind the action.\n\nHowever, their intention for traveling to Paris may be to experience the culture, see famous landmarks, or visit family and friends.\n\nDestination is applicable when referring to physical locations, such as traveling or directions. Intention is applicable when referring to the goal or purpose behind an action, such as studying for a test, starting a new job, or making a purchase.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20a8cdb5-100f-495b-8e63-35a896a5607e.webp"
+        },
+        "Objective": {
+            "wordRoot": "Objective",
+            "wordDefinition": "Destination refers to the place where you want to go, while objective refers to the purpose or goal of going to that place.\n\nFor example, if you are going on a vacation, your destination might be a tropical island, but your objective might be to relax and recharge after a stressful period of work or school.\n\nAlternatively, if you are going to a job interview, your destination might be the office building, but your objective might be to impress the interviewer and secure the job.\n\nEssentially, destination is the physical location you are aiming to reach, while objective is the reason behind your journey.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78825159-4234-453b-a9f4-31dbd1aebe44.webp"
+        },
+        "Purpose": {
+            "wordRoot": "Purpose",
+            "wordDefinition": "Purpose refers to the reason why you're doing something. It's the goal or intention behind your action. For instance, the purpose of a vacation might be to relax or to explore a new culture.\n\nDestination is about the location, while purpose is about the motive. Both terms can be used in different contexts, but they have distinct meanings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d14dda9b-9f3a-4545-bd11-8a9b348d08bb.webp"
+        },
+        "Target": {
+            "wordRoot": "Target",
+            "wordDefinition": "Destination refers to the place where someone or something is going or being sent, while target refers to a specific goal or objective.\n\nIf you are setting a goal for yourself, that goal is your target.\n\nDestination is more commonly used in the context of travel or transportation, while target is more often used in the context of setting and achieving goals.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a204fb43-2e7d-4607-8c95-e1f5bebddcb2.webp"
+        },
+        "Terminus": {
+            "wordRoot": "Terminus",
+            "wordDefinition": "Both destination and terminus refer to the end point of a journey, but destination is a more general term that can refer to any place someone is traveling to, while terminus is generally used to describe the final stop on a specific route, such as a train or bus route.\n\nIf you instead say that your terminus is the Los Angeles Union Station, that means you are taking a specific train or bus route that ends at that station.\n\nDestination is a broader term that refers to the end point of any journey, while terminus specifically refers to the end point of a particular route.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/84de82fb-c630-4782-a362-faf9de09e33c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " blue skies, warm tropical beaches, and a tan that lasts all year long. I mean, to me, this was it. Life could not get any better. Sweating it out, shooting surfers in these exotic tourist destinations. But there was just this one problem. You see, the more time I spent traveling to these exotic locations,",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=179"
+        },
+        {
+            "Text": " The brain has to juggle a sea of thousands of electrical signals getting them all to their destination at precisely the right time. When you look at an object, thousands of neurons in your posterior cortex fire. These neurons encode various characteristics of the",
+            "Title": "The science of...",
+            "VideoId": "e7uXAlXdTe4",
+            "Controls": "start=47"
+        },
+        {
+            "Text": " But these lipids have been specially engineered to protect the mRNA on its journey through the body and assist its entry into the cell. Lastly, the final ingredients are sugars and salt to help keep the nanoparticles intact until they reach their destination.",
+            "Title": "How the COVID-19...",
+            "VideoId": "v-NEr3KCug8",
+            "Controls": "start=106"
+        },
+        {
+            "Text": " Currently, we land on a separate pad, or we land out on a boat. Fast, quick connect. You take a cargo ship full of fuel, or a fuel depot, put it on that booster, get that in orbit, do a docking maneuver, refuel the spaceship, and head on to your destination,",
+            "Title": "SpaceX's plan to fly you...",
+            "VideoId": "Dar8P3r7GYA",
+            "Controls": "start=1107"
+        },
+        {
+            "Text": " They know each other. The street perimeter has shops so there's local destinations. And the streets themselves become smaller, because there are more of them. Very simple, straightforward urban design. Now, here you have something I dearly love.",
+            "Title": "7 principles for...",
+            "VideoId": "IFjD3NMv6Kw",
+            "Controls": "start=527"
+        },
+        {
+            "Text": " no one except those on board could know his destination in advance this mission the president wanted to be completely secret I think probably in the end there was probably maybe five of us that had a really good idea of what was going to happen",
+            "Title": "Bush's Secret Visit to...",
+            "VideoId": "9we7Yx-z8C0",
+            "Controls": "start=11"
+        },
+        {
+            "Text": " which must be paid when they arrive at their destination within the city. The tax begins at zero, increases by two silver for every block you walk east, and doubles for every block you walk south. However, a recent reform to make the tax fairer",
+            "Title": "Can you solve the...",
+            "VideoId": "6sBB-gRhfjE",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " some days our little volunteer team would reach our intended destination to spread the word about the importance of early breast cancer detection but a lot of times we wouldn't and it was during one of these community visits where we were",
+            "Title": "Building bridges and...",
+            "VideoId": "6Sr0qQlK2g4",
+            "Controls": "start=211"
+        },
+        {
+            "Text": " Once navigators neared their destination, other clues, such as the flight patterns of birds, floating debris or vegetation, and types of fish in the area helped determine the proximity of land.",
+            "Title": "How did Polynesian...",
+            "VideoId": "m8bDCaPhOek",
+            "Controls": "start=236"
+        },
+        {
+            "Text": " filmmakers the Galapagos is a once-in-a-lifetime destination and there is a lot to see like these curious Galapagus fur seals",
+            "Title": "Iguana vs Snakes 360° PIPE...",
+            "VideoId": "Zah5lZrdVcc",
+            "Controls": "start=183"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/greg-davies.webp",
+            "Text": "Every time I travel, I'm in a rage until I reach my destination. I find myself shouting at suitcases, as if it's their fault that I'm an inefficient packer. I've also learnt that whenever you despair of humanity and start thinking that you hate people - as I frequently do - you only have to travel to realise that people are basically all right.",
+            "Title": "British Comedian",
+            "Name": "Greg Davies"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-jobs.webp",
+            "Text": "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet death is the destination we all share. No one has ever escaped it. And that is as it should be, because Death is very likely the single best invention of Life. It is Life's change agent. It clears out the old to make way for the new.",
+            "Title": "American Businessman",
+            "Name": "Steve Jobs"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmy-barnes.webp",
+            "Text": "Success isn't about reaching your goals; it's about striving for things, like the joy of trying to raise a family, trying to be a successful singer, trying to write good songs, trying to be a better person. It's that old thing about life being about the journey, not the destination.",
+            "Title": "Scottish Musician",
+            "Name": "Jimmy Barnes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rory-maclean.webp",
+            "Text": "Good travel books, like travel itself, open the door to new worlds. In the strongest works the author's vision becomes our own, especially if his or her subject is a distant destination.",
+            "Title": "Canadian Historian",
+            "Name": "Rory MacLean"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stacey-snider.webp",
+            "Text": "You can't do everything, at the same time, always, and forever. But if you look at your life and your career as a long, winding river, you can get to your destination.",
+            "Title": "American Businesswoman",
+            "Name": "Stacey Snider"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-cousins.webp",
+            "Text": "The capacity for hope is the most significant fact of life. It provides human beings with a sense of destination and the energy to get started.",
+            "Title": "American Author",
+            "Name": "Norman Cousins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grace-poe.webp",
+            "Text": "Even if we do not walk together on the straight path, as long as we have the same destination, that is what's important.",
+            "Title": "Filipino Businesswoman",
+            "Name": "Grace Poe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arthur-ashe.webp",
+            "Text": "Success is a journey, not a destination. The doing is often more important than the outcome.",
+            "Title": "American Tennis Player",
+            "Name": "Arthur Ashe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/n-chandrababu-naidu.webp",
+            "Text": "Amaravati will be a world-class capital. It will be a health and tourist destination.",
+            "Title": "Indian Politician",
+            "Name": "N. Chandrababu Naidu"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-j-clinton.webp",
+            "Text": "Character is a journey, not a destination.",
+            "Title": "American President",
+            "Name": "William J. Clinton"
+        }
+    ]
+}

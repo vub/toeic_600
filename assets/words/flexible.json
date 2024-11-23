@@ -1,0 +1,330 @@
+{
+    "currentWord": {
+        "wordRoot": "flexible",
+        "id": 11148,
+        "phonemic": "ˈfleksəbl|ˈfleksəbl\r",
+        "bigId": "3beb1b48-ca7c-42b4-9b7c-b397b34a4db6",
+        "wordForms": [
+            "flexibly",
+            "flexible"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3beb1b48-ca7c-42b4-9b7c-b397b34a4db6",
+            "de": "Ability to bend easily without breaking",
+            "ty": "adjective",
+            "ex": "The gymnast is flexible enough to touch her toes without bending her knees.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flexible material",
+                " flexible body",
+                " flexible structure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3beb1b48-ca7c-42b4-9b7c-b397b34a4db6.webp",
+            "Tips": [
+                {
+                    "title": "Physical Context",
+                    "description": "Use 'flexible' for describing physical traits emphasizing ease and grace in movement.",
+                    "example": "My yoga teacher is so flexible, she can do complex poses with ease.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/61g4ZzrTAOHVq3lye2LkU4DVo.webp"
+                },
+                {
+                    "title": "Not Fragile",
+                    "description": "'Flexible' implies strength as well as softness; it doesn't mean something is weak.",
+                    "example": "Rubber bands are flexible yet strong enough to hold things together.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/i8H7vT2i6vqLPBLGq2nZakLKs.webp"
+                }
+            ]
+        },
+        {
+            "id": "a4d86164-a9ef-43ab-8e34-8bbfbff9fcfd",
+            "de": "Ready and able to change so as to adapt to different circumstances",
+            "ty": "adjective",
+            "ex": "You need to be flexible to work in a dynamic and fast-paced environment.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flexible approach",
+                " flexible schedule",
+                " flexible working hours"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a4d86164-a9ef-43ab-8e34-8bbfbff9fcfd.webp",
+            "Tips": [
+                {
+                    "title": "Willingness to Change",
+                    "description": "'Flexible' in this sense is positive, suggesting someone can adapt willingly to changes.",
+                    "example": "Despite the sudden rain, her flexible attitude allowed us to still have fun.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Work Environment",
+                    "description": "In job descriptions, 'flexible' often means you might have to work unusual or changing hours.",
+                    "example": "The job requires a flexible person who can work nights and weekends when needed.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "aac3df24-a392-4f5a-835f-3d6569632568",
+            "de": "Capable of many uses",
+            "ty": "adjective",
+            "ex": "A kitchen knife is a flexible tool that can be used for chopping, slicing, and dicing.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flexible tool",
+                " flexible software",
+                " flexible design"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/aac3df24-a392-4f5a-835f-3d6569632568.webp",
+            "Tips": [
+                {
+                    "title": "Utility and Function",
+                    "description": "'Flexible' can describe something practical for various needs or purposes.",
+                    "example": "My phone's flexible case also serves as a stand for watching videos.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a97d3759-7661-415f-9a8b-77e4c133d376",
+            "de": "Availability to change plans",
+            "ty": "adjective",
+            "ex": "Our vacation plans are flexible, we can change them if we find a better deal.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flexible plan",
+                " flexible reservation",
+                " flexible arrangement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a97d3759-7661-415f-9a8b-77e4c133d376.webp",
+            "Tips": [
+                {
+                    "title": "Plan Adjustments",
+                    "description": "Using 'flexible' for plans suggests they can be changed with little hassle or stress.",
+                    "example": "We kept our weekend plans flexible so we could join if the weather was good.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "64ace653-0e83-47dc-8e90-6e83d4410f40",
+            "de": "Ability to be easily modified to respond to altered circumstances",
+            "do": "computing",
+            "ty": "adjective",
+            "ex": "This software is flexible, it can be easily adapted to meet the needs of any company.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flexible software",
+                " flexible system",
+                " flexible algorithm"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/64ace653-0e83-47dc-8e90-6e83d4410f40.webp",
+            "Tips": [
+                {
+                    "title": "Tech Customization",
+                    "description": "In technology, 'flexible' refers to software or systems that can be tailored to different needs.",
+                    "example": "Our new app is flexible, offering various settings to cater to user preferences.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Evolving Usage",
+                    "description": "In computing, 'flexible' means the technology can evolve with changing trends or requirements.",
+                    "example": "The flexible platform can integrate new features as market demands shift.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Adapt": {
+            "wordRoot": "Adapt",
+            "wordDefinition": "Adapt means to change or modify oneself, or something else, to fit new or different circumstances. For example, a plant that adapts to a new climate or an individual who adapts to a new job.\n\nAdaptation is a process, while being flexible is a characteristic. You adapt when something changes, and you are flexible if you can handle those changes easily.\n\nAdapting is useful when facing extreme changes, while being flexible can be useful in everyday life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06cfbb70-76c8-4980-b861-cfb459ba6679.webp"
+        },
+        "Ductile": {
+            "wordRoot": "Ductile",
+            "wordDefinition": "Ductile refers to the ability of a material to be molded or stretched without breaking. It generally applies to metals that can be made into wires or sheets.\n\nIn simpler terms, ductile is like Play-Doh that can be stretched and molded into different shapes without breaking, like metal wires.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e370cf9f-fc19-4373-a7fc-d7a6f5755ab8.webp"
+        },
+        "Elastic": {
+            "wordRoot": "Elastic",
+            "wordDefinition": "Elastic and flexible both refer to the ability of a material or object to deform or bend, but there is a slight difference in their meanings.\n\nElastic refers to something that can deform and then quickly return to its original shape, like a rubber band.\n\nIt can stretch and then snap back into place or bounce back. For example, an elastic waistband on a pair of pants can stretch to fit comfortably around the wearer's waist, but then snap back into shape when the pants are removed.\n\nElastic describes something that can stretch and then return to its original shape, while flexible describes something that can bend or deform without breaking.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d60e1a6-d44f-4a6e-bca5-78c042bee81e.webp"
+        },
+        "Limb": {
+            "wordRoot": "Limb",
+            "wordDefinition": "Limb refers to an arm or a leg, and is only applicable to the human body or animals.\n\nA limb is a part of the body that extends from the torso and is used for movement.\n\nFor example, your arms and legs are limbs because they help you walk, run, and do other physical activity.\n\nFlexible refers to the ability to bend without breaking, whereas limb refers specifically to a part of the body used for movement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4dcb3e01-919a-4229-9ddd-dfa98a037082.webp"
+        },
+        "Malleable": {
+            "wordRoot": "Malleable",
+            "wordDefinition": "Malleable describes something that can be easily shaped or molded, like clay or metal that can be hammered into a new form.\n\nFlexible applies to things that can bend and adjust without breaking, while malleable applies to things that can be transformed into a new shape or form.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bbe32be-2e8d-4a07-ab5b-26887ae8ccbd.webp"
+        },
+        "Pliable": {
+            "wordRoot": "Pliable",
+            "wordDefinition": "Flexible and pliable are both adjectives used to describe something that can be bent or distorted without breaking.\n\nHowever, flexible usually implies something that can be bent easily and repeatedly without losing its shape or structure, while pliable implies something that can be bent or shaped easily but may not necessarily return to its original shape.\n\nA piece of clay is pliable because it can be easily molded into different shapes, but once it dries and hardens, it cannot be reshaped.\n\nPliable is often used to describe softer materials like fabrics or clay that can be easily shaped or molded.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/838ad08a-37f5-42e2-8c9b-0e21d238c62c.webp"
+        },
+        "Resilient": {
+            "wordRoot": "Resilient",
+            "wordDefinition": "Flexible means something can bend or adjust easily without breaking, while the word resilient means something can recover quickly from difficulties or setbacks.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6b04b710-ee84-41c5-ba08-a75ee0409855.webp"
+        },
+        "Supple": {
+            "wordRoot": "Supple",
+            "wordDefinition": "Supple refers to something that is soft and pliable, with the ability to be bent or shaped easily. For example, a piece of leather can be supple.\n\nGenerally, flexible describes objects or materials, while supple describes things like muscles or certain fabrics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3596421b-1788-49db-8bc7-390f058c2a40.webp"
+        },
+        "Versatile": {
+            "wordRoot": "Versatile",
+            "wordDefinition": "Versatile means being capable of doing many things competently. It is applicable when something or someone can perform a wide variety of tasks or activities.\n\nFor example, a multi-tool can be described as versatile because it can be used for many different purposes such as cutting, sawing, or screw-driving.\n\nIn other words, flexible refers to something that can physically bend or adapt, while versatile refers to something or someone that can perform a wide variety of tasks or activities competently.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36f4b89a-9254-4af4-b0b2-4a22f9b855be.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " that promotes limb development in land vertebrates. So although the coelacanth itself isn't a land-walker, its fins do resemble those of its close relatives who first hauled their bodies onto land with the help of these sturdy, flexible appendages, acting as an evolutionary bridge to the land lovers that followed.",
+            "Title": "The coelacanth: A living...",
+            "VideoId": "ujKL1pUHDfo",
+            "Controls": "start=161"
+        },
+        {
+            "Text": " bottom line bulk electricity storage and fossil fuel backup are the costliest ways to make the grid more flexible so we would use them last not first a breakthrough in cheap bulk storage would be helpful but not vital we needn't wait for it and the market isn't waiting only the myth holds us back thank you",
+            "Title": "Why modern renewable...",
+            "VideoId": "Oo8iEL6SqgI",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " to the giant blue whale to you. Each cell in your body is surrounded by a cell membrane, a thick flexible layer made of fats and proteins, that surrounds and protects the inner components. It's semipermeable, meaning that it lets some thing pass in and out but blocks others.",
+            "Title": "Cell vs. virus: A battle...",
+            "VideoId": "oqGuJhOeMek",
+            "Controls": "start=19"
+        },
+        {
+            "Text": " one of the most interesting and potentially life-changing developments is the creation of a concrete canvas is basically a material that consists of all the elements of concrete's but it's flexible enough to be turned into any shape however once it's been submerged",
+            "Title": "Concrete Tent PIPE I Didn't...",
+            "VideoId": "Vb1pdvvoVoQ",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " that have personal weight to us -- ideas like blame and punishment or eyewitness memory. These are important things in our daily lives. Now, the beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is.",
+            "Title": "How language shapes the...",
+            "VideoId": "RKK7wGAYP6k",
+            "Controls": "start=737"
+        },
+        {
+            "Text": " And if you have the chance, physical activity, like a brisk walk, deepens breathing and helps relieve muscle tension, preventing anxiety from building. You can also use your knowledge about the brain to change your mindset. The brain is flexible,",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=166"
+        },
+        {
+            "Text": " have inspired new research in developing flexible robots made of soft materials. And studying how intelligence can arise along such a divergent evolutionary path can help us understand more about intelligence and consciousness in general.",
+            "Title": "Why the octopus brain is...",
+            "VideoId": "VLkKiVIBxXU",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " that can be heard in musical genres across the globe. By harnessing the power of natural resonance in a flexible and controllable way, brass instruments are great examples of the fusion of human creativity with the physics of our world.",
+            "Title": "How brass instruments...",
+            "VideoId": "IYHfiQ4R7Bs",
+            "Controls": "start=213"
+        },
+        {
+            "Text": " it asks us to remain flexible and patient to be open to be vulnerable but the rewards for doing so are considerable a greater sense of freedom of peace",
+            "Title": "Decompress In The Dunes...",
+            "VideoId": "n3KjX6TMHZA",
+            "Controls": "start=110"
+        },
+        {
+            "Text": " think flexibly let's work that out isn't that wonderful oh you can't help but love these things doesn't matter what they do to you",
+            "Title": "Are Honey Badgers...",
+            "VideoId": "bskDDjCjNVQ",
+            "Controls": "start=164"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-dickens.webp",
+            "Text": "When you're guest-starring on another show, it really requires you to jump through hoops in a way, because you're servicing the stories of the main characters. You have to be able to portray a lot of different elements. You show up and get on board and get on their journey; you have to be flexible as to what they need for the role.",
+            "Title": "American Actress",
+            "Name": "Kim Dickens"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuval-noah-harari.webp",
+            "Text": "We control the world basically because we are the only animals that can cooperate flexibly in very large numbers. And if you examine any large-scale human cooperation, you will always find that it is based on some fiction like the nation, like money, like human rights.",
+            "Title": "Israeli Historian",
+            "Name": "Yuval Noah Harari"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-j-orourke.webp",
+            "Text": "Computers seem a little too adaptively flexible, like the strange natives, odd societies, and head cases we study in the social sciences. There's more opposable thumb in the digital world than I care for; it's awfully close to human.",
+            "Title": "American Comedian",
+            "Name": "P. J. O'Rourke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-c-maxwell.webp",
+            "Text": "Failed plans should not be interpreted as a failed vision. Visions don't change, they are only refined. Plans rarely stay the same, and are scrapped or adjusted as needed. Be stubborn about the vision, but flexible with your plan.",
+            "Title": "American Clergyman",
+            "Name": "John C. Maxwell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/penelope-lively.webp",
+            "Text": "The pleasure of writing fiction is that you are always spotting some new approach, an alternative way of telling a story and manipulating characters; the novel is such a wonderfully flexible form.",
+            "Title": "English Author",
+            "Name": "Penelope Lively"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kristin-lehman.webp",
+            "Text": "The only way to really portray a character and tell a story well is to be flexible internally. And one of the ways we're blocked as actors is being aware of where our bodies are carrying tension.",
+            "Title": "Canadian Actress",
+            "Name": "Kristin Lehman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kiki-bertens.webp",
+            "Text": "I started to do yoga. It helps for the body to be more flexible but also for the mind - it calms me down a lot, so I really like to do that.",
+            "Title": "",
+            "Name": "Kiki Bertens"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-courtney-sullivan.webp",
+            "Text": "Reading poetry gives me a sense of calm, well-being, and love for humanity - the same stuff more flexible women get from yoga.",
+            "Title": "American Novelist",
+            "Name": "J. Courtney Sullivan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/krysten-ritter.webp",
+            "Text": "I think it's important to be flexible and free, and you can't be free and spontaneous if you don't know what you're doing.",
+            "Title": "American Actress",
+            "Name": "Krysten Ritter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judith-viorst.webp",
+            "Text": "Nobody who knows me and loves me dearly would ever call me adaptable or flexible. I'm not.",
+            "Title": "American Author",
+            "Name": "Judith Viorst"
+        }
+    ]
+}

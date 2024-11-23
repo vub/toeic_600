@@ -1,0 +1,271 @@
+{
+    "currentWord": {
+        "wordRoot": "evaluate",
+        "id": 6131,
+        "phonemic": "ɪˈvæljueɪt|ɪˈvæljueɪt\r",
+        "bigId": "be62720b-6c1b-48e0-b518-8768e2efffd8",
+        "wordForms": [
+            "evaluates",
+            "evaluating",
+            "evaluated",
+            "reevaluate",
+            "reevaluating",
+            "evaluation",
+            "evaluate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "be62720b-6c1b-48e0-b518-8768e2efffd8",
+            "de": "To judge or decide the amount, value, quality, or importance of something",
+            "ty": "verb",
+            "ex": "The company is being evaluated to determine its financial status.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "evaluate performance",
+                "evaluate results",
+                "evaluate progress"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/be62720b-6c1b-48e0-b518-8768e2efffd8.webp",
+            "Tips": [
+                {
+                    "title": "Subjective Nature",
+                    "description": "Evaluating something can involve personal opinion, not just facts.",
+                    "example": "Critics evaluate movies based on personal taste as well as technique.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Ac6NuOBjgCy8UL1k16v6Jx8Zegc.webp"
+                },
+                {
+                    "title": "Objective Analysis",
+                    "description": "Sometimes 'evaluate' requires objective analysis, avoiding personal bias.",
+                    "example": "To evaluate a research paper, judges must focus on the evidence.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SozyjJQWNsR2moTw0ElVojeL4g.webp"
+                },
+                {
+                    "title": "Process Involvement",
+                    "description": "Evaluation may be an ongoing process, not a one-time judgment.",
+                    "example": "Evaluating her progress, the teacher noted improvements each month.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nvAvpzV8HUs8WDHatVDlz4cE8.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d3154216-d9b8-47ad-b805-0e8de346bde2",
+            "de": "To calculate or solve a problem by using math",
+            "do": "Mathematics",
+            "ty": "verb",
+            "ex": "In mathematics, we often evaluate equations to find their solution.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "evaluate equations",
+                " evaluate expressions",
+                " evaluate factors"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d3154216-d9b8-47ad-b805-0e8de346bde2.webp",
+            "Tips": [
+                {
+                    "title": "Precision Required",
+                    "description": "When evaluating mathematically, answers need to be exact, not approximate.",
+                    "example": "Evaluating 2+2 must conclusively result in 4.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Step-by-Step",
+                    "description": "Mathematical evaluation involves following steps in order, such as PEMDAS.",
+                    "example": "To evaluate the equation, start by simplifying inside the parentheses.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Symbol Interpretation",
+                    "description": "Understanding math symbols is crucial to properly evaluate expressions.",
+                    "example": "To evaluate 3^2, recognize '^' means to square the number.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Analyse": {
+            "wordRoot": "Analyse",
+            "wordDefinition": "Analyse means to break down a complex idea or problem into smaller parts to understand it better. It helps to identify the different components of a topic so that it can be studied in more detail.\n\nIn simpler terms, analysing helps you to understand something, while evaluating helps you to decide whether it is good or bad.\n\nAnalyse is applicable in situations where you need to understand a concept or a problem deeply, e.g. in scientific research, historical analysis, or literary criticism.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e4906935-5663-44a7-a9ee-eb4719d2801c.webp"
+        },
+        "Appraise": {
+            "wordRoot": "Appraise",
+            "wordDefinition": "Both appraise and evaluate refer to the process of assessing something or someone, but there is a subtle difference between the two words.\n\nAppraise typically means to assess the value or worth of something, often in the context of determining its market value or financial worth.\n\nFor example, a real estate agent might appraise the value of a house before it goes on the market, or a jeweler might appraise the worth of a diamond ring.\n\nSo, when you are talking about determining the value of something, appraise is the appropriate word to use. When you are talking about assessing the quality or performance of something, evaluate is the better choice.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e85288d7-0093-4dcb-a93e-52d13386c2b7.webp"
+        },
+        "Assess": {
+            "wordRoot": "Assess",
+            "wordDefinition": "Assess and evaluate both mean to judge or analyze something, but they are used in different ways.\n\nAssess is used when you are trying to measure or estimate something. For example, you might assess someone's understanding of a topic by giving them a quiz or test.\n\nYou might also assess a patient's health by checking their vital signs.\n\nAssess is more about measuring or estimating while evaluate is more about judging or determining value.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/442852dd-d9fe-4767-94a3-78d50c1c82d6.webp"
+        },
+        "Estimate": {
+            "wordRoot": "Estimate",
+            "wordDefinition": "Estimate means to make an educated guess or approximation about something, often based on limited information.\n\nFor example, if you estimate the cost of a new computer, you might look up the price of the components and make an educated guess about how much it will cost to build.\n\nIn general, estimates are useful when you don't have all the information you need to make a precise calculation or decision, while evaluations are useful when you need to assess the value or quality of something in order to make a decision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20b933e6-66cb-46e9-bf0d-1797ef8852d6.webp"
+        },
+        "Gauge": {
+            "wordRoot": "Gauge",
+            "wordDefinition": "Gauge means to measure or determine something, typically a quantity. It involves using a tool or instrument to obtain a specific measurement or reading.\n\nFor example, if you were to gauge the temperature of a room, you would use a thermometer to determine the specific temperature reading.\n\nEvaluate is used when you want to make a judgment based on a set of criteria, while gauge is used when you want to measure or determine a specific quantity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/17702ccb-7777-4ff3-9fb1-12ea88d54cb7.webp"
+        },
+        "Measure": {
+            "wordRoot": "Measure",
+            "wordDefinition": "Measure means to determine the size, quantity, or degree of something. This can include things like counting the number of people who attend an event, weighing ingredients for a recipe, or determining the length of a piece of fabric.\n\nMeasurement is best used in situations where a numerical or objective value is needed, such as in science, engineering, or construction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/718f7a19-2a0c-4e59-9a59-8c2b9971f463.webp"
+        },
+        "Rate": {
+            "wordRoot": "Rate",
+            "wordDefinition": "Rate means to assign a numerical value or ranking to something based on a specific standard or scale.\n\nTo simplify it further, evaluate is like giving a comprehensive review or analysis of something while rate is like giving a score or grading based on predetermined criteria.\n\nRate is more suited when you need to provide a comparative ranking, such as in customer satisfaction surveys or product reviews where you need to assess based on a particular scale.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6758e7b0-f424-4b48-8b00-01ada4dbd27a.webp"
+        },
+        "Review": {
+            "wordRoot": "Review",
+            "wordDefinition": "Review generally means to go over something in order to provide an opinion or judgment about it.\n\nEvaluate is used to analyze or assess something for a specific purpose or decision-making process, while review is used to provide an opinion or assessment on something, usually for the purpose of sharing it with others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/80d28f29-3a49-4e69-8234-361471244a1c.webp"
+        },
+        "Scrutinize": {
+            "wordRoot": "Scrutinize",
+            "wordDefinition": "Scrutinize means to examine or inspect something closely and carefully in order to identify any flaws, mistakes, or problems.\n\nEvaluate is more about determining the overall merit or value of something, while scrutinize is more about identifying specific details or issues related to that thing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53f17615-8dfe-4eba-9d1e-aef39e0ff54e.webp"
+        },
+        "Weigh": {
+            "wordRoot": "Weigh",
+            "wordDefinition": "Weigh means to measure the weight or heaviness of an object. But it can also be used metaphorically to mean considering the different factors or perspectives on a topic to make a decision or form an opinion.\n\nFor example, a doctor might weigh the benefits and risks of a particular treatment before recommending it to a patient.\n\nEvaluate is used to make a judgment based on specific criteria, while weigh is used to consider all factors before making a decision or forming an opinion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e662478c-9b66-4cd1-bb98-0ee3858034b9.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " really change your life in meaningful ways? This is in the lab, it's this little task, it's just a couple of minutes. Where can you actually apply this? Which we cared about, of course. And so we think where you want to use this is evaluative situations, like social threat situations. Where are you being evaluated, either by your friends?",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=763"
+        },
+        {
+            "Text": " reason we did it offshore is because everybody kind of knew that that was an era thing because if we had no problem with it we just do it here so we hit it away because we knew it was uncomfortable because we know what our values are so what's been happening in the world is we've been evaluating all",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=475"
+        },
+        {
+            "Text": " transforming what was once undrinkable into a life saver. Meanwhile in the medical world, blood tests are a vital tool for evaluating a person's health, but doctors typically can't examine blood samples until they've separated the solid blood cells from the liquid plasma they're dissolved in.",
+            "Title": "How do we separate the...",
+            "VideoId": "q8Ent5CXhfY",
+            "Controls": "start=123"
+        },
+        {
+            "Text": " So if you experience mathematical anxiety, what can you do? Relaxation techniques, like short breathing exercises, have improved test performance in students with math anxiety. Writing down your worries can also help. This strategy may give you a chance to reevaluate a stressful experience,",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " and characteristics. This means that to achieve a desired quality, it takes a lot of offspring, not to mention patience on the breeder's part. When a seedling does bear fruit with the desired qualities, it's selected for further evaluation. Of the original crossed seedlings,",
+            "Title": "Why are there so many...",
+            "VideoId": "mQePz62zkqA",
+            "Controls": "start=104"
+        },
+        {
+            "Text": " is more than a self-esteem boost. It helps us figure out when we can forge ahead on our own decisions and instincts and when we need, instead, to seek out advice. But psychological research suggests that we're not very good at evaluating ourselves accurately.",
+            "Title": "Why incompetent people...",
+            "VideoId": "pOLmD_WVY-E",
+            "Controls": "start=25"
+        },
+        {
+            "Text": " evaluate your own choices, and ultimately help you make more informed decisions. This five-step process is just one tool, and it certainly won't eradicate difficult decisions from our lives. But it can help us increase the number of positive choices we make.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=220"
+        },
+        {
+            "Text": " The subject matter included philosophy, farming, and even military tactics. Standardized tests continued to be used around the world for the next two millennia, and today, they're used for everything from evaluating stair climbs for firefighters in France",
+            "Title": "Should we get rid of...",
+            "VideoId": "YtE0OsRWeYI",
+            "Controls": "start=21"
+        },
+        {
+            "Text": " to absorb and evaluate it is not. All the information in the world won't be very useful unless you know how to read the news. To your grandparents, parents, or even older siblings, this idea would have sounded strange.",
+            "Title": "How to choose your news...",
+            "VideoId": "q-Y-z6HmRgI",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " important tool for evaluating if they're ready for adoption to pass the dogs must prove they're capable of following commands are safe with units and safe with other dogs we have very strict",
+            "Title": "Michael Vick's Dogs PIPE...",
+            "VideoId": "JIkfYzJaWNw",
+            "Controls": "start=118"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/holly-madison.webp",
+            "Text": "Truthfully, being pregnant is changing me as a person. Each day is part of this amazing journey that has completely shifted the focus of my life and made me reevaluate my personal and professional goals.",
+            "Title": "American Model",
+            "Name": "Holly Madison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dale-carnegie.webp",
+            "Text": "There are four ways, and only four ways, in which we have contact with the world. We are evaluated and classified by these four contacts: what we do, how we look, what we say, and how we say it.",
+            "Title": "American Writer",
+            "Name": "Dale Carnegie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nico-hulkenberg.webp",
+            "Text": "It's important to drive consistently to evaluate changes that are made to the car. You need to be very accurate with your feedback and communicate as much information as possible.",
+            "Title": "German Driver",
+            "Name": "Nico Hulkenberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/glenn-gronkowski.webp",
+            "Text": "Obviously, you're being evaluated every single week, and you want to perform every single week. It's just going out there and doing everything possible to help the team win.",
+            "Title": "American Athlete",
+            "Name": "Glenn Gronkowski"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nikola-tesla.webp",
+            "Text": "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
+            "Title": "Inventor",
+            "Name": "Nikola Tesla"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/greg-gutfeld.webp",
+            "Text": "Ideas are things that happen at any time because you're constantly thinking and evaluating life as if it were an eternally unsolvable math problem, which it is.",
+            "Title": "American Author",
+            "Name": "Greg Gutfeld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tiger-woods.webp",
+            "Text": "I've had the luxury of playing golf around the world, and I've spent a lot of time evaluating how to play all kinds of courses.",
+            "Title": "American Golfer",
+            "Name": "Tiger Woods"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/heather-graham.webp",
+            "Text": "I've been evaluating how much I value happiness in my life. To be too driven takes away your happiness.",
+            "Title": "American Actress",
+            "Name": "Heather Graham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yung-lean.webp",
+            "Text": "After ten albums, I can reevaluate my life. Maybe then I'll settle down.",
+            "Title": "Swedish Musician",
+            "Name": "Yung Lean"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/teri-garr.webp",
+            "Text": "Take a step back, evaluate what is important, and enjoy life.",
+            "Title": "American Actress",
+            "Name": "Teri Garr"
+        }
+    ]
+}

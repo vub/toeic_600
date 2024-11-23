@@ -1,0 +1,287 @@
+{
+    "currentWord": {
+        "wordRoot": "permit",
+        "id": 5974,
+        "phonemic": "pəˈmɪt|pərˈmɪt\r",
+        "bigId": "3b308e0a-6f60-40ad-8907-0913004efaff",
+        "wordForms": [
+            "permits",
+            "permitting",
+            "permitted",
+            "permit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3b308e0a-6f60-40ad-8907-0913004efaff",
+            "de": "To allow or let something happen.",
+            "ty": "verb",
+            "ex": "My parents permit me to go to the movies on weekends.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "permit me to",
+                " permit access",
+                " permit entry"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3b308e0a-6f60-40ad-8907-0913004efaff.webp",
+            "Tips": [
+                {
+                    "title": "Permission Levels",
+                    "description": "The level of permission can vary, from limited circumstances to general approval.",
+                    "example": "They permit swimming here, but not diving.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/N3Hb740LmHjXcLYbQ4BQm1xpMw.webp"
+                },
+                {
+                    "title": "Permission Source",
+                    "description": "Permission is often granted by someone in authority, like parents or officials.",
+                    "example": "Does the teacher permit talking during work time?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6PSnYWS0G8qvotibpbDVkEk3iw.webp"
+                },
+                {
+                    "title": "Conditional Terms",
+                    "description": "A permit can have conditions that specify when the action is allowed.",
+                    "example": "You can go out if you finish your homework.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7acae88Z4ckFPCMvfzJtnUPjA.webp"
+                }
+            ]
+        },
+        {
+            "id": "7336d342-07d1-43a5-ad0b-fc4875c01a4b",
+            "de": "An official document that allows you to do something.",
+            "ty": "noun",
+            "ex": "You need a special permit to park here.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "parking permit",
+                " building permit",
+                " work permit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7336d342-07d1-43a5-ad0b-fc4875c01a4b.webp",
+            "Tips": [
+                {
+                    "title": "Legal Requirement",
+                    "description": "Some activities strictly require a permit, or you could face legal consequences.",
+                    "example": "Building a house typically requires a construction permit.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specific Purpose",
+                    "description": "A permit is often issued for a specific purpose and may not be used for anything else.",
+                    "example": "A fishing permit won't allow you to hunt.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporary Validity",
+                    "description": "Permits usually have an expiration date and must be renewed.",
+                    "example": "Her work permit expires next month.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f263a752-7ee7-43ed-bd07-70e89eee1c10",
+            "de": "To make possible.",
+            "ty": "verb",
+            "ex": "The boss's absence permit us to leave early.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "permit changes",
+                " permit progress",
+                " permit innovation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f263a752-7ee7-43ed-bd07-70e89eee1c10.webp",
+            "Tips": [
+                {
+                    "title": "Possibility to Act",
+                    "description": "This definition highlights that a situation makes a certain action possible.",
+                    "example": "The sunny weather permits a day at the beach.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implying Empowerment",
+                    "description": "Permit can suggest empowerment by removing obstacles or restrictions.",
+                    "example": "New technology permits more accurate research.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Allow": {
+            "wordRoot": "Allow",
+            "wordDefinition": "Both words allow and permit have similar meanings and are almost interchangeable.\n\nAllow is a more general word that implies giving permission or giving someone the authority to do something. For example, you may allow a friend to enter your home or allow your child to stay up late.\n\nTo summarize, allow is more casual and can be used in everyday situations, while permit is more formal and often refers to official authorization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4bde3628-7655-4742-a49f-2b4ffd7328d6.webp"
+        },
+        "Approve": {
+            "wordRoot": "Approve",
+            "wordDefinition": "Approve means to give permission or consent after careful consideration or evaluation.\n\nFor example, a teacher may approve a student's project proposal after reviewing it.\n\nApprove involves evaluating and consenting to something, while permit involves granting official permission for something to happen.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6fb1d5e8-037d-4744-8137-b3a38373a4a2.webp"
+        },
+        "Authorize": {
+            "wordRoot": "Authorize",
+            "wordDefinition": "The words authorize and permit both mean to give someone the go-ahead or approval to do something.\n\nAuthorize is used when someone or something has the power or authority to give permission. For example, a bank might authorize a transaction on your account, meaning they give approval for the money to be moved.\n\nIn summary: Authorize means to give permission because you have the power or authority to do so, while permit means to allow something to happen even if you don't necessarily have complete control over it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/33a8a264-59bc-448b-8997-60c6a7c701c1.webp"
+        },
+        "Consent": {
+            "wordRoot": "Consent",
+            "wordDefinition": "Consent refers to giving permission or agreeing to something that involves a decision. It generally implies that there is a level of understanding and willingness to participate or allow something to happen.\n\nFor example, if someone asks for your consent to use your photo in a project, they are asking for your permission to do so.\n\nConsent is more about agreement and allowing while permit is more about permission being granted for an otherwise restricted activity or action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ca95c1f4-a710-4161-a7a2-a1854ba3b183.webp"
+        },
+        "Empower": {
+            "wordRoot": "Empower",
+            "wordDefinition": "Empower means to give someone the ability or authority to do something. For example, a teacher might empower their students by giving them the responsibility to lead a class discussion.\n\nEmpower is used when someone is given the ability or authority to do something, while permit is used when someone is given permission to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/71e91869-def3-4775-8bb1-22908038b5a3.webp"
+        },
+        "Entitle": {
+            "wordRoot": "Entitle",
+            "wordDefinition": "Entitle means to give someone the right or claim to something. For example, if you work for a company, you may be entitled to certain benefits like health insurance or vacation time.\n\nEntitle refers to giving someone a right or claim to something, while the word permit refers to allowing or giving permission for something to happen or be done.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fb6d60e3-e0c3-45dc-b389-c7a99b88cb03.webp"
+        },
+        "License": {
+            "wordRoot": "License",
+            "wordDefinition": "A license is an official document that gives an individual permission to do something that is typically regulated by a government or authority.\n\nFor example, a driver's license gives someone permission to drive a car legally on public roads.\n\nA license is more permanent and signifies that someone has met certain requirements, while a permit is more temporary and allows someone to do something specific for a limited time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/837e9a2a-fcd5-4b8f-80bb-47925e826183.webp"
+        },
+        "Sanction": {
+            "wordRoot": "Sanction",
+            "wordDefinition": "Sanction means to give official approval or to impose a penalty for breaking a rule or law. For example, if a company violates environmental regulations, they may face sanctions such as fines or legal action from the government.\n\nPermit is used when someone is being allowed to do something, while sanction is used when there are consequences for breaking rules or laws.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8c7be27f-f1c2-444c-9fc8-1d2b22ca34ef.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Our brain's ability to repair itself, known as brain plasticity, permits areas surrounding a brain lesion to take over some functions during the recovery process. Scientists have been conducting experiments using new forms of technology, which they believe may encourage brain plasticity in people with aphasia.",
+            "Title": "Aphasia: The disorder...",
+            "VideoId": "-GsVhbmecJA",
+            "Controls": "start=250"
+        },
+        {
+            "Text": " we're not permitted to fully read without destroying it? The answer can be found in the strange phenomena of quantum entanglement. Entanglement is an old mystery from the early days of quantum physics and it's still not entirely understood. Entangling the spin of two electrons results in an influence",
+            "Title": "Will we ever be able to...",
+            "VideoId": "JMdO5KyjwAw",
+            "Controls": "start=115"
+        },
+        {
+            "Text": " the wrong place permit is not belong in the atmosphere of the oceans the blogs and soil biota belongs in us we want water quality we've designed factories where water comes out cleaner in the water going in its drinking water we want social responsibility and we want",
+            "Title": "What if waste did not...",
+            "VideoId": "LNKnmd5MyHY",
+            "Controls": "start=160"
+        },
+        {
+            "Text": " They're increasingly obliged to rebuild their lives in the face of xenophobia and racism. And all too often, they aren't permitted to enter the work force and are fully dependent on humanitarian aid. In addition, far too many refugee children are out of school",
+            "Title": "What does it mean to be...",
+            "VideoId": "25bwiSikRsI",
+            "Controls": "start=283"
+        },
+        {
+            "Text": " Can chemistry permit making these really large molecules where we've never been before? And if we do, can we boot up a chromosome? A chromosome, by the way, is just a piece of inert chemical material. So, our pace of digitizing life has been increasing",
+            "Title": "Craig Venter: On the...",
+            "VideoId": "nKZ-GjSaqgo",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " We ended up with a large moon and that permitted Earth to have both a stable axial tilt and a slow rotation rate. Both factors influence climate and the suggestion is that they've helped moderate climate change. Great for us, right?",
+            "Title": "Where are all the...",
+            "VideoId": "qaIghx4QRN4",
+            "Controls": "start=532"
+        },
+        {
+            "Text": " weapons permit they basically went through the external area the fenceline which is actually has cuts in it and then trespass through the wildlife area make sure all the weapons are registered ones that are more serious in nature",
+            "Title": "Troublesome Trespassers...",
+            "VideoId": "5ih-ZNaAd-E",
+            "Controls": "start=64"
+        },
+        {
+            "Text": " be permitted to care for the new temple. And he asked if, when their time came, they could die together, so neither would have to face life without the other. Tending to the temple and one another, they lived many more years.",
+            "Title": "The myth of Zeus' test -...",
+            "VideoId": "ogE1nzLawJ0",
+            "Controls": "start=285"
+        },
+        {
+            "Text": " But I was legally permitted. Oh, and I forgot some stuff, important the bug spray, the bear spray, the filters for my respirator. Oh well. The first day of the experiment, we got out to our plot",
+            "Title": "How trees talk to each...",
+            "VideoId": "Un2yBgIAxYs",
+            "Controls": "start=255"
+        },
+        {
+            "Text": " in the end bureaucracy defeated us and we weren't given a permit to export those dragons from indonesia so i'm afraid they're still there that was the end of our zoo quest",
+            "Title": "Zoo Quest For A Dragon...",
+            "VideoId": "omKm7jOkbcg",
+            "Controls": "start=924"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "I'm just telling you, God permits things in our lives sometimes for reasons that we do not understand yet because of the spiritual level that we're on. We can't have any understanding of it, because we're not at a place of spiritual growth yet where we understand the deeper things of God.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sonia-sotomayor.webp",
+            "Text": "Being a justice. If you love law the way I do... you're given the job of a lifetime... you're permitted to address the most important legal questions of the country, and sometimes the world. And in doing so, you make a difference in people's lives.",
+            "Title": "American Judge",
+            "Name": "Sonia Sotomayor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/carl-sagan.webp",
+            "Text": "Personally, I would be delighted if there were a life after death, especially if it permitted me to continue to learn about this world and others, if it gave me a chance to discover how history turns out.",
+            "Title": "American Scientist",
+            "Name": "Carl Sagan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicolaus-copernicus.webp",
+            "Text": "I am aware that a philosopher's ideas are not subject to the judgment of ordinary persons, because it is his endeavour to seek the truth in all things, to the extent permitted to human reason by God.",
+            "Title": "Polish Scientist",
+            "Name": "Nicolaus Copernicus"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/calvin-coolidge.webp",
+            "Text": "If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress.",
+            "Title": "American President",
+            "Name": "Calvin Coolidge"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-einstein.webp",
+            "Text": "The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives.",
+            "Title": "German Physicist",
+            "Name": "Albert Einstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-jefferson.webp",
+            "Text": "Peace and friendship with all mankind is our wisest policy, and I wish we may be permitted to pursue it.",
+            "Title": "American President",
+            "Name": "Thomas Jefferson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-nietzsche.webp",
+            "Text": "There is not enough love and goodness in the world to permit giving any of it away to imaginary beings.",
+            "Title": "German Philosopher",
+            "Name": "Friedrich Nietzsche"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/medgar-evers.webp",
+            "Text": "I was born in Decatur, was raised there, but I never in my life was permitted to vote there.",
+            "Title": "American Activist",
+            "Name": "Medgar Evers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mahatma-gandhi.webp",
+            "Text": "The pursuit of truth does not permit violence on one's opponent.",
+            "Title": "Indian Leader",
+            "Name": "Mahatma Gandhi"
+        }
+    ]
+}

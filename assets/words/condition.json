@@ -1,0 +1,351 @@
+{
+    "currentWord": {
+        "wordRoot": "condition",
+        "id": 3016,
+        "phonemic": "kənˈdɪʃn|kənˈdɪʃn\r",
+        "bigId": "394e1d28-972a-4291-a254-307cdb54d02f",
+        "wordForms": [
+            "conditions",
+            "conditioning",
+            "conditioned",
+            "condition"
+        ]
+    },
+    "senses": [
+        {
+            "id": "394e1d28-972a-4291-a254-307cdb54d02f",
+            "de": "The state or level of quality that someone or something is in.",
+            "ty": "noun",
+            "ex": "The car is in good condition.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "in good condition",
+                " in bad condition",
+                " in perfect condition"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/394e1d28-972a-4291-a254-307cdb54d02f.webp",
+            "Tips": [
+                {
+                    "title": "Usage Frequency",
+                    "description": "Commonly used to describe objects' or places' quality, often seen in ads or reviews.",
+                    "example": "The apartment is in excellent condition, ready for new tenants.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/h5LGmcjCUl7zwdss6pgvzOBG9oo.webp"
+                },
+                {
+                    "title": "Emotional Connotation",
+                    "description": "Can express pride or dissatisfaction when talking about possessions.",
+                    "example": "He keeps his collection in pristine condition.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/FHOo9gat04eM8D6ELtak4BiIV0.webp"
+                },
+                {
+                    "title": "Not Always Physical",
+                    "description": "Might refer to abstract qualities, such as reputation or situations.",
+                    "example": "The company's condition improved after the merger.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Jj7lCirUkRkPxYQS79CDx4AAzOA.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0d151e6a-73dd-49fb-b914-6bfa5e5565d6",
+            "de": "A rule or demand that must be met.",
+            "ty": "noun",
+            "ex": "He agreed to the conditions of the contract.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "under certain conditions",
+                " meet the conditions",
+                " terms and conditions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0d151e6a-73dd-49fb-b914-6bfa5e5565d6.webp",
+            "Tips": [
+                {
+                    "title": "Mandatory Aspect",
+                    "description": "Stresses that certain rules or requirements are necessary and often non-negotiable.",
+                    "example": "Access to the event is granted under the condition of full identification.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conditional Agreement",
+                    "description": "Used when agreeing to do something only if specific demands are met first.",
+                    "example": "I'll lend you the money on the condition that you pay it back within a month.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "08fa1e24-019d-4d8a-9e3d-532c8a3ec4c7",
+            "de": "To control or influence the behavior or development of something.",
+            "ty": "verb",
+            "ex": "She conditions her hair with a special cream.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "condition the hair",
+                " condition the skin",
+                " condition the air"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/08fa1e24-019d-4d8a-9e3d-532c8a3ec4c7.webp",
+            "Tips": [
+                {
+                    "title": "Improvement Process",
+                    "description": "Refers to making something better or preparing it for a specific situation or use.",
+                    "example": "Athletes condition themselves before a big competition.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Continuous Action",
+                    "description": "Implies a regular, ongoing process rather than a one-time event.",
+                    "example": "The leather of the new shoes needs to be conditioned regularly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "27771b6c-3f7c-49e3-82b2-da7a4a926234",
+            "de": "A particular state of health.",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "He has a heart condition.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "medical condition",
+                " heart condition",
+                " chronic condition"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/27771b6c-3f7c-49e3-82b2-da7a4a926234.webp",
+            "Tips": [
+                {
+                    "title": "Health Context",
+                    "description": "Used medically to refer to both temporary and chronic health issues.",
+                    "example": "Doctors diagnosed her symptoms as a neurological condition.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sensitivity",
+                    "description": "When related to health, it should be used with care due to personal and emotional impact.",
+                    "example": "Talking about someone's medical condition requires sensitivity.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "04e254ed-f65a-4eb8-8fa9-47a849a2512a",
+            "de": "A premise on which the fulfillment of something depends.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "This clause contains a condition precedent.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "condition precedent",
+                " condition subsequent",
+                " fulfill a condition"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/04e254ed-f65a-4eb8-8fa9-47a849a2512a.webp",
+            "Tips": [
+                {
+                    "title": "Legal Specificity",
+                    "description": "In legal contexts, it refers to specific and formal requirements in agreements.",
+                    "example": "Failure to meet the condition may void the contract.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Binding Language",
+                    "description": "Terms like 'condition precedent' are legally binding and have precise consequences.",
+                    "example": "The insurance payout is subject to a condition of timely premium payment.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Circumstance": {
+            "wordRoot": "Circumstance",
+            "wordDefinition": "Circumstance refers to a fact or event that surrounds a situation, while the word condition refers to a state that something or someone is in.\n\nCircumstance is often used to describe external factors that affect a situation, while condition is more likely to be used to describe an internal characteristic.\n\nFor example, a circumstance may be the weather conditions, the time of day, or the location of an event.\n\nHowever, circumstance is often used when discussing events or situations that are outside of our control, while condition is generally used in situations where the subject is something that can be changed or improved.\n\nCircumstance describes external facts or events affecting a situation, while condition refers to the state of something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/719be5ae-2d7f-467e-9524-9c6fc2cca20f.webp"
+        },
+        "Fit": {
+            "wordRoot": "Fit",
+            "wordDefinition": "Fit generally refers to physical fitness or suitability for a specific purpose. It is applicable when referring to someone's physical fitness level or whether an object or person is suitable for a particular task, job, or situation.\n\nCondition relates to the state or quality of something, while fit relates to physical fitness or suitability for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/09f43536-9366-414b-9a14-c16261bdf960.webp"
+        },
+        "Health": {
+            "wordRoot": "Health",
+            "wordDefinition": "Health generally refers to the overall state of well-being, which encompasses physical, mental, and emotional aspects. It is a broader term than condition and implies that all aspects of a person's life are functioning optimally.\n\nHealth can also include preventative measures, such as eating a healthy diet and exercising regularly, to maintain this state of well-being.\n\nCondition is more specific and refers to a particular ailment, while health is a broader concept encompassing overall well-being.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dc3d3339-9148-45f0-829b-01d586deb900.webp"
+        },
+        "Position": {
+            "wordRoot": "Position",
+            "wordDefinition": "Position refers to the location or placement of something or someone in relation to other things or people.\n\nIt can also refer to someone's status, role or rank. For example, if a person is sitting in a certain spot, their position may be described as \"sitting at the table\" or \"sitting next to John\".\n\nPosition can be applicable in a variety of contexts, such as discussing the position of a team in a sports league, the position of a company in the market, or the position of someone within an organization.\n\nCondition refers to the state of something, while position refers to its location or rank.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/873c534c-f216-4662-b281-643a092d10bc.webp"
+        },
+        "Predicament": {
+            "wordRoot": "Predicament",
+            "wordDefinition": "Condition refers to the physical or mental state of something or someone, while predicament refers to a difficult or unpleasant situation that is difficult to solve.\n\nFor example, if someone has a medical condition, it means they have a specific health issue or illness. If someone is in a predicament, it means they are in a tough situation, like being stuck in a locked room or dealing with a difficult problem.\n\nCondition is applicable when referring to someone's health or the state of something, whereas predicament is applicable in reference to difficult situations that someone might find themselves in.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/815c7a5e-f09a-468d-b813-6a0ea0b13e8f.webp"
+        },
+        "Requirement": {
+            "wordRoot": "Requirement",
+            "wordDefinition": "A requirement refers to something that is necessary or mandatory for a particular purpose. For example, \"meeting the minimum age requirement before getting a driver's license.\".\n\nIn simpler terms, a condition is a specific factor that must be fulfilled to achieve a certain goal, while a requirement is a general rule that must be followed to meet a particular standard.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/28a1d45d-53f4-428a-9091-9ab26d010255.webp"
+        },
+        "Situation": {
+            "wordRoot": "Situation",
+            "wordDefinition": "Condition generally refers to a physical or mental state, while situation refers to the circumstances or surroundings. For example, a person's medical condition might be bad or good, while a situation could be a problem or opportunity.\n\nCondition is used when referring to someone's health, while situation is used when describing a set of circumstances.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e622f392-e45e-44e7-84af-db1f2f0036be.webp"
+        },
+        "State": {
+            "wordRoot": "State",
+            "wordDefinition": "Condition refers to the physical or mental health of a person or thing, whereas the word state refers to the overall situation or circumstances surrounding something.\n\nIf we talk about the state of the economy, we are referring to the overall economic climate of a particular country or region.\n\nCondition is used more specifically to refer to the health or wellbeing of an individual or thing, while state is more broad and can be used to discuss a variety of circumstances or situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc3d020f-22f6-44e7-a701-0cec0aaa5e11.webp"
+        },
+        "Status": {
+            "wordRoot": "Status",
+            "wordDefinition": "Status refers to the position or standing of someone or something in relation to others. For example, a person can have a high social status due to their wealth or job, or a product can have a high status due to its brand name.\n\nCondition refers to the current state of something, while status refers to its position or standing in a larger context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a1b4fde3-42eb-48d0-ab77-2ef2efbc5eb7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " You might even offer to help with specific tasks, like looking up therapists in the area, or making a list of questions to ask a doctor. To someone with depression, these first steps can seem insurmountable. If they feel guilty or ashamed, point out that depression is a medical condition, just like asthma or diabetes.",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " Remember, bipolar disorder is a medical condition, not a person's fault, or their whole identity, and it's something that can be controlled through a combination of medical treatments doing their work internally, friends and family fostering acceptance and understanding on the outside,",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=310"
+        },
+        {
+            "Text": " that helped ensure the continuation of her species for millions of years before. In the wild, cats needed sharp claws for climbing, hunting, and self-defense. Sharpening their claws on nearby surfaces kept them conditioned and ready, helped stretch their back and leg muscles,",
+            "Title": "Why do cats act so...",
+            "VideoId": "sI8NsYIyQ2A",
+            "Controls": "start=133"
+        },
+        {
+            "Text": " After all, immortality doesn't automatically translate to invincibility, it just means you cannot die. But it doesn't guarantee what condition you'll be alive in. Look at your body and count how many scars you have. If you have made this many permanent scars within your life,",
+            "Title": "If superpowers were...",
+            "VideoId": "uvMiz0-nPxs",
+            "Controls": "start=165"
+        },
+        {
+            "Text": " He's treated with a special clay that'll help heal the wound. What do you think, Fred? Do you think it'll survive? Ah, because the guy's body condition is good he was walking and also getting to another bad level, but he's still okay to survive.",
+            "Title": "Saving an Elephant from...",
+            "VideoId": "0fWtpVDSh9w",
+            "Controls": "start=165"
+        },
+        {
+            "Text": " This can happen, and the outcome could be very good for humanity. But it doesn't happen automatically. The initial conditions for the intelligence explosion might need to be set up in just the right way if we are to have a controlled detonation.",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=862"
+        },
+        {
+            "Text": " including high blood sugar, increased waist circumference, and high blood pressure. It increases the risk of developing conditions, like cardiovascular disease and type II diabetes. And its prevalence is rapidly increasing all over the world.",
+            "Title": "How do carbohydrates...",
+            "VideoId": "wxzc_2c6GMg",
+            "Controls": "start=253"
+        },
+        {
+            "Text": " male-dominated sport was it realistic from my parents to think that I can become the ultimate world chess champion both of my parents are teachers we lived in Hungary modest conditions behind the",
+            "Title": "Giving checkmate is...",
+            "VideoId": "z-ttu7dyBCU",
+            "Controls": "start=27"
+        },
+        {
+            "Text": " as dry as the one I'm holding in my hand now what happened we replaced that condition with this condition two and a half years after we began the first spring came to life",
+            "Title": "50 Years Ago, This Was a...",
+            "VideoId": "ZSPkcpGmflE",
+            "Controls": "start=188"
+        },
+        {
+            "Text": " A female kangaroo can often simultaneously support one inside her uterus and another in her pouch. In unfavorable conditions, female kangaroos can pause their pregnancies.",
+            "Title": "The three different ways...",
+            "VideoId": "sz3Yv3On4lE",
+            "Controls": "start=161"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-miller.webp",
+            "Text": "If I am against the condition of the world, it is not because I am a moralist - it is because I want to laugh more.",
+            "Title": "American Author",
+            "Name": "Henry Miller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eckhart-tolle.webp",
+            "Text": "If you live only in one culture for the first 20 years of your life, you become conditioned without knowing it.",
+            "Title": "German Speaker",
+            "Name": "Eckhart Tolle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aristotle.webp",
+            "Text": "No one would choose a friendless existence on condition of having all the other things in the world.",
+            "Title": "Greek Philosopher",
+            "Name": "Aristotle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-justice.webp",
+            "Text": "West Virginians should be protected against preexisting conditions.",
+            "Title": "American Politician",
+            "Name": "Jim Justice"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ian-hislop.webp",
+            "Text": "I get paid to do what I enjoy, not that common a condition.",
+            "Title": "Welsh Editor",
+            "Name": "Ian Hislop"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brenda-fassie.webp",
+            "Text": "I am angry about the world's conditions for black people.",
+            "Title": "South African Musician",
+            "Name": "Brenda Fassie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christiaan-rudolf-de-wet.webp",
+            "Text": "The condition of the wounded touched my heart deeply.",
+            "Title": "South African Politician",
+            "Name": "Christiaan Rudolf de Wet"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mirko-cro-cop.webp",
+            "Text": "Conditioning is the most important thing in MMA.",
+            "Title": "Croatian Athlete",
+            "Name": "Mirko Cro Cop"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mike-mccready.webp",
+            "Text": "Life is a pre-existing condition.",
+            "Title": "American Musician",
+            "Name": "Mike McCready"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-nietzsche.webp",
+            "Text": "The lie is a condition of life.",
+            "Title": "German Philosopher",
+            "Name": "Friedrich Nietzsche"
+        }
+    ]
+}

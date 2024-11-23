@@ -1,0 +1,389 @@
+{
+    "currentWord": {
+        "wordRoot": "mission",
+        "id": 18980,
+        "phonemic": "ˈmɪʃn|ˈmɪʃn\r",
+        "bigId": "1057bac8-95d0-458c-a42c-8521d2e58b6e",
+        "wordForms": [
+            "missions",
+            "mission"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1057bac8-95d0-458c-a42c-8521d2e58b6e",
+            "de": "A special task given to a person or group to complete.",
+            "ty": "noun",
+            "ex": "The mission of the soldiers was to protect the base.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "on a mission",
+                " mission statement",
+                " undercover mission"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1057bac8-95d0-458c-a42c-8521d2e58b6e.webp",
+            "Tips": [
+                {
+                    "title": "Common Goal",
+                    "description": "A mission involves collaboration towards a shared objective or result.",
+                    "example": "The scientists were on a mission to develop a sustainable energy source.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7Dfz3f6V5Vj6BDY3zLGHvnZOTg.webp"
+                },
+                {
+                    "title": "Action-Oriented",
+                    "description": "Use 'mission' to describe an active, purpose-driven task, showing determination.",
+                    "example": "They went on a mission to clean up the neighborhood.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Jrq3Ea8JzEINbbOAcEIX6LPKrdY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "31185e62-f041-4c50-bd38-0ec49fb8fac8",
+            "de": "An organization set up to provide help to people who are poor, sick, etc.",
+            "ty": "noun",
+            "ex": "She works at a mission that provides meals for homeless people.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "rescue mission",
+                " soup mission",
+                " suicide prevention mission"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/31185e62-f041-4c50-bd38-0ec49fb8fac8.webp",
+            "Tips": [
+                {
+                    "title": "Helping Others",
+                    "description": "Missions often have altruistic aims, like doing good for the community.",
+                    "example": "Our school started a mission to feed the hungry during holidays.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Non-profit",
+                    "description": "Missions are generally not for profit, focusing on support rather than gain.",
+                    "example": "The mission relies on donations to help the less fortunate.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ab867c19-5269-46d0-b2c3-74afea9b2c29",
+            "de": "A group of people sent to another country to do religious work.",
+            "ty": "noun",
+            "ex": "He joined a mission to spread the gospel in remote areas of Africa.",
+            "use": "",
+            "co": "Religious",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "religious mission",
+                " mission trip",
+                " mission team"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ab867c19-5269-46d0-b2c3-74afea9b2c29.webp",
+            "Tips": [
+                {
+                    "title": "Cultural Sensitivity",
+                    "description": "When discussing religious missions, be aware of different beliefs and cultures.",
+                    "example": "The mission was welcomed for its respect towards local traditions.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Voluntary Service",
+                    "description": "Religious missions often involve volunteers drawn by faith to serve others.",
+                    "example": "He decided to join the mission out of a sense of spiritual calling.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8746e966-8f85-4170-a4d7-468d1db17ebb",
+            "de": "An important goal or purpose that is accompanied by strong conviction.",
+            "ty": "noun",
+            "ex": "His mission in life is to help others.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "life's mission",
+                " personal mission",
+                " mission of love"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8746e966-8f85-4170-a4d7-468d1db17ebb.webp",
+            "Tips": [
+                {
+                    "title": "Purpose Driven",
+                    "description": "The word 'mission' conveys a strong sense of personal purpose or calling.",
+                    "example": "She saw her teaching career as a mission to enlighten young minds.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "17310a7a-5f33-40e2-843e-e86db0e81126",
+            "de": "A spacecraft sent on a specific task or to gather information.",
+            "do": "Astronomy",
+            "ty": "noun",
+            "ex": "The Mars Rover was a successful mission to explore the planet Mars.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "space mission",
+                " mars mission",
+                " apollo mission"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/17310a7a-5f33-40e2-843e-e86db0e81126.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Exploration",
+                    "description": "Use 'mission' in astronomy for exploratory projects gathering scientific data.",
+                    "example": "The satellite mission provided valuable data about Earth’s atmosphere.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Advancement of Knowledge",
+                    "description": "Space missions are often critically acclaimed for advancing human knowledge.",
+                    "example": "The mission could help us understand the possibility of life on other planets.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c2c5eff9-a0e2-4106-8cc6-02d8d37fb4cc",
+            "de": "A building or group of buildings used by a mission.",
+            "ty": "noun",
+            "ex": "The old mission has been a landmark for over a hundred years.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mission house",
+                " mission premises",
+                " mission headquarters"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c2c5eff9-a0e2-4106-8cc6-02d8d37fb4cc.webp",
+            "Tips": [
+                {
+                    "title": "Historical Landmark",
+                    "description": "Buildings used by a mission may be significant historical sites to visit.",
+                    "example": "The San Juan Bautista Mission is a famous historical attraction.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5158127c-7cb8-4dab-925a-5a399dd0f2ed",
+            "de": "A diplomatic office of an international organization located in a foreign city.",
+            "do": "Political",
+            "ty": "noun",
+            "ex": "He works at the UN mission in New York.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "un mission",
+                " diplomatic mission",
+                " trade mission"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5158127c-7cb8-4dab-925a-5a399dd0f2ed.webp",
+            "Tips": [
+                {
+                    "title": "International Relations",
+                    "description": "Diplomatic missions play a crucial role in global cooperation and relations.",
+                    "example": "The mission hosted talks to foster peace between the nations.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Aim": {
+            "wordRoot": "Aim",
+            "wordDefinition": "Aim refers to a specific goal or target that one intends to achieve or hit. It is mostly used in terms of achieving something precise or measurable.\n\nFor example, aiming to score 90% marks in an exam.\n\nAn aim is a specific, measurable target while a mission is a more comprehensive purpose that drives one's actions. The application of each word depends on the context and the level of specificity or broadness required to express one's objectives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/891d8ab4-bc85-4fb0-ae8d-381a53c78695.webp"
+        },
+        "Assignment": {
+            "wordRoot": "Assignment",
+            "wordDefinition": "Both the words assignment and mission refer to a particular task or job that needs to be completed.\n\nAn assignment is usually given by a teacher, supervisor, or employer. It is a specific task or project that needs to be completed within a given timeframe.\n\nAssignments are usually related to academic or professional work, and are often graded or evaluated based on their quality.\n\nAn assignment is a particular task given by an authority figure for academic or professional purposes, while a mission is a significant task with a specific purpose, often involving risks and challenges.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/25d14f0d-8f9f-4229-8e0d-dd00a2a90aa2.webp"
+        },
+        "Call": {
+            "wordRoot": "Call",
+            "wordDefinition": "Call refers to a request or invitation to speak, communicate or visit someone.\n\nCall can be used in situations where someone is asked to communicate with another person, whereas mission is used in situations where someone or a group is given a task to achieve a goal or purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b658cde7-ecb7-4ee2-9dcb-497837deec79.webp"
+        },
+        "Commission": {
+            "wordRoot": "Commission",
+            "wordDefinition": "Commission refers to something that is charged or paid to someone who has completed a task or a job. It usually relates to business, transactions, or sales.\n\nFor example, if a real estate agent sells a house, they may receive a commission on the sale.\n\nCommission relates to payment for a task while mission relates to a purpose or assignment to complete a task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/262b4d97-a1e2-48d1-8ebf-1109fa580c10.webp"
+        },
+        "Duty": {
+            "wordRoot": "Duty",
+            "wordDefinition": "Duty means something you are expected to do or responsibilities that come with a certain role or job.\n\nDuty is a regular responsibility whereas a mission is a specific important task with a sense of purpose. Duties are more generally applicable in everyday life while a mission is more commonly used to refer to goals or objectives of organizations, government, or individuals.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cfe1420e-b26e-4f5c-8633-1f0170966fe2.webp"
+        },
+        "Goal": {
+            "wordRoot": "Goal",
+            "wordDefinition": "A goal refers to a specific aim or objective that one wants to achieve. It may involve a quantifiable outcome, like running a 5K race in under 30 minutes, or a general aspiration, like becoming a happier person.\n\nBoth words are applicable in various contexts, but goals are typically more short-term, while missions are more long-term and relate to an organization, cause, or personal values.\n\nFor example, a business may have a mission statement that guides its overall purpose and values, while setting specific goals to increase revenue or expand its customer base.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ab84e0a1-951d-4015-9f89-43a54f86c736.webp"
+        },
+        "Objective": {
+            "wordRoot": "Objective",
+            "wordDefinition": "An objective is a specific, measurable, and time-bound goal or target that is set to help achieve the mission. Objectives are more tangible and concrete than missions.\n\nFor example, a company might have an objective to increase revenue by 10% in the next year.\n\nA mission is the big picture of what an organization or person wants to achieve, while objectives are the specific steps taken to achieve that mission.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78825159-4234-453b-a9f4-31dbd1aebe44.webp"
+        },
+        "Purpose": {
+            "wordRoot": "Purpose",
+            "wordDefinition": "Purpose refers to the reason for which someone or something exists. It is a broader concept that encompasses the mission and goes beyond it.\n\nAn individual or organization’s purpose is the reason why they do what they do, and it defines their values and beliefs.\n\nFor example, a company's purpose might be to create meaningful experiences for its customers and contribute to society's well-being.\n\nMission is a specific objective, while purpose is a more general reason behind that objective. Both are essential and applicable in different contexts.\n\nMission describes more specific, short-term goals or tasks, while purpose describes an overarching reason or goal that motivates an individual or organization in the long-term.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d14dda9b-9f3a-4545-bd11-8a9b348d08bb.webp"
+        },
+        "Task": {
+            "wordRoot": "Task",
+            "wordDefinition": "Mission and task are both related to an objective one wants to achieve, but mission refers to a broader, overarching goal, while task refers to a specific, smaller goal within the mission.\n\nFor example, a mission might be to build a school in a rural area to improve education, while a task within that mission could be to raise funds for the construction.\n\nIn other words, mission is the big picture and task are the smaller steps necessary to achieve that picture.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/10fc63e2-3490-4f67-8690-9983c0f7c30b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " by carrying sophisticated electronic sensors that would measure everything from temperature to cosmic rays. You could deploy thousands of them for the cost of a single space shuttle mission, exponentially increasing the amount of data we could collect about the universe.",
+            "Title": "Will future spacecraft...",
+            "VideoId": "Y7IsyjFROHE",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " The beautiful animations that help you learn new things? That experience is free for you, but it's really expensive for us, and that's okay. Our mission is to invest in thoughtful people, but we need some of you to invest in us. Why? Because the love you've shown TED-Ed",
+            "Title": "TED-Ed is on Patreon! We...",
+            "VideoId": "1kSEmgIJNqE",
+            "Controls": "start=1"
+        },
+        {
+            "Text": " the house and try to change the world and a positive and meaningful way and so that is my mission to try to inspire students to try to help create scientists and that beautiful woman that I met that day that inspired me to get of the house she is now my wife and we",
+            "Title": "How math saved my life PIPE...",
+            "VideoId": "GDU7lEmiiD8",
+            "Controls": "start=761"
+        },
+        {
+            "Text": " and that's the free market system. About a year ago, some friends of mine and I started a not-for-profit called Just Capital. Its mission is very to help companies and corporations learn how to operate in a more just fashion by using the public's input",
+            "Title": "Paul Tudor Jones II: Why...",
+            "VideoId": "dvJSK4viVMs",
+            "Controls": "start=362"
+        },
+        {
+            "Text": " missions and project apollo catherine johnson was so good at what she did they needed her as an engineer when they had briefings i asked permission to go and they said well the girls don't usually go and i said well",
+            "Title": "NASA Trailblazer:...",
+            "VideoId": "E4j_LpKzcZQ",
+            "Controls": "start=149"
+        },
+        {
+            "Text": " that we know of, to develop life as we know it. I love this picture and it's about as much meaning as you can get out of the the Cassini mission, because we know that moon has an ocean in it",
+            "Title": "Water Discovered In...",
+            "VideoId": "xxjSfuF6Cvo",
+            "Controls": "start=283"
+        },
+        {
+            "Text": " mission impossible not at all because of her third super power porsche is a genius she can map her world in three",
+            "Title": "Best Scenes From The...",
+            "VideoId": "41hj6w_QLZs",
+            "Controls": "start=756"
+        },
+        {
+            "Text": " one mission more than any other has deepened our understanding of the galaxy a spacecraft bearing the name of an",
+            "Title": "This Spacecraft Maps 1.5...",
+            "VideoId": "tVr9htafhzA",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " as the day wears on deep in the heart of this venezuelan mountain george's mission into perpetual darkness",
+            "Title": "Pink Catfish Discovered...",
+            "VideoId": "59larGjRE9A",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " mission accomplished now she must protect her kill the boar is as big as she is",
+            "Title": "Best Wild Animal Chases...",
+            "VideoId": "hrWd_-jDVB0",
+            "Controls": "start=124"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dustin-moskovitz.webp",
+            "Text": "Facebook was a very big mission; it really knocked it out of the universe. It's pretty hard to focus on a small idea after that. You really have to be working on something that you believe will be of similar impact.",
+            "Title": "American Businessman",
+            "Name": "Dustin Moskovitz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/clarence-seedorf.webp",
+            "Text": "I'm on a mission partly to make a difference in the world for the better, starting with the kids. They are the future.",
+            "Title": "Dutch Coach",
+            "Name": "Clarence Seedorf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-etoo.webp",
+            "Text": "You can have all the problems in the world, but you have to see out your mission.",
+            "Title": "Cameroonian Athlete",
+            "Name": "Samuel Eto'o"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "The thing I really care about is the mission, making the world open.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-budden.webp",
+            "Text": "My mom's mission my entire teenage years was just to save my life.",
+            "Title": "American Musician",
+            "Name": "Joe Budden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andrew-ng.webp",
+            "Text": "I thought the best place to advance the AI mission is at Baidu.",
+            "Title": "Chinese Scientist",
+            "Name": "Andrew Ng"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nina-turner.webp",
+            "Text": "I am on a mission to help make this world a better place.",
+            "Title": "American Politician",
+            "Name": "Nina Turner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jose-angel-gurria.webp",
+            "Text": "Our mission is to make the world economy work better.",
+            "Title": "Mexican Economist",
+            "Name": "Jose Angel Gurria"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mattie-stepanek.webp",
+            "Text": "My life mission is to spread peace to the world.",
+            "Title": "American Poet",
+            "Name": "Mattie Stepanek"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alan-stern.webp",
+            "Text": "Every mission has life-or-death moments.",
+            "Title": "American Scientist",
+            "Name": "Alan Stern"
+        }
+    ]
+}

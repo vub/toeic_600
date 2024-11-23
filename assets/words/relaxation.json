@@ -1,0 +1,333 @@
+{
+    "currentWord": {
+        "wordRoot": "relaxation",
+        "id": 5114,
+        "phonemic": "ˌriːlækˈseɪʃn|ˌriːlækˈseɪʃn\r",
+        "bigId": "76383b74-3f6e-4607-9ac9-17693186f9c9",
+        "wordForms": [
+            "relaxations",
+            "relaxation"
+        ]
+    },
+    "senses": [
+        {
+            "id": "76383b74-3f6e-4607-9ac9-17693186f9c9",
+            "de": "The act or state of being calm and not worried",
+            "ty": "noun",
+            "ex": "The spa is a place of relaxation.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "relaxation techniques",
+                " relaxation time",
+                " relaxation room"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/76383b74-3f6e-4607-9ac9-17693186f9c9.webp",
+            "Tips": [
+                {
+                    "title": "Emotional State",
+                    "description": "Often used when describing emotional relief or escaping stress.",
+                    "example": "After finals week, I needed some relaxation.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8lnabovRGl6wOJrXp1gIJD31YE.webp"
+                },
+                {
+                    "title": "Not Always Idle",
+                    "description": "Relaxation doesn't mean doing nothing; activities can be relaxing too.",
+                    "example": "Gardening is my go-to relaxation activity.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xuEN6p3LtVfLVvxBV9eYGaEL0.webp"
+                }
+            ]
+        },
+        {
+            "id": "969c0414-0c6e-40ac-a93b-d9bf8018d5f0",
+            "de": "Something that you do to rest or enjoy yourself",
+            "ty": "noun",
+            "ex": "Listening to classical music is her favorite form of relaxation.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "relaxation activity",
+                " relaxation exercise",
+                " relaxation method"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/969c0414-0c6e-40ac-a93b-d9bf8018d5f0.webp",
+            "Tips": [
+                {
+                    "title": "Subjective Variety",
+                    "description": "What one finds relaxing, another may not. It's personal preference.",
+                    "example": "For some, cooking is a great relaxation method.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "820e5041-cd19-4f07-8778-4cf26835a223",
+            "de": "A way of reducing stiffness or tension in a part of the body",
+            "do": "medical",
+            "ty": "noun",
+            "ex": "The physical therapist will teach you muscle relaxation techniques.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "muscle relaxation",
+                " relaxation therapy",
+                " relaxation training"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/820e5041-cd19-4f07-8778-4cf26835a223.webp",
+            "Tips": [
+                {
+                    "title": "Health Context",
+                    "description": "In medical or wellness contexts, it refers to physical tension reduction.",
+                    "example": "Regular relaxation exercises can help manage chronic pain.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Massage",
+                    "description": "It's not just massage; relaxation can involve breathing exercises and more.",
+                    "example": "Yoga promotes deep muscle relaxation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b0900d48-e47f-4e59-b92f-b4f672a23353",
+            "de": "The act or process of becoming less strict or severe",
+            "ty": "noun",
+            "ex": "There has been a relaxation of the laws regarding cannabis in some states.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "relaxation of rules",
+                " relaxation of regulations",
+                " relaxation of restrictions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b0900d48-e47f-4e59-b92f-b4f672a23353.webp",
+            "Tips": [
+                {
+                    "title": "Regulations and Rules",
+                    "description": "In legal and policy contexts, implies making rules less rigid or strict.",
+                    "example": "The relaxation of visa rules boosted tourism.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "Relaxation of standards or rules isn't always viewed positively.",
+                    "example": "Critics argue that the relaxation of bank regulations could lead to another financial crisis.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "56f67e51-5ba6-4cb4-8c24-b6d94e3f4b29",
+            "de": "In physics, the return of a system to equilibrium after a disturbance",
+            "do": "physics",
+            "ty": "noun",
+            "ex": "They studied the relaxation time of the magnetic field in the laboratory.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "relaxation process",
+                " relaxation time",
+                " spin relaxation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/56f67e51-5ba6-4cb4-8c24-b6d94e3f4b29.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Concept",
+                    "description": "In science, it is a specific process, not to be confused with resting.",
+                    "example": "Nuclear magnetic resonance involves measuring spin-lattice relaxation.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Academic Language",
+                    "description": "Used in technical discussions, not casual conversation.",
+                    "example": "Her lecture covered electron relaxation phenomena in semiconductors.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Calm": {
+            "wordRoot": "Calm",
+            "wordDefinition": "Calm implies a state of peace and tranquility in one's mind or emotions.\n\nIt's a feeling of being composed and untroubled. Calmness can come in any situation regardless of being in a relaxed or active state.\n\nCalm is applicable when we need clarity of mind and want to stay composed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3bd986e5-54e4-49ab-91e3-a57904057f3c.webp"
+        },
+        "Ease": {
+            "wordRoot": "Ease",
+            "wordDefinition": "Ease refers to the state of being comfortable, free from pain or trouble, or without difficulty.\n\nIt is often used to describe a situation where something is made easier or more comfortable to do. For example, a soft cushion can ease the pain in your back, or taking a break can ease the stress you feel.\n\nEase refers to making something easier or more comfortable, while relaxation refers to the state of being mentally and physically calm and free from stress.\n\nBoth words are applicable in different scenarios - ease to remove discomfort or difficulties, and relaxation to find peace and calmness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/122cdceb-3da5-4278-847a-b270b574d32a.webp"
+        },
+        "Leisure": {
+            "wordRoot": "Leisure",
+            "wordDefinition": "Leisure refers to the time that you have free from work, study or obligations. It is the time when you can engage yourself in the activities you like, such as hobbies, sports, and entertainment.\n\nIt can be achieved during leisure time or even while working.\n\nLeisure is a period of time when you can engage in enjoyable activities while relaxation is a state of being calm and free of stress.\n\nLeisure time can be used for relaxation, but relaxation can also be done at any time during the day.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1daee87e-7620-4204-bc3b-b81ac04252cd.webp"
+        },
+        "Refreshment": {
+            "wordRoot": "Refreshment",
+            "wordDefinition": "Refreshment refers to something that rejuvenates your energy or makes you feel more awake and alert. This could be a cold drink on a hot day or a short break from work to clear your mind.\n\nRefreshment is applicable when you need to re-energize yourself and regain focus.\n\nRefreshment is about restoring energy and focus while relaxation is about calming the mind and body. Depending on the situation, one may be more applicable than the other.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c44140f6-ab23-4add-a69e-7134e2da8450.webp"
+        },
+        "Rejuvenate": {
+            "wordRoot": "Rejuvenate",
+            "wordDefinition": "Rejuvenate means to restore something to its original or youthful state.\n\nBoth words are applicable in different circumstances. For example, if you're feeling tired and sluggish after a long day at school, going for a run or doing some yoga might rejuvenate you and bring back your energy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2b79ca02-d605-47ac-af15-489e73683753.webp"
+        },
+        "Repose": {
+            "wordRoot": "Repose",
+            "wordDefinition": "Repose refers to a state of rest or tranquility, either physical or mental. It often implies a period of inactivity or withdrawal from the demands of daily life.\n\nFor example, lying down on a comfortable surface and taking a nap can help you find repose.\n\nIn a nutshell, relaxation refers to the process of relieving tension or anxiety, while repose refers to the state of being at rest or at peace.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf5dd579-64ca-40c9-9f99-1866d7286db4.webp"
+        },
+        "Rest": {
+            "wordRoot": "Rest",
+            "wordDefinition": "Rest means to cease activities and take a break, giving our body and mind a chance to recover and rejuvenate.\n\nIt usually involves activities such as sleeping, lying down or sitting, and watching TV. We use rest as a way to recharge our batteries, feel energized, and ready to take on activities again.\n\nRelaxation helps us release stress and feel peaceful, while rest helps us recover and revitalize our body and mind. Both are important to maintain a healthy lifestyle.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/db6afbce-8e0d-47b9-84ea-73f069db50ee.webp"
+        },
+        "Tranquil": {
+            "wordRoot": "Tranquil",
+            "wordDefinition": "Tranquil refers to a peaceful and serene environment. It describes a place or situation that is free from disturbance, noise, or chaos.\n\nTranquil surroundings can include a calm lake, a quiet library or a silent forest.\n\nRelaxation is applicable to a person's mood or state of mind while tranquil is applicable to a place or situation that is peaceful or serene.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d1cfdf80-b9e4-4785-ae64-1949681b4222.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " What goes on during that time? How enriching are the apps that we're using? And some are enriching. If you stop people while they're using them and say, \"Tell us how you feel right now,\" they say they feel pretty good about these apps -- those that focus on relaxation, exercise, weather, reading,",
+            "Title": "Why our screens make us...",
+            "VideoId": "0K5OO2ybueM",
+            "Controls": "start=258"
+        },
+        {
+            "Text": " So if you experience mathematical anxiety, what can you do? Relaxation techniques, like short breathing exercises, have improved test performance in students with math anxiety. Writing down your worries can also help. This strategy may give you a chance to reevaluate a stressful experience,",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " for a pack of predators. But hey, the vertebrate hypothalamus has had millions of years more practice than you. Just before you go on stage, it's time to fight dirty and trick your brain. Stretch your arms up and breath deeply. This makes your hypothalamus trigger a relaxation response.",
+            "Title": "The science of stage...",
+            "VideoId": "K93fMnFKwfI",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " which gives users a surge of pleasure. Alcohol also causes some neurons to synthesize and release endorphins. Endorphins help us to calm down in response to stress or danger. Elevated levels of endorphins contribute to the euphoria and relaxation associated with alcohol consumption.",
+            "Title": "How does alcohol make...",
+            "VideoId": "gCrmFbgT37I",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " and other diseases. And for many of us, the diversity and beauty of the oceans is where we turn for recreation and relaxation and our cultural heritage. In order for us to continue to benefit from the abundance that ocean life provides,",
+            "Title": "Are we interrupting the...",
+            "VideoId": "Va_8GmU9cmQ",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " So now we have two calm surrender. Can you see it? Mm-hmm. So that's why it's so important to assess and evaluate how they feel, not what they did, what they're doing right now. Right. Yawning is good. A yawn equals relaxation.",
+            "Title": "Calming an Overly...",
+            "VideoId": "Tmm6EfWAi8Q",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " creating a miniscule electrical discharge. When you have a dominant mental state, like relaxation, hundreds and thousands of neurons are firing in the brain, creating concurrent electrical discharges in characteristic patterns",
+            "Title": "When technology can read...",
+            "VideoId": "AHV_BxlNzmM",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " work by reducing the activity in pain-sensing circuits or boosting our coping system, or endorphins. Some people can cope with pain using methods that involve distraction, relaxation, meditation, yoga,",
+            "Title": "How does your brain...",
+            "VideoId": "I7wfDenj6CQ",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " However, there is evidence to suggest that yoga can help reduce the symptoms of stress, as well as meditation or relaxation. Research on the effects of yoga is still evolving.",
+            "Title": "What yoga does to your...",
+            "VideoId": "_8kV4FHSdNA",
+            "Controls": "start=300"
+        },
+        {
+            "Text": " awake the pool is also a social hot spot where determined fingers complete the cleansing and relaxation treatment",
+            "Title": "Monkey Spa PIPE Cousins PIPE...",
+            "VideoId": "ItWDAoBlEog",
+            "Controls": "start=102"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tara-stiles.webp",
+            "Text": "We all strive for balance, often moving to extremes to find ourselves somewhere in the middle where we can sustainably exist in optimal inspiration. Working toward balance takes a lot of ingredients. We need courage, reflection, attention, action, and a push-and-pull relationship between effort and relaxation.",
+            "Title": "American Model",
+            "Name": "Tara Stiles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/xi-jinping.webp",
+            "Text": "I like sports, and swimming is my favorite. Doing physical exercises keeps one fit and healthy and helps one work more efficiently. I think we all need to strike a balance between work and relaxation. This can keep us energetic and help us do our job better.",
+            "Title": "Chinese Politician",
+            "Name": "Xi Jinping"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ivor-novello.webp",
+            "Text": "There is an atmosphere about the picture theatre that speaks of entertainment and relaxation. The charming surroundings, good music, and the fact that each visitor is determined to enjoy a few hours of holiday all exert an influence on the mind.",
+            "Title": "Welsh Musician",
+            "Name": "Ivor Novello"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-bulfinch.webp",
+            "Text": "Thus we hope to teach mythology not as a study, but as a relaxation from study; to give our work the charm of a story-book, yet by means of it to impart a knowledge of an important branch of education.",
+            "Title": "American Writer",
+            "Name": "Thomas Bulfinch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeetendra.webp",
+            "Text": "I genuinely treasure my friends, they are my real support... What I get from them is big support, relief and relaxation as we meet every day to play cards.",
+            "Title": "Indian Actor",
+            "Name": "Jeetendra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/suzanne-somers.webp",
+            "Text": "Reduce the stress levels in your life through relaxation techniques like meditation, deep breathing, and exercise. You'll look and feel way better for it.",
+            "Title": "American Actress",
+            "Name": "Suzanne Somers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-whately.webp",
+            "Text": "Walking is my main method of relaxation. I don't go over my lines or try to solve the world's problems, I just enjoy the scenery and the wildlife.",
+            "Title": "English Actor",
+            "Name": "Kevin Whately"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paulo-coelho.webp",
+            "Text": "The gigantic tension before the shooting of an arrow, and the total relaxation seconds later, is my way of connecting to the universe.",
+            "Title": "Brazilian Novelist",
+            "Name": "Paulo Coelho"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-matthew-adams.webp",
+            "Text": "A cheerful frame of mind, reinforced by relaxation... is the medicine that puts all ghosts of fear on the run.",
+            "Title": "American Editor",
+            "Name": "George Matthew Adams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gustav-klimt.webp",
+            "Text": "True relaxation, which would do me the world of good, does not exist for me.",
+            "Title": "Austrian Artist",
+            "Name": "Gustav Klimt"
+        }
+    ]
+}

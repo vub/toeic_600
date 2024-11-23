@@ -1,0 +1,297 @@
+{
+    "currentWord": {
+        "wordRoot": "authorize",
+        "id": 6154,
+        "phonemic": "ˈɔːθəraɪz|ˈɔːθəraɪz\r",
+        "bigId": "33a8a264-59bc-448b-8997-60c6a7c701c1",
+        "wordForms": [
+            "authorizes",
+            "authorizing",
+            "authorized",
+            "unauthorized",
+            "authorised",
+            "reauthorized",
+            "reauthorize",
+            "authorize"
+        ]
+    },
+    "senses": [
+        {
+            "id": "33a8a264-59bc-448b-8997-60c6a7c701c1",
+            "de": "To give official permission for something to happen, or to give someone the power to do something.",
+            "ty": "verb",
+            "ex": "The city council has authorized the construction of new apartments.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "authorize construction",
+                " authorize action",
+                " authorize use"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/33a8a264-59bc-448b-8997-60c6a7c701c1.webp",
+            "Tips": [
+                {
+                    "title": "Official Permission",
+                    "description": "Used when someone with authority allows an activity or process; implies legal or formal approval.",
+                    "example": "The school board authorized the new curriculum.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nhTKnM3Q0AjL3OQkjPoQHXMtYk.webp"
+                },
+                {
+                    "title": "Legal Power",
+                    "description": "'Authorize' often relates to laws or regulations giving power to act or proceed.",
+                    "example": "The government authorized the emergency use of the vaccine.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/TXUWvTCTTT6KODEDoujenjGRc.webp"
+                },
+                {
+                    "title": "Not Delegating",
+                    "description": "Authorizing doesn't necessarily mean delegating the task; it can simply allow it to happen.",
+                    "example": "She authorized the sale without managing it herself.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/srIKxjTw4bgjkmU4d5Zvyk86JGY.webp"
+                }
+            ]
+        },
+        {
+            "id": "df194aa6-8e4d-4517-84fc-1ce5fc95aef2",
+            "de": "To officially allow someone to act for you, especially by writing a letter or a contract.",
+            "ty": "verb",
+            "ex": "I authorize you to act on my behalf.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "authorize representation",
+                " authorize action",
+                " authorize access"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/df194aa6-8e4d-4517-84fc-1ce5fc95aef2.webp",
+            "Tips": [
+                {
+                    "title": "Acting Permission",
+                    "description": "When you authorize someone, you're giving them legal or formal consent to do something for you.",
+                    "example": "He authorized his lawyer to negotiate on his behalf.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Deputize Others",
+                    "description": "'Authorize' implies empowering someone to act as your representative or agent.",
+                    "example": "She authorized her assistant to sign checks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Written Confirmation",
+                    "description": "Authorizing often involves official documentation, like a letter or email to confirm.",
+                    "example": "They received a written notice authorizing them to proceed.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "429c04e8-d92f-498b-b194-c8a58ae5f253",
+            "de": "To approve a financial transaction.",
+            "do": "Finance",
+            "ty": "verb",
+            "ex": "The bank has authorized the payment.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "authorize payment",
+                " authorize transaction",
+                " authorize withdrawal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/429c04e8-d92f-498b-b194-c8a58ae5f253.webp",
+            "Tips": [
+                {
+                    "title": "Financial Approval",
+                    "description": "Specific to money, it means officially approving a transaction or withdrawal.",
+                    "example": "The manager authorized the refund to the customer's credit card.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Transaction Security",
+                    "description": "In finance, authorization is a security measure to prevent fraud or misuse of funds.",
+                    "example": "The payment system authorized the charge after verifying the account details.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accredit": {
+            "wordRoot": "Accredit",
+            "wordDefinition": "To accredit means to give official recognition or approval to someone or something, usually through a formal process. For example, a university may accredit a college program to ensure that it meets specific standards.\n\nAccredit is typically used in the context of official recognition or approval, while authorize is used in the context of giving permission or approval for something to happen.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b781ef50-72d4-49bd-bd49-03f04f0fe114.webp"
+        },
+        "Approve": {
+            "wordRoot": "Approve",
+            "wordDefinition": "Approve means to give permission or support to something. For example, a teacher might approve a student's request to take a day off from school for a family event.\n\nIn simpler terms, approve means saying yes to something, while authorize means giving someone the power to do something or giving official permission for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6fb1d5e8-037d-4744-8137-b3a38373a4a2.webp"
+        },
+        "Empower": {
+            "wordRoot": "Empower",
+            "wordDefinition": "Empower means to give someone the power or ability to do something.\n\nIt is used when someone needs to feel confident in their abilities to carry out a task. For example, a teacher can empower their students by giving them the tools and knowledge they need to succeed in their academic pursuits.\n\nAuthorize is used when someone needs official permission to do something, while empower is used when someone needs the power or confidence to do something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/71e91869-def3-4775-8bb1-22908038b5a3.webp"
+        },
+        "Endorse": {
+            "wordRoot": "Endorse",
+            "wordDefinition": "Endorse means to express support or approval for someone or something. For example, a celebrity might endorse a product by appearing in an advertisement for it.\n\nSo basically, authorize is about giving permission or power, while endorse is about expressing support or approval. Both words are applicable in different situations depending on what is being referred to.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d6371da8-9f69-4d21-bebb-f06a8cfd4a80.webp"
+        },
+        "License": {
+            "wordRoot": "License",
+            "wordDefinition": "License means to grant official permission to do something or use something. For example, a driver's license is an official document allowing someone to legally drive a vehicle.\n\nAuthorize means giving permission for something to happen, while license means granting official permission to do something or use something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/837e9a2a-fcd5-4b8f-80bb-47925e826183.webp"
+        },
+        "Permit": {
+            "wordRoot": "Permit",
+            "wordDefinition": "The words authorize and permit both mean to give someone the go-ahead or approval to do something.\n\nPermit is used when the person or organization giving permission doesn't necessarily have the power or authority, but they allow it anyway.\n\nFor example, a city might issue a permit for a construction project, meaning they allow it to happen even though they don't necessarily have control over the project itself.\n\nIn summary: Authorize means to give permission because you have the power or authority to do so, while permit means to allow something to happen even if you don't necessarily have complete control over it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3b308e0a-6f60-40ad-8907-0913004efaff.webp"
+        },
+        "Ratify": {
+            "wordRoot": "Ratify",
+            "wordDefinition": "Ratify means to approve or confirm something, usually by an official group or organization. For example, a government might ratify a treaty that was negotiated with another country.\n\nThe main difference between these words is that authorize is more about giving permission or authority for someone to take an action, while ratify is more about confirming or approving a decision that has already been made.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/48b48379-e310-4de5-8c5c-54e0201bb4b9.webp"
+        },
+        "Sanction": {
+            "wordRoot": "Sanction",
+            "wordDefinition": "However, authorize is usually used when someone grants permission or power to another person or entity to do something, while sanction is used when someone imposes a penalty or consequence due to someone else's actions.\n\nA school might sanction a student for cheating on a test, meaning they impose a punishment or consequence for breaking the rules.\n\nTo authorize means to give permission or power to do something, while to sanction means to impose a penalty or consequence for actions taken.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8c7be27f-f1c2-444c-9fc8-1d2b22ca34ef.webp"
+        },
+        "Validate": {
+            "wordRoot": "Validate",
+            "wordDefinition": "Validate means to confirm or prove that something is true or accurate. For example, a doctor may validate a patient's diagnosis by conducting tests or a website may validate a user's login credentials before allowing access.\n\nAuthorize is applicable when someone needs permission to do something, while validate is applicable when checking the truth or accuracy of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/448bb058-21fd-4217-877d-3aef10565172.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And you come here to tell me that I cannot keep on living here? My whole family has lived here, I raised my children here, and my children will also raise their children here. and my grandchildren and everyone else will. But why are you imposing this on me? You! You are imposing this on me! In danger zone I am not authorized to build.",
+            "Title": "Alejandro Aravena: My...",
+            "VideoId": "o0I0Poe3qlg",
+            "Controls": "start=684"
+        },
+        {
+            "Text": " worldwide right and license to use, copy, store, perform, display, reproduce, record, play, adapt, modify and distribute the content, prepare derivative works of the content, or incorporate the content into other works and grant and authorize sublicenses of the foregoing in any media now known or hereafter created.\"",
+            "Title": "How tech companies...",
+            "VideoId": "4E_1AB1rsSw",
+            "Controls": "start=560"
+        },
+        {
+            "Text": " and there is discussion that goes on in the executive branch and within NSA itself and the intelligence community about what's right, what's proportionate, what's the correct thing to do. And it's important to note that the programs that we're talking about were all authorized by two different presidents,",
+            "Title": "Richard Ledgett: The NSA...",
+            "VideoId": "zLNXIXingyU",
+            "Controls": "start=1537"
+        },
+        {
+            "Text": " becomes so important. Whether it's by finding those innovations that can access the capital markets, government itself, or partner with major corporations, there is unbelievable opportunity for innovation. President Obama understands that. He recently authorized the creation of a Social Innovation Fund",
+            "Title": "Jacqueline Novogratz: A...",
+            "VideoId": "x4m6j7rSyzY",
+            "Controls": "start=612"
+        },
+        {
+            "Text": " in order to feed their families -- humanitarian aid, the dirty secret of it is it has to be heated, really, to be edible -- are themselves subjected to rape, which is a tool of the genocide that is being used. And the peacekeepers I've mentioned, the force has been authorized,",
+            "Title": "Samantha Power: Shaking...",
+            "VideoId": "_lZ55gHabAA",
+            "Controls": "start=455"
+        },
+        {
+            "Text": " The commanders on the sub, too deep to communicate with the surface, thought war had begun and prepared to launch a nuclear torpedo. That decision had to be made unanimously by three officers. The captain and political officer both authorized the launch,",
+            "Title": "The history of the Cuban...",
+            "VideoId": "bwWW3sbk4EU",
+            "Controls": "start=154"
+        },
+        {
+            "Text": " Yeah. The bottom line is that terrorism has always been what we in the intelligence world would call a cover for action. Terrorism is something that provokes an emotional response that allows people to rationalize authorizing powers and programs",
+            "Title": "How we take back the...",
+            "VideoId": "yVwAodrjZMY",
+            "Controls": "start=1320"
+        },
+        {
+            "Text": " were authorized illegally by provincial officials who wanted to boost their balance sheet. Because these were illegally authorized, they are a perfect enforcement target. Now, another major problem is all of the coal-fired power stations",
+            "Title": "Why Is China Appointing...",
+            "VideoId": "n4QRIKCebSI",
+            "Controls": "start=553"
+        },
+        {
+            "Text": " The central bank determines how much money is in circulation at a time. So why can’t central banks authorize the printing of unlimited money to help an economy in crisis? They could, but that’s a short-term solution",
+            "Title": "Why can’t governments...",
+            "VideoId": "GFTKKyYSCKs",
+            "Controls": "start=51"
+        },
+        {
+            "Text": " world remain only those authorized by the Pope may enter guardians from the Vatican's division of sacred archaeology lead the way",
+            "Title": "Christian Catacomb...",
+            "VideoId": "I7taFaepbe8",
+            "Controls": "start=19"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cesare-beccaria.webp",
+            "Text": "No man can be judged a criminal until he is found guilty; nor can society take from him the public protection until it has been proved that he has violated the conditions on which it was granted. What right, then, but that of power, can authorize the punishment of a citizen so long as there remains any doubt of his guilt?",
+            "Title": "Italian Judge",
+            "Name": "Cesare Beccaria"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-bowie.webp",
+            "Text": "I'm looking for backing for an unauthorized auto-biography that I am writing. Hopefully, this will sell in such huge numbers that I will be able to sue myself for an extraordinary amount of money and finance the film version in which I will play everybody.",
+            "Title": "English Musician",
+            "Name": "David Bowie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lysander-spooner.webp",
+            "Text": "If the jury have no right to judge of the justice of a law of the government, they plainly can do nothing to protect the people against the oppressions of the government; for there are no oppressions which the government may not authorize by law.",
+            "Title": "American Philosopher",
+            "Name": "Lysander Spooner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-price.webp",
+            "Text": "We pass bills authorizing improvements and grants. But when it comes time to pay for these programs, we'd rather put the country's money toward tax breaks for the wealthy than for police officers who are protecting our communities.",
+            "Title": "American Politician",
+            "Name": "David Price"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-biden.webp",
+            "Text": "When we wrote the Constitution, the intention was to give the commander in chief the authority how to use the forces when you authorize him to be able to use the forces.",
+            "Title": "American President",
+            "Name": "Joe Biden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-pierre-raffarin.webp",
+            "Text": "It's important to show that, while authorizing the demonstrations and promoting diversity of opinion, the Republic can't allow itself to be undermined from within.",
+            "Title": "French Politician",
+            "Name": "Jean-Pierre Raffarin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rowan-williams.webp",
+            "Text": "To be a Christian is to believe we are commanded and authorised to say certain things to the world; to say things that will make disciples of all nations.",
+            "Title": "English Theologian",
+            "Name": "Rowan Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barbra-streisand.webp",
+            "Text": "I'm interested in the truth, and unauthorized biographies are not. Yes, I would like to correct those errors someday.",
+            "Title": "American Actress",
+            "Name": "Barbra Streisand"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nancy-cartwright.webp",
+            "Text": "I am not authorized to fire substitute teachers.",
+            "Title": "American Actress",
+            "Name": "Nancy Cartwright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oliver-north.webp",
+            "Text": "I was authorized to do everything that I did.",
+            "Title": "American Soldier",
+            "Name": "Oliver North"
+        }
+    ]
+}

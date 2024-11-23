@@ -1,0 +1,352 @@
+{
+    "currentWord": {
+        "wordRoot": "enterprise",
+        "id": 9326,
+        "phonemic": "ˈentəpraɪz|ˈentərpraɪz\r",
+        "bigId": "82664114-bd70-4be7-b5de-27ff0345d692",
+        "wordForms": [
+            "enterprises",
+            "enterprise"
+        ]
+    },
+    "senses": [
+        {
+            "id": "82664114-bd70-4be7-b5de-27ff0345d692",
+            "de": "A project or activity that is difficult and needs a lot of effort to complete",
+            "ty": "noun",
+            "ex": "Starting a new enterprise is always a risky decision.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business enterprise",
+                " enterprise zone",
+                " join an enterprise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/82664114-bd70-4be7-b5de-27ff0345d692.webp",
+            "Tips": [
+                {
+                    "title": "Effort Requirement",
+                    "description": "Use this sense of 'enterprise' when discussing projects that require significant effort and commitment.",
+                    "example": "She devoted herself fully to the educational enterprise.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vE0bZDhrZKTvl03ZoaJky7CTU3I.webp"
+                },
+                {
+                    "title": "Risk Awareness",
+                    "description": "Often implies a notable risk or challenge involved in the project being referenced.",
+                    "example": "Their latest enterprise could revolutionize the industry, but it's filled with uncertainty.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yvzIYHvcfu1tGGuYxwwIrcv0HY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d8a58b30-382b-49ea-9c6b-6220f9df90c4",
+            "de": "The ability or wish to do something new and clever, despite the risks",
+            "ty": "noun",
+            "ex": "People admire his energy and enterprise.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "personal enterprise",
+                " show enterprise",
+                " demonstrate enterprise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d8a58b30-382b-49ea-9c6b-6220f9df90c4.webp",
+            "Tips": [
+                {
+                    "title": "Creativity Highlight",
+                    "description": "Highlights the innovative and creative aspects of making bold decisions or actions.",
+                    "example": "She was recognized for her enterprise in navigating the market's changes.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Positive Connotation",
+                    "description": "Usually used in a positive light, praising someone's ambition or daring nature.",
+                    "example": "He showed great enterprise by taking on the leadership role with little experience.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c2a7e487-7b29-40f7-8874-8fd60c779980",
+            "de": "A company or business",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "The new policy will be beneficial to small and medium enterprises.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "private enterprise",
+                " enterprise economy",
+                " medium-sized enterprise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c2a7e487-7b29-40f7-8874-8fd60c779980.webp",
+            "Tips": [
+                {
+                    "title": "Business Context",
+                    "description": "Refers to all forms of businesses, from small startups to large corporations, often used in economic discussions.",
+                    "example": "She built a thriving enterprise from the ground up.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Company Scale",
+                    "description": "Used to indicate the size and scope of a business, not just its legal form.",
+                    "example": "The grant was earmarked for small and medium-sized enterprises.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "36e21640-61d9-4e9d-a6e1-cddc57208799",
+            "de": "A difficult plan, especially one that involves risk",
+            "ty": "noun",
+            "ex": "They are on an enterprise to sail around the world.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "risky enterprise",
+                " embark on an enterprise",
+                " succeed in an enterprise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/36e21640-61d9-4e9d-a6e1-cddc57208799.webp",
+            "Tips": [
+                {
+                    "title": "Adventurous Undertone",
+                    "description": "Carries an undertone of adventure or exploration, often used for ambitious plans or journeys.",
+                    "example": "Their sailing enterprise took them across uncharted seas.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7f743cd7-cef5-45f7-b882-4bfe83afcd7c",
+            "de": "The readiness to embark on bold new ventures",
+            "ty": "noun",
+            "ex": "Entrepreneurs are known for their spirit of enterprise.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "spirit of enterprise",
+                " enterprise culture",
+                " bold enterprise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7f743cd7-cef5-45f7-b882-4bfe83afcd7c.webp",
+            "Tips": [
+                {
+                    "title": "Entrepreneurial Spirit",
+                    "description": "Explains the enthusiasm and proactive stance required to start new ventures, typically linked to entrepreneurship.",
+                    "example": "The new startup exudes a contagious spirit of enterprise.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4878d661-57fb-4be6-a55a-3679bd9c10df",
+            "de": "A system or software that manages an organization's data and processes",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The company has recently updated their enterprise software system.",
+            "use": "",
+            "co": "Technical",
+            "re": "Technical",
+            "tp": "",
+            "cl": [
+                "enterprise architecture",
+                " enterprise resource planning",
+                " enterprise system"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4878d661-57fb-4be6-a55a-3679bd9c10df.webp",
+            "Tips": [
+                {
+                    "title": "Tech Applications",
+                    "description": "Focuses on enterprise as software solutions or systems designed for organizations, a common term in the tech industry.",
+                    "example": "Their enterprise system helped integrate all their business processes.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Business": {
+            "wordRoot": "Business",
+            "wordDefinition": "Business usually refers to a company, organization, or individual who is selling or providing goods or services, with the goal of making a profit.\n\nEnterprise usually refers to a large or complex business organization that involves many different parts or aspects, which may include multiple departments or projects, and may need significant planning and coordination.\n\nFor example, a small bakery might be referred to as a business, while a large international conglomerate that produces many different products and services might be called an enterprise.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ebe1077a-41da-4fa1-b264-0275eecaf50d.webp"
+        },
+        "Company": {
+            "wordRoot": "Company",
+            "wordDefinition": "The words company and enterprise are often used interchangeably but they have different meanings.\n\nA company is a specific type of business entity that is formed by a group of people or an individual.\n\nA company can be a small business or a large corporation, and can operate in a variety of industries.\n\nA company is a specific type of business organization, while an enterprise refers to any project or initiative aimed at achieving a particular goal.\n\nBoth terms can describe a business, but company is more specific, while enterprise is more general.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/38723cb2-70be-47cc-9518-9f32aa12b32d.webp"
+        },
+        "Initiative": {
+            "wordRoot": "Initiative",
+            "wordDefinition": "Initiative refers to taking action or starting something new. It is applicable when referring to an individual or group of individuals.\n\nFor example, \"Samantha took the initiative to start a community garden.\"\n\nEnterprise refers to a large business, while initiative refers to taking action to start something new.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a2dfeada-9ea4-4ca8-8c08-5c54278d355d.webp"
+        },
+        "Organization": {
+            "wordRoot": "Organization",
+            "wordDefinition": "Enterprise usually refers to a large and complex business venture, while the word organization refers to a structured group of people working together to achieve a common goal.\n\nEnterprise could be used to describe a big company or a new business venture, while organization could refer to non-profit groups or sports teams.\n\nEnterprise is mostly used to describe a business while organization can be used for various groups or associations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2366d93d-1c4c-4dde-9278-1078efab1c64.webp"
+        },
+        "Project": {
+            "wordRoot": "Project",
+            "wordDefinition": "It involves ongoing planning, management, and investment, and often includes various projects as part of its operations.\n\nA project refers to a specific endeavor that has a defined scope, timelines, and goals. It is a temporary effort that aims to deliver a unique product, service, or result.\n\nProjects are usually managed separately within an enterprise, and can require different skills, resources, and approaches.\n\nAn enterprise is like a big umbrella organization that consists of many different projects. An enterprise usually focuses on long-term goals and overall strategy, while a project is a temporary effort focused on achieving specific objectives within a set timeframe.\n\nBoth enterprise and project management are important for business success.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cd322bf1-b0e9-455c-82a7-69c901321344.webp"
+        },
+        "Scheme": {
+            "wordRoot": "Scheme",
+            "wordDefinition": "A scheme refers to a plan or proposal to accomplish a specific goal or objective.\n\nSchemes can be related to various fields, including social, economic, or political.\n\nSchemes can be applicable in different contexts such as education, social welfare, urban development, housing, or charity.\n\nIn summary, enterprises are focused on creating a profitable business venture that provides value to customers, while schemes are focused on plans or proposals to accomplish a specific goal or objective in a particular field.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a92fdea-8c91-4a85-90f2-b61d2ba82dff.webp"
+        },
+        "Undertake": {
+            "wordRoot": "Undertake",
+            "wordDefinition": "It can be an idea or a venture that requires hard work and dedication to succeed. Undertake, on the other hand, means to commit oneself to do something.\n\nAn example of the use of the word enterprise is in the sentence \"Starting a business is a risky enterprise.\" An example of the use of the word undertake is in the sentence \"I will undertake the responsibility of taking care of the dog while you're away.\"\n\nEnterprise is more applicable in the context of starting or running a business or a major project, while undertake is more applicable in the context of accepting a task or responsibility.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af4947a6-f0b0-49e8-b9bb-4cc524adb76c.webp"
+        },
+        "Venture": {
+            "wordRoot": "Venture",
+            "wordDefinition": "Venture refers to a project or business that involves a certain amount of risk, uncertainty, and experimentation.\n\nVenture is usually taken up by individuals who are looking for new and innovative opportunities where the outcome is uncertain.\n\nIn simpler terms, an enterprise is an established and successful business, while a venture is a new and risky business or project.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c9808457-51d9-4abe-98bc-5e2eabb35236.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " in skills like local insight, knowledge networking, sustainability, vision and resourcefulness. I would like to invite all of you to please share this game with young people, anywhere in the world, particularly in developing areas, who might benefit from coming together to try to start to imagine their own social enterprises to save the world.",
+            "Title": "Gaming can make a better...",
+            "VideoId": "dE1DuBesGYM",
+            "Controls": "start=1114"
+        },
+        {
+            "Text": " Anyway, but I guess my point is that all of these enterprises are engaging to me in their multiplicity, but as I've presented them to you today, they're actually solitary enterprises, and so pretty soon I want to commune with other people, and so I'm delighted that in fact I get to compose works for them.",
+            "Title": "The mad scientist of...",
+            "VideoId": "46w99bZ3W_M",
+            "Controls": "start=412"
+        },
+        {
+            "Text": " only to small worm bins, it's an emerging entrepreneurial enterprise. Large-scale facilities convert bulk organic waste and even manure into rich, black castings called black gold. Its value as a soil additive is unparalleled, and it can help plants resist harmful pathogens.",
+            "Title": "Vermicomposting: How...",
+            "VideoId": "V8miLevRI_o",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " people who live in these regions have been running their own affairs since time immemorial they are proud marshal and well resourced in part because they have built up a rich history of smuggling and other criminal enterprises that have enriched them amongst the drug",
+            "Title": "Inside al Qaeda PIPE...",
+            "VideoId": "zUUUS_wRKLo",
+            "Controls": "start=115"
+        },
+        {
+            "Text": " The world is changed by our maps of the world. The way that we choose -- sort of, our personal cartographic enterprise, also shapes the map of our lives, and that in turn shapes our lives. I believe that what we map changes the life we lead.",
+            "Title": "Paper towns and why...",
+            "VideoId": "NgDGlcxYrhQ",
+            "Controls": "start=179"
+        },
+        {
+            "Text": " The profession is the family doctor of enterprise, the family doctor of business, who sits with you in your house, at your kitchen table, at the cafe, and helps you find the resources to transform your passion into a way to make a living.",
+            "Title": "Ernesto Sirolli: Want to...",
+            "VideoId": "chXsLtHqfdM",
+            "Controls": "start=489"
+        },
+        {
+            "Text": " both men greatly expanded our understanding of evolution. But their egotistical one-upmanship reminds us that, in spite of its ideals, science is a personal enterprise conducted by individual— and at times deeply flawed— human beings.",
+            "Title": "The most notorious...",
+            "VideoId": "uOuwOc5l1AA",
+            "Controls": "start=291"
+        },
+        {
+            "Text": " capitalism around the concept of justice where socially responsible corporate activity becomes just as important to companies as does making money so with that idea in mind we created a couple of years ago a not-for-profit enterprise",
+            "Title": "America’s most just...",
+            "VideoId": "5vucpGk46DU",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " Identity politics always works on two to give pride to people who have a given condition or characteristic, and to cause the outside world to treat such people more gently and more kindly. Those are two totally separate enterprises,",
+            "Title": "How the worst moments in...",
+            "VideoId": "RiM5a-vaNkg",
+            "Controls": "start=723"
+        },
+        {
+            "Text": " We've all been taught that the bake sale with five percent overhead is morally superior to the professional fundraising enterprise with 40 percent overhead, but we're missing the most important piece of information, which",
+            "Title": "The way we think about...",
+            "VideoId": "bfAzi6D5FpM",
+            "Controls": "start=916"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fred-upton.webp",
+            "Text": "Americans want and deserve a broad array of health insurance choices so they can identify those that best fit their own individual or family needs. These choices expand when we allow free enterprise to foster innovation, not smother it with taxes and one-size fits all ideology.",
+            "Title": "American Politician",
+            "Name": "Fred Upton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ivanka-trump.webp",
+            "Text": "In business, I believe that if you focus only on the journey, you'll miss the whole point of the enterprise. There has to be a goal, an end game of some kind; otherwise, you're just spinning your wheels. Yes, the journey is important, but the destination is important, too.",
+            "Title": "American Businesswoman",
+            "Name": "Ivanka Trump"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rush-limbaugh.webp",
+            "Text": "Self-reliance - that's a dirty word to Democrats. They want people to believe that self-reliance means you don't do anything with anybody. They don't want it thought of as accepting responsibility for one's life. Enterprise. Imagination. Independence. Entrepreneurism.",
+            "Title": "American Entertainer",
+            "Name": "Rush Limbaugh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-cameron.webp",
+            "Text": "It'll be all of our efforts together. It won't won't ever be exactly the way I imagined it. And that is, I think, an important lesson as well, is that in any group enterprise it's going to be the sum total of the group.",
+            "Title": "American Director",
+            "Name": "James Cameron"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eric-yuan.webp",
+            "Text": "We're learning that, when it comes to enterprise users or otherwise, privacy is very important. Some features might work well for enterprise customers and may not work for consumers. You've got to have balance.",
+            "Title": "American Businessman",
+            "Name": "Eric Yuan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/reed-hastings.webp",
+            "Text": "At Netflix, we think you have to build a sense of responsibility where people care about the enterprise. Hard work, like long hours at the office, doesn't matter as much to us. We care about great work.",
+            "Title": "American Businessman",
+            "Name": "Reed Hastings"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "Science is an enterprise that should be cherished as an activity of the free human mind. Because it transforms who we are, how we live, and it gives us an understanding of our place in the universe.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-bezos.webp",
+            "Text": "The question really is, are you improving the world? And you can do that in many models. You can do that in government, you can do that in a nonprofit, and you can do it in commercial enterprise.",
+            "Title": "American Businessman",
+            "Name": "Jeff Bezos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alexander-fleming.webp",
+            "Text": "It is the lone worker who makes the first advance in a subject; the details may be worked out by a team, but the prime idea is due to enterprise, thought, and perception of an individual.",
+            "Title": "Scottish Scientist",
+            "Name": "Alexander Fleming"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gene-green.webp",
+            "Text": "I support the free enterprise system, and I want companies to make money, but they shouldn't be reaping profits from the deaths of their employees or former employees.",
+            "Title": "American Politician",
+            "Name": "Gene Green"
+        }
+    ]
+}

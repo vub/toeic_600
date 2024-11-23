@@ -1,0 +1,345 @@
+{
+    "currentWord": {
+        "wordRoot": "settle",
+        "id": 11034,
+        "phonemic": "ˈsetl|ˈsetl\r",
+        "bigId": "4b152a5b-ce31-4e56-a1a8-b93e5c39fc32",
+        "wordForms": [
+            "settles",
+            "settling",
+            "settled",
+            "unsettle",
+            "settle"
+        ]
+    },
+    "senses": [
+        {
+            "id": "4b152a5b-ce31-4e56-a1a8-b93e5c39fc32",
+            "de": "To make a place your home",
+            "ty": "verb",
+            "ex": "They decided to settle in Canada.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "settle in",
+                " settle down",
+                " settle here"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4b152a5b-ce31-4e56-a1a8-b93e5c39fc32.webp",
+            "Tips": [
+                {
+                    "title": "Long-Term Commitment",
+                    "description": "Settling in a place often implies planning to stay there for a long time.",
+                    "example": "After traveling the world, they settled in New Zealand.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UWFC1nLiz6qe3riETILLpd5B2Es.webp"
+                },
+                {
+                    "title": "Emotional Undertone",
+                    "description": "'Settle' can suggest finding emotional or social stability in a new place.",
+                    "example": "Once we settled in the small town, we felt like part of the community.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/3Mr1T6qxDKUOfdctzCMPaUpVo4.webp"
+                }
+            ]
+        },
+        {
+            "id": "960845c4-e204-4443-b0a8-59aabb09be9e",
+            "de": "To make a decision about something",
+            "ty": "verb",
+            "ex": "We need to settle the date of the meeting.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "settle the issue",
+                " settle the bill",
+                " settle a dispute"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/960845c4-e204-4443-b0a8-59aabb09be9e.webp",
+            "Tips": [
+                {
+                    "title": "Firm Decision",
+                    "description": "Used when finalizing a choice, often after consideration or negotiation.",
+                    "example": "Let's settle on a venue for the event now.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ending Uncertainty",
+                    "description": "Settling an issue removes any doubts or gives closure.",
+                    "example": "With the contract signed, we've finally settled the uncertainty.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5bb555c3-3973-4d4b-842d-ff2d24925f4c",
+            "de": "To become calm or quiet",
+            "ty": "verb",
+            "ex": "He settled down and started to concentrate on his work.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "settle down",
+                " settle into",
+                " settle on"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5bb555c3-3973-4d4b-842d-ff2d24925f4c.webp",
+            "Tips": [
+                {
+                    "title": "Transition",
+                    "description": "'Settle' indicates moving from a state of activity or unrest to tranquility.",
+                    "example": "Take a deep breath and let your mind settle.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Concentration",
+                    "description": "Implies preparing mentally to focus or start working seriously.",
+                    "example": "As the library quietened, I settled to study for my exams.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5b6b5438-a1e8-4a3b-ad13-bc139cd0df51",
+            "de": "To pay a bill",
+            "ty": "verb",
+            "ex": "Let's settle the bill and leave.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "settle up",
+                " settle the tab",
+                " settle the account"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5b6b5438-a1e8-4a3b-ad13-bc139cd0df51.webp",
+            "Tips": [
+                {
+                    "title": "Financial Responsibility",
+                    "description": "'Settle' suggests fulfilling a financial obligation, often immediately.",
+                    "example": "After our meal, we asked the waiter to settle the bill.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Social Etiquette",
+                    "description": "Proper to offer to settle the bill in a social setting, shows good manners.",
+                    "example": "I invited them for dinner, so I'll settle the check.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "57379988-abc8-4e51-944b-b1c26c800443",
+            "de": "To reach a legal agreement",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "They decided to settle out of court.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "settle a lawsuit",
+                " settle a case",
+                " settle a claim"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/57379988-abc8-4e51-944b-b1c26c800443.webp",
+            "Tips": [
+                {
+                    "title": "Legal Closure",
+                    "description": "It implies an agreement to resolve a legal matter without further dispute.",
+                    "example": "The companies decided to settle the patent infringement case.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Avoiding Trial",
+                    "description": "Settling can avoid the costs and uncertainties of going to court.",
+                    "example": "It's often cheaper and faster to settle than to go to trial.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Adjudicate": {
+            "wordRoot": "Adjudicate",
+            "wordDefinition": "Adjudicate means to make a formal decision or judgment in a legal dispute or controversy.\n\nIn simpler terms, adjudicate is used when there is a formal legal issue to be resolved, while settle is used when there is a conflict or disagreement to be resolved, which does not necessarily involve legal issues.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/087503d6-0d36-47a9-b386-3762c562df0c.webp"
+        },
+        "Anchor": {
+            "wordRoot": "Anchor",
+            "wordDefinition": "Anchor typically refers to something that is physically secured in place to prevent movement or drifting. For example, a boat might drop an anchor to hold it in place in the water.\n\nBoth words can be used figuratively as well. For example, someone might use the phrase \"anchoring their emotions\" to refer to keeping them under control, or \"settling a disagreement\" to mean finding a solution that everyone is happy with.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e1874dc-acdd-468e-98ef-a61a59fe6c77.webp"
+        },
+        "Colonize": {
+            "wordRoot": "Colonize",
+            "wordDefinition": "Colonize means to establish a group of people from one country in another country, and usually involves taking control of the land and resources.\n\nFor example, when Europeans colonized the Americas or Africa, they often displaced the native populations and established their own governments and economies.\n\nColonize implies a more forceful takeover of a place, while settle implies a more peaceful coexistence with the existing inhabitants.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5f033d96-9467-4671-bd0f-29ed9c98759a.webp"
+        },
+        "Decide": {
+            "wordRoot": "Decide",
+            "wordDefinition": "Decide means to make a choice or come to a conclusion after considering all the options. For example, deciding which movie to watch, or which college to attend.\n\nDecide is about choosing between options or making a personal decision, while settle is about resolving a conflict or making an agreement with others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f3f7374-fce6-448c-8219-697394ecb66f.webp"
+        },
+        "Establish": {
+            "wordRoot": "Establish",
+            "wordDefinition": "Establish means to start or create something that did not exist before. For example, you can establish a business, establish a new rule, or establish a tradition.\n\nEstablish is applicable when starting something from the beginning, while settle is applicable when concluding something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49b0e5d3-7211-4c60-98ff-c034701baeab.webp"
+        },
+        "Fix": {
+            "wordRoot": "Fix",
+            "wordDefinition": "Fix refers to repairing or making something better or solving a problem. For example, if a car breaks down, you may fix it by repairing the engine.\n\nYou can also fix a mistake you made in a document by correcting it.\n\nTo summarize, fix is used when you want to repair something or correct a mistake, while settle is used when you want to resolve a dispute or issue.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cdfdb58a-e818-4909-be8f-695125973401.webp"
+        },
+        "Reconcile": {
+            "wordRoot": "Reconcile",
+            "wordDefinition": "Reconcile means to resolve a disagreement or conflict between two or more people or things. It implies that there was a previous disagreement, but now there is agreement and peace between the parties involved.\n\nTo simplify it, reconcile means to make peace with someone or something after a disagreement, whereas settle means to resolve a dispute or problem in a definite way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5c227596-141a-4b5f-924a-d9380b4e85ae.webp"
+        },
+        "Resolve": {
+            "wordRoot": "Resolve",
+            "wordDefinition": "The words resolve and settle both mean to sort out a problem or situation, but they are used in slightly different ways.\n\nResolve is often used when talking about finding a solution to a complex or difficult problem. For instance, you might say that a team of engineers resolved a technical issue with a piece of machinery, or that a group of negotiators resolved a dispute between two countries.\n\nResolve is used when talking about finding a solution to a problem, while settle is used when talking about finding a compromise or agreement between conflicting parties.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/01ad0f7a-9739-420f-a204-a5d1beb3ec2b.webp"
+        },
+        "Rest": {
+            "wordRoot": "Rest",
+            "wordDefinition": "Rest means to stop and relax, usually after being active or busy. For example, after a long day of hiking, you might sit down and rest your feet.\n\nRest describes a break or pause in activity, while settle is used when making a choice or decision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/db6afbce-8e0d-47b9-84ea-73f069db50ee.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " In the early days of human migration, the world was much less populated. Groups of people that shared a single language and culture often split into smaller tribes, going separate ways in search of fresh game and fertile land. As they migrated and settled in new places, they became isolated from one another and developed in different ways.",
+            "Title": "How languages evolve -...",
+            "VideoId": "iWDKsHm6gTA",
+            "Controls": "start=27"
+        },
+        {
+            "Text": " Various fish, dolphins, sharks, and sea birds, as the young turtles come to the surface for air. For their first few days of life, should they count themselves amongst the living, the vulnerable turtles swim frantically forward. Ultimately, they will often look to settle in a patch of flotsam,",
+            "Title": "The Survival of the Sea...",
+            "VideoId": "t-KmQ6pGxg4",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " But skipping classes to spend more time in the lab and neglecting to show proper deference to his professors had derailed his intended career path. Passed over even for a lab assistant position, he had to settle for a job at the Swiss patent office, obtained with the help of a friend's father.",
+            "Title": "Einstein's miracle year...",
+            "VideoId": "91XI7M9l3no",
+            "Controls": "start=64"
+        },
+        {
+            "Text": " But prior to settling down in this diverse tropical environment, baby coral reef fish face the difficult process of growing up on their own, undergoing drastic changes, and the journey of a lifetime before they find that reef to call home. The life cycle for most of these fish",
+            "Title": "The secret lives of baby...",
+            "VideoId": "iCM6CawGBRk",
+            "Controls": "start=33"
+        },
+        {
+            "Text": " mobile purchases still settle using the same paper money we've always used so as Bruno said you may have heard lately about a new digital currency called Bitcoin that hopes to change that bitcoin is the first decentralized digital currency whose creation is",
+            "Title": "Unpacking the nuts and...",
+            "VideoId": "rla5w2ubISE",
+            "Controls": "start=21"
+        },
+        {
+            "Text": " dr. guessin said the next several months Katie will be a professional patient lots of rehab lots of strength training doctor's appointments trying to get all her meds settled which one she'll have to stay on you just know in your head it's going to be busy",
+            "Title": "Watch One Family's...",
+            "VideoId": "fFua9-Rc4pw",
+            "Controls": "start=856"
+        },
+        {
+            "Text": " Three, and it's very subtle but very Decide to settle when growth is guaranteed. So when your life is going great, you have put together a great team, and you have growing revenue, and everything is set -- time to settle. When I launched my first book,",
+            "Title": "5 ways to kill your...",
+            "VideoId": "sR6P5Qdvlnk",
+            "Controls": "start=131"
+        },
+        {
+            "Text": " He is delighted by the clarity of the sound. Laennec spends the next three years developing and testing various materials and mechanisms before settling on a hollow wooden tube with detachable plug. His device becomes the forerunner",
+            "Title": "How the stethoscope was...",
+            "VideoId": "0bxiOMJAMW8",
+            "Controls": "start=64"
+        },
+        {
+            "Text": " as it enters botswana it confronts the dry sounds of the kalahari desert and its main arteries begin to slow its rich sediments settle and form the largest inland delta in the world",
+            "Title": "Hippos Can’t Swim? PIPE...",
+            "VideoId": "xu4T9kawhAM",
+            "Controls": "start=42"
+        },
+        {
+            "Text": " good feet won't settle the reindeer this is mae toro ella's mother and inga's aunt she lives the sami life with passionate enthusiasm",
+            "Title": "Top 5 Reindeer Moments PIPE...",
+            "VideoId": "ud2zo1uk1W0",
+            "Controls": "start=1111"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-jobs.webp",
+            "Text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+            "Title": "American Businessman",
+            "Name": "Steve Jobs"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rihanna.webp",
+            "Text": "I always believed that when you follow your heart or your gut, when you really follow the things that feel great to you, you can never lose, because settling is the worst feeling in the world.",
+            "Title": "American Musician",
+            "Name": "Rihanna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-carlin.webp",
+            "Text": "If it's true that our species is alone in the universe, then I'd have to say the universe aimed rather low and settled for very little.",
+            "Title": "American Comedian",
+            "Name": "George Carlin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/drew-barrymore.webp",
+            "Text": "I'm glad I lived such a full life before I settled down into a family because I got to enjoy it and get it out of my system.",
+            "Title": "American Actress",
+            "Name": "Drew Barrymore"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nelson-mandela.webp",
+            "Text": "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.",
+            "Title": "South African Statesman",
+            "Name": "Nelson Mandela"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-f-kennedy.webp",
+            "Text": "Once you say you're going to settle for second, that's what happens to you in life.",
+            "Title": "American President",
+            "Name": "John F. Kennedy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuan-yuan-tan.webp",
+            "Text": "I'm flying all around the world, and it's hard to be settled.",
+            "Title": "Chinese Dancer",
+            "Name": "Yuan Yuan Tan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anne-murray.webp",
+            "Text": "I'm the type of personality who just can't settle for less.",
+            "Title": "Canadian Musician",
+            "Name": "Anne Murray"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ryan-garcia.webp",
+            "Text": "If you settle in life, you don't go further.",
+            "Title": "American Boxer",
+            "Name": "Ryan Garcia"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-g-ballard.webp",
+            "Text": "I admired anyone who could unsettle people.",
+            "Title": "British Author",
+            "Name": "J. G. Ballard"
+        }
+    ]
+}

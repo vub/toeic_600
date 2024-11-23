@@ -1,0 +1,343 @@
+{
+    "currentWord": {
+        "wordRoot": "estimate",
+        "id": 12175,
+        "phonemic": "ˈestɪmeɪt|ˈestɪmeɪt\r",
+        "bigId": "20b933e6-66cb-46e9-bf0d-1797ef8852d6",
+        "wordForms": [
+            "estimates",
+            "estimating",
+            "estimated",
+            "estimation",
+            "estimate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "20b933e6-66cb-46e9-bf0d-1797ef8852d6",
+            "de": "To roughly calculate or judge the value, number, quantity, or extent of something.",
+            "ty": "verb",
+            "ex": "I estimate that I'll be there in an hour.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "estimate the cost",
+                " estimate the time",
+                " estimate the distance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/20b933e6-66cb-46e9-bf0d-1797ef8852d6.webp",
+            "Tips": [
+                {
+                    "title": "Rough Calculation",
+                    "description": "Emphasizes a non-exact or approximate figure, not precise.",
+                    "example": "Can you estimate how many people attended the concert?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8bBPBzLn1peKHXmrOhIxNgGaWxE.webp"
+                },
+                {
+                    "title": "Quick Judgement",
+                    "description": "Often used when there's limited information, to make a quick judgment.",
+                    "example": "We'll need to estimate how much paint to buy without measuring the room.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/mGMowGIl3AWW92grq2X5zihWI.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e7b9c2d5-4cb5-45f0-9025-57fc3db578cc",
+            "de": "A rough calculation or judgment of the value, number, quantity, or extent of something.",
+            "ty": "noun",
+            "ex": "The estimate for the project was too high for us to afford.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "price estimate",
+                " project estimate",
+                " initial estimate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e7b9c2d5-4cb5-45f0-9025-57fc3db578cc.webp",
+            "Tips": [
+                {
+                    "title": "Cost Context",
+                    "description": "Commonly used in business or finance to discuss the probable cost.",
+                    "example": "The estimate for the new building's construction seems reasonable.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Before Formal Quote",
+                    "description": "An estimate is usually given before a detailed analysis for a formal quote.",
+                    "example": "Could you give me an estimate before we proceed to the detailed quotation?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "74a7484f-02be-45c4-8766-18079927699b",
+            "de": "To form an opinion or judgment about.",
+            "ty": "verb",
+            "ex": "He estimated her to be in her early thirties.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "estimate someone's age",
+                " estimate someone's size"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/74a7484f-02be-45c4-8766-18079927699b.webp",
+            "Tips": [
+                {
+                    "title": "Opinion Based",
+                    "description": "Reflects a personal belief or opinion rather than an exact measurement.",
+                    "example": "She estimated that the job would take five days to complete.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Judging Qualities",
+                    "description": "Involves judging someone or something's qualities without precise tools.",
+                    "example": "He estimated the weight of the fish to be around 10 pounds.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "67b0bf28-5450-4079-864a-85038daea323",
+            "de": "A statement of the approximate cost of work to be done, such as a building project or car repairs.",
+            "ty": "noun",
+            "ex": "The contractor gave us an estimate for the repairs.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "cost estimate",
+                " repair estimate",
+                " contractor's estimate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/67b0bf28-5450-4079-864a-85038daea323.webp",
+            "Tips": [
+                {
+                    "title": "Approximate Cost",
+                    "description": "An estimated cost which is subject to change on a project's final assessment.",
+                    "example": "The architect's estimate for the renovation was slightly over our budget.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Starting Point",
+                    "description": "Initial figure or cost that can help start planning or decision making.",
+                    "example": "Their repair estimate allowed us to decide whether to fix the car or buy a new one.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8a4fd032-c2af-4574-b12e-c6ce4604f2f4",
+            "de": "To calculate approximately (the amount, extent, magnitude, position, or value of something).",
+            "do": "Mathematics, Statistics",
+            "ty": "verb",
+            "ex": "We need to estimate the population mean.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "estimate a parameter",
+                " estimate a variable"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8a4fd032-c2af-4574-b12e-c6ce4604f2f4.webp",
+            "Tips": [
+                {
+                    "title": "Inexact Science",
+                    "description": "In fields like statistics, it's understood that estimates have a margin of error.",
+                    "example": "The researchers estimated the growth rate to be between 2% and 4%.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Assumption-Based",
+                    "description": "Relies on assumptions due to a lack of complete data or information.",
+                    "example": "To estimate our chances, we assumed the competitor's sales numbers were accurate.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Approximate": {
+            "wordRoot": "Approximate",
+            "wordDefinition": "Approximate and estimate both refer to making a guess, but there is a slight difference in their usage.\n\nApproximate means close to the exact amount or size, and is often used when the exact number is unknown or difficult to determine.\n\nFor example, \"The length of the river is approximately 50 kilometers.\"\n\nApproximate refers to a close guess of an exact amount, while estimate is more of a calculated guess based on information available.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d1dbb644-acf0-493c-b42c-a4ad6d00e555.webp"
+        },
+        "Assess": {
+            "wordRoot": "Assess",
+            "wordDefinition": "Assess means to evaluate something's quality or nature, based on specific criteria. It's like grading an essay or judging an athlete's performance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/442852dd-d9fe-4767-94a3-78d50c1c82d6.webp"
+        },
+        "Calculate": {
+            "wordRoot": "Calculate",
+            "wordDefinition": "Calculate refers to finding the exact answer or solution using known formulas and data. It involves precise mathematical procedures and yields an answer that is as accurate as possible.\n\nYou would use calculate when you need the exact solution to a problem, such as finding the area of a circle, or the speed of a moving object.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5256ba45-6628-4afc-a6c3-28c9b7b3e83c.webp"
+        },
+        "Evaluate": {
+            "wordRoot": "Evaluate",
+            "wordDefinition": "Evaluate means to assess or analyze something, often in order to make a judgment or decision. For example, if you evaluate a job offer, you might consider the salary, benefits, and other aspects of the job in order to decide if it's the right fit for you.\n\nIn general, estimates are useful when you don't have all the information you need to make a precise calculation or decision, while evaluations are useful when you need to assess the value or quality of something in order to make a decision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be62720b-6c1b-48e0-b518-8768e2efffd8.webp"
+        },
+        "Guess": {
+            "wordRoot": "Guess",
+            "wordDefinition": "It involves using some logic and reasoning to come up with an educated guess.\n\nGuess means to make a prediction or conjecture about something with little or no information or basis, often relying on chance or intuition rather than evidence.\n\nFor example, if you were asked to estimate the number of people attending a party, you would look at how many chairs, tables or food and drinks have been prepared, and make a calculated guess based on that information.\n\nHowever, if you were asked to guess how many candies are in a jar without any clues, you would have to rely on your own intuition and make a random guess without any logic.\n\nAn estimate is more reliable and accurate than a guess since it is based on some evidence or reasoning whereas a guess is simply a shot in the dark.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3c7ab18-0ea1-4648-a057-a4ca700b099b.webp"
+        },
+        "Judgement": {
+            "wordRoot": "Judgement",
+            "wordDefinition": "A judgement is an opinion or decision formed through analysis and evaluation of a situation or facts. It involves weighing various factors and choosing between alternatives.\n\nFor example, if you are asked to make a judgement about the performance of a student you may consider their grades, attendance, behavior and other relevant information to determine whether they have met the required standards.\n\nAn estimate is a calculation of an unknown value based on known factors, while a judgement is a decision or opinion formed through analysis and evaluation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d14ed90-3ca4-43c5-a97e-5168a029a566.webp"
+        },
+        "Opinion": {
+            "wordRoot": "Opinion",
+            "wordDefinition": "Opinion is used to express a personal belief or judgement about something. For example, when someone says they like a particular type of music, that is their opinion.\n\nThe main difference between estimate and opinion is that an estimate is based on available information and aimed at predicting a likely outcome, while an opinion is a personal belief or judgement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c9414f24-c729-4884-a21f-37bb6698d232.webp"
+        },
+        "Prediction": {
+            "wordRoot": "Prediction",
+            "wordDefinition": "An estimate is an educated guess based on information available at the time, while a prediction is a statement about what might happen in the future.\n\nIf you were making a prediction about the weather, you might look at current weather patterns and make an informed guess about what the weather will be like tomorrow or next week.\n\nPredictions are used when you want to make a statement about what is likely to happen in the future based on current information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4cb86d54-04cc-4b8e-aa5d-9a9e37ee2793.webp"
+        },
+        "Projection": {
+            "wordRoot": "Projection",
+            "wordDefinition": "A projection is a more formal calculation that attempts to predict what something will be like in the future based on current trends or patterns.\n\nProjections are made with the help of more data and an understanding of how things are likely to change. For example, if someone is projecting the demand for a particular product over the next five years, they would use data on how demand has changed in the past, as well as data on current market conditions and trends.\n\nOverall, estimates are more informal and based on limited information, while projections are more formal and use more data to make predictions about the future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ef04a541-2c29-44dd-b34b-d30ef757a72c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " bats provide an estimated 3.7 billion dollars worth of free pest control for farmers, which benefits everyone who eats the foods that they grow. Fruit bats, also called megabats because of their large size, are important for the role they play in plant pollination. By traveling between flowers while feeding on nectar and fruits,",
+            "Title": "The truth about bats -...",
+            "VideoId": "Z8wLQ3NCBgg",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " what exactly is climate change why should we care well the Earth's climate has changed throughout history most of these slight changes are caused by small variations in the Earth's orbit but climate change as we know it today is characterized by an abrupt increase in the earth's temperature it is estimated to have",
+            "Title": "Climate Change 101 with...",
+            "VideoId": "EtW2rrLHs08",
+            "Controls": "start=7"
+        },
+        {
+            "Text": " for those of us fortunate enough to have access to clean drinking water. For a long time, conventional wisdom said that we should drink eight glasses a day. That estimate has since been fine-tuned. Now, the consensus is that the amount of water we need to imbibe depends largely on our weight and environment.",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " In spite of these limitations, it actually would be possible to power the entire world with today's solar technology. We'd need the funding to build the infrastructure and a good deal of space. Estimates range from tens to hundreds of thousands of square miles, which seems like a lot,",
+            "Title": "How do solar panels...",
+            "VideoId": "xKxrkht7CpY",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " but I'm quite sure it's very modest compared to the potential harm. The World Bank estimates that if we have a worldwide flu epidemic, global wealth will go down by over three trillion dollars and we'd have millions and millions of deaths. These investments offer significant benefits",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=442"
+        },
+        {
+            "Text": " it still affected the students' estimates. This is an example of the anchoring effect, and it's often used in marketing and negotiations to raise the prices that people are willing to pay. So, if heuristics lead to all these wrong decisions, why do we even have them?",
+            "Title": "The psychology behind...",
+            "VideoId": "V2EMuoM5IX4",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " While BMI can be a helpful estimate of healthy weight, actual body fat percentage can only really be determined by also considering information like waist circumference and muscle mass. Athletes, for instance, have a naturally higher BMI.",
+            "Title": "What is obesity? - Mia...",
+            "VideoId": "-vNVG7XJpVE",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " estimate that today the world pays a hundred and one billion dollars in subsidies to green energy but in a generations time the bill is not going to go down we will owe two hundred and twenty three billion dollars per year in",
+            "Title": "Economics of climate...",
+            "VideoId": "SEjNVWV5jbs",
+            "Controls": "start=92"
+        },
+        {
+            "Text": " untameable elusive and known for their secretive nature this solitary species native to the uk is now britain's rarest carnival the european wildcat with some estimates stating there could",
+            "Title": "Rescuing the UK's Rarest...",
+            "VideoId": "KSRxTLQEhgo",
+            "Controls": "start=3"
+        },
+        {
+            "Text": " a more safe characteristic is weight and you can be fairly sure the estimate of that and it reckoned that the elephant bird weighed around half a ton",
+            "Title": "Best Of Attenborough And...",
+            "VideoId": "_2NtGS8HTc8",
+            "Controls": "start=172"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/diana-rigg.webp",
+            "Text": "We have no companies now, not in the sense that I know, that nurture actors. It's very depressing that, given the money they get, the companies today don't number up in my estimation. They should be bringing on young talent, and they don't.",
+            "Title": "British Actress",
+            "Name": "Diana Rigg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/derek-bok.webp",
+            "Text": "I think any self-respecting educational institution ought to judge its policies by its best estimate of what their long-term consequences for their students and for the society will be.",
+            "Title": "American Lawyer",
+            "Name": "Derek Bok"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-carlucci.webp",
+            "Text": "And I argued with that intelligence estimate and I think it is a responsibility of policymakers to use their best judgment on the basis of the intelligence they've received.",
+            "Title": "American Politician",
+            "Name": "Frank Carlucci"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-dedman.webp",
+            "Text": "New flood maps in many states have raised the estimation of flood risks along rivers, streams and oceans, adding many properties to flood zones for the first time.",
+            "Title": "American Journalist",
+            "Name": "Bill Dedman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-christgau.webp",
+            "Text": "The most important single fact about pop music in the Nineties, is the number of hours made commercially available increased by an estimated factor of ten.",
+            "Title": "American Journalist",
+            "Name": "Robert Christgau"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johann-lamont.webp",
+            "Text": "If I have learned one thing in life, it is never to take any man's own estimate of himself. He could very well be mistaken.",
+            "Title": "Scottish Politician",
+            "Name": "Johann Lamont"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-dudley-warner.webp",
+            "Text": "There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you.",
+            "Title": "American Journalist",
+            "Name": "Charles Dudley Warner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adi-godrej.webp",
+            "Text": "When we acquire businesses in the developing world, we estimate if the growth opportunities are strong.",
+            "Title": "Indian Businessman",
+            "Name": "Adi Godrej"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-goodyear.webp",
+            "Text": "Life should not be estimated exclusively by the standard of dollars and cents.",
+            "Title": "American Inventor",
+            "Name": "Charles Goodyear"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-spurgeon.webp",
+            "Text": "Humility is to make a right estimate of one's self.",
+            "Title": "British Clergyman",
+            "Name": "Charles Spurgeon"
+        }
+    ]
+}

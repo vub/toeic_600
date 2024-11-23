@@ -1,0 +1,322 @@
+{
+    "currentWord": {
+        "wordRoot": "inspect",
+        "id": 11986,
+        "phonemic": "ɪnˈspekt|ɪnˈspekt\r",
+        "bigId": "62160a0b-b5c7-4529-b1e2-0c2b6cd9ce80",
+        "wordForms": [
+            "inspects",
+            "inspecting",
+            "inspected",
+            "inspect"
+        ]
+    },
+    "senses": [
+        {
+            "id": "62160a0b-b5c7-4529-b1e2-0c2b6cd9ce80",
+            "de": "To look at something or someone carefully in order to discover something",
+            "ty": "verb",
+            "ex": "The teacher inspected the classroom before the students arrived.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "inspect the area",
+                " inspect the premises",
+                " inspect the vehicle"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/62160a0b-b5c7-4529-b1e2-0c2b6cd9ce80.webp",
+            "Tips": [
+                {
+                    "title": "Attention to Detail",
+                    "description": "When you inspect, you pay close attention to find details others might miss.",
+                    "example": "She inspected the document for any errors.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xHSgBGh0WEUvOyz0jRTybBohY.webp"
+                },
+                {
+                    "title": "Not Just Looking",
+                    "description": "Inspecting is more active than just watching; it involves searching and analyzing.",
+                    "example": "He inspected the garden, looking for signs of pests.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kbe1HWxoPmkAahteXuT9drVM.webp"
+                },
+                {
+                    "title": "Possible Disapproval",
+                    "description": "The act of inspecting may imply that you have the authority to approve or criticize.",
+                    "example": "The supervisor inspected our work for quality.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/imh1R4L0UBe7e1DjG1yZl2E4Q.webp"
+                }
+            ]
+        },
+        {
+            "id": "0774e57b-e089-451b-9b25-c278f0bb01dc",
+            "de": "To visit a place, especially in order to check that everything is correct and in good condition",
+            "do": "Health and Safety",
+            "ty": "verb",
+            "ex": "The health officer will inspect the restaurant today for cleanliness.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "inspect the property",
+                " health and safety inspection",
+                " inspect for compliance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0774e57b-e089-451b-9b25-c278f0bb01dc.webp",
+            "Tips": [
+                {
+                    "title": "Regulatory Context",
+                    "description": "In health and safety, inspecting often relates to meeting specific regulatory standards.",
+                    "example": "Officials will inspect the facility for safety violations.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Judgment",
+                    "description": "Inspections in this context usually require specialized knowledge to make judgments.",
+                    "example": "The electrician inspected the wiring of the building.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Routine Procedure",
+                    "description": "Health and safety inspections are typically routine and scheduled in advance.",
+                    "example": "The restaurant prepares for a routine health inspection.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "10d9856b-af81-4fd9-a744-3227dbd2a4aa",
+            "de": "To look at someone or something to make sure it is acceptable or suitable",
+            "ty": "verb",
+            "ex": "She inspected her reflection in the mirror before leaving the house.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "inspect oneself in the mirror",
+                " inspect one's appearance",
+                " inspect for correctness"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/10d9856b-af81-4fd9-a744-3227dbd2a4aa.webp",
+            "Tips": [
+                {
+                    "title": "Personal Standard",
+                    "description": "When inspecting for suitability, it may be based on personal preferences or standards.",
+                    "example": "He inspected the suit to ensure it matched his style.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ensuring Suitability",
+                    "description": "Use 'inspect' to describe the act of making sure something meets certain expectations or needs.",
+                    "example": "Before the interview, she inspected her outfit for suitability.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c75ba03b-f78c-4376-b0a6-f3e8f46023e4",
+            "de": "To examine an aspect or part of something in detail",
+            "do": "Engineering",
+            "ty": "verb",
+            "ex": "Engineers will inspect the bridge for any damage after the earthquake.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "inspect the damage",
+                " inspect the structure",
+                " inspect for faults"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c75ba03b-f78c-4376-b0a6-f3e8f46023e4.webp",
+            "Tips": [
+                {
+                    "title": "Technical Examination",
+                    "description": "In engineering, 'inspect' indicates a careful examination for technical or structural issues.",
+                    "example": "The technician inspected the machine for loose parts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Defect Identification",
+                    "description": "Inspection in this context is crucial for identifying defects that could lead to failures.",
+                    "example": "They inspected the hull of the ship for any cracks.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Audit": {
+            "wordRoot": "Audit",
+            "wordDefinition": "An audit is a formal and independent examination of records or financial statements to ensure they are accurate and conform to accepted accounting practices.\n\nAudits are most commonly used in accounting and finance.\n\nIn simpler terms, an audit is like checking someone's homework to make sure it's correct, while an inspection is like checking a car or a building to make sure it's safe and working properly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c23fe809-a0cb-45c9-bb63-cea8f1ae012f.webp"
+        },
+        "Check": {
+            "wordRoot": "Check",
+            "wordDefinition": "The words check and inspect both refer to examining something, but they have different implications.\n\nCheck usually implies a quick or routine examination, such as checking your phone for a missed call or checking your backpack to make sure you have your keys.\n\nInspect is more thorough and formal than check. It suggests a detailed examination of something to discover its condition, quality, or suitability.\n\nCheck is applicable for quick and simple examinations, while inspect is applicable for more thorough and formal assessments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3358b0cb-8094-47da-81a8-349bd29dc7f1.webp"
+        },
+        "Examine": {
+            "wordRoot": "Examine",
+            "wordDefinition": "Examine means to look closely at something in order to investigate or evaluate it, usually in detail.\n\nIt describes a thorough inspection or exploration of an object or subject. For example, a doctor may examine a patient to evaluate their symptoms and diagnose an illness.\n\nThe word inspect means to examine something carefully in order to detect any faults or problems that need fixing.\n\nIn summary, while both words involve looking at something closely, examine is used to explore or investigate something in detail, while inspect is used to carefully analyze or evaluate something to detect any faults or problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9624135c-7cec-4c0a-a399-a81e6fe400d4.webp"
+        },
+        "Investigate": {
+            "wordRoot": "Investigate",
+            "wordDefinition": "Investigate means to inquire or look into something in order to uncover information, discover a cause or reason, or solve a problem.\n\nFor example, a police detective might investigate a series of burglaries that have occurred in a neighborhood to try and find the perpretrator.\n\nIn summary, while both words involve some form of examination, inspection is focused on identifying problems or issues with something physical while investigation relates to deeper examination of situations or events in order to uncover information or solve problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e835359-0865-4d86-ac05-e053e13feb1a.webp"
+        },
+        "Review": {
+            "wordRoot": "Review",
+            "wordDefinition": "Review means to assess or evaluate something, often critically, with a view to making a judgement or forming an opinion.\n\nFor example, a teacher might review a student's essay to give feedback for improvements.\n\nInspect means to check carefully for problems, while review means to look back and evaluate something. Inspect is used when there are predefined standards to be met, while review is used to assess after the fact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/80d28f29-3a49-4e69-8234-361471244a1c.webp"
+        },
+        "Scrutinize": {
+            "wordRoot": "Scrutinize",
+            "wordDefinition": "Both words mean to examine closely, but inspect is usually used when checking if something is in proper condition, while scrutinize implies a more thorough and detailed examination of something.\n\nFor example, a mechanic may inspect a car before selling it, checking that all its parts are functional. An investigator may scrutinize a crime scene, looking for any tiny details or clues that may help solve the case.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53f17615-8dfe-4eba-9d1e-aef39e0ff54e.webp"
+        },
+        "Study": {
+            "wordRoot": "Study",
+            "wordDefinition": "Study means to examine and analyze a subject or topic in depth, often to gain knowledge or understanding.\n\nYou would use inspect when you want to check the condition of something, and study when you want to learn something new about a particular subject.\n\nFor example, you might inspect a car before buying it to make sure it's in good condition, and study history to learn about past events and their significance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/033e8ac6-c19b-46dc-8157-2a309125faee.webp"
+        },
+        "Survey": {
+            "wordRoot": "Survey",
+            "wordDefinition": "Survey means to look at something more generally, often to gather information or to get an idea of what it is like.\n\nFor example, a company might conduct a survey of its employees to find out how happy they are with their jobs.\n\nSo, inspecting is more focused and detailed, while surveying is broader and more general. You would use the word inspect when you want to examine something more closely, and you would use the word survey when you want to get a general idea of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a8e79ac-f73e-4d67-9757-3704e5b0c97a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " you from him from the other person is your skin to remove the skin you experience that person's touch in your mind you've dissolved the barrier between you and other human beings and this of course is the basis of much of Eastern philosophy and that is there's no real independent self aloof from other human beings inspecting the world",
+            "Title": "The neurons that shaped...",
+            "VideoId": "l80zgw07W4Y",
+            "Controls": "start=365"
+        },
+        {
+            "Text": " Uh-hmm. This is garri. I have to look through your garri to make sure. Garri is a form of the cassava and when it comes in bundles like this, we have people that stick other items, so that's what I'm doing now, just inspecting his garri. You said you had garri, you have dried fish.",
+            "Title": "Inspecting Agricultural...",
+            "VideoId": "1FfBQmPaugE",
+            "Controls": "start=147"
+        },
+        {
+            "Text": " the sea scientists note the health of the coral types of fish including the invasive lionfish and inspect man-made debris including lost fishing gear and even newly found shipwrecks all of this data will help scientists better understand the reefs here and offer",
+            "Title": "Scientists \"See\" Ocean...",
+            "VideoId": "-fAAxEIFeLU",
+            "Controls": "start=254"
+        },
+        {
+            "Text": " you know have him severely inspected but I'm here to tell you that the reality is very different now how did I get started in this field I got started in this field when I left college my mother said to me you need to get a job so I did the",
+            "Title": "Advice from the world’s...",
+            "VideoId": "cI9GFLV1w9E",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " most adult females have their own influence to look after but they still want to inspect everyone else's babies often seem to get treated little better than past the parcel but it's part of monkey politics by showing interest in",
+            "Title": "These Adorable Baby...",
+            "VideoId": "bxgNVuT5Rys",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " Brotherhood our friendship stay strong with that yeah just take a little slice off here see what that looks like before Carl will make any deal he needs to inspect the merchandise yeah that'll be nice or burl isn't is an unusual",
+            "Title": "A Visit to the Leather...",
+            "VideoId": "hbuMIj9wrH0",
+            "Controls": "start=43"
+        },
+        {
+            "Text": " These are the gentle giants that I've had the pleasure of meeting face to face many times underwater. There's nothing quite like being personally inspected by a whale. We can pick up and fly to the deepest",
+            "Title": "Sylvia Earle: How to...",
+            "VideoId": "43DuLcBFxoY",
+            "Controls": "start=496"
+        },
+        {
+            "Text": " buckner can observe how he hides it from potential thieves so now elias is approaching this cache is already inspecting it and now guard it right away elias takes the cash and stores it in",
+            "Title": "The Raven: Stealing,...",
+            "VideoId": "Sng1oV_uDzM",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " life is good it's always in the back of your head is it worth it getting inspected",
+            "Title": "Drowning in Grain: A...",
+            "VideoId": "XNMKm6ozU3M",
+            "Controls": "start=553"
+        },
+        {
+            "Text": " Nadia's help the museum agreed to let me inspect the seized antiquities",
+            "Title": "Protecting Ancient...",
+            "VideoId": "gmByBwhl0e0",
+            "Controls": "start=0"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-granholm.webp",
+            "Text": "Those who purify your water, inspect your meat, and test your kids' toys, as well as a huge number of nurses, teachers, and our soldiers, are public employees. The firefighters who don't hesitate to rush toward danger while you run away from it - they are all public employees.",
+            "Title": "American Politician",
+            "Name": "Jennifer Granholm"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tena-desae.webp",
+            "Text": "Always try clothes on before you buy them. Stand, sit, walk and inspect yourself from all angles before you buy it so you don't regret it later. Knowing what it looks like on you is very important, as your body shape must suit the cut of the outfit.",
+            "Title": "Indian Actress",
+            "Name": "Tena Desae"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-lanza.webp",
+            "Text": "The farther we peer into space, the more we realize that the nature of the universe cannot be understood fully by inspecting spiral galaxies or watching distant supernovas. It lies deeper. It involves our very selves.",
+            "Title": "American Scientist",
+            "Name": "Robert Lanza"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vincent-frank.webp",
+            "Text": "I don't think the process was successful and should be inspected closer. I am not afraid to say I am not familiar with the entire process, so before commenting further I would have to study the process more in depth.",
+            "Title": "American Politician",
+            "Name": "Vincent Frank"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bob-barr.webp",
+            "Text": "Courts have long recognized the federal government's robust power to inspect people and goods entering the country. After all, the very foundation of national sovereignty is a nation's ability to protect its borders.",
+            "Title": "American Politician",
+            "Name": "Bob Barr"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-j-orourke.webp",
+            "Text": "If we were to inspect ourselves or members of our family and our friends, we would see that we don't really have to go all the way overseas to be mystified - we can be mystified right at home.",
+            "Title": "American Comedian",
+            "Name": "P. J. O'Rourke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-catsimatidis.webp",
+            "Text": "One mentor I had taught me that people do what you inspect, not necessarily what you expect. In other words, if nobody is watching, there will be some slack off.",
+            "Title": "Greek Businessman",
+            "Name": "John Catsimatidis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adolf-galland.webp",
+            "Text": "I had to inspect all fighter units in Russia, Africa, Sicily, France, and Norway. I had to be everywhere.",
+            "Title": "German General",
+            "Name": "Adolf Galland"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/philippe-petit.webp",
+            "Text": "Usually, when I walk on a wire, I inspect the anchor point on both sides before crossing.",
+            "Title": "French Celebrity",
+            "Name": "Philippe Petit"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/louis-v-gerstner-jr.webp",
+            "Text": "People don't do what you expect but what you inspect.",
+            "Title": "American Businessman",
+            "Name": "Louis V. Gerstner, Jr."
+        }
+    ]
+}

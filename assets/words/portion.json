@@ -1,0 +1,308 @@
+{
+    "currentWord": {
+        "wordRoot": "portion",
+        "id": 8165,
+        "phonemic": "ˈpɔːʃn|ˈpɔːrʃn\r",
+        "bigId": "bd63f4f1-b7a4-4efd-a6fa-dd7c63340354",
+        "wordForms": [
+            "portions",
+            "portioning",
+            "portioned",
+            "portion"
+        ]
+    },
+    "senses": [
+        {
+            "id": "bd63f4f1-b7a4-4efd-a6fa-dd7c63340354",
+            "de": "A part of something that is shared between people",
+            "ty": "noun",
+            "ex": "He received a large portion of the inheritance.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "a portion of",
+                " large portion",
+                " small portion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bd63f4f1-b7a4-4efd-a6fa-dd7c63340354.webp",
+            "Tips": [
+                {
+                    "title": "Sharing Context",
+                    "description": "Used to describe a specific part that someone gets when something is divided among people.",
+                    "example": "Each investor received a portion of the company's profits.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/C1UZUVN2LW9GM33iunylfDhyBoA.webp"
+                },
+                {
+                    "title": "Non-Material Things",
+                    "description": "Can refer to intangible things like time or attention shared among tasks or people.",
+                    "example": "She dedicated a portion of her day to learning English.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/D1p0WrhtWGLjc8ttXMg77fCU8.webp"
+                },
+                {
+                    "title": "Cultural Inheritance",
+                    "description": "Commonly used to talk about the distribution of an inheritance, which can be money, property, or physical items.",
+                    "example": "The siblings argued over the portions of their father's estate.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/BnN3Hc7o4W3uJWwEJEUofOmM3r4.webp"
+                }
+            ]
+        },
+        {
+            "id": "f9bdcd3c-0a61-49cf-b251-fc93bae14f0b",
+            "de": "A part of food served for one person",
+            "ty": "noun",
+            "ex": "This portion is too big for me to eat.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "portion size",
+                " serve a portion",
+                " portion control"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f9bdcd3c-0a61-49cf-b251-fc93bae14f0b.webp",
+            "Tips": [
+                {
+                    "title": "Meal Size",
+                    "description": "Relates to how much food is considered an amount suitable for one person.",
+                    "example": "Restaurants often serve larger portions than are necessary.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Diet Vocabulary",
+                    "description": "Commonly used in discussions about diet, nutrition, and healthy eating practices.",
+                    "example": "Monitoring portion sizes can aid in weight loss.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Satisfaction Implication",
+                    "description": "Might imply satisfaction or dissatisfaction with the amount of food, depending on context.",
+                    "example": "I was so full because the portion at dinner was generous.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f1b30d9d-d2cd-4547-9799-d307bd4d7f33",
+            "de": "To divide something into parts and distribute it",
+            "ty": "verb",
+            "ex": "Food was portioned out to the refugees.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "portion out",
+                " portion up",
+                " portion among"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f1b30d9d-d2cd-4547-9799-d307bd4d7f33.webp",
+            "Tips": [
+                {
+                    "title": "Dividing Equally",
+                    "description": "When portioning, there is often an expectation that parts will be roughly equal unless specified.",
+                    "example": "The pizza was portioned into eight equal slices.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Careful Distribution",
+                    "description": "Indicates the consideration given when allocating parts to ensure fairness or according to need.",
+                    "example": "The relief supplies were carefully portioned to last a week.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Controlled Allocation",
+                    "description": "Used when resources are limited and need to be distributed sensibly and with constraint.",
+                    "example": "Rations were portioned out during the shortage.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Allocate": {
+            "wordRoot": "Allocate",
+            "wordDefinition": "Allocate means to assign or distribute resources or tasks to a specific purpose or person.\n\nIt is usually used in a more formal setting, such as business or government, for example, \"The company will allocate $10,000 for marketing this quarter.\"\n\nAllocate is used to assign resources or tasks, while portion is used to divide something into parts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/64c40776-14f2-4d1b-992c-4fbca1f445f9.webp"
+        },
+        "Allotment": {
+            "wordRoot": "Allotment",
+            "wordDefinition": "Allotment usually implies the division of something evenly among a group of people, while portion refers to a specific amount that is assigned or given to an individual.\n\nFor example, if a farmer divides a piece of land into equal pieces and gives one piece to each of his children, he is making an allotment.\n\nAllotment is used when dividing something into equal parts among a group of people, while portion refers to a specific amount given to an individual.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2347dcbf-540c-4ba0-bb5b-7b806f3b8b90.webp"
+        },
+        "Cut": {
+            "wordRoot": "Cut",
+            "wordDefinition": "Cut refers to dividing something into pieces by using a knife or other sharp tool. For example, one might cut a cake or a piece of paper into smaller pieces.\n\nIt can also refer to reducing the size or amount of something, as in when a budget is cut.\n\nCut refers to physically dividing something, while portion refers to the amount of something that has been divided or set aside.\n\nCut is typically used for physical objects, while portion can be used for both physical objects and abstract concepts like money or time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3a36ebe-26f6-4d5d-97f6-b6136bfd293d.webp"
+        },
+        "Division": {
+            "wordRoot": "Division",
+            "wordDefinition": "Division generally means separating something into parts or sections. For example, dividing a pizza into slices or dividing a book into chapters.\n\nThe word portion usually refers to a part or share of something that has already been divided or allocated. For instance, a portion of a pie or a portion of a budget.\n\nIt suggests that there is something to be divided among people or groups, and each will receive a share or portion.\n\nSo, in short, division is the act of splitting something up into smaller parts, while portion refers to one of the parts that was divided.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e22a2313-fb18-48a1-b83d-b1c0c75fdf71.webp"
+        },
+        "Part": {
+            "wordRoot": "Part",
+            "wordDefinition": "Both part and portion refer to a piece or a segment of a whole, but part is a more general term and can describe any section of something.\n\nPortion refers specifically to a part that has been separated from a larger amount of something, often with the intention of being divided and shared equally among multiple people.\n\nIf you were to divide a pizza into equal slices, you would say each slice is a portion, but if you were to break a vase into pieces, each piece would be a part.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/969bc1be-d44e-499a-940e-4d4baec9cb19.webp"
+        },
+        "Piece": {
+            "wordRoot": "Piece",
+            "wordDefinition": "Both piece and portion refer to a part of something.\n\nHowever, piece generally refers to an individual unit that has been separated or cut from a larger whole, while portion refers to a specific amount or size of something that has been divided up.\n\nFor example, if you cut a cake into slices, each slice would be a piece of cake. If you're serving a meal and put a set amount of food on each plate, that would be a portion of food for each person.\n\nPiece is more often used for things that are physically divided, like food or puzzles, while portion refers more to the amount or size of something, like servings of food or sections of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a097931-773d-4303-b79e-617a50b0d9ae.webp"
+        },
+        "Quota": {
+            "wordRoot": "Quota",
+            "wordDefinition": "Quota refers to a specific amount or number that is required or expected to be achieved. For example, if a company has a quota of selling 100 products in a month, it means they are expected to sell that specific number of products in the given period.\n\nIn summary, portions are about dividing something equally among different parts while quotas are about achieving a specific goal or target.\n\nPortions are applicable when you want to divide something while quotas are applicable when you want to set a minimum or maximum level of performance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ecab861-9d43-482e-bdcc-b45c63091701.webp"
+        },
+        "Section": {
+            "wordRoot": "Section",
+            "wordDefinition": "Section refers to a part of something that has been divided or separated from the rest, typically for a specific or distinct purpose.\n\nFor example, a book may be divided into different sections, each covering a different topic, or a library may have different sections for different types of books (such as fiction, non-fiction, etc.).\n\nBoth words refer to a part or division of something, but portion is typically used for food or things that are divided equally, whereas section is used for larger objects or things that are divided into distinct parts for specific purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9283ab1e-352d-433a-810c-74b033fb0408.webp"
+        },
+        "Segment": {
+            "wordRoot": "Segment",
+            "wordDefinition": "Segment refers to a part of something that has been divided or separated based on a specific characteristic or criteria.\n\nFor example, if you were to divide an orange into segments, each segment would be based on the membranes separating them.\n\nPortion is often used when talking about food or quantities, while segment is more commonly used when talking about parts of a whole, such as a market segment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1c48e615-7d13-43df-8912-9e88a9a4bbb9.webp"
+        },
+        "Share": {
+            "wordRoot": "Share",
+            "wordDefinition": "A portion is a specific part or amount of something, while a share is a part of something that is divided among multiple people.\n\nFor example, if a pizza is cut into 8 slices and someone takes 2 slices, they have taken a portion of the pizza. If a group of 4 friends pool their money together to buy a pizza and each of them gets 2 slices, they each have a share of the pizza.\n\nShares typically refer to something that is divided among multiple people, like ownership or profit in a business.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/21ffd681-ea15-4cac-97aa-b8576044651c.webp"
+        },
+        "Slice": {
+            "wordRoot": "Slice",
+            "wordDefinition": "For example, a portion of pie can be any size, and it may not necessarily be cut into slices.\n\nSlice refers to a specific shape and size that is often used to divide round or cylindrical objects. For example, a pizza is commonly cut into equal slices, each with a triangular shape.\n\nPortion is used when referring to any arbitrary part of a whole, while slice is used to refer specifically to a dividing shape or action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4ff3f72a-0762-4e17-a08e-420cfcdc9bfd.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " How many of you are completely comfortable with calling yourselves a leader? I've asked that question all across the country, and everywhere I ask it, no matter where, there's a huge portion of the audience that won't put up their hand. And I've come to realize that we have made leadership into something bigger than us; something beyond us. We've made it about changing the world.",
+            "Title": "Drew Dudley: Everyday...",
+            "VideoId": "0ITHly-bhJE",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " by looking at the above-surface portion. This has led to the expression, \"tip of the iceberg.\" Here are some thing you might not know about the icy islands. The life of an iceberg begins many thousands of years before it reaches the ocean. Unlike sea ice or pack ice, which form when the ocean freezes,",
+            "Title": "What's below the tip of...",
+            "VideoId": "-PPGe7MU6ME",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " seeing their particular portion of the spectrum of light and with these perfect eyes for seeing the full spectrum we see amazing things we see stars planets galaxies broadcasting to us in radio and these aren't alien signals they're just part of the universe doing its thing and",
+            "Title": "The sort of light your...",
+            "VideoId": "X2X_2krlCkY",
+            "Controls": "start=353"
+        },
+        {
+            "Text": " The fresh air clears his mind and help him think better. In order to get to the park, he first has to get half way to the park. This portion of his journey takes some finite amount of time. Once he gets to the halfway point, he needs to walk half the remaining distance.",
+            "Title": "What is Zeno's Dichotomy...",
+            "VideoId": "EfqVnj-sgcc",
+            "Controls": "start=46"
+        },
+        {
+            "Text": " But maybe if you just believed that they were on loan to you from some unimaginable source for some exquisite portion of your life to be passed along when you're finished, with somebody else. And, you know, if we think about it this way, it starts to change everything.",
+            "Title": "Your elusive creative...",
+            "VideoId": "86x-u-tz0MA",
+            "Controls": "start=1070"
+        },
+        {
+            "Text": " By the time it completes its orbit and returns, the blob will have consumed the entire world, if even a single portion that will wake up remains. How can you cut the blob entirely into acute triangles and stop it from destroying the planet?",
+            "Title": "Can you solve the...",
+            "VideoId": "4peuImhJj44",
+            "Controls": "start=100"
+        },
+        {
+            "Text": " or a division of text, scribes would switch from standard black to the red pigment, minium. Another important visual device used to increase the prominence of certain portions of text was to set them off",
+            "Title": "Mysteries of vernacular:...",
+            "VideoId": "1_JqwvvEpRM",
+            "Controls": "start=46"
+        },
+        {
+            "Text": " spending most of the day resting they also spend a hefty portion of their time grooming perhaps personal hygiene is important amongst hair culture or perhaps there's just not much else to do",
+            "Title": "Sophisticated Mountain...",
+            "VideoId": "Ds3JsU5Vwg4",
+            "Controls": "start=78"
+        },
+        {
+            "Text": " never have a majority of the landscape under some sort of formal protection it's really ranchers that have a substantial portion of land under their stewardship and really ranching that can",
+            "Title": "Chase a Wild Buffalo...",
+            "VideoId": "85_nJwYqE_c",
+            "Controls": "start=449"
+        },
+        {
+            "Text": " the audiotapes are aired on TV, and significant portions made available online. The public humiliation was excruciating. Life was almost unbearable.",
+            "Title": "The price of shame PIPE...",
+            "VideoId": "H_8y0WLm78U",
+            "Controls": "start=492"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wole-soyinka.webp",
+            "Text": "One has a responsibility to clean up one's space and make it livable as far as one's own resources go. That includes not only material resources, but psychological resources: the commitment of time and a portion of your mind to something when you'd rather be doing something else.",
+            "Title": "Nigerian Dramatist",
+            "Name": "Wole Soyinka"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hamdi-ulukaya.webp",
+            "Text": "Just about anyone can make a good product, but it's the people that count. In the end, it's the employees who will take it from a kitchen-table idea to the next level. There are a lot of important things in business, but the people portion comes first.",
+            "Title": "Turkish Businessman",
+            "Name": "Hamdi Ulukaya"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ijustine.webp",
+            "Text": "Even though I do share a lot of stuff, it's a very small portion of my life. And I think you just have to be careful because, anything that you post, it essentially is there forever. If it's not something you don't want everyone to see, don't post it.",
+            "Title": "American Celebrity",
+            "Name": "iJustine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jameela-jamil.webp",
+            "Text": "Many weight issues stem from illness, be it physical or, indeed, emotional. And a large portion of people who sometimes struggle to maintain a 'healthy' weight deal daily with their own self-esteem crises.",
+            "Title": "English Celebrity",
+            "Name": "Jameela Jamil"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-hampton.webp",
+            "Text": "On the one hand, there is no reason that a black person needs to live a portion of his or her life being concerned about the people of color around him. On the other hand, if you don't you're crazy.",
+            "Title": "American Activist",
+            "Name": "Henry Hampton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edgar-allan-poe.webp",
+            "Text": "Experience has shown, and a true philosophy will always show, that a vast, perhaps the larger portion of the truth arises from the seemingly irrelevant.",
+            "Title": "American Poet",
+            "Name": "Edgar Allan Poe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-wordsworth.webp",
+            "Text": "The best portion of a good man's life is his little, nameless, unremembered acts of kindness and of love.",
+            "Title": "English Poet",
+            "Name": "William Wordsworth"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/curtis-jackson.webp",
+            "Text": "My grandmother, she's been the positive portion of my life the entire time.",
+            "Title": "American Musician",
+            "Name": "Curtis Jackson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hamsalekha.webp",
+            "Text": "Media is the first important portion of any cinema industry.",
+            "Title": "Indian Musician",
+            "Name": "Hamsalekha"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-danko.webp",
+            "Text": "Also a portion of my sales go directly to Greenpeace.",
+            "Title": "Canadian Musician",
+            "Name": "Rick Danko"
+        }
+    ]
+}

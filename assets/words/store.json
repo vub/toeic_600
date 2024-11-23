@@ -1,0 +1,321 @@
+{
+    "currentWord": {
+        "wordRoot": "store",
+        "id": 17812,
+        "phonemic": "stɔː(r)|stɔːr\r",
+        "bigId": "c0bf3bf8-953c-479f-b11b-231da9f82433",
+        "wordForms": [
+            "stores",
+            "storing",
+            "stored",
+            "store"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c0bf3bf8-953c-479f-b11b-231da9f82433",
+            "de": "A place where goods are sold",
+            "ty": "noun",
+            "ex": "I bought this dress at a store downtown.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "online store",
+                " grocery store",
+                " clothing store"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c0bf3bf8-953c-479f-b11b-231da9f82433.webp",
+            "Tips": [
+                {
+                    "title": "Location Descriptor",
+                    "description": "Use 'store' to describe a specific place where items are purchased, not general buying activity.",
+                    "example": "Let's meet at the electronics store after lunch.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fEum8DhdDsnnHYdoeg27uXyHQBE.webp"
+                },
+                {
+                    "title": "Physical Presence",
+                    "description": "'Store' implies a physical space you can visit, though it can extend to online.",
+                    "example": "The rug store on Main Street also has an online store.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/x3Vg64Qbkg50QAghbxnFDYSRRc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0cb374de-2c2a-4eb7-86bf-2f6c04f5e158",
+            "de": "A large amount of something that is kept for future use",
+            "ty": "noun",
+            "ex": "I have a store of canned food in my cellar.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "store of knowledge",
+                " store of information",
+                " store of food"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0cb374de-2c2a-4eb7-86bf-2f6c04f5e158.webp",
+            "Tips": [
+                {
+                    "title": "Future Use",
+                    "description": "'Store' in this sense means keeping something to use it later, not immediately.",
+                    "example": "He has a store of batteries for emergencies.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3f210b25-2ab2-436c-b4f9-c2fe1736ee7e",
+            "de": "To keep or accumulate for future use",
+            "ty": "verb",
+            "ex": "We store our garden furniture in the shed over winter.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "store data",
+                " store energy",
+                " store food"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3f210b25-2ab2-436c-b4f9-c2fe1736ee7e.webp",
+            "Tips": [
+                {
+                    "title": "Safekeeping",
+                    "description": "To 'store' is to intentionally keep something safe until you need it.",
+                    "example": "Store your valuables in a safe place while traveling.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b1a1ca4c-264b-49a2-8f9a-55664b62a192",
+            "de": "An area in a computer's memory used for storing information",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The app takes up a lot of store on my phone.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "data store",
+                " memory store",
+                " information store"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b1a1ca4c-264b-49a2-8f9a-55664b62a192.webp",
+            "Tips": [
+                {
+                    "title": "Technical Term",
+                    "description": "In computing, 'store' is technical jargon. Understand its context before use.",
+                    "example": "This database serves as the central store for all our user data.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "67abda06-9147-4030-8038-76da43dcfe5f",
+            "de": "A type of online marketplace",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "You can download the game from the app store.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "app store",
+                " online store",
+                " music store"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/67abda06-9147-4030-8038-76da43dcfe5f.webp",
+            "Tips": [
+                {
+                    "title": "Digital Marketplace",
+                    "description": "For online markets, 'store' can refer to a place you visit virtually to download digital goods.",
+                    "example": "I found a useful budgeting app in the app store.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Boutique": {
+            "wordRoot": "Boutique",
+            "wordDefinition": "A boutique is a small store that sells unique, specialized, or high-end items such as designer clothes, jewelry, or cosmetics.\n\nTypically, the items in a boutique are more expensive and exclusive than those in a regular store.\n\nA boutique is a small store that specializes in upscale and unique merchandise, while a store can refer to any type of retail establishment that sells goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f5cdeb02-0487-46e8-bfec-351083ca94f9.webp"
+        },
+        "Emporium": {
+            "wordRoot": "Emporium",
+            "wordDefinition": "Emporium and store are both places where you can buy things, but there are some differences between them.\n\nAn emporium is a large store that sells a variety of goods, often with a wide selection of high-quality or luxurious items.\n\nEmporiums often have a fancy or upscale feel to them and are typically found in larger cities. They tend to sell more unique or expensive products and may have a specific theme, like a Christmas emporium or an antique emporium.\n\nAn emporium is a fancy, larger store with a specific theme and selection of high-quality or unique items.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ce2a1da-17eb-420b-9742-02613cda25b7.webp"
+        },
+        "Establishment": {
+            "wordRoot": "Establishment",
+            "wordDefinition": "Establishment refers to any type of business or organization that has been established or founded, such as a company, restaurant, or school.\n\nEstablishment has a broader meaning than store and can refer to any type of business or organization, while store specifically refers to a business that sells goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d3cdbd12-8d73-4f25-9fca-014c0bf2962c.webp"
+        },
+        "Market": {
+            "wordRoot": "Market",
+            "wordDefinition": "A market is a place where multiple vendors sell goods or services, often outdoors or in a large hall. It usually has an informal atmosphere with various stalls and vendors selling a wide range of products such as fresh produce, meats, clothes, and souvenirs.\n\nA market is a bustling area where many vendors congregate to sell various goods, while a store is a commercial establishment that sells branded goods in a more formal manner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/547d9471-4ae4-4657-818f-2db36033c398.webp"
+        },
+        "Outlet": {
+            "wordRoot": "Outlet",
+            "wordDefinition": "An outlet is a retail location that sells discounted or clearance merchandise, often from an older season or style.\n\nOutlet stores are usually located away from city centers and in malls or shopping centers specifically designed for outlet shopping.\n\nThe merchandise sold at an outlet store may be overstock, out-of-season, or factory seconds. Outlet stores often carry a variety of brands under one roof.\n\nThese stores may offer sales or discounts, but not to the extent of an outlet store. They may also have a wider variety of products and name brands.\n\nAn outlet is a store that sells discounted or older merchandise, while a store sells new or current merchandise at regular prices.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/465fc411-913f-4138-8706-c8ee362d7992.webp"
+        },
+        "Repository": {
+            "wordRoot": "Repository",
+            "wordDefinition": "A repository is a place or system where things are stored and kept organized for future use or reference. In the world of technology, it typically refers to a place where code or files can be stored and managed, such as a git repository on GitHub.\n\nSo, while both words refer to places where things are kept, a repository is typically used for organizing and managing data or information, while a store is used for buying and selling goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a6e3226d-d94d-4f86-9828-5564ad171c36.webp"
+        },
+        "Shop": {
+            "wordRoot": "Shop",
+            "wordDefinition": "Both shop and store refer to a place where goods are sold, but their usage can vary depending on the context and location.\n\nShop typically refers to a smaller, more specialized retail establishment that sells specific goods/services (such as a coffee shop, gift shop, or repair shop).\n\nShop usually refers to a smaller and more specialized retail establishment, while store tends to refer to larger and more general establishments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ae40cf7-1726-4d3a-a0a8-c532eb439f1f.webp"
+        },
+        "Storehouse": {
+            "wordRoot": "Storehouse",
+            "wordDefinition": "A storehouse is a large building used for storing goods in large quantities. These goods could be anything from food to industrial equipment.\n\nUnlike a store, a storehouse is not open to the public and is used for storage purposes only.\n\nA store is a place to buy things while a storehouse is a place to keep things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/69bbb81b-6e29-4520-a0e4-04f2454ea039.webp"
+        },
+        "Warehouse": {
+            "wordRoot": "Warehouse",
+            "wordDefinition": "A warehouse is a large building used for storing products, goods, and inventory on a large scale.\n\nIt is usually located near transportation hubs such as airports, railways, or harbors. Warehouses are used by manufacturers, wholesalers, and retailers to store and ship their goods in bulk.\n\nUnlike stores, warehouses are not open to the public and are used mainly for business-to-business transactions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bc6a92be-c769-4f49-ad75-21ff08febdeb.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " actually be stuck in this loop forever every time a clock thing sting you move to the next chair this is a memory loop this is a fundamental unit of memory where you can essentially store bits of matter and information at the same time we actually built this here is an experiment that allows you to now think",
+            "Title": "Computing with fluids PIPE...",
+            "VideoId": "OhroLzvW-JI",
+            "Controls": "start=612"
+        },
+        {
+            "Text": " This double delivery fills the liver with nutrients, that it then sorts, processes and stores with the help of thousands of tiny internal processing plants, known as lobules. Both blood flows also deliver the oxygen that the liver needs to function. The blood that is received from the intestine",
+            "Title": "What does the liver do?...",
+            "VideoId": "wbh3SjzydnQ",
+            "Controls": "start=47"
+        },
+        {
+            "Text": " And the different stages of sleep have been shown to help consolidate different types of memories. During the non-REM slow-wave sleep, declarative memory is encoded into a temporary store in the anterior part of the hippocampus. Through a continuing dialogue between the cortex and hippocampus,",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=251"
+        },
+        {
+            "Text": " It tells your body to replenish your energy stores with energy dense foods and carbs, causing you to crave comfort foods. High levels of cortisol can also cause you to put on those extra calories as visceral or deep belly fat. This type of fat doesn't just make it harder to button your pants.",
+            "Title": "How stress affects your...",
+            "VideoId": "v-t1Z5-oPtU",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " behind the most important aspect of honeybee the hive. Just like humans, bees need food and shelter to stay alive. The hive is not only the bees' home, but doubles as a place to store their honey. Since it's so central to survival, honeybees have to perfect the hive's architectural design.",
+            "Title": "Why do honeybees love...",
+            "VideoId": "QEzlsjAqADA",
+            "Controls": "start=29"
+        },
+        {
+            "Text": " The droplets combine with each other and other molecules and are then expelled and stored in spaces between cells. Mammary glands eventually secrete the milk through the breasts, udders, or, in the rare case of the platypus, through ducts in the abdomen.",
+            "Title": "The science of milk -...",
+            "VideoId": "xmNzUEmFZMg",
+            "Controls": "start=87"
+        },
+        {
+            "Text": " Red item, green, blue, getting those three things in a box. So we said, there's just got to be a better way to do this. Existing material handling was set up to pump pallets and cases of goo to retail stores.",
+            "Title": "Mick Mountz: What...",
+            "VideoId": "9UiK4llJOXc",
+            "Controls": "start=167"
+        },
+        {
+            "Text": " plants encourage them to do so by adding a tasty capsule to their seeds that may seem odd but these ants don't eat all the seeds they store in fact seeds are more likely to germinate below ground than above",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "leDm_-nfr2w",
+            "Controls": "start=20"
+        },
+        {
+            "Text": " blink six seconds and six percent of our walk is through crops peat bugs are large stores of water and carbon and are home to special wetland wildlife",
+            "Title": "UK National Parks in 100...",
+            "VideoId": "-zDNMgeeQrc",
+            "Controls": "start=22"
+        },
+        {
+            "Text": " Deep underground lies stores of once inaccessible natural gas. This gas was likely formed over millions of years",
+            "Title": "How does fracking work?...",
+            "VideoId": "Tudal_4x4F0",
+            "Controls": "start=6"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nadine-labaki.webp",
+            "Text": "I was lucky because I used to live right next to a video-rental store. I used to spend so much time watching films. So I've seen a lot. I used to watch 'Dynasty' and 'Dallas' and have seen every kind of film. I've been influenced by everything I've seen.",
+            "Title": "Lebanese Actress",
+            "Name": "Nadine Labaki"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeffrey-kluger.webp",
+            "Text": "There's a deep-freeze of sorts for all good intentions - a place that you store your plans to make changes in your life when you know you're not going to make them at all.",
+            "Title": "American Writer",
+            "Name": "Jeffrey Kluger"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joel-osteen.webp",
+            "Text": "You can live your life angry, bitter, mad at somebody or even guilty, not letting go of your own mistakes, but you won't receive the good things God has in store.",
+            "Title": "American Clergyman",
+            "Name": "Joel Osteen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lady-colin-campbell.webp",
+            "Text": "From when we were about seven we worked in our family store during the holidays. My father said it was important that we know where our money came from.",
+            "Title": "British Writer",
+            "Name": "Lady Colin Campbell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julia-fox.webp",
+            "Text": "I grew up above a video store. My dad had an account with them and... he was very busy and had his own life. So I just would watch movies nonstop.",
+            "Title": "Italian Actress",
+            "Name": "Julia Fox"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sam-walton.webp",
+            "Text": "Each Wal-Mart store should reflect the values of its customers and support the vision they hold for their community.",
+            "Title": "American Businessman",
+            "Name": "Sam Walton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francois-nars.webp",
+            "Text": "I think it's important that you know every detail when you open a store, that you pay attention to everything.",
+            "Title": "French Businessman",
+            "Name": "Francois Nars"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-marino.webp",
+            "Text": "If something's a high-margin product, I understand its importance to the store.",
+            "Title": "American Architect",
+            "Name": "Peter Marino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/herm-edwards.webp",
+            "Text": "The thing about wisdom is you store the past in your head.",
+            "Title": "American Coach",
+            "Name": "Herm Edwards"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/parker-posey.webp",
+            "Text": "I like to support local record stores.",
+            "Title": "American Actress",
+            "Name": "Parker Posey"
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "currentWord": {
+        "wordRoot": "delete",
+        "id": 9116,
+        "phonemic": "dɪˈliːt|dɪˈliːt\r",
+        "bigId": "9a4626b7-24e7-4292-a8cd-cea3df5782d7",
+        "wordForms": [
+            "deletes",
+            "deleting",
+            "deleted",
+            "deletion",
+            "delete"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9a4626b7-24e7-4292-a8cd-cea3df5782d7",
+            "de": "To remove or erase something completely.",
+            "ty": "verb",
+            "ex": "Please delete the unnecessary files from your computer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "delete a file",
+                " delete an email",
+                " delete a message"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9a4626b7-24e7-4292-a8cd-cea3df5782d7.webp",
+            "Tips": [
+                {
+                    "title": "Digital Cleanup",
+                    "description": "Used when tidying up electronic spaces, like clearing unnecessary data.",
+                    "example": "I regularly delete old documents to keep my folders organized.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SACFTpaM5SvAIbERQLDiIK9i2Y.webp"
+                },
+                {
+                    "title": "Not for Trash",
+                    "description": "'Delete' is not used for physical items; 'throw away' is more accurate for that.",
+                    "example": "Remember, we delete files, not papers.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RKydUw500jr8AebodkWH7KIMOEk.webp"
+                },
+                {
+                    "title": "Recoverability",
+                    "description": "In digital contexts, deleted items might be restored unless permanently erased.",
+                    "example": "Deleted photos can sometimes be recovered from a recycle bin.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vi7PvPYcq4z2dGR8CnGlihCI.webp"
+                }
+            ]
+        },
+        {
+            "id": "055b2a7a-4cff-47b7-a32d-54375a9425bc",
+            "de": "To decide not to include something.",
+            "ty": "verb",
+            "ex": "The editor suggested to delete this paragraph to make the article more concise.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "delete a paragraph",
+                " delete a sentence",
+                " delete a word"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/055b2a7a-4cff-47b7-a32d-54375a9425bc.webp",
+            "Tips": [
+                {
+                    "title": "Editing Process",
+                    "description": "Often used to suggest removal for clarity or brevity in writing.",
+                    "example": "My teacher told me to delete redundant sentences from my essay.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Academic Context",
+                    "description": "Common in scholarly writing to indicate exclusion of text or ideas.",
+                    "example": "In my thesis, I had to delete several off-topic paragraphs.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "31c0a81f-ddeb-4f6a-b4ce-003ee9b1923c",
+            "de": "To stop a service on a machine or a software.",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "Delete your account if you no longer want our services.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "delete an account",
+                " delete a profile",
+                " delete a subscription"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/31c0a81f-ddeb-4f6a-b4ce-003ee9b1923c.webp",
+            "Tips": [
+                {
+                    "title": "Account Management",
+                    "description": "In computing, it implies removing access or stopping usage of a service.",
+                    "example": "After the trial period, I decided to delete my account.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Permanent Action",
+                    "description": "It implies a definitive action in digital services, usually irreversible.",
+                    "example": "Be careful when you delete a subscription, as you may lose all data.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8243a916-08a2-452a-a025-655c20bfad99",
+            "de": "To scratch out or draw a line through something, often a text, to show it should be ignored.",
+            "ty": "verb",
+            "ex": "He deleted her name from the list of participants.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "delete a name",
+                " delete a number",
+                " delete an item"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8243a916-08a2-452a-a025-655c20bfad99.webp",
+            "Tips": [
+                {
+                    "title": "Emphasize Removal",
+                    "description": "Indicates intent to disregard or not consider something or someone.",
+                    "example": "She deleted him from the guest list after their argument.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Physical Deletion",
+                    "description": "Refers to removing names or items from a physical list or document.",
+                    "example": "The teacher deleted the incorrect answers from the board.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Annihilate": {
+            "wordRoot": "Annihilate",
+            "wordDefinition": "Annihilate means to destroy completely, especially in a violent way. It is applicable in situations where complete destruction or elimination is required, such as in a war or when dealing with a deadly virus.\n\nThink of it this way: annihilate is like blowing up a building, while delete is like erasing a word from a piece of paper.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/22226c65-45e1-4e08-8340-071c1713aed4.webp"
+        },
+        "Cancel": {
+            "wordRoot": "Cancel",
+            "wordDefinition": "Cancel means to stop or remove something that was planned or requested.\n\nIt is often used when talking about plans, orders or subscriptions. For example, you would cancel a flight, a dinner reservation or a magazine subscription.\n\nCancel is used when stopping or ceasing something that was arranged or requested, while delete is used when removing something permanently, usually a digital file or document.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ee3ac32-220d-4e93-8688-9828cd97cba6.webp"
+        },
+        "Efface": {
+            "wordRoot": "Efface",
+            "wordDefinition": "Efface means to erase or obliterate something completely, to the point where it is no longer visible or recognizable.\n\nDelete means to remove, while efface means to completely erase or wipe out something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ce1c08a7-93cf-4f6e-b5a2-a05912023415.webp"
+        },
+        "Eliminate": {
+            "wordRoot": "Eliminate",
+            "wordDefinition": "Eliminate has a broader meaning and can be used in a variety of contexts. It means to remove or get rid of something completely, without leaving any traces of it behind.\n\nFor example, you can delete a file from your computer, but you eliminate a disease or a problem.\n\nYou can also use eliminate to refer to getting rid of a person, idea, or situation.\n\nDelete is used when referring to the removal of digital content and eliminate is used when referring to the complete removal of something physical or abstract.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1eda0185-8e2f-4584-b6d2-20619bfd0f6f.webp"
+        },
+        "Erase": {
+            "wordRoot": "Erase",
+            "wordDefinition": "Erase means to completely remove or wipe out the data from a device. This action makes the data irretrievable and unrecoverable.\n\nErasing is more permanent than deleting and is primarily used when you don't want the data to be recovered by anyone.\n\nIn simple terms, deleting is like throwing a piece of paper in the trash can, while erasing is like shredding it to pieces. Deleting is reversible while erasing is not.\n\nBut if you want to sell or dispose of your device where you do not want any data to be recovered from it, you can use erase to remove all data.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/157b6f22-31aa-4966-a065-4abee68fa4f1.webp"
+        },
+        "Excise": {
+            "wordRoot": "Excise",
+            "wordDefinition": "Excise means to remove a specific part of something. When you excise something, you are removing only a portion of it, not the entire thing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b43d6716-d93e-422e-8483-5f4b1f0c0662.webp"
+        },
+        "Expunge": {
+            "wordRoot": "Expunge",
+            "wordDefinition": "Delete means to remove or erase something from a computer or other electronic device. Expunge means to remove something completely, including any record or trace of it.\n\nThey are both applicable in situations where information needs to be removed or erased. For example, deleting a file from a computer or expunging a criminal record from someone's history.\n\nHowever, the word expunge is usually used in more serious situations where the information being removed is considered damaging or harmful.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/539fd42d-a0b5-4d12-b7b6-25d234a46ae6.webp"
+        },
+        "Obliterate": {
+            "wordRoot": "Obliterate",
+            "wordDefinition": "Obliterate means to completely destroy or eliminate something, often resulting in no trace of it remaining. For example, a bomb might obliterate a building, leaving nothing behind.\n\nDelete is used for the removal of things, while obliterate is reserved for the complete destruction of objects or ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/95306268-0964-4ddb-9320-7e3b5c48d027.webp"
+        },
+        "Remove": {
+            "wordRoot": "Remove",
+            "wordDefinition": "The words delete and remove both mean to get rid of something, but they are used in slightly different contexts.\n\nRemove is usually used for getting rid of something physical, like an object or a stain. For example, you might remove a stain from your clothes, or remove a piece of furniture from a room.\n\nTo put it simply, delete is used for digital things, while remove is used for physical things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0df8eca2-983b-4d49-b562-ff59cd1229f2.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " in terms of intellectual, athletic, musical ability, creativity, energy levels, resiliency in the face of challenge, sense of humor? Whatever it is, instead of deleting you, what I want to do is study you. Because maybe we can glean information, not just how to move people up to the average, but move the entire average up in our companies and schools worldwide.",
+            "Title": "The happy secret to...",
+            "VideoId": "fLJsdqxnZb0",
+            "Controls": "start=308"
+        },
+        {
+            "Text": " unless outside we go what can I say to people that's happy in their age a double let's say this is taboo you don't find it I'm finding out that is your opinion he got got a deleted I honor and respect you you know I'm only doing this to help you but dude it was a diode as long as thousands of people in Manila",
+            "Title": "Exorcism PIPE National...",
+            "VideoId": "uoA-dBREM5c",
+            "Controls": "start=279"
+        },
+        {
+            "Text": " because guess what? We don't even need that much time to do amazing things. But when most of us have bits of time, what do we do? Pull out the phone, right? Start deleting emails. Otherwise, we're puttering around the house or watching TV. But small moments can have great power.",
+            "Title": "How to gain control of...",
+            "VideoId": "n3kNlFMXslo",
+            "Controls": "start=627"
+        },
+        {
+            "Text": " and our beliefs and our understandings about the world are limited by that perspective, which means we tell ourselves stories. Right? So here we are in this infinite data source. There's an infinite number of things that we could think about, but we edit and delete.",
+            "Title": "Mentalism, mind reading...",
+            "VideoId": "2IFa0tqHrwE",
+            "Controls": "start=17"
+        },
+        {
+            "Text": " I'd just delete the emails. I just thought that the senders and I had nothing in common. They didn't understand me, and I didn't understand them. Then one day, one of my colleagues in the parliament said that I should save the hate mails.",
+            "Title": "Why I have coffee with...",
+            "VideoId": "rQy4gPjUY-s",
+            "Controls": "start=74"
+        },
+        {
+            "Text": " the total amount of quantum information in the Universe must be conserved. Even if you destroy an object beyond recognition, its quantum information is never permanently deleted. And theoretically, knowledge of that information",
+            "Title": "Hawking's black hole...",
+            "VideoId": "r5Pcqkhmp_0",
+            "Controls": "start=81"
+        },
+        {
+            "Text": " burdens they narrow our options our relationships our experiences of life forgiveness releases us forgiveness doesn't delete the past forgiveness enriches the future forgiveness doesn't mean that you give up your boundaries or",
+            "Title": "What forgiveness can...",
+            "VideoId": "TEfxPpnMuNQ",
+            "Controls": "start=680"
+        },
+        {
+            "Text": " that you have deleted in your life. There may be a Delete button, but there's no such thing as delete. Apps track every key that you push. You can find anything you want online except for privacy. And those were the numbers.",
+            "Title": "Big Data by the Numbers...",
+            "VideoId": "uEVW7IeIYuA",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " You don't know. Right? And deleting a data point is really violating one of the things that I found so beautiful about the scientific process -- it really allows the data to reveal the truth to you.",
+            "Title": "Erika Cheung: Theranos,...",
+            "VideoId": "vMQlj9TZQfE",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " and compatible with a life-forming sequence. We narrowed it down to one fragment; we sequenced it and found just one base pair had been deleted in an essential gene.",
+            "Title": "Craig Venter unveils...",
+            "VideoId": "QHIocNOHd7A",
+            "Controls": "start=579"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/evan-spiegel.webp",
+            "Text": "Online one day, you log in, and you realise, 'This is not me.' Everything you're posting, you're doing it in the context of everything you've posted before. Let's delete everything, save the stuff that's important, and then you only have to organise the one per cent that's worth keeping.",
+            "Title": "American Businessman",
+            "Name": "Evan Spiegel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/colin-kaepernick.webp",
+            "Text": "We have a presidential candidate who's deleted emails and done things illegally and is a presidential candidate. That doesn't make sense to me, because if that was any other person, you'd be in prison. So what is this country really standing for?",
+            "Title": "American Athlete",
+            "Name": "Colin Kaepernick"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-watkins.webp",
+            "Text": "My company has no intention of deleting constitutionally protected hate speech. I feel the remedy for this type of speech is counter speech, and I'm certain that this is the view of the American justice system.",
+            "Title": "American Businessman",
+            "Name": "Jim Watkins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judith-martin.webp",
+            "Text": "We're now seeing email that people thought they had deleted showing up as evidence in court. You can't erase email. As that becomes more commonly realized, people will be a little wiser about what they type.",
+            "Title": "American Author",
+            "Name": "Judith Martin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mario-balotelli.webp",
+            "Text": "You can't delete racism. It's like a cigarette. You can't stop smoking if you don't want to, and you can't stop racism if people don't want to. But I'll do everything I can to help.",
+            "Title": "Italian Athlete",
+            "Name": "Mario Balotelli"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alex-graves.webp",
+            "Text": "It's very unusual on 'Game of Thrones' for there to be a deleted scene because the scripts are pretty locked in. There's rarely a reason to say, 'Hey, we don't need this scene.",
+            "Title": "American Director",
+            "Name": "Alex Graves"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-twain.webp",
+            "Text": "Substitute 'damn' every time you're inclined to write 'very'; your editor will delete it and the writing will be just as it should be.",
+            "Title": "American Writer",
+            "Name": "Mark Twain"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronny-chieng.webp",
+            "Text": "I'm on Twitter for work, but I hate it. I encourage everyone to delete it if possible.",
+            "Title": "Malaysian Comedian",
+            "Name": "Ronny Chieng"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harlan-coben.webp",
+            "Text": "More than once, I've wished my real life had a delete key.",
+            "Title": "American Author",
+            "Name": "Harlan Coben"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gia-coppola.webp",
+            "Text": "I have a lot of game apps I need to delete.",
+            "Title": "American Director",
+            "Name": "Gia Coppola"
+        }
+    ]
+}

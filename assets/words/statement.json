@@ -1,0 +1,340 @@
+{
+    "currentWord": {
+        "wordRoot": "statement",
+        "id": 20350,
+        "phonemic": "ˈsteɪtmənt|ˈsteɪtmənt\r",
+        "bigId": "a0645a8d-4b93-42d8-bdd4-d8cad54ad019",
+        "wordForms": [
+            "statements",
+            "statement"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a0645a8d-4b93-42d8-bdd4-d8cad54ad019",
+            "de": "Something that someone says or writes officially or publicly to express an opinion, fact or state of affairs.",
+            "ty": "noun",
+            "ex": "The company issued a statement about its future plans.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "issue a statement",
+                " make a statement",
+                " release a statement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a0645a8d-4b93-42d8-bdd4-d8cad54ad019.webp",
+            "Tips": [
+                {
+                    "title": "Official Communication",
+                    "description": "Used when an individual or organization needs to officially share information or views.",
+                    "example": "The minister's statement clarified the new policy.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/aEIAVdNE7x4Okq3S3CGUzM7Lcg.webp"
+                },
+                {
+                    "title": "Public Impact",
+                    "description": "Could affect public opinion or convey an important message to a broader audience.",
+                    "example": "Her statement on climate change influenced the community.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JIWiNpZfMlD9MJFmdoDIsxDPb8s.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "06b1ad66-533c-49b1-99f4-1f04ba911d2a",
+            "de": "A document that gives an official set of numbers or facts about something.",
+            "do": "Financial",
+            "ty": "noun",
+            "ex": "I get a monthly statement from my bank showing all the transactions.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bank statement",
+                " financial statement",
+                " income statement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/06b1ad66-533c-49b1-99f4-1f04ba911d2a.webp",
+            "Tips": [
+                {
+                    "title": "Regular Updates",
+                    "description": "Regular documents like bank statements help track finances over a period of time.",
+                    "example": "My bank statement shows all my expenses for this month.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Proof of Activity",
+                    "description": "Statements often serve as official records to prove financial activities.",
+                    "example": "The auditor requested all financial statements for the review.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ac7313f4-1ed5-4292-8c4a-a048cf68b4c2",
+            "de": "A piece of furniture, jewelry, clothing, etc. that is very bold and noticeable.",
+            "ty": "noun",
+            "ex": "Her dress really made a statement at the party.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make a statement",
+                " fashion statement",
+                " bold statement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ac7313f4-1ed5-4292-8c4a-a048cf68b4c2.webp",
+            "Tips": [
+                {
+                    "title": "Conveys Personality",
+                    "description": "Items that make a statement showcase someone's unique style or personality.",
+                    "example": "His colorful tie really made a statement.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Attention Grabbing",
+                    "description": "Intended to be bold and catch people's attention immediately.",
+                    "example": "The sculpture in the lobby makes a striking statement.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fbd1da0a-cc04-4f85-8710-e606d171ff32",
+            "de": "A formal write-up in law documents providing facts or claims.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "His statement of claim was submitted to the court.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "statement of claim",
+                " sworn statement",
+                " written statement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fbd1da0a-cc04-4f85-8710-e606d171ff32.webp",
+            "Tips": [
+                {
+                    "title": "Legal Evidence",
+                    "description": "Legal statements are often used as evidence or to present facts in court.",
+                    "example": "Her sworn statement was crucial to the case.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formal Document",
+                    "description": "A statement in law is an official document and must be written formally and accurately.",
+                    "example": "The lawyer prepared a statement of defense.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "91dba347-6347-46d4-bb0a-7dcc8b3cec76",
+            "de": "In computing, a command or instruction written in a computer programming language.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "In Python, a print statement outputs data to the console.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "print statement",
+                " conditional statement",
+                " sql statement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/91dba347-6347-46d4-bb0a-7dcc8b3cec76.webp",
+            "Tips": [
+                {
+                    "title": "Coding Instructions",
+                    "description": "In programming, a statement instructs the computer to perform a specific action.",
+                    "example": "The if statement checks a condition before executing code.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Building Blocks",
+                    "description": "Statements are the basic building blocks in writing code for software and apps.",
+                    "example": "Each statement in the program contributes to its overall function.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Affirm": {
+            "wordRoot": "Affirm",
+            "wordDefinition": "Affirm means to state that something is true or to confirm something that has already been said. It is commonly used in legal or official settings, where someone might need to make a formal declaration that something is true.\n\nAffirm is a more formal term that is typically used when someone needs to make a clear and unequivocal statement about something, often in a legal or official context.\n\nStatement, on the other hand, is a more general term that can be used in a wider range of contexts, and does not necessarily carry the same weight of authority or formality as \"affirm.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d7ee8a6-c1ac-4b1e-bf74-35670210d8b4.webp"
+        },
+        "Announce": {
+            "wordRoot": "Announce",
+            "wordDefinition": "Announce means to make something known publicly or officially, often for the first time. This can be used in various situations such as announcing a new product, a winner of an award, or an upcoming event.\n\nAnnounce is generally used when something is first being revealed or introduced, while statement is used when someone is making a declaration or taking a stance on something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b43be83-7ab9-4e9e-8121-b5761b16feab.webp"
+        },
+        "Assertion": {
+            "wordRoot": "Assertion",
+            "wordDefinition": "An assertion is a strong claim that is made with confidence, often without evidence to support it.\n\nAn assertion is a confident claim made without evidence, while a statement is a declaration backed by evidence.\n\nA statement is more applicable when presenting factual information, while an assertion is more applicable when making a persuasive argument.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20ae0a1c-b20a-4be1-893c-6396f8ac45ac.webp"
+        },
+        "Claim": {
+            "wordRoot": "Claim",
+            "wordDefinition": "A claim is a statement that someone makes where they say that something is true or has happened.\n\nIn summary, claims are used in debates, discussions, or scientific papers, while statements are used in everyday conversations, news reports or commentaries.\n\nClaims must have evidence to back them up, while statements are often a reflection of personal views or experiences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bbcde130-4870-4dbb-85c4-395ba3b23513.webp"
+        },
+        "Declaration": {
+            "wordRoot": "Declaration",
+            "wordDefinition": "A declaration is a formal or official announcement or proclamation, usually made by a government or other authority, such as declaring war or independence.\n\nIn simpler terms, a declaration is a big, official announcement, while a statement is a general remark or belief. Declarations are usually made by those in charge of large organizations or governments, while statements can be made by anyone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/acbd5d7a-f6ba-4c18-b7d5-e90cd3ead8d8.webp"
+        },
+        "Expression": {
+            "wordRoot": "Expression",
+            "wordDefinition": "An expression is any code that evaluates to a value, while a statement is a piece of code that performs an action.\n\nExamples of expressions are:\n\nIn general, expressions are used to calculate values, while statements are used to control the flow of a program or interact with the environment.\n\nHowever, many statements also contain expressions. For example, an if statement contains an expression that is evaluated to determine which code block to execute.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f0edd24c-0e14-4f6f-9055-726b08bec17f.webp"
+        },
+        "Proclamation": {
+            "wordRoot": "Proclamation",
+            "wordDefinition": "A proclamation is a formal public announcement made by a person in authority, like a government official or a king or queen.\n\nA proclamation is a formal public announcement made by someone in authority, while a statement is a more general term that can refer to any kind of declaration or message.\n\nProclamations are typically reserved for more significant and official announcements, while statements can be made by anyone about anything.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/34865cee-4838-43da-88c6-5970bb65a8e1.webp"
+        },
+        "Pronounce": {
+            "wordRoot": "Pronounce",
+            "wordDefinition": "Pronounce is used when speaking words out loud and correctly. For example, you might pronounce a difficult word slowly and carefully so that people can understand you.\n\nPronounce is about speaking words correctly, while statement is about expressing ideas or opinions through words.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2c0b6e24-fe9d-482a-bad9-c9308e81f229.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " It has to have no special gadgets. That can only mean one thing, following on from Ross's statement, which I agree with if it means no special gadgets, it has to run on a mobile phone. That's the only choice we have, to make it work on mobile phones. There are 6.6 billion mobile phone subscriptions. My favorite statistic of all only 4 billion toothbrushes in the world.",
+            "Title": "David Birch: A new way...",
+            "VideoId": "IZjPnaifVIM",
+            "Controls": "start=846"
+        },
+        {
+            "Text": " A technology known as linguistic text analysis has helped to identify four such common patterns in the subconscious language of deception. First, liars reference themselves less, when making deceptive statements. They write or talk more about others, often using the third person to distance and disassociate themselves from their lie,",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=103"
+        },
+        {
+            "Text": " to find a way to survive when the word comes down from the leaders the gang members respond with brutal and violent acts including beatings riots or even homicide if we put a hit on somebody we basically want them life flighted they said a statement for the whole",
+            "Title": "Prison Nation PIPE National...",
+            "VideoId": "nYJJEnTn9P0",
+            "Controls": "start=98"
+        },
+        {
+            "Text": " but reassures himself that your statement couldn't have changed anything. You leave, and life on the island seems to go on as before. But on the hundredth morning after your visit, all the prisoners are gone, each having asked to leave the previous night.",
+            "Title": "Can you solve the...",
+            "VideoId": "98TQv5IAtY8",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " used to be thought of as souls rather than the body was incidental and the soul was all that mattered there wasn't a soul in sight someone might say of an empty lifeless Street and all souls were lost at sea a statement that still makes me shiver",
+            "Title": "The real meaning of soul...",
+            "VideoId": "LPQ_JsXof4c",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " on the smell of human feet, until we came across a remarkable statement in the literature that said that cheese smells after feet rather than the reverse. Think of it. And this triggered us to do a remarkable experiment.",
+            "Title": "Bart Knols: Cheese, dogs...",
+            "VideoId": "Fivy99RtMfM",
+            "Controls": "start=211"
+        },
+        {
+            "Text": " mathematical statements definitely don't. Their truth values are based on rules that humans created. Mathematics is thus an invented logic exercise, with no existence outside mankind's conscious thought,",
+            "Title": "Is math discovered or...",
+            "VideoId": "X_xR5Kes4Rs",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " produced it made a very bold statement we will quote a crew of film crews and we will film exactly what happened and we don't know what it'll be a triumph we don't know whether it'll be a tragedy",
+            "Title": "David Attenborough On...",
+            "VideoId": "OgcDGUkAz2U",
+            "Controls": "start=20"
+        },
+        {
+            "Text": " where are they now so that was a really strong statement i mean obviously a lot of people who who support you i thought would say you have so much to offer the world on the upside on the",
+            "Title": "Elon Musk talks Twitter,...",
+            "VideoId": "cdZZpaB2kDM",
+            "Controls": "start=1793"
+        },
+        {
+            "Text": " When I arrived in L.A. about nine years ago, I came across a policy statement -- very well-intentioned -- which said, \"College begins in kindergarten.\" No, it doesn't.",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=669"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fka-twigs.webp",
+            "Text": "Half of my life, I've had people staring at me because they think I'm funny-looking and ugly. The other half of my life, I've had people staring at me because they think I'm fascinating. Everything neutralises. It's more of a statement on society and how weird it is.",
+            "Title": "British Musician",
+            "Name": "FKA twigs"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/huda-kattan.webp",
+            "Text": "I like things on my desk that are pretty and make a statement. It's important that whatever is on my desk inspires me because that's where I spend a lot of my time working and creating things.",
+            "Title": "Iraqi Entertainer",
+            "Name": "Huda Kattan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/javier-bardem.webp",
+            "Text": "When you put gas in your car you are making a political statement, because you are supporting the empires that control and continue the destruction of some countries.",
+            "Title": "Spanish Actor",
+            "Name": "Javier Bardem"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-r-swindoll.webp",
+            "Text": "I think it is important to begin with a statement in your speech that grabs the attention of the audience. I try to make my opening line 15 words or less.",
+            "Title": "American Clergyman",
+            "Name": "Charles R. Swindoll"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-caan.webp",
+            "Text": "I lost my passion for work. No, that's a negative statement. I just had a bigger passion for something else, for my son, and growing up with him.",
+            "Title": "American Actor",
+            "Name": "James Caan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/flip-wilson.webp",
+            "Text": "My show is my statement. What I have to say is on the screen. My life is my own. I don't want to talk about my private self. Why should I?",
+            "Title": "American Comedian",
+            "Name": "Flip Wilson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lp.webp",
+            "Text": "I feel like how I live my life is my own political statement.",
+            "Title": "American Musician",
+            "Name": "LP"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lynn-johnston.webp",
+            "Text": "The most profound statements are often said in silence.",
+            "Title": "American Cartoonist",
+            "Name": "Lynn Johnston"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chiara-ferragni.webp",
+            "Text": "Personality for me is the strongest statement.",
+            "Title": "Italian Businesswoman",
+            "Name": "Chiara Ferragni"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-rollins.webp",
+            "Text": "The truth is an anti-war statement in itself.",
+            "Title": "American Musician",
+            "Name": "Henry Rollins"
+        }
+    ]
+}

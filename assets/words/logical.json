@@ -1,0 +1,341 @@
+{
+    "currentWord": {
+        "wordRoot": "logical",
+        "id": 9329,
+        "phonemic": "ˈlɒdʒɪkl|ˈlɑːdʒɪkl\r",
+        "bigId": "aef16aaf-7007-48c7-b707-07519306908e",
+        "wordForms": [
+            "logically",
+            "logical"
+        ]
+    },
+    "senses": [
+        {
+            "id": "aef16aaf-7007-48c7-b707-07519306908e",
+            "de": "related to clear, understandable reasoning or thinking",
+            "ty": "adjective",
+            "ex": "Her argument was very logical, and convinced us all.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "logical explanation",
+                " logical approach",
+                " logical conclusion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/aef16aaf-7007-48c7-b707-07519306908e.webp",
+            "Tips": [
+                {
+                    "title": "Clarity Matters",
+                    "description": "Logical reasoning should lead to clear conclusions, avoid ambiguity or confusion.",
+                    "example": "His speech was logical; it left no room for misinterpretation.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vqwZoHV2rQ1V5NgSD3dX6tKxPbk.webp"
+                },
+                {
+                    "title": "Emotion vs Reason",
+                    "description": "Logical is not based on emotions; it's based on reason and evidence.",
+                    "example": "Despite her frustration, her reply remained calm and logical.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/liAId0cmyDL5SyDSG938ZjB5xU.webp"
+                }
+            ]
+        },
+        {
+            "id": "c55e7f9e-d90d-4197-8f34-ea5243fc41ab",
+            "de": "following the rules of formal thinking or reasoning",
+            "do": "academic",
+            "ty": "adjective",
+            "ex": "logical principles are the foundation of mathematics and philosophy",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "logical implications",
+                " logical consistency",
+                " logical principles"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c55e7f9e-d90d-4197-8f34-ea5243fc41ab.webp",
+            "Tips": [
+                {
+                    "title": "Academic Precision",
+                    "description": "In academics, 'logical' implies precision and adherence to recognized methods.",
+                    "example": "His thesis was commended for its logical structure and rigorous analysis.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Intuitive",
+                    "description": "Logical academic arguments may seem counterintuitive but are formally valid.",
+                    "example": "The logical theorem challenged common sense, yet it was proven correct.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d1566e46-7f46-4584-9c17-f594a52dc55d",
+            "de": "organized and easy to understand because of being arranged in a reasonable order",
+            "ty": "adjective",
+            "ex": "The report's layout is logical and easy to navigate.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "logical order",
+                " logical layout",
+                " logical progression"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d1566e46-7f46-4584-9c17-f594a52dc55d.webp",
+            "Tips": [
+                {
+                    "title": "Clear Structure",
+                    "description": "Logical structures present information in an expected, organized manner.",
+                    "example": "The guide was logical, starting with basics and advancing to complex topics.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Step-by-Step",
+                    "description": "Logical progression is about moving from point to point without leaps.",
+                    "example": "Her logical progression through the steps made the math problem easy to follow.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e1d2a479-16c8-4268-8c4c-bb30812ddeed",
+            "de": "relating to the scientific study of logic",
+            "do": "academic",
+            "ty": "adjective",
+            "ex": "She has a logical perspective on the situation.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "logical operations",
+                " logical theories",
+                " logical studies"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e1d2a479-16c8-4268-8c4c-bb30812ddeed.webp",
+            "Tips": [
+                {
+                    "title": "Rational Analysis",
+                    "description": "Logical analytical thinking involves dissecting ideas and reasoning systematically.",
+                    "example": "He approached the issue with logical analysis, examining all possible outcomes.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Philosophy",
+                    "description": "Logical isn't limited to philosophy; it applies to problem-solving in many fields.",
+                    "example": "Her logical approach saved time during the emergency situation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1fe7eb11-69d9-41d3-8da8-8abbb94dd5c7",
+            "de": "in computing, relating to a logical operation",
+            "do": "computing",
+            "ty": "adjective",
+            "ex": "Logical operators are used in programming languages.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "logical system",
+                " logical process",
+                " logical operation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1fe7eb11-69d9-41d3-8da8-8abbb94dd5c7.webp",
+            "Tips": [
+                {
+                    "title": "Computing Exactness",
+                    "description": "In computing, logical refers to clear, exact operations without ambiguity.",
+                    "example": "The program functioned correctly, thanks to its logical algorithm.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Digital Clarity",
+                    "description": "Logical in digital contexts means binary clarity - something is either true or false.",
+                    "example": "The logical gate outputs '1' only when both inputs are '1'.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Analytical": {
+            "wordRoot": "Analytical",
+            "wordDefinition": "Analytical refers to breaking something down into smaller parts and examining each one carefully to understand how it works.\n\nBoth analytical and logical approaches are useful in different contexts. Analytical thinking is useful when trying to understand how something works, while logical thinking is useful when trying to argue a point or make a decision based on evidence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b9371f23-e51b-46d4-a0e9-290d314820c4.webp"
+        },
+        "Coherent": {
+            "wordRoot": "Coherent",
+            "wordDefinition": "Coherent refers to something that is clear, understandable, and consistent. It is applicable when describing writing, speech, or ideas.\n\nFor example, a coherent essay is one in which the ideas flow smoothly and are easy to understand.\n\nCoherent describes something that is easy to understand, while logical describes something that makes sense based on reasoning and principles.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d2592dcc-dcf1-41bd-a06a-3a3eaaee396b.webp"
+        },
+        "Consistent": {
+            "wordRoot": "Consistent",
+            "wordDefinition": "Consistent means that something always happens in the same way, and there are no contradictions or conflicts between different parts of it.\n\nFor example, if someone is always on time for meetings, they are consistent in their punctuality.\n\nBoth words are applicable in different situations. Consistent is used when talking about things that happen regularly or patterns that are always the same.\n\nTo give an example, a restaurant that serves the same quality of food every time is consistent. An argument that says \"all cats have fur, my dog has fur, therefore my dog is a cat\" is not logical, because it does not follow a clear pattern of reasoning.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8c06a5c1-8c28-49ba-9aef-e08ae03ea3a7.webp"
+        },
+        "Objective": {
+            "wordRoot": "Objective",
+            "wordDefinition": "Objective refers to something that is unbiased and based on facts rather than personal opinions or feelings.\n\nIt is applicable in situations where you need to look at things objectively or without any personal biases. For example, in a scientific experiment, you would need to be objective and not let your personal opinions or feelings affect the results.\n\nTo summarize, logical refers to reasoning skills, while objective refers to unbiased facts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78825159-4234-453b-a9f4-31dbd1aebe44.webp"
+        },
+        "Rational": {
+            "wordRoot": "Rational",
+            "wordDefinition": "The words logical and rational both refer to ways of thinking and making decisions.\n\nRational, on the other hand, refers to something that is based on reason or good judgment. If someone makes a rational decision, they have thought about the options and chosen the best one based on available information.\n\nRational thinking is often used in decision-making and everyday life.\n\nBoth logical and rational thinking can be useful in different situations. Logical thinking is often used in fields like math and science, where following a clear set of rules and principles is essential.\n\nRational thinking is often used in situations where there are multiple options or choices and a decision needs to be made based on careful consideration.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b5c7802d-8cf5-41ac-bfe8-94e1e731857c.webp"
+        },
+        "Reasonable": {
+            "wordRoot": "Reasonable",
+            "wordDefinition": "Reasonable, on the other hand, means that something is understandable or acceptable based on good judgment or common sense.\n\nFor example, if you say, \"I cannot buy a new car because I haven't saved enough money yet,\" that is a reasonable statement because it acknowledges the financial realities of your situation.\n\nSo, in short, logical is about following a formal system of reasoning, while reasonable is about making a judgment based on common sense and context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/377ea4cb-8c95-457e-8aff-2be34466081f.webp"
+        },
+        "Sound": {
+            "wordRoot": "Sound",
+            "wordDefinition": "Sound refers to something that is based on truth, fact or reliable evidence, and is therefore likely to be correct.\n\nSo, while something can be logical but not sound, something that is sound is always logical. Logical applies more to the approach to arguments while sound applies more to the arguments themselves.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4199ecd9-291c-48c5-9da4-f14a57e5406a.webp"
+        },
+        "Valid": {
+            "wordRoot": "Valid",
+            "wordDefinition": "Valid refers to the soundness of an argument, which means that the conclusion is true based on the premises presented.\n\nIn other words, logical means that an argument is well constructed and makes sense, while valid refers to the truthfulness of the conclusion based on the premises presented.\n\nBoth words are applicable in critical thinking and the evaluation of arguments. Logical would be used to check if the argument follows a rational pattern, and validity would be used to check if the conclusion is true based on the premises presented.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/64bb8990-2d6f-4e8e-ab8a-fde4473b80b0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " the difference may not be apparent to a casual observer. But recent advances in brain imaging technology have given neurolinguists a glimpse into how specific aspects of language learning affect the bilingual brain. It's well known that the brain's left hemisphere is more dominant and analytical in logical processes,",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=110"
+        },
+        {
+            "Text": " It may look like a lot of information, but there's a clear logical path to the solution. Solving the puzzle will be a lot like Sudoku, so you may find it helpful to organize your information in a grid, like this. Pause the video on the following screen to examine your clues and solve the riddle.",
+            "Title": "Can you solve...",
+            "VideoId": "1rDVz_Fb6HQ",
+            "Controls": "start=76"
+        },
+        {
+            "Text": " it's true that it's a beautiful structure, a logical one, probably one of the greatest collective efforts ever achieved in human history. But it's also true that there, where scientists and technicians are looking for mathematical theories that allow them to advance,",
+            "Title": "Eduardo Sáenz de...",
+            "VideoId": "pGlZi2SwETc",
+            "Controls": "start=189"
+        },
+        {
+            "Text": " so they can't collaborate in advance. And being blood-thirsty pirates, if anyone thinks they'll end up with the same amount of gold either way, they'll vote to make the captain walk the plank just for fun. Finally, each pirate is excellent at logical deduction",
+            "Title": "Can you solve the pirate...",
+            "VideoId": "Mc6VA7Q1vXQ",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " Historians have not been previously able to figure out what he could and couldn't see. I think it helps explain his decision. Why? Because from his point of view, the federals were very weak. He was attacking at the logical place, but without full knowledge,",
+            "Title": "A digital reimagining of...",
+            "VideoId": "f4pkzHP3qyA",
+            "Controls": "start=456"
+        },
+        {
+            "Text": " practical wisdom, the ability to navigate complex situations in a logical, informed, and calm manner; temperance, the exercise of self-restraint and moderation in all aspects of life; justice, treating others with fairness even when they have done wrong;",
+            "Title": "The philosophy of...",
+            "VideoId": "R9OCA6UFE-0",
+            "Controls": "start=118"
+        },
+        {
+            "Text": " know i was in a really dark spot a space and not necessarily logical and her plan was to perform the operation on herself and we lived just across the street from a hospital and she said she said i knew you could get me to the hospital before i died",
+            "Title": "Growing Up Transgender...",
+            "VideoId": "Z8FZewEPAAk",
+            "Controls": "start=511"
+        },
+        {
+            "Text": " that we logically and emotionally decode as complex narratives that move us to fight, cry, sing, and think, that are strong enough not only to hold up a world that is completely invented by the author, but also to change the reader's perspective",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=137"
+        },
+        {
+            "Text": " that individuals have dominant sides of the brain, or to support the idea of a left-right split between logic and creativity. Some people may be particularly logical or creative, but that has nothing to do with the sides of their brains.",
+            "Title": "The left brain vs. right...",
+            "VideoId": "ZMSbDwpIyF4",
+            "Controls": "start=189"
+        },
+        {
+            "Text": " multitasking world I think creativity logical thinking problem-solving and good decision-making are essential skills but until my new dream becomes",
+            "Title": "Giving checkmate is...",
+            "VideoId": "z-ttu7dyBCU",
+            "Controls": "start=645"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pierre-teilhard-de-chardin.webp",
+            "Text": "We must accept what science tells us, that man was born from the earth. But, more logical than the scientists who lecture us, we must carry this lesson to its conclusion: that is to say, accept that man was born entirely from the world - not only his flesh and bones but his incredible power of thought.",
+            "Title": "French Philosopher",
+            "Name": "Pierre Teilhard de Chardin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eoin-morgan.webp",
+            "Text": "When I first started playing international cricket, people around me started telling me what was being said. And you're never as good as anybody says you are. I try to stay quite logical about things.",
+            "Title": "Irish Athlete",
+            "Name": "Eoin Morgan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/beyonce-knowles.webp",
+            "Text": "I feel like you get more bees with honey. But that doesn't mean I don't get frustrated in my life. My way of dealing with frustration is to shut down and to think and speak logically.",
+            "Title": "American Musician",
+            "Name": "Beyonce Knowles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hanya-yanagihara.webp",
+            "Text": "When you write a novel, you never have to be in the service of the reader. My only concern with my books is that the world that's created be as logical and whole as possible.",
+            "Title": "American Novelist",
+            "Name": "Hanya Yanagihara"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fernando-botero.webp",
+            "Text": "The circus allows one to be logical and unreal at the same time. In the circus, all is possible: there can be a man with two heads or a character with a green face.",
+            "Title": "Colombian Artist",
+            "Name": "Fernando Botero"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/roman-polanski.webp",
+            "Text": "If you have a great passion it seems that the logical thing is to see the fruit of it, and the fruit are children.",
+            "Title": "Director",
+            "Name": "Roman Polanski"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-j-anderson.webp",
+            "Text": "I like solving problems, and science provides a logical way of solving real-life problems.",
+            "Title": "American Scientist",
+            "Name": "David J. Anderson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jarvis-cocker.webp",
+            "Text": "My route so far through life hasn't been particularly logical, or even thought out.",
+            "Title": "English Musician",
+            "Name": "Jarvis Cocker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/julio-cesar-chavez-sr.webp",
+            "Text": "Logically money is important in a boxer's career. That is why one fights.",
+            "Title": "Mexican Boxer",
+            "Name": "Julio Cesar Chavez Sr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-hamilton.webp",
+            "Text": "The truth of it is that women are far more logical than men.",
+            "Title": "American Actor",
+            "Name": "George Hamilton"
+        }
+    ]
+}

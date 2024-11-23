@@ -1,0 +1,339 @@
+{
+    "currentWord": {
+        "wordRoot": "apply",
+        "id": 5210,
+        "phonemic": "əˈplaɪ|əˈplaɪ\r",
+        "bigId": "7d89d642-5707-4188-bcb4-019cb6e05ca0",
+        "wordForms": [
+            "applies",
+            "applying",
+            "applied",
+            "apply"
+        ]
+    },
+    "senses": [
+        {
+            "id": "7d89d642-5707-4188-bcb4-019cb6e05ca0",
+            "de": "To use or do something for a particular purpose",
+            "ty": "verb",
+            "ex": "You need to apply more effort to achieve this task.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "apply pressure",
+                " apply knowledge",
+                " apply effort"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7d89d642-5707-4188-bcb4-019cb6e05ca0.webp",
+            "Tips": [
+                {
+                    "title": "Action Required",
+                    "description": "When using 'apply', it usually means taking action to achieve something.",
+                    "example": "To improve, you must apply the feedback from your teacher.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fC7sEmEqZ8pf0GVUnkAqDxvRI1g.webp"
+                },
+                {
+                    "title": "Active Context",
+                    "description": "Use 'apply' when something actively connects to a task or goal.",
+                    "example": "Apply your learning to solve real-world problems.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gMUFe4Opn7jHgohKAIpdPPjikw.webp"
+                }
+            ]
+        },
+        {
+            "id": "7fe30aef-e4fb-4cdf-b668-58fc5f05ded3",
+            "de": "To make a formal request or apply for something, like a job or admission to an institution",
+            "ty": "verb",
+            "ex": "She decided to apply for the job she saw online.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "apply for a job",
+                " apply for a loan",
+                " apply for admission"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7fe30aef-e4fb-4cdf-b668-58fc5f05ded3.webp",
+            "Tips": [
+                {
+                    "title": "Formal Requests",
+                    "description": "'Apply for' signals a formal process and is often bureaucratic.",
+                    "example": "I need to apply for a new passport before my trip.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Initiative",
+                    "description": "'Apply for' implies personal initiative to obtain something.",
+                    "example": "He will apply for scholarships for his college education.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "537a6843-5b4d-4360-ad4e-23ef246b1577",
+            "de": "To put or spread something onto something else",
+            "ty": "verb",
+            "ex": "Please apply the ointment to the affected area twice a day.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "apply makeup",
+                " apply ointment",
+                " apply lotion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/537a6843-5b4d-4360-ad4e-23ef246b1577.webp",
+            "Tips": [
+                {
+                    "title": "Direct Action",
+                    "description": "'Apply' often involves a direct physical action of placing one thing on another.",
+                    "example": "Apply glue evenly over the surface before sticking the paper.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Medical Treatments",
+                    "description": "In medical context, 'apply' suggests following treatment instructions.",
+                    "example": "Apply the bandage firmly but not too tightly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ec416900-337a-459f-9bd4-b7dc93ad07d4",
+            "de": "To be relevant or applicable to a particular situation or person",
+            "ty": "verb",
+            "ex": "These rules apply to everyone, without exception.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "apply to someone",
+                " apply to a situation",
+                " rules apply"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ec416900-337a-459f-9bd4-b7dc93ad07d4.webp",
+            "Tips": [
+                {
+                    "title": "Universal Rules",
+                    "description": "Used to state that a rule or condition affects everyone or everything in that situation.",
+                    "example": "This discount doesn't apply to items on sale.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Relevance",
+                    "description": "When 'apply' is used, it means something is relevant or pertains.",
+                    "example": "Does this law apply to online businesses too?",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "774e055a-5a07-40bc-a486-cb89975ed699",
+            "de": "To use a rule, law, or piece of knowledge",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The judge must apply the law fairly.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "apply the law",
+                " apply a rule",
+                " apply a principle"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/774e055a-5a07-40bc-a486-cb89975ed699.webp",
+            "Tips": [
+                {
+                    "title": "Legal Context",
+                    "description": "In legal terms, 'apply' means to carry out or use laws/rules.",
+                    "example": "Police officers must apply the laws impartially.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Academic Usage",
+                    "description": "In academia, 'apply' indicates utilizing theories or knowledge practically.",
+                    "example": "Apply the mathematical formulas to solve this equation.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Administer": {
+            "wordRoot": "Administer",
+            "wordDefinition": "Administer means to give or manage something, especially something official, like a medicine or a test. For example: the doctor administered a vaccine to the patient.\n\nAdminister is typically used in situations where someone is giving something to another person or managing something, while apply is used when someone is using something in a specific way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/285b86f3-4e96-40b5-8cc8-809789e2fb58.webp"
+        },
+        "Carry out": {
+            "wordRoot": "Carry out",
+            "wordDefinition": "Carry out means to complete or perform a task or action.\n\nIt is used when you are doing something that you have planned or been instructed to do. For example, carrying out an experiment means you are executing the steps necessary to complete that experiment.\n\nApply is used when you are putting something into action or use, whereas carry out is used when you are completing or performing a task or action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/250c132e-d55b-488e-aac8-193420b01456.webp"
+        },
+        "Employ": {
+            "wordRoot": "Employ",
+            "wordDefinition": "Employ means to hire someone for a job or a position. For example, \"The company employs over 500 people.\"\n\nTo apply means to ask for a job, and to employ means to give someone a job. Apply is used when you are talking about the person who wants the job, and employ is used when you are talking about the company or person doing the hiring.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eb0baa3c-93ef-4ada-ac90-abce85747e48.webp"
+        },
+        "Execute": {
+            "wordRoot": "Execute",
+            "wordDefinition": "Execute means to carry out or complete a task or instruction with precision and accuracy. For example, if you execute a plan, you are following it carefully to make sure everything is done correctly.\n\nYou might also execute a command on a computer to make it perform a specific task.\n\nApply is used more for initiating something, while execute is used more for completing it accurately.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/265a1337-6185-41c1-8bc6-0864f5f1cbf2.webp"
+        },
+        "Implement": {
+            "wordRoot": "Implement",
+            "wordDefinition": "Implement means to put a plan into action or to carry out something that has been decided upon. For example, when a company implements a new policy, they put that policy into action and make sure everyone follows it.\n\nApply is used when you are using something for a specific purpose, while implement is used when you are putting a plan or decision into action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/daf74ca6-580d-4b09-a07c-d6e436e8949f.webp"
+        },
+        "Practice": {
+            "wordRoot": "Practice",
+            "wordDefinition": "Practice means to repeatedly do something to improve your skills. For example, if you want to learn a musical instrument, you need to practice regularly to improve your skills.\n\nIn essence, apply is used when you use a skill or knowledge that you have already acquired, while practice is used to develop and improve that skill or knowledge.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8eadba3-4e7e-43ec-9056-d6eba5224153.webp"
+        },
+        "Use": {
+            "wordRoot": "Use",
+            "wordDefinition": "Apply usually means to use something for a particular purpose or to make a request for something. For example, you would apply for a job, apply makeup to your face, or apply fertilizer to plants.\n\nUse refers to employing something to achieve a particular goal or function. For example, you would use a hammer to drive a nail or use a pen to write.\n\nWhile both words can mean to utilize something, apply is more specific and often implies a more intentional or purposeful use, whereas use is a more general term that can encompass any kind of employment of an object or tool.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f41be5d3-b463-486f-a099-0ce5f6ebab8a.webp"
+        },
+        "Utilize": {
+            "wordRoot": "Utilize",
+            "wordDefinition": "Utilize means to use something for a specific purpose, often in a more intentional or strategic way. You use this word in situations where you want to emphasize the importance or effectiveness of your use of something.\n\nFor example, you might utilize a new technology to improve your business operations. You might utilize your time by prioritizing your tasks and working efficiently.\n\nYou might utilize a particular skill or talent to achieve your goals.\n\nHowever, apply is more general and can be used in a wide range of situations, while utilize suggests a more intentional and strategic use of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e4bc24f5-89a9-4a75-8fc7-8e78db7d52d7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " their anti-drying technique, to survive other stresses. If we can understand how they, and other creatures, stabilize their sensitive biological molecules, perhaps we could apply this knowledge to help us stabilize vaccines, or to develop stress-tolerant crops that can cope with Earth's changing climate.",
+            "Title": "Meet the tardigrade, the...",
+            "VideoId": "IxndOd3kmSs",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " The statement is short and direct, calling the child by name and addressing his role in her life. So how can you apply these lie-spotting techniques to your life? First, remember that many of the lies we encounter on a daily basis are far less serious that these examples, and may even be harmless.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=291"
+        },
+        {
+            "Text": " is, can power posing for a few minutes really change your life in meaningful ways? This is in the lab, it's this little task, it's just a couple of minutes. Where can you actually apply this? Which we cared about, of course. And so we think where you want to use this is evaluative situations,",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=761"
+        },
+        {
+            "Text": " especially the visual, auditory, and motor cortices. As with any other workout, disciplined, structured practice in playing music strengthens those brain functions, allowing us to apply that strength to other activities. The most obvious difference between listening to music and playing it",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " which govern those things we can see do not apply to those we cannot. I will not turn off my brain simply because you've decided the matter is settled. Well, then, if you don't start using your brain to observe what's right in front of you, you're going to get yourself killed.",
+            "Title": "The Uncertainty...",
+            "VideoId": "9mXJK86GCsI",
+            "Controls": "start=107"
+        },
+        {
+            "Text": " you may ask an expert for their advice, or seek other people's testimonies. Information gathering helps you weigh different options, moving you closer to a decision that meets your goal. apply the information, something you do by asking critical questions.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " which transfers nutrients from mother to fetus. The test starts when urine is applied to the exposed end of the strip. As the fluid travels up the absorbent fibers, it will cross three separate zones, each with an important task.",
+            "Title": "How do pregnancy tests...",
+            "VideoId": "aOfWTscU8YM",
+            "Controls": "start=77"
+        },
+        {
+            "Text": " treating bottle some simple legs and printed them with Rick's help combining that with what I picked up at the workshop I made a set of legs that failed miserably once physics was applied to them they",
+            "Title": "How I made the ultimate...",
+            "VideoId": "Fsl66HItm_A",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " being applied on a major scale singapore 2 million trees have been planted here in the last 45 years this city is now richer in species than any other in the world",
+            "Title": "Cities That Are Saving...",
+            "VideoId": "pEx6XeBh1yE",
+            "Controls": "start=39"
+        },
+        {
+            "Text": " This is the human test, a test to see if you are a human. Please raise your hand if something applies to you.",
+            "Title": "Ze Frank: Are you human?",
+            "VideoId": "ccIt-qRQBoI",
+            "Controls": "start=10"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chuck-palahniuk.webp",
+            "Text": "I think, in a way, I invented the term 'fight club' and that these things have always existed, but they never really had a label. Nobody had a language to apply to them. I created that language in two words and I've been paid a great deal of money for inventing two words and labeling something that has always been around.",
+            "Title": "American Novelist",
+            "Name": "Chuck Palahniuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chad-le-clos.webp",
+            "Text": "My dad always taught me never to give up in my mind. You can never really beat me. It sounds ridiculous, but I will always come back for you. You can't beat someone who never gives up. I could lose 100 times to you, but I will always get you. I will die trying. This applies not only to swimming but to my life as well.",
+            "Title": "South African Athlete",
+            "Name": "Chad le Clos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-wan.webp",
+            "Text": "It all comes down to what is best for those particular genres, and if you believe in the stories that you're telling and the characters that you like that you want to tell those stories with, you can pretty much apply it to any genre.",
+            "Title": "Australian Producer",
+            "Name": "James Wan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-hyman.webp",
+            "Text": "I think sales is the most important skill set young people can learn. Understanding how to pitch an idea with confidence and secure a client are valuable skills that apply to every single aspect of business.",
+            "Title": "American Businesswoman",
+            "Name": "Jennifer Hyman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zig-ziglar.webp",
+            "Text": "Just saying you are better than good won't make it so. But, when you understand what it takes to live the better than good life, and you apply yourself, your life will truly be better than good.",
+            "Title": "American Author",
+            "Name": "Zig Ziglar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emily-watson.webp",
+            "Text": "When the time came to make a decision about what do in life, I found myself thinking that acting was the thing I loved to do, so I applied to drama school. And then, I didn't get in - twice.",
+            "Title": "English Actress",
+            "Name": "Emily Watson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yingluck-shinawatra.webp",
+            "Text": "I will do everything by apply with all the legal and apply with the rule of law. And the main important thing that I have to be fairness to everyone, not just only one person.",
+            "Title": "Politician",
+            "Name": "Yingluck Shinawatra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erika-christensen.webp",
+            "Text": "There's no one who has more authority over my life than me. And I can learn things myself and how to communicate to other people and how to apply with the rules of life.",
+            "Title": "American Actress",
+            "Name": "Erika Christensen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/greta-garbo.webp",
+            "Text": "Being a movie star, and this applies to all of them, means being looked at from every possible direction. You are never left at peace, you're just fair game.",
+            "Title": "Swedish Actress",
+            "Name": "Greta Garbo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-root.webp",
+            "Text": "Every experience you have in life can be applied to different things.",
+            "Title": "American Musician",
+            "Name": "Jim Root"
+        }
+    ]
+}

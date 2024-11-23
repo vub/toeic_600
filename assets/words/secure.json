@@ -1,0 +1,351 @@
+{
+    "currentWord": {
+        "wordRoot": "secure",
+        "id": 2609,
+        "phonemic": "sɪˈkjʊə(r)|sɪˈkjʊr\r",
+        "bigId": "c1259d83-337a-4e1f-b482-4677117eb2ed",
+        "wordForms": [
+            "secures",
+            "securing",
+            "secured",
+            "securely",
+            "insecure",
+            "secure"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c1259d83-337a-4e1f-b482-4677117eb2ed",
+            "de": "To make something safe from danger, harm or loss",
+            "ty": "verb",
+            "ex": "We need to secure the area before the VIP arrives",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "secure the area",
+                " secure the premises",
+                " secure the objective"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c1259d83-337a-4e1f-b482-4677117eb2ed.webp",
+            "Tips": [
+                {
+                    "title": "Safety First",
+                    "description": "Used when emphasizing the need for preventing danger or protecting something/someone.",
+                    "example": "Secure the laboratory to prevent contamination.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/KPxHIAZlGSlWSQAhpmnUjHiWlY.webp"
+                },
+                {
+                    "title": "Action Required",
+                    "description": "Implies that active steps must be taken to ensure safety.",
+                    "example": "We must secure the database against hackers.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SIqX8LsuNdmkANMJYs9IWr5KhoA.webp"
+                }
+            ]
+        },
+        {
+            "id": "1c8178fd-ed73-4a5a-9dd4-ddb96462ec73",
+            "de": "Feeling safe and confident about the future",
+            "ty": "adjective",
+            "ex": "He feels secure in his job",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "feel secure",
+                " look secure",
+                " be secure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1c8178fd-ed73-4a5a-9dd4-ddb96462ec73.webp",
+            "Tips": [
+                {
+                    "title": "Internal Feelings",
+                    "description": "Describes a personal sense of safety, not just physical protection.",
+                    "example": "With the new policy, employees feel more secure.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Future Assurance",
+                    "description": "Conveys confidence about something unlikely to change or fail in the future.",
+                    "example": "She has a secure plan for her education.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "171e2bd4-7958-4bae-9a3c-787f036345c0",
+            "de": "To get or achieve something that is valuable or important",
+            "ty": "verb",
+            "ex": "She managed to secure a seat in the front row",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "secure a seat",
+                " secure a position",
+                " secure a deal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/171e2bd4-7958-4bae-9a3c-787f036345c0.webp",
+            "Tips": [
+                {
+                    "title": "Successful Acquisition",
+                    "description": "Refers to obtaining something of value after effort or competition.",
+                    "example": "After negotiations, we secured a beneficial contract.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Strategic Achievement",
+                    "description": "Often used in contexts where strategic goals are met.",
+                    "example": "The team secured a victory in the final minutes.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ba256c72-70c1-4803-93c1-01f79e53f040",
+            "de": "Protected against attacks or other criminal activity",
+            "do": "Computing",
+            "ty": "adjective",
+            "ex": "This is a secure network",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "secure network",
+                " secure server",
+                " secure connection"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ba256c72-70c1-4803-93c1-01f79e53f040.webp",
+            "Tips": [
+                {
+                    "title": "Technical Safety",
+                    "description": "Relates to digital protection from unauthorized access or cyber threats.",
+                    "example": "A secure password is essential for online safety.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Up-to-Date",
+                    "description": "In computing, it means keeping systems current to avoid vulnerabilities.",
+                    "example": "Update your software to keep your phone secure.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e96a784c-522f-4007-a94f-2113e873e2d6",
+            "de": "To attach something firmly so it cannot move or be lost",
+            "ty": "verb",
+            "ex": "Secure the boat to the dock",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "secure a boat",
+                " secure a load",
+                " secure a lid"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e96a784c-522f-4007-a94f-2113e873e2d6.webp",
+            "Tips": [
+                {
+                    "title": "Solid Attachment",
+                    "description": "Stressing the importance of making sure something is firmly fixed and stable.",
+                    "example": "Secure your helmet properly before riding.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Prevent Loss",
+                    "description": "Ensuring that items will not be lost or come loose.",
+                    "example": "Secure all your belongings before the flight.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Assure": {
+            "wordRoot": "Assure",
+            "wordDefinition": "Both assure and secure involve making something safe or certain, but they are used in different contexts.\n\nAssure means to provide confidence or guarantee that something will happen or is true. For example, if your friend is worried about passing a test, you might assure them that they will do well based on their hard work and preparation.\n\nOr a company might assure its customers that their personal information will be kept private.\n\nAssure is about providing confidence or reassurance that something will happen or is true, while secure is about protecting something from harm or unauthorized access.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/461709f9-35d6-4ba6-a02c-d052ec69b88e.webp"
+        },
+        "Certain": {
+            "wordRoot": "Certain",
+            "wordDefinition": "Certain refers to being sure or having no doubt about something. For example, \"I am certain that I left my keys on the table.\".\n\nCertain describes a level of confidence or belief, while secure describes a level of safety or protection.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fdbc68d0-9f10-4fe8-a072-b9ca42c61ac4.webp"
+        },
+        "Confident": {
+            "wordRoot": "Confident",
+            "wordDefinition": "Confident means feeling certain about one's abilities or qualities, while secure means feeling safe and protected. Confidence is applicable in situations where one needs to have self-assurance to perform well, such as when taking a test or giving a presentation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ebd5bf59-f6c0-49d0-a420-ba4e861883ed.webp"
+        },
+        "Guarantee": {
+            "wordRoot": "Guarantee",
+            "wordDefinition": "Guarantee means a promise that something will happen or that something is true. For example, if a company guarantees a product, they promise that it will work and if it doesn't, you can get your money back.\n\nBoth words are applicable in different situations. Guarantee is mostly used for promises that something will happen, while secure is used to make something safe or protected.\n\nFor example, getting a warranty on your smartphone guarantees that it will work for a certain period and getting a lock for your bike will secure it from theft.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/209881b5-3f93-4f7c-9c87-79d08c400702.webp"
+        },
+        "Protect": {
+            "wordRoot": "Protect",
+            "wordDefinition": "Protect means to keep something or someone safe from harm or damage.\n\nIt can be used for physical objects like a house or car, as well as for people's safety and well-being. For example, a helmet protects your head from injury while riding a bike.\n\nBoth words are applicable in different situations, but the key difference is that protect is about preventing harm, while secure is about preventing theft or unauthorized access.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/55d2edfc-5b8d-4916-b17e-0bf2cc0245d2.webp"
+        },
+        "Reliable": {
+            "wordRoot": "Reliable",
+            "wordDefinition": "Reliable refers to something that can be trusted or counted on to perform consistently and accurately over time. For example, a reliable car is one that consistently starts up and runs well.\n\nA reliable friend is someone who you can count on to keep their promises and be there for you when you need them.\n\nReliable is about consistency and trustworthiness, while secure is about protection and safety. Both words are important in different contexts: you want a reliable car or computer, but you also want a secure home and online presence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b20b748c-53ec-4fb2-95be-4bdc0b45bf47.webp"
+        },
+        "Safe": {
+            "wordRoot": "Safe",
+            "wordDefinition": "Safe means that something is free from danger or harm. For example, a safe neighborhood is one where you can walk around without fear of being attacked or robbed.\n\nEssentially, safe means free from danger, while secure means protected from harm. Safe is applicable in situations where physical safety is important, such as in a neighborhood, while secure is applicable in situations where protection against theft or unauthorized access is necessary, such as with online accounts or physical buildings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bdf683a1-baa1-4059-8949-a21cf2921b8f.webp"
+        },
+        "Shield": {
+            "wordRoot": "Shield",
+            "wordDefinition": "Shield means to protect something by creating a barrier or a layer between it and potential harm. For example, a knight might use a shield to protect himself from an enemy's sword.\n\nSecure is applicable when you want to ensure that something is safe and protected, while shield is applicable when you want to actively protect something by creating a barrier or a layer of protection.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c10ef286-b5ad-417e-82f4-065c115476bc.webp"
+        },
+        "Stable": {
+            "wordRoot": "Stable",
+            "wordDefinition": "Stable means steady, firm, and unchanging.\n\nIt can describe something that is not likely to change or fluctuate drastically, such as a stable financial market or a stable political situation.\n\nIt can also describe something that is well-balanced and not likely to tip over or collapse, such as a stable table or a stable bridge.\n\nSecure is applicable when something needs to be protected from danger, while stable is applicable when something needs to be steady and firm.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4a05c6c2-cbd9-4ea8-8c77-e8db7d4b73e4.webp"
+        },
+        "Steady": {
+            "wordRoot": "Steady",
+            "wordDefinition": "Steady refers to being consistent and reliable. This term is often used when talking about relationships, work habits, or physical movements.\n\nSecure focuses on safety and protection, while steady focuses on consistency and reliability.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c2d379a6-7656-4d62-853c-346e36a22ff7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " After about three hours of this, the skin begins to turn red, signaling the next stage, inflammation. With bleeding under control and the barrier secured, the body sends special cells to fight any pathogens that may have gotten through. Among the most important of these are white blood cells, known as macrophages,",
+            "Title": "How a wound heals itself...",
+            "VideoId": "TLVwELDMDWs",
+            "Controls": "start=96"
+        },
+        {
+            "Text": " Scientists think that crying and feeling withdrawn is what originally helped our ancestors secure social bonds and helped them get the support they needed. Sadness, as opposed to anger or violence, was an expression of suffering that could immediately bring people closer to the suffering person,",
+            "Title": "A brief history of...",
+            "VideoId": "8li-3pRrA5Y",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " strong character empowerment thing because I think one thing that can be very alienating about a misconception of feminism is that girls then think that to be a feminist, they have to live up to being perfectly consistent in your beliefs, never being insecure, never having doubts,",
+            "Title": "Tavi Gevinson: A teen...",
+            "VideoId": "E22icGCvGXk",
+            "Controls": "start=246"
+        },
+        {
+            "Text": " to securing his historical legacy because he was obsessed with his mortality. He spent his last years desperately employing alchemists and deploying expeditions in search of elixirs of life that would help him achieve immortality. And as early as the first year of his reign,",
+            "Title": "The incredible history...",
+            "VideoId": "mP5p4QbvPtc",
+            "Controls": "start=77"
+        },
+        {
+            "Text": " he asked the bigger animals for help. While the tiger and horse refused, the kind-hearted ox agreed to carry the rat across. Yet, just as they were about to reach the other side, the rat jumped off the ox's head and secured first place. The ox came in second,",
+            "Title": "The myth behind the...",
+            "VideoId": "may2s9j4RLk",
+            "Controls": "start=55"
+        },
+        {
+            "Text": " thank heavens they made our sacred documents amendable so there could be even more remarkable we have to respect and understand the responsibility of our men and women in uniform who protect our country and secure our country and our democracy",
+            "Title": "On sincere and authentic...",
+            "VideoId": "BJ-W6VAnSKY",
+            "Controls": "start=1000"
+        },
+        {
+            "Text": " in our macroscopic world, like in quantum cryptography, so spies can send secure messages to each other, or quantum computing, for cracking secret codes. Everyday physics may start to look a bit more like the strange quantum world.",
+            "Title": "What can Schrödinger's...",
+            "VideoId": "z1GCnycbMeA",
+            "Controls": "start=277"
+        },
+        {
+            "Text": " But this wasn't just a tomb designed to secure the pharaoh's physical body for eternity. Crucially, for success in the afterlife, the pyramid ensured the king was remembered by the living.",
+            "Title": "The Evolution of Ancient...",
+            "VideoId": "TMkoX1kfyDs",
+            "Controls": "start=133"
+        },
+        {
+            "Text": " Home and territory are secure once again. A colony may lose many workers in defence of its home. But their sacrifice helps safeguard the next generation.",
+            "Title": "Ants Battle to Protect...",
+            "VideoId": "SdpGAdB_zpc",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " to help secure the turtle's future he took the message to the next generation now what's what's the largest size a leatherback can grow to shawnee",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "leDm_-nfr2w",
+            "Controls": "start=685"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yoko-ono.webp",
+            "Text": "It is very difficult for us to know we love somebody because it is an insecure position to be in. But in the end, it is important to be honest about your love because life is not that long.",
+            "Title": "American Artist",
+            "Name": "Yoko Ono"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-tecumseh-sherman.webp",
+            "Text": "I know I had no hand in making this war, and I know I will make more sacrifices today than any of you to secure peace.",
+            "Title": "American Soldier",
+            "Name": "William Tecumseh Sherman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/manoj-bhargava.webp",
+            "Text": "The more you consume, the more insecure you are. It's the nature of the world.",
+            "Title": "American Businessman",
+            "Name": "Manoj Bhargava"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alexander-graham-bell.webp",
+            "Text": "The nation that secures control of the air will ultimately control the world.",
+            "Title": "Scottish Inventor",
+            "Name": "Alexander Graham Bell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-f-kennedy.webp",
+            "Text": "It is an unfortunate fact that we can secure peace only by preparing for war.",
+            "Title": "American President",
+            "Name": "John F. Kennedy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aristotle.webp",
+            "Text": "The aim of the wise is not to secure pleasure, but to avoid pain.",
+            "Title": "Greek Philosopher",
+            "Name": "Aristotle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rosalynn-carter.webp",
+            "Text": "There is nothing more important than a good, safe, secure home.",
+            "Title": "American First Lady",
+            "Name": "Rosalynn Carter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amari-cooper.webp",
+            "Text": "I just have to protect the ball, keep it secure.",
+            "Title": "American Athlete",
+            "Name": "Amari Cooper"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barbie-ferreira.webp",
+            "Text": "As a child, I was so deeply insecure.",
+            "Title": "American Model",
+            "Name": "Barbie Ferreira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vivek-oberoi.webp",
+            "Text": "I'm very secure in my life.",
+            "Title": "Indian Actor",
+            "Name": "Vivek Oberoi"
+        }
+    ]
+}

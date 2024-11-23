@@ -1,0 +1,43 @@
+{
+    "currentWord": {
+        "wordRoot": "be in charge of",
+        "id": 0,
+        "phonemic": "biː ɪn tʃɑːdʒ əv",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "49874563-9567-42f1-9654-4b6543574563",
+            "de": "to be responsible for something or someone",
+            "ty": "verb",
+            "ex": "She is in charge of the marketing department.",
+            "use": "",
+            "sy": "responsible for, in control of, in command of",
+            "op": "",
+            "re": "",
+            "tp": "transitive",
+            "cl": [
+                "be in charge of a project",
+                "be in charge of a team",
+                "be in charge of a department"
+            ],
+            "ImageSrc": "./senses/92c96d3f-6589-4d83-9793-d96f3b350217.webp",
+            "Tips": [
+                {
+                    "title": "Formal Context",
+                    "description": "Use this phrase in formal settings, such as business or academic contexts.",
+                    "example": "The CEO is in charge of the entire company.",
+                    "imageUrl": "./tips/9323838f-efd2-460b-ac5c-ec32e572cb37.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Responsible for": {
+            "wordRoot": "responsible for",
+            "wordDefinition": "Similar to 'be in charge of', but often used in a less formal context.",
+            "wordImage": ""
+        }
+    }
+}

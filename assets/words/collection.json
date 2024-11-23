@@ -1,0 +1,339 @@
+{
+    "currentWord": {
+        "wordRoot": "collection",
+        "id": 20070,
+        "phonemic": "kəˈlekʃn|kəˈlekʃn\r",
+        "bigId": "b7dffe9b-3c07-4208-897e-6b759ff39c4b",
+        "wordForms": [
+            "collections",
+            "collection"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b7dffe9b-3c07-4208-897e-6b759ff39c4b",
+            "de": "A group of objects or things collected together",
+            "ty": "noun",
+            "ex": "She has a large collection of coins.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "art collection",
+                " stamp collection",
+                " collection of books"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b7dffe9b-3c07-4208-897e-6b759ff39c4b.webp",
+            "Tips": [
+                {
+                    "title": "Subject Interest",
+                    "description": "Collection implies a curated set, often reflecting personal interest or expertise in the subject.",
+                    "example": "His collection of vintage postcards is impressive.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/topAIMe2AOFdF8jfLaZCdZGNrs.webp"
+                },
+                {
+                    "title": "Value Perception",
+                    "description": "A collection often grows in value, whether sentimental or monetary, due to its uniqueness or rarity.",
+                    "example": "Her stamp collection might be worth thousands.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zqEtB6sFxQxwR08hw9RrV1qJE.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "116b953f-7a61-4490-9764-500117d2860b",
+            "de": "The action or process of collecting something",
+            "ty": "noun",
+            "ex": "The collection of funds for the charity was a huge success.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "collection of data",
+                " collection of evidence",
+                " collection process"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/116b953f-7a61-4490-9764-500117d2860b.webp",
+            "Tips": [
+                {
+                    "title": "Active Effort",
+                    "description": "Emphasizes an active, ongoing process, such as gathering items or information over time.",
+                    "example": "The museum's ongoing collection of artifacts continues.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Purposeful Gathering",
+                    "description": "The action often has a clear aim or goal, like raising money or bringing together data.",
+                    "example": "The data collection will enhance our research.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "22e05a9d-17db-4eed-9cce-8ccef4fc7c1b",
+            "de": "A clothing designer's set of outfits for a particular season or purpose",
+            "do": "Fashion",
+            "ty": "noun",
+            "ex": "The designer will showcase his new collection at the fashion show.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "spring collection",
+                " fashion collection",
+                " new collection"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/22e05a9d-17db-4eed-9cce-8ccef4fc7c1b.webp",
+            "Tips": [
+                {
+                    "title": "Fashion Specific",
+                    "description": "Used in fashion, it refers to a specifically designed set of clothing for a particular time.",
+                    "example": "The fall collection features cozy knitwear.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Designer's Creativity",
+                    "description": "A collection showcases the designer's creativity and thematic focus for that season.",
+                    "example": "His collection reflects nature-inspired themes.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "780c06f6-9aa9-4725-9bbf-88e25240127b",
+            "de": "The action of bringing or receiving something together in one place",
+            "do": "Logistics",
+            "ty": "noun",
+            "ex": "The delivery company is responsible for the collection of parcels.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "collection point",
+                " collection service",
+                " collection time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/780c06f6-9aa9-4725-9bbf-88e25240127b.webp",
+            "Tips": [
+                {
+                    "title": "Delivery Context",
+                    "description": "In logistics, collection often means the act of picking up items from different locations.",
+                    "example": "Parcel collection will occur daily at 5 PM.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "d1b3a42c-0639-4312-9060-99aa3152bceb",
+            "de": "A book or recording containing various texts, poems, songs, or musical pieces",
+            "ty": "noun",
+            "ex": "The library has a new collection of short stories.",
+            "use": "",
+            "co": "Literary",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "collection of poems",
+                " collection of songs",
+                " collection of stories"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d1b3a42c-0639-4312-9060-99aa3152bceb.webp",
+            "Tips": [
+                {
+                    "title": "Literary Variety",
+                    "description": "In literature or music, collection refers to an assortment of selected works.",
+                    "example": "This collection of essays spans various topics.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Thematic Unity",
+                    "description": "Pieces in a collection often share a theme, style, or authorship.",
+                    "example": "The poetry collection explores love and loss.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Accumulate": {
+            "wordRoot": "Accumulate",
+            "wordDefinition": "Accumulate means to gradually gather or collect something over time, often with the intention of building up a larger quantity or value.\n\nFor example, you may accumulate wealth by saving money over many years.\n\nCollections can be accumulated over time, but they are not necessarily the result of intentional accumulation.\n\nAccumulate is the action of gradually gathering something over time, while collection refers to the purposeful gathering or assembly of a group of items.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ac84393-8701-422d-81d8-b8ff647c5b21.webp"
+        },
+        "Aggregate": {
+            "wordRoot": "Aggregate",
+            "wordDefinition": "Aggregate and collection are both words used to describe a grouping of things, but there is a subtle difference between them.\n\nAggregate refers to a collection of things that are brought together as a whole. These things may be similar or related in some way, but they are combined to make a new entity.\n\nFor example, in economics, the term 'aggregate demand' refers to the total amount of goods and services that consumers and businesses are willing to buy at a certain price level.\n\nThe main difference between aggregate and collection is that aggregate describes a group of things that are combined to make a new entity, while a collection describes a group of individual things that are grouped together based on some common factor or purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e77e627f-5d46-47f1-bf0f-e836f3844af8.webp"
+        },
+        "Array": {
+            "wordRoot": "Array",
+            "wordDefinition": "An array is a type of data structure that stores a fixed-size sequence of elements of the same type.\n\nIn other words, it's like a list of items that are all the same kind of thing. For example, an array of integers might store the numbers 1, 2, and 3.\n\nIt can refer to any type of data structure, not just arrays.\n\nYou would use an array if you need to store a fixed-size sequence of items that are all the same type. For example, if you needed to store the high scores of a video game, you might use an array of integers.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c7762bae-0a75-4561-b67f-e0249928cf08.webp"
+        },
+        "Assortment": {
+            "wordRoot": "Assortment",
+            "wordDefinition": "Assortment and collection are both words that refer to a group of similar things. The difference between them is that an assortment includes items that are different from each other in size, color, or shape, while a collection includes items that are similar to each other in some way.\n\nFor example, if you go to a candy store, you might see an assortment of different types of candy, such as gummies, chocolates, and hard candies.\n\nThese types of candy are different in size, flavor, and texture, but are all considered part of the candy assortment.\n\nBoth assortment and collection can be used in many different contexts, but the main difference is that an assortment is made up of different items, while a collection is made up of similar items.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b86acd3d-669e-4fbb-add9-7dcfb7cfa0e9.webp"
+        },
+        "Compilation": {
+            "wordRoot": "Compilation",
+            "wordDefinition": "A compilation is a collection of information or creative works, often gathered together to present a comprehensive or representative view of a particular topic or genre, such as a compilation of music hits or a compilation of scientific research papers.\n\nCompilations are more often used in the context of creative works or data analysis, where people are seeking to present a holistic view of something, such as how music has evolved over time or what the current state of scientific knowledge is on a specific topic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/04fb02a4-cb4c-4f9d-8efe-749b81ed6ad6.webp"
+        },
+        "Gather": {
+            "wordRoot": "Gather",
+            "wordDefinition": "Gather refers to the act of bringing together things or people that are scattered or dispersed, often without any specific purpose.\n\nIt is generally used when referring to something that is more haphazard or spontaneous, such as gathering a group of friends for a picnic.\n\nCollection implies intention and purpose, while gather implies spontaneity and lack of purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e0ed609-a4a1-4831-88cf-4a316f42e7c9.webp"
+        },
+        "Group": {
+            "wordRoot": "Group",
+            "wordDefinition": "A collection refers to a group of items or objects that have been gathered or accumulated systematically, usually by an individual.\n\nA group refers to a number of people or things that are together in one place or have a common characteristic. This can include groups of friends, animals, or plants.\n\nGroups can be organized for various reasons, such as socializing or achieving a goal.\n\nIn summary, collections refer to a gathering of things while groups refer to a gathering of people or things with a common characteristic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f08b0a2a-1d76-4a9e-a0c2-d082dfd479ac.webp"
+        },
+        "Series": {
+            "wordRoot": "Series",
+            "wordDefinition": "A series refers to a sequence of things that are related to each other and follow each other in a particular order. For example, a series of books in a particular genre, a series of lessons in a course, or a series of movies in a franchise.\n\nA collection is a group of similar things while a series is a sequence of related things. Collections are typically formed based on interest or preference while series are typically created for entertainment or educational purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d50c2717-e2a2-4da9-a5dd-92c52c86ac9e.webp"
+        },
+        "Set": {
+            "wordRoot": "Set",
+            "wordDefinition": "A set is a collection of items that have a specific order or arrangement, and are often related to one another or form a complete group.\n\nFor example, a set of furniture, a set of tools, a set of cards.\n\nCollection is a general term while set is more specific and ordered.\n\nA collection can be used in everyday language while a set is more common in formal or technical language.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/359e6671-e56c-4dfc-a31d-264f4f6cb948.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " amazing splendors that are in this collection couldn't be more exciting there's a lot of images here that have fabulous artistic value fabulous value to collectors which we may not have ever thought of them in that way before and so we would like to take them out now and and show them to the world",
+            "Title": "Art in the Archive at...",
+            "VideoId": "M8AQSA0kgco",
+            "Controls": "start=290"
+        },
+        {
+            "Text": " Most importantly, the network of associations formed by ideasethesia may not only be similar to our linguistic network but may, in fact, be an integral part of it. Rather than the traditional view, where our senses first capture a collection of colors and shapes, or some vibrations in the air,",
+            "Title": "Ideasthesia: How do...",
+            "VideoId": "GIF2tssedLI",
+            "Controls": "start=241"
+        },
+        {
+            "Text": " In some ways, it's a massive one. It's the shift between thinking of yourself as a thing which has all the experiences of life, and thinking of yourself as simply that collection of all experiences in life. You are the sum of your parts. Now those parts are also physical parts, of course,",
+            "Title": "Julian Baggini: Is there...",
+            "VideoId": "Q80MfH7xPPE",
+            "Controls": "start=254"
+        },
+        {
+            "Text": " and every year they make new discoveries and insights into the Earth's past, present and future. Museum collections even help us understand how modern threats, such as global climate change, are impacting our world. For instance, naturalists have been collecting samples",
+            "Title": "The hidden worlds within...",
+            "VideoId": "B-vYGcl_nA8",
+            "Controls": "start=182"
+        },
+        {
+            "Text": " collection houses over a million specimens which have come from all over the world amongst the shells of the climate-controlled collection a handful of disturbing bugs stand out these unfortunate creatures have all been victims of varieties of zombie fungi",
+            "Title": "This Fungus Turns...",
+            "VideoId": "nIyu-1Jw_rg",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " like tangible matter, nor does it exactly transmit across space, like intangible information. It seems to do a little of both. Quantum physics gives us a strange new vision for all the matter in our universe as collections of fragile information.",
+            "Title": "Will we ever be able to...",
+            "VideoId": "JMdO5KyjwAw",
+            "Controls": "start=267"
+        },
+        {
+            "Text": " that was built and to seek and protect justice one of the first things that happens after a rape is a three to seven hour long examination it's called a rape kit for short and it's critical evidence collection it takes this long because",
+            "Title": "Re-writing laws to help...",
+            "VideoId": "rBJBi8oyG18",
+            "Controls": "start=76"
+        },
+        {
+            "Text": " that brings blood and oxygen close enough for diffusion. These oxygen-enriched cells are then carried from the lungs through the cardiovascular network, a massive collection of blood vessels that reaches every cell in the body.",
+            "Title": "Oxygen’s surprisingly...",
+            "VideoId": "GVU_zANtroE",
+            "Controls": "start=223"
+        },
+        {
+            "Text": " but only would could actually be the real thing. So which one is it, and more importantly, what does this have to do with you? Like the Ship of Theseus, you are a collection of constantly changing",
+            "Title": "Who am I? A philosophical...",
+            "VideoId": "UHwVyplU3Pg",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " your ancestor's first words, her last words. And it's the fastest growing library in the world. In the next year, 25 languages will be added to the collection,",
+            "Title": "Let's make history…by...",
+            "VideoId": "mCh6j2E8xLY",
+            "Controls": "start=30"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noel-edmonds.webp",
+            "Text": "HBOS had robbed me of my marriage, my family, my businesses, my longstanding friend and business partner, my income, my investments, my self-respect, my reputation, my privacy, my physical and mental health. It cost me my security, my image rights, my collection of classic cars - and very nearly my life.",
+            "Title": "English Producer",
+            "Name": "Noel Edmonds"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jorge-m-perez.webp",
+            "Text": "Art, like real estate, is half science, half gut. We go to a lot of art fairs. We have two full-time art experts who help me make all the decisions about how to build the corporate and personal collection and what we put in our developments. We don't let interior designers pick art for us.",
+            "Title": "American Businessman",
+            "Name": "Jorge M. Perez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nina-garcia.webp",
+            "Text": "My mother was a very big inspiration. She loved fashion. I loved art in school, and I was very good at drawing. I could sit at the table forever and just dream up collections and draw.",
+            "Title": "Colombian Critic",
+            "Name": "Nina Garcia"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicole-richie.webp",
+            "Text": "I am proud that my collections have received such praise, and I am even more proud to share the stage with so many talented designers.",
+            "Title": "American Actress",
+            "Name": "Nicole Richie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-sherman.webp",
+            "Text": "I have this data bank garbage can in the back of my head that is an emotional collection of events that have occurred in my life.",
+            "Title": "American Director",
+            "Name": "Gary Sherman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-wright.webp",
+            "Text": "I have the world's largest collection of seashells. I keep it on all the beaches of the world... perhaps you've seen it.",
+            "Title": "American Comedian",
+            "Name": "Steven Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kourtney-kardashian.webp",
+            "Text": "My sisters and I are very hands-on with our collections. I am really passionate about kids' clothes.",
+            "Title": "American Celebrity",
+            "Name": "Kourtney Kardashian"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dieter-f-uchtdorf.webp",
+            "Text": "I believe that every life is a collection of individual 'journey stories.",
+            "Title": "German Businessman",
+            "Name": "Dieter F. Uchtdorf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/virgil-abloh.webp",
+            "Text": "Whenever I'm doing a collection, I'm inspired by the world around us.",
+            "Title": "American Designer",
+            "Name": "Virgil Abloh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-paul-gaultier.webp",
+            "Text": "Always my collections are made of different influences.",
+            "Title": "French Designer",
+            "Name": "Jean Paul Gaultier"
+        }
+    ]
+}

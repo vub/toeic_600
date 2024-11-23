@@ -1,0 +1,334 @@
+{
+    "currentWord": {
+        "wordRoot": "session",
+        "id": 20135,
+        "phonemic": "ˈseʃn|ˈseʃn\r",
+        "bigId": "1c7c9ac8-6df7-43fd-ae06-3d6efeb90c1f",
+        "wordForms": [
+            "sessions",
+            "session"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1c7c9ac8-6df7-43fd-ae06-3d6efeb90c1f",
+            "de": "A period of time where a group of people come together for an activity",
+            "ty": "noun",
+            "ex": "We have a training session this afternoon.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "training session",
+                " jam session",
+                " coaching session"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1c7c9ac8-6df7-43fd-ae06-3d6efeb90c1f.webp",
+            "Tips": [
+                {
+                    "title": "Group Activity",
+                    "description": "Used to describe an event focusing on a specific purpose like learning or creating.",
+                    "example": "The writer's session inspired many new ideas.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/umWAuFyqpyi8R8Y0Rjt6QhtgabE.webp"
+                },
+                {
+                    "title": "Scheduled Event",
+                    "description": "Implies a planned time and usually doesn't go beyond the set duration.",
+                    "example": "Our next planning session is scheduled for Tuesday.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/aMgJbMxOpMwrWLVP5F4JgfmR7g.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9cec4294-d457-40f7-81ba-8d3a466a0caf",
+            "de": "A period of time in which an official meeting or a court is held",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The court is in session.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "court session",
+                " session of parliament",
+                " session of congress"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9cec4294-d457-40f7-81ba-8d3a466a0caf.webp",
+            "Tips": [
+                {
+                    "title": "Formal Proceedings",
+                    "description": "Indicates a formal or official meeting, often following a set protocol or procedure.",
+                    "example": "A new bill was discussed in the session of parliament.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Legal Context",
+                    "description": "It's often associated with courts or legislative bodies.",
+                    "example": "The jury will reconvene when the court session resumes.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "57b3bda4-68a6-4084-8c6d-2ef962dbb6d4",
+            "de": "A period of time where someone is using a computer without logging out",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Due to inactivity, your session has timed out.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "user session",
+                " timed-out session",
+                " login session"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/57b3bda4-68a6-4084-8c6d-2ef962dbb6d4.webp",
+            "Tips": [
+                {
+                    "title": "Continuous Engagement",
+                    "description": "Refers to continuous use without interruption, like when working on a computer.",
+                    "example": "She completed the project in a single coding session.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technical Interruption",
+                    "description": "A session can end unexpectedly due to timeouts or technical issues.",
+                    "example": "His gaming session ended abruptly due to a power cut.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "ec4151d3-42bf-4c98-95e0-e3caf40fe76f",
+            "de": "A period of time where a person is involved in drinking alcohol",
+            "ty": "noun",
+            "ex": "They went out for a drinking session.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "op": "",
+            "re": "Informal",
+            "tp": "",
+            "cl": [
+                "drinking session",
+                " beer session",
+                " sesh"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ec4151d3-42bf-4c98-95e0-e3caf40fe76f.webp",
+            "Tips": [
+                {
+                    "title": "Social Drinking",
+                    "description": "Casual term, often for social gatherings focused on consuming alcohol.",
+                    "example": "Their jam session turned into a beer session.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Informal Usage",
+                    "description": "The term can be used informally among friends referring to relaxed hangouts.",
+                    "example": "Let's have a session at my place tonight.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "897a4c91-ff77-47bf-83ab-eeddf8ba90c0",
+            "de": "A short period of time where someone receives a particular type of treatment or therapy",
+            "ty": "noun",
+            "ex": "She had a therapy session yesterday.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "therapy session",
+                " gym session",
+                " counselling session"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/897a4c91-ff77-47bf-83ab-eeddf8ba90c0.webp",
+            "Tips": [
+                {
+                    "title": "Therapeutic Setting",
+                    "description": "Often associated with health or well-being, like counseling or physical therapy.",
+                    "example": "His first physiotherapy session helped relieve the pain.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Development",
+                    "description": "Can refer to a time spent on self-improvement activities.",
+                    "example": "Her meditation sessions are key to her daily routine.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Assembly": {
+            "wordRoot": "Assembly",
+            "wordDefinition": "An assembly is a group of people who come together for a particular purpose, such as to make decisions or to discuss issues.\n\nIt usually refers to a formal meeting, often of an organization or institution. For example, a company's board of directors might hold an assembly to discuss the future direction of the company.\n\nSo, in simple terms, an assembly is a specific meeting or gathering of people, while a session is a period of time during which a group of people work on a particular task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5ddb532e-98e0-4dde-88bc-f8ecc0d3267c.webp"
+        },
+        "Conference": {
+            "wordRoot": "Conference",
+            "wordDefinition": "A conference refers to a large gathering of people who come together to discuss and learn about a particular topic. It usually lasts for a few days and consists of multiple sessions, workshops, and presentations.\n\nIt is a part of a larger conference or event.\n\nA conference is usually a bigger event with multiple sessions, while a session is just a small part of a conference or event that is focused on a particular topic or speaker.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/005bc259-5dbe-40e0-99d4-d92f62178a0c.webp"
+        },
+        "Consultation": {
+            "wordRoot": "Consultation",
+            "wordDefinition": "Consultation usually refers to a meeting or discussion between two or more people, where one person seeks advice or opinion from the other person regarding a specific matter.\n\nThis term often implies a more formal and professional setting, such as a consultation with a doctor or lawyer.\n\nA consultation is a discussion or meeting focused on seeking advice or opinion, often in a professional setting, while a session is a designated time period for a specific activity, often in a more casual setting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/72fe591a-c402-44cc-b7c1-33c25c0b1df2.webp"
+        },
+        "Gather": {
+            "wordRoot": "Gather",
+            "wordDefinition": "Gather means to come together or collect; it usually refers to people or things being brought together in one place or a group.\n\nFor example, you can use the word gather to describe a family gathering for a holiday dinner.\n\nA session can be a one-time event or a series of planned gatherings. For example, you could attend a session of a yoga class or a guitar lesson.\n\nGather refers to the act of coming together or collecting, while session refers to a specific period of time in which an activity takes place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e0ed609-a4a1-4831-88cf-4a316f42e7c9.webp"
+        },
+        "Meet": {
+            "wordRoot": "Meet",
+            "wordDefinition": "Meet generally refers to a gathering or coming together of people for a specific purpose, such as to discuss something or for social interaction.\n\nIt can be used in various contexts, such as business meetings, sports meets, or social events.\n\nMeet is used to refer to a gathering of people or a social gathering, while session is used to refer to a specific event or activity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b866f5e5-51a2-4bb6-9b0e-fd8aabb6cef4.webp"
+        },
+        "Seminar": {
+            "wordRoot": "Seminar",
+            "wordDefinition": "A seminar is a meeting where a group of people with similar interests gather to have discussions, lectures, and presentations on a particular topic or subject.\n\nFor example, a seminar on entrepreneurship would involve experts in the field sharing their experiences and knowledge with aspiring entrepreneurs.\n\nA seminar is a specific type of gathering with a structured purpose, while a session can refer to any gathering that has a specific time frame.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8d0f9369-98be-408e-8e23-f0bae2e802ab.webp"
+        },
+        "Sit": {
+            "wordRoot": "Sit",
+            "wordDefinition": "Sit generally means to rest on a chair or other surface, without implying any specific duration or purpose.\n\nIt can be used in any context, from sitting down to eat to sitting in a waiting room.\n\nSession implies a formal or organized gathering, while sit simply means to rest on a surface.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bddb35ec-7aca-4a96-8c22-2dcba9fec117.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And I'm afraid if I had not made that realization, my frustration would have turned into something much harder to recover from. Now, luckily, a few weeks later, I was transferred to a specialty spinal cord rehab hospital about 10 hours from home, and wouldn't you know, the first day of rehab and the first session we had something called fit class,",
+            "Title": "To overcome challenges,...",
+            "VideoId": "IOrmS8vJDQw",
+            "Controls": "start=187"
+        },
+        {
+            "Text": " to come together for a series of sessions over a period of time, to meet up. And part of the point of the group was to get people to think about a moment in their life they had actually found meaning and purpose. For different people, it was different things. For some people, it was playing music, writing, helping someone --",
+            "Title": "This could be why you're...",
+            "VideoId": "MB5IX-np5fE",
+            "Controls": "start=1018"
+        },
+        {
+            "Text": " conditioning they have to be a tough individual because that is the type of club we are again we're not just a political organization so that's very important and also you know sacrifice they have to show that they're willing to sacrifice for the club the men attend regular training sessions and wait a",
+            "Title": "Camp Skinhead? PIPE...",
+            "VideoId": "7pxhx4d-w0k",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " previous session and that is the fact that space itself is expanding so if we imagine a section of our infinite universe ok and so I've put down four spiral galaxies ok and imagine that you put down a set of tape measures okay so every line on here corresponds to a tape",
+            "Title": "Shedding light on dark...",
+            "VideoId": "bZW_B9CC-gI",
+            "Controls": "start=574"
+        },
+        {
+            "Text": " in a few decades. In other words, since the theme of this session is choices, we have a choice. Does that mean that we should get pessimistic and overwhelmed? I draw the reverse conclusion. The big problems facing the world today are not at all",
+            "Title": "Why societies collapse PIPE...",
+            "VideoId": "IESYMFtLIis",
+            "Controls": "start=1032"
+        },
+        {
+            "Text": " Because it was cheaper, she lived with a boyfriend who displayed his temper more than his ambition. And as hard as her 20s were, her early life had been even harder. She often cried in our sessions, but then would collect herself by saying,",
+            "Title": "Why 30 is not the new 20...",
+            "VideoId": "vhhgI4tSMwc",
+            "Controls": "start=515"
+        },
+        {
+            "Text": " singers everybody from the business community and they arts and this to that and I thought how can I ever repay this hospitality and so I said Madam President when I speak I would like to invite you to speak at a joint session",
+            "Title": "We need women in...",
+            "VideoId": "g-JNuDDZV9Y",
+            "Controls": "start=863"
+        },
+        {
+            "Text": " without distorting its importance. I mean, this is a real cognitive trap. There's just no way of getting it right. Now, I'd like to start with an example of somebody who had a question-and-answer session",
+            "Title": "The riddle of experience...",
+            "VideoId": "XgRlrBl-7Yg",
+            "Controls": "start=111"
+        },
+        {
+            "Text": " and she could help move forward past her trauma. I asked her to promise not to commit suicide if we were to work together. She agreed and made that promise. During her therapeutic sessions,",
+            "Title": "The future of...",
+            "VideoId": "Q9XD8yRPxc8",
+            "Controls": "start=370"
+        },
+        {
+            "Text": " If undisturbed wildebeest can drink eight litres in a single session.",
+            "Title": "Underwater Ambush from...",
+            "VideoId": "XNTMfax5Q5w",
+            "Controls": "start=3"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/philippe-coutinho.webp",
+            "Text": "My focus in the training sessions is always about movement to create openings and opportunities. When you don't have the ball, you still need the discipline to know where you should be, who you should be marking, but when we have the ball, it is important to be able to move around.",
+            "Title": "Brazilian Athlete",
+            "Name": "Philippe Coutinho"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-whittaker.webp",
+            "Text": "I'm very objective driven, so for me it's very important to know who I'm fighting, when I'm fighting, and roughly the direction I'm working in. It gives me that little extra push to do what I need to do to get the sessions, to work towards something.",
+            "Title": "Australian Athlete",
+            "Name": "Robert Whittaker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gabriella-wilson.webp",
+            "Text": "As a black woman, I've always had to work hard to earn my respect as a musician - and as a young woman, too. As a writer, in certain sessions or certain rooms people think, 'Who's kid is this? Who's this little girl?' I've had to prove myself.",
+            "Title": "American Musician",
+            "Name": "Gabriella Wilson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johan-cruyff.webp",
+            "Text": "When I don't have control of the ball, what do I do? I press to get it back. It's a way of defending. But more important is that I like to have the ball. That's why I believe in individual coaching sessions to prepare players properly.",
+            "Title": "Dutch Athlete",
+            "Name": "Johan Cruyff"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/antonio-conte.webp",
+            "Text": "I like to follow the training session with my voice. To call at them and explain my reasons and my ideas of football. It's important to make them understand: when to move, to time it right, not wrong - the right movement.",
+            "Title": "Italian Coach",
+            "Name": "Antonio Conte"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/olivier-martinez.webp",
+            "Text": "But when you work with the director and the real person who is playing opposite you, it changes everything. You are almost in a working session. I was very comfortable, and that's maybe what helped me to get the part.",
+            "Title": "French Actor",
+            "Name": "Olivier Martinez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-v-sindhu.webp",
+            "Text": "There were many struggles, but my parents supported me a lot. Whenever I wanted anything, wherever I wanted to go, practice session etc., they were there for me.",
+            "Title": "Indian Athlete",
+            "Name": "P. V. Sindhu"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/roberto-carlos.webp",
+            "Text": "I'm a modern coach when it comes to training. I pick a lot of things up and I watch a lot of training sessions and follow a lot of leagues around the world.",
+            "Title": "Brazilian Footballer",
+            "Name": "Roberto Carlos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/randy-pitchford.webp",
+            "Text": "Borderlands' asks you to pick a class, and once you've chosen that character class, you've committed yourself to that game session.",
+            "Title": "American Businessman",
+            "Name": "Randy Pitchford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sabrina-carpenter.webp",
+            "Text": "Every free day, every weekend, I am in a recording session. I'm very lucky to have such supportive people around me.",
+            "Title": "American Musician",
+            "Name": "Sabrina Carpenter"
+        }
+    ]
+}

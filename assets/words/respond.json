@@ -1,0 +1,322 @@
+{
+    "currentWord": {
+        "wordRoot": "respond",
+        "id": 13921,
+        "phonemic": "rɪˈspɒnd|rɪˈspɑːnd\r",
+        "bigId": "e3313aa1-cfa5-4cc7-add9-e1eff1800fd9",
+        "wordForms": [
+            "responds",
+            "responding",
+            "responded",
+            "responder",
+            "respond"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e3313aa1-cfa5-4cc7-add9-e1eff1800fd9",
+            "de": "To give an answer or reply to something",
+            "ty": "verb",
+            "ex": "She asked him a direct question, but he didn't respond.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "respond to a question",
+                " respond promptly",
+                " respond positively"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e3313aa1-cfa5-4cc7-add9-e1eff1800fd9.webp",
+            "Tips": [
+                {
+                    "title": "Question Context",
+                    "description": "Use 'respond' when someone expects an answer to a question or information.",
+                    "example": "When the teacher asked, Josie responded with the correct answer.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/g4Sd7SPgAnWcz48oX2iZLMrNerg.webp"
+                },
+                {
+                    "title": "Delay Hint",
+                    "description": "'Didn't respond' often implies ignoring or not noticing, not just silence.",
+                    "example": "He texted her several times, but she didn't respond.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RFwCDhldoanOEfwYFoqiWrTdaZ0.webp"
+                },
+                {
+                    "title": "Emotional Subtext",
+                    "description": "Response can convey emotions; tone can change the meaning.",
+                    "example": "She responded with anger at the accusation.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1IjNH4uxnd0XH2yB35O0kHlw.webp"
+                }
+            ]
+        },
+        {
+            "id": "439db8c6-c2cf-4a8c-8ad4-5fedbc00a7a9",
+            "de": "To react to something by taking action",
+            "ty": "verb",
+            "ex": "The firefighters responded immediately to the call for help.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "respond to a crisis",
+                " respond quickly",
+                " respond effectively"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/439db8c6-c2cf-4a8c-8ad4-5fedbc00a7a9.webp",
+            "Tips": [
+                {
+                    "title": "Urgency Implication",
+                    "description": "'Responded quickly' can imply urgency or importance of the situation.",
+                    "example": "When the alarm sounded, the security team responded quickly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Action Necessary",
+                    "description": "Use 'respond' to show someone did something in reaction, not just thought about it.",
+                    "example": "The company responded to customer complaints by issuing refunds.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fe51fa97-9001-47de-b1be-1e3eb870c2f8",
+            "de": "To show a good reaction to a treatment or stimulus",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "His condition is responding well to the new medication.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "respond to treatment",
+                " respond positively",
+                " respond well"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fe51fa97-9001-47de-b1be-1e3eb870c2f8.webp",
+            "Tips": [
+                {
+                    "title": "Medical Progress",
+                    "description": "'Responding to treatment' suggests improvement or recovery in medical context.",
+                    "example": "Luckily, the patient is responding to treatment and feeling better.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Positive Change",
+                    "description": "In medical terms, 'respond well' signals positive development or progress.",
+                    "example": "Her symptoms have diminished; she's responding well to the therapy.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d52f555e-2e62-4160-a1db-6f9f2bbff194",
+            "de": "To answer a legal charge",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "She has been given a week to respond to the charges.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "respond to charges",
+                " respond in court",
+                " respond by deadline"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d52f555e-2e62-4160-a1db-6f9f2bbff194.webp",
+            "Tips": [
+                {
+                    "title": "Legal Responsibility",
+                    "description": "In legal context, to 'respond to charges' means to formally answer an accusation.",
+                    "example": "The defendant must respond to the charges in writing.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Court Context",
+                    "description": "Using 'respond' in legal settings implies official communication, often within deadlines.",
+                    "example": "You have 30 days to respond to the legal notice.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Acknowledge": {
+            "wordRoot": "Acknowledge",
+            "wordDefinition": "Acknowledge means to show that you have received or seen a message or communication.\n\nIt doesn't necessarily require a response, but rather just to confirm that the message was received. For example, you can acknowledge a text message by briefly replying with \"got it\" or \"will do\".",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/09f474c2-c750-4257-a063-40f64d1f85a8.webp"
+        },
+        "Answer": {
+            "wordRoot": "Answer",
+            "wordDefinition": "Answer means to give a direct response or solution to a question or problem.\n\nFor example, if someone asks you a question such as \"What is 2+2?\" you would answer with \"4.\" If someone says \"Hey, how are you doing?\", you would respond with \"I'm good, thanks.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1061dc35-a3d0-43ad-8d9c-a947d226c1c2.webp"
+        },
+        "Behave": {
+            "wordRoot": "Behave",
+            "wordDefinition": "Behave refers to a person's actions or conduct, especially in terms of following social norms and behaving appropriately.\n\nIn simpler terms, behave is about how you act and respond is about how you react.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f6ca7eae-9c4c-4009-a89b-ebfeb839a2fb.webp"
+        },
+        "Counter": {
+            "wordRoot": "Counter",
+            "wordDefinition": "Counter means to respond to something with an opposing viewpoint or action. For example, in a game of chess, if your opponent makes a move, you can counter it by making a move that blocks their strategy.\n\nCounter specifically implies opposition, while respond is more neutral and can imply any form of answer to a prompt or stimulus.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7217bb02-b14f-4bf9-89d4-ea044c33cc0c.webp"
+        },
+        "Feedback": {
+            "wordRoot": "Feedback",
+            "wordDefinition": "Feedback is information or comments about something that has already happened. It is given to help improve future actions or behaviors.\n\nFor example, if a teacher provides feedback on a student's essay, it is meant to help the student improve their writing next time.\n\nRespond is an action taken in reaction to something. It does not necessarily involve giving feedback. For example, if someone sends a message to a friend, the friend can respond by answering the message or reacting to it in some way.\n\nFeedback is about evaluating what has already happened and suggesting improvements, while respond is about taking action in reaction to something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9728440-0b00-46c7-803e-9b8594d68bee.webp"
+        },
+        "React": {
+            "wordRoot": "React",
+            "wordDefinition": "React and respond are two verbs that can be used interchangeably but with slight differences.\n\nReact means to act instinctively or involuntarily, often as a response to a stimulus. It is an immediate and impulsive action, without much thought or consideration.\n\nRespond means to answer or react in a more thoughtful and deliberate manner. It implies the use of reasoning or judgment before taking a course of action.\n\nFor example, if someone throws a ball at you, you might react by ducking or catching it without thinking.\n\nReact is appropriate for more spontaneous situations where a quick action is required, while respond is better for situations that require more thought and consideration.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fd34522e-72fd-4217-bf23-448f7d2b3520.webp"
+        },
+        "Reciprocate": {
+            "wordRoot": "Reciprocate",
+            "wordDefinition": "Reciprocate means to give or do something in return for something that has been given or done to you. For example, if a friend invites you to their birthday party, you might reciprocate by inviting them to your own birthday party.\n\nBoth words involve some kind of action in reaction to something that has been given or done to you, but reciprocate specifically means to take similar action in return, while respond can refer to any kind of reaction or reply.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6e8a368d-0774-49f3-84fb-69067efb8c39.webp"
+        },
+        "Reply": {
+            "wordRoot": "Reply",
+            "wordDefinition": "Both reply and respond mean to answer someone or something.\n\nHowever, reply is often used to refer to a response to a direct question or message, while respond can be used in a broader context to refer to any kind of answer or reaction.\n\nFor example, if someone asks you \"What time is the movie?\" you would reply with the specific time. If someone tells you a funny joke, you might respond with laughter or a comment about the joke.\n\nReply is more commonly used in written communication, such as emails or texts, while respond can be used in both written and spoken communication.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/095b05eb-ad31-429c-9a9b-811d9a3fd878.webp"
+        },
+        "Retort": {
+            "wordRoot": "Retort",
+            "wordDefinition": "Respond means to reply or answer something in a polite and constructive manner, while the word retort means to reply in a sharp, often rude or aggressive way.\n\nRespond is generally used in formal or polite contexts, while retort is used in situations where someone is annoyed or provoked.\n\nFor example, if someone asks you a question, you might respond with a thoughtful answer. But if someone makes an insult towards you, you might retort with a snappy comeback.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3f934a0f-1239-4426-be31-d0c191ab99f8.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " cells participate in unison and so now we have a fancy name for this we call it quorum sensing they vote with these chemical votes the vote gets counted and then everybody responds to the vote and what's important for today's talk is that we know that there are hundreds of behaviors that bacteria carry out in these collective fashions but the one",
+            "Title": "Quorum sensing: Bacteria...",
+            "VideoId": "q2nWNZ-gixI",
+            "Controls": "start=14"
+        },
+        {
+            "Text": " plays a part in determining how that baby responds to stress later in life. The pups of nurturing moms turned out less sensitive to stress because their brains developed more cortisol receptors, which stick to cortisol and dampen the stress response. The pups of negligent moms had the opposite outcome,",
+            "Title": "How stress affects your...",
+            "VideoId": "WuyPuH9ojCE",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " whiskers to feel so it's responding to the strike of this scorpion not by looking but by just like feeling the vibrations by its whiskers that makes it a superhero it's a very territorial animal it's a very aggressive animal actually and rather like a wolf it protects or it defends its territory",
+            "Title": "Best of Tiny Animals PIPE...",
+            "VideoId": "TKKx8q-WShY",
+            "Controls": "start=557"
+        },
+        {
+            "Text": " Mirror neurons are a type of brain cell that responds equally when we perform an action as when we see someone else perform the same action. These neurons are important for learning and self-awareness. For example, watching someone do something physical, like knitting or putting on lipstick,",
+            "Title": "Why is yawning...",
+            "VideoId": "4NpG4F9yq00",
+            "Controls": "start=111"
+        },
+        {
+            "Text": " a heart attack may be silent. If you think that someone might be having a heart attack, the most important thing is to respond quickly. If you have access to emergency medical services, call them. They're the fastest way to get to a hospital. Taking aspirin, which thins the blood,",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=116"
+        },
+        {
+            "Text": " or surgery, when OCD doesn't respond to other forms of treatment. Knowing that your own brain is lying to you while not being able to resist its commands can be agonizing. But with knowledge and understanding comes the power to seek help, and future research into the brain",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " How dangerous are all those concussions? The answer is complicated, and lies in how the brain responds when something strikes it. The brain is made of soft fatty tissue, with a consistency something like jello. Inside its protective membranes and the skull's hard casing,",
+            "Title": "What happens when you...",
+            "VideoId": "xvjK-4NXRsM",
+            "Controls": "start=14"
+        },
+        {
+            "Text": " So, what does all this mean for you? Your life will always be filled with stressful situations. But what matters to your brain and entire body is how you respond to that stress. If you can view those situations as challenges you can control and master,",
+            "Title": "How stress affects your...",
+            "VideoId": "v-t1Z5-oPtU",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " It's expensive, it takes a long time, and it's very complicated. And the people that build things -- developers and governments -- they're naturally afraid of innovation, and they'd rather just use those forms that they know you'll respond to.",
+            "Title": "Why the buildings of the...",
+            "VideoId": "hha0NsYXS5c",
+            "Controls": "start=184"
+        },
+        {
+            "Text": " some spiders destroy their their webs during those precious few moments exactly yeah so so there's there's a lot of things and there's actually a cool app out there called life responds it's",
+            "Title": "Watch the Total Solar...",
+            "VideoId": "oLBwibYSzEk",
+            "Controls": "start=2114"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kurt-cobain.webp",
+            "Text": "I have to admit I've found myself doing the same things that a lot of other rock stars do or are forced to do. Which is not being able to respond to mail, not being able to keep up on current music, and I'm pretty much locked away a lot. The outside world is pretty foreign to me.",
+            "Title": "American Singer",
+            "Name": "Kurt Cobain"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mary-j-blige.webp",
+            "Text": "I started speaking about what I was dealing with through my music, and 4 million women responded and said, 'Us too, Mary.' And I didn't know that everyone was hurting like I was hurting. I had no idea.",
+            "Title": "American Musician",
+            "Name": "Mary J. Blige"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/coretta-scott-king.webp",
+            "Text": "We can prevent many people from becoming terrorists by truly listening to people who feel they've been treated unjustly and responding to their concerns with a sense of justice and compassion.",
+            "Title": "American Activist",
+            "Name": "Coretta Scott King"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/deepak-chopra.webp",
+            "Text": "Being more aware creates responsibility. What does responsibility mean? It means the ability to respond. The more conscious you are in your ability to respond, the more creative you'll be.",
+            "Title": "American Speaker",
+            "Name": "Deepak Chopra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viktor-e-frankl.webp",
+            "Text": "Each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible.",
+            "Title": "Austrian Psychologist",
+            "Name": "Viktor E. Frankl"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zig-ziglar.webp",
+            "Text": "It's not the situation, but whether we react negative or respond positive to the situation that is important.",
+            "Title": "American Author",
+            "Name": "Zig Ziglar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dolly-parton.webp",
+            "Text": "Children have always responded to me because I have that cartoon-character look.",
+            "Title": "American Singer",
+            "Name": "Dolly Parton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/juliet-rylance.webp",
+            "Text": "I find I have to respond to a character or a story to choose a job.",
+            "Title": "English Actress",
+            "Name": "Juliet Rylance"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/halle-berry.webp",
+            "Text": "I don't know why, but I respond well to tortured characters.",
+            "Title": "American Actress",
+            "Name": "Halle Berry"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-lanegan.webp",
+            "Text": "It isn't important to me how people respond to my work.",
+            "Title": "American Musician",
+            "Name": "Mark Lanegan"
+        }
+    ]
+}

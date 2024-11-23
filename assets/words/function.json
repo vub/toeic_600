@@ -1,0 +1,347 @@
+{
+    "currentWord": {
+        "wordRoot": "function",
+        "id": 11992,
+        "phonemic": "ˈfʌŋkʃn|ˈfʌŋkʃn\r",
+        "bigId": "9ff47339-6e1f-440b-b60d-56e7eaba8eff",
+        "wordForms": [
+            "functions",
+            "functioning",
+            "functioned",
+            "function"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9ff47339-6e1f-440b-b60d-56e7eaba8eff",
+            "de": "The purpose or role something or someone does",
+            "ty": "noun",
+            "ex": "The function of scissors is to cut",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "perform a function",
+                " assume a function",
+                " undertake a function"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9ff47339-6e1f-440b-b60d-56e7eaba8eff.webp",
+            "Tips": [
+                {
+                    "title": "Interchangeable Roles",
+                    "description": "Objects or people can have more than one function depending on the context.",
+                    "example": "A smartphone's function isn't just to make calls but also to access the internet.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/l2Av2qBM2sFGOceaRvJdeSOzZwQ.webp"
+                },
+                {
+                    "title": "Not Always Obvious",
+                    "description": "Some functions might not be immediately apparent and require explanation.",
+                    "example": "Can you explain the function of this feature?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ljy5KzjpCMsAsLy3jdreDT0GKaM.webp"
+                },
+                {
+                    "title": "Beyond Physical",
+                    "description": "Function can refer to conceptual roles as well as physical actions.",
+                    "example": "In this game, your function is to solve puzzles.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EkuvFwhCVaW3H5Fynfv9WA5U4g.webp"
+                }
+            ]
+        },
+        {
+            "id": "ff8d92b3-7eae-4e67-8863-e62afbd349e6",
+            "de": "An event or gathering with a particular purpose",
+            "ty": "noun",
+            "ex": "She is planning for a function at her house next weekend",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hold a function",
+                " attend a function",
+                " organize a function"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ff8d92b3-7eae-4e67-8863-e62afbd349e6.webp",
+            "Tips": [
+                {
+                    "title": "Formality Variance",
+                    "description": "The word 'function' can be used for both formal occasions and casual gatherings.",
+                    "example": "We attended a casual function at the community center.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Context-Driven Use",
+                    "description": "The meaning of 'function' shifts depending on whether it's individual attendance or hosting.",
+                    "example": "Our company will organize a charity function next month.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "dfc851af-a3ae-4381-8609-561abdec7596",
+            "de": "A mathematical relationship where a quantity depends on another",
+            "do": "Mathematics",
+            "ty": "noun",
+            "ex": "Y is a function of X",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "solve a function",
+                " define a function",
+                " plot a function"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dfc851af-a3ae-4381-8609-561abdec7596.webp",
+            "Tips": [
+                {
+                    "title": "Not Always Numbers",
+                    "description": "Mathematical functions may involve different types of quantities, like shapes or sets.",
+                    "example": "In geometry, a function can map shapes to areas.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Real-Life Models",
+                    "description": "Functions in math can represent real-world relationships, such as speed and time.",
+                    "example": "The function shows how time affects speed.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5d8dc5f0-099e-4efe-a1f2-d2178e51040a",
+            "de": "To work or operate",
+            "ty": "verb",
+            "ex": "The machine is functioning properly",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "function properly",
+                " function smoothly",
+                " function effectively"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5d8dc5f0-099e-4efe-a1f2-d2178e51040a.webp",
+            "Tips": [
+                {
+                    "title": "General Effectiveness",
+                    "description": "When something functions, it meets the expectations of its role or design.",
+                    "example": "Even after years, the old clock still functions well.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Quite Perfect",
+                    "description": "Functioning doesn't always mean perfect performance; it can work with minor issues.",
+                    "example": "The app functions, but it's slow to load.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2f23e9c6-2bb4-4a02-9937-4b146ee9c143",
+            "de": "A specific task performed by a part of the body or a system",
+            "do": "Biology",
+            "ty": "noun",
+            "ex": "The function of the heart is to pump blood",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "perform a function",
+                " heart function",
+                " brain function"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2f23e9c6-2bb4-4a02-9937-4b146ee9c143.webp",
+            "Tips": [
+                {
+                    "title": "Biological Roles",
+                    "description": "In biology, a function often refers to life-sustaining activities or processes.",
+                    "example": "The function of leaves is to perform photosynthesis.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "System Interdependence",
+                    "description": "The function of a body part may depend on or affect other parts within an organism.",
+                    "example": "Impaired lung function can affect oxygen levels in the blood.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Job": {
+            "wordRoot": "Job",
+            "wordDefinition": "Job refers to a specific employment or task assigned to a person. For example, a job may involve working at a company or organization and completing certain tasks for a specific wage or salary.\n\nIn simpler terms, function describes the purpose of something, while job describes a specific task or employment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/54203cec-57e1-4ff6-9c0a-b1ff7f4913de.webp"
+        },
+        "Office": {
+            "wordRoot": "Office",
+            "wordDefinition": "Function refers to the purpose or role that something has, while the word office refers to a physical workspace or a position of authority or responsibility.\n\nFor example, a computer's function is to process information, whereas an office is a designated space where people work or conduct business.\n\nSimilarly, a person may hold the function of a manager, which means they have a specific set of responsibilities, but their office may be located in a building or company headquarters.\n\nFunction is more about what something does, while an office is more about where someone works or their position within an organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d4ecb1c5-3817-4311-ab5b-8da9c21a54df.webp"
+        },
+        "Position": {
+            "wordRoot": "Position",
+            "wordDefinition": "Function and position are two different words that have different meanings and are applicable in different contexts.\n\nPosition refers to the location or placement of something or someone relative to other objects or points of reference. For example, the position of a book on a shelf can be described using coordinates or landmarks.\n\nIn sports, position refers to the particular role or responsibility of a player on a team.\n\nFunction refers to purpose or role, while position refers to location or placement. Both words are applicable in various fields and contexts such as science, technology, sports, and everyday life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/873c534c-f216-4662-b281-643a092d10bc.webp"
+        },
+        "Purpose": {
+            "wordRoot": "Purpose",
+            "wordDefinition": "Purpose refers to the reason for which something is made or used. For example, the purpose of a knife may be to prepare food.\n\nIn simpler terms, function is what something does, while purpose is why something exists or is used. Both words can be used in various contexts, but function is more commonly used when talking about how something works, while purpose describes the intention behind its use.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d14dda9b-9f3a-4545-bd11-8a9b348d08bb.webp"
+        },
+        "Responsibility": {
+            "wordRoot": "Responsibility",
+            "wordDefinition": "Responsibility refers to the obligation and accountability to do something correctly or to take care of something or someone.\n\nBoth words are applicable in everyday life. Function pertains more to specific roles or tasks, while responsibility is more about the trust and obligation put on someone.\n\nFor example, a teacher's function is to educate students, while their responsibility is to make sure their students are safe and learning in a positive environment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e1aa0157-7e04-42ef-931f-32e1822a0685.webp"
+        },
+        "Role": {
+            "wordRoot": "Role",
+            "wordDefinition": "Function and role are two words that are sometimes used interchangeably, but they have slightly different meanings.\n\nA role is the part or position that someone or something plays in a larger system or group. For example, the role of a teacher is to educate and guide students.\n\nWe use role when we talk about what a person or thing is expected to do in a certain situation or environment.\n\nFunction refers to what something does, while role refers to the position or responsibility it has in a larger context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d750fd22-a62d-486e-b799-f6f0792469bd.webp"
+        },
+        "Task": {
+            "wordRoot": "Task",
+            "wordDefinition": "A task is a specific activity or action that is assigned to someone to do. For example, the task of cleaning the house might be assigned to a family member.\n\nFunctions are usually more broad and general, while tasks are more specific and detailed. Functions are applicable to describing the purpose or role of something, while tasks are applicable to describing a particular action that needs to be completed.\n\nA function is what something does in general, while a task is a specific job or duty that needs to be done.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/10fc63e2-3490-4f67-8690-9983c0f7c30b.webp"
+        },
+        "Use": {
+            "wordRoot": "Use",
+            "wordDefinition": "Use refers to the act of using something for a particular purpose. For example, you can use a hammer to drive nails.\n\nYou can use a car to get to school or work.\n\nFunction is a more abstract concept that refers to the larger purpose or job of something, while use is more concrete and refers to the specific actions taken with something to achieve a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f41be5d3-b463-486f-a099-0ce5f6ebab8a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " under the radar and then almost certainly going to be happening there with wildcat and an ecosystem isn't really a fully functioning system until you've got every cog component back in place and bear in mind in the uk that we have completely sterilized our countryside for years and years and years putting back as much we can is so important so putting the wildcat back in",
+            "Title": "Rescuing the UK's Rarest...",
+            "VideoId": "KSRxTLQEhgo",
+            "Controls": "start=245"
+        },
+        {
+            "Text": " strengthens those brain functions, allowing us to apply that strength to other activities. The most obvious difference between listening to music and playing it is that the latter requires fine motor skills, which are controlled in both hemispheres of the brain. It also combines the linguistic and mathematical precision,",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " administrator who couldn't believe they gave her the job once she got there she found out the hiring committee had come directly from a wine function she said AHA they were drunk or maybe you've said if I can do it how hard can it be I actually heard he got a if I can get a",
+            "Title": "Thinking your way out of...",
+            "VideoId": "h7v-GG3SEWQ",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " \"It has multiple functions.\" But, you see, there are things we're enthralled to in education. A couple of examples. One of them is the idea of that it starts here and you go through a track and if you do everything right, you will end up set for the rest of your life.",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=510"
+        },
+        {
+            "Text": " This neglect is often the result of a major misunderstanding. Sleep isn't lost time, or just a way to rest when all our important work is done. Instead, it's a critical function, during which your body balances and regulates its vital systems, affecting respiration",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " These procedures reestablish circulation to the cardiac muscle, restoring heart function. Heart attack treatment is advancing, but prevention is vital. Genetics and lifestyle factors both affect your risk. And the good news is that you can change your lifestyle.",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=183"
+        },
+        {
+            "Text": " Adrenaline causes your heart to beat faster and raises your blood pressure, over time causing hypertension. Cortisol can also cause the endothelium, or inner lining of blood vessels, to not function normally. Scientists now know that this is an early step",
+            "Title": "How stress affects your...",
+            "VideoId": "v-t1Z5-oPtU",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " to switch between languages triggered more activity in, and potentially strengthened, the dorsolateral prefrontal cortex. This is the part of the brain that plays a large role in executive function, problem solving, switching between tasks,",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=241"
+        },
+        {
+            "Text": " what then having said what you just said what is the function of music um what is the function of music I think uh I feel like I should have a really good answer for this but somehow I felt so feel like",
+            "Title": "Turning Sound Into...",
+            "VideoId": "ESeRaLKE7YU",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " and potentially reduce the risk of certain types of cancer. No matter what, getting the right amount of liquid makes a world of difference in how you'll feel, think, and function day to day.",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=261"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/milton-friedman.webp",
+            "Text": "Government has three primary functions. It should provide for military defense of the nation. It should enforce contracts between individuals. It should protect citizens from crimes against themselves or their property.",
+            "Title": "American Economist",
+            "Name": "Milton Friedman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-shamrock.webp",
+            "Text": "My first fighting team was my brother, and I learned that I came from a community where your team was your family. We functioned as a unit. You helped as many people as you could, because they would help you.",
+            "Title": "American Mixed Martial Artist",
+            "Name": "Frank Shamrock"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/meryl-streep.webp",
+            "Text": "I know movies are a function of our dream world. And when you project yourself on screen, it's easier to project yourself into what you were, not what you are.",
+            "Title": "American Actress",
+            "Name": "Meryl Streep"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ghostface-killah.webp",
+            "Text": "All this could go tomorrow, and I would still know how to function, because I never had nothing before. I went through the struggle - it was a rough life.",
+            "Title": "American Musician",
+            "Name": "Ghostface Killah"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/billie-eilish.webp",
+            "Text": "I don't know how to function without music. When I'm not making it, I'm listening to it. It gives me courage and takes care of my mind.",
+            "Title": "American Singer",
+            "Name": "Billie Eilish"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/soren-kierkegaard.webp",
+            "Text": "The function of prayer is not to influence God, but rather to change the nature of the one who prays.",
+            "Title": "Danish Philosopher",
+            "Name": "Soren Kierkegaard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frederick-wiseman.webp",
+            "Text": "Anybody whose mind is functioning at all can't be content with the way the world works.",
+            "Title": "American Director",
+            "Name": "Frederick Wiseman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wolfgang-tillmans.webp",
+            "Text": "Books have this function that help me to understand the work I've done, to wrap it up.",
+            "Title": "German Photographer",
+            "Name": "Wolfgang Tillmans"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sharad-pawar.webp",
+            "Text": "It is the responsibility of the government to ensure the House functions.",
+            "Title": "Indian Politician",
+            "Name": "Sharad Pawar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hilary-farr.webp",
+            "Text": "Most importantly, I strive for function above all in every house.",
+            "Title": "British Designer",
+            "Name": "Hilary Farr"
+        }
+    ]
+}

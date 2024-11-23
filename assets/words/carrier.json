@@ -1,0 +1,332 @@
+{
+    "currentWord": {
+        "wordRoot": "carrier",
+        "id": 9108,
+        "phonemic": "ˈkæriə(r)|ˈkæriər\r",
+        "bigId": "0367351b-a74b-4013-856c-6f8d6b626b92",
+        "wordForms": [
+            "carriers",
+            "carrier"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0367351b-a74b-4013-856c-6f8d6b626b92",
+            "de": "A person or thing that carries, holds or delivers something",
+            "ty": "noun",
+            "ex": "He became a carrier of the package.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "carrier bag",
+                " carrier pigeon",
+                " carrier vehicle"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0367351b-a74b-4013-856c-6f8d6b626b92.webp",
+            "Tips": [
+                {
+                    "title": "Physical Objects",
+                    "description": "Used for people or things physically carrying items from one place to another.",
+                    "example": "The table acted as a carrier for the food spread.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ekU6Txcaxzx3Q98gM9rPoiXsHQ.webp"
+                },
+                {
+                    "title": "Job Title",
+                    "description": "Sometimes refers to professional roles, such as a 'mail carrier'.",
+                    "example": "My uncle worked as a mail carrier for thirty years.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JUvCcHfC0mYzRgOnI24gj5yryfY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3446898a-3024-4421-9c05-829b3c0a0c2a",
+            "de": "A person or animal that has a disease without showing symptoms, but can pass it on to others",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "She was a carrier of the disease but didn't show any signs.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "disease carrier",
+                " carrier status",
+                " carrier screening"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3446898a-3024-4421-9c05-829b3c0a0c2a.webp",
+            "Tips": [
+                {
+                    "title": "Silent Spread",
+                    "description": "Highlights the potential to spread disease while being asymptomatic.",
+                    "example": "Even without a cough, he was a carrier of the flu.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "f830bbce-dfd3-4753-ae3c-f9c7b3844ab0",
+            "de": "A company that provides services for sending goods or for transport",
+            "ty": "noun",
+            "ex": "The carrier will deliver the package tomorrow.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "airline carrier",
+                " freight carrier",
+                " cellular carrier"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f830bbce-dfd3-4753-ae3c-f9c7b3844ab0.webp",
+            "Tips": [
+                {
+                    "title": "Service Provider",
+                    "description": "Refers to businesses that transport items or passengers.",
+                    "example": "The shipping carrier lost my parcel.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Various Types",
+                    "description": "The term is broad, covering air, sea, and land transport companies.",
+                    "example": "We need to choose a reliable freight carrier.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ce124b15-8b8d-4e3d-85e7-5136aa1887da",
+            "de": "A signal or frequency that can be modulated to send information",
+            "do": "Telecommunications",
+            "ty": "noun",
+            "ex": "The carrier signal helps transmit data over radio waves.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "carrier frequency",
+                " carrier signal",
+                " carrier wave"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ce124b15-8b8d-4e3d-85e7-5136aa1887da.webp",
+            "Tips": [
+                {
+                    "title": "Technical Term",
+                    "description": "Used in specific contexts like radio, TV broadcasting, or mobile communication.",
+                    "example": "My phone says there's no carrier signal here.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Invisible Transfer",
+                    "description": "Describes an unseen method of transferring information.",
+                    "example": "The radio station changed its carrier frequency.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "72af3381-0a96-4b33-93d9-bc0f9c2ca517",
+            "de": "A large ship for transporting aircraft",
+            "do": "Naval",
+            "ty": "noun",
+            "ex": "The aircraft carrier was sailing in the sea.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "aircraft carrier",
+                " carrier group",
+                " carrier battle group"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/72af3381-0a96-4b33-93d9-bc0f9c2ca517.webp",
+            "Tips": [
+                {
+                    "title": "Military Vessel",
+                    "description": "Specifically a large ship designed to deploy and recover aircraft.",
+                    "example": "The naval fleet was led by an aircraft carrier.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Naval Importance",
+                    "description": "A symbol of naval power, often central in military discussions.",
+                    "example": "The country's carrier fleet is a formidable force.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Conduit": {
+            "wordRoot": "Conduit",
+            "wordDefinition": "A conduit is a channel or pipe that transports something, such as water or electricity.\n\nA conduit is used when describing a channel for something to pass through. For example, pipes that carry water through a city are conduits because they are allowing water to flow from one place to another.\n\nA carrier is a means of transportation for people or goods, while a conduit is a channel or pipe that transports something from one place to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/57ce71e6-b19a-4fb4-ac7d-5ba9f4300932.webp"
+        },
+        "Convey": {
+            "wordRoot": "Convey",
+            "wordDefinition": "Convey means to communicate, express, or make known a message, feeling, or idea. It is applicable in the context of communication, language, and expression.\n\nFor example, a teacher may convey an idea to their students through a lecture or a writer may convey a message through their writing.\n\nCarrier is related to physically transporting something while convey is related to expressing or communicating a message or idea.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/51317141-34c8-4625-a8fe-86fb60fd789a.webp"
+        },
+        "Courier": {
+            "wordRoot": "Courier",
+            "wordDefinition": "Courier refers to a person or company that delivers important documents or parcels in a timely manner. For instance, a courier service that picks up and delivers passports or legal documents is a courier.\n\nThe main difference is that carriers generally transport goods or people, while couriers are focused on delivering important documents or parcels quickly and safely.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8985de3e-a129-4668-a769-a93551d1882d.webp"
+        },
+        "Distribute": {
+            "wordRoot": "Distribute",
+            "wordDefinition": "Distribute means to give out or disperse something, often to multiple locations or people. For example, a toy manufacturer may distribute their products to various stores across the country.\n\nA carrier is responsible for physically moving goods or people from one place to another, while distributing involves dispersing those goods or products once they have arrived at their destination.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1adbd09e-46a8-4b40-95b4-6fb08e6e09d1.webp"
+        },
+        "Messenger": {
+            "wordRoot": "Messenger",
+            "wordDefinition": "Messenger refers to a person who delivers a message from one person to another. For example, a messenger might be hired to deliver an important document from one office to another.\n\nSo, while both words involve delivering something from one place to another, carrier is more general and can refer to any type of object, while messenger specifically refers to delivering a message or document from one person to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f413b551-edff-4ce1-925a-e687a47f5e14.webp"
+        },
+        "Mover": {
+            "wordRoot": "Mover",
+            "wordDefinition": "A mover is someone or something that actually physically moves an object or person from one place to another. For example, a person who helps with moving furniture from one house to another is a mover.\n\nA carrier describes the transportation of goods or people, while a mover describes the physical act of moving an object or person from one place to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/85fcc36c-65b7-451f-9939-5c5258180444.webp"
+        },
+        "Shipper": {
+            "wordRoot": "Shipper",
+            "wordDefinition": "A shipper is a person or company that actually sends or loads the goods onto the carrier for transportation. For example, if a company wants to ship a product to a customer, they would be the shipper who loads the product onto a carrier like a truck or a shipping container.\n\nThe carrier is responsible for transporting the goods or passengers from one place to another, while the shipper is responsible for preparing and loading the goods onto the carrier.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/73305037-fc46-4268-89a5-99618bd80927.webp"
+        },
+        "Transport": {
+            "wordRoot": "Transport",
+            "wordDefinition": "It is applicable in the context of transportation of goods or people.\n\nTransport refers to the act of moving something from one place to another, such as goods or people, through various means like road, rail, air or sea.\n\nCarrier refers to the party delivering or transporting the goods or people, while transport refers to the act of moving things or people from one place to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/013addf6-9435-47bf-825b-e2d25976534a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " we all do they're joining the global conversation in a massive way and so for us what's been really exciting is we've got a program at Wikipedia called Wikipedia zero where we're working with the mobile carriers in the developing world to bring Wikipedia to people free",
+            "Title": "Making data free for...",
+            "VideoId": "BbLlo8rXcI4",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " some also end up in this giant garbage patch, much to the delight of the nurdles, building up their plastic army there. And then there are the large pieces of unrecycled plastic litter, like bottles and carrier bags, transported by runoff from land to sea.",
+            "Title": "The nurdles' quest for...",
+            "VideoId": "KpVpJsDjWj8",
+            "Controls": "start=140"
+        },
+        {
+            "Text": " You'll see the pattern -- airborne, just like carriers. Armor goes this way. Here's the dirty secret of the Air Force, you can win by bombing. But you need lots of these guys on the ground to win the peace. Shinseki was right with the argument.",
+            "Title": "Thomas Barnett:...",
+            "VideoId": "d3xlb6_0OEs",
+            "Controls": "start=1258"
+        },
+        {
+            "Text": " This time, governments and communities around the world slow the spread of the virus to give research facilities time to produce a vaccine. They buy this crucial time through tactics that may include widespread testing to identify carriers,",
+            "Title": "When is a pandemic over?",
+            "VideoId": "Qi0edf_nJDo",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " we've come to observe an animal that has learned to survive by carrying its defense on its back this is the carrier crab it's two back legs are specially modified to carry anything it can put between itself and harm's way a piece of",
+            "Title": "Carrier Crab Carries...",
+            "VideoId": "0rzB7L3gEMg",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " can survive in animal carriers, while the bacteria that cause tetanus can even live in the soil. Secondly, individuals infected with smallpox displayed a characteristic rash, making them easy to identify, even without a lab test.",
+            "Title": "Learning from smallpox:...",
+            "VideoId": "oBSandHijDc",
+            "Controls": "start=182"
+        },
+        {
+            "Text": " it also helped drive crucial scientific and social progress. Plague is an infectious disease caused by the bacterium Yersinia pestis. It mainly affects rodents, and spreads by way of insects. Because of these insect carriers,",
+            "Title": "Plague 101 PIPE National...",
+            "VideoId": "MYnMXEcHI7U",
+            "Controls": "start=9"
+        },
+        {
+            "Text": " that and many think of vampires sinking their fangs and two helpless victims even in the real world bats are thought of as carriers of dreaded diseases like rabies but in the madonna region of",
+            "Title": "Eating Bats PIPE National...",
+            "VideoId": "g3mMn2NtRig",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " between them they're making a life raft the ants most precious cargo the eggs and remaining pupae are safely stored on flying ants also board like helicopters on an aircraft carrier",
+            "Title": "Ants Ingenious Survival...",
+            "VideoId": "MJ4IjC512bg",
+            "Controls": "start=56"
+        },
+        {
+            "Text": " on earth protected by these living walls are the nurseries where wave after wave of brood carriers deliver their load",
+            "Title": "5 Reasons Ants Are...",
+            "VideoId": "T8aAu2dUg2w",
+            "Controls": "start=1025"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patrick-labyorteaux.webp",
+            "Text": "Lots of TV shows say that they are like doing a movie every week, but 'JAG' truly was a huge show. Lots of once-in-a-lifetime opportunities, like being launched off an aircraft carrier and being welcomed by military bases all over California.",
+            "Title": "American Actor",
+            "Name": "Patrick Labyorteaux"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/future.webp",
+            "Text": "Sometimes it's hard to open up about your personal life, your relationship because you always want the music to be in the forefront. You want the music to be the biggest carrier of everything that you represent.",
+            "Title": "American Musician",
+            "Name": "Future"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-welch.webp",
+            "Text": "If you pick the right people and give them the opportunity to spread their wings and put compensation as a carrier behind it you almost don't have to manage them.",
+            "Title": "American Businessman",
+            "Name": "Jack Welch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/parker-harris.webp",
+            "Text": "Those trying to get support for their iPhones don't necessary trust their carriers, so they ask their friends for help.",
+            "Title": "",
+            "Name": "Parker Harris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/soren-skou.webp",
+            "Text": "As a global carrier, we always have a positive view on investment in infrastructure that supports our industry.",
+            "Title": "Danish Businessman",
+            "Name": "Soren Skou"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dorothy-bush-koch.webp",
+            "Text": "One of the greatest honors in my life is serving as the sponsor of the new aircraft carrier bearing Dad's name.",
+            "Title": "American Author",
+            "Name": "Dorothy Bush Koch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-nielsen.webp",
+            "Text": "Some people design buildings and aircraft carriers and cars - and I designed picks.",
+            "Title": "American Musician",
+            "Name": "Rick Nielsen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barney-ross.webp",
+            "Text": "We were very fortunate that the carriers weren't in the harbor.",
+            "Title": "American Athlete",
+            "Name": "Barney Ross"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/estelle-morris.webp",
+            "Text": "I think film is a very powerful advocate and message carrier.",
+            "Title": "English Politician",
+            "Name": "Estelle Morris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-h-w-bush.webp",
+            "Text": "The glory of being a carrier pilot has certainly worn off.",
+            "Title": "American President",
+            "Name": "George H. W. Bush"
+        }
+    ]
+}

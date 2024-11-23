@@ -1,0 +1,315 @@
+{
+    "currentWord": {
+        "wordRoot": "reservation",
+        "id": 17722,
+        "phonemic": "ˌrezəˈveɪʃn|ˌrezərˈveɪʃn\r",
+        "bigId": "eb39d44d-a192-4839-8afe-dc03c21488b0",
+        "wordForms": [
+            "reservations",
+            "reservation"
+        ]
+    },
+    "senses": [
+        {
+            "id": "eb39d44d-a192-4839-8afe-dc03c21488b0",
+            "de": "A booking for a service, such as a hotel room or a table in a restaurant.",
+            "ty": "noun",
+            "ex": "I made a reservation for two at our favorite restaurant.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make a reservation",
+                " cancel a reservation",
+                " hotel reservation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/eb39d44d-a192-4839-8afe-dc03c21488b0.webp",
+            "Tips": [
+                {
+                    "title": "Planning Ahead",
+                    "description": "Used to secure a spot in advance, ensuring access to a service when it's needed.",
+                    "example": "Let's make a reservation at the hotel before they are fully booked.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vGuQ8nM0ycX5x3mL7ATmCKVJ8k.webp"
+                },
+                {
+                    "title": "Polite Requests",
+                    "description": "Politely ask to reserve something rather than demanding it, to show good manners.",
+                    "example": "Could I please have a reservation for a window seat on the flight?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/85UDGZdZ1XTp1fW4GUrK6Tu4yMo.webp"
+                },
+                {
+                    "title": "Specific Details",
+                    "description": "Be clear about the details when making a reservation, like date, time, and preferences.",
+                    "example": "I'd like to make a reservation for two people at 7 PM this Friday.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jxhuLUkib5A9Q36aQqQdA9nSeU8.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4ac1da5b-0e2a-4c55-9d36-2ee66d55f105",
+            "de": "A feeling of doubt or not fully agreeing with something.",
+            "ty": "noun",
+            "ex": "I have my reservations about the plan.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "have reservations",
+                " express reservations",
+                " reservations about"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4ac1da5b-0e2a-4c55-9d36-2ee66d55f105.webp",
+            "Tips": [
+                {
+                    "title": "Cautious Support",
+                    "description": "Shows support with some doubts, indicating you're not fully convinced.",
+                    "example": "I'll support the project, but I have some reservations about its cost.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Soft Disagreement",
+                    "description": "A polite way to express disagreement or concern without being blunt or confrontational.",
+                    "example": "I have reservations about changing our process right now.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "88d7bb92-8df7-495b-999e-60b54af7d32e",
+            "de": "An area of land set aside for a specific purpose, such as for the Indigenous people of the United States.",
+            "do": "Geography",
+            "ty": "noun",
+            "ex": "The Sioux tribe lives on a reservation in South Dakota.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "am": true,
+            "cl": [
+                "indigenous reservation",
+                " make a reservation",
+                " reservation system"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/88d7bb92-8df7-495b-999e-60b54af7d32e.webp",
+            "Tips": [
+                {
+                    "title": "Cultural Sensitivity",
+                    "description": "Understand reservations are home to indigenous people and respect their cultural significance.",
+                    "example": "The wildlife reserve is next to the reservation; both are protected areas.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specific Terminology",
+                    "description": "Recognize that in some contexts, 'reservation' refers to specific geographic areas, often related to indigenous peoples.",
+                    "example": "The reservation is governed by its own tribal council.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b8788094-cfed-4305-9fbc-faad9b485090",
+            "de": "A term in contract law where a party may plan or save something for a future use.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The contract contains a reservation of rights clause.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "reservation of rights",
+                " terms and reservations",
+                " reservation clause"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b8788094-cfed-4305-9fbc-faad9b485090.webp",
+            "Tips": [
+                {
+                    "title": "Legal Caution",
+                    "description": "In contracts, a reservation clarifies rights retained, often for use in potential future issues.",
+                    "example": "The company included a reservation of rights in case of a breach.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Contract Precision",
+                    "description": "Ensure clarity and prevent misunderstandings by explicitly stating reservations in contracts.",
+                    "example": "The lease has a reservation clause that specifies the landlord's rights.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Appointment": {
+            "wordRoot": "Appointment",
+            "wordDefinition": "An appointment is a specific time set for a meeting or service with a professional such as a doctor, hair stylist or lawyer.\n\nAn appointment is a set time for a specific service with a professional, while a reservation is a request to hold a specific space or service for a group or individual at a specific time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e08e3cc3-70c2-4e15-b825-eb715ced76a1.webp"
+        },
+        "Arrangement": {
+            "wordRoot": "Arrangement",
+            "wordDefinition": "Arrangement is used when you're organizing or planning something for a future action, event, or situation. For example, making an arrangement for a meeting, arranging for transportation, or making arrangements for a party.\n\nThe key difference is that arrangement is about planning while reservation is about holding something for a specific time or purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp"
+        },
+        "Book": {
+            "wordRoot": "Book",
+            "wordDefinition": "Book usually means to reserve or purchase a physical copy of a reading material, such as a book, magazine, or newspaper.\n\nIt is applicable in a bookstore or library setting where you go to get a copy of a reading material.\n\nBook is applicable when you want to secure a physical copy of reading material, whereas reservation is applicable when you need to secure a spot or time for an activity or service.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/25dae23c-4cba-4b29-82b1-75051246068d.webp"
+        },
+        "Engage": {
+            "wordRoot": "Engage",
+            "wordDefinition": "Engage means to participate in or become involved in something. For example, if you engage in a conversation, you are actively participating in it.\n\nEngage is applicable when you want to actively participate in something, while reservation is applicable when you want to book or hold something for future use.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/57b50e24-a47a-455a-851d-79d8b5894869.webp"
+        },
+        "Hire": {
+            "wordRoot": "Hire",
+            "wordDefinition": "Hire means to pay someone to work for you, or to rent something for a short period of time. For example, you could hire a plumber to fix your sink, or you could hire a car for the weekend.\n\nHire is used for paying someone to work for you or renting something, while reservation is used for booking something in advance for a specific time or date.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d2c4a2f9-483f-4a1a-8526-e5d7a3161b5e.webp"
+        },
+        "Hold": {
+            "wordRoot": "Hold",
+            "wordDefinition": "Hold and reservation are two words that are similar in meaning but are used in different contexts.\n\nHold typically means to keep something for a short period of time, often to reserve it or set it aside for someone else.\n\nFor example, you might ask a store to put a particular item on hold for you so you can come back later and buy it. Or you might ask your friend to hold your phone while you tie your shoes.\n\nHold is more informal and short-term, while reservation is more formal and long-term.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a44c22f-2f82-4be1-a349-027dee75a292.webp"
+        },
+        "Reserve": {
+            "wordRoot": "Reserve",
+            "wordDefinition": "Reservation means the act of reserving something in advance, such as a hotel room, a flight ticket, or a restaurant table.\n\nReserve means to keep something for a later use, or to hold something back from use or consumption. It is applicable when you want to save something for a specific purpose or situation.\n\nReservation is used when you need to book or hold something in advance, while reserve is used when you want to keep something for later use or save it for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b08ab217-57c0-4016-b277-0569c844a318.webp"
+        },
+        "Stipulate": {
+            "wordRoot": "Stipulate",
+            "wordDefinition": "Stipulate means to require or demand something as a condition of an agreement or contract. For example, if you are negotiating a business deal, you may stipulate that certain terms and conditions must be met before you agree to sign the contract.\n\nReservation is about setting something aside, while stipulate is about demanding certain conditions be met. Both words are applicable in a variety of contexts, from making travel arrangements to negotiating business deals.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a38fca9a-ddf2-48ba-b689-f7eebdb25fd2.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " So it's such a crazy amount of change to see in one single lifetime, right? And during this time period, people are getting pushed around. At the beginning of that century, over 80 percent of that landmass was under Indigenous control. And by the end of the century less than two percent, only because of the reservation systems. And this is all just part of the story",
+            "Title": "Sean Sherman: Why aren't...",
+            "VideoId": "Vrui-OctNEk",
+            "Controls": "start=367"
+        },
+        {
+            "Text": " A quick bonus taboo for you, that we should not be working together, especially with three children -- and we are. And we had reservations about this on the front end. Everybody knows, you should absolutely not work with your spouse. In fact, when we first went out to raise money to start Babble,",
+            "Title": "Rufus Griscom and Alisa...",
+            "VideoId": "12OAr0lt4bk",
+            "Controls": "start=905"
+        },
+        {
+            "Text": " traditionally lived close to the sea they were a seafaring people they were agrarian people but because of the establishment of missions and the reservation system these people were fragmented into the mountains dislocated from their traditions and their histories and from one another and this",
+            "Title": "Encoding culture PIPE...",
+            "VideoId": "gKFjfpM7JB8",
+            "Controls": "start=245"
+        },
+        {
+            "Text": " where it said that the native vote was five more times powerful than off reservations because we are we are not able to vote and as as easy easily and conveniently as people off the reservation and so it's it's something that we are um we are educating our people with that",
+            "Title": "Continuing the Fight for...",
+            "VideoId": "WRzTjV0O1dA",
+            "Controls": "start=1005"
+        },
+        {
+            "Text": " with every passing generation. Most of the surplus land and many of the plots within reservation boundaries are now in the hands of white ranchers. Once again, the fat of the land goes to wasichu. A date I believe to be the most important in this slide show.",
+            "Title": "Aaron Huey: America's...",
+            "VideoId": "8tEuaj4h8dw",
+            "Controls": "start=412"
+        },
+        {
+            "Text": " Have you ever sat in a doctor's office for hours despite having an appointment at a specific time? Has a hotel turned down your reservation because it's full? Or have you been bumped off a flight that you paid for? These are all symptoms of overbooking,",
+            "Title": "Why do airlines sell too...",
+            "VideoId": "ZFNstNKgEDI",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " the tribe and the nation the reservation was a concentration camp it was a place to imprison the Native Society away from their ways of thinking from their way of living from the way that they centered themselves in their own world so how do",
+            "Title": "She Fears Her Tribe's...",
+            "VideoId": "cDpiLPP6pKA",
+            "Controls": "start=632"
+        },
+        {
+            "Text": " nearly free of charge. The company also extracts millions of liters of water from First Nation reservations, while they have no access to clean water at all. This is a fundraiser print that I used to raise money",
+            "Title": "A creative solution for...",
+            "VideoId": "Cvl2tHwuvzk",
+            "Controls": "start=283"
+        },
+        {
+            "Text": " As hunter-gatherers, they could not transition easily to an agricultural way of life on the reservation. The U.S. government had promised rations and supplies, but what they provided was wildly insufficient.",
+            "Title": "The last chief of the...",
+            "VideoId": "e0uyu9vdd2g",
+            "Controls": "start=211"
+        },
+        {
+            "Text": " of the navajo nation i am a medical doctor on the reservation there's a lot of things that bring me joy in life number one is my family the passion i have for my work as a doctor",
+            "Title": "Taking Landscape Photos...",
+            "VideoId": "upVY0qRE-t4",
+            "Controls": "start=21"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/benjamin-wittes.webp",
+            "Text": "For those who support same-sex marriage - and I support it without reservation - the ideal of equality and the belief in the dignity of same-sex relationships necessarily makes the issue seem a great deal like the civil-rights struggles of the past.",
+            "Title": "American Journalist",
+            "Name": "Benjamin Wittes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/britt-baker.webp",
+            "Text": "I'm absolutely scared and I absolutely have reservations, but sometimes you need to find that deep down in you to bring out the best performance of yourself, to bring out the best version of yourself, but yep I'm nervous and I'm scared.",
+            "Title": "American Wrestler",
+            "Name": "Britt Baker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katee-sackhoff.webp",
+            "Text": "I grew up in Oregon so I grew up around reservations, so I've always kind of had this knowledge. Not a tremendous amount of knowledge, but an outsider's knowledge of what reservation life was like.",
+            "Title": "American Actress",
+            "Name": "Katee Sackhoff"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andrew-jackson.webp",
+            "Text": "Any man worth his salt will stick up for what he believes right, but it takes a slightly better man to acknowledge instantly and without reservation that he is in error.",
+            "Title": "American President",
+            "Name": "Andrew Jackson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/n-scott-momaday.webp",
+            "Text": "I have a pretty good knowledge of the Indian world by virtue of living on several different reservations and being exposed to several different cultures and languages.",
+            "Title": "American Author",
+            "Name": "N. Scott Momaday"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/scarlett-johansson.webp",
+            "Text": "I mean, it's nice to get a dinner reservation ahead of other people, but when it comes down to it, the most important thing to me is the actual work.",
+            "Title": "American Actress",
+            "Name": "Scarlett Johansson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paul-rodgers.webp",
+            "Text": "I honestly have really deep reservations about releasing everything you ever did. Every time somebody farted in the studio, now it's out there.",
+            "Title": "English Musician",
+            "Name": "Paul Rodgers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robbie-robertson.webp",
+            "Text": "My mother was a Mohawk, born and raised on a reservation, and when I was a kid, she would take me there to visit her relatives.",
+            "Title": "Canadian Musician",
+            "Name": "Robbie Robertson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/winona-ryder.webp",
+            "Text": "As a teenager, I worked on Indian reservations, and it was such an incredible culture: the elders are so respected.",
+            "Title": "American Actress",
+            "Name": "Winona Ryder"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/colin-baker.webp",
+            "Text": "I never have reservations about doing anything as long as I'm being paid.",
+            "Title": "British Actor",
+            "Name": "Colin Baker"
+        }
+    ]
+}

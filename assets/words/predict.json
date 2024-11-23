@@ -1,0 +1,260 @@
+{
+    "currentWord": {
+        "wordRoot": "predict",
+        "id": 10150,
+        "phonemic": "prɪˈdɪkt|prɪˈdɪkt\r",
+        "bigId": "8a290aa8-a38f-4aed-b5a5-aaba4a406d2d",
+        "wordForms": [
+            "predicts",
+            "predicting",
+            "predicted",
+            "predictor",
+            "predictable",
+            "unpredictable",
+            "predictably",
+            "predict"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8a290aa8-a38f-4aed-b5a5-aaba4a406d2d",
+            "de": "To say what will happen in the future, often using reason or experience.",
+            "ty": "verb",
+            "ex": "The economist is predicting that the economy will improve next year.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "predict the future",
+                " predict the outcome",
+                " predict the weather"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8a290aa8-a38f-4aed-b5a5-aaba4a406d2d.webp",
+            "Tips": [
+                {
+                    "title": "Future Events",
+                    "description": "Use 'predict' when discussing events you believe will happen, based on information.",
+                    "example": "Meteorologists predict heavy rain for tomorrow.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/h2STtPbeffzfuC62WEtAmWv3ZY.webp"
+                },
+                {
+                    "title": "Reason or Experience",
+                    "description": "'Predict' often implies you have a reason or past experience for your expectation.",
+                    "example": "Based on trends, I predict a rise in sales next quarter.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/dNm13oZ3BNjQD5zFz6mFitmDAI.webp"
+                },
+                {
+                    "title": "Not Certainty",
+                    "description": "Saying 'predict' does not guarantee it will happen; there's always uncertainty.",
+                    "example": "I predict he'll win the race, but anything can happen.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/L1HjTYEiuHYbyYz9bOTTeo7iwRw.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f61900ac-2953-4fbf-8d2d-695f39ec07fc",
+            "de": "To indicate in advance, to prefigure or presage.",
+            "ty": "verb",
+            "ex": "His severe cough predicted a future health problem.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "predict a crisis",
+                " predict a problem",
+                " predict a risk"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f61900ac-2953-4fbf-8d2d-695f39ec07fc.webp",
+            "Tips": [
+                {
+                    "title": "Early Signs",
+                    "description": "Use 'predict' when you notice signs indicating that something is likely to occur.",
+                    "example": "Dark clouds predict a storm coming soon.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Predict Problems",
+                    "description": "It's common to use 'predict' to warn about negative outcomes or issues.",
+                    "example": "Expert predicts a shortage of water if usage isn't reduced.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Negative",
+                    "description": "Predicting isn't just for bad outcomes; it can suggest positive developments too.",
+                    "example": "Technological advances predict a future of efficient energy use.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Anticipate": {
+            "wordRoot": "Anticipate",
+            "wordDefinition": "Anticipate means to expect or prepare for something to happen, even if it isn't certain. For example, you might anticipate getting an A on a test because you studied hard.\n\nAnticipate is used more for things that are expected but not necessarily certain, while predict is used for things that can be determined with some level of accuracy based on data and knowledge.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/87dd4e90-d368-4d69-878d-45bb40f2d405.webp"
+        },
+        "Calculate": {
+            "wordRoot": "Calculate",
+            "wordDefinition": "Calculate refers to a process of performing mathematical operations to arrive at a specific numerical result.\n\nIt usually involves using formulas or equations to find an exact answer based on given data. For example, calculating the area of a rectangle or solving for the value of x in an algebraic equation are both examples of calculations.\n\nCalculate involves finding an exact or precise answer using given data and mathematical operations, while predict involves making an informed guess about what might happen in the future based on patterns or trends.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5256ba45-6628-4afc-a6c3-28c9b7b3e83c.webp"
+        },
+        "Forecast": {
+            "wordRoot": "Forecast",
+            "wordDefinition": "The words forecast and predict are often used interchangeably, but there is a slight difference in their meaning.\n\nForecast usually refers to a calculated estimation or projection of future events or conditions using data analysis and statistical models.\n\nIt is often used in weather forecasting, economic forecasting, and business forecasting.\n\nA forecast is a calculated estimation while a prediction is more of an assumption based on intuition. Both words can be used in various fields, but it depends on the context and the methods used to make the estimation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/92824039-ea75-434e-b8b1-e40edfa506d6.webp"
+        },
+        "Foretell": {
+            "wordRoot": "Foretell",
+            "wordDefinition": "The words foretell and predict both mean to say or estimate what will happen in the future.\n\nHowever, foretell often refers to a prediction made through supernatural or magical means, such as a fortune teller or prophet, while predict is a more general term for any type of forecast or estimation.\n\nPredict is applicable in many fields, such as science, economics, and sports, while foretell is more often used in literature or mythology.\n\nEssentially, both words mean to anticipate what will happen in the future, but foretell implies a mystical or supernatural element, while predict is a broader term used in various fields.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6456fdd4-c48c-49d0-9ea3-6bf6f0150632.webp"
+        },
+        "Presage": {
+            "wordRoot": "Presage",
+            "wordDefinition": "Presage means to have a feeling or intuition about a future event without any scientific or logical evidence to support it. It is based more on superstition, belief, or instinct.\n\nThus, predict is used in situations where one can use available information to anticipate an outcome, while presage is used in situations where one relies on vague feelings or signs to foretell an outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2a3de594-a07f-4a44-857c-fa6ce698a7ae.webp"
+        },
+        "Project": {
+            "wordRoot": "Project",
+            "wordDefinition": "Project means to use information that is currently available to plan or estimate a future outcome. It is based on a set of assumptions and may involve some degree of uncertainty.\n\nIn simpler terms, predicting is making an educated guess about something that will happen in the future by analyzing data, while projecting is using current information to plan or estimate a future outcome based on a set of assumptions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cd322bf1-b0e9-455c-82a7-69c901321344.webp"
+        },
+        "Prophesy": {
+            "wordRoot": "Prophesy",
+            "wordDefinition": "Prophesy refers to making predictions based on a supposed divine or supernatural source.\n\nSo, while both words refer to making predictions about the future, predict relies on logic and reasoning, while prophesy involves faith and belief in a higher power.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61392199-1a27-4c85-81bb-ba42e2a435bf.webp"
+        },
+        "Speculate": {
+            "wordRoot": "Speculate",
+            "wordDefinition": "Speculate, on the other hand, means to make a guess or assumption about something without any evidence or proof.\n\nIt is often used in less formal contexts such as speculating about who will win a game or speculating about the plot of a movie.\n\nPredict involves analyzing information to make a logical guess about the future while speculate involves making a guess without any substantial evidence or data.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/30c39061-93c7-4365-be56-40e27c81187e.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and suffer from higher accident rates, they would be less successful in a purely cooperative world, eventually disappearing from the population. So by correctly predicting the distribution of left-handed people in the general population, as well as matching data from various sports, the model indicates",
+            "Title": "Why are some people...",
+            "VideoId": "TGLYcYCm2FM",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " which can lead to death from lack of oxygen. So how do we prevent these uncomfortable and potentially fatal attacks in people who have asthma? One way is to reduce the presence of triggers. Unfortunately, the world is an unpredictable place and exposure to triggers can't always be controlled.",
+            "Title": "How does asthma work? -...",
+            "VideoId": "PzfLDi-sL3w",
+            "Controls": "start=172"
+        },
+        {
+            "Text": " that would be a task beyond hopeless. Instead, we would create an A.I. that uses its intelligence to learn what we value, and its motivation system is constructed in such a way that it is motivated to pursue our values or to perform actions that it predicts we would approve of.",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=835"
+        },
+        {
+            "Text": " looking at the effects of our body language, or other people's body language, on judgments. And we make sweeping judgments and inferences from body language. And those judgments can predict really meaningful life outcomes like who we hire or promote, who we ask out on a date.",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=135"
+        },
+        {
+            "Text": " and found that it predicted pregnancy with a respectable 70% accuracy, though it couldn't reliably tell the sex of the baby. Scientists hypothesized that the test worked because pregnant women's urine contains more estrogen, which can promote seed growth.",
+            "Title": "How do pregnancy tests...",
+            "VideoId": "aOfWTscU8YM",
+            "Controls": "start=30"
+        },
+        {
+            "Text": " ten to a hundred years every beloved animal character and every children's book is predicted to go extinct lions gone rhinos gone Tiger gorilla elephant polar bear gone in three seconds species that have been here longer than us will be gone because",
+            "Title": "His Epic Message Will...",
+            "VideoId": "B-nEYsyRlYo",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " species are now the number one threat to Australia's native wildlife they have already contributed to the extinction of more than a hundred indigenous species of flora and fauna it's hard to predict just how many feral pigs there are in",
+            "Title": "Nature's Oddest Looking...",
+            "VideoId": "GLPjP3hjhMM",
+            "Controls": "start=525"
+        },
+        {
+            "Text": " knowing both parents' blood types lets us predict the relative probability of their children's blood types. Why do blood types matter? For blood transfusions, finding the correct one is a matter of life and death.",
+            "Title": "Why do blood types...",
+            "VideoId": "xfZhb6lmxjk",
+            "Controls": "start=132"
+        },
+        {
+            "Text": " but about all possible outcomes down the line. And because the rank order is known in advance, each can accurately predict how the others would vote in any situation and adjust their own votes accordingly.",
+            "Title": "Can you solve the pirate...",
+            "VideoId": "Mc6VA7Q1vXQ",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " thank you the universe is predictably unpredictable take for example the",
+            "Title": "The quantum world and...",
+            "VideoId": "UPZQT9o8h9A",
+            "Controls": "start=7"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christian-bale.webp",
+            "Text": "I never want to turn something down because I'm afraid to do it, because of some idea of image or whatever. That was never anything I set out to do. In fact, the opposite, I always want to confuse people in terms of any kind of image and be unpredictable in any kind of movie I make.",
+            "Title": "Welsh Actor",
+            "Name": "Christian Bale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hillary-clinton.webp",
+            "Text": "I don't think about a legacy; I think about my life, because I've had quite an unpredictable life.",
+            "Title": "American Politician",
+            "Name": "Hillary Clinton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eleanor-roosevelt.webp",
+            "Text": "If life were predictable it would cease to be life, and be without flavor.",
+            "Title": "American First Lady",
+            "Name": "Eleanor Roosevelt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aaron-sorkin.webp",
+            "Text": "It's a combination of life being unpredictable, and you being super dumb.",
+            "Title": "American Screenwriter",
+            "Name": "Aaron Sorkin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fareed-zakaria.webp",
+            "Text": "I'd be kidding if I said that I predicted the financial collapse.",
+            "Title": "American Journalist",
+            "Name": "Fareed Zakaria"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "One can't predict the weather more than a few days in advance.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vivek-oberoi.webp",
+            "Text": "Like women, life is unpredictable and a huge risk.",
+            "Title": "Indian Actor",
+            "Name": "Vivek Oberoi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dwayne-johnson.webp",
+            "Text": "Life is anything but predictable.",
+            "Title": "American Actor",
+            "Name": "Dwayne Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grace-vanderwaal.webp",
+            "Text": "The world is unpredictable.",
+            "Title": "American Musician",
+            "Name": "Grace VanderWaal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/smriti-irani.webp",
+            "Text": "Life is so unpredictable.",
+            "Title": "Indian Politician",
+            "Name": "Smriti Irani"
+        }
+    ]
+}

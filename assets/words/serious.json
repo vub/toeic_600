@@ -1,0 +1,337 @@
+{
+    "currentWord": {
+        "wordRoot": "serious",
+        "id": 14257,
+        "phonemic": "ˈsɪəriəs|ˈsɪriəs\r",
+        "bigId": "de3dcc82-180d-4e72-aebe-f08345f1ad97",
+        "wordForms": [
+            "seriousness",
+            "seriously",
+            "serious"
+        ]
+    },
+    "senses": [
+        {
+            "id": "de3dcc82-180d-4e72-aebe-f08345f1ad97",
+            "de": "Important or severe in degree",
+            "ty": "adjective",
+            "ex": "She was admitted to hospital with serious injuries.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "serious problem",
+                " serious injuries",
+                " serious consequences"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/de3dcc82-180d-4e72-aebe-f08345f1ad97.webp",
+            "Tips": [
+                {
+                    "title": "Severity Indicator",
+                    "description": "Use 'serious' for situations that are potentially dangerous or require immediate attention.",
+                    "example": "After the accident, he was in a serious condition.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8w0cQSOsy7oVFEsXgwJ4TmZUw4.webp"
+                },
+                {
+                    "title": "Not Trivial",
+                    "description": "'Serious' suggests an issue is not to be taken lightly and may have significant outcomes.",
+                    "example": "Ignoring climate change can have serious implications.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/y7Busmindh26cdSRJc8H3OHs74.webp"
+                },
+                {
+                    "title": "Considerable Importance",
+                    "description": "About issues demanding careful consideration or considerable resources.",
+                    "example": "She has a serious decision to make about her career.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qWhsKsU48iSZWXnSCesk9q8Jk.webp"
+                }
+            ]
+        },
+        {
+            "id": "955f1ea2-7b49-4185-b62a-fac23c233e47",
+            "de": "Thinking or expressing oneself earnestly or in solemn way",
+            "ty": "adjective",
+            "ex": "He looked at me with a serious expression on his face.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "serious expression",
+                " serious tone",
+                " serious manner"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/955f1ea2-7b49-4185-b62a-fac23c233e47.webp",
+            "Tips": [
+                {
+                    "title": "Solemn Attitude",
+                    "description": "Use 'serious' when someone is not joking or is very focused on an issue.",
+                    "example": "He was serious during the negotiations.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Deep Thought",
+                    "description": "Use when someone is thoughtful or reflective, not superficial.",
+                    "example": "He gave a serious answer to a complicated question.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c7f8047e-8cd1-4bf1-b171-3b6875902b29",
+            "de": "Concerned or anxious",
+            "ty": "adjective",
+            "ex": "I am serious about my future.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "serious about",
+                " serious intention",
+                " serious commitment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c7f8047e-8cd1-4bf1-b171-3b6875902b29.webp",
+            "Tips": [
+                {
+                    "title": "Deep Concern",
+                    "description": "'Serious' in this context shows genuine personal concern or dedication to something.",
+                    "example": "She's serious about changing her lifestyle to be healthier.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sincere Intent",
+                    "description": "Shows that a person's feelings or actions are honest and true.",
+                    "example": "They are serious about making a difference in their community.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0966af90-f412-4125-872f-ec830f3b2d29",
+            "de": "Reflecting something potentially harmful",
+            "ty": "adjective",
+            "ex": "His condition has taken a serious turn.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "serious illness",
+                " serious condition",
+                " serious turn"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0966af90-f412-4125-872f-ec830f3b2d29.webp",
+            "Tips": [
+                {
+                    "title": "Negative Development",
+                    "description": "Describes a change for the worse in health or situation.",
+                    "example": "What started as a cough has become a serious respiratory issue.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6bc72b26-81e1-4714-88c3-b81fc55900d1",
+            "de": "Not being light or shallow",
+            "ty": "adjective",
+            "ex": "He's a serious student.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "serious student",
+                " serious scholar",
+                " serious reader"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6bc72b26-81e1-4714-88c3-b81fc55900d1.webp",
+            "Tips": [
+                {
+                    "title": "Committed Approach",
+                    "description": "Stresses the dedication or sincerity someone has for learning or their work.",
+                    "example": "She's a serious student, studying even on weekends.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Casual Interest",
+                    "description": "Indicates a deeper level of engagement or interest than usual.",
+                    "example": "He takes a serious interest in medieval history.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Earnest": {
+            "wordRoot": "Earnest",
+            "wordDefinition": "Earnest usually implies a strong and sincere intention or effort towards achieving a goal or purpose. For example, if someone is described as being earnest about their studies, it means that they are putting in a lot of effort and taking it seriously in order to achieve good grades.\n\nEarnest is more focused on effort and intention, while serious is more focused on importance and gravity. Both words can be used in many different situations, but their meanings can vary depending on the context.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3be3555-c785-43a5-9831-02fd36167ffc.webp"
+        },
+        "Grave": {
+            "wordRoot": "Grave",
+            "wordDefinition": "Grave usually refers to something very important or serious that can have negative consequences if not handled properly.\n\nFor example, a medical condition can be grave if it is life-threatening.\n\nGrave is used for situations that are more severe and have more potential negative consequences, while serious can be used for a wider range of situations that require attention or are not funny.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b5e98404-03d0-4e9a-ae73-fda87d2a449f.webp"
+        },
+        "Significant": {
+            "wordRoot": "Significant",
+            "wordDefinition": "Significant is used when something is meaningful or has a great impact. For example, a significant achievement or a significant contribution to society.\n\nThe main difference between serious and significant is that serious describes a negative situation, while significant describes a positive or impactful situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b39f198e-2003-4bdf-befd-191832e5bfe7.webp"
+        },
+        "Sincere": {
+            "wordRoot": "Sincere",
+            "wordDefinition": "Serious refers to something important and not to be taken lightly, while sincere refers to being truthful and genuine.\n\nA friend may offer sincere apologies when they have made a mistake, showing that they truly regret their actions.\n\nSerious is used when referring to situations or problems, while sincere is used when referring to emotions or intentions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1dbaaa8b-8bfa-4e16-b74c-c23d78afe598.webp"
+        },
+        "Sober": {
+            "wordRoot": "Sober",
+            "wordDefinition": "Sober usually refers to someone's state of mind or behavior. It means being clear-headed, calm, and not under the influence of drugs or alcohol.\n\nFor example, if you're driving, you need to be sober to make safe decisions on the road.\n\nBoth words can be applied in various situations, but serious typically refers to the importance of a situation or task, while sober refers to someone's behavior or state of mind.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ec73c361-5def-4e3e-8049-ae972c71ccda.webp"
+        },
+        "Solemn": {
+            "wordRoot": "Solemn",
+            "wordDefinition": "Both words refer to a serious or grave mood or tone, but serious can also mean important and significant, whereas solemn is more focused on a sense of respect or formality.\n\nIf someone were to say, \"we need to have a solemn moment of silence to honor the fallen soldiers,\" they are emphasizing a sense of respect and formality for the occasion.\n\nBoth words are applicable in situations that require a serious tone, but serious can also be used in situations that simply require importance, while solemn is more focused on the tone of respect and formality.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a5541fb4-02ff-4f39-a010-7c5dd83f1b69.webp"
+        },
+        "Thoughtful": {
+            "wordRoot": "Thoughtful",
+            "wordDefinition": "Thoughtful describes people who are reflective or considerate. For example, if you receive a thoughtful gift from someone, it means that they put a lot of time and effort into choosing something that they thought you would appreciate.\n\nSerious is used more to describe negative or difficult situations, while thoughtful is used more to describe positive or empathetic people.\n\nHowever, the two words are not always mutually exclusive and can sometimes be used together to describe a person who is both serious and thoughtful.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3724d8ea-5be2-41c0-8408-c0d0e2564e26.webp"
+        },
+        "Weighty": {
+            "wordRoot": "Weighty",
+            "wordDefinition": "Weighty also means important, but it specifically implies that something has a lot of significance or impact. For example, a weighty decision or a weighty responsibility.\n\nWeighty can also describe something that is physically heavy.\n\nBoth words can be used interchangeably at times, but weighty is often used to describe something that has a greater level of importance or impact.\n\nIf you're talking about something that is very significant or carries a lot of weight, you would use the word weighty. If you're talking about something that is important, but not necessarily as impactful or significant, you would use the word serious.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4c06f7d4-b5ab-4130-8d62-47ac7b2f01ec.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " The statement is short and direct, calling the child by name and addressing his role in her life. So how can you apply these lie-spotting techniques to your life? First, remember that many of the lies we encounter on a daily basis are far less serious that these examples, and may even be harmless.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=291"
+        },
+        {
+            "Text": " being taken seriously, and not being taken advantage of. In this lesson, we'll look at where power comes from, how it's exercised and what you can do to become more powerful in public life. Let's start with a basic definition. Power is the ability to make others do what you would have them do.",
+            "Title": "How to understand power...",
+            "VideoId": "c_Eutci7ack",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " But most kidney stones don't become this serious, or even require invasive treatment. Masses less than five millimeters in diameter will usually pass out of the body on their own. A doctor will often simply recommend drinking large amounts of water to help speed the process along,",
+            "Title": "What causes kidney...",
+            "VideoId": "W0GpIMNTPYg",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " There's something seriously weird going on that perhaps, perhaps this is life. And that just blew me away. It was so exciting. So you can see that really they look very like each other. So it was a robust result, two telescopes, nothing to do with each other, saw the same thing.",
+            "Title": "Are There Aliens on...",
+            "VideoId": "9fzhHiYDGhg",
+            "Controls": "start=267"
+        },
+        {
+            "Text": " They argue that it doesn't reveal anything because its premise is so unrealistic that study participants don't take it seriously. But new technology is making this kind of ethical analysis more important than ever. For example, driver-less cars may have to handle choices",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " serious chess trainings in the living room behind closed doors I very much wanted to go in to that room but it was forbidden for me as my parents told me you can enter once you learn how to play chess so obviously I was very motivated",
+            "Title": "Giving checkmate is...",
+            "VideoId": "z-ttu7dyBCU",
+            "Controls": "start=65"
+        },
+        {
+            "Text": " an ingredient that strengthens bones and lets us absorb vital minerals, like calcium, iron, magnesium, phosphate, and zinc. Without it, humans experience serious fatigue and weakened bones that can cause a condition known as rickets.",
+            "Title": "The science of skin...",
+            "VideoId": "_r4c2NT4naQ",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " It would spread throughout the world very, very quickly. And you can see over 30 million people died from that epidemic. So this is a serious problem. We should be concerned. But in fact, we can build a really good response system.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=289"
+        },
+        {
+            "Text": " competing for parental resources such as food care and affection being a little whiny can seriously improve your odds for survival whether you're born a baby or a puppy",
+            "Title": "Jealousy Bites PIPE Brain...",
+            "VideoId": "7tKZB2k14iY",
+            "Controls": "start=172"
+        },
+        {
+            "Text": " What is love? Seriously, though, what is it? What is love? A verb? A noun? A universal truth? An ideal?",
+            "Title": "What is love? - Brad...",
+            "VideoId": "5sY4rhvB9LE",
+            "Controls": "start=4"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bob-dylan.webp",
+            "Text": "You're going to die. You're going to be dead. It could be 20 years, it could be tomorrow, anytime. So am I. I mean, we're just going to be gone. The world's going to go on without us. All right now. You do your job in the face of that, and how seriously you take yourself you decide for yourself.",
+            "Title": "American Musician",
+            "Name": "Bob Dylan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-vincent-peale.webp",
+            "Text": "Drop the idea that you are Atlas carrying the world on your shoulders. The world would go on even without you. Don't take yourself so seriously.",
+            "Title": "American Clergyman",
+            "Name": "Norman Vincent Peale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patti-smith.webp",
+            "Text": "We never threw a record together. Each record was done really seriously, as if our life depended on it.",
+            "Title": "American Musician",
+            "Name": "Patti Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-einstein.webp",
+            "Text": "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.",
+            "Title": "German Physicist",
+            "Name": "Albert Einstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leo-buscaglia.webp",
+            "Text": "I am a teacher. And I think I am a serious one who happens to be enjoying life.",
+            "Title": "American Author",
+            "Name": "Leo Buscaglia"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elbert-hubbard.webp",
+            "Text": "Do not take life too seriously. You will never get out of it alive.",
+            "Title": "American Writer",
+            "Name": "Elbert Hubbard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kamala-harris.webp",
+            "Text": "I just think it's so important not to take yourself too seriously.",
+            "Title": "American Vice President",
+            "Name": "Kamala Harris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-wilde.webp",
+            "Text": "Life is far too important a thing ever to talk seriously about.",
+            "Title": "Irish Poet",
+            "Name": "Oscar Wilde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/will-rogers.webp",
+            "Text": "Do the best you can, and don't take life too serious.",
+            "Title": "American Actor",
+            "Name": "Will Rogers"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-j-orourke.webp",
+            "Text": "It's hard to be serious in life.",
+            "Title": "American Comedian",
+            "Name": "P. J. O'Rourke"
+        }
+    ]
+}

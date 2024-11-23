@@ -1,0 +1,86 @@
+{
+    "currentWord": {
+        "wordRoot": "lock into",
+        "id": 0,
+        "phonemic": "lɒk ˈɪntuː",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "8d387024-0d27-4883-a895-7f23289f5d32",
+            "de": "To commit firmly to something, making it difficult to change or reverse.",
+            "ty": "verb",
+            "ex": "We've locked into a five-year contract with our supplier.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "lock into a contract",
+                "lock into a commitment",
+                "lock into a course of action",
+                "be locked into a deal",
+                "get locked into something"
+            ],
+            "ImageSrc": "./senses/7ca94c4a-b2d8-413a-a033-701ee907ac1e.webp",
+            "Tips": [
+                {
+                    "title": "Commitments and Agreements",
+                    "description": "Use 'lock into' when discussing binding agreements or decisions that are hard to change.",
+                    "example": "They locked into a fixed-rate mortgage to avoid fluctuating interest rates.",
+                    "imageUrl": "./tips/52960957-b29e-4c1c-980f-5762badea5ae.webp"
+                },
+                {
+                    "title": "Fixed Plans or Strategies",
+                    "description": "Use it to describe adhering to a specific plan or strategy.",
+                    "example": "The team locked into their game plan and executed it flawlessly.",
+                    "imageUrl": "./tips/f5a7881b-8cc4-4d6b-a712-243f5348bef4.webp"
+                }
+            ]
+        },
+        {
+            "id": "e7b2f23a-c47d-495f-9c1e-4f25506835a4",
+            "de": "To become firmly fixed or established in a particular position or state.",
+            "ty": "verb",
+            "ex": "The gears locked into place.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "lock into place",
+                "lock into position",
+                "lock into a specific configuration"
+            ],
+            "ImageSrc": "./senses/051fb9fa-8df8-475c-bb49-e48dd4f61a85.webp",
+            "Tips": [
+                {
+                    "title": "Physical Mechanisms",
+                    "description": "Use 'lock into' to describe how parts of a mechanism fit securely together.",
+                    "example": "The safety latch locked into place, preventing accidental opening.",
+                    "imageUrl": "./tips/6a9a2b86-6c35-43c1-9298-df24cb1ff7ec.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "commit to": {
+            "wordRoot": "commit to",
+            "wordDefinition": "'Commit to' implies a voluntary pledge or promise, while 'lock into' emphasizes the binding nature and difficulty of changing the decision.",
+            "wordImage": ""
+        },
+        "fix on": {
+            "wordRoot": "fix on",
+            "wordDefinition": "'Fix on' suggests focusing attention or deciding upon something, whereas 'lock into' adds the element of being firmly committed and unable to easily change course.",
+            "wordImage": ""
+        },
+        "settle on": {
+            "wordRoot": "settle on",
+            "wordDefinition": "'Settle on' means to choose or decide upon something after consideration, while 'lock into' highlights the finality and fixed nature of the decision.",
+            "wordImage": ""
+        }
+    }
+}

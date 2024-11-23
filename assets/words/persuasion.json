@@ -1,0 +1,254 @@
+{
+    "currentWord": {
+        "wordRoot": "persuasion",
+        "id": 337,
+        "phonemic": "pəˈsweɪʒn|pərˈsweɪʒn\r",
+        "bigId": "fe47966e-96da-43c1-a4fb-52d5d7526e7e",
+        "wordForms": [
+            "persuasions",
+            "persuasion"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fe47966e-96da-43c1-a4fb-52d5d7526e7e",
+            "de": "The act or process of convincing someone to believe in something or do something",
+            "ty": "noun",
+            "ex": "The teacher used persuasion to get the students to do their homework.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "art of persuasion",
+                " skill of persuasion",
+                " techniques of persuasion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fe47966e-96da-43c1-a4fb-52d5d7526e7e.webp",
+            "Tips": [
+                {
+                    "title": "Active Engagement",
+                    "description": "Persuasion involves actively engaging with someone's thoughts and feelings to influence them.",
+                    "example": "Through active engagement, he used persuasion to encourage his friends to recycle.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Ye5xQxJZeSNoGHU0szHDBkUL7U.webp"
+                },
+                {
+                    "title": "Emotional Appeal",
+                    "description": "Persuasion often appeals to emotions rather than logic, to influence decisions.",
+                    "example": "Her speech used strong emotional appeals for persuasion, leaving the audience moved.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/p9ViE9zj71OwE0orbN7o7SA3U.webp"
+                },
+                {
+                    "title": "Subtle Techniques",
+                    "description": "Persuasive techniques can be subtle, like using specific words that have positive connotations.",
+                    "example": "Advertisers use subtle persuasion in their choice of words to attract customers.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bcyW2u5oexiaLRl6v1GStyhBXew.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "2ea8efa8-59db-4f7a-817d-ea5cdd8755c1",
+            "de": "A particular type of belief or way of thinking",
+            "ty": "noun",
+            "ex": "He is of the persuasion that global warming is a serious threat to our planet.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "political persuasion",
+                " religious persuasion",
+                " moral persuasion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2ea8efa8-59db-4f7a-817d-ea5cdd8755c1.webp",
+            "Tips": [
+                {
+                    "title": "Beyond Preference",
+                    "description": "Persuasion as a belief implies a deeper conviction than a mere preference or liking.",
+                    "example": "His vegan persuasion steps beyond preference, rooted in deep ethical beliefs.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Context",
+                    "description": "A person's persuasion can be influenced by cultural background, affecting their opinions and actions.",
+                    "example": "Due to her cultural persuasion, she places great importance on community and family.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Identifying Persuasion",
+                    "description": "When someone mentions their persuasion, they're often signaling a key aspect of their identity.",
+                    "example": "Introducing herself as 'of an environmental persuasion' signaled her commitment to sustainability.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Appeal": {
+            "wordRoot": "Appeal",
+            "wordDefinition": "Appeal refers to a desire or emotion that attracts or interests someone.\n\nIt is used to convince or attract someone based on their personal feelings. For example, a product may appeal to someone because of its design, features, or brand recognition.\n\nAppeal is about attracting someone's interest, while persuasion is about convincing them using reason and evidence.\n\nBoth are useful in different situations, and effective communication often involves a combination of both appeal and persuasion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/955e6ba3-1d10-4b21-aa6c-9760ad9e37d7.webp"
+        },
+        "Argument": {
+            "wordRoot": "Argument",
+            "wordDefinition": "An argument is a debate or disagreement between two or more people with different opinions or beliefs. It involves presenting and defending one's own point of view while refuting the opposing views.\n\nArgument is applicable in situations where there is a disagreement or conflict, while persuasion is applicable in situations where one wants to convince someone of something, such as in marketing, advertising, or political campaigns.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1928ea66-d516-465d-92fb-a8db5954ae0d.webp"
+        },
+        "Coercion": {
+            "wordRoot": "Coercion",
+            "wordDefinition": "Coercion refers to forcefully or physically making someone do something against their will, often through the use of threats, force or manipulation.\n\nIt implies that the person has no option but to comply with the demands of the person or entity applying coercion.\n\nCoercion is often illegal and is mostly applicable in negative situations, such as when someone is being threatened or intimidated into doing something they don't want to do.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e6ebd5da-5603-4165-85b8-1efb0210f529.webp"
+        },
+        "Conviction": {
+            "wordRoot": "Conviction",
+            "wordDefinition": "Conviction means a strong belief or opinion about something that is not likely to change. It implies that one has made up their mind and is sure of what they believe in.\n\nConviction is usually used in legal settings when someone is found guilty of a crime.\n\nConviction refers to a strong belief that one has, while persuasion refers to trying to convince someone else to adopt that belief or take a certain action.\n\nConviction is applicable when one is sure of themselves, while persuasion is applicable when trying to convince others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61e352c5-e98e-40b8-a18f-4cc350af3428.webp"
+        },
+        "Influence": {
+            "wordRoot": "Influence",
+            "wordDefinition": "Influence refers to the ability to have an impact on someone's decisions or behavior without directly convincing them to do something.\n\nFor example, a celebrity might have an influence on what music or fashion people choose to follow.\n\nInfluence is something that comes naturally or over time, while persuasion is a more deliberate or intentional effort to change someone's mind or behavior.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0d79f0c3-b806-4004-b5a8-ff1f1cbd4e6e.webp"
+        },
+        "Manipulate": {
+            "wordRoot": "Manipulate",
+            "wordDefinition": "Manipulation involves using deception, trickery or underhanded tactics to gain control over someone or something. It often involves taking advantage of someone's weaknesses or vulnerabilities to get them to do what you want.\n\nManipulation is generally considered unethical and can be harmful to the person being manipulated. Persuasion, however, can be a legitimate and effective way to communicate ideas, negotiate conflicts, and make positive changes in the world.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5ece2c88-8d0d-492a-ab73-44ee280e36e4.webp"
+        },
+        "Rhetoric": {
+            "wordRoot": "Rhetoric",
+            "wordDefinition": "Persuasion and rhetoric are related but have different meanings. Persuasion refers to the act of convincing someone to believe or do something.\n\nRhetoric is the use of language to persuade or influence an audience.\n\nRhetoric is often used in a more formal setting, like a speech or debate, to persuade or influence an audience. It involves the use of persuasive language and techniques like appeal to emotions or reason.\n\nRhetoric can also be used in writing, such as persuasive essays or advertising copy.\n\nTo sum up, persuasion is the act of convincing someone, while rhetoric is the use of persuasive language and techniques to influence an audience.\n\nBoth can be used in a variety of settings, but rhetoric is often used in formal speaking and writing contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c9f9c611-140b-49bf-b757-e7b57fdf551f.webp"
+        },
+        "Seduce": {
+            "wordRoot": "Seduce",
+            "wordDefinition": "Seduce means to try and lure someone into doing something they may not necessarily want to do through attraction, charm, manipulation or deceit.\n\nA manipulative individual may try to seduce someone into doing something they wouldn't ordinarily do, such as cheating on a test or committing a crime.\n\nPersuasion involves using logical or emotional appeals to convince someone to do something or believe in something, while seduction involves trying to manipulate or deceive someone into doing something for personal gain.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dec122c2-64e3-430d-b5ec-ab5337f89eab.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " in terms of one of the more conservative moral values, and just eight percent invoked a liberal moral value, even though they were supposed to be targeting liberals for persuasion. Now, you can see right away why we're in trouble here. Right? People's moral values, they're their most deeply held beliefs.",
+            "Title": "How to have better...",
+            "VideoId": "6V6p1tgHfm0",
+            "Controls": "start=337"
+        },
+        {
+            "Text": " Other methods may be more intense using techniques of coercive persuasion involving guilt, shame, and fear. And in many cases, members may willingly submit out of desire to belong and to attain the promised rewards. The cult environment discourages critical thinking,",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=262"
+        },
+        {
+            "Text": " on the park we're going to use this for a bit of a game okay so I'll try it behind my back and let's see how there are some interesting things when it comes to persuasion a lot of times persuasion or influence is the idea of controlling choices meaning most people",
+            "Title": "Apollo Robbins on...",
+            "VideoId": "dEXJYLrdd0M",
+            "Controls": "start=6"
+        },
+        {
+            "Text": " so that as the world gets better and more and more persuasive over time -- because it's only going to get more persuasive -- that the people in those control rooms are accountable and transparent to what we want. The only form of ethical persuasion that exists",
+            "Title": "How a handful of tech...",
+            "VideoId": "C74amJRp730",
+            "Controls": "start=450"
+        },
+        {
+            "Text": " just as the parents are about to sort of check out. Now, that's a persuasion architecture. It's not nice, but it kind of works. That's why you see it in every supermarket. Now, in the physical world, such persuasion architectures are kind of limited,",
+            "Title": "We're building a...",
+            "VideoId": "iFTWM7HV2UI",
+            "Controls": "start=174"
+        },
+        {
+            "Text": " Today, I'm going to talk about how to win an argument, at the Supreme Court or anywhere. The conventional wisdom is that you speak with confidence. That's how you persuade. I think that's wrong. I think confidence is the enemy of persuasion.",
+            "Title": "How to win an argument...",
+            "VideoId": "VmLMMNhxZMU",
+            "Controls": "start=70"
+        },
+        {
+            "Text": " but deciding which of them to use is a matter of knowing your audience and purpose, as well as the right place and time. And perhaps just as important is being able to notice when these same methods of persuasion are being used on you.",
+            "Title": "How to use rhetoric to...",
+            "VideoId": "3klMM9BkW5o",
+            "Controls": "start=232"
+        },
+        {
+            "Text": " disturbed to find your voice to stand firm in the persuasion that there are something is worth fighting for some things that are simply not for sale there in this audience but please know there are many out there in the world",
+            "Title": "Rediscovering ourselves...",
+            "VideoId": "1X2j1E4NuJM",
+            "Controls": "start=972"
+        },
+        {
+            "Text": " Imagine our politicians using dance to explain why we must invade a foreign country or bail out an investment bank. It's sure to help. Of course someday, in the deep future, a technology of persuasion",
+            "Title": "John Bohannon: Dance vs....",
+            "VideoId": "Qprd1VNNNec",
+            "Controls": "start=520"
+        },
+        {
+            "Text": " that can be avoided. The market will work to solve this problem -- if we can accomplish this. Help with the mass persuasion campaign that will start this spring.",
+            "Title": "Averting the climate...",
+            "VideoId": "rDiGYuQicpA",
+            "Controls": "start=875"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maria-konnikova.webp",
+            "Text": "Stories are one of the most powerful forces of persuasion available to us, especially stories that fit in with our view of what the world should be like. Facts can be contested. Stories are far trickier. I can dismiss someone's logic, but dismissing how I feel is harder.",
+            "Title": "American Writer",
+            "Name": "Maria Konnikova"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/martin-luther-king-iii.webp",
+            "Text": "Whether it is a tsunami, or whether it is a hurricane, whether it's an earthquake - when we see these great fatal and natural acts, men and women of every ethnic persuasion come together and they just want to help.",
+            "Title": "American Activist",
+            "Name": "Martin Luther King III"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-key.webp",
+            "Text": "Moral persuasion over a period of time makes a difference, but we shouldn't be naive to think that just because we raise it in a meeting it will make all those problems go away. It won't and it doesn't.",
+            "Title": "New Zealander Politician",
+            "Name": "John Key"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cris-carter.webp",
+            "Text": "There are positive steps being taken to tackle issues that people from all walks of life, races, ethnicities, and political persuasions agree have been devastating to communities of color.",
+            "Title": "American Athlete",
+            "Name": "Cris Carter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-david-thoreau.webp",
+            "Text": "Thaw with her gentle persuasion is more powerful than Thor with his hammer. The one melts, the other breaks into pieces.",
+            "Title": "American Author",
+            "Name": "Henry David Thoreau"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-carlyle.webp",
+            "Text": "Not brute force but only persuasion and faith are the kings of this world.",
+            "Title": "Scottish Philosopher",
+            "Name": "Thomas Carlyle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-skousen.webp",
+            "Text": "The triumph of persuasion over force is the sign of a civilized society.",
+            "Title": "American Economist",
+            "Name": "Mark Skousen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aristotle.webp",
+            "Text": "Character may almost be called the most effective means of persuasion.",
+            "Title": "Greek Philosopher",
+            "Name": "Aristotle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ben-affleck.webp",
+            "Text": "People of similar political persuasions tend to flock together.",
+            "Title": "American Actor",
+            "Name": "Ben Affleck"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-altucher.webp",
+            "Text": "Most people don't have the power of persuasion.",
+            "Title": "American Author",
+            "Name": "James Altucher"
+        }
+    ]
+}

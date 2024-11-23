@@ -1,0 +1,356 @@
+{
+    "currentWord": {
+        "wordRoot": "schedule",
+        "id": 14900,
+        "phonemic": "ˈʃedjuːl|ˈskedʒuːl\r",
+        "bigId": "d83185bc-c648-42d4-9464-9bdc1e310654",
+        "wordForms": [
+            "schedules",
+            "scheduling",
+            "scheduled",
+            "reschedule",
+            "schedule"
+        ]
+    },
+    "senses": [
+        {
+            "id": "d83185bc-c648-42d4-9464-9bdc1e310654",
+            "de": "A plan of things to be done and when they are to be done",
+            "ty": "noun",
+            "ex": "I have a busy schedule today.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "busy schedule",
+                " daily schedule",
+                " work schedule"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d83185bc-c648-42d4-9464-9bdc1e310654.webp",
+            "Tips": [
+                {
+                    "title": "Time Management",
+                    "description": "Used to describe detailed plans for time allocation.",
+                    "example": "I need to follow my study schedule strictly to cover all topics.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kP3zrPD9QcvlaGZCEFHdFON0o8.webp"
+                },
+                {
+                    "title": "Fixed Plans",
+                    "description": "Denotes activities with determined dates or times, not easily changed.",
+                    "example": "Our family vacation is on the schedule for July.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EslOCX8XuturhfJZZXbYbf20ClM.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ad1d5614-00d8-49db-9c33-a3e4b0685c28",
+            "de": "To arrange for something to happen at a particular time",
+            "ty": "verb",
+            "ex": "They scheduled a meeting for next week.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "schedule a meeting",
+                " schedule an appointment",
+                " schedule a visit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ad1d5614-00d8-49db-9c33-a3e4b0685c28.webp",
+            "Tips": [
+                {
+                    "title": "Future Action",
+                    "description": "Implies a planned future activity, often needing confirmation from others.",
+                    "example": "Can we schedule the job interview for Thursday?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Commitment Indicator",
+                    "description": "Suggests formal agreement about a future event between parties.",
+                    "example": "The manager scheduled a follow-up meeting with the client.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4a360c84-ff84-42ce-a40a-54a1158cde08",
+            "de": "A list showing when events are planned to happen, especially in a public place",
+            "do": "Academic",
+            "ty": "noun",
+            "ex": "The schedule for the conference is available online.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "conference schedule",
+                " event schedule",
+                " performance schedule"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4a360c84-ff84-42ce-a40a-54a1158cde08.webp",
+            "Tips": [
+                {
+                    "title": "Public Information",
+                    "description": "Refers to a timetable accessible to the public, like in events or transport.",
+                    "example": "You'll find the train schedule posted at the station.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sequence of Events",
+                    "description": "Implies a series of planned events, often arranged in order of occurrence.",
+                    "example": "The festival's schedule lists all the bands playing this weekend.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "23b5e242-77a5-461a-af35-b47db8b79626",
+            "de": "In legal terms, a list of matters to be heard in court",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The court schedule is posted every Monday.",
+            "use": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "court schedule",
+                " trial schedule",
+                " hearing schedule"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/23b5e242-77a5-461a-af35-b47db8b79626.webp",
+            "Tips": [
+                {
+                    "title": "Legal Document",
+                    "description": "A formal record in legal contexts, reflecting court activities.",
+                    "example": "According to the schedule, the hearing is at 10 am.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Court Procedures",
+                    "description": "Shows the order of cases a court will address on a given day or period.",
+                    "example": "The lawyer checked the court's schedule to prepare for his case.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "a1e11f93-5661-4bfd-861a-a786ad46c04a",
+            "de": "In computing, a sequence of tasks to be processed by a computer",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "You can alter the schedule in the task manager.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "task schedule",
+                " processing schedule",
+                " update schedule"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a1e11f93-5661-4bfd-861a-a786ad46c04a.webp",
+            "Tips": [
+                {
+                    "title": "Task Order",
+                    "description": "Indicates the sequence or timing for tasks that a computer will execute.",
+                    "example": "The server's maintenance schedule includes nightly backups.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "e1b0c5f1-6a8c-433b-a306-ff5a467b9f70",
+            "de": "To arrange for a task to be done automatically by a computer at a particular time",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "You can schedule a virus scan to run every week.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "schedule a scan",
+                " schedule an update",
+                " schedule a backup"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e1b0c5f1-6a8c-433b-a306-ff5a467b9f70.webp",
+            "Tips": [
+                {
+                    "title": "Automation",
+                    "description": "Refers to setting up computer tasks to occur without further human input.",
+                    "example": "We've scheduled the system to update automatically at midnight.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Agenda": {
+            "wordRoot": "Agenda",
+            "wordDefinition": "Agenda refers to a list of items or topics that need to be discussed or accomplished during a meeting, conference, or event.\n\nSchedule refers to a timeline of events or appointments that have been planned, with specific times and dates. It is a more structured plan than an agenda.\n\nAn agenda is a list of things that need to be talked about, while a schedule is a planned timeline of events. An agenda is applicable in meetings or personal planning, while a schedule is applicable in events or appointments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/45169f1a-fbcb-488e-b05d-04b752cf348c.webp"
+        },
+        "Calendar": {
+            "wordRoot": "Calendar",
+            "wordDefinition": "A calendar is a chart or list that shows the dates of a specific period, like a month, a year, or even years from the present to the future or past.\n\nA calendar is a general overview of dates and events, while a schedule is a detailed plan of specific tasks and times. Calendars are useful for keeping track of important dates and planning events, while schedules are useful for managing time and ensuring that tasks are completed in a timely manner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/991e8fc3-b747-4944-8183-5debcde662dc.webp"
+        },
+        "Itinerary": {
+            "wordRoot": "Itinerary",
+            "wordDefinition": "Itinerary generally refers to a planned route or journey, especially one that includes specific destinations or activities.\n\nIt is usually used when talking about travel plans or trips. For example, your itinerary for a trip to Europe might include stops in Paris, Amsterdam, and Berlin.\n\nItinerary refers to a planned route or journey, while schedule refers to a plan or timetable for when certain events will happen.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e7b9a8b2-916e-4f0e-b419-83adec948252.webp"
+        },
+        "Plan": {
+            "wordRoot": "Plan",
+            "wordDefinition": "A plan is a general idea or strategy about what you want to do or achieve. It's like a roadmap that guides you towards your goal. You can plan for a trip or a project.\n\nA schedule is a more detailed plan that includes specific dates, times, and tasks that need to be completed. It's like a timetable that outlines the steps you need to take to achieve your goal.\n\nA plan is the overall strategy, and a schedule is the specific timeline for executing that strategy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9400d7b7-c746-474a-9b35-7ea1c6436540.webp"
+        },
+        "Programme": {
+            "wordRoot": "Programme",
+            "wordDefinition": "A program is a written or spoken plan for an event, such as a concert or a meeting. It outlines the events or activities that are scheduled to take place.\n\nA program is more specific to an event, such as a graduation ceremony, and outlines what will happen at the event.\n\nA schedule is more general and organizes time, such as a TV schedule or a train schedule. Both words can be used interchangeably depending on the context, but generally, program is used for events and schedule is used for organizing time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/919d9ae3-dc1f-410e-bd00-e4fe082d4b0e.webp"
+        },
+        "Roster": {
+            "wordRoot": "Roster",
+            "wordDefinition": "A roster is a list of people or groups, while a schedule is a list of events or tasks.\n\nFor example, a roster might be used in a sports team to list the players' names and positions, while a schedule would list the dates and times of their games.\n\nIn a workplace, a roster would list the employees' names and their assigned shifts, while a schedule might outline deadlines or meetings.\n\nA roster is for organizing people, and a schedule is for organizing events or tasks.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14082716-7b9e-4fd6-b100-62d984b76dd7.webp"
+        },
+        "Timetable": {
+            "wordRoot": "Timetable",
+            "wordDefinition": "The words schedule and timetable both refer to a plan of activities or events, but there is a slight difference in their usage.\n\nTimetable typically refers to a more fixed plan of activities that are less likely to change, such as a bus timetable or a school timetable.\n\nTimetables usually have set times and dates that are not subject to change unless there is a major disruption.\n\nSchedule is more flexible and adaptable, while timetable is more fixed and reliable. Both words are used in various contexts, but knowing the subtle difference in their usage can help communicate more accurately.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53a01b90-0189-4f33-8635-13f89fda3d2c.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " from solving the famous traveling salesman problem, to scheduling computing tasks and optimizing Internet searches, to enabling groups of robots to search a minefield or a burning building collectively, without any central control. But you can observe these fascinatingly simple, yet effective, processes directly through some simple experiments,",
+            "Title": "Inside the ant colony -...",
+            "VideoId": "vG-QZOTc5_Q",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " capable of resolving structure on the scale of a black hole's event horizon. This network of telescopes is scheduled to take its very first picture of a black hole next year. Each telescope in the worldwide network works together. Linked through the precise timing of atomic clocks, teams of researchers at each of the sites freeze light",
+            "Title": "How to take a picture of...",
+            "VideoId": "BIvezCVcsYs",
+            "Controls": "start=286"
+        },
+        {
+            "Text": " brain to do what you want it to do we do have two very different ways of perceiving the world one more open and expansive and one more detail based and on a schedule and really for me everything has shifted away from being the scientist in the lab to being able to come in and help people understand we",
+            "Title": "The right brain vs. left...",
+            "VideoId": "PEzzZ__ccgQ",
+            "Controls": "start=227"
+        },
+        {
+            "Text": " for schedules, where whatever time you set, it's not going to be less than that. It's very rare that it'll be less than that. But as far as our predictions are concerned, what tends to happen in the media is that they will report all the wrong ones and ignore all the right ones.",
+            "Title": "Elon Musk: A future...",
+            "VideoId": "YRvf00NooN8",
+            "Controls": "start=1095"
+        },
+        {
+            "Text": " this is getting to a point where it's a little bit dodgy this male is paying attention to us and to us only and he's not stopping he's getting closer and closer look how close he is right there so we're gonna have to get ready to start the schedules and get out",
+            "Title": "Best Polar Bear Moments...",
+            "VideoId": "nFsdaYuIJCU",
+            "Controls": "start=261"
+        },
+        {
+            "Text": " explode but what about sex the forbidden core of a polyandry taboo in truth it's a matter of scheduling and on the wife's part Baris tolerance is very important the wife has to understand everything up submissive be a Cuby the older brothers nature if the",
+            "Title": "Multiple Husbands PIPE...",
+            "VideoId": "d4yjrDSvze0",
+            "Controls": "start=108"
+        },
+        {
+            "Text": " Their schedules are packed with exercise, two hours a day to fend off muscle atrophy, station maintenance and repair, and connecting with family or awe-inspired minds around the world. But they still find time for fun, with regular movie nights",
+            "Title": "The incredible...",
+            "VideoId": "bJ3oTTm_Pdo",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " I would get comfortable in that situation and I would slow my metabolism, which I was sure would help me hold my breath longer than I had been able to do it. I was completely wrong. I entered the sphere a week before the scheduled air date.",
+            "Title": "How I held my breath for...",
+            "VideoId": "XFnGhrC_3Gs",
+            "Controls": "start=589"
+        },
+        {
+            "Text": " including the control of your sleep-wake schedule. Many of us use an alarm to wake up but very few of us use a to-bed alarm, and that's something that can be helpful. The next tip is temperature. Keep it cool.",
+            "Title": "6 tips for better sleep...",
+            "VideoId": "t0kACis_dJE",
+            "Controls": "start=50"
+        },
+        {
+            "Text": " Is it just fundamentally hard to give away money effectively to make the world better? Or should the world's donors, and especially the world's really rich donors, start to almost commit to a schedule,",
+            "Title": "How the pandemic will...",
+            "VideoId": "jmQWOPDqxWA",
+            "Controls": "start=2204"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jake-hager.webp",
+            "Text": "Jumping into something new is always challenging with the schedule and the routine and when you can train, and fit that into your life that you already have right now.",
+            "Title": "American Wrestler",
+            "Name": "Jake Hager"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ivy-lee.webp",
+            "Text": "Don't worry if you don't complete everything on the schedule. At least you will have completed the most important projects before getting to the less important ones.",
+            "Title": "American Writer",
+            "Name": "Ivy Lee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-tillman-jr.webp",
+            "Text": "It's my responsibility to make the movie work with the schedule and money we have. It's my job to get the best movie we can do in the time we have.",
+            "Title": "American Producer",
+            "Name": "George Tillman, Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gauri-khan.webp",
+            "Text": "Although I have a busy work schedule, I make sure I spend time with my family and create a balance between my work and family life.",
+            "Title": "Indian Producer",
+            "Name": "Gauri Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/madonna-ciccone.webp",
+            "Text": "I live - I live a highly scheduled life. There's absolutely no time wasted. I'm very focused. And I have a great assistant.",
+            "Title": "American Musician",
+            "Name": "Madonna Ciccone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francis-ford-coppola.webp",
+            "Text": "I always found the film world unpleasant. It's all about the schedule, and never really flew for me.",
+            "Title": "American Director",
+            "Name": "Francis Ford Coppola"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anne-donovan.webp",
+            "Text": "Probably the biggest problem I had was I didn't understand the importance of scheduling.",
+            "Title": "American Coach",
+            "Name": "Anne Donovan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/future.webp",
+            "Text": "It takes compromise to raise a child, especially with a schedule like mine.",
+            "Title": "American Musician",
+            "Name": "Future"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kashmira-shah.webp",
+            "Text": "I can't live my life according to anyone else's schedule.",
+            "Title": "Indian Actress",
+            "Name": "Kashmira Shah"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/allison-tolman.webp",
+            "Text": "In theater, we know a scheduled season months in advance.",
+            "Title": "American Actress",
+            "Name": "Allison Tolman"
+        }
+    ]
+}

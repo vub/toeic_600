@@ -1,0 +1,327 @@
+{
+    "currentWord": {
+        "wordRoot": "manage",
+        "id": 1678,
+        "phonemic": "ˈmænɪdʒ|ˈmænɪdʒ\r",
+        "bigId": "8ad91e78-9546-410a-83ae-0d6f673c381b",
+        "wordForms": [
+            "manages",
+            "managing",
+            "managed",
+            "manager",
+            "managers",
+            "manage"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8ad91e78-9546-410a-83ae-0d6f673c381b",
+            "de": "To control or handle something, often a task or responsibility.",
+            "ty": "verb",
+            "ex": "She manages the whole office by herself.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "manage a project",
+                " manage a business",
+                " manage a team"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8ad91e78-9546-410a-83ae-0d6f673c381b.webp",
+            "Tips": [
+                {
+                    "title": "Leadership Context",
+                    "description": "Often used to describe someone's role in leading a team or project.",
+                    "example": "He manages the design team effectively.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1rIVDaZll44eSjL1GXu428nVJ5U.webp"
+                },
+                {
+                    "title": "Personal Responsibility",
+                    "description": "Implies taking on duties that require organization and oversight.",
+                    "example": "I manage my own workload.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/51Xre9V4109johVGzOyPgUMr8qA.webp"
+                }
+            ]
+        },
+        {
+            "id": "76609547-a20a-4c21-94f8-3b99d43b9d66",
+            "de": "To succeed at doing or dealing with something, usually against the odds.",
+            "ty": "verb",
+            "ex": "I managed to get everything done on time.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "managed to finish",
+                " managed to escape",
+                " managed to complete"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/76609547-a20a-4c21-94f8-3b99d43b9d66.webp",
+            "Tips": [
+                {
+                    "title": "Overcoming Difficulties",
+                    "description": "Emphasizes accomplishment despite challenges.",
+                    "example": "She managed to persuade them despite resistance.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Effort Required",
+                    "description": "Indicates effort was necessary to achieve the outcome.",
+                    "example": "He finally managed to solve the complex equation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d2b672f6-61ad-4b70-954a-25b104ef4545",
+            "de": "To make arrangements or decisions related to a job or situation.",
+            "ty": "verb",
+            "ex": "As a manager, he manages all the schedules of his employees.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "manage schedules",
+                " manage resources",
+                " manage decisions"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d2b672f6-61ad-4b70-954a-25b104ef4545.webp",
+            "Tips": [
+                {
+                    "title": "Organizational Skills",
+                    "description": "Highlights the importance of planning and structuring.",
+                    "example": "She manages our team's vacation schedule.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c5f3e89c-9c41-46dd-a638-a69a23c7a345",
+            "de": "To control the use of money or resources.",
+            "ty": "verb",
+            "ex": "He manages his finances very carefully to avoid going into debt.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "manage finances",
+                " manage resources",
+                " manage expenses"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c5f3e89c-9c41-46dd-a638-a69a23c7a345.webp",
+            "Tips": [
+                {
+                    "title": "Financial Prudence",
+                    "description": "Suggests careful and wise handling of finances.",
+                    "example": "They manage their budget to save for a house.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Resource Allocation",
+                    "description": "Refers to the distribution and usage of resources.",
+                    "example": "The event manager efficiently managed the supplies.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "cebb62d5-93f7-46e4-9ab6-c68c1168705a",
+            "de": "To train and control an animal.",
+            "ty": "verb",
+            "ex": "She manages her horse with great skill.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "manage a horse",
+                " manage a dog",
+                " manage a pet"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cebb62d5-93f7-46e4-9ab6-c68c1168705a.webp",
+            "Tips": [
+                {
+                    "title": "Animal Expertise",
+                    "description": "Conveys specialized skills in training animals.",
+                    "example": "The zookeeper manages the lions without fear.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Administer": {
+            "wordRoot": "Administer",
+            "wordDefinition": "Administer refers to giving or applying something, such as medicine or a test. It usually involves carrying out a task or procedure according to a specific set of rules or guidelines.\n\nTo provide a simple example, a nurse may administer medicine to a patient according to the doctor's orders. A hospital manager may manage a team of nurses and ensure that patients receive proper care.\n\nAdminister is more specific and task-oriented, while manage is more broad and focuses on overall coordination and leadership.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/285b86f3-4e96-40b5-8cc8-809789e2fb58.webp"
+        },
+        "Control": {
+            "wordRoot": "Control",
+            "wordDefinition": "Control refers to having power or authority over something, while manage means to handle or direct something effectively.\n\nFor example, a boss may control the employees in a company, meaning they have the power to hire, fire, or give orders. The boss may manage the employees, meaning they direct the employees' work and help them achieve their tasks effectively.\n\nControl is used when there is a need for authority, power, or restriction, while manage is used when there is a need for guidance, direction, and efficiency.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c2915bf5-2054-4b4d-8e53-a8b2ccbd1ff7.webp"
+        },
+        "Direct": {
+            "wordRoot": "Direct",
+            "wordDefinition": "Direct means to give instructions or guidance on what needs to be done, while manage means to oversee and be responsible for the execution of those instructions.\n\nFor example, a coach may direct a player on how to perform a specific skill, but it is the player's responsibility to manage their execution of that skill during a game.\n\nSimilarly, a boss may direct their employees on what tasks need to be completed, but it is the employees' responsibility to manage their time and resources to complete those tasks.\n\nDirect is applicable when giving instructions or guidance, while manage is applicable when overseeing and taking responsibility for the execution of those instructions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a8ea371-6aa0-47e7-96f6-08d121dfc9de.webp"
+        },
+        "Govern": {
+            "wordRoot": "Govern",
+            "wordDefinition": "Govern means to lead and control a group of people, like a government or a country. It involves making important decisions and enforcing laws to guide the actions of the people.\n\nIn simple words, govern is used when talking about leading and controlling a whole group, while manage is used when talking about handling and organizing a specific task or group of people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5b74ab36-1fdf-44e7-8ada-4b0dfc0b7e0a.webp"
+        },
+        "Handle": {
+            "wordRoot": "Handle",
+            "wordDefinition": "Both the words handle and manage are used to describe the act of dealing with a situation.\n\nHowever, handle is more commonly used when talking about physically dealing with something, such as a tool or object. For example, \"I can handle this heavy box\" or \"He has experience handling dangerous machinery.\".\n\nHandle is more specific to physical objects, while manage is more general and applied to a broader range of situations involving people or tasks.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/79a0a1a2-c7c2-48b9-ad43-d3d22008beeb.webp"
+        },
+        "Organize": {
+            "wordRoot": "Organize",
+            "wordDefinition": "Both manage and organize have similar meanings, but there is a difference between them.\n\nOrganize means to arrange or put things in order, to structure or systematize information, objects, events, or ideas.\n\nFor example, a student organizes their notes by subject or topic, uses highlighters or sticky notes to highlight important points, creates a study schedule, and makes sure they have all the necessary materials before a test.\n\nManage is applicable in situations where people and resources need to be directed to achieve a specific goal, while organize is applicable in situations where things need to be arranged or structured in a way that facilitates understanding and efficiency.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3903046-39b4-4ebe-802d-acb22458ee6f.webp"
+        },
+        "Regulate": {
+            "wordRoot": "Regulate",
+            "wordDefinition": "Both manage and regulate refer to controlling something, but in different ways.\n\nRegulate means to establish rules or guidelines that govern how something works. It involves monitoring and enforcing those rules to ensure that everyone follows them.\n\nFor example, the government might regulate the prices of goods or the quality of services provided by a certain industry.\n\nIn summary, managing is about taking control and making decisions, while regulating is about setting rules and enforcing them to ensure consistency and fair play.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/59c7a5b0-0994-4e8c-98b1-cfd8db50f991.webp"
+        },
+        "Supervise": {
+            "wordRoot": "Supervise",
+            "wordDefinition": "The words manage and supervise both involve being in charge of a group of people or a task, but there are some differences.\n\nSupervising is more about overseeing and directing the work of others. A supervisor makes sure that people are doing what they're supposed to be doing and that they're doing it correctly.\n\nIn general, managing is more focused on overall strategy and achieving long-term objectives, while supervising is more about day-to-day operations and making sure that things are moving forward according to plan.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4e14eaef-b0e7-4491-9adb-e39cf5afccfd.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Despite this, the disorder is controllable. Certain medications like lithium can help manage risky thoughts and behaviors by stabilizing moods. These mood stabilizing medications work by decreasing abnormal activity in the brain, thereby strengthening the viable neural connections. Other frequently used medications include antipsychotics,",
+            "Title": "What is bipolar...",
+            "VideoId": "RrWBhVlD1H8",
+            "Controls": "start=240"
+        },
+        {
+            "Text": " particularly for patients who've already had a heart attack and for those known to be at high risk. And drugs that help manage risk factors, like high blood pressure, cholesterol, and diabetes, will make heart attacks less likely, too. Heart attacks may be common, but they don't have to be inevitable.",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=244"
+        },
+        {
+            "Text": " perceived the person in the story as happier, more social, more generous and better-natured than those who had held the cup of iced coffee, who rated the person as cold, stoic, and unaffectionate. If a potential mate has managed to pass all these tests, there's still one",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=168"
+        },
+        {
+            "Text": " and room pi, where the guests expect free dessert. What self-respecting night manager would ever want to work there even for an infinite salary? But over at Hilbert's Infinite Hotel, where there's never any vacancy and always room for more,",
+            "Title": "The Infinite Hotel...",
+            "VideoId": "Uj3_KqkI9Zo",
+            "Controls": "start=308"
+        },
+        {
+            "Text": " look carefully can you see a deer or a hair much of this land is managed for shooting birds through a combination of cutting grazing and burning large parts of our national parks are agricultural lands supporting the people livelihoods and",
+            "Title": "UK National Parks in 100...",
+            "VideoId": "-zDNMgeeQrc",
+            "Controls": "start=81"
+        },
+        {
+            "Text": " To persuade females the come close and admire his plumes, he sings the most complex song he can manage and he does that by copying the songs of all the other birds he hears around him, such as the kookaburra.",
+            "Title": "Attenborough: the...",
+            "VideoId": "mSB71jNq-yQ",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " They knew that blindness would pose a significant challenge. I was not raised with fear. They put my freedom first before all else, because that is what love does. Now, moving forward, how do I manage today?",
+            "Title": "Daniel Kish: How I use...",
+            "VideoId": "uH0aihGWB8U",
+            "Controls": "start=165"
+        },
+        {
+            "Text": " admire his plumes he sings the most complex song he can manage and he does that by copying the songs of all the other birds he hears around him such as the kookaburra it's a very convincing impersonation",
+            "Title": "10 TOP Natural History...",
+            "VideoId": "FeJKJ5MoCHY",
+            "Controls": "start=614"
+        },
+        {
+            "Text": " possibly causing headache, vomiting, and, in rare instances, seizures or death. But that's a pretty extreme situation. On a normal, day-to-day basis, maintaining a well-hydrated system is easy to manage",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=179"
+        },
+        {
+            "Text": " i knew that this was not going to work for me i was a hard hard-charging taipei global executive and managing my diabetes was not going to be an option so i enlisted the help of the people at",
+            "Title": "The psychological weight...",
+            "VideoId": "DLYb3IgQ1Qk",
+            "Controls": "start=78"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/virgil-abloh.webp",
+            "Text": "DJing is my only peace of mind. When the phone is off, I play my favourite songs really loud for myself, and I'm not talking to anyone; I'm not managing anything. It's just, like, a time when I can listen to music.",
+            "Title": "American Designer",
+            "Name": "Virgil Abloh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-bach.webp",
+            "Text": "It is by not always thinking of yourself, if you can manage it, that you might somehow be happy. Until you make room in your life for someone as important to you as yourself, you will always be searching and lost.",
+            "Title": "American Novelist",
+            "Name": "Richard Bach"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-welch.webp",
+            "Text": "Strong managers who make tough decisions to cut jobs provide the only true job security in today's world. Weak managers are the problem. Weak managers destroy jobs.",
+            "Title": "American Businessman",
+            "Name": "Jack Welch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/donald-rumsfeld.webp",
+            "Text": "Leave the President's family business to him. You will have plenty to do without trying to manage the First Family. They are likely to do fine without your help.",
+            "Title": "American Politician",
+            "Name": "Donald Rumsfeld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ryan-reynolds.webp",
+            "Text": "We might be too proud to admit it as guys, but we still need to learn how to manage responsibility, how to face our challenges.",
+            "Title": "Canadian Actor",
+            "Name": "Ryan Reynolds"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ilkay-gundogan.webp",
+            "Text": "If you are a great manager you have to have a great personality.",
+            "Title": "German Athlete",
+            "Name": "Ilkay Gundogan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/s-truett-cathy.webp",
+            "Text": "If a man can't manage his own life, he can't manage a business.",
+            "Title": "American Businessman",
+            "Name": "S. Truett Cathy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/toby-alderweireld.webp",
+            "Text": "I have been very lucky to get the managers in the world.",
+            "Title": "Belgian Athlete",
+            "Name": "Toby Alderweireld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pep-guardiola.webp",
+            "Text": "All the managers in the world are here to win games.",
+            "Title": "Spanish Coach",
+            "Name": "Pep Guardiola"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patrick-bamford.webp",
+            "Text": "It's important to feel wanted by your manager.",
+            "Title": "English Athlete",
+            "Name": "Patrick Bamford"
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "currentWord": {
+        "wordRoot": "option",
+        "id": 1997,
+        "phonemic": "ˈɒpʃn|ˈɑːpʃn\r",
+        "bigId": "a68a8577-4682-4fa2-9440-dbbb89efadc6",
+        "wordForms": [
+            "options",
+            "optioned",
+            "optional",
+            "option"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a68a8577-4682-4fa2-9440-dbbb89efadc6",
+            "de": "A choice or possibilities from which you can choose.",
+            "ty": "noun",
+            "ex": "We have a few options for dinner tonight: pizza, tacos, or spaghetti.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "explore your options",
+                " weigh your options",
+                " viable option"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a68a8577-4682-4fa2-9440-dbbb89efadc6.webp",
+            "Tips": [
+                {
+                    "title": "Weighing Choices",
+                    "description": "Consider different aspects or consequences before making a decision between options.",
+                    "example": "Take your time to weigh your options for college.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Oa3sP1ZMvda0sJ5e5SUnu8rLk.webp"
+                },
+                {
+                    "title": "Not Permanent",
+                    "description": "An option implies flexibility; it is not a final or fixed choice.",
+                    "example": "Choosing a major isn't final; you have the option to change it later.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kp67bn4ci3MstFiYFxgu44fw.webp"
+                }
+            ]
+        },
+        {
+            "id": "fd9136a3-b2d3-48dd-8d23-abce14c07535",
+            "de": "In business world, it is a contract giving the holder the right to buy or sell a stock at a specified price within a certain time period.",
+            "do": "Business, Finance",
+            "ty": "noun",
+            "ex": "He bought an option to purchase 500 shares of the company's stock.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stock option",
+                " put option",
+                " call option"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fd9136a3-b2d3-48dd-8d23-abce14c07535.webp",
+            "Tips": [
+                {
+                    "title": "Financial Decisions",
+                    "description": "Options in finance come with a potential risk or gain, requiring careful assessment.",
+                    "example": "He exercised his stock options when the market price was high.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Time Sensitive",
+                    "description": "Financial options have an expiration date by which you must decide to use them or lose them.",
+                    "example": "Her put options expire next month, so she needs to act soon.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "69bf7d31-4fb1-4f99-97f1-5af52a9cd837",
+            "de": "In sports, it is a play in which the player with the ball can either run with it or pass it.",
+            "do": "Sports",
+            "ty": "noun",
+            "ex": "The quarterback decided to keep the ball and run it himself instead of using the option play.",
+            "use": "",
+            "co": "Colloquial",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "run option",
+                " pass option",
+                " option play"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/69bf7d31-4fb1-4f99-97f1-5af52a9cd837.webp",
+            "Tips": [
+                {
+                    "title": "Tactical Flexibility",
+                    "description": "In sports, an 'option' play provides the player with immediate choices based on the opposing team's actions.",
+                    "example": "The team often uses the run option to surprise their opponents.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Game Context",
+                    "description": "The success of a sports 'option' often depends on the specific context and dynamics of the game.",
+                    "example": "Facing a strong defense, he went for the pass option.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "43c47ec8-9fb0-4983-b763-35a2e8d3cab6",
+            "de": "In computing, it is a choice you can select on a digital screen or program.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Click on the 'File' menu at the top of the screen and select the 'Save' option.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "save option",
+                " edit option",
+                " print option"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/43c47ec8-9fb0-4983-b763-35a2e8d3cab6.webp",
+            "Tips": [
+                {
+                    "title": "Digital Choices",
+                    "description": "Computing options are often found in menus or settings and selecting one can change how a program operates.",
+                    "example": "She selected the 'color inversion' option to ease her reading experience.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "User Control",
+                    "description": "Options in computing empower users by letting them customize their experience according to their preferences.",
+                    "example": "He turned off the 'autosave' option to manually control when his document is saved.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Alternative": {
+            "wordRoot": "Alternative",
+            "wordDefinition": "Alternative refers to one of the many options offered. It's another way to describe a choice that is different from the norm.\n\nFor example, someone might choose to pursue an alternative therapy treatment instead of undergoing traditional medical treatment.\n\nIn simpler terms, option is the set of choices given while alternative is one of the choices offered.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4adeb547-174d-4685-802c-b236c6e13e06.webp"
+        },
+        "Choice": {
+            "wordRoot": "Choice",
+            "wordDefinition": "The words choice and option both refer to the act of selecting between two or more things.\n\nHowever, choice usually implies a decision that involves personal preference or free will, while option suggests an available alternative without the connotation of personal preference.\n\nFor example, if someone asked you what you wanted to eat for dinner, and you answered \"I have no choice but to eat broccoli,\" the word choice implies that you don't want to eat broccoli but feel you have to.\n\nIf you instead answered \"My options are broccoli or salad,\" the word option implies that you are only considering those two specific choices, but may not necessarily have a preference between them.\n\nChoice is used when there is a personal preference involved, while option describes the available choices without the pressure of personal preference.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b6e9db84-48c5-41ff-a359-6ad738def0a4.webp"
+        },
+        "Decision": {
+            "wordRoot": "Decision",
+            "wordDefinition": "A decision is a choice that has been made after considering different options. An option is one of the choices available to make a decision.\n\nIn other words, a decision is the final choice that has been made, whereas an option is one of the alternatives that was considered before making the final decision.\n\nFor example, if you were trying to decide what to have for dinner, your options might include pizza, pasta, or salad. Once you choose pizza, that is your decision.\n\nIn summary, options are the alternatives you have when making a decision, and decisions are the final choices that have been made.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3446f6a-049b-422a-90a6-184f63febb98.webp"
+        },
+        "Election": {
+            "wordRoot": "Election",
+            "wordDefinition": "Election refers to the process of choosing something or someone, often through voting.\n\nElection is used when there is a formal decision that needs to be made, often involving a group of people or a larger society.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6875d73a-b728-4729-97a5-12cf02d53bec.webp"
+        },
+        "Opportunity": {
+            "wordRoot": "Opportunity",
+            "wordDefinition": "Opportunity means a chance or possibility to do something, especially something that you want to do. It often refers to a favorable or advantageous situation that presents itself.\n\nThe main difference between these words is that opportunity refers to a chance or possibility, while the option refers to a choice or alternative.\n\nFor example, if you were offered a job, it would be an opportunity because it presents a possibility for you to work in a new position.\n\nOpportunity refers to a favorable circumstance, while an option is a range of choices available.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dcdf2c05-6da8-4b80-81e0-3d2d5d662380.webp"
+        },
+        "Possibility": {
+            "wordRoot": "Possibility",
+            "wordDefinition": "Option refers to a choice we make from a set of alternatives or possibilities that are available to us. It means we have the power to decide which alternative we want to choose.\n\nPossibility refers to a situation or circumstance that has the potential to happen or exist. It means that there is a chance or likelihood that something may happen or come into being.\n\nIf you are thinking about becoming a doctor, it is a possibility for you if you have the necessary qualifications and you work hard towards achieving your goal.\n\nSo, options are the choices we make, and possibilities are the chances or opportunities that exist for us.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/243ee6c9-e99a-4bef-b1fd-bc0a2a03073b.webp"
+        },
+        "Preference": {
+            "wordRoot": "Preference",
+            "wordDefinition": "Option refers to a choice that is available to someone, while preference refers to someone's favorite or most desired choice.\n\nFor example, if you go to a restaurant and the server asks if you want soup or salad, those are your options. If you choose salad, then salad is your preference.\n\nOptions are applicable when there are multiple choices available and you need to make a decision. Preferences are applicable when you have a specific favorite or desire.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9bb7795-be23-400e-a11e-a15a9b219e7b.webp"
+        },
+        "Selection": {
+            "wordRoot": "Selection",
+            "wordDefinition": "Option refers to the range of choices available to someone, while the word selection is the actual choice made from those available options.\n\nThese are all \"options.\" Once you decide what you want to eat - say, the chicken - that becomes your \"selection.\"\n\nOption refers to the possibilities available, while selection describes the specific choice made from those possibilities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4fd223c6-2ed5-4c8d-a224-864d98f4c3e9.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " If the answer is yes, you'd be choosing an option that sharply decreases your net pleasure. Perhaps, then, you believe that there are things in life with greater intrinsic value than pleasure. Truth, knowledge, authentic connection with other human beings. These are all things that might make the list.",
+            "Title": "Would you opt for a life...",
+            "VideoId": "XNP1x11Z2Ig",
+            "Controls": "start=167"
+        },
+        {
+            "Text": " Other promising treatments, like transcranial magnetic stimulation, are being investigated, too. So, if you know someone struggling with depression, encourage them, gently, to seek out some of these options. You might even offer to help with specific tasks, like looking up therapists in the area,",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=173"
+        },
+        {
+            "Text": " If you're trying to decide on a diet to improve your nutrition, you may ask an expert for their advice, or seek other people's testimonies. Information gathering helps you weigh different options, moving you closer to a decision that meets your goal. apply the information,",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " When baby mammals are hand-reared, you have to do everything that mum does, and that includes encouraging them to wee and poop. In the wild, they can't do this on their own, so mum helps by licking their behind. Tapping Ling Hwa's back end is the next best option",
+            "Title": "Raising an Abandoned...",
+            "VideoId": "BGlCdSP2I3A",
+            "Controls": "start=66"
+        },
+        {
+            "Text": " And in many of our own life decisions, we use information gained from past experience and our surroundings to narrow down our choices to the best options so that maybe next time, we can avoid eating that poisonous mushroom in the first place.",
+            "Title": "Can you solve the frog...",
+            "VideoId": "cpwSGsb-rTs",
+            "Controls": "start=238"
+        },
+        {
+            "Text": " for me i was a hard hard-charging taipei global executive and managing my diabetes was not going to be an option so i enlisted the help of the people at canyon ranch in the medical department there who i knew were a little bit more ambitious",
+            "Title": "The psychological weight...",
+            "VideoId": "DLYb3IgQ1Qk",
+            "Controls": "start=80"
+        },
+        {
+            "Text": " Now, today, breeders have even more options to choose from. Some of them are extraordinarily precise. I want to give you a couple examples from my own work. I work on rice, which is a staple food for more than half the world's people.",
+            "Title": "Pamela Ronald: The case...",
+            "VideoId": "wZ2TF8-PGQ4",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " that might help with the space issue? In some countries, skyscraper cemeteries enable vertical burials. Some options focus on the body's relationship with the environment. Promession, for example, freeze-dries and pulverizes the body,",
+            "Title": "What happens to our...",
+            "VideoId": "mRsa2wb0aTs",
+            "Controls": "start=199"
+        },
+        {
+            "Text": " can help dissolve the stones by creating a less acidic urine. For medium-sized stones up to about ten millimeters, one option is pulverizing them with soundwaves. Extracorporeal shock wave lithotripsy uses high-intensity pulses",
+            "Title": "What causes kidney...",
+            "VideoId": "W0GpIMNTPYg",
+            "Controls": "start=174"
+        },
+        {
+            "Text": " uh-oh the centipede moves in for the moment of truth the iguana considers its options and in a defensive response leaps into the safety of the water below",
+            "Title": "Giant Centipede PIPE...",
+            "VideoId": "TzF0GKfOvRY",
+            "Controls": "start=107"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/deepak-chopra.webp",
+            "Text": "Our most important task is to transform our consciousness so that violence is no longer an option for us in our personal lives, that understanding that a world of peace is possible only if we relate to each other as peaceful beings, one individual at a time.",
+            "Title": "American Speaker",
+            "Name": "Deepak Chopra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jos-verstappen.webp",
+            "Text": "Of course, health is the most important thing, but shutting down the entire economy for months is also not an option. Everyone should use their common sense.",
+            "Title": "Dutch Driver",
+            "Name": "Jos Verstappen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/freya-ridings.webp",
+            "Text": "Being signed to a major label was never an option because I knew having the time to find out who you are without pressure from other people is so important.",
+            "Title": "English Musician",
+            "Name": "Freya Ridings"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/esperanza-spalding.webp",
+            "Text": "I grew up with an incredibly loving and supportive family that gave me the impression there were a lot of options for me out there.",
+            "Title": "American Musician",
+            "Name": "Esperanza Spalding"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "Even if you're happy with the life you've chosen, you're still curious about the other options.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/angela-merkel.webp",
+            "Text": "For me, it is always important that I go through all the possible options for a decision.",
+            "Title": "German Statesman",
+            "Name": "Angela Merkel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yahoo-serious.webp",
+            "Text": "It's an infinite creative universe to explore so why chase conservative options?",
+            "Title": "Australian Director",
+            "Name": "Yahoo Serious"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patrick-mouratoglou.webp",
+            "Text": "We must have options to make tennis more attractive emotions-wise.",
+            "Title": "French Coach",
+            "Name": "Patrick Mouratoglou"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frans-timmermans.webp",
+            "Text": "Respect for the rule of law is not optional; it's fundamental.",
+            "Title": "Dutch Politician",
+            "Name": "Frans Timmermans"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dani-alves.webp",
+            "Text": "In life, we should explore options outside our comfort zone.",
+            "Title": "Brazilian Athlete",
+            "Name": "Dani Alves"
+        }
+    ]
+}

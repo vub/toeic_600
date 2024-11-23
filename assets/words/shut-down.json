@@ -1,0 +1,46 @@
+{
+    "currentWord": {
+        "wordRoot": "shut down",
+        "id": 1,
+        "phonemic": "ʃʌt daʊn",
+        "bigId": "",
+        "wordForms": [
+            "shut down"
+        ]
+    },
+    "senses": [
+        {
+            "id": "UUID-2",
+            "de": "To cease operations or stop functioning, especially in a business or machine context.",
+            "ty": "verb phrase",
+            "ex": "The company had to shut down temporarily due to maintenance issues.",
+            "use": "Used to indicate stopping or halting an activity, often temporarily or due to external factors.",
+            "sy": "close down, cease operation",
+            "op": "start up",
+            "re": "related to stopping processes or services",
+            "tp": "common in business and technical contexts",
+            "cl": [
+                "completely shut down",
+                "permanently shut down",
+                "shut down for maintenance",
+                "shut down by authority"
+            ],
+            "ImageSrc": "./senses/a017a704-066e-406c-afa4-3ea54c842b78.webp",
+            "Tips": [
+                {
+                    "title": "Business context",
+                    "description": "Used commonly in the context of businesses ceasing operations.",
+                    "example": "The restaurant decided to shut down due to high overhead costs.",
+                    "imageUrl": "./tips/285c080e-cbaf-4787-b6a6-1a17fdd835c1.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Elementary": {
+            "wordRoot": "close down",
+            "wordDefinition": "Close down can also mean to stop operations but is used more frequently with businesses that are shutting permanently.",
+            "wordImage": ""
+        }
+    }
+}

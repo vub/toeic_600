@@ -1,0 +1,293 @@
+{
+    "currentWord": {
+        "wordRoot": "promise",
+        "id": 22710,
+        "phonemic": "ˈprɒmɪs|ˈprɑːmɪs\r",
+        "bigId": "31b7898b-f8d5-4a93-a88c-cf025210f771",
+        "wordForms": [
+            "promises",
+            "promising",
+            "promised",
+            "promise"
+        ]
+    },
+    "senses": [
+        {
+            "id": "31b7898b-f8d5-4a93-a88c-cf025210f771",
+            "de": "A statement telling someone that you will pefinitedefinitely do something or something will happen",
+            "ty": "noun",
+            "ex": "He made a promise to take her for a picnic.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make a promise",
+                " keep a promise",
+                " break a promise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/31b7898b-f8d5-4a93-a88c-cf025210f771.webp",
+            "Tips": [
+                {
+                    "title": "Commitment Weight",
+                    "description": "Using 'promise' as a noun shows a strong commitment that shouldn't be taken lightly.",
+                    "example": "His promise to change was met with skepticism.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ywQ7ygT6A7HQEBq4azy5xHivQ.webp"
+                },
+                {
+                    "title": "Emotional Impact",
+                    "description": "A broken promise can lead to disappointment and can affect trust in relationships.",
+                    "example": "The broken promise hurt more than the mistake itself.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZjcAa8ljO9JDJ8lPCEB0ZAU9XU.webp"
+                },
+                {
+                    "title": "Positive Reinforcement",
+                    "description": "Keeping a promise can build credibility and reinforce positive behavior in social interactions.",
+                    "example": "She kept her promise, which made her friends trust her more.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GVPSp2Eh4Ld2rDky2RTrMF8Y9I.webp"
+                }
+            ]
+        },
+        {
+            "id": "a60085fc-27b3-4ab9-91b6-d7baabf8aa6f",
+            "de": "To tell someone that you will definitely do something or something will happen",
+            "ty": "verb",
+            "ex": "She promised to call me tonight.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "promise to do something",
+                " promise someone something",
+                " promise that"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a60085fc-27b3-4ab9-91b6-d7baabf8aa6f.webp",
+            "Tips": [
+                {
+                    "title": "Intent Indication",
+                    "description": "Using 'promise' as a verb indicates intentions for future actions and responsibilities.",
+                    "example": "She promised to look after her little brother.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conditional Promises",
+                    "description": "'Promise' is often used in conditions or when seeking a favor in return.",
+                    "example": "I'll promise to help if you promise to be patient.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Future Assurance",
+                    "description": "Promising involves assuring someone about a future event which is under your control.",
+                    "example": "He promised that the work would be done on time.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5d18fb37-36fe-4727-8981-b0d5bd7c5b27",
+            "de": "An indication that something is likely to happen",
+            "ty": "noun",
+            "ex": "The forecast holds the promise of sunshine for the weekend.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hold promise",
+                " show promise",
+                " has promise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5d18fb37-36fe-4727-8981-b0d5bd7c5b27.webp",
+            "Tips": [
+                {
+                    "title": "Future Potential",
+                    "description": "As a noun, 'promise' can refer to someone or something showing potential for success.",
+                    "example": "The young athlete showed great promise.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Less Binding",
+                    "description": "This form of 'promise' suggests potential but doesn't guarantee it like a vow.",
+                    "example": "The research holds promise, but further testing is needed.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Indicative of Growth",
+                    "description": "Often used to describe the early signs of talent, skill, or opportunity.",
+                    "example": "Her first novel has much promise.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Assurance": {
+            "wordRoot": "Assurance",
+            "wordDefinition": "Assurance refers to something that gives you confidence and makes you feel sure about something. For example, a teacher can give assurance to their students that they will do everything possible to help them do well in their exams.\n\nAssurance gives you confidence and promises are commitments made by one person to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/55dcc5c3-3594-4f04-a8f8-4f3e0d28e902.webp"
+        },
+        "Commitment": {
+            "wordRoot": "Commitment",
+            "wordDefinition": "Commitment means a promise or obligation to do something, usually for a long period of time or as part of a larger goal.\n\nFor example, a commitment to a sports team means you will show up to practices and games regularly and work hard to improve your skills.\n\nBoth commitment and promise involve making a pledge to do something, but commitment usually involves a longer-term or ongoing obligation, while a promise is often a more specific and immediate commitment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f647871-5fd1-40e5-830c-b930c2d65a92.webp"
+        },
+        "Declaration": {
+            "wordRoot": "Declaration",
+            "wordDefinition": "A declaration is a formal statement or announcement that expresses an opinion, fact or intention.\n\nA declaration is a statement that informs others of something while a promise is a commitment to take action in the future.\n\nDeclarations are usually more formal and are made in official settings like a government or business. Promises are more personal and are made between individuals or groups.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/acbd5d7a-f6ba-4c18-b7d5-e90cd3ead8d8.webp"
+        },
+        "Guarantee": {
+            "wordRoot": "Guarantee",
+            "wordDefinition": "Both guarantee and promise are words that imply an assurance of something.\n\nA guarantee is a formal assurance made by a person or company that something will be done or provided, and if it isn't, there will be a consequence or compensation.\n\nThis means that when someone guarantees something, they are legally bound to fulfill it. Guarantees are often associated with products or services, and they usually come with a written agreement.\n\nIn a nutshell, a guarantee is a stronger and more formal commitment than a promise. Guarantees are applicable in situations where people want proof of assurance in contracts, agreements, or services, while promises are better suited for informal agreements or personal relationships.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/209881b5-3f93-4f7c-9c87-79d08c400702.webp"
+        },
+        "Oath": {
+            "wordRoot": "Oath",
+            "wordDefinition": "An oath is a solemn declaration made under the authority of the law.\n\nOaths are often made on religious texts or other sacred objects, and breaking an oath can result in legal consequences.\n\nAn oath is a more formal and often legally binding commitment made under the authority of the law, while a promise is a more informal commitment made between individuals based on mutual trust and respect.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aa28a990-405b-4997-914b-89958f20748b.webp"
+        },
+        "Pledge": {
+            "wordRoot": "Pledge",
+            "wordDefinition": "Pledge means making a formal commitment to do something or to follow a course of action.\n\nA pledge is usually made in writing and is binding.\n\nFor example, taking a pledge to be loyal to a country or a nation.\n\nA pledge is a more formal and serious commitment than a promise. It's applicable when we are making a long-term or formal commitment, such as in business or politics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ddd6100c-c831-4593-abbd-8cb6ef833728.webp"
+        },
+        "Vow": {
+            "wordRoot": "Vow",
+            "wordDefinition": "Both promise and vow mean to give someone your solemn word that you will do something.\n\nHowever, promise is generally a commitment to do something without any formal or religious context, whereas vow is a solemn promise made before God or in a religious setting.\n\nFor example, if you tell your friend that you will help them with their homework later, that is a promise, but if you make a promise to God to always be faithful to your spouse, that would be a vow.\n\nOverall, both words communicate a strong commitment to follow through on your word, but vow has a more serious and formal connotation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dd27c8ee-5aeb-4b06-8330-70a2da1eff04.webp"
+        },
+        "Word": {
+            "wordRoot": "Word",
+            "wordDefinition": "Promise refers to a commitment or assurance given by one person to another that something will be done or not done. It's used in situations where someone is making a commitment or obligation to do something for someone else, giving their word or guarantee that they will follow through.\n\nWord simply refers to what someone says or communicates, without any specific meaning beyond that.\n\nThe main difference between the two words is that promise specifically refers to a commitment or assurance, while word is a more general term for any type of spoken or written communication.\n\nBoth words are applicable in different situations depending on what is being communicated or promised.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8894446-b77f-4ae5-9eff-780cbc55f406.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " plates eating with chopsticks to eat more slowly and i promised myself i could have anything i wanted as long as i ate it with a knife and a fork trust me it feels ridiculous to eat a snickers bar like this but it helped me be more conscious of what i was eating",
+            "Title": "The psychological weight...",
+            "VideoId": "DLYb3IgQ1Qk",
+            "Controls": "start=247"
+        },
+        {
+            "Text": " a revolutionary concept in the polytheistic world of that time, they would have land and many descendants. From this promise came the land of Israel and the chosen people, but staying in that land and keeping those people together was going to be very difficult.",
+            "Title": "The five major world...",
+            "VideoId": "m6dCxo7t_aE",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " imagining a world where certain trends in contemporary society are taken to extremes, exposing their underlying flaws. And the next few centuries would provide plenty of material. Industrial technology that promised to free laborers",
+            "Title": "How to recognize a...",
+            "VideoId": "6a6kbU88wu0",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " initiate entrance into adulthood it makes them better men if you live your life without suffering anything or without any kind of effort it won't be worth anything to you despite his long hours of agony ted has promised the",
+            "Title": "Could You Pass the...",
+            "VideoId": "XwvIFO9srUw",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " In extreme cases, electroconvulsive therapy, which is like a controlled seizure in the patient's brain, is also very helpful. Other promising treatments, like transcranial magnetic stimulation, are being investigated, too.",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=165"
+        },
+        {
+            "Text": " Maybe biological life is just a passing phase. Well, within the next 15 years, we could start seeing real spectroscopic information from promising nearby planets that will reveal just how life-friendly they might be.",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=631"
+        },
+        {
+            "Text": " I promise you I'm not trying to go that close to the edge. All right! - Ah! - Hey, that was good. Phew! So how did the idea for this come about? As an architect, I've been working for most of my adult life",
+            "Title": "How To Levitate PIPE The...",
+            "VideoId": "xDyJkFehDk0",
+            "Controls": "start=884"
+        },
+        {
+            "Text": " All three planes land at the airport just as their fuel gauges reach zero. As the reporters and photographers cheer, the professor promises his planes will soon be available for commercial flights,",
+            "Title": "Can you solve the...",
+            "VideoId": "dzrwnwOx0fw",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " And in many cases, members may willingly submit out of desire to belong and to attain the promised rewards. The cult environment discourages critical thinking, making it hard to voice doubts",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=270"
+        },
+        {
+            "Text": " to protect your own privacy? So, as usual, what we see just beyond the horizon is full of promise and peril. It'll be fascinating to see how this all turns out. Thanks.",
+            "Title": "Todd Humphreys: How to...",
+            "VideoId": "gzthxdm7XNs",
+            "Controls": "start=919"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-lopez.webp",
+            "Text": "I know that being seen as a role model means taking responsibility for all my actions. I am human, and of course, sometimes I make mistakes. But I promise that when I fall, I get back up.",
+            "Title": "American Musician",
+            "Name": "Jennifer Lopez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/morgan-freeman.webp",
+            "Text": "Life doesn't offer you promises whatsoever so it's very easy to become, 'Whatever happened to... ?' It's great to be wanted. I spent a few years not being wanted and this is better.",
+            "Title": "American Actor",
+            "Name": "Morgan Freeman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-frost.webp",
+            "Text": "The woods are lovely, dark and deep. But I have promises to keep, and miles to go before I sleep.",
+            "Title": "American Poet",
+            "Name": "Robert Frost"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/napoleon-bonaparte.webp",
+            "Text": "If you wish to be a success in the world, promise everything, deliver nothing.",
+            "Title": "French Statesman",
+            "Name": "Napoleon Bonaparte"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/otis-rush.webp",
+            "Text": "A guy will promise you the world and give you nothin', and that's the blues.",
+            "Title": "American Musician",
+            "Name": "Otis Rush"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andy-beshear.webp",
+            "Text": "I believe in living up to my promises of protecting families.",
+            "Title": "American Politician",
+            "Name": "Andy Beshear"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/the-dream.webp",
+            "Text": "This is Life. Nothing's promised or perfect, neither am I.",
+            "Title": "American Musician",
+            "Name": "The-Dream"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/diego-luna.webp",
+            "Text": "Directors should be paid for promising impossible things.",
+            "Title": "Mexican Actor",
+            "Name": "Diego Luna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "God never promised us a trouble-free life.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kanye-west.webp",
+            "Text": "Nothing in life is promised except death.",
+            "Title": "American Rapper",
+            "Name": "Kanye West"
+        }
+    ]
+}

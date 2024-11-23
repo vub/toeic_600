@@ -1,0 +1,350 @@
+{
+    "currentWord": {
+        "wordRoot": "resolve",
+        "id": 15061,
+        "phonemic": "rɪˈzɒlv|rɪˈzɑːlv\r",
+        "bigId": "01ad0f7a-9739-420f-a204-a5d1beb3ec2b",
+        "wordForms": [
+            "resolves",
+            "resolving",
+            "resolved",
+            "unresolved",
+            "resolve"
+        ]
+    },
+    "senses": [
+        {
+            "id": "01ad0f7a-9739-420f-a204-a5d1beb3ec2b",
+            "de": "to find the answer or solution to a problem or question",
+            "ty": "verb",
+            "ex": "She is determined to resolve the problem by herself.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "resolve a problem",
+                " resolve an issue",
+                " resolve a conflict"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/01ad0f7a-9739-420f-a204-a5d1beb3ec2b.webp",
+            "Tips": [
+                {
+                    "title": "Problem-solving",
+                    "description": "Use 'resolve' when referring to dealing with challenges or disputes.",
+                    "example": "The team resolved the issue quickly.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6SoGATcc6Fin53tFVFVvaFgKg.webp"
+                },
+                {
+                    "title": "Positive Outcome",
+                    "description": "Implies a successful end, often after a difficult process.",
+                    "example": "After much debate, they finally resolved their differences.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lgKNEdcr5x8Lj6KO5QgPMpwaw.webp"
+                }
+            ]
+        },
+        {
+            "id": "792225cf-c427-4d59-bebc-a85a8d0d9a4e",
+            "de": "to make a serious decision or promise",
+            "ty": "verb",
+            "ex": "He resolved to start exercising regularly from the new year.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "resolve to change",
+                " resolve to succeed",
+                " resolve to improve"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/792225cf-c427-4d59-bebc-a85a8d0d9a4e.webp",
+            "Tips": [
+                {
+                    "title": "Strong Intent",
+                    "description": "Indicates a firm decision, often a personal commitment.",
+                    "example": "She resolved never to make that mistake again.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Future Actions",
+                    "description": "Often used for actions one decides to take starting now or in the future.",
+                    "example": "He resolved to eat healthier.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d3e092e6-bc2d-4eb2-b4ec-5718eb7e1b58",
+            "de": "in music, to move from a discordant note or chord to a concordant one",
+            "do": "Music",
+            "ty": "verb",
+            "ex": "In that piece, the dissonant chords resolve beautifully into a harmonic ending.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "resolve into harmony",
+                " resolve a chord",
+                " resolve a dissonance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d3e092e6-bc2d-4eb2-b4ec-5718eb7e1b58.webp",
+            "Tips": [
+                {
+                    "title": "Musical Harmony",
+                    "description": "In music, 'resolve' expresses the transition from tension to harmony.",
+                    "example": "The melody resolves in a satisfying way.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "25a26b4a-8e0c-4602-81da-e9e776ab58ea",
+            "de": "in science, to separate something into its component parts",
+            "do": "Science",
+            "ty": "verb",
+            "ex": "The light was resolved into its spectral colors.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "resolve into components",
+                " resolve into elements",
+                " resolve a mixture"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/25a26b4a-8e0c-4602-81da-e9e776ab58ea.webp",
+            "Tips": [
+                {
+                    "title": "Analytical Separation",
+                    "description": "Use 'resolve' to mean separating complex mixtures into basic parts in scientific contexts.",
+                    "example": "The prism resolved the light perfectly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ee048c8c-eec6-4959-83ac-d1f62f49b6f4",
+            "de": "in computing, to convert a domain name into an IP address",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "The DNS server is used to resolve the website's domain name into its IP address.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "resolve a domain name",
+                " resolve an ip address"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ee048c8c-eec6-4959-83ac-d1f62f49b6f4.webp",
+            "Tips": [
+                {
+                    "title": "Technical Conversion",
+                    "description": "Specific to IT, it means converting names to numerical addresses.",
+                    "example": "The system resolved the hostname quickly.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9b4ad318-fcd2-4f5f-828b-d6aeed3eb116",
+            "de": "a strong determination to do something",
+            "ty": "noun",
+            "ex": "She showed great resolve in fighting the disease.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "show resolve",
+                " have resolve",
+                " demonstrate resolve"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9b4ad318-fcd2-4f5f-828b-d6aeed3eb116.webp",
+            "Tips": [
+                {
+                    "title": "Inner Strength",
+                    "description": "Conveys a person's solid commitment or willpower to face challenges.",
+                    "example": "Her resolve was unbreakable despite the setbacks.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Conclude": {
+            "wordRoot": "Conclude",
+            "wordDefinition": "Conclude means to reach a decision or come to a final judgement after considering all the facts. It is applicable when there is a need to make a final decision based on available information or evidence.\n\nConclude is about making a decision and resolve is about solving a problem.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a39296ec-9be4-46c3-83c7-d8ddc763054a.webp"
+        },
+        "Decide": {
+            "wordRoot": "Decide",
+            "wordDefinition": "The words decide and resolve both imply making a decision or arriving at a conclusion, but there is a subtle difference between them.\n\nDecide is generally used when there are options to choose from or conflicting opinions, and you have to pick one. For instance, you might decide which restaurant to eat at, or which movie to watch on Netflix.\n\nYou decide when you're making a choice between options, and you resolve when you're finding a way to solve a problem or conflict.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f3f7374-fce6-448c-8219-697394ecb66f.webp"
+        },
+        "Determine": {
+            "wordRoot": "Determine",
+            "wordDefinition": "Determine means to find out or decide something by examining evidence or facts. It's applicable when we need to figure out something or make a decision based on available facts.\n\nFor example, a doctor might determine the cause of a patient's illness by conducting tests and analyzing the results.\n\nDetermine is used when we need to figure out or make a decision, while resolve is used when we need to find a solution to a problem or conflict.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bb3c1d7-4dc7-4a4a-9a95-c1c82766d7be.webp"
+        },
+        "Fix": {
+            "wordRoot": "Fix",
+            "wordDefinition": "Fix means to repair or make something work correctly. It is applicable when something is broken or not working properly, and needs to be repaired.\n\nIn simpler terms, fix is about making something work again, while resolve is about finding a solution to a problem.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cdfdb58a-e818-4909-be8f-695125973401.webp"
+        },
+        "Rectify": {
+            "wordRoot": "Rectify",
+            "wordDefinition": "Rectify means to correct or fix something that is wrong, while resolve means to find a solution to a problem or conflict.\n\nRectify is applicable when there is an error or mistake that needs to be corrected. For example, if you discovered that you made a mistake while calculating your math homework, you would need to rectify the mistake by finding and correcting the error.\n\nRectify is used when something needs to be corrected or fixed, while resolve is used when a problem or conflict needs to be solved.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cbe9d4de-654c-4773-b097-f777f6427e7b.webp"
+        },
+        "Settle": {
+            "wordRoot": "Settle",
+            "wordDefinition": "The words resolve and settle both mean to sort out a problem or situation, but they are used in slightly different ways.\n\nSettle is often used to describe finding a compromise or making an agreement in a situation that involves conflicting interests or demands.\n\nFor example, you might say that two parties settled a lawsuit out of court, or that a couple settled their differences after a disagreement.\n\nResolve is used when talking about finding a solution to a problem, while settle is used when talking about finding a compromise or agreement between conflicting parties.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b152a5b-ce31-4e56-a1a8-b93e5c39fc32.webp"
+        },
+        "Solve": {
+            "wordRoot": "Solve",
+            "wordDefinition": "The words resolve and solve are similar in meaning as they both refer to solving a problem, but there is a slight difference between them.\n\nResolve means to settle or find a solution to a problem or an issue. It implies finding a solution through negotiation or compromise.\n\nFor example: \"We need to resolve this conflict peacefully and come to an agreement that works for everyone.\"\n\nSolve means to find a solution to a problem through analysis, reasoning, or logic.\n\nFor example: \"We need to solve this math problem by using the formula and the given data.\"\n\nResolve tends to refer to finding solutions to more complex or emotional problems, while solve tends to refer to finding solutions to more technical or analytical problems.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ad051b5-9a9f-4e42-aeb6-8bfc1962dada.webp"
+        },
+        "Work out": {
+            "wordRoot": "Work out",
+            "wordDefinition": "For example, you can resolve an argument with a friend by talking it out and coming to a mutual understanding.\n\nThe phrase work out means to come to a successful conclusion or solution after a period of effort or experimentation.\n\nIt suggests a trial-and-error approach to problem-solving. For example, you can work out a math problem by trying different methods until you find the correct answer.\n\nHowever, resolve is more appropriate when the problem is serious or emotionally charged, while work out is more appropriate for practical or technical challenges.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/95741a6c-2834-4b41-9f01-7b8754bb40b0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Other scientists are investigating alternate solutions, such as phage therapy or using vaccines to prevent infections. Most importantly, curbing the excessive and unnecessary use of antibiotics, such as for minor infections that can resolve on their own, as well as changing medical practice to prevent hospital infections,",
+            "Title": "What causes antibiotic...",
+            "VideoId": "znnp-Ivj2ek",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " we may be able to stop transmission of disease. Now, solving this puzzle was not an easy thing, because we produce hundreds of different chemicals on the skin, but we undertook some remarkable experiments that managed us to resolve this puzzle very quickly indeed. First, we observed that not all mosquito species",
+            "Title": "Bart Knols: Cheese, dogs...",
+            "VideoId": "Fivy99RtMfM",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " It says that traveling from any location to any other location should take an infinite amount of time. In other words, it says that all motion is impossible. This conclusion is clearly absurd, but where is the flaw in the logic? To resolve the paradox, it helps to turn the story into a math problem.",
+            "Title": "What is Zeno's Dichotomy...",
+            "VideoId": "EfqVnj-sgcc",
+            "Controls": "start=100"
+        },
+        {
+            "Text": " stand in silence demonstrating our resolve we saw each other and we knew we are not alone in her anger and fear or even our courage it actually felt like our hearts were beating and sink brick by brick spread like wildfire we are mailing jumpsuits to people across the country to build human walls",
+            "Title": "The healing power of...",
+            "VideoId": "wnSbLUz9h7I",
+            "Controls": "start=252"
+        },
+        {
+            "Text": " But because the skin does not fully recover, scarring continues to be a major clinical issue for doctors around the world. And even though researchers have made significant strides in understanding the healing process, many fundamental mysteries remain unresolved.",
+            "Title": "How a wound heals itself...",
+            "VideoId": "TLVwELDMDWs",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " I want to be like my dad. I wanted to help my family. People think that bandits don't have values. But my dad and uncle did. They have honor. Violence was the last step to resolve the problems, because dead people don't pay what they owe.",
+            "Title": "The Rise of the Cali...",
+            "VideoId": "BMmrYHWdkf8",
+            "Controls": "start=159"
+        },
+        {
+            "Text": " and damaged infrastructure from pressure and waste water injection. Links between fracking and increased seismic activity leave unresolved questions about long-term pressure imbalances that might be happening deep beneath our feet.",
+            "Title": "How does fracking work?...",
+            "VideoId": "Tudal_4x4F0",
+            "Controls": "start=233"
+        },
+        {
+            "Text": " the clouds parted. Einstein realized that the contradiction could be resolved if it was the speed of light that remained constant, regardless of reference frame, while both time and space were relative to the observer.",
+            "Title": "Einstein's miracle year...",
+            "VideoId": "91XI7M9l3no",
+            "Controls": "start=199"
+        },
+        {
+            "Text": " the real, and the reflected worlds, maintaining an unresolved tension between them to tell a more complex story than any mirror can provide.",
+            "Title": "Why is this painting so...",
+            "VideoId": "loMy3sbW64g",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " by moonlight we become more optically sensitive the world resolves to subtle",
+            "Title": "Stunning Moonlight...",
+            "VideoId": "OVvCRvQXj5c",
+            "Controls": "start=0"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frederic-chopin.webp",
+            "Text": "If the newspapers cut me up so much that I shall not venture before the world again, I have resolved to become a house painter; that would be as easy as anything else, and I should, at any rate, still be an artist!",
+            "Title": "Polish Composer",
+            "Name": "Frederic Chopin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jorge-bucay.webp",
+            "Text": "When you don't manage your life well, you become angry and frustrated as things don't go as intended, and our bad mood is a sign showing we were not able to resolve the conflict.",
+            "Title": "Argentinian Psychologist",
+            "Name": "Jorge Bucay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gottfried-leibniz.webp",
+            "Text": "When a truth is necessary, the reason for it can be found by analysis, that is, by resolving it into simpler ideas and truths until the primary ones are reached.",
+            "Title": "German Philosopher",
+            "Name": "Gottfried Leibniz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-rohn.webp",
+            "Text": "The difficulties you meet will resolve themselves as you advance. Proceed, and light will dawn, and shine with increasing clearness on your path.",
+            "Title": "American Businessman",
+            "Name": "Jim Rohn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hugh-laurie.webp",
+            "Text": "I have resolved to pick one novel and just read it over and over again for the rest of my life, because I cannot remember anything anymore.",
+            "Title": "British Actor",
+            "Name": "Hugh Laurie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-w-bush.webp",
+            "Text": "The resolve of our great nation is being tested. But make no mistake, we will show the world that we will pass the test.",
+            "Title": "American President",
+            "Name": "George W. Bush"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dalai-lama.webp",
+            "Text": "The best way to resolve any problem in the human world is for all sides to sit down and talk.",
+            "Title": "Tibetan Leader",
+            "Name": "Dalai Lama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hamza-yusuf.webp",
+            "Text": "Palestine is the issue, and until this issue is resolved, there can be no peace.",
+            "Title": "American Clergyman",
+            "Name": "Hamza Yusuf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/drew-barrymore.webp",
+            "Text": "Families in real life don't tend to resolve things neatly.",
+            "Title": "American Actress",
+            "Name": "Drew Barrymore"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/homer.webp",
+            "Text": "Wise to resolve, and patient to perform.",
+            "Title": "Greek Poet",
+            "Name": "Homer"
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "currentWord": {
+        "wordRoot": "dimension",
+        "id": 2926,
+        "phonemic": "dɪˈmenʃn|daɪˈmenʃn\r",
+        "bigId": "94b7a8ca-00d9-49ff-9867-814f77892ca2",
+        "wordForms": [
+            "dimensions",
+            "dimension"
+        ]
+    },
+    "senses": [
+        {
+            "id": "94b7a8ca-00d9-49ff-9867-814f77892ca2",
+            "de": "A way of measuring something or describing its size.",
+            "ty": "noun",
+            "ex": "This box's dimensions are 2 feet by 3 feet.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "dimensions of a room",
+                " dimensions of a box",
+                " dimensions of a building"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/94b7a8ca-00d9-49ff-9867-814f77892ca2.webp",
+            "Tips": [
+                {
+                    "title": "Physical Objects",
+                    "description": "Use 'dimension' to talk about the measurable attributes of physical objects.",
+                    "example": "What are the dimensions of your new refrigerator?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yLQCacvMfB3BrLpo99UTeK3Uo.webp"
+                },
+                {
+                    "title": "Unit Specific",
+                    "description": "Always specify units when discussing the dimensions of an object.",
+                    "example": "The dimensions of the table are 120 cm by 80 cm.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/H139ZxjJdRTZOLm2OllnGFaaQ.webp"
+                },
+                {
+                    "title": "Shape Indication",
+                    "description": "Dimensions can help visualize the shape of objects not seen firsthand.",
+                    "example": "A cube has three equal dimensions.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Xa7eyYLoYUzv8gD4ugielsi8i4.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "1a90fc8e-3008-493f-84db-64bafb765c42",
+            "de": "A particular part or feature of a situation, problem, or thing.",
+            "ty": "noun",
+            "ex": "We need to consider the problem in all its dimensions.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "dimensions of the problem",
+                " dimensions of the issue",
+                " dimensions of the situation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1a90fc8e-3008-493f-84db-64bafb765c42.webp",
+            "Tips": [
+                {
+                    "title": "Analyzing Problems",
+                    "description": "Discussing all dimensions of a problem means considering all aspects or factors.",
+                    "example": "We examined every dimension of the issue before deciding.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Comprehensive Understanding",
+                    "description": "Use 'dimension' when emphasizing the depth of understanding required.",
+                    "example": "Studying the historical dimension of the event is crucial.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "248ee455-1108-47a9-a7f0-49279a9a8c03",
+            "de": "A part of a situation or a factor that changes.",
+            "ty": "noun",
+            "ex": "In this study, we added time as the fourth dimension.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "the fourth dimension",
+                " dimension of time",
+                " dimension of change"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/248ee455-1108-47a9-a7f0-49279a9a8c03.webp",
+            "Tips": [
+                {
+                    "title": "Complex Situations",
+                    "description": "'Dimension' can signify an added layer of complexity to a situation.",
+                    "example": "Introducing a cultural dimension makes the negotiation trickier.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Change Over Time",
+                    "description": "When time is called the 'fourth dimension,' it indicates change or progress.",
+                    "example": "The fourth dimension was crucial in understanding the historical trends.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d18a3d72-fe10-4ebc-947b-dc5b03ce3361",
+            "de": "A possible universe or place, existing beside our own.",
+            "do": "Science Fiction",
+            "ty": "noun",
+            "ex": "In the movie, the characters traveled through a portal to another dimension.",
+            "use": "",
+            "co": "Literary",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "another dimension",
+                " different dimension",
+                " parallel dimension"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d18a3d72-fe10-4ebc-947b-dc5b03ce3361.webp",
+            "Tips": [
+                {
+                    "title": "Imaginary Realms",
+                    "description": "In fiction, 'dimension' often refers to worlds that are separate from our reality.",
+                    "example": "The hero encountered a villain from an alternate dimension.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Creative Expression",
+                    "description": "Writers use 'dimension' to explore themes beyond our world; metaphors for ideas or conflicts.",
+                    "example": "The book added a new dimension to the classic good vs. evil plot.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Extent": {
+            "wordRoot": "Extent",
+            "wordDefinition": "Extent refers to how far or how much something exists or happens. For example, the extent of a forest fire would be how much land it has burned.\n\nDimension is applicable when measuring the size of an object in three dimensions, while extent is applicable when describing the scope or reach of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5124ca73-f507-4af8-871a-7f9c7781ab0e.webp"
+        },
+        "Height": {
+            "wordRoot": "Height",
+            "wordDefinition": "Dimension refers to the overall size of an object or space, including its length, width, and height. Height specifically refers to the distance from the ground or base to the top of an object.\n\nFor example, a room may have dimensions of 10 feet by 12 feet by 8 feet (length, width, and height), while the height of a tree may be 20 feet tall.\n\nDimension is a more general term that encompasses all aspects of size, while height specifically refers to vertical distance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e761c956-42a8-4b16-ba97-9afa2714c3f8.webp"
+        },
+        "Magnitude": {
+            "wordRoot": "Magnitude",
+            "wordDefinition": "Magnitude refers to the strength or amount of something, typically represented by numbers. For example, the magnitude of an earthquake could be measured on the Richter scale.\n\nDimension is used when talking about physical size and shape, while magnitude is used when referring to quantities or strength.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3d962b87-0d56-49aa-91bd-81b607fc1b66.webp"
+        },
+        "Measurement": {
+            "wordRoot": "Measurement",
+            "wordDefinition": "Measurement refers to the act of quantifying or determining the size, amount, or degree of something using a tool or unit of measurement, such as a ruler, tape measure, or thermometer.\n\nDimension is what you can see or feel, while a measurement is the process of determining the numerical value of that dimension.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/02ae9057-fad6-4303-830f-d2b620547039.webp"
+        },
+        "Proportion": {
+            "wordRoot": "Proportion",
+            "wordDefinition": "Dimension refers to the size, length, width, height, or depth of an object, whereas proportion refers to the size or relationship of one part of an object to another.\n\nFor example, the dimensions of a rectangular box might be 10 inches long, 5 inches wide, and 8 inches tall. Proportions would refer to how these dimensions relate to each other, such as the length being two times the width or the height being three-quarters of the length.\n\nDimensions are applicable when describing the size or measurements of an object, while proportions are useful for analyzing design, aesthetics, and composition.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/21471e26-8bda-4b8b-b59a-87cda9f2e23b.webp"
+        },
+        "Scale": {
+            "wordRoot": "Scale",
+            "wordDefinition": "Scale refers to the relative size of objects or parts of a whole compared to each other. It is the proportion or ratio of the size of an object in real life compared to its representation in a drawing, map, or model.\n\nFor example, a house has dimensions such as length, width, and height. The scale of a drawing of the house would indicate the ratio of the size of the house in the drawing compared to its actual size in real life.\n\nIn this case, the scale could be 1:100, meaning that 1 inch on the drawing equals 100 inches in real life.\n\nDimension deals with the size and shape of an object, while scale deals with the relative size of objects or parts of a whole compared to each other.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/32905dc6-95f5-4bbb-8bf3-6cd3206cab3d.webp"
+        },
+        "Scope": {
+            "wordRoot": "Scope",
+            "wordDefinition": "Scope refers to the extent or range of something, such as the possible opportunities or limits associated with a particular situation or topic.\n\nDimension refers to the physical attributes of something while scope refers to the range or extent of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1b2071f8-9192-4be0-a6c2-0447ed4521fd.webp"
+        },
+        "Size": {
+            "wordRoot": "Size",
+            "wordDefinition": "Size typically refers to the overall magnitude or extent of something, often measured in comparison with other objects of the same type or category.\n\nDimension is used when discussing specific measurements of an object in multiple directions, while size is a more general term about the overall magnitude of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1b9f7c1c-7ce1-46b5-ba8a-ef49f532c418.webp"
+        },
+        "Volume": {
+            "wordRoot": "Volume",
+            "wordDefinition": "Volume refers to the amount of space occupied by an object or substance.\n\nVolume can also refer to the loudness or quantity of sound or the amount of writing or speaking that occurs within a particular period.\n\nDimension describes the size or shape of an object, while volume refers to the amount of space that object occupies.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc3d5432-5fc3-426e-8463-8d0784d1060f.webp"
+        },
+        "Width": {
+            "wordRoot": "Width",
+            "wordDefinition": "Dimension refers to any measure of size, including length, width, and height. It is a more general term that can be used in various contexts, such as mathematical equations, engineering designs, and artwork.\n\nWidth specifically refers to the horizontal measure of something, usually from side to side. It is a more specific term that is commonly used to describe the size of objects and spaces, such as a door, a desk, or a room.\n\nDimension is a broader concept that includes many different ways of measuring size, while width specifically refers to the measurement from side to side.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b4a53b3-ea6c-4937-a6a8-6df920389900.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " with different properties, obeying different laws. Most of these universes could never support life, and might flash in and out of existence in a nanosecond. But nonetheless, combined, they make up a vast multiverse of possible universes in up to 11 dimensions, featuring wonders beyond our wildest imagination.",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=230"
+        },
+        {
+            "Text": " Examples of characteristics include average sentence length, the arrangement of words, and even the number of occurrences of a particular word. Let's look at use of the word thee and visualize it as a dimension, or axis. Each of Shakespeare's works can be placed on that axis,",
+            "Title": "Did Shakespeare write...",
+            "VideoId": "K-aAUwAFZlQ",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " Most of these universes could never support life, and might flash in and out of existence in a nanosecond, but nonetheless, combined they make up a vast multiverse of possible universes. in up to 11 dimensions, featuring wonders beyond our wildest imagination.",
+            "Title": "How many universes are...",
+            "VideoId": "a1bWKZFP2Tc",
+            "Controls": "start=132"
+        },
+        {
+            "Text": " the third one. In order to venture into the quantum cosmos, we have to be able to imagine another dimension. That's very hard to do. It's much easier to wrap your mind around a world that's missing one of the three dimensions that we take for granted.",
+            "Title": "Magic Without Lies PIPE...",
+            "VideoId": "cUQaynv7X9Y",
+            "Controls": "start=47"
+        },
+        {
+            "Text": " And that became a theorem, the honeycomb theorem, that will be true forever and ever, for longer than any diamond you may have. But what happens if we go to three dimensions? If I want to fill the space with equal pieces, without leaving any gaps,",
+            "Title": "Eduardo Sáenz de...",
+            "VideoId": "pGlZi2SwETc",
+            "Controls": "start=398"
+        },
+        {
+            "Text": " and there is a new dimension being added to this study of octopus intelligence personality scientists have used the relationship between octopus and humans in an aquarium setting like this whoop that's the first time that she's ever taken it",
+            "Title": "Can Octopuses Recognise...",
+            "VideoId": "UdAwpXdc48s",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " weighed whether in church or in the lab in fact not as a part of you at all but as a dimension of being of existence I think of this as a an agnostic approach to soul an existential one if you like an existentialist what I mean said a way",
+            "Title": "The real meaning of soul...",
+            "VideoId": "LPQ_JsXof4c",
+            "Controls": "start=203"
+        },
+        {
+            "Text": " She can map her world in three dimensions and formulate a plan of attack. She can have an idea.",
+            "Title": "Spider With Three Super...",
+            "VideoId": "UDtlvZGmHYk",
+            "Controls": "start=94"
+        },
+        {
+            "Text": " she can map her world in three dimensions and formulate a plan of attack she can have an idea",
+            "Title": "Top 5 Animal Adaptations...",
+            "VideoId": "ZT8YswmQuAg",
+            "Controls": "start=786"
+        },
+        {
+            "Text": " she can map her world in three dimensions and formulate a plan of attack she can have an idea",
+            "Title": "BBC Earth 50 Top Natural...",
+            "VideoId": "AgMlCdvY5RI",
+            "Controls": "start=1548"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gareth-thomas.webp",
+            "Text": "If you add children to a marriage, they bring a different dimension to the relationship. If I'd had a child and I believed it would have made my child's life better by not coming out, the chances are I wouldn't have done it. Because I think you do whatever it takes to make your child happy.",
+            "Title": "Welsh Athlete",
+            "Name": "Gareth Thomas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yoko-ono.webp",
+            "Text": "My heart is mysteriously alive in the world of sounds - a totally different dimension from the daily life.",
+            "Title": "American Artist",
+            "Name": "Yoko Ono"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alan-rickman.webp",
+            "Text": "Each character I play has different dimensions. I'm not interested in words that pull them together.",
+            "Title": "British Actor",
+            "Name": "Alan Rickman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zak-bagans.webp",
+            "Text": "I want to be taken out of our material world and experience something that is in another dimension.",
+            "Title": "American Author",
+            "Name": "Zak Bagans"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zhuangzi.webp",
+            "Text": "For the wise man looks into space and he knows there is no limited dimensions.",
+            "Title": "Chinese Philosopher",
+            "Name": "Zhuangzi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elaine-pagels.webp",
+            "Text": "I realize that I cannot live without a spiritual dimension in my life.",
+            "Title": "American Historian",
+            "Name": "Elaine Pagels"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chelsea-clinton.webp",
+            "Text": "I hadn't planned on or expected to have a public dimension in my life.",
+            "Title": "American Celebrity",
+            "Name": "Chelsea Clinton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/holly-hunter.webp",
+            "Text": "My life has a great degree of dimension without making movies.",
+            "Title": "American Actress",
+            "Name": "Holly Hunter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-pellegrino.webp",
+            "Text": "Each of my roles affects different dimensions of my life.",
+            "Title": "American Actor",
+            "Name": "Mark Pellegrino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jesse-jackson.webp",
+            "Text": "Life has its dimensions in the mysterious.",
+            "Title": "American Activist",
+            "Name": "Jesse Jackson"
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "currentWord": {
+        "wordRoot": "leisure",
+        "id": 12237,
+        "phonemic": "ˈleʒə(r)|ˈliːʒər\r",
+        "bigId": "1daee87e-7620-4204-bc3b-b81ac04252cd",
+        "wordForms": [
+            "leisurely",
+            "leisured",
+            "leisure"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1daee87e-7620-4204-bc3b-b81ac04252cd",
+            "de": "Free time when you are not working or doing other duties.",
+            "ty": "noun",
+            "ex": "She spends her leisure time reading books.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "leisure time",
+                " leisure activities",
+                " leisure centre"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1daee87e-7620-4204-bc3b-b81ac04252cd.webp",
+            "Tips": [
+                {
+                    "title": "Non-Work Context",
+                    "description": "Leisure assumes non-working scenarios, so don't use it to describe pauses in work.",
+                    "example": "I’m looking forward to the weekend for some much-needed leisure.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/e5hLoQ6tH9eL08yPr0vN0fw37I.webp"
+                },
+                {
+                    "title": "Personal Choice",
+                    "description": "\"Leisure time\" is often intentional and chosen personally, not just free time.",
+                    "example": "During my leisure time, I prefer to write poetry.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/aFghkPtu5TF4kMsAlMEZZS724C0.webp"
+                },
+                {
+                    "title": "Positive Connotation",
+                    "description": "Leisure has a positive feeling, evoking relaxation and pleasure, rather than boredom.",
+                    "example": "After months of hard work, their vacation was full of leisure.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RzaON2imHCznaRr3H1B7RoA8x4.webp"
+                }
+            ]
+        },
+        {
+            "id": "3ca31f75-d9b3-4acd-abfe-d5f241aabe30",
+            "de": "Relating to activities that are done for enjoyment during free time.",
+            "ty": "adjective",
+            "ex": "He wore his leisure suit to the party.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "leisure activity",
+                " leisure centre",
+                " leisure suit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3ca31f75-d9b3-4acd-abfe-d5f241aabe30.webp",
+            "Tips": [
+                {
+                    "title": "Informal Settings",
+                    "description": "The adjective form often suggests informal situations and clothes.",
+                    "example": "He’s got a collection of leisure suits for weekend outings.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Enjoyment Focused",
+                    "description": "Leisure activities are primarily for enjoyment, not competitive or work-related.",
+                    "example": "Swimming is my preferred leisure activity, as it relaxes me.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e5515acc-4e77-460a-8120-8b67a6f8b5da",
+            "de": "Lack of hurry or haste.",
+            "ty": "noun",
+            "ex": "We can leave at our leisure.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "at your leisure",
+                " take your leisure",
+                " at leisure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e5515acc-4e77-460a-8120-8b67a6f8b5da.webp",
+            "Tips": [
+                {
+                    "title": "No Rush",
+                    "description": "\"At our leisure\" implies no need for speed or haste; things can be done slowly.",
+                    "example": "Explore the museum exhibits at your leisure, there’s no hurry.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Comfort Emphasis",
+                    "description": "Using leisure in this context often highlights a comfortable, stress-free experience.",
+                    "example": "After the guests left, they cleaned up at their leisure.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Downtime": {
+            "wordRoot": "Downtime",
+            "wordDefinition": "Downtime refers to the time that is not being used for work or other activities that are necessary or important. It is the time when a person is free but not necessarily engaged in any specific activity.\n\nDowntime is free time that can be used for activities that may or may not be enjoyable, while leisure time is a specifically planned time when one engages in activities that they find enjoyable and fulfilling.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5d013232-7092-45c1-8551-a93fd3c4c936.webp"
+        },
+        "Employ": {
+            "wordRoot": "Employ",
+            "wordDefinition": "Employ means to have a job or work, while leisure means free time or time spent not working. Employ is applicable in the context of work or employment, while leisure is applicable in the context of hobbies, relaxation, and recreation.\n\nFor example, someone may be employed as a doctor and have leisure time spent playing sports or reading.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eb0baa3c-93ef-4ada-ac90-abce85747e48.webp"
+        },
+        "Idle": {
+            "wordRoot": "Idle",
+            "wordDefinition": "Idle refers to someone or something that is not doing anything productive or useful. For example, a person who is lounging around all day without doing any work is considered idle.\n\nIdle is often used in a negative sense to describe someone who is lazy, unproductive or wasting time.\n\nIdle refers to doing nothing while leisure refers to doing something enjoyable during one's free time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/484b1936-ed68-45f9-8399-a89c171a1b0f.webp"
+        },
+        "Inactivity": {
+            "wordRoot": "Inactivity",
+            "wordDefinition": "Inactivity refers to the state of not doing anything or being idle.\n\nIt can be applicable when someone is not engaged in any physical or mental activity. For example, if someone is lying on the couch and not moving or thinking, they are in a state of inactivity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/77df457d-3071-4387-8d03-d0c2077515a5.webp"
+        },
+        "Relaxation": {
+            "wordRoot": "Relaxation",
+            "wordDefinition": "Relaxation is a state of being in which you feel calm, peaceful and free from stress.\n\nRelaxation can be done through meditation, yoga, or any other activity that helps you feel relaxed.\n\nLeisure is a period of time when you can engage in enjoyable activities while relaxation is a state of being calm and free of stress.\n\nLeisure time can be used for relaxation, but relaxation can also be done at any time during the day.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/76383b74-3f6e-4607-9ac9-17693186f9c9.webp"
+        },
+        "Rest": {
+            "wordRoot": "Rest",
+            "wordDefinition": "Rest refers to a state of relaxation or recovery from physical or mental activity. It is necessary for our bodies and minds to function properly.\n\nFor example, taking a nap after a tiring day or sleeping in on the weekend is rest time.\n\nLeisure is an activity you choose to do for fun in your free time, while rest is a state of relaxation or recovery that is necessary for our well-being.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/db6afbce-8e0d-47b9-84ea-73f069db50ee.webp"
+        },
+        "Vacancy": {
+            "wordRoot": "Vacancy",
+            "wordDefinition": "Vacancy means an empty or unoccupied space or job position. For example, a hotel might have a vacancy in one of its rooms or a company might have a vacancy for a new employee.\n\nSo, while leisure refers to free time for enjoyable activities, vacancy refers to a space or job position that needs to be filled.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/17de5f43-fddc-4a55-a065-01afbba08ea0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Let me explain what I mean by that. Objective, in the way I just said. Subjective, in the sense that all the attention went to how individuals of different sorts make their decisions. OK, so workers are maximizing their choices of leisure versus work. Consumers are maximizing their so-called utility, which is a proxy for happiness,",
+            "Title": "What is economic value,...",
+            "VideoId": "uXrCeiQxWyc",
+            "Controls": "start=447"
+        },
+        {
+            "Text": " Subjectively, they remember a life of leisure. This, again, is you. You start and you end. This could be you if at the start of party, you took a drug that meant you would not remember that party ever after that day. Some people do this, I'm told. Toward the end of the party,",
+            "Title": "What would happen if we...",
+            "VideoId": "Urk3xn7l3AM",
+            "Controls": "start=641"
+        },
+        {
+            "Text": " can deconstruct the attributes of a vacation activities like golf and tennis interests like architecture and history and then when are you going to go what do you want to spend are there ways of deconstructing leisure travel to figure out what a good trip for you might be",
+            "Title": "How to make discoveries...",
+            "VideoId": "dQ1WuC6HG10",
+            "Controls": "start=223"
+        },
+        {
+            "Text": " Then, technological advances coupled with public health measures resulted in the betterment of the quantity, quality, and variety of food. Sustained abundance of good food enabled a healthier population to boom economically. Output increased, and with it, leisure time",
+            "Title": "What is obesity? - Mia...",
+            "VideoId": "-vNVG7XJpVE",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " wanted to capture the kind of the cutting edge of climbing what was happening there and then kind of what the lifestyle was and I remember when I spent time there we are always laughs we like yeah there's you know a leisure class at both",
+            "Title": "Photographer Jimmy Chin:...",
+            "VideoId": "H0GDGB3PMtQ",
+            "Controls": "start=557"
+        },
+        {
+            "Text": " life this is a life in which you have as much positive emotion as you possibly can and the skills to amplify it the second is a life of engagement a life in your work your parenting your love your leisure time stops for you that's what",
+            "Title": "On positive psychology -...",
+            "VideoId": "5CpLEOO5oyo",
+            "Controls": "start=576"
+        },
+        {
+            "Text": " Do all of these gains in health, wealth, safety, knowledge and leisure make us any happier? The answer is yes. In 86 percent of the world's countries, happiness has increased in recent decades. Well, I hope to have convinced you",
+            "Title": "Is the world getting...",
+            "VideoId": "yCm9Ng0bbEQ",
+            "Controls": "start=510"
+        },
+        {
+            "Text": " This is a life in which you have as much positive emotion as you possibly can, and the skills to amplify it. The second is a life of a life in your work, your parenting, your love, your leisure; time stops for you.",
+            "Title": "The new era of positive...",
+            "VideoId": "9FBxfd7DL3E",
+            "Controls": "start=574"
+        },
+        {
+            "Text": " into the tree branches there they will take up their adult life of leisure well camouflaged solidly chewing leaves giving your offspring a good start in",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "leDm_-nfr2w",
+            "Controls": "start=187"
+        },
+        {
+            "Text": " the tree branches there they will take up their adult life of leisure well camouflaged stolid the chirring leaves giving your offspring a good start in",
+            "Title": "Life of Insects PIPE...",
+            "VideoId": "uppwVyUd5S0",
+            "Controls": "start=181"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emily-oster.webp",
+            "Text": "Economics works great for planning your life when you don't have a work passion, since we tend to assume that your job delivers only money and you trade off job hours with leisure hours. If you think your job will just be a job, pick one that pays well per hour and leaves you some time off, even if the activity of the job is boring.",
+            "Title": "American Economist",
+            "Name": "Emily Oster"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kelly-sue-deconnick.webp",
+            "Text": "Comics are not theatre - there's a very important difference in that the reader controls the page. You can linger on a page of comics as long as you want. You can read and go forward and then move back; you can reread, in one sitting or at your leisure. You can take as much time as you want to take in that story.",
+            "Title": "American Writer",
+            "Name": "Kelly Sue DeConnick"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/benjamin-franklin.webp",
+            "Text": "We are more thoroughly an enlightened people, with respect to our political interests, than perhaps any other under heaven. Every man among us reads, and is so easy in his circumstances as to have leisure for conversations of improvement and for acquiring information.",
+            "Title": "American Politician",
+            "Name": "Benjamin Franklin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jensen-huang.webp",
+            "Text": "Well, the world of entertainment and leisure is gigantic. When you combine it with all of the aspects of entertainment and leisure, going to movies or traveling or going to restaurants, staying in a hotel, skiing, it's huge.",
+            "Title": "Taiwanese Businessman",
+            "Name": "Jensen Huang"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aldous-huxley.webp",
+            "Text": "Like every other good thing in this world, leisure and culture have to be paid for. Fortunately, however, it is not the leisured and the cultured who have to pay.",
+            "Title": "English Novelist",
+            "Name": "Aldous Huxley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-diamandis.webp",
+            "Text": "Not only are we working less, we're enjoying ourselves more. As we're working toward this world of abundance, we're able to increasingly enjoy leisure time.",
+            "Title": "American Businessman",
+            "Name": "Peter Diamandis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aristotle.webp",
+            "Text": "Politicians also have no leisure, because they are always aiming at something beyond political life itself, power and glory, or happiness.",
+            "Title": "Greek Philosopher",
+            "Name": "Aristotle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zhang-yimou.webp",
+            "Text": "People have become shallower. They view spending, entertaining, seeking leisure and enjoying as the main objectives of their life.",
+            "Title": "Chinese Director",
+            "Name": "Zhang Yimou"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-nicholson.webp",
+            "Text": "I don't think many people have a very good understanding of leisure and the importance it plays in our lives.",
+            "Title": "American Actor",
+            "Name": "Jack Nicholson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/natalie-clifford-barney.webp",
+            "Text": "How many inner resources one needs to tolerate a life of leisure without fatigue.",
+            "Title": "American Author",
+            "Name": "Natalie Clifford Barney"
+        }
+    ]
+}

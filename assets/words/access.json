@@ -1,0 +1,314 @@
+{
+    "currentWord": {
+        "wordRoot": "access",
+        "id": 4687,
+        "phonemic": "ˈækses|ˈækses\r",
+        "bigId": "8db8d041-115b-4d47-ae1a-4006bc04927e",
+        "wordForms": [
+            "accesses",
+            "accessing",
+            "accessed",
+            "access"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8db8d041-115b-4d47-ae1a-4006bc04927e",
+            "de": "The ability or chance to use or see something",
+            "ty": "noun",
+            "ex": "You will need to get special permission for access to the building.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "have access",
+                " deny access",
+                " gain access"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8db8d041-115b-4d47-ae1a-4006bc04927e.webp",
+            "Tips": [
+                {
+                    "title": "Requesting Permission",
+                    "description": "Sometimes, 'access' is about permission, especially for restricted areas or information.",
+                    "example": "Students must request access to the restricted section of the library.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QCqgLHlXzDA9XV1rFhn8L3pclpE.webp"
+                },
+                {
+                    "title": "Physical and Digital",
+                    "description": "'Access' applies to both physical spaces and digital assets, like websites or databases.",
+                    "example": "Our premium subscription gives you access to all articles.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4xtP0XAd6mGTqiWkROZ4prHRtI.webp"
+                },
+                {
+                    "title": "Accessibility",
+                    "description": "Access can reflect inclusivity, e.g. providing ramps for wheelchair users.",
+                    "example": "The new office design improves access for people with disabilities.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yYj4lLN2lkeFJ1z65ZqDegf1Sk.webp"
+                }
+            ]
+        },
+        {
+            "id": "5bcf8c54-dbe3-4487-851b-bf091ff44e0a",
+            "de": "The act of reaching, achieving, or getting something",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Internet access is available in all the rooms.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "internet access",
+                " direct access",
+                " remote access"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5bcf8c54-dbe3-4487-851b-bf091ff44e0a.webp",
+            "Tips": [
+                {
+                    "title": "Network Availability",
+                    "description": "In computing, 'access' often refers to the availability and permission to use network resources.",
+                    "example": "Our hotel guarantees guests 24/7 internet access.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Security Importance",
+                    "description": "'Access' involves security; unauthorized access can lead to data breaches.",
+                    "example": "The system's security update will prevent unauthorized access.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "72cc7bbe-efc3-4f83-8bb0-caaeded36d87",
+            "de": "To get to, or get inside something",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "You need a password to access your account.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "access data",
+                " access files",
+                " access information"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/72cc7bbe-efc3-4f83-8bb0-caaeded36d87.webp",
+            "Tips": [
+                {
+                    "title": "Tech Proficiency",
+                    "description": "Using 'access' as a verb usually implies a user's ability to use tech tools or resources effectively.",
+                    "example": "You can access our online resources using the library computers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Online Interaction",
+                    "description": "Verb 'access' shows action in online environments, like opening a website or a document.",
+                    "example": "Sam accessed the document through the cloud service.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a2c585d8-d93d-4636-b061-f45f1bc2c298",
+            "de": "A sudden attack or outburst",
+            "ty": "noun",
+            "ex": "He was taken to the hospital after an access of coughing and fever.",
+            "use": "",
+            "co": "Medical",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "an access of anger",
+                " an access of guilt"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a2c585d8-d93d-4636-b061-f45f1bc2c298.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Surge",
+                    "description": "Archaically, 'access' referred to sudden emotional or physical outbursts, not commonly used today.",
+                    "example": "The novel describes an access of passion in its hero.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Historical Context",
+                    "description": "Recognize 'access' in historical or literary texts to understand older meanings about sudden attacks.",
+                    "example": "In classic literature, characters often suffer an access of despair.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Admission": {
+            "wordRoot": "Admission",
+            "wordDefinition": "Access refers to the ability or permission to enter or use something, while admission refers to the act of being allowed to enter a place or event.\n\nFor example, you may have access to a library if you have a library card, but you need admission to watch a movie at a theater by purchasing a ticket.\n\nAccess refers to being able to use something, while admission refers to being allowed to enter a place or event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e66a535d-48f3-4ba2-9d47-4a27ec86a568.webp"
+        },
+        "Approach": {
+            "wordRoot": "Approach",
+            "wordDefinition": "Approach refers to the act of getting closer to something or someone, usually with the intention of reaching a goal or destination.\n\nFor example, a hiker might approach a mountain summit or a student might approach their teacher for extra help.\n\nAccess means getting in, while approach means getting closer. Access is applicable when referring to gaining entry or permission to use something, while approach is applicable in situations where getting closer to something or someone is necessary to achieve a goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8c0eee9-ccef-4d22-b622-bb77972ccf69.webp"
+        },
+        "Connection": {
+            "wordRoot": "Connection",
+            "wordDefinition": "Connection refers to the link or relationship between two or more things or people.\n\nIt can refer to physical connections, such as wires or cables, or virtual connections, such as Wi-Fi or Bluetooth.\n\nIn practical terms, access is applicable when you want to get into or use something, while connection is applicable when you want to link up with or communicate with something or someone.\n\nFor example, you need access to your school's library to borrow books, but you need a connection to the internet to check your email.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14ffe5ed-b0c3-4d57-9700-40b30db152c0.webp"
+        },
+        "Entrance": {
+            "wordRoot": "Entrance",
+            "wordDefinition": "Access and entrance are two different words that relate to gaining entry to a specific place or space. Access usually refers to a means of entering something like a building, room, or computer program.\n\nIt is the way that an individual can use to reach a particular area or information. Entrance refers to the process of entering a specific area or space, like an event or room.\n\nIn simpler terms, access is the way in which a person can enter an area or space, whereas an entrance is the actual place through which they enter.\n\nFor instance, a smart card is a means of access to the restricted areas of an office building, while the entrance to the building is through the front door.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7800e768-44b5-4b3b-b133-f93c6cea93ca.webp"
+        },
+        "Entry": {
+            "wordRoot": "Entry",
+            "wordDefinition": "Access and entry both refer to ways of getting into a place or using something, but there are some differences in their meanings.\n\nEntry means the physical act of going into a place or space, such as a room or a building. It refers to the point of passage, the act of entering or gaining access to a place.\n\nAccess refers to the ability to use or reach something, while entry refers to the act of physically entering a space. So, I can access a website online, but I need to have the right entry code to get into a building.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3636c2f7-e094-4b2d-b6a8-5db92c9cc16a.webp"
+        },
+        "Gateway": {
+            "wordRoot": "Gateway",
+            "wordDefinition": "Gateway refers to a point of entry or exit that connects two different systems or spaces. For example, a gateway can connect two computer networks or two parts of a city.\n\nA gateway can also refer to a specific website or online platform that serves as a starting point for accessing other information or resources.\n\nAccess is about being able to enter or use something, while a gateway is a point of entry or exit that connects two different systems or spaces.\n\nAccess is applicable to many different situations where permission or ability to use something is needed, while gateway is typically used in a technological context to describe a connection between different systems or platforms.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/21ae17ea-bb24-4247-9b17-807e73079f30.webp"
+        },
+        "Passage": {
+            "wordRoot": "Passage",
+            "wordDefinition": "Passage means a way through or a path from one place to another. It is applicable when someone needs to move from one location to another.\n\nFor instance, a person can use a passage to access a building and then use their access to enter a specific room or space within the building.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/497384b9-cd66-44c5-a89e-24f531c0cc28.webp"
+        },
+        "Route": {
+            "wordRoot": "Route",
+            "wordDefinition": "Access and route are two different words with distinct meanings. Access refers to the ability or right to use or enter something.\n\nA route refers to a path or way that leads from one place to another. It's about the journey itself, rather than the ability to enter or use something.\n\nA route can be a road, a trail, or even a series of instructions that someone follows to get from one place to another.\n\nAccess is about getting into or using something, while a route is about the path or way to get from one place to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c2b448e8-f5f9-4e6d-a713-cebdbf6261db.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " On a normal, day-to-day basis, maintaining a well-hydrated system is easy to manage for those of us fortunate enough to have access to clean drinking water. For a long time, conventional wisdom said that we should drink eight glasses a day. That estimate has since been fine-tuned. Now, the consensus is that the amount of water we need to imbibe",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=188"
+        },
+        {
+            "Text": " is so complex and so expensive that it's really only done at major universities and large institutions. And so in order to be able to access the brain, you really need to dedicate your life and spend six and a half years as a graduate student just to become a neuroscientist to get access to these tools.",
+            "Title": "How to control someone...",
+            "VideoId": "rSQNi5sAwuc",
+            "Controls": "start=26"
+        },
+        {
+            "Text": " If you think that someone might be having a heart attack, the most important thing is to respond quickly. If you have access to emergency medical services, call them. They're the fastest way to get to a hospital. Taking aspirin, which thins the blood, and nitroglycerin, which opens up the artery,",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=119"
+        },
+        {
+            "Text": " sometimes for years. So even if we could wipe out every HIV virus from an infected person's body, one of those T cells could activate and start spreading the virus again. The other major catch is that not everyone in the world has access to the therapies that could save their lives.",
+            "Title": "Why it’s so hard to cure...",
+            "VideoId": "0TipTogQT3E",
+            "Controls": "start=170"
+        },
+        {
+            "Text": " can stimulate brain cells to release mood-altering norepinephrine, dopamine, and serotonin. But getting to your brain cells is tricky, and amino acids have to compete for limited access. A diet with a range of foods helps maintain a balanced combination of brain messengers,",
+            "Title": "How the food you eat...",
+            "VideoId": "xyQY8a-ng6g",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " helping it to build muscle and bone, make use of nutrients, capture and use energy and heal wounds. If you need convincing about vitamin value, just consider the plight of olden day sailors, who had no access to vitamin-rich fresh produce. They got scurvy.",
+            "Title": "How do vitamins work? -...",
+            "VideoId": "ISZLTJH5lYg",
+            "Controls": "start=29"
+        },
+        {
+            "Text": " billion people in the developing world who lack access to electricity another aspect that really excites me is how cheap these can be made these thin slang films are made by mixing two inexpensive readily abundant salts to",
+            "Title": "Uncovering a radical...",
+            "VideoId": "2ccar3uqWsw",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " So how can you tell whether the water you have access to, whether from a tap or otherwise, is drinkable? Firstly, too much turbidity, trace organic compounds, or high-density heavy metals like arsenic, chromium, or lead,",
+            "Title": "When is water safe to...",
+            "VideoId": "G244Q4AGJ7U",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " and there is just one tiny tiny little hole that gives you access back to your world and you really feel that when you go down there is definitely that that sense of trepidation and incredible",
+            "Title": "Filming Antarctica's...",
+            "VideoId": "BtQhb8sWJNw",
+            "Controls": "start=205"
+        },
+        {
+            "Text": " I'm not going to lie, it's always a rush getting access to these clandestine worlds. The cocaine pit, the starting point for such a storied black market trade ranks up there.",
+            "Title": "How Coca Leaves Become...",
+            "VideoId": "U4CRLzQwBkg",
+            "Controls": "start=13"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geoff-johns.webp",
+            "Text": "I like collecting comics, I like buying comics, I like looking at comics, but I also read comics on digital readers, so any way people read comics is fine with me. Digital is just helping people who might not necessarily have access to comics help them; that's great.",
+            "Title": "American Writer",
+            "Name": "Geoff Johns"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fidel-castro.webp",
+            "Text": "The world has not yet reached the point which, in my view, is an essential condition for the survival of our human species: access by all the peoples to the material resources of this planet.",
+            "Title": "Statesman",
+            "Name": "Fidel Castro"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-obama.webp",
+            "Text": "I think our democracy has it exactly right: two terms, eight years. It's enough. Because it's important to have one foot in reality when you have access to this kind of power.",
+            "Title": "American First Lady",
+            "Name": "Michelle Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barack-obama.webp",
+            "Text": "It's not enough to train today's workforce. We also have to prepare tomorrow's workforce by guaranteeing every child access to a world-class education.",
+            "Title": "American President",
+            "Name": "Barack Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gelila-bekele.webp",
+            "Text": "Life is a perspective and for me, if a human being has access to school, clean water, food, proper health care, that is the basis of human rights.",
+            "Title": "Ethiopian Model",
+            "Name": "Gelila Bekele"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franchesca-ramsey.webp",
+            "Text": "What's really great about social media is we have tremendous access, and there's a wealth of information about the people that we admire online.",
+            "Title": "American Comedian",
+            "Name": "Franchesca Ramsey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-biden.webp",
+            "Text": "I've known and continue to know every one of these major world leaders by their first names, and I have access to them.",
+            "Title": "American President",
+            "Name": "Joe Biden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/daniel-ek.webp",
+            "Text": "People just want to have access to all of the world's music.",
+            "Title": "Swedish Businessman",
+            "Name": "Daniel Ek"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/austin-peck.webp",
+            "Text": "My sons have such a deep access to my heart.",
+            "Title": "American Actor",
+            "Name": "Austin Peck"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-douglas.webp",
+            "Text": "Celebrity gets you access to world leaders.",
+            "Title": "American Actor",
+            "Name": "Michael Douglas"
+        }
+    ]
+}

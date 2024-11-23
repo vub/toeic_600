@@ -1,0 +1,341 @@
+{
+    "currentWord": {
+        "wordRoot": "sample",
+        "id": 18974,
+        "phonemic": "ˈsɑːmpl|ˈsæmpl\r",
+        "bigId": "e87ef118-6729-408e-876e-a1f204d239a3",
+        "wordForms": [
+            "samples",
+            "sampling",
+            "sampled",
+            "sample"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e87ef118-6729-408e-876e-a1f204d239a3",
+            "de": "A small part or piece that is shown as proof or to get information about the whole thing it came from.",
+            "ty": "noun",
+            "ex": "He took a sample of her blood to be tested in the lab.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "blood sample",
+                " soil sample",
+                " water sample"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e87ef118-6729-408e-876e-a1f204d239a3.webp",
+            "Tips": [
+                {
+                    "title": "Proof of Whole",
+                    "description": "Understand 'sample' as a part showing quality or features of everything it represents.",
+                    "example": "The paint sample reflects the color of the entire batch.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SMSqTS9rqbmEU7E1ndTfj3ccesU.webp"
+                },
+                {
+                    "title": "Research Context",
+                    "description": "'Sample' is often used in scientific or market research contexts.",
+                    "example": "Scientists examined tissue samples under a microscope.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qv07N8G10yP5YvALpMf6JARxKE.webp"
+                }
+            ]
+        },
+        {
+            "id": "547e80f3-8c7e-44af-872f-6a06f29f94cf",
+            "de": "A small amount of a product given to customers to try to see if they like it.",
+            "ty": "noun",
+            "ex": "The company is handing out free samples of their new chocolate bar.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "free sample",
+                " product sample",
+                " sample box"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/547e80f3-8c7e-44af-872f-6a06f29f94cf.webp",
+            "Tips": [
+                {
+                    "title": "Promotional Use",
+                    "description": "Companies give 'samples' as a promotion to introduce new products to consumers.",
+                    "example": "I received a shampoo sample in the mail.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not for Sale",
+                    "description": "Samples are typically free and not intended for sale; they're a marketing strategy.",
+                    "example": "At the store, they offered samples, not full-sized products.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9deca579-9b9f-47dc-ac89-d4c314c06de9",
+            "de": "To taste or try a small amount of something to see what it is like.",
+            "ty": "verb",
+            "ex": "We went to a cheese factory and sampled several kinds of cheese.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sample the cuisine",
+                " sample the wine",
+                " sample the atmosphere"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9deca579-9b9f-47dc-ac89-d4c314c06de9.webp",
+            "Tips": [
+                {
+                    "title": "Taste Experience",
+                    "description": "'Sample' as a verb in food/drink contexts involves trying something for its taste.",
+                    "example": "I sampled each dessert on the menu.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Casual Action",
+                    "description": "When used as a verb, 'sample' suggests a casual, often enjoyable, experience of trying.",
+                    "example": "We sampled the local nightlife during our vacation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6120d785-6362-4653-a9f8-b32dd5b4e95f",
+            "de": "A group of people or things from a larger group that is studied to learn about the whole group.",
+            "do": "Statistical",
+            "ty": "noun",
+            "ex": "The survey was conducted on a sample of 1000 adults.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "random sample",
+                " large sample",
+                " small sample"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6120d785-6362-4653-a9f8-b32dd5b4e95f.webp",
+            "Tips": [
+                {
+                    "title": "Research Representation",
+                    "description": "'Sample' refers to a selection that accurately represents a larger group for study purposes.",
+                    "example": "The researcher chose a diverse sample of participants.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Selection Method",
+                    "description": "Understanding 'sample' includes how it's selected: randomly, by quota, or convenience.",
+                    "example": "The survey results depend on a well-chosen sample.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "91a54415-e2a9-4265-8176-77be56b938cf",
+            "de": "To use a small part of a sound recording in a new piece of music.",
+            "do": "Music",
+            "ty": "verb",
+            "ex": "The DJ sampled an old jazz record in his new song.",
+            "use": "",
+            "co": "Colloquial",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sample a track",
+                " sample a beat",
+                " sample a sound"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/91a54415-e2a9-4265-8176-77be56b938cf.webp",
+            "Tips": [
+                {
+                    "title": "Creative Reuse",
+                    "description": "'Sample' in music involves creatively incorporating existing recordings into new works.",
+                    "example": "The rapper's track samples a 70s funk melody.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Artistic Context",
+                    "description": "Music 'samples' can evoke nostalgia or convey a specific atmosphere in a song.",
+                    "example": "That song samples a famous movie quote.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Demonstration": {
+            "wordRoot": "Demonstration",
+            "wordDefinition": "A demonstration is a performance or display intended to show how something works or is done. For example, a science teacher may demonstrate how an experiment is conducted in front of the class.\n\nDemonstrations are usually used to teach or explain something.\n\nIn summary, demonstrations are used to teach or explain something, while samples are used to give you an idea or impression of something before you commit to it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24acecf7-2432-4deb-a767-9776018c0b7b.webp"
+        },
+        "Example": {
+            "wordRoot": "Example",
+            "wordDefinition": "Example describes something that is used to show or explain a concept or idea.\n\nIt is usually something that represents a typical situation, process or behavior. For example, if you want to show someone how to solve a math problem, you might use an example of a similar problem.\n\nIt is usually taken to represent the whole group or population. For example, if you want to know how good a new brand of cookies is, you might give out samples to get an idea of what people think of them.\n\nExample is used to explain a concept or idea, while sample is used to represent part of a larger group.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/15a18c95-376b-4cbe-a47c-5938bf5b4c71.webp"
+        },
+        "Illustration": {
+            "wordRoot": "Illustration",
+            "wordDefinition": "Illustration refers to a visual representation or example of something, often used in books, magazines, or other publications to help explain a concept or idea.\n\nFor instance, a textbook might feature illustrations of the human body to help students learn about anatomy.\n\nIllustration refers to a visual representation and sample refers to a small portion used to represent a larger whole.\n\nIllustration is often used in publications, while sample is often used in retail settings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2b11a818-3e0e-422f-bd3f-28470000512c.webp"
+        },
+        "Model": {
+            "wordRoot": "Model",
+            "wordDefinition": "A model is a representation of something in order to better understand or predict its behavior.\n\nIt is often a simplified version of the real thing used to explain complex ideas or systems. For example, a scientist might create a model of the solar system to better understand how the planets move.\n\nIn general, models are used to help understand complex systems or ideas, while samples are used to get an idea of what something is like without having to examine everything.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/026058f3-f788-4037-81a1-921e8b49a30b.webp"
+        },
+        "Prototype": {
+            "wordRoot": "Prototype",
+            "wordDefinition": "A prototype is an initial or preliminary model of something that is developed to test and evaluate its design and functionality before producing the final product.\n\nPrototypes are usually used in the development process of a new product to see if it will work properly and to make any necessary modifications before mass production begins.\n\nA prototype is the first version of something that is made to test its design, while a sample is a small part of a final product that is used to showcase its features and quality.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/287c02de-ba25-45de-ad8f-084c9dd14c2a.webp"
+        },
+        "Specimen": {
+            "wordRoot": "Specimen",
+            "wordDefinition": "A specimen is a single item or thing that is representative of a larger group or category. For example, a biologist might collect a specimen of a plant or animal for scientific study.\n\nIn other words, a sample is a smaller piece taken from a larger object, while a specimen is a single object that represents a larger group.\n\nSamples are often used for testing or analysis, while specimens are used for study or observation in scientific fields.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7d77ec85-0b82-4273-9577-9845f9082028.webp"
+        },
+        "Test": {
+            "wordRoot": "Test",
+            "wordDefinition": "Samples are used to gather information about a population without having to survey or test everyone.\n\nA test is an assessment or evaluation of a person, thing, product, or idea.\n\nIt is used to determine the quality, effectiveness, or knowledge associated with the item being tested.\n\nA test is normally used to measure the characteristics of a specific item, for example, a product’s durability, the quality of air in the environment or knowledge and ability on a particular subject.\n\nIn essence, a sample is used to represent a larger group while a test is a way to measure the characteristics of a single item or person.\n\nSamples are commonly used in research and data collection while tests are typically used in evaluations and assessments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc02c21b-62fc-4d64-9b32-22953976e68b.webp"
+        },
+        "Trial": {
+            "wordRoot": "Trial",
+            "wordDefinition": "Trial refers to a formal attempt or test to evaluate something, such as a product, process, or person. Trials are used to determine the effectiveness or suitability of something.\n\nFor example, a medication is tested in a clinical trial to determine its safety and efficacy. Trials are applicable in various fields, such as law, science, and medicine.\n\nA sample is a small portion that is taken as a representative of a larger whole, while a trial is a formal test to evaluate something.\n\nSamples are mainly applicable to products or materials, while trials are applicable in various fields.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/812be838-b97f-4a97-a1c3-cbaad2f1785d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " shrinking the sample space and increasing the probability of getting a particular combination. The point is that information affects probability. And conditional probability isn't just the stuff of abstract mathematical games. It pops up in the real world, as well. Computers and other devices use conditional probability",
+            "Title": "Can you solve the frog...",
+            "VideoId": "cpwSGsb-rTs",
+            "Controls": "start=211"
+        },
+        {
+            "Text": " to smell either one of the worn shirts, or a new unworn one, saliva samples showed an increase in testosterone in those who had smelled a shirt worn by an ovulating woman. Such a testosterone boost may give a man the nudge to pursue a woman he might not have otherwise noticed.",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=87"
+        },
+        {
+            "Text": " we start to understand family structure and population size. Information from a single whale helps the team learn about the individual. But multiple samples help them understand a section of the population, and that's the goal they've been working toward all season.",
+            "Title": "Eyes on Orcas PIPE...",
+            "VideoId": "hadgvFHnqxc",
+            "Controls": "start=73"
+        },
+        {
+            "Text": " and only then will we be able to send our rover to the right places where we can sample those rocks that may be telling us something really important about who we are, or, if not, maybe telling us that somewhere, independently, life has appeared on another planet.",
+            "Title": "Nathalie Cabrol: How...",
+            "VideoId": "wxCtIdI3xL0",
+            "Controls": "start=415"
+        },
+        {
+            "Text": " exciting but I said it is matter that we are manipulating I could put anything in these tiny little things I could put individual cells I could put biomolecules I could actually put patient samples inside these little things and the way they",
+            "Title": "Computing with fluids PIPE...",
+            "VideoId": "OhroLzvW-JI",
+            "Controls": "start=656"
+        },
+        {
+            "Text": " all the sample vials have broken. The virus is contained for now, but unless you can destroy it, the vents will soon open and unleash a deadly airborne plague. Without hesitation, you grab your HazMat suit and get ready to save the world.",
+            "Title": "Can you solve the virus...",
+            "VideoId": "ZKh6z0X6KRw",
+            "Controls": "start=25"
+        },
+        {
+            "Text": " We found samples in mummies. Today, about a third of the world's population is infected, and most of them never even know it. In healthy people, symptoms often don't show up at all. When they do, they're mild and flu-like.",
+            "Title": "Is there a disease that...",
+            "VideoId": "rqno7K2zXi4",
+            "Controls": "start=45"
+        },
+        {
+            "Text": " he sent samples to labs all over the world. Soon the world's first cell production facility was churning out 6 trillion HeLa cells a week, and scientists put them to work in an ethically problematic way,",
+            "Title": "The immortal cells of...",
+            "VideoId": "22lGbAVWhro",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " had snacked on poisonous birth defect-causing plants. They collected the local flora and fed samples to lab rats, but struggled to replicate the effect. So they decided to directly observe the sheep",
+            "Title": "The strange case of the...",
+            "VideoId": "Fzz-Pblbvqw",
+            "Controls": "start=25"
+        },
+        {
+            "Text": " samples and as much data as we can and before you know it you're on your way back up so less than one percent of the deep ocean has ever been seen by human eyes or imaged with cameras",
+            "Title": "The Astronaut of the...",
+            "VideoId": "RXpMSsvhcmQ",
+            "Controls": "start=186"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vanilla-ice.webp",
+            "Text": "This was totally influenced by me and the direction that I am writing about and the stuff that I am writing about. There is just no way that you can be as intense as what I have been through in my life over a drum beat machine, sample, or loop; it's just not going to happen.",
+            "Title": "American Musician",
+            "Name": "Vanilla Ice"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maría-blasco-marhuenda.webp",
+            "Text": "We can detect very small differences in telomere length, and it is a very simple and fast technique where many samples can be analysed at the same time. Most importantly, we are able to determine the presence of dangerous telomeres - those that are very short.",
+            "Title": "Spanish Scientist",
+            "Name": "María Blasco Marhuenda"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-james.webp",
+            "Text": "I wrote and produced millions and millions of selling records, so my publishing company alone was worth millions of dollars. I didn't have to work anymore in life because when the rappers started sampling... I'm the most sampled artist in history.",
+            "Title": "American Musician",
+            "Name": "Rick James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marc-almond.webp",
+            "Text": "I thinks it really interesting how they throw the world music samples in there. I often wonder what it would be like to do something like that, but use my lyrics and my kind of style.",
+            "Title": "British Musician",
+            "Name": "Marc Almond"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/louis-tomlinson.webp",
+            "Text": "All my mates are at university, and it's a life I haven't had a chance to enjoy, so it's great to turn up and sample a bit of it.",
+            "Title": "English Musician",
+            "Name": "Louis Tomlinson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rudy-ray-moore.webp",
+            "Text": "Luther Campbell is the only person that has ever paid me for sampling me. I'm out for the rest of 'em, but the young man paid me.",
+            "Title": "American Comedian",
+            "Name": "Rudy Ray Moore"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kenneth-l-pike.webp",
+            "Text": "The universe extends beyond the mind of man, and is more complex than the small sample one can study.",
+            "Title": "American Sociologist",
+            "Name": "Kenneth L. Pike"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-dukes.webp",
+            "Text": "You never know what can happen if you get sampled by the biggest artist in the world.",
+            "Title": "Canadian Producer",
+            "Name": "Frank Dukes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chino-moreno.webp",
+            "Text": "I've always had a deep passion for a lot of early electronic and sampled music.",
+            "Title": "American Musician",
+            "Name": "Chino Moreno"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rita-marley.webp",
+            "Text": "People come from all over the world to sample Jamaican jerk.",
+            "Title": "Jamaican Singer",
+            "Name": "Rita Marley"
+        }
+    ]
+}

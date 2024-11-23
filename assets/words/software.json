@@ -1,0 +1,257 @@
+{
+    "currentWord": {
+        "wordRoot": "software",
+        "id": 20936,
+        "phonemic": "ˈsɒftweə(r)|ˈsɔːftwer\r",
+        "bigId": "aa205b2c-675e-498d-9dd1-7c4a0b23f34a",
+        "wordForms": [
+            "software"
+        ]
+    },
+    "senses": [
+        {
+            "id": "aa205b2c-675e-498d-9dd1-7c4a0b23f34a",
+            "de": "A set of instructions that tell a computer what to do",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Microsoft Word is application software which is a type of software used for creating documents.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "application software",
+                " system software",
+                " programming software"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/aa205b2c-675e-498d-9dd1-7c4a0b23f34a.webp",
+            "Tips": [
+                {
+                    "title": "Not Physical",
+                    "description": "Software refers to intangible computer instructions, unlike hardware that you can touch.",
+                    "example": "I downloaded new software for my computer, not a physical device.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZwP7UWgq9bDQ0oB6xfIGaU6X7vo.webp"
+                },
+                {
+                    "title": "Ever-evolving",
+                    "description": "Software is regularly updated to fix bugs or add features, unlike static physical objects.",
+                    "example": "My antivirus software requires a yearly update to stay effective.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SXRW8bs4uwW9SI4dVvK4nDWSrd4.webp"
+                },
+                {
+                    "title": "Variety of Uses",
+                    "description": "Software can perform a wide range of tasks, from simple calculations to complex data analysis.",
+                    "example": "Voice recognition software transcribes speech into written text.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nBeaIeVev5Q4lSUv4FRfCZq8Dg.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f34a0d82-6d25-4b8d-8adb-e435749fef70",
+            "de": "A set of related programs designed to be used by a specific industry or occupation",
+            "do": "Business and Industry",
+            "ty": "noun",
+            "ex": "Companies use specialized business software to keep track of their finances.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business software",
+                " industry-specific software",
+                " specialized software"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f34a0d82-6d25-4b8d-8adb-e435749fef70.webp",
+            "Tips": [
+                {
+                    "title": "Industry-Specific",
+                    "description": "Specialized software is tailored to specific job tasks, making them more efficient.",
+                    "example": "Accountants use specialized software to manage tax filings.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Interchangeable",
+                    "description": "Software designed for one industry may not be useful or appropriate for another.",
+                    "example": "Dental clinic software won't be useful for a construction company.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Integrates with Workflows",
+                    "description": "Industry software often integrates with existing processes to streamline work.",
+                    "example": "Our restaurant software integrates with the point of sale system.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Algorithm": {
+            "wordRoot": "Algorithm",
+            "wordDefinition": "An algorithm is a set of instructions or steps used to solve a problem or complete a task.\n\nAlgorithms can be used to solve math problems, sort data, or even help robots walk.\n\nSoftware refers to the programs and applications that are written using algorithms. Software is essentially the end result of using algorithms to create a product that can be used on a computer or other device.\n\nSo, while algorithms are the building blocks used to create software, software is the tangible product that can be used by people.\n\nAlgorithms are applicable in a wide range of fields, from mathematics and engineering to computer science and robotics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/90a48284-0abb-44e7-976d-1bc93e6c2cb1.webp"
+        },
+        "Application": {
+            "wordRoot": "Application",
+            "wordDefinition": "Application refers to a program or software that performs a specific task or function, while software refers to a set of programs, data, and instructions that control the operation of a computer.\n\nFor example, Microsoft Word is an application that is used for word processing, while Microsoft Office is a software suite that includes Word, Excel, and PowerPoint.\n\nApplications are typically used for specific tasks such as editing photos, browsing the internet, or playing games. They are designed to be user-friendly and provide a simple interface for users to interact with.\n\nIn summary, applications are specific programs for performing tasks, while software includes all the programs and tools necessary for a computer to function.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ef73b777-afc5-4c4b-99e7-f82691c362d3.webp"
+        },
+        "Code": {
+            "wordRoot": "Code",
+            "wordDefinition": "Code refers to the instructions that a programmer writes in order to tell a computer what to do. It is the language used to create software.\n\nSoftware is the complete package that includes code as well as any other necessary files, documentation, and interfaces.\n\nCode is like a recipe, while software is the finished dish. Code is used by programmers to create software, and it is constantly being tweaked and improved upon.\n\nCode is the language used to create software, while software is the complete package that includes the code along with other necessary files to make it usable for the end user.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c957ad00-24fe-49b8-8b72-53100d0ca571.webp"
+        },
+        "Platform": {
+            "wordRoot": "Platform",
+            "wordDefinition": "A platform is a foundation or structure on which something can be built or developed, while software is a program or set of instructions that tells a computer what to do.\n\nPlatforms are generally used to provide a base on which software can run or be developed. They may provide features like a user interface, tools for developers, or integration with other programs.\n\nExamples of platforms include operating systems (such as Windows or iOS), game consoles, social media websites (such as Facebook or Instagram), and ecommerce marketplaces (such as Amazon or Etsy).\n\nSoftware is the specific program or application that is run on a platform.\n\nSoftware can be created to run on different platforms, or can be specific to one platform.\n\nA platform is a base or structure on which software can be built, while software is a specific program or application that is run on a platform.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f609f3f-3665-422f-af21-fdffe0c292b6.webp"
+        },
+        "Programme": {
+            "wordRoot": "Programme",
+            "wordDefinition": "Programme and software are often used interchangeably, but there is a subtle difference between the two.\n\nProgramme generally refers to a set of instructions or a plan of action that is designed to accomplish a certain task.\n\nIt can refer to a television programme, an exercise programme, or a business programme, and it is typically used in a broader sense than software.\n\nSoftware specifically refers to the electronic programs that run on a computer or other device. It is a set of instructions or programs that allow the computer to perform specific tasks, such as word processing, data analysis, or internet browsing.\n\nProgramme is a more general term that can refer to a wide range of plans or instructions, while software is a more specific term that refers specifically to electronic programs.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/919d9ae3-dc1f-410e-bd00-e4fe082d4b0e.webp"
+        },
+        "System": {
+            "wordRoot": "System",
+            "wordDefinition": "System refers to a collection of hardware, software, and other components that work together to perform a specific function.\n\nExamples of systems include operating systems like Windows or MacOS, gaming consoles like Xbox or PlayStation, and navigation systems in vehicles.\n\nIn simpler terms, software is a single program that runs on a device, while a system is a combination of hardware and software components that work together to perform a specific task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp"
+        },
+        "Tool": {
+            "wordRoot": "Tool",
+            "wordDefinition": "A tool is a physical or digital device that is designed to perform specific actions or tasks. It is something you can use to accomplish a goal or solve a problem.\n\nExamples of tools include hammers, saws, screwdrivers, and pliers.\n\nSoftware is a set of digital instructions that tell a computer what to do, whereas a tool is a physical or digital device that you use to complete a task.\n\nSoftware can be used for a wide range of tasks, from editing photos to managing finances, while tools are typically more specific, such as a hammer for nailing things or a screwdriver for tightening screws.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a150e9bb-859d-467a-ae4e-16c47d8b8a67.webp"
+        },
+        "Utility": {
+            "wordRoot": "Utility",
+            "wordDefinition": "Utility refers specifically to software tools that perform specific tasks to optimize or enhance the performance of a computer system.\n\nFor example, a disk cleanup utility might help clear unnecessary files from a hard drive, or a firewall utility might protect a computer from online threats.\n\nSoftware is a broad term that encompasses all kinds of computer programs, while utilities refer specifically to tools that improve the functioning of a computer system.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf1c53a0-1d66-48f4-b3de-6d5ebefa8a0e.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " When they're used well, graphs can help us intuitively grasp complex data. But as visual software has enabled more usage of graphs throughout all media, it's also made them easier to use in a careless or dishonest way. So the next time you see a graph, don't be swayed by the lines and curves. Look at the labels, the numbers,",
+            "Title": "How to spot a misleading...",
+            "VideoId": "E91bGT9BjYk",
+            "Controls": "start=200"
+        },
+        {
+            "Text": " Social media companies are considering using algorithms to help prevent suicides by flagging posts that contain specific words or phrases. And emotion recognition software can help treat mental disorders or even provide people with low-cost automated psychotherapy. Despite the potential benefits,",
+            "Title": "Can machines read your...",
+            "VideoId": "QFk3e5PcK7s",
+            "Controls": "start=185"
+        },
+        {
+            "Text": " important is the threat they pose to agriculture how far could they potentially move from to reach agricultural production so these have been going for a number of hours in this particular bug it doesn't seem to move much no though even earlier this morning ether vision is up travelling software",
+            "Title": "Fighting the Invasive...",
+            "VideoId": "eNwHNYXSCGg",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " with English lending words like software to languages all over the world. Another popular way to fill a vocabulary gap is by combining existing words that each convey part of the new concept. This can be done by combining two whole words into a compound word, like airport or starfish,",
+            "Title": "Where do new words come...",
+            "VideoId": "Ytr28t5VzAs",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " so that anyone in the world could come in, and by clicking on the screen, they could move the robot around and visit the garden. But we also set up some other software that lets you participate and help us water the garden, remotely. And if you watered it a few times,",
+            "Title": "Ken Goldberg: 4 lessons...",
+            "VideoId": "klBwPWL69P8",
+            "Controls": "start=235"
+        },
+        {
+            "Text": " on the pick worker's actual day in the life of. So as we mentioned, the process is to move inventory along the highway and then find your way into these pick stations. And our software in the background understands what's going on in each station,",
+            "Title": "Mick Mountz: What...",
+            "VideoId": "9UiK4llJOXc",
+            "Controls": "start=596"
+        },
+        {
+            "Text": " your audience to take action you guys believe me probably not but let me explain I'm a data scientist I use software and data to analyze communications to help people connect with their audiences I've been doing this for years but it's actually",
+            "Title": "How visionary leaders...",
+            "VideoId": "o25c5wRvPnI",
+            "Controls": "start=18"
+        },
+        {
+            "Text": " pumped blood from an aorta to another part of the heart, and as you can see at the bottom there, it was controlled by a computer controller, and if you ever thought that software liability was very important, get one of these inside of you.",
+            "Title": "Avi Rubin: All your...",
+            "VideoId": "66-mr600NjU",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " because of this huge industry that has started over the last two decades in India, offshoring software development and back office services, there's been a flight of white collar jobs from the developed world to India.",
+            "Title": "Nirmalya Kumar: India's...",
+            "VideoId": "iyfdWsa1zns",
+            "Controls": "start=25"
+        },
+        {
+            "Text": " presented by BBC earth this stunning software app contains sixty animated 3d dinosaurs brought roaring to life thirty",
+            "Title": "Walking with Dinosaurs:...",
+            "VideoId": "13l9yvYhXgg",
+            "Controls": "start=4"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jaron-lanier.webp",
+            "Text": "Human beings either function as individuals or as members of a pack. There's a switch inside us, deep in our spirit, that you can turn one way or the other. It's almost always the case that our worst behaviour comes out when we're switched to the mob setting. The problem with a lot of software designs is that they switch us to that setting.",
+            "Title": "American Artist",
+            "Name": "Jaron Lanier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fabrizio-moreira.webp",
+            "Text": "Many people think that being a graphic designer means going to an expensive art school and buying expensive software that will cost you thousands of dollars. This is so far from the truth. There are hundreds of online education centers that offer top-notch graphic design training.",
+            "Title": "Ecuadorian Politician",
+            "Name": "Fabrizio Moreira"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hilary-mason.webp",
+            "Text": "You really need to have a lot of empathy for the work you're doing and the people who you're ultimately trying to help, whether that's a business colleague, a boss, or, ultimately, the user of the software you're building.",
+            "Title": "English Actress",
+            "Name": "Hilary Mason"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonas-blue.webp",
+            "Text": "I stay up night after night looking at new software, seeing new trends, what music's happening you know you've just got stay constantly connected and that's just something that I do and I think is really important.",
+            "Title": "English Musician",
+            "Name": "Jonas Blue"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "I was lucky to be involved and get to contribute to something that was important, which is empowering people with software.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jensen-huang.webp",
+            "Text": "Software is eating the world, but AI is going to eat software.",
+            "Title": "Taiwanese Businessman",
+            "Name": "Jensen Huang"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brianna-wu.webp",
+            "Text": "Software increasingly defines the world around us.",
+            "Title": "American Businesswoman",
+            "Name": "Brianna Wu"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marc-andreessen.webp",
+            "Text": "In short, software is eating the world.",
+            "Title": "American Businessman",
+            "Name": "Marc Andreessen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-peterffy.webp",
+            "Text": "Software makes the world go round.",
+            "Title": "Hungarian Businessman",
+            "Name": "Thomas Peterffy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/craig-venter.webp",
+            "Text": "Life is a DNA software system.",
+            "Title": "American Scientist",
+            "Name": "Craig Venter"
+        }
+    ]
+}

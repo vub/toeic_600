@@ -1,0 +1,295 @@
+{
+    "currentWord": {
+        "wordRoot": "notify",
+        "id": 19254,
+        "phonemic": "ˈnəʊtɪfaɪ|ˈnəʊtɪfaɪ\r",
+        "bigId": "eaf38bc8-142c-419d-b48a-d1a22154821e",
+        "wordForms": [
+            "notifies",
+            "notifying",
+            "notified",
+            "notify"
+        ]
+    },
+    "senses": [
+        {
+            "id": "eaf38bc8-142c-419d-b48a-d1a22154821e",
+            "de": "To inform or tell someone about something",
+            "ty": "verb",
+            "ex": "Please notify me when the package arrives.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "notify someone",
+                " notify of",
+                " notify in advance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/eaf38bc8-142c-419d-b48a-d1a22154821e.webp",
+            "Tips": [
+                {
+                    "title": "Personal Updates",
+                    "description": "Use 'notify' to tell friends or family about events in your life.",
+                    "example": "I'll notify you about my travel plans.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/C4usnE9GcKmEa7rYn4mcjIN0eE.webp"
+                },
+                {
+                    "title": "Time Sensitive",
+                    "description": "'Notify' is often used when the information is time-critical.",
+                    "example": "Notify me immediately if the meeting time changes.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/L5FgD819vk84WenPk2gxakIGo1g.webp"
+                },
+                {
+                    "title": "Request Specifics",
+                    "description": "'Notify of' is used to ask for specific information about something.",
+                    "example": "Please notify me of any changes to the document.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4Hn41nyIAFO7RVrO1dxn7OSZQk.webp"
+                }
+            ]
+        },
+        {
+            "id": "25e9f37c-ba74-44db-9b3f-990e3bcf59ae",
+            "de": "To officially make a report or statement to an authority about something",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The police were notified of the incident.",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "notify the authorities",
+                " notify the police",
+                " notify the court"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/25e9f37c-ba74-44db-9b3f-990e3bcf59ae.webp",
+            "Tips": [
+                {
+                    "title": "Authority Communication",
+                    "description": "In legal contexts, 'notify' implies a formal communication to officials.",
+                    "example": "The company must notify regulators about the data breach.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Obligation to Inform",
+                    "description": "'Notify' in legal terms can imply a legal obligation to report an event.",
+                    "example": "Landlords must notify tenants of rent increases.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Documented Confirmation",
+                    "description": "Notification can suggest a written or formal acknowledgment from authority.",
+                    "example": "I got notified in writing about the court decision.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d3ae4cc2-a51c-49d7-afdc-193e75e10cd6",
+            "de": "To make something known or communicate something in a formal or public way",
+            "do": "Business",
+            "ty": "verb",
+            "ex": "All shareholders will be notified of the upcoming changes.",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "notify changes",
+                " notify the public",
+                " notify shareholders"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d3ae4cc2-a51c-49d7-afdc-193e75e10cd6.webp",
+            "Tips": [
+                {
+                    "title": "Corporate Announcements",
+                    "description": "Businesses use 'notify' to formally tell customers or clients about changes.",
+                    "example": "Customers were notified about the new policy update.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Stakeholder Updates",
+                    "description": "'Notify' is used to keep stakeholders informed on significant matters.",
+                    "example": "The board must notify investors of any mergers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Public Engagement",
+                    "description": "'Notify the public' is used when broadcasting information to the wider community.",
+                    "example": "The mayor will notify the public about the new regulations.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Advise": {
+            "wordRoot": "Advise",
+            "wordDefinition": "Advise means to give suggestions or recommendations to someone about what they should do. For example, if your friend asks you for advice on what to do if they fail a test, you might advise them to talk to their teacher about extra credit opportunities.\n\nSo, in short, advise is used when you want to give someone suggestions or recommendations, while notify is used when you want to inform someone about a specific event or situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ba0be62a-dc8d-4237-8f70-07b4afc2e2b3.webp"
+        },
+        "Alert": {
+            "wordRoot": "Alert",
+            "wordDefinition": "Alert is used to inform people of a potential danger, problem or urgent situation that requires immediate action.\n\nFor example, a fire alarm alerts people to evacuate a building in case of a fire.\n\nAlert means warning of something urgent, while notify means informing someone about something that has happened or will happen.\n\nAlert is applicable in emergency situations where immediate action is required, while notify is applicable in situations where information needs to be communicated.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f04635e-4603-4059-b734-32d2a441a189.webp"
+        },
+        "Apprise": {
+            "wordRoot": "Apprise",
+            "wordDefinition": "Apprise means to give someone more detailed and specific information about a situation, usually for the purpose of helping them make a decision or take action.\n\nFor example, if your parents apprise you of the risks of smoking, they are giving you more detailed and specific information about how smoking can affect your health.\n\nSo, basically, the difference between these two words is that notify means to give someone information, while apprise means to give someone more specific and detailed information so that they can make a decision or take action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1204c73a-b90c-461b-a303-d59603d5385a.webp"
+        },
+        "Communicate": {
+            "wordRoot": "Communicate",
+            "wordDefinition": "Communicate means to exchange information or ideas with someone. It involves two-way interaction where both parties are actively participating in the conversation.\n\nFor example, if you want to tell your friend about your plans to go to the movies, you would communicate with them by discussing the movie options and deciding on a time to meet up.\n\nCommunicate involves an exchange of information while notify is a one-way information transfer.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/317f2fe9-c72e-4dc1-a989-f113602e64c9.webp"
+        },
+        "Inform": {
+            "wordRoot": "Inform",
+            "wordDefinition": "Inform means to give someone knowledge or understanding about a certain topic or situation. For example, if you inform someone about the weather, you are giving them information about it.\n\nYou use inform when you want to share information or knowledge about something, while you use notify when you need to give someone official or formal notice about something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/acf0b603-c998-4011-99d6-ad09b37b97bf.webp"
+        },
+        "Report": {
+            "wordRoot": "Report",
+            "wordDefinition": "Report means to give a detailed account of an event or situation that has already happened. For example, if you witness a car accident, you would report it to the police by giving them a detailed account of what you saw.\n\nNotify is used to give advance notice about something, while report describes or relay information after something has already happened.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a488d29-5711-4022-a4d7-16eca9db9e68.webp"
+        },
+        "Transmit": {
+            "wordRoot": "Transmit",
+            "wordDefinition": "Transmit means to send or transfer something from one place to another. It is commonly used when talking about electronic communication, such as sending a message or a file through email, text message, or other forms of digital media.\n\nNotify is more about providing information to someone, while transmit is more about sending information from one place to another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/90a76f2d-aa52-4b5f-ab6d-72843bf15b0c.webp"
+        },
+        "Warn": {
+            "wordRoot": "Warn",
+            "wordDefinition": "Warn means to tell someone about a potential danger or problem, often with the intention of preventing harm.\n\nFor example, if you warn someone not to touch a hot stove, you are telling them about the danger involved in order to prevent them from getting burned.\n\nYou notify someone to inform them about something, while you warn them to alert them to a potential danger.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dbbae1d7-14fc-4068-b322-48d0f1a01717.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " It just means that, somewhere in their mind, that it's landed, and now, already, they're making a plan about, \"OK, who do we need to notify, what's the next thing we need to do.\" And again, if you can remember this as you go through your panic, if you can remember that in the moment of emergency, there will be an intuitive, deep sense",
+            "Title": "It's OK to feel...",
+            "VideoId": "oNBvC25bxQU",
+            "Controls": "start=1466"
+        },
+        {
+            "Text": " to log in and verify that they've taken their medication. If they don't log in, we text them again. If they don't log in, we text them yet again. If, after three times, they still haven't verified, we notify a team of supporters and that team will call and text them to try to get them back on the wagon.",
+            "Title": "How to motivate people...",
+            "VideoId": "jAw8t2g-eVU",
+            "Controls": "start=541"
+        },
+        {
+            "Text": " The good news is that advances in data mining, artificial intelligence and machine learning increasingly mean that computers can help us analyze thousands or millions of points of data, predict problems before they arise, notify managers and even recommend actions to take.",
+            "Title": "How to Fix Broken Supply...",
+            "VideoId": "y_EjCSz1aBo",
+            "Controls": "start=497"
+        },
+        {
+            "Text": " destroy the evidence before the statute of limitation runs out or notify survivors what their rights are so they have resources or create a task force with key stakeholders so that everyone can assess the effectiveness of these policies look these rights can even help",
+            "Title": "Re-writing laws to help...",
+            "VideoId": "rBJBi8oyG18",
+            "Controls": "start=209"
+        },
+        {
+            "Text": " although you wouldn't want to go to the circus elephant let me tell you you've got a much better life out here very busy Safari lives got talent you quite right Rebecca perhaps and win with the presenters and the rest of the team going to be notified about Safari lads",
+            "Title": "Safari Live - Day 142 PIPE...",
+            "VideoId": "YkaJsJJ-DAw",
+            "Controls": "start=1339"
+        },
+        {
+            "Text": " If you die there, well, it usually is. If you die outside the hospital, it's more often than not the police who notify that nearest loved one. Doing that type of work has taught me powerful lessons on approaching highly charged situations in all areas of my life.",
+            "Title": "A strategy for...",
+            "VideoId": "295sVZZf9CI",
+            "Controls": "start=50"
+        },
+        {
+            "Text": " premier expert in egyptian whales was intrigued when he was notified about the discovery so Gingrich and Egyptian authorities drove out to visit in person they determined that any potential whale bones would be embedded deep in the",
+            "Title": "Fossil Found in Kitchen...",
+            "VideoId": "VXrsDHevV6I",
+            "Controls": "start=86"
+        },
+        {
+            "Text": " in our brains. It contains the equivalent of a stopwatch telling us how many seconds elapsed, a clock counting the hours of the day, and a calendar notifying us of the seasons. Each one is located in a different brain region.",
+            "Title": "How does your body know...",
+            "VideoId": "Y8ZXOfWUbms",
+            "Controls": "start=80"
+        },
+        {
+            "Text": " something the supervisor is notified we come over and we go through the feces looking for the drugs it's an unpleasant but mandatory waiting game and the latest chapter and a continuing life of crime",
+            "Title": "Defecation Watch PIPE...",
+            "VideoId": "JnxHY5Qd22A",
+            "Controls": "start=188"
+        },
+        {
+            "Text": " but like I said we will be certain to notify you guys as soon as any imminent action is ready to share with you it's been wonderful having you on safari with me and the Manu on camera we will see",
+            "Title": "Safari Live - Day 27 PIPE...",
+            "VideoId": "4Zte_spqthU",
+            "Controls": "start=9650"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/quavo.webp",
+            "Text": "We need the world to respect us. They consume a lot of hits and just act like it wasn't... I ain't never seen nobody make these many hits and not get notified for it. And change the game like we did and bring the flow to the game the way we did and not get noticed for it, like the the big way - the real system way.",
+            "Title": "American Musician",
+            "Name": "Quavo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/donna-brazile.webp",
+            "Text": "I talked to the general counsel of the DNC, and he assures me that every step along the way, when we were notified of these issues, that we changed systems, changed procedures, but these hackers are so sophisticated that they changed procedures.",
+            "Title": "American Politician",
+            "Name": "Donna Brazile"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-meadows.webp",
+            "Text": "Most Americans can't begin to understand what day-to-day life is like for millions of Israeli citizens. We can't relate to hearing sirens go off - notifying us that we have 15 seconds to a minute to seek shelter from a potential rocket attack.",
+            "Title": "American Politician",
+            "Name": "Mark Meadows"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-orielly.webp",
+            "Text": "Quite simply, when D.C. Metro riders - often the first to see a problem developing - try to notify first responders, they frequently are unable to receive a signal strong enough to make a simple call to 9-1-1 to report the emergency.",
+            "Title": "American Public Servant",
+            "Name": "Michael O'Rielly"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hamad-bin-isa-al-khalifa.webp",
+            "Text": "We have evidence that a number of Bahrainis who oppose our government are being trained in Syria. I have seen the files and we have notified the Syrian authorities, but they deny any involvement.",
+            "Title": "Royalty",
+            "Name": "Hamad bin Isa Al Khalifa"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pete-hoekstra.webp",
+            "Text": "From my experience as Chairman of the House Intelligence Committee, if a congressperson is identified as a potential target by a foreign intelligence service, that individual is notified.",
+            "Title": "American Politician",
+            "Name": "Pete Hoekstra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/darryl-glenn.webp",
+            "Text": "If your neighbor is doing something wrong, let's call it. Let's say this person is doing wrong, and let's notify our law enforcement so we can actually vet that individual.",
+            "Title": "American Politician",
+            "Name": "Darryl Glenn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/virgil-goode.webp",
+            "Text": "In addition, the bill passed by the House requires a person performing an abortion on a minor from a different state to notify one parent in the home state.",
+            "Title": "American Politician",
+            "Name": "Virgil Goode"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dave-morin.webp",
+            "Text": "We give you a list of suggested friends to connect with who are already on Path. We notify you when other friends of yours join Path.",
+            "Title": "American Businessman",
+            "Name": "Dave Morin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marsha-blackburn.webp",
+            "Text": "If you see something suspicious, don't just walk by. Notify authorities. Get help. You could save innocent lives.",
+            "Title": "American Politician",
+            "Name": "Marsha Blackburn"
+        }
+    ]
+}

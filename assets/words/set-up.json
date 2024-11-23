@@ -1,0 +1,142 @@
+{
+    "currentWord": {
+        "wordRoot": "set up",
+        "id": 45012,
+        "phonemic": "|\r",
+        "bigId": "1f2bdafd-d239-4262-a7d6-cebdaf57d93b",
+        "wordForms": [
+            "set up"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1f2bdafd-d239-4262-a7d6-cebdaf57d93b",
+            "de": "To organize or arrange something.",
+            "ty": "verb",
+            "ex": "He set up the meeting for next week.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "set up a meeting",
+                " set up a date",
+                " set up a plan"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1f2bdafd-d239-4262-a7d6-cebdaf57d93b.webp",
+            "Tips": [
+                {
+                    "title": "Arrange in Advance",
+                    "description": "Used to talk about planning events before they happen, to avoid confusion.",
+                    "example": "Let's set up the agenda before the conference.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vak3fQEvayjxEsncQ8w2GowXUzo.webp"
+                },
+                {
+                    "title": "Active Role",
+                    "description": "Implies someone is actively organizing, not just participating.",
+                    "example": "She set up the charity event by herself.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/E7plu5Jvdavr1b3T2MMKSOQePcM.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "09f34a43-d222-4fae-ad27-12e2b1f9805e",
+            "de": "To make a piece of equipment ready for use.",
+            "do": "General, Technical",
+            "ty": "verb",
+            "ex": "He set up the computer in the office.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "set up a computer",
+                " set up a device",
+                " set up an equipment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/09f34a43-d222-4fae-ad27-12e2b1f9805e.webp",
+            "Tips": [
+                {
+                    "title": "Technical Readiness",
+                    "description": "Refers to technical tasks like assembling, installing, or configuring.",
+                    "example": "I need to set up my printer before I can use it.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Start from Scratch",
+                    "description": "Means starting with basic components and building to full function.",
+                    "example": "After moving, I had to set up my home network from scratch.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "16566465-06d3-4378-9a83-f5db868c5f02",
+            "de": "To establish a business or organization.",
+            "do": "Business, Legal",
+            "ty": "verb",
+            "ex": "She set up her own company at the age of 25.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "set up a company",
+                " set up a business",
+                " set up an organization"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/16566465-06d3-4378-9a83-f5db868c5f02.webp",
+            "Tips": [
+                {
+                    "title": "Create New",
+                    "description": "Used to describe the beginning stages of a business or project.",
+                    "example": "They decided to set up a new fund for the school.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Entrepreneurial Spirit",
+                    "description": "Conveys initiative and the start of something entrepreneurial.",
+                    "example": "He set up a pop-up shop to test his business idea.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "55ec5575-b1dd-4bea-8dc8-e606ba11b5d9",
+            "de": "To falsely make someone seem guilty for something.",
+            "ty": "phrasal verb",
+            "ex": "He was set up and wrongly accused of stealing.",
+            "use": "",
+            "sy": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "set up for a crime",
+                " set up for a theft",
+                " set someone up"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/55ec5575-b1dd-4bea-8dc8-e606ba11b5d9.webp",
+            "Tips": [
+                {
+                    "title": "Innocence Compromised",
+                    "description": "Suggests someone is made to look guilty unfairly.",
+                    "example": "I didn't do it; I was set up!\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Plot Twists",
+                    "description": "Often used in storytelling to describe deceitful schemes.",
+                    "example": "In the movie, the hero was set up to take the fall.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {},
+    "videos": [],
+    "quotes": []
+}

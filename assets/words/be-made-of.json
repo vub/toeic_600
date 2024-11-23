@@ -1,0 +1,69 @@
+{
+    "currentWord": {
+        "wordRoot": "be made of",
+        "id": 0,
+        "phonemic": "bi meɪd əv",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "",
+            "de": "To consist of a particular material or substance.",
+            "ty": "",
+            "ex": "The table is made of wood.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "be made of wood",
+                "be made of plastic",
+                "be made of metal",
+                "be made of cotton",
+                "be made of glass",
+                "entirely made of",
+                "partly made of"
+            ],
+            "ImageSrc": "./senses/970138b7-4ead-498b-9796-e7b2a25cbfbb.webp",
+            "Tips": [
+                {
+                    "title": "Describing materials",
+                    "description": "Use 'be made of' to describe the material something is constructed from.",
+                    "example": "This shirt is made of 100% cotton.",
+                    "imageUrl": "./tips/9d2d2583-13eb-4694-a244-f07ed5880a9a.webp"
+                },
+                {
+                    "title": "Not for processes",
+                    "description": "Don't use 'be made of' to describe a process. Use 'be made from' for that.",
+                    "example": "Wine is made from grapes. (NOT made of)",
+                    "imageUrl": "./tips/ee4eae1d-2959-40cb-b45a-ca49a468349b.webp"
+                },
+                {
+                    "title": "Visible components",
+                    "description": "'Be made of' implies the materials are still visible or easily identifiable in the final product.",
+                    "example": "The cake is made of flour, sugar, and eggs.",
+                    "imageUrl": "./tips/979f5b66-0b2f-4f1b-854d-5105a3b0c906.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "consist of": {
+            "wordRoot": "consist of",
+            "wordDefinition": "'Consist of' is more formal and emphasizes the constituent parts. 'Be made of' is more common and focuses on the material.",
+            "wordImage": ""
+        },
+        "comprise": {
+            "wordRoot": "comprise",
+            "wordDefinition": "'Comprise' is similar to 'consist of' but is often used in a more technical or official context.",
+            "wordImage": ""
+        },
+        "be composed of": {
+            "wordRoot": "be composed of",
+            "wordDefinition": "'Be composed of' is more formal than 'be made of' and often used for abstract or complex things.",
+            "wordImage": ""
+        }
+    }
+}

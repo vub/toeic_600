@@ -1,0 +1,311 @@
+{
+    "currentWord": {
+        "wordRoot": "consume",
+        "id": 3216,
+        "phonemic": "kənˈsjuːm|kənˈsuːm\r",
+        "bigId": "055e4368-6399-4cf4-b87b-77cf0eef5833",
+        "wordForms": [
+            "consumes",
+            "consuming",
+            "consumed",
+            "consume"
+        ]
+    },
+    "senses": [
+        {
+            "id": "055e4368-6399-4cf4-b87b-77cf0eef5833",
+            "de": "to eat or drink something",
+            "ty": "verb",
+            "ex": "After a long workout, she consumed a large meal.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "consume food",
+                " consume beverages",
+                " consume a meal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/055e4368-6399-4cf4-b87b-77cf0eef5833.webp",
+            "Tips": [
+                {
+                    "title": "Context Matters",
+                    "description": "Use 'consume' when focusing on the amount or desire rather than the act of eating.",
+                    "example": "He consumed the whole cake in one sitting.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/aPej75bQTHDffdmd9N3rnt3VxBI.webp"
+                },
+                {
+                    "title": "Intensity",
+                    "description": "'Consume' can imply eating with great appetite or thirst.",
+                    "example": "The athletes consumed gallons of water post-marathon.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GTM2hFJmGejFtA7IwYlG2yriIs.webp"
+                }
+            ]
+        },
+        {
+            "id": "aba049fd-c4a4-4f91-a9e5-64bb84495fb0",
+            "de": "to use up a resource",
+            "ty": "verb",
+            "ex": "Running her business consumed all of her time.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "consume energy",
+                " consume time",
+                " consume resources"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/aba049fd-c4a4-4f91-a9e5-64bb84495fb0.webp",
+            "Tips": [
+                {
+                    "title": "Metaphorical Use",
+                    "description": "'Consume' can suggest a resource is being used to its limit.",
+                    "example": "The project consumed a great deal of financial resources.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Negative Connotation",
+                    "description": "Sometimes 'consume' implies negative consequences of excessive use.",
+                    "example": "His constant travel consumed his savings rapidly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ce7beece-fe99-4580-a81c-bf41b49ca87e",
+            "de": "to completely destroy or eradicate",
+            "ty": "verb",
+            "ex": "The fire consumed the entire forest.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "consume by fire",
+                " consume whole",
+                " consume utterly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ce7beece-fe99-4580-a81c-bf41b49ca87e.webp",
+            "Tips": [
+                {
+                    "title": "Total Destruction",
+                    "description": "'Consume' often means something is destroyed so completely, it ceases to exist.",
+                    "example": "A plague consumed the crop yields that year.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Hyperbolic Expression",
+                    "description": "It can be used to exaggerate the extent of destruction or loss.",
+                    "example": "Their love was consumed by endless arguments.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ab800f51-4baa-4b26-81e3-1b378e89d50d",
+            "de": "to absorb; engage fully",
+            "ty": "verb",
+            "ex": "She was completely consumed by her passion for music.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "consume with passion",
+                " consume with thought",
+                " consume with anger"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ab800f51-4baa-4b26-81e3-1b378e89d50d.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Involvement",
+                    "description": "'Consume' suggests being absorbed by an emotion to the point of being controlled by it.",
+                    "example": "He was consumed with jealousy.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Complete Engagement",
+                    "description": "When someone's interest or activity 'consumes' them, it dominates their life or time.",
+                    "example": "Researching her family history has consumed her every weekend.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Deplete": {
+            "wordRoot": "Deplete",
+            "wordDefinition": "Deplete means to use up all of something until there is none left. For example, you might deplete a resource, like oil or water.\n\nConsume can be used for anything you use up, while deplete is specifically used when you're talking about using up a resource to the point where there is none left.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1a206e1e-d0e4-4e7a-9895-6196b5edc129.webp"
+        },
+        "Devour": {
+            "wordRoot": "Devour",
+            "wordDefinition": "The words consume and devour both mean to eat or use up something, but devour implies a more intense or rapid consumption.\n\nFor example, you might consume a sandwich slowly, taking small bites and savoring each flavor, while you would devour a plate of french fries quickly and eagerly.\n\nConsume is a more neutral and versatile term, while devour suggests a voracious or urgent appetite.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/73e1a04a-c6fb-43f6-ae25-5ac611c228fc.webp"
+        },
+        "Eat": {
+            "wordRoot": "Eat",
+            "wordDefinition": "Consume means to use something up or take it in, while eat specifically refers to ingesting food or drink through the mouth.\n\nWe use consume when talking about things we use up, like energy or resources, such as \"The factory consumes a lot of electricity\" or \"I consume a lot of water during my workouts.”\n\nOn the other hand, we use eat when referring to ingesting food or drink through the mouth, such as \"I am going to eat this sandwich for lunch\" or \"Let's eat dinner together tonight.”\n\nOverall, while consume has a broader meaning, eat is a specific type of consumption that pertains to food and drink.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e06f09bc-87c6-4e67-81a1-9cd97b92c9cc.webp"
+        },
+        "Exhaust": {
+            "wordRoot": "Exhaust",
+            "wordDefinition": "Exhaust means to use up completely or to feel very tired or empty. For example, you may exhaust your energy or resources by working too hard or by doing too much.\n\nConsume is applicable when referring to using resources while exhaust is applicable when referring to using up something completely or feeling very tired or empty.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8e8d88fb-c4a1-4a15-a2fe-7b45db0cff51.webp"
+        },
+        "Exploit": {
+            "wordRoot": "Exploit",
+            "wordDefinition": "Exploit means to take advantage of something or someone for your own gain.\n\nIt can be used in a negative way when we exploit people or resources for profit, or it can be used in a positive way if we exploit our talents or opportunities to achieve success.\n\nConsume refers to using things up or enjoying them, while exploit refers to taking advantage of them for our own benefit.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f698736e-9f72-4b23-a676-47965ba95e17.webp"
+        },
+        "Imbibe": {
+            "wordRoot": "Imbibe",
+            "wordDefinition": "Imbibe means to drink, but usually with a sense of enjoyment or pleasure.\n\nIt is generally used to refer to liquids like water, juice, tea, or coffee. For example, we imbibe a cup of coffee to wake up in the morning or imbibe a cool drink to quench our thirst on a hot day.\n\nConsume applies to solid or semi-solid substances, whereas imbibe applies to liquids that we enjoy or consume casually.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70805e25-7328-482f-a89a-bfd0da7c9040.webp"
+        },
+        "Ingest": {
+            "wordRoot": "Ingest",
+            "wordDefinition": "Ingest specifically refers to the act of taking in food or drink through your mouth and swallowing it.\n\nIt's a more specific term that only applies to the consumption of food and drink. For example, you might ingest a lot of water when you're thirsty or ingest a piece of cake at a party.\n\nConsume is a broader term that can apply to a wider range of things, while ingest is a more specific term that only applies to eating and drinking.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a22fc5fb-c707-43ce-a7ab-369d91e5dd42.webp"
+        },
+        "Swallow": {
+            "wordRoot": "Swallow",
+            "wordDefinition": "Consume means to eat or drink something entirely, while the word swallow means to take food or drink into the stomach through the mouth.\n\nFor example, if you eat a whole pizza, you consumed the entire pizza. But if you took a bite and then swallowed it, you swallowed a piece of pizza.\n\nConsume is more applicable when talking about eating a meal or drinking a beverage completely, while swallow is more commonly used when talking about taking medicine or swallowing small items such as a pill.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e97a7e4a-4365-459e-97d7-8a870f6ab99a.webp"
+        },
+        "Use": {
+            "wordRoot": "Use",
+            "wordDefinition": "Consume means to completely use up or destroy something, while use simply means to make use of something for a particular purpose without necessarily depleting it entirely.\n\nYou might consume food, meaning you eat all of it until it's gone, but you would use a tool to complete a project without necessarily breaking or destroying it.\n\nUse is more applicable since it refers to a wider range of actions and objects, while consume is more specific and typically related to consumption of resources or goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f41be5d3-b463-486f-a099-0ce5f6ebab8a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " As they consume it, the bacteria generate byproducts in the form of acids, such as lactic acid. Mutans streptococci are resistant to this acid, but unfortunately, our teeth aren't. While each human tooth is coated in a hardy, protective layer of enamel, it's no match for acid.",
+            "Title": "What causes cavities? -...",
+            "VideoId": "zGoBFU1q4g0",
+            "Controls": "start=61"
+        },
+        {
+            "Text": " It is a way of preserving the reef and dedicating ourselves to something else, They began to prefer transporting tourists because they knew they got paid well and they consumed less fuel. Besides, they were home early and that's what encouraged them to give up the fishing.",
+            "Title": "How One Community Saved...",
+            "VideoId": "h4HzJSUPlH4",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " want to understand what drives these events or generates these events and new stories don't tell you that news give you the illusion of understanding and that illusion is dangerous I came to realize the more news you consume the less you understand the world my website",
+            "Title": "Four reasons you should...",
+            "VideoId": "-miTTiaqFlI",
+            "Controls": "start=97"
+        },
+        {
+            "Text": " Before I could say anything, tell him how foolish he had made me look in front of my friends, he derided me for being so naive. Looked me in the eye, fear consuming his face, and said, \"Son, I'm sorry, but you can't act the same as your white friends.",
+            "Title": "How to raise a Black son...",
+            "VideoId": "Us70DN2XSfM",
+            "Controls": "start=152"
+        },
+        {
+            "Text": " that many of us exhibit from time to time. But the actual disorder is far more rare and can be quite debilitating. People affected have little or no control over their obsessive thoughts and compulsive behaviors, which tend to be time consuming",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=66"
+        },
+        {
+            "Text": " Most of this caffeine is consumed in coffee and tea, but it's also ingested in some sodas, chocolate, caffeine pills, and even beverages labeled decaf. Caffeine helps us feel alert, focused, happy, and energetic,",
+            "Title": "How does caffeine keep...",
+            "VideoId": "foLf5Bi9qXs",
+            "Controls": "start=16"
+        },
+        {
+            "Text": " They sustain themselves by consuming the life force of a living creature. This shared trait is what defines a vampire -- all the other attributes change with the tides. So, how do we arrive",
+            "Title": "Vampires: Folklore,...",
+            "VideoId": "_0ThKRmySoU",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " and even cats, males can also lactate. Milk drinkers worldwide consume dairy from buffalo, goats, sheeps, camels, yaks, horses, and cows. Almost all of these species are ruminants,",
+            "Title": "The science of milk -...",
+            "VideoId": "xmNzUEmFZMg",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " And, finally, you might ask yourself, how many t-shirts and articles of clothing will you consume over your lifetime, and what will be their combined impact on the world?",
+            "Title": "The life cycle of a...",
+            "VideoId": "BiSYoeqb_VY",
+            "Controls": "start=298"
+        },
+        {
+            "Text": " and tuck in not only do they consume the pollen when that runs out they will eat the young bee larvae too around the world people are now",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "leDm_-nfr2w",
+            "Controls": "start=475"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-bernard-shaw.webp",
+            "Text": "If you're not producing as much as you consume, or perhaps a little more, then clearly we cannot use the big organization of our society for the purpose of keeping you alive, because your life does not benefit us, and it can't be of very much use to yourself.",
+            "Title": "Irish Playwright",
+            "Name": "George Bernard Shaw"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wayne-dyer.webp",
+            "Text": "You do indeed have a past, but not now! And, yes, you have a future, but not now! You can consume your now with thoughts of 'then' and 'maybe,' but that will keep you from the inner peace you could experience.",
+            "Title": "American Psychologist",
+            "Name": "Wayne Dyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erich-fromm.webp",
+            "Text": "We live in a world of things, and our only connection with them is that we know how to manipulate or to consume them.",
+            "Title": "American Psychologist",
+            "Name": "Erich Fromm"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ivanka-trump.webp",
+            "Text": "Real estate is my life. It is my day job, if you will. But it consumes my nights and weekends, too.",
+            "Title": "American Businesswoman",
+            "Name": "Ivanka Trump"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/manoj-bhargava.webp",
+            "Text": "The more you consume, the more insecure you are. It's the nature of the world.",
+            "Title": "American Businessman",
+            "Name": "Manoj Bhargava"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shaheer-sheikh.webp",
+            "Text": "I worked very hard playing Arjun, and I was consumed by the character.",
+            "Title": "Indian Actor",
+            "Name": "Shaheer Sheikh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/irrfan-khan.webp",
+            "Text": "I've played many characters that have consumed me and owned me.",
+            "Title": "Indian Actor",
+            "Name": "Irrfan Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/billy-squier.webp",
+            "Text": "Basically, my life was music, and I was always consumed by it.",
+            "Title": "American Musician",
+            "Name": "Billy Squier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ryan-kwanten.webp",
+            "Text": "My life is very much consumed with work.",
+            "Title": "Australian Actor",
+            "Name": "Ryan Kwanten"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-waltrip.webp",
+            "Text": "My life is consumed by racing.",
+            "Title": "American Driver",
+            "Name": "Michael Waltrip"
+        }
+    ]
+}

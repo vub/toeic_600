@@ -1,0 +1,321 @@
+{
+    "currentWord": {
+        "wordRoot": "restrict",
+        "id": 21318,
+        "phonemic": "rɪˈstrɪkt|rɪˈstrɪkt\r",
+        "bigId": "b77baf01-14f3-4ce3-86f0-9336d367c8d7",
+        "wordForms": [
+            "restricts",
+            "restricting",
+            "restricted",
+            "unrestricted",
+            "restrict"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b77baf01-14f3-4ce3-86f0-9336d367c8d7",
+            "de": "To limit or control something or someone, or the freedom to do something",
+            "ty": "verb",
+            "ex": "The government passed the law to restrict smoking in public places.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "restrict access",
+                " restrict movement",
+                " restrict growth"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b77baf01-14f3-4ce3-86f0-9336d367c8d7.webp",
+            "Tips": [
+                {
+                    "title": "Authority Imposed",
+                    "description": "Usually indicates a higher power or authority imposing rules or limits.",
+                    "example": "The library will restrict noise levels during exams.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kTBjcsM6N94HINi0jgKrbVWy0.webp"
+                },
+                {
+                    "title": "Negative Emotion",
+                    "description": "Often carries a negative feeling, as freedoms or actions are being limited.",
+                    "example": "Players felt restricted by the new team rules.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/LsHwDullp6lzKyf4qOCaNl9iQQ.webp"
+                },
+                {
+                    "title": "Common Collocations",
+                    "description": "Learn common phrases like 'restrict access' to grasp usage in daily situations.",
+                    "example": "The museum restricted access to the rare collection.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tI0QRyGMKlLMJBg8ApDbUp4NLRI.webp"
+                }
+            ]
+        },
+        {
+            "id": "7bf6c745-bb25-43bd-b887-daea37395468",
+            "de": "To confine or keep within certain limits",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The training program was restricted to a few select participants.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "restrict to",
+                " restrict from",
+                " restrict within"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7bf6c745-bb25-43bd-b887-daea37395468.webp",
+            "Tips": [
+                {
+                    "title": "Legal Boundaries",
+                    "description": "Used to describe legal limitations, often found in contracts or regulations.",
+                    "example": "The contract restricts the use of the property to residential purposes only.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formal Context",
+                    "description": "Used in more formal contexts such as legal, corporate, or academic settings.",
+                    "example": "The terms of agreement restrict our options significantly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "198e8e19-9ed6-406c-92aa-af6c5d14f62c",
+            "de": "To prevent from doing something",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The disease restricted him from leading a normal life.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "restrict from",
+                " restrict in",
+                " restrict by"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/198e8e19-9ed6-406c-92aa-af6c5d14f62c.webp",
+            "Tips": [
+                {
+                    "title": "Medical Constraints",
+                    "description": "Used to express limitations due to health or medical conditions.",
+                    "example": "Her allergies restrict her diet to gluten-free foods.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Circumstantial Barrier",
+                    "description": "It implies an obstacle created by circumstances, not always by choice.",
+                    "example": "Blizzard conditions restricted travel across the state.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "60b803b9-cf1f-415e-a17a-bb5a9c4af9ce",
+            "de": "To limit the amount or range of something",
+            "ty": "verb",
+            "ex": "The company needs to restrict its spending.",
+            "use": "",
+            "co": "Business",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "restrict spending",
+                " restrict supply",
+                " restrict imports"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/60b803b9-cf1f-415e-a17a-bb5a9c4af9ce.webp",
+            "Tips": [
+                {
+                    "title": "Business Constraints",
+                    "description": "Common in business to talk about limiting spending, supply, or other resources.",
+                    "example": "The budget restricts our marketing campaign options.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scope Limitation",
+                    "description": "Expresses a narrowing down of options or possibilities.",
+                    "example": "Our limited resources restrict the scope of the project.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Bound": {
+            "wordRoot": "Bound",
+            "wordDefinition": "Bound means to be limited or tied to a certain set of rules or expectations. This can refer to physical limitations like being bound to stay within certain boundaries or metaphorical limitations like being bound to a code of conduct or set of expectations.\n\nSo, in simple terms, bound refers to being limited by rules or expectations, while restrict refers to limiting someone's actions or access to things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4098b41f-0761-488e-99d2-97192d955dac.webp"
+        },
+        "Circumscribe": {
+            "wordRoot": "Circumscribe",
+            "wordDefinition": "Circumscribe means to draw a line around something or to limit something by drawing a line around it. It is applicable when we want to describe the boundaries or limits of something, like drawing a border on a map or outlining the rules that one must follow.\n\nCircumscribe is used when we want to describe the boundaries or limits of something while restrict is used when we want to limit the freedom or activity of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7f351717-9e08-40ec-bead-5aaaff85dc8d.webp"
+        },
+        "Confine": {
+            "wordRoot": "Confine",
+            "wordDefinition": "Confine means to physically limit or restrict someone or something within certain boundaries or limits. For example, a prisoner is confined to his jail cell or a dog is confined to a fenced yard.\n\nSo, in simple terms, confine relates to physical limits and boundaries, while restrict relates to a limit on actions or behavior.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0e284589-1b8c-484a-9d8f-5d3af2b96af8.webp"
+        },
+        "Constrain": {
+            "wordRoot": "Constrain",
+            "wordDefinition": "The words constrain and restrict are used to describe limitations or limitations on something.\n\nHowever, constrain is used when something is limited or restricted due to external factors or circumstances beyond its control.\n\nFor instance, a company may be constrained by government regulations or limited by its available resources.\n\nConstrain implies that there is little or no control over the limitation, while restrict implies that a person or group is making a conscious decision to limit something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4d9e1c57-db97-417c-bc21-f88c48270611.webp"
+        },
+        "Control": {
+            "wordRoot": "Control",
+            "wordDefinition": "Control means to manage or regulate something in order to achieve a desired outcome or maintain order. For example, a teacher may control the classroom to ensure students are focused on their work.\n\nControl is more about influencing or directing something towards a desired result, while restrict is more about limiting or preventing certain actions or behaviors.\n\nControl is applicable in situations where a degree of management is needed to reach a specific goal, while restrict is applicable in situations where limits need to be set to avoid negative consequences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c2915bf5-2054-4b4d-8e53-a8b2ccbd1ff7.webp"
+        },
+        "Curtail": {
+            "wordRoot": "Curtail",
+            "wordDefinition": "Curtail means to reduce or cut back on something, usually to save money or resources. For example, a company might curtail its spending on office supplies in order to save money.\n\nCurtail refers to reducing or cutting back on something, while restrict refers to placing limits or restrictions on something.\n\nBoth words can be used in a variety of situations, but usually curtail is used more in the context of finances or resources, while restrict is used more in the context of rules or regulations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7b486497-a3da-475b-9f46-a29343ffcf2c.webp"
+        },
+        "Limit": {
+            "wordRoot": "Limit",
+            "wordDefinition": "Limit refers to something that is fixed or determined, and cannot go beyond a certain point. For instance, if you say \"I will eat only one cookie\", then you are setting a limit on the number of cookies you will eat.\n\nRestrict means to place limits or control on something. If you say \"I will restrict myself to one cookie per day\", then you are setting a rule on how many cookies you can eat every day.\n\nLimit refers to a boundary or boundary condition, while restrict refers to an action taken to create a boundary or boundary condition.\n\nYou would use limit to describe the actual barrier or point beyond which something cannot go, and restrict to describe the action you take to create that barrier or point.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e497b1b7-a978-44f5-b7c6-4d67aac6a116.webp"
+        },
+        "Regulate": {
+            "wordRoot": "Regulate",
+            "wordDefinition": "Regulate means to control or manage something to ensure that it is done in a safe and proper way. For example, the government may regulate the amount of pollution that factories are allowed to release into the air.\n\nThe main difference between the two words is that regulate generally implies a positive action taken to ensure safety and compliance with rules, whereas restrict generally implies a negative action taken to limit behavior or access.\n\nRegulate is typically used when there is some kind of standard or guideline that needs to be maintained, while restrict is used to prevent certain activities or behaviors from happening.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/59c7a5b0-0994-4e8c-98b1-cfd8db50f991.webp"
+        },
+        "Restrain": {
+            "wordRoot": "Restrain",
+            "wordDefinition": "Restrain means to physically or mentally control someone or something from doing a certain action or behavior.\n\nFor example, if a person is angry and wants to punch someone, but someone else grabs their arm and holds them back, they are being restrained.\n\nTo summarize, restrain is more about physically controlling a person or thing, while restrict is more about setting limitations on actions or behaviors.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/119c5755-832e-4afa-9d29-bf4739a10eaa.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " international media coverage over the years and typically the stories take a fairly light-hearted tone but they do provide me with the vehicle for getting out a serious message to the people interviewing me from time to time we support assisted suicide marriage equality abortion rights and unrestricted international freedom of",
+            "Title": "Welcome to Atlantium,...",
+            "VideoId": "6GXYUjApwVY",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " zoom straight ahead to it, they work really well. But for the real candle problem, you don't want to be looking like this. The solution is on the periphery. You want to be looking around. That reward actually narrows our focus and restricts our possibility. Let me tell you why this is so important.",
+            "Title": "The puzzle of motivation...",
+            "VideoId": "rrkrvAUbU9Y",
+            "Controls": "start=406"
+        },
+        {
+            "Text": " In this case, the most powerful force for good is regulation, the rules that can restrict the amount of carbon dioxide emitted from power plants, and make energy companies around the world wary of what they put into the air. Until then, every time you turn on a screen or flick a light switch,",
+            "Title": "How to create cleaner...",
+            "VideoId": "rO6S93FKIUM",
+            "Controls": "start=312"
+        },
+        {
+            "Text": " flies they've really laid into this guy maggots if they're restricted actually do some good because they're trying to get away the dead tissue but with these things they're going to keep going and they're going to just go to pulling leg that's probably gonna fall off and the",
+            "Title": "EWWW! Maggots Eat...",
+            "VideoId": "J8ca63WNoa8",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " In this thought experiment, Woolf demonstrates the tragedy of genius restricted, and looks back through time for hints of these hidden histories. She wrote, \"When one reads of a witch being ducked, of a woman possessed by devils, of a wise woman selling herbs,",
+            "Title": "Why should you read...",
+            "VideoId": "DcMLkce_BLg",
+            "Controls": "start=37"
+        },
+        {
+            "Text": " As it turns out, boundless freedom isn't always helpful. In reality, any project is restricted by many factors, such as the cost, what materials you have at your disposal, and unbreakable laws of physics. These factors are called creative constraints,",
+            "Title": "The power of creative...",
+            "VideoId": "v5FL9VTBZzQ",
+            "Controls": "start=28"
+        },
+        {
+            "Text": " At first glance, that seems great. But what about the long-term environmental effects? If gasoline use is less restricted by cost, this could also cause a huge surge in air pollution, an unintended consequence that's important to think about.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=182"
+        },
+        {
+            "Text": " The strengthened wall is more rigid, restricting further growth. That means if the fiber remodels its walls too early, it will be short, and ultimately make rough, weak fabrics. But if cell wall strengthening begins too late,",
+            "Title": "Why is cotton in...",
+            "VideoId": "tKLJ6KQAcjI",
+            "Controls": "start=111"
+        },
+        {
+            "Text": " I did it simply by restricting those things, which admittedly suggests I have a bias based on my personal experience. But that doesn't mean my bias is wrong, and most important, all of this can be tested scientifically.",
+            "Title": "Peter Attia: What if...",
+            "VideoId": "UMhLBPPtlrY",
+            "Controls": "start=640"
+        },
+        {
+            "Text": " not interested in giving myself or anyone else restricting them with a certain label I've decided that I'm or whatever now the third label that I had to deal with uh this was a big one considering",
+            "Title": "Love doesn’t need labels...",
+            "VideoId": "inD_248hMI4",
+            "Controls": "start=499"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "Typically, when you look for role models, you want someone who has your interests and came from the same background. Well, look how restricting that is. What people should do is take role models a la carte. If there's someone whose character you appreciated, you respect that trait.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-mitnick.webp",
+            "Text": "Penetrating a company's security often starts with the bad guy obtaining some piece of information that seems so innocent, so everyday and unimportant, that most people in the organization don't see any reason why the item should be protected and restricted.",
+            "Title": "American Businessman",
+            "Name": "Kevin Mitnick"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kat-timpf.webp",
+            "Text": "College is supposed to be a place that prepares its students for the real world. That's the entire purpose of attending! Learning how to be an engaged citizen is something that should be encouraged in this kind of environment, not restricted.",
+            "Title": "American Writer",
+            "Name": "Kat Timpf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-rijkaard.webp",
+            "Text": "The evolution of football has seen a reduction in the space between the teams. It is therefore important for the modern footballer to react and be quicker than in the past, because there is more happening in the restricted space.",
+            "Title": "Dutch Athlete",
+            "Name": "Frank Rijkaard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eckhart-tolle.webp",
+            "Text": "Thinking is a wonderful tool if it's applied. Thinking, however, can not become the master. Thinking is a very bad master. If you're dominated by thinking then your life becomes very restricted.",
+            "Title": "German Speaker",
+            "Name": "Eckhart Tolle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gunnar-peterson.webp",
+            "Text": "You'll get a cheat meal, no question. It's not a cheat day. Every day, I indulge with something, because if I feel restricted, I'm gonna lash out.",
+            "Title": "American Businessman",
+            "Name": "Gunnar Peterson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geert-wilders.webp",
+            "Text": "We must have the courage to restrict legal immigration instead of expanding it, even if we sometimes have to build a wall.",
+            "Title": "Dutch Politician",
+            "Name": "Geert Wilders"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hiten-tejwani.webp",
+            "Text": "I think when you play a negative character you cannot restrict yourself. You can go wild.",
+            "Title": "Indian Actor",
+            "Name": "Hiten Tejwani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/egon-schiele.webp",
+            "Text": "To restrict the artist is a crime. It is to murder germinating life.",
+            "Title": "Austrian Artist",
+            "Name": "Egon Schiele"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gloria-steinem.webp",
+            "Text": "Gender is probably the most restricting force in American life.",
+            "Title": "American Activist",
+            "Name": "Gloria Steinem"
+        }
+    ]
+}

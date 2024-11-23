@@ -1,0 +1,348 @@
+{
+    "currentWord": {
+        "wordRoot": "term",
+        "id": 10681,
+        "phonemic": "tɜːm|tɜːrm\r",
+        "bigId": "198a81dc-8444-4f80-9cb2-de85b23fa92b",
+        "wordForms": [
+            "terms",
+            "terming",
+            "termed",
+            "longterm",
+            "shortterm",
+            "nearterm",
+            "shorterterm",
+            "longerterm",
+            "midterm",
+            "term"
+        ]
+    },
+    "senses": [
+        {
+            "id": "198a81dc-8444-4f80-9cb2-de85b23fa92b",
+            "de": "A word or phrase used to describe a thing or to express a concept",
+            "ty": "noun",
+            "ex": "In mathematical terms, 'pi' stands for a constant value.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "terms and conditions",
+                " in simple terms",
+                " agree to the terms"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/198a81dc-8444-4f80-9cb2-de85b23fa92b.webp",
+            "Tips": [
+                {
+                    "title": "Subject-Specific",
+                    "description": "Some terms have different meanings in specific subjects like science or art.",
+                    "example": "In art, the term 'medium' refers to materials used by an artist.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vC7XRCoX7sQ3UVB16KPJFLySg.webp"
+                },
+                {
+                    "title": "Understanding Concepts",
+                    "description": "Use terms to comprehend and discuss complex concepts more easily.",
+                    "example": "Understanding the term 'sustainability' is key to discussing environmental issues.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/BWc7dToWiQWQM2xLMQun18SoVI.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7ffad22a-f3bd-4f94-bfb4-afc87d64351f",
+            "de": "A fixed period of time during which something lasts or is supposed to happen",
+            "ty": "noun",
+            "ex": "Students should submit their assignments before the end of term.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "term time",
+                " term ends",
+                " term begins"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7ffad22a-f3bd-4f94-bfb4-afc87d64351f.webp",
+            "Tips": [
+                {
+                    "title": "Relative Time",
+                    "description": "A term can indicate a specific part within a time frame, like a season or academic term.",
+                    "example": "The fall term is often from September to December.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "93b7996a-f82f-46fc-a1ca-6227d0369170",
+            "de": "Each of the periods a school or university year is divided into",
+            "do": "Education",
+            "ty": "noun",
+            "ex": "I have four courses this term.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "start of term",
+                " end of term",
+                " next term"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/93b7996a-f82f-46fc-a1ca-6227d0369170.webp",
+            "Tips": [
+                {
+                    "title": "Breaks Inbetween",
+                    "description": "Academic terms are typically separated by holidays or vacation breaks.",
+                    "example": "There is a week-long break between the spring and summer term.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Varied Lengths",
+                    "description": "Not all academic terms have the same length; some may last weeks, others months.",
+                    "example": "This term, my course lasts for ten weeks.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8361d82e-3ae9-4915-bcd7-7971f9596378",
+            "de": "A condition or requirement in a legal agreement",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The terms of the contract were clear and binding.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "agree to the terms",
+                " terms of the contract",
+                " breach of term"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8361d82e-3ae9-4915-bcd7-7971f9596378.webp",
+            "Tips": [
+                {
+                    "title": "Clause Importance",
+                    "description": "Each term in a legal document is significant and can affect rights and obligations.",
+                    "example": "Review every term in the lease to understand your responsibilities.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e10ad75f-b855-4f01-b457-05da2a439b18",
+            "de": "A word or phrase used in a specific field of study or profession",
+            "ty": "noun",
+            "ex": "Genome is a biological term for the genetic material of an organism.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "technical term",
+                " term used",
+                " understand the term"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e10ad75f-b855-4f01-b457-05da2a439b18.webp",
+            "Tips": [
+                {
+                    "title": "Precision In Language",
+                    "description": "Professional terms provide precision and clarity in communication within that field.",
+                    "example": "The term 'bypass surgery' is specific to cardiac procedures.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Confusion With Slang",
+                    "description": "Don't confuse technical terms with similar-sounding slang or colloquial language.",
+                    "example": "The computing term 'cookie' is different from the snack you eat.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Definition": {
+            "wordRoot": "Definition",
+            "wordDefinition": "A definition is the explanation or meaning of a term. It tells us what the term means and helps us understand it better.\n\nFor example, the definition of \"apple\" could be \"a sweet and juicy fruit with a round shape and red, green, or yellow skin.\"\n\nA term is the word or phrase used to represent something, while its definition is the explanation of what that term means.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/51724475-8aff-4fcf-8e86-31e4acbb2097.webp"
+        },
+        "Designate": {
+            "wordRoot": "Designate",
+            "wordDefinition": "Designate means to assign a specific name or purpose to something. For example, a teacher may designate a certain desk as the student's seating arrangement for the rest of the school year.\n\nDesignate is more specific, while term is more general.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a2e73fa5-db17-4c04-bd0d-4424be2dd96e.webp"
+        },
+        "Duration": {
+            "wordRoot": "Duration",
+            "wordDefinition": "Duration refers to the length of time something lasts or continues for, while term is a specific period of time that is assigned to something.\n\nFor example, if you were talking about a movie, the duration would be the length of time the movie runs for (e.g. 2 hours), while the term would be when the movie is released and available to watch (e.g.\n\nIn simpler terms, duration is the length of time something goes on for, while term is a specific period of time that something is scheduled to happen or exist for.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1ad6260d-2d04-4290-9150-6dd11c5fc984.webp"
+        },
+        "Expression": {
+            "wordRoot": "Expression",
+            "wordDefinition": "In mathematics, an expression is a group of numbers or variables that are combined using mathematical operations (e.g. addition, subtraction, multiplication, division) to form a mathematical phrase.\n\nAn expression can contain one or more terms.\n\nA term is a part of an expression that is separated by a plus or minus sign.\n\nFor example, in the expression 3x + y - 2, there are three terms: 3x, y, and -2. The expression is made up of these three terms, with the addition and subtraction signs indicating how the terms are combined.\n\nSo, expressions are a collection of terms that can be combined to form mathematical equations, while terms are the individual parts that make up an expression.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f0edd24c-0e14-4f6f-9055-726b08bec17f.webp"
+        },
+        "Label": {
+            "wordRoot": "Label",
+            "wordDefinition": "Label refers to a specific name or tag given to something to identify it. For example, we label our belongings so that we know what they are and where they belong.\n\nIn the same way, we use labels to categorize things, such as food packaging or medicine bottles.\n\nA label is like a name tag, while a term is like a description. Labels are used to identify specific things, while terms are used to describe broader categories or concepts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c66eaa6b-283d-4a3d-a31c-76489e36e3c0.webp"
+        },
+        "Name": {
+            "wordRoot": "Name",
+            "wordDefinition": "Name refers to a specific word or set of words that is used to identify a person, place, or thing. For example, the name \"John\" is used to refer to a specific person.\n\nThe name \"New York\" is used to refer to a specific city. Names are used in everyday communication to help identify and refer to people, places, or things.\n\nName is used to identify people, places, or things, while term is used in specific fields to refer to words or phrases that have a certain meaning.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3efd8f3-cd84-4cb7-8084-0c737275cd87.webp"
+        },
+        "Period": {
+            "wordRoot": "Period",
+            "wordDefinition": "The words period and term can both refer to a specific amount of time, but they have slightly different meanings and uses.\n\nPeriod typically refers to a broader span of time, such as a certain era or historical time period. For example, the Middle Ages or the Victorian era are both periods of time in history.\n\nPeriod can also refer to a recurring segment of time, such as a menstrual period.\n\nIn legal and contractual contexts, term refers to a set period of time during which an agreement or a commitment will be in effect.\n\nPeriod describes a larger or more general span of time, while term refers to a specific and defined length of time for a certain purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1cef547a-54e0-4ab1-9a35-c7ec7228d51b.webp"
+        },
+        "Phrase": {
+            "wordRoot": "Phrase",
+            "wordDefinition": "A phrase is a group of words that are used together but do not form a complete sentence. For example, \"the big red apple\" is a phrase.\n\nA phrase can be used in a sentence to add more detail and information.\n\nA phrase is a group of words used together in a sentence, while a term is a specific word or group of words used to describe something in a particular field or subject.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/00f37e1e-5bf5-4e15-9849-523df2f2d948.webp"
+        },
+        "Title": {
+            "wordRoot": "Title",
+            "wordDefinition": "Title refers to the name of a book, movie, or other creative work. It is applicable in situations where a work needs to be named in order to identify it.\n\nFor example, 'Harry Potter and the Philosopher's Stone' is the title of a popular book.\n\nA term is a specific word or phrase used to describe something, while a title is the name of a creative work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/03aac280-e5ae-4508-979a-4cc48c4f4293.webp"
+        },
+        "Word": {
+            "wordRoot": "Word",
+            "wordDefinition": "Word is a unit of language consisting of one or more sounds or letters that typically has meaning and is spoken, written or signed.\n\nTerm on the other hand has a more specific definition. It refers to a word or phrase that has a particular meaning in a specific context.\n\nWord is a more general term used to describe the basic units of language while term is a more specific term used to describe a word or phrase with a particular meaning in a specific context or a limited period of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8894446-b77f-4ae5-9eff-780cbc55f406.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " You don't understand laughter fully by the time you hit puberty. You don't understand laughter fully by the time your brain has matured at the end of your teens. You're learning about laughter throughout your entire early adult life. If we turn the question around and now say not, what does the laughter sound like in terms of being real or posed, but we say,",
+            "Title": "Why we laugh PIPE Sophie...",
+            "VideoId": "UxLRv0FEndM",
+            "Controls": "start=648"
+        },
+        {
+            "Text": " but in different ways depending on arrangement and cultural context. So it turns out that the wheel method is more than just a nifty way of visualizing complex rhythms. By freeing us from the tyranny of the bar line, we can visualize rhythm in terms of time, and a simple turn of the wheel can take us on a musical journey around the world.",
+            "Title": "A different way to...",
+            "VideoId": "2UphAzryVpY",
+            "Controls": "start=286"
+        },
+        {
+            "Text": " without you when you look at this you you can't help thinking of lunch you know is it helping the animal you mean yeah what the animal is as healthy as another intensive producing animal so this is about the most technological that we can get not the most technological in terms of technology we",
+            "Title": "Meet the Super Cow PIPE...",
+            "VideoId": "Nmkj5gq1cQU",
+            "Controls": "start=146"
+        },
+        {
+            "Text": " Urban parents demand school vouchers. You may support these efforts or not. Whether you get what you want depends on how adept you are with power, which brings us finally to what you can do to become more powerful in public life. Here, it's useful to think in terms of literacy.",
+            "Title": "How to understand power...",
+            "VideoId": "c_Eutci7ack",
+            "Controls": "start=271"
+        },
+        {
+            "Text": " The technical term for this is that the states of the cats are entangled. But there's something truly mindblowing about quantum entanglement. If you prepare the system of two cats in boxes in this entangled state, then move the boxes to opposite ends of the universe,",
+            "Title": "What can Schrödinger's...",
+            "VideoId": "z1GCnycbMeA",
+            "Controls": "start=190"
+        },
+        {
+            "Text": " these days are become shorter and shorter term which creates turmoil and chaos in strategy in how we present ourselves to the world the easiest way to understand the game you're in is when you have an opposing force in other words not that right so you want great",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=355"
+        },
+        {
+            "Text": " in the short term. Picture your success when you're beginning a difficult task, something as simple as listening to music with deep bass; it can promote feelings of power. You can even strike a powerful pose or give yourself a pep talk.",
+            "Title": "3 tips to boost your...",
+            "VideoId": "l_NYrWqUR40",
+            "Controls": "start=99"
+        },
+        {
+            "Text": " would be used to create the earliest glasses. Today, glasses can help millions of people with poor vision due to uncorrected refractive errors. The key to understanding what that means lies with the term refraction,",
+            "Title": "How do glasses help us...",
+            "VideoId": "ypF037wlYZg",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " Others have crossed a border and sought shelter outside of their own countries. They are commonly referred to as refugees. But what exactly does that term mean? The world has known refugees for millennia,",
+            "Title": "What does it mean to be...",
+            "VideoId": "25bwiSikRsI",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " the guano from thousands of terms which have chosen to mist here enriches the sandy soil which then can support more plants",
+            "Title": "Nature's Oddest Looking...",
+            "VideoId": "GLPjP3hjhMM",
+            "Controls": "start=685"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johnny-depp.webp",
+            "Text": "There are necessary evils. Money is an important thing in terms of representing freedom in our world. And now I have a daughter to think about. It's really the first time I've thought about the future and what it could be.",
+            "Title": "American Actor",
+            "Name": "Johnny Depp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-obama.webp",
+            "Text": "I think our democracy has it exactly right: two terms, eight years. It's enough. Because it's important to have one foot in reality when you have access to this kind of power.",
+            "Title": "American First Lady",
+            "Name": "Michelle Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/audrey-hepburn.webp",
+            "Text": "The 'Third World' is a term I don't like very much because we're all one world. I want people to know that the largest part of humanity is suffering.",
+            "Title": "British Actress",
+            "Name": "Audrey Hepburn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-douglas.webp",
+            "Text": "Wall Street' was a very important movie for me in terms of my career. I won an Oscar, and then the film 'Fatal Attraction' came right after it.",
+            "Title": "American Actor",
+            "Name": "Michael Douglas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aretha-franklin.webp",
+            "Text": "Everybody wants respect. In their own way, three-year-olds would like respect, and acknowledgment, in their terms.",
+            "Title": "American Musician",
+            "Name": "Aretha Franklin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/saint-teresa-of-avila.webp",
+            "Text": "For prayer is nothing else than being on terms of friendship with God.",
+            "Title": "Spanish Saint",
+            "Name": "Saint Teresa of Avila"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ilhan-omar.webp",
+            "Text": "I try not to think of my life in terms of separation.",
+            "Title": "American Politician",
+            "Name": "Ilhan Omar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/omari-hardwick.webp",
+            "Text": "Women are so necessary for us in terms of support.",
+            "Title": "American Actor",
+            "Name": "Omari Hardwick"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neena-gupta.webp",
+            "Text": "Who ever lives life on their own terms?",
+            "Title": "Indian Actress",
+            "Name": "Neena Gupta"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kay-kay-menon.webp",
+            "Text": "I have lived life on my own terms.",
+            "Title": "Indian Actor",
+            "Name": "Kay Kay Menon"
+        }
+    ]
+}

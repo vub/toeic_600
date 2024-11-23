@@ -1,0 +1,289 @@
+{
+    "currentWord": {
+        "wordRoot": "compensate",
+        "id": 16003,
+        "phonemic": "ˈkɒmpenseɪt|ˈkɑːmpenseɪt\r",
+        "bigId": "ff601dcf-a210-4372-bf10-5def2702393c",
+        "wordForms": [
+            "compensates",
+            "compensating",
+            "compensated",
+            "uncompensated",
+            "compensate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ff601dcf-a210-4372-bf10-5def2702393c",
+            "de": "To give something to someone to make up for a loss or problem",
+            "ty": "verb",
+            "ex": "The company compensated him for the damage to his car.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "compensate for loss",
+                " compensate for damage",
+                " compensate for pain"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ff601dcf-a210-4372-bf10-5def2702393c.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Aspect",
+                    "description": "Compensate may carry emotional weight, implying empathy towards the loss or problem experienced.",
+                    "example": "The jury compensated the victim's family, acknowledging their profound loss.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/VBvMGqzcY49NFrD7CNn0t3E5hw.webp"
+                },
+                {
+                    "title": "Not Always Money",
+                    "description": "Compensation isn't just financial; it can also be in kind, like services or goods.",
+                    "example": "To compensate for the neighbor's broken window, he offered his handyman skills.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vg3wIAWGjcVl5AtYeKbmUfz0A.webp"
+                },
+                {
+                    "title": "No Exact Measures",
+                    "description": "When compensating, it's often difficult to quantify what exactly makes up for a loss.",
+                    "example": "She tried to compensate for the missed birthday by planning a surprise trip.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/w57TKDYCk5sMSxZ8JND1Grdyt0.webp"
+                }
+            ]
+        },
+        {
+            "id": "ee20e2de-24eb-4741-b738-032f823d4194",
+            "de": "To make a change that reduces the bad effect of something",
+            "ty": "verb",
+            "ex": "He has a disability, but he compensates with determination and hard work.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "compensate for shortcomings",
+                " compensate for disadvantages",
+                " compensate with determination"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ee20e2de-24eb-4741-b738-032f823d4194.webp",
+            "Tips": [
+                {
+                    "title": "Personal Growth",
+                    "description": "Compensate can refer to personal attributes, where one's strengths are used to mitigate weaknesses.",
+                    "example": "Lacking in experience, he compensated with an unusually strong work ethic.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Positive Spin",
+                    "description": "Using 'compensate' can give a positive perspective to dealing with negative situations.",
+                    "example": "Though she was at a disadvantage, she compensated with innovative strategies.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a4cf49a6-7847-4690-9cdf-6e1aeb0ac988",
+            "de": "To pay someone money for work they have done",
+            "ty": "verb",
+            "ex": "The workers were adequately compensated for their labors.",
+            "use": "",
+            "co": "Business",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "compensate for work",
+                " compensate for time",
+                " compensate for efforts"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a4cf49a6-7847-4690-9cdf-6e1aeb0ac988.webp",
+            "Tips": [
+                {
+                    "title": "Beyond Salary",
+                    "description": "'Compensate' in business can extend to benefits, stock options, and other non-salary rewards.",
+                    "example": "Apart from his salary, he's compensated with annual bonuses and health insurance.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Expectations Matter",
+                    "description": "Compensation for work is often linked to the perceived value and quality of the work done.",
+                    "example": "After intense negotiations, the freelancers were compensated fairly for their expertise.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Legal Framework",
+                    "description": "In a business context, laws may dictate the minimum compensation for certain jobs or conditions.",
+                    "example": "The company was legally required to compensate the employees for overtime.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Counterbalance": {
+            "wordRoot": "Counterbalance",
+            "wordDefinition": "Counterbalance means to balance out something by adding something of equal weight or force in the opposite direction.\n\nFor example, if a heavy object is on one side of a scale, you can counterbalance it by adding an equally heavy object to the other side.\n\nCompensate is used when you need to make up for something negative or lacking, while counterbalance is used when you need to balance out something by adding something of equal force in the opposite direction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b842266d-6912-41f5-9db5-ebb8dfba27eb.webp"
+        },
+        "Indemnify": {
+            "wordRoot": "Indemnify",
+            "wordDefinition": "Compensate and indemnify are two words that are commonly used in legal or financial contexts. While the two words may seem similar, there are a few key differences between them.\n\nIndemnify means to protect someone from financial loss or legal consequences. It typically involves a contract or agreement in which one party agrees to cover any losses or damages incurred by the other party.\n\nFor example, if a construction company is working on a project for a client, the client may request that the construction company indemnify them in case of any lawsuits or damages that arise during the project.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b93d0c11-248e-48d8-9184-6b54f58bf984.webp"
+        },
+        "Offset": {
+            "wordRoot": "Offset",
+            "wordDefinition": "To offset means to balance or counteract something. For example, if a person wants to reduce their carbon footprint, they might offset their emissions by planting trees or investing in renewable energy.\n\nIn general, compensating is used to make up for something negative that has already happened, while offsetting is used to prevent or counteract something negative that may happen in the future.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e25fa16-f05a-4317-9420-216f574b9ca8.webp"
+        },
+        "Recompense": {
+            "wordRoot": "Recompense",
+            "wordDefinition": "Both compensate and recompense mean to make up for something or to pay someone for something.\n\nHowever, compensate is typically used in the context of money, while recompense can refer to any kind of compensation or repayment.\n\nFor example, if you get injured at work, your company may compensate you for your medical bills and lost wages. If someone damages your property, they may need to recompense you for the cost of repairs or replacement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78dbd41c-f8ef-42f5-86a2-f421721fc1e5.webp"
+        },
+        "Redress": {
+            "wordRoot": "Redress",
+            "wordDefinition": "Redress means to make something right or to correct an injustice. It implies a sense of correcting a balance or restoring something to a previously fair or just state.\n\nFor example, if someone has been unfairly treated in a court case, they may seek redress by appealing the decision or asking for a retrial.\n\nWhile both words involve restoring something that has been lost or taken away, compensate suggests a more transactional approach focused on providing some form of compensation or payment, while redress suggests an attempt to address an underlying problem or injustice.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f7ee9d07-6fc2-471a-b5f5-974ce1446a4b.webp"
+        },
+        "Reimburse": {
+            "wordRoot": "Reimburse",
+            "wordDefinition": "Reimburse means to pay someone back for an expense they have already incurred. For example, if you paid for a flight to visit a friend, your friend may reimburse you for the cost of the flight.\n\nIn simpler terms, compensate is used when someone has suffered a loss or damage and needs to be made whole again, while reimburse is used when someone has already spent money and needs to be paid back.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e232bca9-bc1a-4412-b13b-5092b2d9b7e9.webp"
+        },
+        "Remunerate": {
+            "wordRoot": "Remunerate",
+            "wordDefinition": "Both compensate and remunerate mean to pay someone for their work or services, but there are some subtle differences in their usage.\n\nRemunerate generally means to financially reward someone for their work or services. Therefore, it is associated with a specific amount of money that is given to someone in return for their work.\n\nRemuneration might include salaries, bonuses, commissions, or other types of payment.\n\nCompensate typically implies restoring something that was lost or damaged, while remunerate usually refers to payment or financial reward for services provided.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/852280dc-33ca-46b8-8f70-fbeb0118f2b8.webp"
+        },
+        "Satisfy": {
+            "wordRoot": "Satisfy",
+            "wordDefinition": "Satisfy means to fulfill or meet a need or desire. For instance, if someone is hungry, they might satisfy their hunger by eating a meal.\n\nCompensate refers to making up for something negative, whereas satisfy refers to fulfilling something positive or desired.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dd31095c-ca91-46ba-9e68-a3ba198fc325.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " he cobbled together fragments of myth and poetry to compensate for the almost complete lack of official records. A few of his sources contained mentions of Arthur, and some others were realistic accounts of battles and places. But many featured mythic heroes fighting long odds with the help of magical swords and sorcery.",
+            "Title": "Is there any truth to...",
+            "VideoId": "RBsY88Lir-A",
+            "Controls": "start=145"
+        },
+        {
+            "Text": " their animals they would be compensated for their loss there was a lot of resistance to this idea especially among the older people bachara presented the idea to a group of young men they started with yak calves the most valuable animals charo helped them calculate what the premiums would be",
+            "Title": "Searching for the...",
+            "VideoId": "f6t0dsU5BTs",
+            "Controls": "start=913"
+        },
+        {
+            "Text": " experience a rich and varied world bursting with details, shapes, and colors. What is it, then, that separates moths from men? Moths and many other nocturnal animals see at night because their eyes are adapted to compensate for the lack of light. All eyes, whether nocturnal or not,",
+            "Title": "How do animals see in...",
+            "VideoId": "t3CjTU7TaNA",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " to scatter and slow down neutrons just enough to increase their capture by uranium and raise the rate of fission. Modern reactors commonly use purified water as a moderator, but the scattered neutrons are still a little too fast. To compensate and keep up the chain reaction,",
+            "Title": "How do nuclear power...",
+            "VideoId": "R7WPEYGr1Vs",
+            "Controls": "start=199"
+        },
+        {
+            "Text": " some of this uncultivated land back to the people while compensating the landowners. But he was overthrown in a CIA-sponsored coup. The military was protecting against the seizure of private property and communist takeover. They were protecting corporate profits",
+            "Title": "History vs. Che Guevara...",
+            "VideoId": "tjrvKA4w9-Y",
+            "Controls": "start=80"
+        },
+        {
+            "Text": " It's the other way around. In the world today, it's the countries that have the highest mortality rates that have the fastest population growth. Because the death of a child is compensated by one more child. These countries have six children per woman.",
+            "Title": "Religions and babies PIPE...",
+            "VideoId": "ezVk1ahRF78",
+            "Controls": "start=419"
+        },
+        {
+            "Text": " mostly monitor and investigate violations, but they cannot force states to, say, change a policy or compensate a victim. That's why some critics say it's naive to consider human rights a given in a world where state interests wield so much power.",
+            "Title": "What are the universal...",
+            "VideoId": "nDgIVseTkuE",
+            "Controls": "start=178"
+        },
+        {
+            "Text": " most significant events in life on earth the smaller types were more mobile and so monopolized the matings but the mates of the little cheats could only produce viable offspring if they grew fat to compensate for their partner's lack of",
+            "Title": "Simple Sex and the Birth...",
+            "VideoId": "dWa9NmNvChU",
+            "Controls": "start=78"
+        },
+        {
+            "Text": " stuck in my mind few years ago now that the ideas truck it may not be possible to make the sibility go away but it could be possible to harness computer science to compensate for the loss of vision it means it is within the reach of",
+            "Title": "Tech that helps the...",
+            "VideoId": "D_pWV35bWt0",
+            "Controls": "start=129"
+        },
+        {
+            "Text": " like the time when I was asked to speak at a conference, and they wanted me to pay my way there. And then I did some research and found out the white men who spoke there got compensated and got their travel paid for.",
+            "Title": "Get comfortable with...",
+            "VideoId": "QijH4UAqGD8",
+            "Controls": "start=438"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-p-hoffa.webp",
+            "Text": "Workers want to be paid an honest, fair wage for the work they do. They want to be able to provide for their families by being justly compensated for their part in helping grow the U.S. economy. They deserve to be able to put food on the table and receive health care and other benefits.",
+            "Title": "American Businessman",
+            "Name": "James P. Hoffa"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuri-milner.webp",
+            "Text": "I think top scientists need to be compensated at a different scale in society. Somebody with experience will tell you that true scientists are not motivated by money - they are motivated by the quest itself. That is true. But I think an additional recognition will not hurt.",
+            "Title": "Russian Businessman",
+            "Name": "Yuri Milner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/granit-xhaka.webp",
+            "Text": "Everyone fights for everyone else. If someone has a bad day, then the others are there for him. And if a player makes a mistake, then the others can compensate for that. Those sorts of things are crucial at this level, and it's really important that we perform as a unit.",
+            "Title": "Swiss Athlete",
+            "Name": "Granit Xhaka"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-white.webp",
+            "Text": "I really don't like to take the easy way out, if I can help it, on anything I do, I like to really make it a challenge. I don't know how to create by taking the easy routes. I've tried, you know, I've tried to let myself, but I always struggle to compensate.",
+            "Title": "American Musician",
+            "Name": "Jack White"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katherine-dunham.webp",
+            "Text": "Don't think you are going to go on forever because you are not and begin to plan something that will compensate as you reduce your capacities to leap or turn on this or that or the other, begin thinking of something else.",
+            "Title": "American Dancer",
+            "Name": "Katherine Dunham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kirk-cousins.webp",
+            "Text": "Life is about balance. You don't want to live out of whack over here or out of whack over here. I want to win and be well compensated, and I think there's a balance to find. It doesn't have to be one extreme or the other.",
+            "Title": "American Athlete",
+            "Name": "Kirk Cousins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/graeme-souness.webp",
+            "Text": "I worked out long ago that I wasn't cut out for management. My personality doesn't lend itself to the job, especially what it's become. By the time I stopped, the good times weren't compensating for the bad.",
+            "Title": "Scottish Athlete",
+            "Name": "Graeme Souness"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephanie-coontz.webp",
+            "Text": "Marriage is generally based on more equality and deeper friendship than in the past, but even so, it is hard for it to compensate for the way that work has devoured time once spent cultivating friendships.",
+            "Title": "American Author",
+            "Name": "Stephanie Coontz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-debord.webp",
+            "Text": "As specialists of apparent life, stars serve as superficial objects that people can identify with in order to compensate for the fragmented productive specialisations that they actually live.",
+            "Title": "French Writer",
+            "Name": "Guy Debord"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-kawasaki.webp",
+            "Text": "What I lack in talent, I compensate with my willingness to grind it out. That's the secret of my life.",
+            "Title": "American Businessman",
+            "Name": "Guy Kawasaki"
+        }
+    ]
+}

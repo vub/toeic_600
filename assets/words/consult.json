@@ -1,0 +1,313 @@
+{
+    "currentWord": {
+        "wordRoot": "consult",
+        "id": 22176,
+        "phonemic": "kənˈsʌlt|kənˈsʌlt\r",
+        "bigId": "1b95a718-adbd-4306-83af-7f66fd6e4498",
+        "wordForms": [
+            "consults",
+            "consulting",
+            "consulted",
+            "consult"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1b95a718-adbd-4306-83af-7f66fd6e4498",
+            "de": "ask for advice or information from someone",
+            "ty": "verb",
+            "ex": "I need to consult a lawyer about this contract.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "consult a doctor",
+                " consult a manual",
+                " consult an advisor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1b95a718-adbd-4306-83af-7f66fd6e4498.webp",
+            "Tips": [
+                {
+                    "title": "Professional Context",
+                    "description": "Use 'consult' when seeking expert advice for important matters.",
+                    "example": "We should consult a tax advisor for these financial documents.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QsS6LEKhQnVXlJFC6TmOwFSkub4.webp"
+                },
+                {
+                    "title": "Ask Privately",
+                    "description": "'Consult' implies a private conversation, not a public discussion.",
+                    "example": "She consulted her mentor in a one-on-one meeting.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7XguXqJiK9yN6zBmxomACkSlqs.webp"
+                },
+                {
+                    "title": "Expect Expertise",
+                    "description": "Typically, you consult someone who has specialized knowledge.",
+                    "example": "Consult an architect when designing your new home.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nbxY0Ci1UDH9HULGoJsGxWN40.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0cdd1fde-47b4-4056-8783-f9b6dcd8b7f7",
+            "de": "referring to a book or source for information",
+            "ty": "verb",
+            "ex": "Let me consult the user guide to see how to handle this error.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "consult a dictionary",
+                " consult the guidebook",
+                " consult the map"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0cdd1fde-47b4-4056-8783-f9b6dcd8b7f7.webp",
+            "Tips": [
+                {
+                    "title": "Use for Clarity",
+                    "description": "Consult sources like manuals or guides when instructions are unclear.",
+                    "example": "If the software installation fails, consult the troubleshooting section.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Solve Problems",
+                    "description": "Consult a resource to figure out a problem or learn something specific.",
+                    "example": "Consult the cookbook to find a recipe for cheesecake.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "193a10bf-e12b-4c06-bf84-74fae7c158b7",
+            "de": "discuss something with others before making a decision",
+            "ty": "verb",
+            "ex": "We have to consult the team before making any big changes.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "consult the team",
+                " consult the board",
+                " consult with colleagues"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/193a10bf-e12b-4c06-bf84-74fae7c158b7.webp",
+            "Tips": [
+                {
+                    "title": "Group Decisions",
+                    "description": "Use 'consult' when a decision needs input from multiple people.",
+                    "example": "The manager needs to consult the entire team on this matter.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Respect Opinions",
+                    "description": "Consulting shows respect for others' opinions and knowledge.",
+                    "example": "The director consulted with the staff before changing the policy.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "96dee964-a875-4c20-92ed-c471ceffd0ca",
+            "de": "provide professional advice or services",
+            "do": "Business",
+            "ty": "verb",
+            "ex": "She consults for several large corporations.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "consult for a company",
+                " consult with clients",
+                " consult on a project"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/96dee964-a875-4c20-92ed-c471ceffd0ca.webp",
+            "Tips": [
+                {
+                    "title": "Expert Services",
+                    "description": "'Consult' can mean offering professional expertise to others.",
+                    "example": "After retiring, he began to consult for small businesses.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Business Relationship",
+                    "description": "Consulting can describe a professional, often ongoing, business support.",
+                    "example": "Her firm consults on both marketing strategy and public relations.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Advise": {
+            "wordRoot": "Advise",
+            "wordDefinition": "Advise means to give suggestions or recommendations to someone about what they should do in a certain situation. For example, a doctor might advise a patient to exercise more.\n\nAdvise is used when you are giving guidance to someone, while consult is used when you are seeking guidance from someone else who is more knowledgeable in a particular area.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ba0be62a-dc8d-4237-8f70-07b4afc2e2b3.webp"
+        },
+        "Consider": {
+            "wordRoot": "Consider",
+            "wordDefinition": "Consider means to think carefully about something before making a decision. For example, you might consider which college to attend or which movie to watch.\n\nConsider means to think about something on your own, while consult means to seek advice from someone else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/059f111b-f8ba-4c4d-b5a8-fb0bf1a8de44.webp"
+        },
+        "Counsel": {
+            "wordRoot": "Counsel",
+            "wordDefinition": "Counsel means to provide guidance or advice on a personal or emotional level. It's applicable in situations where someone needs help or support dealing with personal, emotional, or psychological issues.\n\nFor example, a person might seek counsel from a therapist or religious leader to help them work through personal challenges or crises.\n\nConsult deals with seeking expert advice or information while counsel deals with providing guidance and support on personal or emotional matters.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/93a4f852-49a4-4326-85e1-72d7cd9b14fd.webp"
+        },
+        "Discuss": {
+            "wordRoot": "Discuss",
+            "wordDefinition": "Discuss means to talk with someone about a topic, usually to exchange ideas, opinions, and information. This is most applicable when you want to have a conversation with someone about a shared topic or to explore different perspectives on a particular issue.\n\nConsult is seeking advice from an expert while discuss is exchanging ideas with someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/992d23d2-5795-44fa-bd24-c0580f15ef03.webp"
+        },
+        "Enquire": {
+            "wordRoot": "Enquire",
+            "wordDefinition": "You consult an expert in your field when you need specific guidance or advice, while you enquire from a teacher about the academic performance of your friend.\n\nYou consult an expert when you need guidance, and you enquire to clear doubts or seek information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3131cf7c-2be3-4af4-b5a4-2e049389f768.webp"
+        },
+        "Examine": {
+            "wordRoot": "Examine",
+            "wordDefinition": "Examine means to inspect or scrutinize something carefully in order to understand it better or to find out if there is a problem.\n\nIt is usually used when someone wants to investigate something more deeply. For example, a doctor may examine a patient to diagnose an illness or a scientist may examine a sample of water to test for pollution.\n\nConsult is used when someone wants to get advice or information from an expert, while examine is used when someone wants to investigate or inspect something in detail.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9624135c-7cec-4c0a-a399-a81e6fe400d4.webp"
+        },
+        "Review": {
+            "wordRoot": "Review",
+            "wordDefinition": "Review means to examine or evaluate something, usually with the intention of providing feedback or making a judgment. It is applicable when someone wants to assess the quality or performance of something, such as a product, service, or work of art.\n\nIn simpler terms, consult means to ask for help or advice, while review means to take a closer look and make an assessment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/80d28f29-3a49-4e69-8234-361471244a1c.webp"
+        },
+        "Turn to": {
+            "wordRoot": "Turn to",
+            "wordDefinition": "Consult typically refers to seeking advice or guidance from a professional or expert in a particular field. For example, you might consult a doctor for medical advice or a lawyer for legal advice.\n\nTurn to can be used more broadly to refer to seeking help, support, or guidance from anyone or anything. For example, you might turn to a friend for emotional support, turn to a book for guidance, or turn to a religious figure for spiritual guidance.\n\nConsult is more specific and typically involves seeking advice from a professional or expert in a particular field, while turn to is more general and can refer to seeking help or guidance from anyone or anything.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9991940-eb6b-494b-8a4e-6bb39cf3a0d7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " pretty good life I never even thought that I would make a living and traveling the world and consulting on different techniques with different falconers and I want to actually try to give back and share some of my experiences if I can help other foreigners and non falconers I understand what falconry is doing you know if I can keep a kid from becoming a",
+            "Title": "Hunting With Falcons:...",
+            "VideoId": "ygKJxBea6ig",
+            "Controls": "start=253"
+        },
+        {
+            "Text": " I'd like to tell you the story of a consulting firm that helps their clients dramatically improve their profitability. That company is my company. After my first year in business, I saw the profit increases that my clients were realizing in working with me, and I realized that I needed to reevaluate my pricing.",
+            "Title": "Know your worth, and...",
+            "VideoId": "PaxNc5-qn6s",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " both within the range of healthy pregnancies and due to complicating health conditions— new research will help us understand why, and develop effective treatments where necessary. In the meantime, every pregnancy is different, and it’s important to consult a doctor with any specific questions.",
+            "Title": "The surprising effects...",
+            "VideoId": "F_ssj7-8rYg",
+            "Controls": "start=291"
+        },
+        {
+            "Text": " I consulted an eminent law professor who was also a psychiatrist, and said surely he would agree that restraints must be degrading, painful and frightening. He looked at me in a knowing way, and said, \"Elyn, you don't really These people are psychotic. They're different from me and you.",
+            "Title": "A tale of mental illness...",
+            "VideoId": "f6CILJA110Y",
+            "Controls": "start=492"
+        },
+        {
+            "Text": " The same is true in our workplaces. In the companies I consult with, I often see flawless execution cultures which leaders foster to encourage great work. But that leads employees to stay within what they know and not try new things, so companies struggle to innovate and improve,",
+            "Title": "Eduardo Briceño: How to...",
+            "VideoId": "YKACzIrog24",
+            "Controls": "start=522"
+        },
+        {
+            "Text": " you need to consult with experts to get the advice on how to leave safely. But it's not just about romantic relationships and it's not just about violence. Understanding the signs of unhealthy love can help you audit and understand nearly every relationship in your life.",
+            "Title": "The difference between...",
+            "VideoId": "ON4iy8hq2hM",
+            "Controls": "start=555"
+        },
+        {
+            "Text": " Okay. Okay. So maybe I would start a nonprofit to kind of help consult and get this idea going along with the government, but then I was told, \"Son, our government looks to private sector for things like this.\" Okay. So maybe I would take this whole idea and go",
+            "Title": "Michael McDaniel: Cheap,...",
+            "VideoId": "rx1cyKs3ysg",
+            "Controls": "start=290"
+        },
+        {
+            "Text": " revolution is coming towards us and this time we can see it and we have a choice we can make we can use the metaphors of the rusty machine age or we can consult biological wisdom and if we choose the latter",
+            "Title": "Creating a Bio-Industrial...",
+            "VideoId": "YSOFd0YgpQQ",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " Before going to bed, she observes the course of the planets and consults her charts, trying to make sense of the meteor she saw earlier. The signs are converging on a larger threat than their neighbors.",
+            "Title": "A day in the life of a...",
+            "VideoId": "6kmxzIY7mE8",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " that are just too hard to solve by applying sheer effort. For those problems, it's worth consulting the computer scientists. When you're looking for life advice,",
+            "Title": "3 ways to make better...",
+            "VideoId": "1mLQFm3wEfw",
+            "Controls": "start=168"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katha-pollitt.webp",
+            "Text": "I think women have the right to consult their own wishes, needs, and capacities and produce only loved, wanted children they can care for - or even no children at all. I think we would all be better off as a society if we respected women's ability to make these decisions for themselves and concentrated on caring well for the born.",
+            "Title": "American Poet",
+            "Name": "Katha Pollitt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viswanathan-anand.webp",
+            "Text": "It's important, according to me, to train in small doses so as to not lose the joy of playing chess. I personally think too many coaching and training classes may take away a child's interest in the game itself. The essential thing to do is practise often and, in case of a doubt, to consult a trainer.",
+            "Title": "Indian Celebrity",
+            "Name": "Viswanathan Anand"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karl-rove.webp",
+            "Text": "I'll never get out of politics. I have friends in public office. I have things that I want to do. You can't go back in life. I won't go back to the existence I had before of running a political consulting firm and signing up clients and advising campaigns in exactly that way.",
+            "Title": "American Politician",
+            "Name": "Karl Rove"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-desmond-bernal.webp",
+            "Text": "Scientific corporations might well become almost independent states and be enabled to undertake their largest experiments without consulting the outside world - a world which would be less and less able to judge what the experiments were about.",
+            "Title": "Irish Scientist",
+            "Name": "John Desmond Bernal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joseph-brodsky.webp",
+            "Text": "Life is a game with many rules but no referee. One learns how to play it more by watching it than by consulting any book, including the holy book. Small wonder, then, that so many play dirty, that so few win, that so many lose.",
+            "Title": "American Poet",
+            "Name": "Joseph Brodsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/roshni-nadar.webp",
+            "Text": "I did film and television, not having worked in banking or consulting, a very different stream. So I said, 'I'll go to business school, and it will help me decide more on what I want to do.",
+            "Title": "Indian Businesswoman",
+            "Name": "Roshni Nadar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leroy-chiao.webp",
+            "Text": "Well, it's still a bit uncertain, but I will do the consulting, and I'll see how I can contribute. But I'm sure whatever I do will involve the space program. That's where my passion is.",
+            "Title": "American Astronaut",
+            "Name": "Leroy Chiao"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hansjorg-wyss.webp",
+            "Text": "Two things are vital for me. I've always had people who protected me, and I've always had people who helped me. Before I decide, I consult with three, four people who I trust.",
+            "Title": "Swiss Businessman",
+            "Name": "Hansjorg Wyss"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shruti-haasan.webp",
+            "Text": "I turn to my parents for support, but their lives and careers are different and mine is different, so I don't consult them regarding my career. I make my own choices.",
+            "Title": "Indian Actress",
+            "Name": "Shruti Haasan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/indra-nooyi.webp",
+            "Text": "Every year in consulting is like three years in the corporate world because you have multiple clients, multiple issues - you grow so much.",
+            "Title": "Indian Businesswoman",
+            "Name": "Indra Nooyi"
+        }
+    ]
+}

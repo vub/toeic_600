@@ -1,0 +1,291 @@
+{
+    "currentWord": {
+        "wordRoot": "supervisor",
+        "id": 7744,
+        "phonemic": "ˈsuːpəvaɪzə(r)|ˈsuːpərvaɪzər\r",
+        "bigId": "51f98a24-e5a7-467f-b939-ecdbdbf1fc23",
+        "wordForms": [
+            "supervisors",
+            "supervisor"
+        ]
+    },
+    "senses": [
+        {
+            "id": "51f98a24-e5a7-467f-b939-ecdbdbf1fc23",
+            "de": "A person who watches and directs the work of others to make sure it is done correctly.",
+            "ty": "noun",
+            "ex": "She reported the issue to her supervisor at work.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "work supervisor",
+                " immediate supervisor",
+                " direct supervisor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/51f98a24-e5a7-467f-b939-ecdbdbf1fc23.webp",
+            "Tips": [
+                {
+                    "title": "Workplace Hierarchy",
+                    "description": "A supervisor is above regular employees but below managers; they have limited power.",
+                    "example": "Her supervisor assigned tasks, but only her manager could approve her vacation.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZOe443k7tjoUjwPCtOBDBxukcs.webp"
+                },
+                {
+                    "title": "Monitoring Role",
+                    "description": "Supervisors typically monitor work closely, providing feedback and assistance.",
+                    "example": "My supervisor watches how I use the cash register to ensure I'm following procedure.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lbk410fCVr36PMPXAEydUite2s.webp"
+                },
+                {
+                    "title": "Communication Channel",
+                    "description": "Supervisors often act as a communication link between upper management and staff.",
+                    "example": "Tell your supervisor if the computer is broken; she'll inform the IT department.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/IfxDjMFW8gFy4vTHnNQXIeKNYUU.webp"
+                }
+            ]
+        },
+        {
+            "id": "3a0f1601-01b1-4a24-808e-abf3c95c943a",
+            "de": "An academic employee of a college or university who supports and manages the research of a graduate student.",
+            "ty": "noun",
+            "ex": "The supervisor gave useful feedback on the student's PhD thesis.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "thesis supervisor",
+                " phd supervisor",
+                " research supervisor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3a0f1601-01b1-4a24-808e-abf3c95c943a.webp",
+            "Tips": [
+                {
+                    "title": "Research Guide",
+                    "description": "In academia, supervisors guide students' research, helping them progress and succeed.",
+                    "example": "My supervisor helped me refine my research question for my thesis.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Academic Mentor",
+                    "description": "A academic supervisor is also a mentor, providing support beyond just academic advice.",
+                    "example": "Her supervisor encouraged her to present her research at the conference.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b8639aa0-0762-46bb-bff3-de1679162ebf",
+            "de": "An elected official in certain US states and counties with responsibility for some area of local government.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "He's running for county supervisor in the next election.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "county supervisor",
+                " election supervisor",
+                " board of supervisors"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b8639aa0-0762-46bb-bff3-de1679162ebf.webp",
+            "Tips": [
+                {
+                    "title": "Government Role",
+                    "description": "In the legal context, supervisors have specific governmental duties, often legislative.",
+                    "example": "The county supervisor proposed a new law to improve local parks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Elected Position",
+                    "description": "Legal supervisors are often elected officials; they represent the public's interests.",
+                    "example": "She campaigned hard to become the next city supervisor.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Administrator": {
+            "wordRoot": "Administrator",
+            "wordDefinition": "An administrator is a person who oversees and manages the overall operations of an organization or institution. They are responsible for making decisions, managing budgets, and ensuring that policies and procedures are followed.\n\nAdministrators can work in a variety of settings, such as schools, hospitals, or businesses.\n\nAn administrator manages the big picture while a supervisor manages the day-to-day details. Both roles are important for the smooth operation of an organization and require different skills and responsibilities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ea243f6d-4ad4-44f3-8afa-6ebe7ebfb9a9.webp"
+        },
+        "Boss": {
+            "wordRoot": "Boss",
+            "wordDefinition": "However, the word boss often implies a more formal or hierarchical relationship, where the boss is the overall manager or leader of a team or department.\n\nSo, while bosses might be responsible for setting overall goals or making big-picture decisions, supervisors are more involved in day-to-day operations and making sure tasks are completed properly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/97db051e-deb3-4710-bace-4299373756d9.webp"
+        },
+        "Controller": {
+            "wordRoot": "Controller",
+            "wordDefinition": "A controller is a person or a system that controls or manages something. It is applicable in industries or machines where it manages the functioning of the machines.\n\nA controller is a system or person that manages machines, while a supervisor is a person who manages people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f9be612e-9a8f-4666-ba95-db6f2cc93689.webp"
+        },
+        "Coordinator": {
+            "wordRoot": "Coordinator",
+            "wordDefinition": "A coordinator is usually someone who manages a group of people or activities to accomplish a task or goal. Their job is to ensure that everyone is working together and that everything is going smoothly.\n\nCoordinators are applicable in roles where there are multiple activities that require someone to organize and ensure that all activities are running smoothly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/51edf234-cf79-4c56-a5a1-9117269b9297.webp"
+        },
+        "Director": {
+            "wordRoot": "Director",
+            "wordDefinition": "A director is a person who is in charge of a department, organization or company. They have a high level of authority and responsibility, and often set the overall strategic direction of the entity.\n\nDirectors are usually higher up in the hierarchy of an organization.\n\nA director is like the captain of a ship who determines the course and direction, while a supervisor is like the crew leader who manages and coordinates the activities of the team to help reach the destination.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/711be782-bdf5-4363-b777-30d13cf9b348.webp"
+        },
+        "Foreman": {
+            "wordRoot": "Foreman",
+            "wordDefinition": "A foreman is responsible for managing and supervising a group of workers who are engaged in a specific task. They are typically skilled workers and their job is to ensure that the work is completed on time, within budget, and to the required quality standards.\n\nThe two terms are similar in that they both involve supervising others, but a foreman is typically more hands-on and focused on the specific task at hand, while a supervisor is more concerned with the broader goals of the organization.\n\nA foreman might be found on a construction site, for example, while a supervisor might work in an office setting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5f43e958-1aab-47cc-af00-0c30dd9f1244.webp"
+        },
+        "Inspector": {
+            "wordRoot": "Inspector",
+            "wordDefinition": "An inspector is someone who carefully examines things to make sure they are safe, working properly, and follow certain standards.\n\nAn inspector focuses on making sure things meet certain standards, while a supervisor focuses on managing people to achieve specific goals.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8aff65b3-8e84-4021-9ecc-73902a43d346.webp"
+        },
+        "Manage": {
+            "wordRoot": "Manage",
+            "wordDefinition": "Manager is a person in charge of a business, team or department, and is responsible for overseeing and directing the work of others.\n\nManagers make decisions, delegate tasks and responsibilities, and ensure that work is completed efficiently and effectively.\n\nA supervisor is someone who oversees and monitors the work of others, but they typically do not have the same level of authority or decision-making power as a manager.\n\nIn simple terms, managers are responsible for leading and making decisions, while supervisors are responsible for overseeing tasks and ensuring that they are completed correctly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ad91e78-9546-410a-83ae-0d6f673c381b.webp"
+        },
+        "Oversight": {
+            "wordRoot": "Oversight",
+            "wordDefinition": "Oversight refers to the act of watching over something or someone to make sure they are doing what they are supposed to be doing correctly.\n\nOversight is about monitoring and preventing mistakes while a supervisor is about managing and guiding a team to achieve their goals.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61de1a08-5677-409b-a26f-c587ad39d35c.webp"
+        },
+        "Superintendent": {
+            "wordRoot": "Superintendent",
+            "wordDefinition": "Superintendent and supervisor are often used interchangeably, but they have different meanings.\n\nA superintendent is a person who oversees and manages an entire organization, such as a school district, a construction site, or a housing complex.\n\nIn simpler terms, a superintendent is like the boss of the entire company while a supervisor is the boss of a specific group or department within the company.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fa75ec49-637c-4678-aba3-09f07783bfd2.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " FBI agents admitted that what they were doing was farcical. A federal judge doesn't want you to hear about these conversations. He sealed the transcripts and placed them under a protective order in an attempt to prevent someone like me from doing something like this. Behind closed doors, the lead agent, the squad supervisor, described their would-be terrorist",
+            "Title": "Trevor Aaronson: How...",
+            "VideoId": "SGG97dDfZ7E",
+            "Controls": "start=241"
+        },
+        {
+            "Text": " but they wouldn't even tell me if she was there. I went from supervisor to supervisor, begging to submit evidence of Anna's son's special needs, but no one would even talk to me about the case. It felt surreal to watch the shoppers strolling idly by what felt like a life-and-death situation.",
+            "Title": "Erika Pinheiro: What's...",
+            "VideoId": "Depn_GsxSqo",
+            "Controls": "start=122"
+        },
+        {
+            "Text": " And they said, \"This is what's expected of us. When a supervisor comes to visit us, these are exactly the things that he checks. Has the toilet been made, has the meal been served. When my principal goes to a meeting at headquarters, these are exactly the things which are discussed.\"",
+            "Title": "How to fix a broken...",
+            "VideoId": "7sqeoYOQ4qg",
+            "Controls": "start=333"
+        },
+        {
+            "Text": " and as far as I could tell, she was right. Work happened later, marriage happened later, kids happened later, even death happened later. Twentysomethings like Alex and I had nothing but time. But before long, my supervisor pushed me to push Alex about her love life.",
+            "Title": "Why 30 is not the new 20...",
+            "VideoId": "vhhgI4tSMwc",
+            "Controls": "start=64"
+        },
+        {
+            "Text": " The question I had was, could parent training programs be useful for families while they were still in war zones or refugee camps? Could we reach them with advice or training that would help them through these struggles? So I approached my PhD supervisor,",
+            "Title": "What it's like to be a...",
+            "VideoId": "dY9f9bFctUE",
+            "Controls": "start=160"
+        },
+        {
+            "Text": " supervisor and the director the cameraman you miller and doug anderson for them it was incredibly challenging i mean they were super super motivated this was the most wonderful diving they'd ever done in their lives but the challenges of it when they're",
+            "Title": "Filming Antarctica's...",
+            "VideoId": "BtQhb8sWJNw",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " what happened to the community into that school when I arrived I was devastated our construction supervisor and his entire family died from AIDS the chief of the village when I was there he died from AIDS I was paralyzed I couldn't",
+            "Title": "Breaking the cycle of...",
+            "VideoId": "wfagWlHOCxk",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " walk around behind me okay I'm gonna get up you're seven just come and sit down next to me first oh no supervisor wow she's so heavy my darling I have to say Shelly in a whole lifetime working with animals",
+            "Title": "Daredevil Cuddles With...",
+            "VideoId": "-6o4yl6u0pE",
+            "Controls": "start=46"
+        },
+        {
+            "Text": " one of my supervisors was this irascible Italian core Pietro who drank too much smoke too much and swore much too much but he was a passionate teacher and I remember one of our earlier classes with",
+            "Title": "Weaving narratives in...",
+            "VideoId": "5QXeIqvQNHo",
+            "Controls": "start=21"
+        },
+        {
+            "Text": " ignore the importance of the discovery we had made says supervisor Ricardo Franchione e viado but they knew enough to call in some italian experts who determined they had inadvertently",
+            "Title": "Fossil Found in Kitchen...",
+            "VideoId": "VXrsDHevV6I",
+            "Controls": "start=39"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/s-s-rajamouli.webp",
+            "Text": "I don't believe in luck. Everything is our doing or undoing. If something doesn't come out right, then as a director, you have to take full responsibility. You can't just say, 'No, I gave this job to the music supervisor. They promised me they would do it, and they didn't do it.' You can't blame anyone else.",
+            "Title": "Indian Director",
+            "Name": "S. S. Rajamouli"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-petersen.webp",
+            "Text": "Grissom comes from a place where we know he had a deaf mother, he was raised in a silent household, on some level, had a father who potentially was not around and he learned what he knew by himself in the back yard, with bugs and animals. He's not comfortable being a supervisor and that's his problem.",
+            "Title": "American Actor",
+            "Name": "William Petersen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/scott-foley.webp",
+            "Text": "I know, just from directing television, where you have a huge support system of producers and writers and a script supervisor - not just the cast but a crew of 100 people - there are, as a director, hundreds of questions that you have to answer every day.",
+            "Title": "American Actor",
+            "Name": "Scott Foley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-perez.webp",
+            "Text": "I've learned that it's important to listen to employees at all levels, to engage them, to empower them. Whether you're a first-line supervisor or the head of an entire agency, you should be asking career staffers, 'What do you think?",
+            "Title": "American Politician",
+            "Name": "Tom Perez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zhou-qunfei.webp",
+            "Text": "Maybe it was because my resignation letter was well written, and this attracted the attention of the factory supervisor. They kept me on and gave me a promotion to head up my own newly created department.",
+            "Title": "Chinese Businesswoman",
+            "Name": "Zhou Qunfei"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kimberly-guilfoyle.webp",
+            "Text": "In any situation, it is good to be aware of even your co-workers, and if you are uncomfortable or concerned about a colleague's behavior, report it to a supervisor.",
+            "Title": "American Critic",
+            "Name": "Kimberly Guilfoyle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harvey-milk.webp",
+            "Text": "Having a small business and being one of thousands of people whom no one in government will listen to, I have decided to run for supervisor as a person.",
+            "Title": "American Politician",
+            "Name": "Harvey Milk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-munoz.webp",
+            "Text": "We have not provided our frontline supervisors and managers and individuals with the proper procedures that would allow them to use their common sense.",
+            "Title": "American Businessman",
+            "Name": "Oscar Munoz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-mackay.webp",
+            "Text": "My mum was a costume designer and costume supervisor in the theater and, especially, the ballet. But that was before I was born.",
+            "Title": "English Actor",
+            "Name": "George MacKay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-autor.webp",
+            "Text": "Workers are basically supervisors of machines.",
+            "Title": "American Economist",
+            "Name": "David Autor"
+        }
+    ]
+}

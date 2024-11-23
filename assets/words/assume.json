@@ -1,0 +1,348 @@
+{
+    "currentWord": {
+        "wordRoot": "assume",
+        "id": 22016,
+        "phonemic": "əˈsjuːm|əˈsuːm\r",
+        "bigId": "c69d9475-a063-4f1e-bbad-ccae45a7b775",
+        "wordForms": [
+            "assumes",
+            "assuming",
+            "assumed",
+            "assume"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c69d9475-a063-4f1e-bbad-ccae45a7b775",
+            "de": "To think something is true without having proof or certainty.",
+            "ty": "verb",
+            "ex": "He assumed she would be at the meeting, so he was surprised when she didn't show up.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assume responsibility",
+                " assume a role",
+                " assume the worst."
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c69d9475-a063-4f1e-bbad-ccae45a7b775.webp",
+            "Tips": [
+                {
+                    "title": "No Proof Required",
+                    "description": "Use 'assume' when you believe something without evidence.",
+                    "example": "I assume you've already eaten since you're not hungry.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4GjtlbabrmUakGfCbXinU6oh1o.webp"
+                },
+                {
+                    "title": "Avoid Assumptions",
+                    "description": "Making assumptions can lead to misunderstandings; it's often better to ask first.",
+                    "example": "I assumed you knew her, but I should have introduced you.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UnF2RpCPwjllzaDerd2k3pru8E.webp"
+                }
+            ]
+        },
+        {
+            "id": "a36a67fb-14d3-4777-8847-31eb05fe35be",
+            "de": "To take on or begin to have (a quality, appearance, or extent).",
+            "ty": "verb",
+            "ex": "He assumed a look of surprise when he heard the news.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assume command",
+                " assume control",
+                " assume a position."
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a36a67fb-14d3-4777-8847-31eb05fe35be.webp",
+            "Tips": [
+                {
+                    "title": "Visible Change",
+                    "description": "Use 'assume' to describe someone adopting a new appearance or demeanor visibly.",
+                    "example": "She assumed a serious expression during the debate.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "53a37505-027d-465e-b9d5-6d11cdc21841",
+            "de": "To take on (a job or duty).",
+            "ty": "verb",
+            "ex": "When the boss retired, his daughter assumed the responsibility of managing the company.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assume office",
+                " assume power",
+                " assume authority."
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/53a37505-027d-465e-b9d5-6d11cdc21841.webp",
+            "Tips": [
+                {
+                    "title": "Job or Duty",
+                    "description": "'Assume' often signals the beginning of a new responsibility or role, typically in a professional sense.",
+                    "example": "He will assume the director's role starting next Monday.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Leadership Transition",
+                    "description": "When someone 'assumes' a leadership position, it signifies a transition of power or authority.",
+                    "example": "Upon the CEO's retirement, the CFO assumed leadership of the company.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a1da4885-f6c4-4d43-94d0-78629a57c880",
+            "de": "To pretend to have or be; to put on",
+            "ty": "verb",
+            "ex": "To blend in at the party, she assumed an air of sophistication.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assume a character",
+                " assume a role",
+                " assume an air"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a1da4885-f6c4-4d43-94d0-78629a57c880.webp",
+            "Tips": [
+                {
+                    "title": "Pretense",
+                    "description": "Use 'assume' when someone is pretending or acting in a way that is not genuine.",
+                    "example": "To avoid questions, he assumed ignorance.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Disguise True Feelings",
+                    "description": "People 'assume' a manner or emotion to hide their true feelings or to fit into a social context.",
+                    "example": "Though sad, she assumed a cheerful demeanor at the party.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c8548c05-c29a-420a-be38-8370b72574d6",
+            "de": "To accept without question or objection, especially in a legal context",
+            "ty": "verb",
+            "ex": "The company assumes no responsibility for items lost or damaged in transit.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assume responsibility",
+                " assume liability",
+                " assume obligation."
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c8548c05-c29a-420a-be38-8370b72574d6.webp",
+            "Tips": [
+                {
+                    "title": "Legal and Formal",
+                    "description": "'Assume' in a legal sense usually involves formally accepting a duty or risk.",
+                    "example": "The contract states that the buyer assumes all risks related to the property.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implied Obligation",
+                    "description": "Using 'assume' can imply an obligation that is understood without being stated outright.",
+                    "example": "By entering the competition, participants assume compliance with the rules.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Liability Acknowledgment",
+                    "description": "Businesses use 'assume' to acknowledge or reject responsibility for certain conditions or events.",
+                    "example": "The park sign indicated visitors assume their own risk.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Conjecture": {
+            "wordRoot": "Conjecture",
+            "wordDefinition": "Conjecture is similar to assume, but it leans more towards making an educated guess based on incomplete evidence.\n\nIn other words, someone might conjecture about something when they don't have enough information to make a solid conclusion.\n\nUsing the same example as before, if a meteorologist stated his or her conjecture about whether it was going to rain or not, they would be providing their best guess based on the limited information they had - but it would still just be a guess.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c8c23a44-3643-454f-9ee6-b4454a67dc25.webp"
+        },
+        "Deduce": {
+            "wordRoot": "Deduce",
+            "wordDefinition": "Deduce means to arrive at a conclusion based on reason or logical thinking. It’s when you use information that you already know to come up with a new idea, based on evidence.\n\nFor example, if you deduce that someone has been smoking because you can smell the smoke and see a cigarette packet nearby, you’re using your reasoning skills to put two and two together.\n\nAssume is more about predicting or guessing something without much evidence, while deduce is about using evidence to arrive at a logical conclusion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a6b79c9a-ebee-4eeb-bcb3-59fe50ff38d7.webp"
+        },
+        "Guess": {
+            "wordRoot": "Guess",
+            "wordDefinition": "However, assume typically implies taking for granted something that could be incorrect, while guess is more about making a prediction based on limited information.\n\nFor example, when you assume something, you are making an educated guess, but you do not have all the facts to confirm whether what you assumed is accurate.\n\nGuessing involves making an estimation based on projecting possibilities.\n\nYou might assume that the traffic will be heavy during rush hour but you can only guess what time you will arrive home.\n\nYou should use assume when you are unsure, but choose guess when you need to make a prediction based on limited information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3c7ab18-0ea1-4648-a057-a4ca700b099b.webp"
+        },
+        "Infer": {
+            "wordRoot": "Infer",
+            "wordDefinition": "Infer means to come to a conclusion based on evidence, clues, or reasoning. It involves using information to make an educated guess or deduction.\n\nFor example, one might infer that someone is angry based on their facial expression, body language, and tone of voice.\n\nAssume is used when we presume something without evidence, while infer is used when we use evidence and reasoning to come to a conclusion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/33206914-5738-4eea-a76a-c76d061bfb3d.webp"
+        },
+        "Postulate": {
+            "wordRoot": "Postulate",
+            "wordDefinition": "Assume and postulate are both verbs that describe the act of proposing something to be true without necessarily having proof for it.\n\nPostulate is used when we propose something to be true based on logical reasoning or hypothesis. For example, \"Scientists postulate that dark matter exists because of its gravitational effects even though it cannot be directly observed.\" When we postulate, we base our thinking on a reasonable and rational hypothesis.\n\nAssume is used when accepting something to be true without necessarily having proof, while postulate is used when proposing something to be true based on logical reasoning or hypothesis.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f1581df0-4eec-4055-961d-a0b5a89eeb2c.webp"
+        },
+        "Presume": {
+            "wordRoot": "Presume",
+            "wordDefinition": "Assume and presume are similar in meaning but are used in different situations.\n\nPresume means to make an assumption based on probability, possibility, or available evidence. For example, \"He presumed that she would be late for the meeting since she always arrives late.\".\n\nAssume is used when there is no reason to believe otherwise, while presume is used when there is some evidence or likelihood to support the assumption.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6eebc24b-927c-4281-b35c-88723b9670ab.webp"
+        },
+        "Reckon": {
+            "wordRoot": "Reckon",
+            "wordDefinition": "Reckon is similar in that it also implies a belief or estimation but usually implies a greater degree of certainty or confidence.\n\nIn some parts of the world, it can be used as a synonym for \"think\" or \"believe.\" For example, \"I reckon it's going to rain today\" implies a higher degree of confidence in the prediction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7cc83c65-a47a-4ae9-b589-1a50c34c702f.webp"
+        },
+        "Speculate": {
+            "wordRoot": "Speculate",
+            "wordDefinition": "Assume means to believe something without any proof or evidence, while speculate means to make an educated guess based on available information.\n\nIf someone says \"I speculate that it's going to rain today because I saw a lot of clouds this morning,\" they are making an educated guess based on what they have observed.\n\nAssume is applicable when someone wants to make a statement without having any evidence or proof to back it up. Speculate is applicable when someone wants to make an educated guess based on the information available to them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/30c39061-93c7-4365-be56-40e27c81187e.webp"
+        },
+        "Suppose": {
+            "wordRoot": "Suppose",
+            "wordDefinition": "Assume and suppose are similar words with slight differences in meaning.\n\nSuppose means to consider something as a possibility or to imagine something. It's more of a hypothetical scenario. For example, \"Suppose we get lost, what would you do?\".\n\nAssume is used when you're making an assumption based on incomplete information, while suppose is used when you're considering a hypothetical situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/902a989e-cb49-4789-825f-75e375857e86.webp"
+        },
+        "Theorize": {
+            "wordRoot": "Theorize",
+            "wordDefinition": "Theorize means to form a theory or explanation based on observations and research. It is a more scientific approach to understanding something.\n\nAn example of theorizing would be saying \"I theorize that the reason plants grow towards the sun is because they need sunlight to do photosynthesis\" after conducting experiments and research to support the theory.\n\nTheorize is applicable in situations when a hypothesis or explanation is needed to explain observations or data, like in scientific research or experiments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/508f832c-35ae-41e0-8734-7d139a3df8b1.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " So you ask, just how small are atoms? To understand this, let's ask this How many atoms are in a grapefruit? Well, let's assume that the grapefruit is made up of only nitrogen atoms, which isn't at all true, but there are nitrogen atoms in a grapefruit. To help you visualize this, let's blow up each of the atoms",
+            "Title": "Just How Small is an...",
+            "VideoId": "yQP4UJhNn0I",
+            "Controls": "start=31"
+        },
+        {
+            "Text": " At the Passover meal, every item on the menu symbolizes an aspect of the escape from slavery. The importance of growing up is emphasized when young people reach the age of bar and bat mitzvah, ceremonies during which they assume responsibility for their actions and celebrate the weaving of their own lives",
+            "Title": "The five major world...",
+            "VideoId": "m6dCxo7t_aE",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " and medicine made great strides long before we understood the roles of bacteria and viruses. That said, better theories often lead to exciting new discoveries that were unimaginable under the old way of thinking. Nor should we assume all of our current scientific theories",
+            "Title": "What’s the difference...",
+            "VideoId": "GyN2RhbhiEU",
+            "Controls": "start=224"
+        },
+        {
+            "Text": " Because Nobel's name was tied to inventions used in the war industry, many have assumed that he created the peace prize out of regret. However, this is all speculation as he never expressed any such sentiments, and his inventions were also used for constructive purposes.",
+            "Title": "How does the Nobel Peace...",
+            "VideoId": "rXhpK_lhonA",
+            "Controls": "start=70"
+        },
+        {
+            "Text": " you might give up, assuming you've discovered something you're not very good at. But if you have a growth mindset and think your abilities can improve, a challenge is an opportunity to learn and grow. Neuroscience supports the growth mindset.",
+            "Title": "3 tips to boost your...",
+            "VideoId": "l_NYrWqUR40",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " It's just sitting there ready to obliterate anything that becomes a threat. Or maybe they're not that intelligent, or perhaps the evolution of an intelligence capable of creating sophisticated technology is far rarer than we've assumed.",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=510"
+        },
+        {
+            "Text": " now we have one last one this is the most important one and it really is important for many reasons it's prepared for impact stay with me prepare for impact okay you have to assume people are going to run into you in driving we",
+            "Title": "Act like a car PIPE Nathan...",
+            "VideoId": "X6W--Q9XZOw",
+            "Controls": "start=297"
+        },
+        {
+            "Text": " It must orbit the Sun. Is not a moon and has enough mass and gravitational pull to assume a round shape. However it was the fourth characteristic that compromised Pluto's status. It's inability to clear it's orbit of debris.",
+            "Title": "Pluto 101 PIPE National...",
+            "VideoId": "-iZio70bd-M",
+            "Controls": "start=194"
+        },
+        {
+            "Text": " then there is no need to go looking elsewhere, assuming that there is such a thing as a perfect marriage that will inoculate us against wanderlust. But what if passion has a finite shelf life?",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=598"
+        },
+        {
+            "Text": " into cooler, deeper water with a better supply of oxygen. A hefty male also assumes the role of guard dog.",
+            "Title": "African Bullfrog Dad...",
+            "VideoId": "xlPwPxHIzNg",
+            "Controls": "start=65"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franchesca-ramsey.webp",
+            "Text": "Social media, unfortunately, just makes it a lot easier to be jealous. It sets up false expectations of reality, so it's really easy to look at someone else's life online and assume that they have everything going great for them and that their life is perfect.",
+            "Title": "American Comedian",
+            "Name": "Franchesca Ramsey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-brown.webp",
+            "Text": "I learned a long time ago that advice is a quick trip to nowhere. It's the commitment that only you can make in yourself, the responsibility to assume control of yourself.",
+            "Title": "American Athlete",
+            "Name": "Jim Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leo-tolstoy.webp",
+            "Text": "War on the other hand is such a terrible thing, that no man, especially a Christian man, has the right to assume the responsibility of starting it.",
+            "Title": "Russian Novelist",
+            "Name": "Leo Tolstoy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alan-rickman.webp",
+            "Text": "Originally, theater was my life. It was what I assumed I'd spend my working life doing - if I was lucky. Then along came movies.",
+            "Title": "British Actor",
+            "Name": "Alan Rickman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-zukav.webp",
+            "Text": "A responsible choice is a choice that creates consequences that you are willing to assume responsibility for.",
+            "Title": "American Author",
+            "Name": "Gary Zukav"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/antoine-de-saint-exupery.webp",
+            "Text": "A chief is a man who assumes responsibility. He says 'I was beaten', he does not say 'My men were beaten.",
+            "Title": "French Writer",
+            "Name": "Antoine de Saint-Exupery"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-orwell.webp",
+            "Text": "Men can only be happy when they do not assume that the object of life is happiness.",
+            "Title": "British Author",
+            "Name": "George Orwell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/shirley-ballas.webp",
+            "Text": "I don't think anyone should assume anything about someone else's life.",
+            "Title": "English Dancer",
+            "Name": "Shirley Ballas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judy-blume.webp",
+            "Text": "I'm not the world's best mother, though kids always assume I must be.",
+            "Title": "American Author",
+            "Name": "Judy Blume"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/daniel-barenboim.webp",
+            "Text": "I believe education is much more important than we assume.",
+            "Title": "Argentinian Musician",
+            "Name": "Daniel Barenboim"
+        }
+    ]
+}

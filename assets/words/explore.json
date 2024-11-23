@@ -1,0 +1,295 @@
+{
+    "currentWord": {
+        "wordRoot": "explore",
+        "id": 12270,
+        "phonemic": "ɪkˈsplɔː(r)|ɪkˈsplɔːr\r",
+        "bigId": "b648c8ad-e138-43d6-8513-3546dd23201d",
+        "wordForms": [
+            "explores",
+            "exploring",
+            "explored",
+            "explore"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b648c8ad-e138-43d6-8513-3546dd23201d",
+            "de": "Travel in or through an unfamiliar area in order to learn about it.",
+            "ty": "verb",
+            "ex": "We explored the old town.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "explore the area",
+                " explore the city",
+                " explore the country"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b648c8ad-e138-43d6-8513-3546dd23201d.webp",
+            "Tips": [
+                {
+                    "title": "Geographic Discovery",
+                    "description": "Use 'explore' to express a sense of adventure in discovering new places or experiences.",
+                    "example": "They went to explore the untouched beaches of the island.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1yo1NNTnLH4kbOQI1Toh6cGLK8.webp"
+                },
+                {
+                    "title": "Physical Activity",
+                    "description": "'Explore' often suggests physical movement, like walking or hiking, not just looking around.",
+                    "example": "We spent the whole day exploring the national park.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/dgNi57lKr8SVCbD56Qr6BTja6M.webp"
+                },
+                {
+                    "title": "Not Always Literal",
+                    "description": "Sometimes 'explore' is used metaphorically, to 'travel' through ideas or art.",
+                    "example": "The author explores themes of freedom in her novel.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/cuF9kCmuwH3m8g5WzI3u0cnhrK4.webp"
+                }
+            ]
+        },
+        {
+            "id": "10854d62-7a8e-4210-851b-24f29d064078",
+            "de": "Examine or check systematically and in detail in order to discover something new.",
+            "ty": "verb",
+            "ex": "Scientists are exploring the nature of the virus.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "explore the possibilities",
+                " explore the differences",
+                " explore the factors"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/10854d62-7a8e-4210-851b-24f29d064078.webp",
+            "Tips": [
+                {
+                    "title": "Seeking Understanding",
+                    "description": "'Explore' implies looking into something to gain a deeper understanding or find new insights.",
+                    "example": "The study explores the impact of social media on self-esteem.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Research Context",
+                    "description": "In academic or professional contexts, 'explore' often signals the start of research or inquiry.",
+                    "example": "Her thesis explores the relationship between genetics and behavior.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Open-Ended Inquiry",
+                    "description": "Using 'explore' indicates that the outcome of the research may not be known or predetermined.",
+                    "example": "The scientists are exploring various hypotheses in their experiments.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "65c10690-61ce-4e10-951e-30b9f9bbc2be",
+            "de": "To think or talk about something in order to find out more about it.",
+            "ty": "verb",
+            "ex": "We will explore this issue in more depth in the next chapter.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "explore the topic",
+                " explore the question",
+                " explore the issue"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/65c10690-61ce-4e10-951e-30b9f9bbc2be.webp",
+            "Tips": [
+                {
+                    "title": "Discussion Depth",
+                    "description": "'Explore' suggests a thorough and detailed discussion or consideration of a topic.",
+                    "example": "In the meeting, we'll explore every team member’s viewpoint.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Complex Issues",
+                    "description": "Use 'explore' when dealing with complex or multifaceted issues that require careful analysis.",
+                    "example": "The documentary explores the complexities of the immigration system.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "More Than Surface",
+                    "description": "'Explore' involves going beyond the surface level to uncover more about a subject or topic.",
+                    "example": "The teacher encouraged us to explore the subtext of the poem.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Delve into": {
+            "wordRoot": "Delve into",
+            "wordDefinition": "Both delve into and explore can mean to investigate or examine something in-depth.\n\nHowever, delve into implies a more thorough and serious investigation, while explore suggests a more open and curious investigation.\n\nFor example, if a scientist were conducting research on a new drug, they might say they are delving into its effects and potential side effects.\n\nEssentially, delve into is used for more serious or focused situations, while explore is used for more general or curious situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/93f15c03-f404-4ce7-a904-2783e8c800aa.webp"
+        },
+        "Discover": {
+            "wordRoot": "Discover",
+            "wordDefinition": "Discover means to find something new or unknown, often by chance or accident. It implies that you weren't actively searching for it, but stumbled upon it.\n\nFor example, you discover an old book in the attic that you didn't know existed.\n\nDiscover is applicable when you stumble upon something new that you weren't expecting, while explore is applicable when you are actively seeking out new knowledge or experiences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a95ab5df-8670-45e2-9fd7-8f4b1653f48c.webp"
+        },
+        "Examine": {
+            "wordRoot": "Examine",
+            "wordDefinition": "Examine typically means to inspect or scrutinize something very closely, in order to learn more information about it.\n\nExamine is typically used when you need to carefully analyze or scrutinize something, while explore is typically used when you are seeking to learn more about something through investigation or discovery.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9624135c-7cec-4c0a-a399-a81e6fe400d4.webp"
+        },
+        "Investigate": {
+            "wordRoot": "Investigate",
+            "wordDefinition": "It is often used when we want to creatively and open-mindedly investigate something, without specific goals or purposes in mind.\n\nInvestigate means to look closely and carefully at something in order to find out more information or uncover the truth.\n\nIt is often used when we need to investigate a crime or a problem to find out what happened and why. Example: \"The police are going to investigate the car accident and figure out who was responsible.\".\n\nThe main difference between the two words is that explore is used in a more general and open-ended sense, while investigate is used for a more specific and problem-solving purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e835359-0865-4d86-ac05-e053e13feb1a.webp"
+        },
+        "Probe": {
+            "wordRoot": "Probe",
+            "wordDefinition": "Both explore and probe mean to investigate or examine something.\n\nProbe typically implies a more detailed and focused investigation, often with the specific goal of gathering information or uncovering details.\n\nFor example, a doctor might use a medical probe to examine a patient's ear, or a scientist might use a data probe to collect information about a planet.\n\nExplore is more often used when referring to broad or general investigations, while probe is more often used when referring to specific and focused investigations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf8038f1-c3ab-4b5b-85f2-0893fd584e71.webp"
+        },
+        "Scout": {
+            "wordRoot": "Scout",
+            "wordDefinition": "Explore means to travel through an unfamiliar place to discover or learn about it. Scout means to gather information or search for something specific, often with a particular goal in mind.\n\nHowever, if you were looking for a new place to live, you might scout out different neighborhoods to find the best area for you.\n\nExplore implies a broader, more general search or discovery, while scout tends to suggest a more focused or specific search.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b737b2f3-7eab-4949-86ac-9a0a61938125.webp"
+        },
+        "Search": {
+            "wordRoot": "Search",
+            "wordDefinition": "Search means to look for something systematically and carefully. It suggests a specific goal or objective in mind, such as finding an object or piece of information.\n\nExplore is about discovery and learning through immersion, while search is about finding something specific. For example, you might explore a new city to learn more about its culture and history, while you would search for a particular book in a library.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b6627d2-71c4-4485-82fa-bc5c448253d2.webp"
+        },
+        "Survey": {
+            "wordRoot": "Survey",
+            "wordDefinition": "Survey means to gather information and data about a particular subject or area, often through asking questions or conducting research.\n\nFor example, surveying public opinion on a political issue, surveying an area for potential development or surveying a group of people about their habits or attitudes.\n\nBoth words can be used in different contexts, but explore is more related to physical, hands-on discovery, while survey relates to collecting information in a more structured, organized way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a8e79ac-f73e-4d67-9757-3704e5b0c97a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " then it will come back down and land in your hand again. Of course, that's what happens, and you know this because you have witnessed events like this countless times. You've been observing the physics of everyday phenomena your entire life. But suppose we explore a question about the physics of atoms, like what does the motion of an electron",
+            "Title": "What can Schrödinger's...",
+            "VideoId": "z1GCnycbMeA",
+            "Controls": "start=16"
+        },
+        {
+            "Text": " It's not the absurdity of bureaucracy alone, but the irony of the character's circular reasoning in reaction to it that is emblematic of Kafka's writing. His tragicomic stories act as a form of mythology for the modern industrial age, employing dream logic to explore the relationships",
+            "Title": "What makes something...",
+            "VideoId": "wkPR4Rcf4ww",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " or sometimes explicitly, a different that life is not linear; it's organic. We create our lives symbiotically as we explore our talents in relation to the circumstances they help to create for us. But, you know, we have become obsessed with this linear narrative.",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=532"
+        },
+        {
+            "Text": " explore the galaxy rejects and neglects the home that we have here now so no that cannot be wisdom wisdom is different while intelligence speaks wisdom listens and we willingly covered our ears to mother nature screams and closed our eyes to all of her help",
+            "Title": "His Epic Message Will...",
+            "VideoId": "B-nEYsyRlYo",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " exploring the full spectrum of viewpoints might explain why some policies that don't seem valid to you appeal to others. This will allow you to explore alternatives, evaluate your own choices, and ultimately help you make more informed decisions.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " and everything is most certainly 42. Just like real life, fictional worlds operate consistently within a spectrum of physical and societal rules. That's what makes these intricate worlds believable, comprehensible, and worth exploring.",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " great thought experiment the ultimate what-if question as a scientist I wanted to hold up a mirror to our modern society and explore all of the behind the scenes fundamentals of how our world",
+            "Title": "How to rebuild the world...",
+            "VideoId": "CdTzsbqQyhY",
+            "Controls": "start=100"
+        },
+        {
+            "Text": " These pups were born deaf and blind, but now their senses are developing and they're starting to explore the world around them. I might get the pups to come and investigate it.",
+            "Title": "Up Close and Personal...",
+            "VideoId": "ZMuMIcQx9Qc",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " So, are you sure you want to live forever? Now, which superpower physics lesson will you explore next? Shifting body size and content, super speed, flight, super strength,",
+            "Title": "If superpowers were...",
+            "VideoId": "uvMiz0-nPxs",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " friendships and exploring their forest home a discovery",
+            "Title": "Best Monkey Moments PIPE...",
+            "VideoId": "opyPkipNNhE",
+            "Controls": "start=173"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicolas-cage.webp",
+            "Text": "Acting is always at the core of my life, but I'm also excited about producing. I'm excited about directing, and I have a life in the filmmaking world, and so I want to explore all aspects of it, not just the acting, but acting is the root.",
+            "Title": "Actor",
+            "Name": "Nicolas Cage"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "When we understand string theory, we will know how the universe began. It won't have much effect on how we live, but it is important to understand where we come from and what we can expect to find as we explore.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-redford.webp",
+            "Text": "I wanted to get out of this country and experience different ways of seeing the world. So I went to Europe, but I went as an artist. I was increasing my skill set and exploring storytelling through painting.",
+            "Title": "American Actor",
+            "Name": "Robert Redford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brad-pitt.webp",
+            "Text": "I had a very supportive family environment that gave me room to explore and discover things about myself.",
+            "Title": "Actor",
+            "Name": "Brad Pitt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-waid.webp",
+            "Text": "The best stories, the most-fun 'Avengers' stories, explore the relationships between the characters.",
+            "Title": "American Writer",
+            "Name": "Mark Waid"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rachel-mcadams.webp",
+            "Text": "What I love is dropping into someone else's life and exploring it.",
+            "Title": "Canadian Actress",
+            "Name": "Rachel McAdams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/justin-chancellor.webp",
+            "Text": "Find your voice and don't be afraid to explore it.",
+            "Title": "English Musician",
+            "Name": "Justin Chancellor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-perry.webp",
+            "Text": "I do like to explore evil characters in my books.",
+            "Title": "German Musician",
+            "Name": "Thomas Perry"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/liam-neeson.webp",
+            "Text": "It is fun to explore these kick-butt characters.",
+            "Title": "Irish Actor",
+            "Name": "Liam Neeson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ryan-babel.webp",
+            "Text": "I like to explore the world.",
+            "Title": "Dutch Athlete",
+            "Name": "Ryan Babel"
+        }
+    ]
+}

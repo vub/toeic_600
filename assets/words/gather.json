@@ -1,0 +1,344 @@
+{
+    "currentWord": {
+        "wordRoot": "gather",
+        "id": 10965,
+        "phonemic": "ˈɡæðə(r)|ˈɡæðər\r",
+        "bigId": "9e0ed609-a4a1-4831-88cf-4a316f42e7c9",
+        "wordForms": [
+            "gathers",
+            "gathering",
+            "gathered",
+            "gatherings",
+            "gather"
+        ]
+    },
+    "senses": [
+        {
+            "id": "9e0ed609-a4a1-4831-88cf-4a316f42e7c9",
+            "de": "To collect things, often while moving around",
+            "ty": "verb",
+            "ex": "She gathered the children's toys that were scattered in the room.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "gather information",
+                " gather evidence",
+                " gather strength"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9e0ed609-a4a1-4831-88cf-4a316f42e7c9.webp",
+            "Tips": [
+                {
+                    "title": "Physical Collection",
+                    "description": "Often implies collecting tangible items by hand or using tools.",
+                    "example": "We gathered seashells along the beach.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/l5zb7EY9AMhhRGemabygZf19k.webp"
+                },
+                {
+                    "title": "Action Movement",
+                    "description": "Involves moving from place to place to collect items or information.",
+                    "example": "Journalists gather news from various sources.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/rwUgrMrdJ5ZjJ3GxzCbhz5EkQS0.webp"
+                }
+            ]
+        },
+        {
+            "id": "89000f2e-4826-43dc-830c-e05125a3c7ea",
+            "de": "To come together in a group, or to make people do this",
+            "ty": "verb",
+            "ex": "They gathered around the campfire to sing songs.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "gather together",
+                " gather around",
+                " gather up"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/89000f2e-4826-43dc-830c-e05125a3c7ea.webp",
+            "Tips": [
+                {
+                    "title": "Group Dynamics",
+                    "description": "Used when people come together socially or for a purpose.",
+                    "example": "The community gathered at the hall for the annual event.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Unity Implication",
+                    "description": "Can suggest solidarity or support among a group of people.",
+                    "example": "The workers gathered in protest of the unfair policies.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "dd36b9a9-893b-4dda-a2f0-c6b2187f8570",
+            "de": "To understand or realise something",
+            "ty": "verb",
+            "ex": "From what I can gather, he isn't happy with the decision.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "gather from",
+                " gather that",
+                " gather by"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dd36b9a9-893b-4dda-a2f0-c6b2187f8570.webp",
+            "Tips": [
+                {
+                    "title": "Cognitive Processing",
+                    "description": "Reflects a mental process of piecing together information.",
+                    "example": "I gather you're not interested, seeing your lack of enthusiasm.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Indirect Understanding",
+                    "description": "Indicates comprehension from hints or implications, not direct statements.",
+                    "example": "From your tone, I gather that you disagree with the plan.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a908a45e-d9d0-4958-ab84-38b2cce332de",
+            "de": "To increase gradually in amount or intensity",
+            "ty": "verb",
+            "ex": "The storm is gathering force, we should seek shelter.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "gather speed",
+                " gather momentum",
+                " gather strength"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a908a45e-d9d0-4958-ab84-38b2cce332de.webp",
+            "Tips": [
+                {
+                    "title": "Metaphorical Intensification",
+                    "description": "Often used metaphorically to describe the build-up of non-physical things.",
+                    "example": "He paused to gather his thoughts before speaking.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Progressive Aspect",
+                    "description": "Suggests a gradually increasing process, not an instantaneous change.",
+                    "example": "As the deadline approaches, we need to gather momentum.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "58888cd5-21e2-475a-96ee-4a0f6318c9b8",
+            "de": "To make fabric hang in loose folds",
+            "ty": "verb",
+            "ex": "She gathered the excess fabric at the waist of the dress.",
+            "use": "",
+            "co": "Sewing",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "gather fabric",
+                " gather at the waist",
+                " gather in the skirt"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/58888cd5-21e2-475a-96ee-4a0f6318c9b8.webp",
+            "Tips": [
+                {
+                    "title": "Sewing Specific",
+                    "description": "In sewing, it refers to creating folds or pleats in fabric.",
+                    "example": "Gather the curtain fabric evenly for a nice drape.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Aesthetic Adjustments",
+                    "description": "Used to fine-tune the fit or look of a garment.",
+                    "example": "Gather the back of the dress to make it more fitted.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accumulate": {
+            "wordRoot": "Accumulate",
+            "wordDefinition": "Accumulate means to gradually collect or build up a large amount or quantity of something over time. For example, you might accumulate wealth over the years by saving or investing.\n\nThe main difference between the two words is that accumulate implies a gradual and steady increase or growth over time, while gather simply means to bring things or people together in one place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2ac84393-8701-422d-81d8-b8ff647c5b21.webp"
+        },
+        "Amass": {
+            "wordRoot": "Amass",
+            "wordDefinition": "The words amass and gather both mean to collect or bring together, but amass usually implies a larger quantity, while gather is more general and can refer to any amount.\n\nFor example, you might say that someone 'amassed' a fortune, which suggests a large amount of money, whereas you might say that you 'gathered' some flowers from your garden, which doesn't suggest any particular quantity.\n\nAmass is generally used to describe a larger quantity or accumulation of something, while gather is a more general term for collecting or assembling any amount.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5817fda0-e6bd-4a21-b1a8-6b2e26563fc5.webp"
+        },
+        "Assemble": {
+            "wordRoot": "Assemble",
+            "wordDefinition": "Assemble means to bring different parts or components together to form a larger whole, like assembling a puzzle or assembling furniture.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc520a7d-c7a6-4a48-ad5b-c700a58fca2d.webp"
+        },
+        "Cluster": {
+            "wordRoot": "Cluster",
+            "wordDefinition": "Cluster means to group or organize things or people closely together. For example, grapes grow in a cluster on a vine.\n\nCluster is used when things or people are already close together, while gather is used when things or people need to be brought together from different places.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bdc2b549-04f5-4757-b9eb-9418d6515c5b.webp"
+        },
+        "Collect": {
+            "wordRoot": "Collect",
+            "wordDefinition": "Both collect and gather are verbs that mean to bring things together, but there is a subtle difference between the two.\n\nCollect usually implies a deliberate effort to accumulate or acquire items of a particular kind or for a specific purpose.\n\nFor example, you might collect stamps, coins, or sports memorabilia.\n\nCollect is usually used when talking about building a specific collection while gather has a more general meaning of bringing things together.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1273f9c2-bfaf-4207-9c5a-4207a4b99f6e.webp"
+        },
+        "Compile": {
+            "wordRoot": "Compile",
+            "wordDefinition": "Compile means to gather information, data, or materials from different sources and put them together in an organized way.\n\nIt is usually used when creating a document, report or book. For example, a writer may compile information from different sources like books, websites, and interviews to write an article.\n\nCompile is used to express the organization of information while gather is for the collection of elements from different places into a unified location.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a84ee1a0-7341-4ed1-96b4-827bbbed35db.webp"
+        },
+        "Garner": {
+            "wordRoot": "Garner",
+            "wordDefinition": "Both words garner and gather are verbs that refer to the act of collecting or bringing together things.\n\nGarner typically implies that you are collecting something with a specific purpose or goal in mind. For example, you might garner support for a political campaign, or garner evidence to support a legal case.\n\nSo, while gather is a more general word that can be used in a variety of contexts, garner tends to be used more specifically when collecting something for a particular reason or outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e731e7ec-f676-4613-b926-8925ca5de676.webp"
+        },
+        "Harvest": {
+            "wordRoot": "Harvest",
+            "wordDefinition": "Gather means to collect things together, while harvest refers to the process of collecting ripe crops or produce.\n\nFor example, one might gather flowers from a garden, but harvest apples from an orchard. Gathering might involve picking up scattered objects or bringing together a group of people.\n\nHarvesting involves collecting crops at the end of a growing season.\n\nGather is a more general term that can apply to anything from collecting data to picking up toys. Harvest, on the other hand, is mostly reserved for agricultural or food-related contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/daca6e5d-ae85-4b90-99ca-06e9e939bf93.webp"
+        },
+        "Round up": {
+            "wordRoot": "Round up",
+            "wordDefinition": "Round up means to gather things or people that are scattered or difficult to find. For example, cowboys may round up cattle that have strayed from the herd, or police may round up suspects in a crime.\n\nSo, in simple terms, gather is used when things or people are already in one place or are easy to find, while round up is used when things or people are scattered or difficult to find.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e7df764e-325b-47ad-ad52-007ddd20b908.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " a kind of tissue that forms bones and teeth and heals wounds. Vitamin A helps make white blood cells, key in the body's defense, helps shape bones and improves vision by keeping the cells of the eye in check. Vitamin D gathers calcium and phosphorus so we can make bones, and vitamin E works as an antioxidant,",
+            "Title": "How do vitamins work? -...",
+            "VideoId": "ISZLTJH5lYg",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " After a few hours of expert sleuthing, you gather some clues. It may look like a lot of information, but there's a clear logical path to the solution. Solving the puzzle will be a lot like Sudoku, so you may find it helpful to organize your information in a grid, like this.",
+            "Title": "Can you solve...",
+            "VideoId": "1rDVz_Fb6HQ",
+            "Controls": "start=72"
+        },
+        {
+            "Text": " If you're trying to decide on a diet to improve your nutrition, you may ask an expert for their advice, or seek other people's testimonies. Information gathering helps you weigh different options, moving you closer to a decision that meets your goal. apply the information,",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " I thought hey maybe this isn't such an oppressive state after all I could gather as I liked I could rail against the government as I wanted nobody was going to black-bag me and disappear me but most importantly the Islamic University that I attended I met a young",
+            "Title": "An inside look at...",
+            "VideoId": "RK8zb8dA4G4",
+            "Controls": "start=284"
+        },
+        {
+            "Text": " from a community that gathered around their cause, no one client anymore. It means that no building is too small for innovation, like this little reindeer pavilion that's as muscly and sinewy as the animals it's designed to observe.",
+            "Title": "Why the buildings of the...",
+            "VideoId": "hha0NsYXS5c",
+            "Controls": "start=966"
+        },
+        {
+            "Text": " But it's only for a moment. A large crowd has gathered, all trying to adopt the chick. She's soon overwhelmed by doting admirers.",
+            "Title": "Penguins Kidnapping...",
+            "VideoId": "MLdLyzoj1Uc",
+            "Controls": "start=128"
+        },
+        {
+            "Text": " two-week current helps a dog gather sand almost continuously but that's not all a meal can smell a female in heat at",
+            "Title": "Why Dogs Stick Their...",
+            "VideoId": "VR9YQO4cX3U",
+            "Controls": "start=109"
+        },
+        {
+            "Text": " instead with all the water in the world gather together in a bowl",
+            "Title": "Earth the Biography:...",
+            "VideoId": "hwVU0-2Qnso",
+            "Controls": "start=26"
+        },
+        {
+            "Text": " the schools gather around anything for protection",
+            "Title": "Best Of Oceans PIPE BBC...",
+            "VideoId": "FGvkmjAwErk",
+            "Controls": "start=289"
+        },
+        {
+            "Text": " on its journey it gathers an abundance of life",
+            "Title": "Hippos Can’t Swim? PIPE...",
+            "VideoId": "xu4T9kawhAM",
+            "Controls": "start=23"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pearl-cleage.webp",
+            "Text": "I think that theater is a unique way to communicate with people as they gather together with other people they may not even know. It creates a sense of shared community for the time of the performance that hopefully carries over into other aspects of the audience's life because they have shared this experience together.",
+            "Title": "American Author",
+            "Name": "Pearl Cleage"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-guber.webp",
+            "Text": "There's a sense of aliveness that comes from connection, shared experience. And you see it in every place. You see it when ball players jump up and down, gather at home plate, hugging, and it's not just because they're winning, it's that shared moment, that feeling of - we enter the world alone, we leave alone.",
+            "Title": "American Producer",
+            "Name": "Peter Guber"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jemele-hill.webp",
+            "Text": "I think that a lot of people, especially as technology began to speed up and we became more distant, we kind of started to lose our appreciation for human contact and gathering and friendships and a lot of the things that we really took for granted.",
+            "Title": "American Journalist",
+            "Name": "Jemele Hill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/imogen-heap.webp",
+            "Text": "I feel like I've grown up a bit. I'm a bit more confident, and I've been reading more, and I've had a little more time to myself. I went on this writing trip to gather my thoughts about where and who I am in this world, and why we're all here.",
+            "Title": "English Musician",
+            "Name": "Imogen Heap"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rachel-g-fox.webp",
+            "Text": "As an actress, I'm constantly watching different shows and films and am always gathering information and inspiration for characters and techniques to make my performances the best they can be.",
+            "Title": "American Actress",
+            "Name": "Rachel G. Fox"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-green.webp",
+            "Text": "I show the people I love that I love them by gathering them in my kitchen and feeding them, so no surprise that most of my characters do the same thing.",
+            "Title": "English Author",
+            "Name": "Jane Green"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gwyneth-paltrow.webp",
+            "Text": "The work gets more difficult as you get older. You learn more and you gather more experiences, there is deeper pain and higher highs.",
+            "Title": "American Actress",
+            "Name": "Gwyneth Paltrow"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jovenel-moise.webp",
+            "Text": "We must gather our courage. Hold hands and cast aside our divisions. We must embrace what unites us, together we can.",
+            "Title": "Haitian Politician",
+            "Name": "Jovenel Moise"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/isaac-asimov.webp",
+            "Text": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.",
+            "Title": "American Scientist",
+            "Name": "Isaac Asimov"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karol-g.webp",
+            "Text": "Family gatherings were very important to me growing up.",
+            "Title": "Colombian Musician",
+            "Name": "Karol G"
+        }
+    ]
+}

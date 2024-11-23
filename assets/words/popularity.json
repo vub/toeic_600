@@ -1,0 +1,217 @@
+{
+    "currentWord": {
+        "wordRoot": "popularity",
+        "id": 3047,
+        "phonemic": "ˌpɒpjuˈlærəti|ˌpɑːpjuˈlærəti\r",
+        "bigId": "2c273942-c4d6-400f-9bbd-d6b93725bdce",
+        "wordForms": [
+            "unpopularity",
+            "popularity"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2c273942-c4d6-400f-9bbd-d6b93725bdce",
+            "de": "How liked or well-known somebody or something is.",
+            "ty": "noun",
+            "ex": "The popularity of the restaurant has increased since the new chef started.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "gain popularity",
+                " lose popularity",
+                " popularity contest"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2c273942-c4d6-400f-9bbd-d6b93725bdce.webp",
+            "Tips": [
+                {
+                    "title": "Temporal Trend",
+                    "description": "Popularity can change over time, often rapidly due to trends or events.",
+                    "example": "The popularity of the fidget spinner faded as quickly as it rose.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/k3XmiYXrjazA0UrZag7qHy3oPt4.webp"
+                },
+                {
+                    "title": "Subjective Measure",
+                    "description": "Popularity is subjective and can vary among different groups or demographics.",
+                    "example": "In high school, popularity often depends on a student's social group.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PcTtqYJnp4TZgBDU88XSetELp2c.webp"
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "Popularity does not always imply positive approval; it can be due to notoriety.",
+                    "example": "Despite its unpopularity among critics, the film was popular for its controversial theme.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OtejrMfDrqFj4NUMsNI8FZyXM.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Acclaim": {
+            "wordRoot": "Acclaim",
+            "wordDefinition": "Acclaim refers to the public recognition and praise given to someone or something for their achievements or qualities.\n\nIt is usually associated with critical success rather than popularity. For example, a book can receive critical acclaim from literary experts for its writing style and storytelling, but may not be widely popular among the general public.\n\nPopularity is often based on the entertainment value, relatability or cultural significance of something. For example, a viral video may have tremendous popularity because it is appealing to a wide audience, but it may not necessarily receive critical acclaim.\n\nAcclaim is recognition for excellence while popularity is the extent to which something or someone is liked by a large audience.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/51d00e0e-a4fc-42f8-94fc-43cca7c9bf1f.webp"
+        },
+        "Admiration": {
+            "wordRoot": "Admiration",
+            "wordDefinition": "Admiration means to have respect and approval for someone or something based on their qualities, achievements, or abilities.\n\nIt is applicable to describe feelings of respect or admiration for a person's character or accomplishments.\n\nIn simpler terms, admiration refers to a feeling of respect for someone or something, while popularity refers to the extent of how liked or well-known something or someone is.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bf46f277-ca74-479b-a2fe-2bf96c3f062a.webp"
+        },
+        "Esteem": {
+            "wordRoot": "Esteem",
+            "wordDefinition": "Esteem refers to the respect and admiration that someone has for themselves or that other people have for them based on their qualities and abilities.\n\nIn simple words, while esteem is about the level of respect and admiration for a person's qualities, popularity is about how well-known and liked that person is by others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/caec7e06-36eb-4ff0-bf04-af2991b969b0.webp"
+        },
+        "Fame": {
+            "wordRoot": "Fame",
+            "wordDefinition": "Fame refers to being widely recognized and respected for a particular achievement or talent. It usually involves a long-lasting reputation that extends beyond just one specific event or moment.\n\nBoth fame and popularity can occur in a variety of fields, such as entertainment, sports, politics, or social media.\n\nHowever, fame is more focused on a long-standing reputation, while popularity tends to be more fleeting and based on current trends.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6206db25-caf7-4a98-885e-7d28f5c62899.webp"
+        },
+        "Glory": {
+            "wordRoot": "Glory",
+            "wordDefinition": "Glory refers to the admiration and respect earned by achieving something great or doing something heroic.\n\nGlory is more about earning respect and recognition for exceptional accomplishments, while popularity is more about being well-liked and accepted by a lot of people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/05ab38a5-831e-48fb-9099-1ec7204653c6.webp"
+        },
+        "Notoriety": {
+            "wordRoot": "Notoriety",
+            "wordDefinition": "Notoriety refers to being well-known for something negative or infamous, while popularity refers to being well-liked and well-known for positive reasons.\n\nNotoriety is applicable when someone is known for actions or behaviors that are considered bad or unscrupulous, while popularity is applicable when someone has a likable personality, is talented, or has done something admirable.\n\nFor example, a celebrity who is notorious for drug use would have notoriety, while a celebrity who is popular for their acting skills would have popularity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b957365b-7f66-4d4f-bd32-9007170ab200.webp"
+        },
+        "Renown": {
+            "wordRoot": "Renown",
+            "wordDefinition": "Renown refers to being widely recognized and respected for one's accomplishments or qualities over a longer period of time.\n\nFor example, a renowned scientist may be recognized and respected in their field for decades due to their contributions to research.\n\nBoth words describe a level of recognition, but popularity tends to be more fleeting and based on current trends, while renown is more long-lasting and based on sustained achievement.\n\nPopularity is more applicable to the entertainment industry or trends in popular culture, while renown is more applicable to fields such as science, literature, or politics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78a66ac5-b8a9-4ed5-95e2-6240b330df9b.webp"
+        },
+        "Reputation": {
+            "wordRoot": "Reputation",
+            "wordDefinition": "Reputation is a more long-term and deeper concept. It refers to what people think of someone or something based on their actions, character, and behavior over time.\n\nReputation is earned and cannot be easily changed or manipulated. For example, a doctor might have a good reputation because they are knowledgeable and caring towards their patients.\n\nPopularity is based on immediate reactions and can change quickly, while reputation is built over time and is more meaningful and permanent.\n\nPopularity is applicable in situations where people's opinions are influenced by surface-level qualities, while reputation is applicable in situations where people's opinions are influenced by a person or organization's character and behavior over time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/07a9b338-d216-4969-b401-2a09b31e7ee7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Now, if we compare this score, the average score, to how many messages a selection of people receive, you can begin to get a sense of how attractiveness links to popularity on an online dating website. This is the graph the OkCupid guys have come up with. And the important thing to notice is that it's not totally true",
+            "Title": "The mathematics of love...",
+            "VideoId": "yFVXsjVdvmY",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " between efficacy and popularity but you can also if you braid the evidence sort of do a worth it line and so supplements above this line are worth investigating but only for the conditions listed below and then supplements below the line or perhaps not worth investigating now this",
+            "Title": "The beauty of data...",
+            "VideoId": "5Zg-C8AAIGg",
+            "Controls": "start=779"
+        },
+        {
+            "Text": " Oud is an important cultural ingredient which has been used and enjoyed around the world for hundreds of years. It's amazing to see its popularity grow and to reach more people than ever before. But this trade has real issues. The way it's harvested and the devastating impact",
+            "Title": "Is Your Perfume Made...",
+            "VideoId": "OYe5zWZDsc0",
+            "Controls": "start=637"
+        },
+        {
+            "Text": " shoulder straps, and a chest band that clasps in back. At first, the bras are included with the sale of a dress, but the popularity of the undergarment soon outstrips that of the garment itself. The three establish a business selling exclusively bras and call it Maidenform.",
+            "Title": "How the bra was invented...",
+            "VideoId": "8PWca6-fvec",
+            "Controls": "start=37"
+        },
+        {
+            "Text": " In the years after her death, she experienced a surge in popularity that has lasted to this day. And although her image has proliferated, Kahlo’s body of work reminds us that there are no simple truths about the life, work and legacy of the woman behind the icon.",
+            "Title": "Frida Kahlo: The woman...",
+            "VideoId": "B9XYtPqWLB4",
+            "Controls": "start=208"
+        },
+        {
+            "Text": " and no one gives a rat's who you are. And it gives you that clarity of perspective of, man, I'm just me, and popularity, what does that really mean again? Not much. It's peer respect that drives us. That's the one thing that makes us do what we do.",
+            "Title": "Rodney Mullen: Pop an...",
+            "VideoId": "3GVO-MfIl1Q",
+            "Controls": "start=892"
+        },
+        {
+            "Text": " So despite the popularity of the concept of paradigm shifts, what we find is that actually, really major changes in scientific thinking are relatively rare in the history of science. So finally that brings us to one more",
+            "Title": "Naomi Oreskes: Why we...",
+            "VideoId": "RxyQNEVOElU",
+            "Controls": "start=868"
+        },
+        {
+            "Text": " but not impossible. So a single tattoo may not truly last forever, but tattoos have been around longer than any existing culture. And their continuing popularity means that the art of tattooing is here to stay.",
+            "Title": "What makes tattoos...",
+            "VideoId": "DMuBif1mJz0",
+            "Controls": "start=234"
+        },
+        {
+            "Text": " beaches worldwide the bad news vaping is quickly gaining popularity and the cartridges and tips use with these products are becoming the next iteration single-use plastic trash so here's what we can do about it",
+            "Title": "What's the World's Most...",
+            "VideoId": "9wwz4_1P6P0",
+            "Controls": "start=206"
+        },
+        {
+            "Text": " book has actually lost popularity over the last three years because teachers don't want to use the n-word in a class the n-word is in the book well what they want to do is rerelease it and what they",
+            "Title": "The implications of a...",
+            "VideoId": "gcLG6jTSRws",
+            "Controls": "start=123"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-g-stavridis.webp",
+            "Text": "Russian strategy seems to center on maintaining Putin's popularity at home; building a strong military capacity in special forces, nuclear weapons, and advanced submarines; pressuring nearby nations to join various defense and customs pacts dominated by Russia; and pushing back on the U.S. wherever convenient.",
+            "Title": "American Educator",
+            "Name": "James G. Stavridis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-may.webp",
+            "Text": "Top Gear''s popularity is a complete mystery to me. Maybe it's because it's still a car programme, but it's turned into a distorted world view from three men; a world view through the windscreen.",
+            "Title": "English Journalist",
+            "Name": "James May"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-pauley.webp",
+            "Text": "My guess is that people look at me and project their own values - importance of family, ego is healthy but not the biggest thing. I don't know. I can't explain my popularity.",
+            "Title": "American Journalist",
+            "Name": "Jane Pauley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-k-rowling.webp",
+            "Text": "If you're holding out for universal popularity, I'm afraid you will be in this cabin for a very long time.",
+            "Title": "English Author",
+            "Name": "J. K. Rowling"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henri-nouwen.webp",
+            "Text": "The greatest trap in our life is not success, popularity or power, but self-rejection.",
+            "Title": "Dutch Clergyman",
+            "Name": "Henri Nouwen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bo-bennett.webp",
+            "Text": "True popularity comes from acts of kindness rather than acts of stupidity.",
+            "Title": "American Businessman",
+            "Name": "Bo Bennett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amala-akkineni.webp",
+            "Text": "There's no denying that my popularity helped me a lot.",
+            "Title": "Indian Actress",
+            "Name": "Amala Akkineni"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/naftali-bennett.webp",
+            "Text": "I'm not prepared to give up the truth for popularity.",
+            "Title": "Israeli Politician",
+            "Name": "Naftali Bennett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/suga.webp",
+            "Text": "I try not to be influenced by success or popularity.",
+            "Title": "South Korean Rapper",
+            "Name": "Suga"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/abraham-lincoln.webp",
+            "Text": "Avoid popularity if you would have peace.",
+            "Title": "American President",
+            "Name": "Abraham Lincoln"
+        }
+    ]
+}

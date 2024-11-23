@@ -1,0 +1,287 @@
+{
+    "currentWord": {
+        "wordRoot": "aware",
+        "id": 22741,
+        "phonemic": "əˈweə(r)|əˈwer\r",
+        "bigId": "befe2c05-84b8-4d12-b83b-6cd8217dc4fc",
+        "wordForms": [
+            "awareness",
+            "unaware",
+            "aware"
+        ]
+    },
+    "senses": [
+        {
+            "id": "befe2c05-84b8-4d12-b83b-6cd8217dc4fc",
+            "de": "Knowing that something exists, or having knowledge or experience of a particular thing.",
+            "ty": "adjective",
+            "ex": "She was aware of the man's presence.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "be aware of",
+                " aware that",
+                " become aware"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/befe2c05-84b8-4d12-b83b-6cd8217dc4fc.webp",
+            "Tips": [
+                {
+                    "title": "Perception Awareness",
+                    "description": "Focus on awareness through senses and thoughts, not just general knowledge.",
+                    "example": "I was aware of the faint music from upstairs.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/USqYHEl2BgZfKv7olwCjipG9NA.webp"
+                },
+                {
+                    "title": "Partial Knowledge",
+                    "description": "Use 'aware' when you have some knowledge, but maybe not all details.",
+                    "example": "She's aware of the basics, but not the specifics.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/2FdiqpsLQZcAdkUMgnkeuAbDtCE.webp"
+                }
+            ]
+        },
+        {
+            "id": "98a3f26c-cdc4-4155-9f14-90ea04120d74",
+            "de": "Used to describe people who understand that there are things which they do not know about a particular subject or situation.",
+            "ty": "adjective",
+            "ex": "We need to make students more politically aware.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "become aware",
+                " suddenly aware",
+                " fully aware"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/98a3f26c-cdc4-4155-9f14-90ea04120d74.webp",
+            "Tips": [
+                {
+                    "title": "Subject Specific",
+                    "description": "Mention 'aware' when acknowledging gaps in knowledge about a specific topic.",
+                    "example": "I am aware that there are many theories I've yet to learn.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Aware of Ignorance",
+                    "description": "Shows humility and recognition of one's own limitations in understanding.",
+                    "example": "I'm aware I don't fully understand quantum mechanics.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "904e86d6-321a-4a87-8adb-ae4c0b1ae172",
+            "de": "Mindful, concerned about and well-informed in a particular situation or development.",
+            "ty": "adjective",
+            "ex": "As an ecologically aware company, we use only biodegradable materials in our products.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "acutely aware",
+                " environmentally aware",
+                " socially aware"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/904e86d6-321a-4a87-8adb-ae4c0b1ae172.webp",
+            "Tips": [
+                {
+                    "title": "Issue Awareness",
+                    "description": "Implies special attention or focus on particular issues or concerns.",
+                    "example": "They are acutely aware of the endangered species.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Action-Oriented",
+                    "description": "Highlights ongoing concern rather than passive knowledge.",
+                    "example": "The council is aware of the housing crisis and is acting.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conscious Choice",
+                    "description": "Suggests deliberate efforts to stay informed or considerate.",
+                    "example": "As a consumer, she's very aware of product sustainability.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Alert": {
+            "wordRoot": "Alert",
+            "wordDefinition": "Alert means being prepared and ready to respond quickly to any potential danger or threat. This is applicable in situations where there is an immediate danger or risk, such as during a fire or if you are crossing a busy street.\n\nIn simpler terms, being alert means being quick to react to danger, while being aware means being knowledgeable and informed about what is happening around you.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f04635e-4603-4059-b734-32d2a441a189.webp"
+        },
+        "Attentive": {
+            "wordRoot": "Attentive",
+            "wordDefinition": "Attentive refers to someone who is paying close attention to something or someone. This could involve actively listening or observing, and being aware of details or changes in the situation.\n\nAttentiveness is useful in situations where focus and concentration are needed, such as in school or at work.\n\nAttentive is about paying close attention to what is happening in the present moment, while aware is about having knowledge and understanding of a subject or situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/db5a1deb-8ed2-497c-9db1-e305da8c56b9.webp"
+        },
+        "Cognizant": {
+            "wordRoot": "Cognizant",
+            "wordDefinition": "However, aware is more commonly used to describe a general understanding or consciousness of something, while cognizant implies a deeper and more deliberate understanding.\n\nIf you are cognizant of the fact that it's going to rain, it means you have thought about how the rain will affect your plans and are prepared for it.\n\nAware is more informal and commonly used, while cognizant is more formal and used in professional or legal settings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ba055206-fd5a-4690-bf7b-9f868e98b6dd.webp"
+        },
+        "Conscious": {
+            "wordRoot": "Conscious",
+            "wordDefinition": "The words aware and conscious both mean having knowledge or perception of something, but they are used in different ways.\n\nConscious means being aware of your own existence and surroundings, as well as your thoughts, feelings, and actions. For example, you may be conscious of your breathing and heartbeat, as well as the thoughts and emotions you are experiencing.\n\nAware is more commonly used to describe having knowledge or understanding of something external to oneself, while conscious is more commonly used to describe being aware of one's own existence and internal experiences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/43c145ca-4f57-440d-b7c7-9a8838f50bc0.webp"
+        },
+        "Inform": {
+            "wordRoot": "Inform",
+            "wordDefinition": "Inform means providing someone with knowledge or information about something.\n\nIt describes when someone shares or gives information to another person. For example, \"I will inform you of the test tomorrow.\".\n\nAware is about having knowledge while inform is about sharing knowledge with someone else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/acf0b603-c998-4011-99d6-ad09b37b97bf.webp"
+        },
+        "Knowledgeable": {
+            "wordRoot": "Knowledgeable",
+            "wordDefinition": "Aware means that you have some basic understanding or recognition of something, while the word knowledgeable means that you have a deep understanding or expertise in something.\n\nFor example, if you are aware of a new law, it means that you know of its existence, but if you are knowledgeable about the same law, it means that you know all its details and implications.\n\nAware is applicable in situations where you need a basic understanding of something, while knowledgeable is applicable in situations where you require an expert-level understanding.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dee10825-9ebe-457c-b719-933617027a35.webp"
+        },
+        "Mindful": {
+            "wordRoot": "Mindful",
+            "wordDefinition": "Awareness refers to having knowledge, recognition or understanding of something. Mindfulness means being present and fully engaged in the current moment, with a nonjudgmental attitude.\n\nIf you are mindful of your surroundings, you are actively engaged and focused on what is happening around you without any distractions.\n\nAwareness is applicable when you need to know, recognize or understand something. Mindfulness is useful when you want to engage in the moment, be more present, and have a clear mind.\n\nThe difference between the two is that awareness refers to knowledge or understanding, while mindfulness is about being present and fully engaged in the moment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/229379e0-911c-4abf-bf39-29f179855f79.webp"
+        },
+        "Observant": {
+            "wordRoot": "Observant",
+            "wordDefinition": "The difference between aware and observant is that aware means you know or understand something while observant means you pay close attention and notice details.\n\nObservant is applicable when someone is actively noticing details in their surroundings. For example, \"The detective was very observant and noticed a small detail that helped solve the case.\".\n\nIn simpler terms, aware means you know something while observant means you're paying attention to your surroundings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc01b485-6e4d-4951-a6ee-1421053832d0.webp"
+        },
+        "Perceptive": {
+            "wordRoot": "Perceptive",
+            "wordDefinition": "Perceptive means being able to understand or notice things quickly and accurately. It relates to being able to see beyond the obvious and comprehend a deeper level of meaning.\n\nHowever, if you are perceptive, you might notice that the rain has a certain smell, that birds are hiding under trees, and that the sound of raindrops is different on different surfaces.\n\nIn general, awareness is more straightforward and refers to the knowledge of a particular fact or situation, while being perceptive requires a deeper level of observation and analysis.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c210666a-5441-40c4-b865-c46a30eeffea.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " to help ecosystems restore themselves. There's also a role for consumer awareness and boycotts to reduce wasteful practices, like shark finning, and push fishing industries towards more sustainable practices. Past interventions have successfully helped depleted fish populations recover. There are many solutions.",
+            "Title": "Will the ocean ever run...",
+            "VideoId": "WNdR808jMSA",
+            "Controls": "start=201"
+        },
+        {
+            "Text": " suggesting they're aware of what they know, and how confident they feel about that knowledge. But some of the most amazing things about dolphins are their senses of empathy, altruism, and attachment. The habit of helping injured individuals extends across the species barrier as evidenced by the many accounts",
+            "Title": "How smart are dolphins?...",
+            "VideoId": "05PpTqtGhGU",
+            "Controls": "start=227"
+        },
+        {
+            "Text": " which suggests awareness of threats. We've reached the point that research has made us so sure that vertebrates recognize pain that it's illegal in many countries to needlessly harm these animals. But what about other types of animals like invertebrates? These animals aren't legally protected,",
+            "Title": "How do animals...",
+            "VideoId": "5j9Syov0AAw",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " just charge it. And I just looked at her, and she looked at me, and we kind of just both held it and just moved it through the wave. And that for me was really powerful, because sometimes you're not aware of when you need help. Sometimes you're not aware of when to reach out.",
+            "Title": "Surf Sisters - Ep. 2 PIPE...",
+            "VideoId": "F3LS8CQJW4A",
+            "Controls": "start=458"
+        },
+        {
+            "Text": " The leading theory is that our skin has evolved to be acutely aware of touch so that we're equipped to deal with risks from the outside world. Think about it. Our automatic scratching response would dislodge anything harmful that's potentially lurking on our skin,",
+            "Title": "Why do we itch? - Emma...",
+            "VideoId": "0NGei3H8yRk",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " But it's still worthwhile to be aware of telltale clues, like minimal self-references, negative language, simple explanations and convoluted phrasing. It just might help you avoid an overvalued stock, an ineffective product, or even a terrible relationship.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=307"
+        },
+        {
+            "Text": " There are many ways to reverse what cortisol does to your stressed brain. The most powerful weapons are exercise and meditation, which involves breathing deeply and being aware and focused on your surroundings. Both of these activities decrease your stress",
+            "Title": "How stress affects your...",
+            "VideoId": "WuyPuH9ojCE",
+            "Controls": "start=208"
+        },
+        {
+            "Text": " We suppress it. You know, this is our policy. No doubt, something fascinating was happening then, which the Americans among us will be aware of. But he said",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=353"
+        },
+        {
+            "Text": " though something special about this gun so I Tola but you can come to help us you can only come to partner with us I was painfully aware of the legacy of",
+            "Title": "What forgiveness can...",
+            "VideoId": "TEfxPpnMuNQ",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " and so when you have an animal that's that attentive to another animal's eyes that is very suggestive of high level of awareness of the world",
+            "Title": "Octopus Playtime PIPE...",
+            "VideoId": "mnZ9wF-Bv1w",
+            "Controls": "start=35"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oprah-winfrey.webp",
+            "Text": "I remember a specific moment, watching my grandmother hang the clothes on the line, and her saying to me, 'you are going to have to learn to do this,' and me being in that space of awareness and knowing that my life would not be the same as my grandmother's life.",
+            "Title": "American Entertainer",
+            "Name": "Oprah Winfrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chuck-palahniuk.webp",
+            "Text": "Any 'artist' makes a living by expressing what others can't - because they're unaware of their feelings, they're too afraid to express those feelings, or they lack the skills to communicate and be understood.",
+            "Title": "American Novelist",
+            "Name": "Chuck Palahniuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/deepak-chopra.webp",
+            "Text": "Being more aware creates responsibility. What does responsibility mean? It means the ability to respond. The more conscious you are in your ability to respond, the more creative you'll be.",
+            "Title": "American Speaker",
+            "Name": "Deepak Chopra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-barkley.webp",
+            "Text": "I'm never going to be one of those guys who gets on TV and yells and screams. That's not how I do my business. But I'm very aware of social responsibility.",
+            "Title": "American Baseball Player",
+            "Name": "Charles Barkley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andy-warhol.webp",
+            "Text": "People need to be made more aware of the need to work at learning how to live because life is so quick and sometimes it goes away too quickly.",
+            "Title": "American Artist",
+            "Name": "Andy Warhol"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "I'm very aware and very conscious of the path I chose in life, and very aware of the path I didn't choose.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leonardo-dicaprio.webp",
+            "Text": "Raising awareness on the most pressing environmental issues of our time is more important than ever.",
+            "Title": "American Actor",
+            "Name": "Leonardo DiCaprio"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fela-kuti.webp",
+            "Text": "I've studied my culture deeply and I'm very aware of my tradition.",
+            "Title": "Nigerian Musician",
+            "Name": "Fela Kuti"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gurmeet-choudhary.webp",
+            "Text": "I like to encourage people and create awareness about fitness.",
+            "Title": "Indian Actor",
+            "Name": "Gurmeet Choudhary"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chelsea-clinton.webp",
+            "Text": "I was always deeply aware that I was living in history.",
+            "Title": "American Celebrity",
+            "Name": "Chelsea Clinton"
+        }
+    ]
+}

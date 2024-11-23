@@ -1,0 +1,65 @@
+{
+    "currentWord": {
+        "wordRoot": "long-term",
+        "id": 0,
+        "phonemic": "ˌlɔːŋˈtɜːrm",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID2",
+            "de": "Involving or extending over a long period.",
+            "ty": "adjective",
+            "ex": "The long-term effects of smoking are devastating.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "long-term plan",
+                "long-term investment",
+                "long-term relationship",
+                "long-term goals",
+                "long-term memory",
+                "long-term care",
+                "long-term strategy",
+                "long-term solution"
+            ],
+            "ImageSrc": "./senses/94bb3022-32ab-4a8b-a917-b5bb479aef87.webp",
+            "Tips": [
+                {
+                    "title": "Describing future plans",
+                    "description": "Use 'long-term' to talk about plans or goals that will take a considerable amount of time to achieve.",
+                    "example": "My long-term goal is to own my own business.",
+                    "imageUrl": "./tips/bc894269-4054-49c3-a232-5dcd7963d323.webp"
+                },
+                {
+                    "title": "Discussing investments",
+                    "description": "Use 'long-term' to describe investments that are meant to be held for an extended period.",
+                    "example": "I'm looking for long-term investment opportunities.",
+                    "imageUrl": "./tips/52b3777d-e509-4cdd-9eae-1df4398ac873.webp"
+                },
+                {
+                    "title": "Talking about health effects",
+                    "description": "Use 'long-term' to describe the effects of something on health over a long period.",
+                    "example": "The long-term effects of this medication are still unknown.",
+                    "imageUrl": "./tips/eae678fa-1c2a-42d3-b9a2-fd5b848d1eec.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Long-lasting": {
+            "wordRoot": "Long-lasting",
+            "wordDefinition": "'Long-lasting' emphasizes the duration of something, while 'long-term' emphasizes the planning or impact over an extended period. 'Long-lasting' often refers to the durability of an object or the persistence of an effect, whereas 'long-term' often refers to goals, strategies, or consequences.",
+            "wordImage": ""
+        },
+        "Extended": {
+            "wordRoot": "Extended",
+            "wordDefinition": "'Extended' implies a lengthening of something that already exists, while 'long-term' suggests something planned or considered over a long period from the beginning. 'Extended' can refer to a temporary lengthening, while 'long-term' implies a more permanent or inherent duration.",
+            "wordImage": ""
+        }
+    }
+}

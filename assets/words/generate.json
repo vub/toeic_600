@@ -1,0 +1,350 @@
+{
+    "currentWord": {
+        "wordRoot": "generate",
+        "id": 13957,
+        "phonemic": "ˈdʒenəreɪt|ˈdʒenəreɪt\r",
+        "bigId": "1dc2e615-7611-4f93-8979-65f2cd86afca",
+        "wordForms": [
+            "generates",
+            "generating",
+            "generated",
+            "generate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1dc2e615-7611-4f93-8979-65f2cd86afca",
+            "de": "To cause something to exist or happen",
+            "ty": "verb",
+            "ex": "The new project will generate many jobs",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "generate income",
+                " generate excitement",
+                " generate interest"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1dc2e615-7611-4f93-8979-65f2cd86afca.webp",
+            "Tips": [
+                {
+                    "title": "Action Initiation",
+                    "description": "Emphasizes starting processes or activities; often tied to creation or innovation.",
+                    "example": "The new policy will generate positive changes within the company.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xjfsAznDSD18fAIuhdugx0sd0Ck.webp"
+                },
+                {
+                    "title": "Causality Emphasis",
+                    "description": "Highlights the cause-and-effect relationship, where 'generate' introduces the result.",
+                    "example": "Increased investment will generate higher economic growth.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/D9MW69hrWwPJwrWLasgSRA6cdw.webp"
+                },
+                {
+                    "title": "Positive Connotation",
+                    "description": "Often used with a positive outcome in mind, though not exclusively.",
+                    "example": "The fundraiser event will generate much-needed funds for the school.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HQJnndwDjkUOaKjTZkBSXiXWBA.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a33527d7-e0ea-42cf-891c-5ab81cc85124",
+            "de": "In science, to produce energy or a particular type of energy",
+            "do": "Science",
+            "ty": "verb",
+            "ex": "The windmills can be used to generate electricity",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "generate electricity",
+                " generate heat",
+                " generate power"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a33527d7-e0ea-42cf-891c-5ab81cc85124.webp",
+            "Tips": [
+                {
+                    "title": "Technical Energy",
+                    "description": "Commonly used to describe the creation of energy in a technical or scientific context.",
+                    "example": "Solar panels generate clean energy from sunlight.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scientific Precision",
+                    "description": "Used for precision in scientific contexts, discussing exact processes or results.",
+                    "example": "The generator can efficiently generate 5 kilowatts of electricity.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Environmental Relevance",
+                    "description": "Often associated with renewable energy and environment-friendly practices.",
+                    "example": "Wind farms generate power without polluting the air.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a73191cb-bba8-41a3-9bb2-8ddfad863c17",
+            "de": "In mathematics, to produce a set or sequence of items by performing specified operations",
+            "do": "Mathematics",
+            "ty": "verb",
+            "ex": "The formula generates a sequence of prime numbers",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "generate a series",
+                " generate a sequence",
+                " generate a set"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a73191cb-bba8-41a3-9bb2-8ddfad863c17.webp",
+            "Tips": [
+                {
+                    "title": "Mathematical Creation",
+                    "description": "In mathematics, focuses on the production of sequences or sets with specific properties.",
+                    "example": "Applying the algorithm will generate the desired number pattern.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Algorithmic Use",
+                    "description": "Often used in the context of algorithms generating outcomes in mathematics or computing.",
+                    "example": "This recursive function will generate all possible permutations.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c53288e6-8ec1-40ce-b1f8-b1b2c87cf8eb",
+            "de": "In computing, to produce data or a program by using a set of rules",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "The system generates a unique identification for each user",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "generate report",
+                " generate data",
+                " generate code"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c53288e6-8ec1-40ce-b1f8-b1b2c87cf8eb.webp",
+            "Tips": [
+                {
+                    "title": "Automated Processes",
+                    "description": "In computing, it implies the automatic creation of programs, data, or codes by the system.",
+                    "example": "The script will generate a summary report every hour.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "System Efficiency",
+                    "description": "Indicates a system's capability to efficiently produce needed information.",
+                    "example": "The software can quickly generate comprehensive user analytics.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Programming Context",
+                    "description": "Used when discussing the outcome of a coding or programming task.",
+                    "example": "Once compiled, the program will generate the final output.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Breed": {
+            "wordRoot": "Breed",
+            "wordDefinition": "Breed refers to the process of producing offspring from animals or plants of a certain species with desired characteristics, such as breeding two purebred dogs to produce a litter of puppies.\n\nBreed is applicable in the context of reproduction of animals or plants, while generate is applicable in the context of creating something new, such as energy or ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/da1773e5-b6c1-4af7-8a11-5df6e76dd5f5.webp"
+        },
+        "Create": {
+            "wordRoot": "Create",
+            "wordDefinition": "The words create and generate both mean to make something new, but they are used in slightly different contexts.\n\nTo create something means to bring it into existence from scratch, often by using your own imagination or skill. For example, an artist might create a painting, a musician might create a new song, or a writer might create a story.\n\nThe key difference between these two words is that create implies a greater degree of originality and personal input, while generate implies a more systematic or automatic process.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a52e3d83-edb6-4339-90c4-5ea611821445.webp"
+        },
+        "Develop": {
+            "wordRoot": "Develop",
+            "wordDefinition": "The words develop and generate are related to creating something new or making something grow, but they are used in different contexts.\n\nDevelop means to improve and make something more advanced, such as developing new technology or skills. For instance, a scientist can develop a new medicine to cure a disease.\n\nDevelop is used when improving something, while generate is used when making or producing something new.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af92ffe9-a349-4f74-a7be-e36b33204a41.webp"
+        },
+        "Engender": {
+            "wordRoot": "Engender",
+            "wordDefinition": "Engender means to produce or create something new, typically a feeling, reaction, or situation.\n\nThe difference between these two words is that engender refers to the production of a non-tangible outcome, usually resulting from circumstances or actions, while generate refers to the production of a tangible or quantifiable outcome resulting from specific actions or processes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3b23842-5137-46d0-9b1b-f37654969255.webp"
+        },
+        "Fabricate": {
+            "wordRoot": "Fabricate",
+            "wordDefinition": "Fabricate means to create or invent something that isn't real or true.\n\nIt is often used when referring to something that has been made up or fabricated as a lie or untrue story. For example, \"He fabricated a story about winning the lottery to impress his friends.”.\n\nFabricate refers to creating something that is not true or real, while generate refers to producing something that is real or tangible.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c4995bdb-a85d-479f-a3fb-d5dfcd8b2b9d.webp"
+        },
+        "Formulate": {
+            "wordRoot": "Formulate",
+            "wordDefinition": "Formulate means to come up with a plan, idea or strategy by careful thought and consideration. It usually involves having a goal, analyzing the situation and then creating a plan to achieve that goal.\n\nFor example, a scientist might formulate a hypothesis based on research and evidence.\n\nFormulate is used when you want to plan or strategize, while generate is used when you want to produce or create something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/642155ee-e394-48eb-8ebd-1d16a428d4e3.webp"
+        },
+        "Make": {
+            "wordRoot": "Make",
+            "wordDefinition": "Make means to create or put together something using materials, tools, or actions. For example, a person can make a cake by mixing ingredients together and baking it in an oven.\n\nGenerate is used when referring to the production of something that requires a system or process (like electricity or ideas) while make is used when referring to the creation of something physical (like a cake or a table).",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fcc55c1-c548-46df-b65c-f4714634e202.webp"
+        },
+        "Manufacture": {
+            "wordRoot": "Manufacture",
+            "wordDefinition": "Manufacture means to produce goods, typically on a large scale using industrial processes. For example, a car manufacturer produces cars by assembling various components together.\n\nIn simple terms, generating is about producing energy or power, while manufacturing is about producing goods through industrial processes.\n\nGenerate is applicable in the context of energy, whereas manufacture is applicable in the context of production of goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/add1c092-2022-44d4-8db9-d288e43a9e4b.webp"
+        },
+        "Originate": {
+            "wordRoot": "Originate",
+            "wordDefinition": "Generate means to produce or create something new, while originate means to begin or start something.\n\nFor example, a power plant can generate electricity by producing it through various processes, while an idea can originate from a person's mind, which means that it is the starting point of that idea.\n\nGenerate is used when referring to the act of creating or producing something, while originate is used when referring to the beginning or starting point of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/533866ce-9804-412e-9bc2-a7953c86e92d.webp"
+        },
+        "Procreate": {
+            "wordRoot": "Procreate",
+            "wordDefinition": "Procreate specifically refers to the act of reproducing or having offspring.\n\nGenerate covers a wider range of actions and is not specific to reproduction, while procreate is focused solely on the act of creating offspring.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f8b80e4d-8c25-428e-9932-4e16b4c80576.webp"
+        },
+        "Produce": {
+            "wordRoot": "Produce",
+            "wordDefinition": "Both generate and produce mean to create something, but the difference is in how they create it. Generate means to create something using a process or method, while produce means to create something by physically making or manufacturing it.\n\nFor example, you can generate electricity using wind turbines, but you produce clothing in a factory.\n\nIn simpler terms, generate is used when talking about creating something through a mental or technical process, while produce is used when talking about physically making something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f3d8afc-8641-4c33-b842-4574559c5bb7.webp"
+        },
+        "Spawn": {
+            "wordRoot": "Spawn",
+            "wordDefinition": "Both generate and spawn mean to produce or create something.\n\nSpawn is frequently used to depict the production of something naturally or spontaneously.\n\nFor instance, fish spawn in water to lay eggs, and mushrooms spawn on decaying wood.\n\nIn summary, use generate when describing something produced through a process or method, and use spawn when describing something created naturally or spontaneously.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/283a19a2-259b-487e-9b61-147c096f0bee.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Surprisingly, agriculture is the biggest contributor to climate change. It generates 30% of greenhouse gas emissions. That's more than the emissions from all electricity and industry, or from all the world's planes, trains and automobiles. Most agricultural emissions come from tropical deforestation, methane from animals and rice fields, and nitrous oxide from over-fertilizing.",
+            "Title": "Jonathan Foley: The...",
+            "VideoId": "1US4jjWtua8",
+            "Controls": "start=954"
+        },
+        {
+            "Text": " of fact they're quite toxic to your brain events news events are just things happening flickering on the world surface but to make better decisions you want to understand what drives these events or generates these events and new stories don't tell you that news give you the illusion of understanding and",
+            "Title": "Four reasons you should...",
+            "VideoId": "-miTTiaqFlI",
+            "Controls": "start=88"
+        },
+        {
+            "Text": " The bigger the challenge becomes, the bigger the brain's signal grows, and the more motor units it rallies to help you achieve your task. But what if the door is made of solid iron? At this point, your arm muscles alone won't be able to generate enough tension to pull it open,",
+            "Title": "What makes muscles grow?...",
+            "VideoId": "2tM1LFFxeKg",
+            "Controls": "start=51"
+        },
+        {
+            "Text": " As they consume it, the bacteria generate byproducts in the form of acids, such as lactic acid. Mutans streptococci are resistant to this acid, but unfortunately, our teeth aren't. While each human tooth is coated in a hardy, protective layer of enamel, it's no match for acid.",
+            "Title": "What causes cavities? -...",
+            "VideoId": "zGoBFU1q4g0",
+            "Controls": "start=61"
+        },
+        {
+            "Text": " The fifth form of power is ideas. An idea, individual liberties, say, or racial equality, can generate boundless amounts of power if it motivates enough people to change their thinking and actions. And so the sixth source of power is numbers, lots of humans.",
+            "Title": "How to understand power...",
+            "VideoId": "c_Eutci7ack",
+            "Controls": "start=154"
+        },
+        {
+            "Text": " And by studying how tardigrades survive prolonged exposure to the vacuum of outer space, scientists can generate clues about the environmental limits of life and how to safeguard astronauts. In the process, tardigrades could even help us answer a critical",
+            "Title": "Meet the tardigrade, the...",
+            "VideoId": "IxndOd3kmSs",
+            "Controls": "start=209"
+        },
+        {
+            "Text": " from water to land. An inhalation that could move water over gills followed by a rapid closure of the glottis preventing water from entering the lungs. That's supported by evidence which suggests that the neural patterning involved in generating a hiccup",
+            "Title": "Why do we hiccup? - John...",
+            "VideoId": "-AdQLkUkui8",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " generate large waves and there is power available on any coastline facing those the experimental device he's invented has begun to capture the world's imagination it's called Palomas after a tropical sea snake the massive contraption stretches",
+            "Title": "Harness the Waves PIPE...",
+            "VideoId": "IwdtXGAtgvE",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " Her supporting foot flattens, and then twists as it rises back onto pointe, pushing against the floor to generate a tiny amount of new torque. At the same time, her arms sweep open to help her keep her balance.",
+            "Title": "The physics of the...",
+            "VideoId": "l5VgOdgptRg",
+            "Controls": "start=65"
+        },
+        {
+            "Text": " is bioluminescence a deep sea anglerfish flashes in the darkness the light is generated by bacteria that",
+            "Title": "What's Hiding in the...",
+            "VideoId": "TDNrM0Nt1Q0",
+            "Controls": "start=222"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-altucher.webp",
+            "Text": "Your competition is not other people but the time you kill, the ill will you create, the knowledge you neglect to learn, the connections you fail to build, the health you sacrifice along the path, your inability to generate ideas, the people around you who don't support and love your efforts, and whatever god you curse for your bad luck.",
+            "Title": "American Author",
+            "Name": "James Altucher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yorgos-lanthimos.webp",
+            "Text": "It's hard for me to find a script that's perfectly suited to me, so even if it's a good script, I'll still have to work on it with someone and shape it, making it the film that I want to make. So in that respect, I prefer to do the stuff that I've generated anyway.",
+            "Title": "Greek Director",
+            "Name": "Yorgos Lanthimos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fred-saberhagen.webp",
+            "Text": "There are interactions with characters within the game which I think are pretty neatly done considering the limitations that you have to work with. I mean, a computer can't really generate a character that talks back and forth with you successfully.",
+            "Title": "American Author",
+            "Name": "Fred Saberhagen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ira-glass.webp",
+            "Text": "I'm trying to make perfect moments. And those generate meaning. If you go deep enough in how to make a moment, very quickly you come to how narrative works - to what we are as a species, how we've come up with telling stories in scenes and images.",
+            "Title": "American Journalist",
+            "Name": "Ira Glass"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/farah-khan.webp",
+            "Text": "You get paid what you deserve, according to the money that your movie generates. I get much more than a lot of male directors and I also get less than some. But I get paid what I deserve and what I ask for.",
+            "Title": "Indian Director",
+            "Name": "Farah Khan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dalai-lama.webp",
+            "Text": "It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come.",
+            "Title": "Tibetan Leader",
+            "Name": "Dalai Lama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yvonne-strahovski.webp",
+            "Text": "I enjoy living in L.A. This is where the work is - or at least generated from - because you fly off and do movies. It's sort of a great way to see the world.",
+            "Title": "Australian Actress",
+            "Name": "Yvonne Strahovski"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-bettman.webp",
+            "Text": "You can have the biggest markets in the world, but if the game isn't exciting, compelling, and competitive, it's not going to generate a lot of interest.",
+            "Title": "American Businessman",
+            "Name": "Gary Bettman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barack-obama.webp",
+            "Text": "The immigration issue is, I recognize, one that generates a lot of passion, but it does not make sense for us to want to push talent out.",
+            "Title": "American President",
+            "Name": "Barack Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-weston.webp",
+            "Text": "I don't need the money I generate from photography to support myself.",
+            "Title": "American Photographer",
+            "Name": "Kim Weston"
+        }
+    ]
+}

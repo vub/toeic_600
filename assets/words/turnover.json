@@ -1,0 +1,309 @@
+{
+    "currentWord": {
+        "wordRoot": "turnover",
+        "id": 211,
+        "phonemic": "ˈtɜːnəʊvə(r)|ˈtɜːrnəʊvər\r",
+        "bigId": "80830406-d19b-42aa-860c-fe37a0bb0131",
+        "wordForms": [
+            "turnovers",
+            "turnover"
+        ]
+    },
+    "senses": [
+        {
+            "id": "80830406-d19b-42aa-860c-fe37a0bb0131",
+            "de": "The amount of money taken by a business in a particular period.",
+            "ty": "noun",
+            "ex": "Our company had an annual turnover of 1.5 million dollars last year.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "annual turnover",
+                " turnover rate",
+                " high turnover"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/80830406-d19b-42aa-860c-fe37a0bb0131.webp",
+            "Tips": [
+                {
+                    "title": "Business Metrics",
+                    "description": "Turnover can measure success; higher turnover implies more sales and potentially more profit.",
+                    "example": "Our bakery's turnover increased by 20% this quarter.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/YPNzXfhbuNcgXg7DFOpNOFu38.webp"
+                },
+                {
+                    "title": "Time Frame Specific",
+                    "description": "Turnover relates to a specific period like monthly, quarterly, or yearly.",
+                    "example": "Our quarterly turnover surpassed projections.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OU6V13fYkKqTE4La73oV7eMCt9M.webp"
+                },
+                {
+                    "title": "Context Sensitive",
+                    "description": "In conversations about finance, turnover implies business revenue.",
+                    "example": "The new product line boosted our turnover significantly.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lx8dYHabGBHUVg4zOm8UDPEj9M.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e30e54a2-0736-498c-b4c3-6ae31ba8041d",
+            "de": "The rate at which employees leave a workforce and are replaced.",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "The employee turnover in the industry is quite high.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "high turnover",
+                " employee turnover",
+                " turnover rate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e30e54a2-0736-498c-b4c3-6ae31ba8041d.webp",
+            "Tips": [
+                {
+                    "title": "Workforce Stability",
+                    "description": "High turnover in a company often suggests job instability or dissatisfaction.",
+                    "example": "Our department is addressing the high turnover issue.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Management Challenge",
+                    "description": "Turnover is a key challenge for HR to ensure a stable workforce.",
+                    "example": "Managing turnover is essential for a healthy workplace.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cost Implication",
+                    "description": "Frequent employee turnover can lead to higher training and recruiting costs.",
+                    "example": "We need to reduce turnover to cut down on hiring costs.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d9777049-e231-451d-8c10-2832076b0406",
+            "de": "A kind of pastry with a filling folded into it.",
+            "ty": "noun",
+            "ex": "I had a delicious apple turnover for dessert.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "apple turnover",
+                " cherry turnover",
+                " turnover pastry"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d9777049-e231-451d-8c10-2832076b0406.webp",
+            "Tips": [
+                {
+                    "title": "Sweet or Savory",
+                    "description": "Turnovers can be sweet, like with fruit, or savory, like with meat or cheese.",
+                    "example": "I prefer savory turnovers with spinach and feta.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Portable Snack",
+                    "description": "Turnovers are convenient to eat with your hands, no utensils needed.",
+                    "example": "Turnovers are perfect for picnics because they're easy to pack and carry.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a3b96a94-7864-4f3f-b997-988b79a48d34",
+            "de": "An act of turning something over, for example in sports.",
+            "do": "Sports",
+            "ty": "noun",
+            "ex": "The team's numerous turnovers cost them the game.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "ball turnover",
+                " turnover ratio",
+                " turnover rate"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a3b96a94-7864-4f3f-b997-988b79a48d34.webp",
+            "Tips": [
+                {
+                    "title": "Sporting Mistake",
+                    "description": "In sports, a turnover is often seen as a mistake, losing possession to the opponent.",
+                    "example": "The quarterback's turnover led to a touchdown for the other team.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Game Dynamics",
+                    "description": "Turnovers can change the momentum of a game, for better or worse.",
+                    "example": "Our team's defense caused a turnover and turned the game around.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Earnings": {
+            "wordRoot": "Earnings",
+            "wordDefinition": "Earnings refer to the profit or income that is generated after deducting expenses. It represents the amount of money a company or individual has made in a specific period of time.\n\nEarnings are the amount of money left over after expenses, while turnover is the total amount of money earned before deducting any expenses.\n\nEarnings are applicable in measuring profitability, while turnover is useful in evaluating the total amount of business or sales.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06bde760-5e4c-4226-b8bc-2327d9e8d24a.webp"
+        },
+        "Exchange": {
+            "wordRoot": "Exchange",
+            "wordDefinition": "Exchange refers to the act of giving something in return for something else. This is often used when discussing currency or other goods that are traded.\n\nFor example, when you exchange money for a different currency or exchange a product at a store for a different one, that is considered an exchange.\n\nExchange is about trading one thing for another, while turnover is about how much business a company does.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e99727f-5e15-46be-b642-e663786b5987.webp"
+        },
+        "Income": {
+            "wordRoot": "Income",
+            "wordDefinition": "Income refers to the money that an individual or business earns from sources such as salaries, profits, interests, and dividends.\n\nIncome is what is left over after expenses are deducted, while turnover is the total amount of money a business generates.\n\nCompanies use both terms to measure their financial performance, but they are not interchangeable. Income is more applicable to individuals, while turnover is more relevant to companies.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46e6f131-0db5-4089-b0ea-73956af3fd38.webp"
+        },
+        "Revenue": {
+            "wordRoot": "Revenue",
+            "wordDefinition": "Revenue and turnover both refer to the amount of money a business earns, but they are used in slightly different ways.\n\nRevenue usually refers to the total amount of money a business earns before any expenses are deducted. So if a business brings in $100,000 in revenue, but their expenses total $50,000, then their net profit would be $50,000.\n\nRevenue is a broader term that can refer to any money earned by a business, while turnover specifically refers to the amount earned from sales.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b3c43e1a-9ecb-442b-8208-cd44ccbdffc7.webp"
+        },
+        "Sale": {
+            "wordRoot": "Sale",
+            "wordDefinition": "Sale refers to the number of goods or services that a company sells to customers. It is the total amount of money earned from the selling of those goods or services.\n\nTurnover refers to the total amount of money earned by a company from all its sales in a given period, typically a year.\n\nIt includes all the sales that a company makes during that period, regardless of whether the goods or services have been paid for or not.\n\nSale is applicable at the individual level, referring to the selling of a single item, while turnover is applicable at the company level, referring to the total amount of money earned by a company from all its sales.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f2f471f1-10bc-45fe-868e-2282368e1a4a.webp"
+        },
+        "Transaction": {
+            "wordRoot": "Transaction",
+            "wordDefinition": "A transaction is a one-time exchange of goods or services for money. For example, when you buy a hamburger at a fast food restaurant, you are making a transaction.\n\nTurnover refers to the total amount of money or goods that a company earns or produces over a period of time. This can include multiple transactions, along with other sources of income or revenue.\n\nA transaction is a single exchange of goods or services for money, while turnover is the total amount of money or goods earned or produced by a company over a period of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/256c8d4f-6974-4dea-931e-e8f1d6b0fe46.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " very low turnover of carbon, not not a very active environment in terms of finding food, things occurring at very low densities. Therefore, if you're a tiny little male angler fish the size of a grape swimming through that vast, deep, cold, dark ocean, when you find a female, you don't want to- I mean, that's a big day",
+            "Title": "Deep Sea Anglerfish Sex...",
+            "VideoId": "mHxNrcED4CY",
+            "Controls": "start=466"
+        },
+        {
+            "Text": " to raise the average capability -- or to encourage the people with it to stay in the system. You might say, \"Do the good teachers stay and the bad teacher's leave?\" The answer is, on average, the slightly better teachers leave the system. And it's a system with very high turnover.",
+            "Title": "Mosquitos, malaria and...",
+            "VideoId": "tsgvhP07BC8",
+            "Controls": "start=819"
+        },
+        {
+            "Text": " suddenly we've got this thing working with ten doubling our turnover every year and it was wonderful now as a matter of policy we avoided given what everybody has said we avoided any government involvement no government contracts we don't want them that was",
+            "Title": "What will change Africa?...",
+            "VideoId": "tGKCqpWm8I8",
+            "Controls": "start=103"
+        },
+        {
+            "Text": " has enabled you to think about the future and at the same time change the present? You know, I think the most important thing -- I looked at lots of companies and why I thought they don't succeed over time. We've had a more rapid turnover of companies.",
+            "Title": "Where's Google going...",
+            "VideoId": "mArrNRWQEso",
+            "Controls": "start=1311"
+        },
+        {
+            "Text": " head just walking safely in her prob finally I were to get to activate to my vision or in fact my dream because you see this is their reality have a look at the gap if we take the overall turnover of the fire control industry worldwide",
+            "Title": "Natural pest control ......",
+            "VideoId": "xi-D8y-6uA4",
+            "Controls": "start=821"
+        },
+        {
+            "Text": " just walking safely in her crop. Finally, I want to get to my vision, or, in fact, to my dream. Because, you see, this is the reality. Have a look at the gap. If we take the overall turnover of the biocontrol industry worldwide,",
+            "Title": "Shimon Steinberg:...",
+            "VideoId": "PxQcnxSbivQ",
+            "Controls": "start=822"
+        },
+        {
+            "Text": " with governments because they are the ones who have the mandate to monitor and protect their own country resources and we develop systems and tools that are very useful and then there is a high turnover of technical people and",
+            "Title": "A Story of Community and...",
+            "VideoId": "DujhOfoGqzw",
+            "Controls": "start=1404"
+        },
+        {
+            "Text": " because I think stigma is a bad thing, whereas lots of sex is quite a good thing, but we'll leave that be. The truth is that 20 years of very good research have shown us that there are groups that are more likely to turnover",
+            "Title": "Elizabeth Pisani: Sex,...",
+            "VideoId": "LoXAAEy6YQU",
+            "Controls": "start=576"
+        },
+        {
+            "Text": " Teacher turnover is eight times higher than the US national average. Frequently, grandparents are raising their grandchildren because parents, due to alcoholism, domestic violence and general apathy, cannot raise them.",
+            "Title": "Aaron Huey: America's...",
+            "VideoId": "8tEuaj4h8dw",
+            "Controls": "start=710"
+        },
+        {
+            "Text": " And unfortunately, the local junior high was not going to offer that. It was gang-infested, huge teacher turnover rate. So my mom said, \"You're going on a bus an hour and a half away from where we live every day.\"",
+            "Title": "Pearl Arredondo: My...",
+            "VideoId": "BImnT7lcLDE",
+            "Controls": "start=95"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francis-fukuyama.webp",
+            "Text": "The rationale for tenure is still valid. But the system has turned the academy into one of the most conservative and costly institutions in the country. Yes, conservative: Economists joke that their discipline advances one funeral at a time, but many fields must wait for wholesale generational turnover before new approaches take hold.",
+            "Title": "American Economist",
+            "Name": "Francis Fukuyama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/torrey-smith.webp",
+            "Text": "Football is one of those games that definitely relates to life in a lot of ways. Everything can be going good, and just like that, you have a turnover. Things are going south, you're going the opposite direction. How are you going to recover from it? That's the beauty in this game.",
+            "Title": "American Athlete",
+            "Name": "Torrey Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tim-howard.webp",
+            "Text": "When you play professionally, you get accustomed to turnover. Players come and go - they get injured, they get transferred, they get cut from the team. Coaches are hired, and coaches are fired. It's just part of the world you live in.",
+            "Title": "American Athlete",
+            "Name": "Tim Howard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/valerie-jarrett.webp",
+            "Text": "Employers who recognize the importance of investing in their workforce have a more productive workforce, a more efficient workforce, a more loyal workforce, less turnover, and, in the private sector, more profitable.",
+            "Title": "American Lawyer",
+            "Name": "Valerie Jarrett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-green.webp",
+            "Text": "Sometimes I get caught in just trying to get assists, trying to help my teammates get a good shot, and I think I put myself in positions where I get turnovers or I force the issue.",
+            "Title": "American Athlete",
+            "Name": "Jeff Green"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/carolyn-murphy.webp",
+            "Text": "The industry's much quicker. The turnover with models - I cannot keep up. And in my day, we had so much personality. We probably caused a lot more trouble, but it was fun.",
+            "Title": "American Model",
+            "Name": "Carolyn Murphy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-perez.webp",
+            "Text": "Companies are recognizing that paid leave reduces training and turnover costs, that it's a formula for recruiting and retaining good workers.",
+            "Title": "American Politician",
+            "Name": "Tom Perez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rajon-rondo.webp",
+            "Text": "I want to improve my shooting, my free throw shooting, keeping my turnovers down.",
+            "Title": "American Athlete",
+            "Name": "Rajon Rondo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-carter-williams.webp",
+            "Text": "I think I'm pretty good at pressuring the ball, forcing turnovers.",
+            "Title": "American Basketball Player",
+            "Name": "Michael Carter-Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lou-williams.webp",
+            "Text": "I'm conscious of my turnovers.",
+            "Title": "American Athlete",
+            "Name": "Lou Williams"
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "currentWord": {
+        "wordRoot": "contact",
+        "id": 16455,
+        "phonemic": "ˈkɒntækt|ˈkɑːntækt\r",
+        "bigId": "65cad936-8831-4f78-a99e-6653bdb39a75",
+        "wordForms": [
+            "contacts",
+            "contacting",
+            "contacted",
+            "contact"
+        ]
+    },
+    "senses": [
+        {
+            "id": "65cad936-8831-4f78-a99e-6653bdb39a75",
+            "de": "The state or action of touching something",
+            "ty": "noun",
+            "ex": "She avoided contact with others to prevent spread of germs.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "make contact",
+                " avoid contact",
+                " physical contact"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/65cad936-8831-4f78-a99e-6653bdb39a75.webp",
+            "Tips": [
+                {
+                    "title": "Sensory Perception",
+                    "description": "Used to describe how something feels when touched, often literally but can be emotional.",
+                    "example": "The brief contact of their hands was electrifying.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/pRmMlBVBTEZQd33rRUxDJJYMM.webp"
+                },
+                {
+                    "title": "Safety Concern",
+                    "description": "Highlights the need for caution to avoid illness or physical harm.",
+                    "example": "Avoid contact with the hot surface.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QUfaRBsJZiGOlxQciCS5xTQbQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "efe15c68-a172-4ab1-ae6e-28c321634751",
+            "de": "A person who can give help or information",
+            "ty": "noun",
+            "ex": "I have a contact in the police department who can help us.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business contact",
+                " emergency contact",
+                " personal contact"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/efe15c68-a172-4ab1-ae6e-28c321634751.webp",
+            "Tips": [
+                {
+                    "title": "Resourceful Person",
+                    "description": "Refers to someone useful for assistance or to access specific information.",
+                    "example": "Please reach out to my contact for insider details.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Networking Necessity",
+                    "description": "Important for building professional relationships and opportunities.",
+                    "example": "He leveraged his contacts to advance his career.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9c4d1a56-9db9-4037-a899-9f5708dc178c",
+            "de": "To communicate with someone, usually through some medium like telephone or email",
+            "ty": "verb",
+            "ex": "If you have any questions, don't hesitate to contact me.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "contact someone",
+                " contact support",
+                " contact us"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9c4d1a56-9db9-4037-a899-9f5708dc178c.webp",
+            "Tips": [
+                {
+                    "title": "Initiate Communication",
+                    "description": "To start a conversation or request information from someone.",
+                    "example": "Contact the customer support for further help.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Means of Interaction",
+                    "description": "Describes the method chosen to communicate, like email, call, or text.",
+                    "example": "I will contact you via email shortly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1e32f984-d6e8-466f-9edc-e6156b7e9143",
+            "de": "The point at which two things meet",
+            "do": "Physics",
+            "ty": "noun",
+            "ex": "The points of contact between the two gears are important for their function.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "point of contact",
+                " surface contact",
+                " direct contact"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1e32f984-d6e8-466f-9edc-e6156b7e9143.webp",
+            "Tips": [
+                {
+                    "title": "Mechanical Relevance",
+                    "description": "Used in mechanics and engineering to explain how parts connect and work together.",
+                    "example": "The machine malfunctioned due to poor contact points.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Electrical Connection",
+                    "description": "Refers to an electrical circuit's components coming together to complete a path.",
+                    "example": "Check the battery contacts for corrosion.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9daf5713-8d7c-4806-95a6-87af564a6e2c",
+            "de": "A small plastic or glass lens worn in the eye to correct vision",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "She usually wears glasses, but for special occasions she uses contact lenses.",
+            "use": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "contact lenses",
+                " wearing contacts",
+                " remove contacts"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9daf5713-8d7c-4806-95a6-87af564a6e2c.webp",
+            "Tips": [
+                {
+                    "title": "Vision Correction",
+                    "description": "Specifically relates to the use of lenses to improve eyesight.",
+                    "example": "He prefers contacts over glasses for convenience.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Alternative to Glasses",
+                    "description": "Implies a choice for correcting vision discreetly without spectacles.",
+                    "example": "Contacts are great for sports activities.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": ""
+        }
+    ],
+    "comparisons": {
+        "Communicate": {
+            "wordRoot": "Communicate",
+            "wordDefinition": "Communicate means to exchange information or ideas with someone.\n\nFor example: \"I need to communicate with my boss about my work schedule.\"\n\nCommunicate is used when you want to express your thoughts or ideas, while contact is used when you want to reach out to someone for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/317f2fe9-c72e-4dc1-a989-f113602e64c9.webp"
+        },
+        "Connection": {
+            "wordRoot": "Connection",
+            "wordDefinition": "Connection refers to the relationship or link between two things or people. It relates to the strength of the bond between them.\n\nFor example, \"I feel a strong connection with my best friend.\"\n\nConnection can also refer to a physical joining of objects, like a cable connecting a computer to the internet.\n\nConnection emphasizes the strength of the relationship between two things while contact emphasizes the act of communication or interaction between them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14ffe5ed-b0c3-4d57-9700-40b30db152c0.webp"
+        },
+        "Interaction": {
+            "wordRoot": "Interaction",
+            "wordDefinition": "Interaction refers to when two things have a relationship or impact on each other. For example, if you have a conversation with someone on the phone, you are not only making contact with them but also interacting with them.\n\nContact refers to a physical or verbal connection, while interaction refers to a relationship or effect on each other.\n\nBoth words can be used in social situations, but contact is more limited to physical touch or communication, while interaction encompasses a wider range of relationships or exchanges.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b9c17123-4eb6-41d4-bfbd-0855cd47ddb0.webp"
+        },
+        "Interface": {
+            "wordRoot": "Interface",
+            "wordDefinition": "Interface generally refers to the point where two separate systems or technologies come together and interact with each other, typically through a software program or device.\n\nFor example, a computer's user interface allows the user to interact with the computer system through a keyboard, mouse or touchscreen.\n\nContact describes physical or communicative connections between people or objects, while interface typically refers to the interaction between technology systems or devices.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4393e5a0-30a1-4747-94c8-5e9fedb5eb27.webp"
+        },
+        "Link": {
+            "wordRoot": "Link",
+            "wordDefinition": "Link usually refers to a connection between things, such as two websites or two parts of a chain. For example, you might say that you have \"linked\" two websites together by adding a hyperlink.\n\nContact is used when referring to a communication with a person, while link is used when referring to a connection between things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0c7c1e0d-4ca1-40ca-bca9-92fce4b1a509.webp"
+        },
+        "Meet": {
+            "wordRoot": "Meet",
+            "wordDefinition": "Contact generally means to communicate with someone through phone, email, or any other means of communication without necessarily meeting them in person.\n\nMeet means coming together with someone in person for an interaction.\n\nFor example, If you want to contact your friend, you might send them a text message or call them on the phone. But if you want to meet them, you would plan to physically see them face-to-face, like going to the mall with them.\n\nContact refers to transferring or exchanging information through communication channels while meet means to come together and interact with a person in person.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b866f5e5-51a2-4bb6-9b0e-fd8aabb6cef4.webp"
+        },
+        "Reach": {
+            "wordRoot": "Reach",
+            "wordDefinition": "Reach refers to making contact with someone or something that is not directly accessible or nearby. It is applicable when you want to connect with someone who is not in your immediate area or contact a company that is not easily accessible.\n\nFor example, if you want to reach out to a celebrity for an interview, you would use the word reach, as you are not able to directly contact them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06f7c490-d09c-4f45-b475-7c3aaa985aef.webp"
+        },
+        "Touch": {
+            "wordRoot": "Touch",
+            "wordDefinition": "Touch specifically refers to physical contact where one object or person makes physical contact with another object or person, like hugging someone or petting a dog.\n\nContact can refer to both physical and non-physical connections, whereas touch specifically refers to physical contact.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bf8dfef-f45d-40c1-9a1d-c59762c0f9d9.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " She walks into my studio. The way that she walks in, though, instead of this gorgeous girl, she walks in like this, her head's down, shoulders hunched, one-word answers, she looks down, no eye contact. This kid has been teased her whole life because of her difference.",
+            "Title": "Rick Guidotti: From...",
+            "VideoId": "I4PU2JlhO80",
+            "Controls": "start=280"
+        },
+        {
+            "Text": " that I attended as a child he was my friend that used to sit next to me so I contacted the Security Intelligence Service I thought this has to be a mistake I wanted to give a character reference for the family's good family but it was out of their hands it was in",
+            "Title": "An inside look at...",
+            "VideoId": "RK8zb8dA4G4",
+            "Controls": "start=346"
+        },
+        {
+            "Text": " The jellyfish's sting, which helps it capture prey and defend itself, is its most infamous calling card. In the jelly's epidermis, cells called nematocysts lie coiled like poisonous harpoons. When they're triggered by contact, they shoot with an explosive force.",
+            "Title": "Jellyfish predate...",
+            "VideoId": "yQduHyiWe9o",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " These encounters were often less than peaceful. But even through raids and warfare, as well as trade and protection of traveling merchants in exchange for tariffs, the nomads began to spread goods, ideas and technologies between cultures with no direct contact.",
+            "Title": "The Silk Road:...",
+            "VideoId": "vn3e37VWc0k",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " But wait. Maybe we should ask a different question first. Should we try to find out if we're alone in the universe? If we do find the atmospheric fingerprints of life on one of these small, distant worlds, should we try to contact any beings who may live there?",
+            "Title": "Should we be looking for...",
+            "VideoId": "SgLO10cUC1M",
+            "Controls": "start=55"
+        },
+        {
+            "Text": " and always decontaminate your gear after visiting a cave. If you have unwanted bats living in an attic or barn, contact your local government to safely and humanely relocate us. And if you come across a bat, do not attempt to handle it,",
+            "Title": "The truth about bats -...",
+            "VideoId": "Z8wLQ3NCBgg",
+            "Controls": "start=295"
+        },
+        {
+            "Text": " Unprotected sex and contaminated needles are the leading cause of transmission. It, fortunately, cannot spread through air, water, or casual contact. Individuals of any age, sexual orientation, gender and race can contract HIV.",
+            "Title": "Why it’s so hard to cure...",
+            "VideoId": "0TipTogQT3E",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " Backpacks should be in contact with your back carried symetrically. If you sit a lot, get up and move around on occassion, and be sure to exercise. Using your muscles will keep them strong enough to support you effectively,",
+            "Title": "The benefits of good...",
+            "VideoId": "OyK0oE5rwFY",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " chamber and dies a short but productive life for he'll father several million new ants with hungry mouths slugs are fair game for driver ants they don't run away the first ant makes contact",
+            "Title": "Best Of Ants PIPE BBC Earth",
+            "VideoId": "qu0HN9rYtIw",
+            "Controls": "start=333"
+        },
+        {
+            "Text": " back from the military there were people who had heard about diving whether they didn't know how to do it one by one people started contacting me so I said well let's form a club",
+            "Title": "These Divers Search For...",
+            "VideoId": "u2l_EugvRw8",
+            "Controls": "start=263"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-rollins.webp",
+            "Text": "I have been listening to the Stooges' self-titled first album for well over half my life, and it remains one of the most exciting and essential records I have ever had the good fortune to come into contact with.",
+            "Title": "American Musician",
+            "Name": "Henry Rollins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lebron-james.webp",
+            "Text": "Basketball is my passion, I love it. But my family and friends mean everything to me. That's what's important. I need my phone so I can keep in contact with them at all times.",
+            "Title": "American Basketball Player",
+            "Name": "LeBron James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aldous-huxley.webp",
+            "Text": "Words, words, words! They shut one off from the universe. Three quarters of the time one's never in contact with things, only with the beastly words that stand for them.",
+            "Title": "English Novelist",
+            "Name": "Aldous Huxley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eusebio.webp",
+            "Text": "All of the successes achieved throughout my career and contacts with the fans have made me aware of my responsibility to act as an example in the world of football.",
+            "Title": "Portuguese Footballer",
+            "Name": "Eusebio"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jay-samit.webp",
+            "Text": "Some of the most lasting contacts and friendships that I have developed began by just grabbing a drink or breaking bread with a stranger at an industry event.",
+            "Title": "American Businessman",
+            "Name": "Jay Samit"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yves-saint-laurent.webp",
+            "Text": "I'd really like to be in closer contact with life. I'm a little too distant, I guess. I like to place myself outside.",
+            "Title": "French Designer",
+            "Name": "Yves Saint Laurent"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giovanni-ribisi.webp",
+            "Text": "I'm old fashioned with my cell phone. I like that human contact and I think it's important.",
+            "Title": "American Actor",
+            "Name": "Giovanni Ribisi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gerardo-martino.webp",
+            "Text": "I think it's very important to have contact with the players that I will coach.",
+            "Title": "Argentinian Coach",
+            "Name": "Gerardo Martino"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ma-ying-jeou.webp",
+            "Text": "It's very important for Taiwan to maintain its international contact.",
+            "Title": "Politician",
+            "Name": "Ma Ying-jeou"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/niko-kovac.webp",
+            "Text": "I've always been someone who said that football is a contact sport.",
+            "Title": "Croatian Athlete",
+            "Name": "Niko Kovac"
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "currentWord": {
+        "wordRoot": "tempt",
+        "id": 10746,
+        "phonemic": "tempt|tempt\r",
+        "bigId": "5865793f-7da1-4592-8bf6-c9e3de79fda1",
+        "wordForms": [
+            "tempts",
+            "tempting",
+            "tempted",
+            "tempter",
+            "tempt"
+        ]
+    },
+    "senses": [
+        {
+            "id": "5865793f-7da1-4592-8bf6-c9e3de79fda1",
+            "de": "To make someone want to do or have something, even though it may not be good or right to do or have",
+            "ty": "verb",
+            "ex": "She was tempted to call him.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "tempt someone into",
+                " tempt someone with",
+                " tempt someone to"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5865793f-7da1-4592-8bf6-c9e3de79fda1.webp",
+            "Tips": [
+                {
+                    "title": "Choice Implication",
+                    "description": "Suggests the option is appealing but potentially unwise.",
+                    "example": "I was tempted by the cake, despite being on a diet.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7oHeZaZk89ttiNbeqfw6y36n11Y.webp"
+                },
+                {
+                    "title": "Emotional Conflict",
+                    "description": "Implies internal struggle between desire and what's best.",
+                    "example": "He was tempted to skip class, but knew he shouldn't.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/sQgz7roknQHGCm6xBYBO95wik8.webp"
+                },
+                {
+                    "title": "Consequence Awareness",
+                    "description": "Understanding that the temptation may lead to regret.",
+                    "example": "She was tempted to lie but feared the consequences.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/G5V5UKUEA9iiqULMR6yneY7xQw.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b05dfee0-ffa9-407c-8d77-4f2d63d8d20e",
+            "de": "To risk causing something bad or harmful",
+            "ty": "verb",
+            "ex": "Don't tempt fate by going out in this weather.",
+            "use": "",
+            "co": "Colloquial",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b05dfee0-ffa9-407c-8d77-4f2d63d8d20e.webp",
+            "Tips": [
+                {
+                    "title": "Superstition Nuance",
+                    "description": "Used in expressions about luck or avoiding bad outcomes.",
+                    "example": "I don't walk under ladders; I won't tempt fate.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Risk Consideration",
+                    "description": "Indicates awareness of taking a chance with potential negatives.",
+                    "example": "Going on a trip in this storm is tempting fate.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": ""
+        },
+        {
+            "id": "f1ae1fba-1b00-4b05-b5fc-cb1b7a9f3465",
+            "de": "In a religious context, to test, especially by offering what is prohibited",
+            "do": "Theology",
+            "ty": "verb",
+            "ex": "Jesus was tempted in the wilderness by Satan.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f1ae1fba-1b00-4b05-b5fc-cb1b7a9f3465.webp",
+            "Tips": [
+                {
+                    "title": "Religious Trial",
+                    "description": "In theology, implies a spiritual test or challenge.",
+                    "example": "The monk was tempted with worldly distractions.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Moral Dilemma",
+                    "description": "Carries a sense of right and wrong in the religious sense.",
+                    "example": "She was tempted to cheat, but resisted for her faith.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Allure": {
+            "wordRoot": "Allure",
+            "wordDefinition": "Allure refers to a powerful attraction or charm that something or someone has.\n\nFor example, a beautiful dress might be described as having an allure (or irresistible charm) that makes us want to buy it.\n\nAllure is about attraction and appeal while tempt is about references convincing or pressurizing someone to do something they may not want to do.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/157a4c39-fbbb-4caf-9b5d-d58a80be649d.webp"
+        },
+        "Encourage": {
+            "wordRoot": "Encourage",
+            "wordDefinition": "Encourage means to give someone positive support or motivation to do something good or beneficial.\n\nIt can be applied in a variety of situations where one person is motivating another person to achieve something positive, such as encouraging a friend to go to college or encouraging a teammate to give their best effort in a game.\n\nEncourage is about helping someone do something good and tempt is about enticing someone to do something bad.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/17a8143e-892b-4810-ad86-3856d86f8048.webp"
+        },
+        "Entice": {
+            "wordRoot": "Entice",
+            "wordDefinition": "The words entice and tempt both mean to persuade or attract someone to do something.\n\nHowever, entice generally implies something positive, where you use an attraction to draw someone towards something good.\n\nFor example, a bakery might entice customers with the smell of freshly baked bread.\n\nEntice is used for positive actions, and tempt is used for negative actions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/36316d6b-7476-4630-8e48-52a5388abe00.webp"
+        },
+        "Incite": {
+            "wordRoot": "Incite",
+            "wordDefinition": "Incite means to encourage or provoke someone to do something, usually something negative, like violence or rebellion.\n\nFor example, a leader might incite a crowd to protest or start a riot.\n\nIncite is often used in a more serious or extreme context, while tempt is used in a broader sense of encouraging someone to do something that may not be beneficial for them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/895176e7-5dff-4a30-97ee-1e3a78ed1c21.webp"
+        },
+        "Lure": {
+            "wordRoot": "Lure",
+            "wordDefinition": "Lure means to entice someone to do something, usually by using something attractive or desirable as a bait. For example, a fisherman might use a shiny lure to catch a fish.\n\nBoth words can describe situations where someone is being convinced to do something, but lure usually implies a physical object used as bait, while tempt implies a psychological urge or desire.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4fcb371f-3877-42f5-9720-6fc358fdcb36.webp"
+        },
+        "Persuade": {
+            "wordRoot": "Persuade",
+            "wordDefinition": "Persuade means to convince or encourage someone to do something by using reasoning or arguments. It's applicable when you want someone to adopt your point of view or to take a particular course of action based on logical reasons.\n\nIn summary, persuading someone involves using logical arguments and reasoning to encourage them to do something, while tempting someone involves enticing them with attractive rewards or incentives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b7919e0-7b38-4bb4-933a-be37b5478983.webp"
+        },
+        "Provoke": {
+            "wordRoot": "Provoke",
+            "wordDefinition": "Provoke means to intentionally make someone angry or annoyed. It is applicable when someone wants to upset or anger another person, like when someone taunts or teases another person to get a reaction.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b6fbca12-5483-451f-a03d-4ca2cebac470.webp"
+        },
+        "Seduce": {
+            "wordRoot": "Seduce",
+            "wordDefinition": "Seduce means to convince or persuade someone to do something that is morally wrong or goes against their values or beliefs by using charm, flattery, or other tactics.\n\nFor example, a man may try to seduce a woman to have sex with him even if she does not want to.\n\nSeduce is used when someone is trying to convince someone to do something that is considered immoral, while tempt is used for more frivolous desires.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dec122c2-64e3-430d-b5ec-ab5337f89eab.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " The sheer size of the Universe guarantees that some of its random elements will fall into specific arrangements, and because we evolved to notice patterns and pick out signals among the noise, we are often tempted to find intentional meaning where there may not be any.",
+            "Title": "The origin of countless...",
+            "VideoId": "88_C-fogY40",
+            "Controls": "start=227"
+        },
+        {
+            "Text": " we love in order to quench our physical and psychological desires. Humans are designed to procreate, but without the ecstasy of passionate love, sex is unsatisfying. Our fear of the cold, cruel world tempts us to build hard shells to protect and isolate ourselves.",
+            "Title": "Why do we love? A...",
+            "VideoId": "yJSiUm6jvI0",
+            "Controls": "start=138"
+        },
+        {
+            "Text": " But accidents can and will still happen, and when they do, their outcomes may be determined months or years in advance by programmers or policy makers. And they'll have some difficult decisions to make. It's tempting to offer up general decision-making principles,",
+            "Title": "The ethical dilemma of...",
+            "VideoId": "ixIoDYVfKA0",
+            "Controls": "start=99"
+        },
+        {
+            "Text": " of what everybody else thinks you don't trust the wisdom of the crowd uh I'm trusting my gut okay to be perfectly honest I think C looks closest you think they're all wrong yeah okay I guess and don't beat yourself up if you were tempted to go along with a crowd",
+            "Title": "Question the Herd PIPE...",
+            "VideoId": "0IJCXXTMrv8",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " that sense of certainty that ours is the right side, is so seductive. It's hard because it means extending empathy and compassion to people who show us hostility and contempt. The impulse to respond in kind is so tempting, but that isn't who we want to be.",
+            "Title": "I grew up in the...",
+            "VideoId": "bVV2Zk88beY",
+            "Controls": "start=517"
+        },
+        {
+            "Text": " First of all, it's tempting to think of a cell membrane like the tight skin of a balloon, but it's actually something much more complex. In reality, it's constantly in flux, shifting components back and forth to help the cell take in food,",
+            "Title": "Cell membranes are way...",
+            "VideoId": "nsklF1w4eok",
+            "Controls": "start=32"
+        },
+        {
+            "Text": " Your experiences will be indistinguishable from reality. Life's natural ups and downs will just be replaced with an endless series of ups. Sounds great, right? It may seem like a tempting offer, but perhaps it's not as ideal as it sounds.",
+            "Title": "Would you opt for a life...",
+            "VideoId": "XNP1x11Z2Ig",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " as a marketing technique. It's tempting to think of this as a sign of us being stuck in the past, but that's not really how nostalgia works. Instead, nostalgia helps us remember that our lives can have meaning and value,",
+            "Title": "Why do we feel...",
+            "VideoId": "WiTgn5QH_HU",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " temperature and also tempt electrical impulses in a very precise way and this technology has been around for thirty years under the hand and the world of nature shape memory behavior has been",
+            "Title": "Creating materials...",
+            "VideoId": "xcj_mSNdf7Y",
+            "Controls": "start=61"
+        },
+        {
+            "Text": " it's tempting to think of life as the inhalation of air",
+            "Title": "Letting Go With Lemurs -...",
+            "VideoId": "eHEcM_AdDfY",
+            "Controls": "start=55"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alex-lawther.webp",
+            "Text": "One big power of an actor is knowing when to say no to something. It can be very tempting to say yes to something, because you're flattered that somebody would like to work with you, and your ego sort of takes over, but it's important to ask whether there could be something you could add to a project by being part of it.",
+            "Title": "English Actor",
+            "Name": "Alex Lawther"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/basil-hume.webp",
+            "Text": "Living and working in the centre of a city, one cannot but be affected by the sight of the homeless on the streets. They are almost an expected feature of life in a big city, and it is tempting to think there is little or nothing that can, or even should, be done about it. This is not so.",
+            "Title": "English Clergyman",
+            "Name": "Basil Hume"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rob-halford.webp",
+            "Text": "It's very tempting for certain generations to say, 'Well, I just want to be in a band, and I want to be a rock star,' or whatever. That's not what it's about. Firstly, you've got to be in it for the love and the passion that you have for the music, and then you take it from there.",
+            "Title": "English Musician",
+            "Name": "Rob Halford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-rampton.webp",
+            "Text": "When looking for an influencer to work with, it's tempting to go for those with huge amount of fans and followers. This is perfectly understandable, as you obviously want your business or product promoted to as many people as possible. However, numbers aren't everything.",
+            "Title": "American Businessman",
+            "Name": "John Rampton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tim-vine.webp",
+            "Text": "People ask 'do you make a conscious effort not to swear?' - if you're doing silly stuff you're not tempted to put swearing in. All the comics from my childhood, who were funny without swearing, were the people that influenced me. What I do is quite traditional anyway.",
+            "Title": "British Comedian",
+            "Name": "Tim Vine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mona-eltahawy.webp",
+            "Text": "Some forms of veil are justified by the idea that you're not tempting men. Well how about men just behaving and keeping their hands to yourselves? How about, instead of criticizing how I dress, respecting me and my right to the public space?",
+            "Title": "Egyptian Journalist",
+            "Name": "Mona Eltahawy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/l-lionel-kendrick.webp",
+            "Text": "Wise choices can put us in control of situations where we might otherwise be tempted to compromise our principles. We cannot control all that happens to us; however, we can choose to be in control of our responses.",
+            "Title": "American Clergyman",
+            "Name": "L. Lionel Kendrick"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-malkovich.webp",
+            "Text": "Actors generally get to do things you probably shouldn't do in real life - well, at least as much as one might like to or be tempted to. Though I suppose a lot of actors just go ahead and do it, don't they?",
+            "Title": "American Actor",
+            "Name": "John Malkovich"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fay-vincent.webp",
+            "Text": "It's tempting, because as one senator said to me, 'We know if we invite baseball down, we'll draw a crowd'.",
+            "Title": "American Lawyer",
+            "Name": "Fay Vincent"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sydney-j-harris.webp",
+            "Text": "When I hear somebody sigh, 'Life is hard,' I am always tempted to ask, 'Compared to what?",
+            "Title": "American Journalist",
+            "Name": "Sydney J. Harris"
+        }
+    ]
+}

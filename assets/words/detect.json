@@ -1,0 +1,309 @@
+{
+    "currentWord": {
+        "wordRoot": "detect",
+        "id": 9101,
+        "phonemic": "dɪˈtekt|dɪˈtekt\r",
+        "bigId": "ec72e7e4-c952-46c9-88fa-83fd428b1698",
+        "wordForms": [
+            "detects",
+            "detecting",
+            "detected",
+            "detectable",
+            "detect"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ec72e7e4-c952-46c9-88fa-83fd428b1698",
+            "de": "To discover or perceive the existence or presence of something",
+            "ty": "verb",
+            "ex": "She detected a hint of sarcasm in his voice.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "detect presence",
+                " detect smell",
+                " detect discrepancy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ec72e7e4-c952-46c9-88fa-83fd428b1698.webp",
+            "Tips": [
+                {
+                    "title": "Subtle Discovery",
+                    "description": "Detect often signals discovering something not obvious at first glance.",
+                    "example": "Upon rereading the text, I detected an underlying theme of redemption.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/eBrIzXPloBALUH7c269JXPQmc.webp"
+                },
+                {
+                    "title": "Emotional Nuance",
+                    "description": "Detect can imply a level of sensitivity when noticing subtle emotions.",
+                    "example": "He could detect the disappointment in her faint smile.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zs3p5TProO79whU2VXfP3zZLU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a178811c-3842-4c47-96ce-cfee3e6b5b49",
+            "de": "Identify a specific characteristic or detail of something",
+            "do": "General",
+            "ty": "verb",
+            "ex": "The virus is difficult to detect in the early stages of infection.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "detect virus",
+                " detect fraud",
+                " detect error"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a178811c-3842-4c47-96ce-cfee3e6b5b49.webp",
+            "Tips": [
+                {
+                    "title": "Technical Contexts",
+                    "description": "Use detect when referring to identifying specifics using tools or skills; often used in medical or technical contexts.",
+                    "example": "The laboratory equipment detected traces of lead in the sample.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "First Indications",
+                    "description": "Detect is used when describing the first signs or early stages of something.",
+                    "example": "Doctors can now detect the disease much earlier than before.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7176f25f-a9b4-472f-867c-dc672c403f72",
+            "de": "Discover or investigate a crime or wrongdoing",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The police were able to detect the crime because of the evidence left at the scene.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "detect crime",
+                " detect wrongdoing",
+                " detect illegal activity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7176f25f-a9b4-472f-867c-dc672c403f72.webp",
+            "Tips": [
+                {
+                    "title": "Crime Discovery",
+                    "description": "In a legal context, detect emphasizes the uncovering of criminal activity, often through investigation.",
+                    "example": "The forensic team detected signs of tampering at the crime scene.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Investigative Skill",
+                    "description": "Detect suggests a skill or ability to notice what is not easily noticed by others, highlighting expertise.",
+                    "example": "The detective's trained eye detected the hidden compartment.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3ce7bb0a-f760-49a4-8107-ca3612c2110d",
+            "de": "To notice or discern something with the senses",
+            "ty": "verb",
+            "ex": "Taste buds can detect five different kinds of taste.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "detect taste",
+                " detect sound",
+                " detect movement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3ce7bb0a-f760-49a4-8107-ca3612c2110d.webp",
+            "Tips": [
+                {
+                    "title": "Sensory Perception",
+                    "description": "Use detect for what is directly noticed by the senses, such as sight, hearing, or smell.",
+                    "example": "She detected a faint odor in the room that reminded her of pine trees.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implicit Contrast",
+                    "description": "Detecting implies there is some difficulty or need for attention to notice something.",
+                    "example": "The hunter detected slight movement in the brush, signaling nearby game.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Discern": {
+            "wordRoot": "Discern",
+            "wordDefinition": "Discern means to perceive or recognize something, often using intuition or careful observation. For example, a person with a discerning palate can taste and distinguish between different flavors and ingredients in a dish.\n\nDiscern can also be used to mean understanding the true nature or meaning of something, such as discerning the motives behind someone's actions.\n\nDetect is more commonly associated with finding something through scientific or mechanical means, while discern is more associated with understanding or perceiving something using intuition or careful observation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f30f09a-4b06-4ca1-ba7f-094276291042.webp"
+        },
+        "Discover": {
+            "wordRoot": "Discover",
+            "wordDefinition": "Discover means to come across something new or previously unknown that was hidden or not visible before. For example, Christopher Columbus discovered America in 1492.\n\nOverall, while both words entail finding something, detect refers to finding something through investigation or observation, while discover refers to finding something new.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a95ab5df-8670-45e2-9fd7-8f4b1653f48c.webp"
+        },
+        "Identify": {
+            "wordRoot": "Identify",
+            "wordDefinition": "Identify means to recognize or name something that you already know or are familiar with. For example, you can identify a person you know or a plant species you have studied.\n\nDetect is used when you're trying to find something that might be hidden or not noticeable at first, while identify is used when you're trying to recognize or name something you already know.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d9232bce-3681-4269-a981-ea83ff23904c.webp"
+        },
+        "Locate": {
+            "wordRoot": "Locate",
+            "wordDefinition": "Locate means to find the exact position or place of something. For example, a GPS device can locate a person's current location on a map.\n\nDetect is used to identify the presence of something, while locate is used to find the exact location of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/16fb3124-7737-42d0-b038-bc0afbab6ccc.webp"
+        },
+        "Notice": {
+            "wordRoot": "Notice",
+            "wordDefinition": "Detect means to discover or find something that is not easily noticeable or visible, often through careful observation or analysis.\n\nNotice means to become aware of or pay attention to something that is easily noticeable, often through one's senses.\n\nFor example, a person may notice the smell of food cooking in the kitchen or notice a friend waving at them from across the room.\n\nDetect is applicable when looking for something that is hidden or not easily seen or heard, while notice is applicable when something is easily seen or heard and catches your attention.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8caa6575-1d3f-490d-b765-e78c67448dd4.webp"
+        },
+        "Perceive": {
+            "wordRoot": "Perceive",
+            "wordDefinition": "Perceive means to understand or interpret something through one's senses or intuition. It is a more nuanced concept than detection, requiring a level of interpretation and understanding.\n\nFor example, you might perceive a subtle change in your friend's mood based on their body language and tone of voice. Perceiving does not necessarily require an external stimulus, as it is more closely tied to cognitive processing.\n\nOverall, detecting is about noticing and uncovering something while perceiving is about making sense of that discovery.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bc5ceabe-4472-4b6c-9dc9-c66a2b00c953.webp"
+        },
+        "Spot": {
+            "wordRoot": "Spot",
+            "wordDefinition": "Both detect and spot mean to notice or identify something.\n\nSpot often refers to quickly noticing something obvious, like a stain on a shirt or an animal in the wild. In simpler terms, detect is used for finding something hidden or hard to find, while spot is used for quickly seeing something out in the open.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/84dabbc9-a305-46f4-8f61-e8928b50dae6.webp"
+        },
+        "Uncover": {
+            "wordRoot": "Uncover",
+            "wordDefinition": "Uncover means to reveal or expose something that was previously unknown, hidden or secret.\n\nThus, detect is used when we are looking for something that is not easily visible to the naked eye, while uncover is used when we want to reveal something that has been intentionally hidden or covered up.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dec86cab-a760-4020-b9b9-b0b8a4da1da2.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and we spent much of our history coming up with ways to detect them, from medieval torture devices to polygraphs, blood-pressure and breathing monitors, voice-stress analyzers, eye trackers, infrared brain scanners, and even the 400-pound electroencephalogram. But although such tools have worked under certain circumstances,",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " Computers and other devices use conditional probability to detect likely errors in the strings of 1's and 0's that all our data consists of. And in many of our own life decisions, we use information gained from past experience and our surroundings to narrow down our choices to the best options",
+            "Title": "Can you solve the frog...",
+            "VideoId": "cpwSGsb-rTs",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " first, to detect food that's gone bad. And second, because the more variety we have in our diet, the more likely we are to get all the nutrients we need. To keep that variety up, we need to be able to recognize a new food, and more importantly, we need to want to keep eating new foods.",
+            "Title": "How sugar affects the...",
+            "VideoId": "lEXBxijQREo",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " because it's a high-density area. You're going under a lot of buildings and houses, and if you go deep enough, you cannot detect the tunnel. Sometimes people think, well, it's going to be pretty annoying to have a tunnel dug under my house. Like, if that tunnel is dug",
+            "Title": "Elon Musk: The future...",
+            "VideoId": "zIwLWfaAg-8",
+            "Controls": "start=567"
+        },
+        {
+            "Text": " each electron on the far side is detected at a single place at a specific instant, like a particle. But if you repeat this experiment many times, keeping track of all the individual detections, you'll see them trace out a pattern that's characteristic of wave",
+            "Title": "Schrödinger's cat: A...",
+            "VideoId": "UjaAxUO6-Uw",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " before it was detected three years ago that number fell to 23 days it's a world of difference between waiting five to six months to find a new pandemic then finding it in three weeks so the key of early detection has got to be understood",
+            "Title": "Good news about...",
+            "VideoId": "jfd-RL0BZsU",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " The X chromosome, on the other hand, contains important genes for things other than sex determination or reproduction, like nervous system development, skeletal muscle function, and the receptors in the eyes that detect green light.",
+            "Title": "Secrets of the X...",
+            "VideoId": "veB31XmUQm8",
+            "Controls": "start=104"
+        },
+        {
+            "Text": " At the lower end of the spectrum, there's radio, infrared, and visible light. At the higher end are ultraviolet, X-ray, and gamma rays. Modern society is shaped by sending and detecting electromagnetic radiation.",
+            "Title": "Is radiation dangerous?...",
+            "VideoId": "zI2vRwFKnHQ",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " Ebola has never been detected on US soil. There's a first time for everything. I have a husband, two kids. We have a duty to protect them. You always fight so hard.",
+            "Title": "The Hot Zone: Official...",
+            "VideoId": "6YxNYnHTxAg",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " So important is their dam to them, that if they detect the slightest leak, usually by hearing the sound of trickling water,",
+            "Title": "Beaver Lodge Construction...",
+            "VideoId": "iyNA62FrKCE",
+            "Controls": "start=111"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-ignatius.webp",
+            "Text": "The CIA in real life, we know, is looking for new kinds of cover. It's looking for new platforms, as they like to say, and it's trying to use the revolution in communications technology, the ability to use all sorts of corporate entities in ways that are hard to detect to get our spies in the places where they need to be.",
+            "Title": "American Journalist",
+            "Name": "David Ignatius"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/margaret-chan.webp",
+            "Text": "Doctors and nurses, with their training and their experiences, they would be able to detect unusual patterns of disease. That's why we say it is important for every country to have a proper surveillance system. The function of the surveillance system is to detect unusual patterns of diseases.",
+            "Title": "Chinese Public Servant",
+            "Name": "Margaret Chan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maría-blasco-marhuenda.webp",
+            "Text": "We can detect very small differences in telomere length, and it is a very simple and fast technique where many samples can be analysed at the same time. Most importantly, we are able to determine the presence of dangerous telomeres - those that are very short.",
+            "Title": "Spanish Scientist",
+            "Name": "María Blasco Marhuenda"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "We're at a point now where we've built AI tools to detect when terrorists are trying to spread content, and 99 percent of the terrorist content that we take down, our systems flag before any human sees them or flags them for us.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/babar-azam.webp",
+            "Text": "Regions' role in detecting and developing a raw talent is no secret, as they work so hard to produce top class players who go on to represent departments, then national team, and also play in different leagues of the world.",
+            "Title": "Pakistani Athlete",
+            "Name": "Babar Azam"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elizabeth-holmes.webp",
+            "Text": "When I thought about having the greatest impact with my life, I thought about all the times people lose loved ones because diseases weren't detected early enough. I thought, 'I can play a role there.",
+            "Title": "American Businessman",
+            "Name": "Elizabeth Holmes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/asa-hutchinson.webp",
+            "Text": "But as you said, there are going to be those that have no record and cannot be detected in that capacity so that is why you have to have other layers of security.",
+            "Title": "American Lawyer",
+            "Name": "Asa Hutchinson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-wilde.webp",
+            "Text": "Perhaps, after all, America never has been discovered. I myself would say that it had merely been detected.",
+            "Title": "Irish Poet",
+            "Name": "Oscar Wilde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/margaret-cho.webp",
+            "Text": "Sometimes when we are generous in small, barely detectable ways it can change someone else's life forever.",
+            "Title": "American Comedian",
+            "Name": "Margaret Cho"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/janet-yellen.webp",
+            "Text": "It's important for the Fed, hard as it is, to attempt to detect asset bubbles while they're forming.",
+            "Title": "American Public Servant",
+            "Name": "Janet Yellen"
+        }
+    ]
+}

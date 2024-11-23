@@ -1,0 +1,373 @@
+{
+    "currentWord": {
+        "wordRoot": "commit",
+        "id": 12848,
+        "phonemic": "kəˈmɪt|kəˈmɪt\r",
+        "bigId": "3500097a-34e2-429e-a695-57176476c3b6",
+        "wordForms": [
+            "commits",
+            "committing",
+            "committed",
+            "recommit",
+            "commit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3500097a-34e2-429e-a695-57176476c3b6",
+            "de": "To do something wrong or illegal.",
+            "ty": "verb",
+            "ex": "He was arrested for committing a crime.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "commit a crime",
+                " commit theft",
+                " commit fraud"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3500097a-34e2-429e-a695-57176476c3b6.webp",
+            "Tips": [
+                {
+                    "title": "Negative Connotation",
+                    "description": "Using 'commit' with negative actions highlights the seriousness or wrongness of the act.",
+                    "example": "He was accused of committing perjury.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NjhdBpm98s1vWfg40yS1MuoZYg.webp"
+                },
+                {
+                    "title": "Legal Context",
+                    "description": "Often used in legal or formal contexts when discussing crime or violations.",
+                    "example": "The jury decided she did commit the offense.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gwuKu3YUKJxoW9fBAqRzri5v0.webp"
+                }
+            ]
+        },
+        {
+            "id": "fb2fb216-f77c-4741-97fc-5865272263ca",
+            "de": "To say that you will definitely do something or must do something.",
+            "ty": "verb",
+            "ex": "She has committed to finish the project by next week.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "commit to something",
+                " commit oneself",
+                " commit to a plan"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fb2fb216-f77c-4741-97fc-5865272263ca.webp",
+            "Tips": [
+                {
+                    "title": "Strong Promise",
+                    "description": "When 'commit' is used with 'to', it expresses a strong intention or obligation.",
+                    "example": "They committed to reducing pollution.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Formal Agreement",
+                    "description": "Particularly formal and strong compared to just saying 'I will do it'.",
+                    "example": "She committed to the contract's terms.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9f6ed1b1-5b9d-4d5d-bff8-7a290c96b13e",
+            "de": "To put someone in a hospital because of a mental illness.",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "Because of his erratic behavior, his family had him committed.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "commit someone",
+                " commit to a mental hospital",
+                " commit for treatment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9f6ed1b1-5b9d-4d5d-bff8-7a290c96b13e.webp",
+            "Tips": [
+                {
+                    "title": "Sensitive Context",
+                    "description": "Used with care due to the sensitivity of discussing mental health issues.",
+                    "example": "He voluntarily committed himself for treatment.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a0b1ab9a-5b69-4fd7-928c-777982db4e51",
+            "de": "To involve yourself or give your attention to something.",
+            "ty": "verb",
+            "ex": "I can't commit to another project right now.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "commit to a project",
+                " commit time",
+                " commit resources"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a0b1ab9a-5b69-4fd7-928c-777982db4e51.webp",
+            "Tips": [
+                {
+                    "title": "Resource Allocation",
+                    "description": "Implies a serious dedication of one's time, effort, or resources to something.",
+                    "example": "We've committed significant time to this cause.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2d7d9461-4c18-4386-af7b-49215b2c05b0",
+            "de": "To trust something to someone.",
+            "ty": "verb",
+            "ex": "They committed their secrets to us.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "commit something to someone",
+                " commit a task",
+                " commit responsibility"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2d7d9461-4c18-4386-af7b-49215b2c05b0.webp",
+            "Tips": [
+                {
+                    "title": "Trust Implication",
+                    "description": "Suggests a strong trust placed in the person receiving the commitment.",
+                    "example": "The sensitive task was committed to her care.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "10759206-5ea6-47d7-858d-2b0668f63115",
+            "de": "To perform a particular action in a computer program.",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "Please commit your changes before leaving.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "commit changes",
+                " commit updates",
+                " commit code"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/10759206-5ea6-47d7-858d-2b0668f63115.webp",
+            "Tips": [
+                {
+                    "title": "Tech Usage",
+                    "description": "Common in technology to describe saving or finalizing changes.",
+                    "example": "Developers commit code to the repository regularly.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4ce3f19e-7a73-48d4-a910-2c361fd43cfb",
+            "de": "To send or direct for treatment.",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The doctor committed the patient to a specialist.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "commit a patient",
+                " commit to a specialist",
+                " commit for care"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4ce3f19e-7a73-48d4-a910-2c361fd43cfb.webp",
+            "Tips": [
+                {
+                    "title": "Medical Referral",
+                    "description": "Indicates a professional decision to transfer a patient for specific care.",
+                    "example": "The general practitioner committed her to a cardiologist.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Consign": {
+            "wordRoot": "Consign",
+            "wordDefinition": "Consign means to entrust or hand over something to someone else's care. For example, \"I will consign this valuable painting to the auction house.\".\n\nCommit is used when you are taking responsibility for something while consign is used when you are handing over something to someone else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/43a32be2-226a-498b-bd9a-3fd4755db566.webp"
+        },
+        "Dedicate": {
+            "wordRoot": "Dedicate",
+            "wordDefinition": "To dedicate means to devote yourself to a particular cause, activity, or person. For instance, you can dedicate your time and effort to volunteering for a charity or dedicate your life to pursuing your dream career.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/38d81a3d-e5f2-46e1-af6d-aafd84037dd9.webp"
+        },
+        "Deliver": {
+            "wordRoot": "Deliver",
+            "wordDefinition": "Commit means to promise to do something, while deliver means to actually follow through and do it. Committing is only the first step of making a promise, while delivering is completing the promise.\n\nIf they say \"I will deliver on my promise to clean the dishes tonight,\" it means they will definitely do it.\n\nCommit is applicable in situations where someone wants to make a promise or indicate their intention to do something. Deliver is applicable when someone wants to convey that they have actually completed the task or promise they committed to.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af460534-3278-47eb-afbd-fa9a61532406.webp"
+        },
+        "Devote": {
+            "wordRoot": "Devote",
+            "wordDefinition": "Devote means to give one's time, effort, or attention to a particular activity, cause, or person. It implies a sense of enthusiasm or passion, and can be used in situations like devoting time to a hobby, devoting oneself to a religious practice, or devoting resources to a charitable cause.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9aea8fa1-0dcd-434c-9bc4-f39e1d18a1fe.webp"
+        },
+        "Entrust": {
+            "wordRoot": "Entrust",
+            "wordDefinition": "Entrust means to give someone or something important and valuable to take care of, often implying trust in their abilities or judgment.\n\nFor example, you might entrust your dog to a pet sitter while you're on vacation, or entrust your friend with a secret.\n\nCommit is used more broadly to refer to any type of obligation or responsibility, while entrust is used specifically for situations where trust is involved.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/655deba8-0d02-44fa-934c-3ad2706d69c0.webp"
+        },
+        "Hand over": {
+            "wordRoot": "Hand over",
+            "wordDefinition": "Hand over means to give something to someone else, often used when giving possession of something to someone who is more entitled to it or has a right to it.\n\nOn the other hand, \"He handed over the evidence to the police.\" This means that the person gave something to the police.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20672c03-38db-4012-aa08-baf2b36673bc.webp"
+        },
+        "Pledge": {
+            "wordRoot": "Pledge",
+            "wordDefinition": "Pledge also means to make a promise or commitment, but it's often used in situations where there is a sense of loyalty or dedication involved.\n\nFor example, you might pledge your allegiance to your country or pledge to do your best to support a friend in need.\n\nPledge is often used in a more formal setting such as making a pledge to donate money to a charity.\n\nCommit is used when there is a responsibility or obligation involved, while pledge is used when there is a sense of loyalty or dedication involved.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ddd6100c-c831-4593-abbd-8cb6ef833728.webp"
+        },
+        "Promise": {
+            "wordRoot": "Promise",
+            "wordDefinition": "Promise means to make a declaration that you will do or not do something. It implies a sense of assurance to another person or group that you will keep your word, no matter what.\n\nPromise describes statements or commitments made to others. For example, a person could promise to pick up their friend from the airport or promise to be more honest in their relationships.\n\nOverall, while the two words have some overlap, commit typically describes actions and promise typically describes statements or declarations made to others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/31b7898b-f8d5-4a93-a88c-cf025210f771.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " breathtaking basically yeah and and and yeah so so your vision is to commit tesla to try to deliver on a meaningful percentage of what is needed yeah and what and call on others to do the rest that this is what this is a task for humanity to massively scale up our",
+            "Title": "Elon Musk talks Twitter,...",
+            "VideoId": "cdZZpaB2kDM",
+            "Controls": "start=2479"
+        },
+        {
+            "Text": " endless group projects and there was even a lonely young guy who decided not to commit suicide because he finally realized there was a place for him in this world and today believe it or not he's happy he's productive he's in a loving marriage so it turns out that",
+            "Title": "Blueprint for a quiet...",
+            "VideoId": "l1SM9NxxmJo",
+            "Controls": "start=148"
+        },
+        {
+            "Text": " The truth is that many people are susceptible not only to the temptation to commit fraud but to convincing themselves that they've done nothing wrong. So why does fraud happen? While individual motivations may differ from case to case, the fraud triangle,",
+            "Title": "How people rationalize...",
+            "VideoId": "Tb6QX9Yy1GM",
+            "Controls": "start=29"
+        },
+        {
+            "Text": " series we will be visiting the people on the front line of conservation here and around the world the people that are ensuring our wildlife stands a fighting chance we have traveled to the heart of devon where a team of committed conservationists",
+            "Title": "Saving an Iconic Bird of...",
+            "VideoId": "_ER2ss9R2oY",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " Afraid of being eaten, or just to avoid further suffering, they committed suicide or starved themselves, believing that in death, their souls would return home. Those who survived were completley dehumanized, treated as mere cargo.",
+            "Title": "The Atlantic slave...",
+            "VideoId": "3NXC4Q_4JVg",
+            "Controls": "start=198"
+        },
+        {
+            "Text": " thanks to uk wide organizations and committed individuals the uk continues to play a vital part in taking care of the globally important population of grey seals with their steadfast approach of rehabilitating and releasing these",
+            "Title": "Rescuing Adorable Grey...",
+            "VideoId": "rXNVmpWRwkQ",
+            "Controls": "start=499"
+        },
+        {
+            "Text": " who must be convinced that he has lived a righteous life. Ani approaches each one, addressing them by name, and declaring a sin he has not committed. Among these negative confessions, or declarations of innocence,",
+            "Title": "The Egyptian Book of the...",
+            "VideoId": "1yv_MXNYbAo",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " I always during her life wanted to improve our cutting improve our imaging now I've got to do what I said I would do and that is do the best we can at imaging her because that's what I committed to",
+            "Title": "How a Woman's Donated...",
+            "VideoId": "w-hhQNXQawU",
+            "Controls": "start=774"
+        },
+        {
+            "Text": " It can help us determine when a work was written, whether an ancient text is a forgery, whether a student has committed plagiarism, or if that email you just received is of a high priority or spam.",
+            "Title": "Did Shakespeare write...",
+            "VideoId": "K-aAUwAFZlQ",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " once a mother commits herself she commits ofoh and there will be nothing she can do to help it",
+            "Title": "The Life Story...",
+            "VideoId": "v3jbM_baHb4",
+            "Controls": "start=486"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-m-nixon.webp",
+            "Text": "Let us begin by committing ourselves to the truth to see it like it is, and tell it like it is, to find the truth, to speak the truth, and to live the truth.",
+            "Title": "American President",
+            "Name": "Richard M. Nixon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aesop.webp",
+            "Text": "Every truth has two sides; it is as well to look at both, before we commit ourselves to either.",
+            "Title": "Greek Author",
+            "Name": "Aesop"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francois-de-la-rochefoucauld.webp",
+            "Text": "All the passions make us commit faults; love makes us commit the most ridiculous ones.",
+            "Title": "French Writer",
+            "Name": "Francois de La Rochefoucauld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-cruise.webp",
+            "Text": "Saddam has committed many crimes against humanity and against his own people.",
+            "Title": "American Actor",
+            "Name": "Tom Cruise"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lata-mangeshkar.webp",
+            "Text": "One has to be fully committed to one's career. Otherwise, there's no point.",
+            "Title": "Indian Musician",
+            "Name": "Lata Mangeshkar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/h-g-bissinger.webp",
+            "Text": "Committing unnecessary surgeries is very, very rare. And it's very wrong.",
+            "Title": "American Journalist",
+            "Name": "H. G. Bissinger"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-abagnale.webp",
+            "Text": "Mostly, cybercriminals are motivated to commit crime for financial gain.",
+            "Title": "American Celebrity",
+            "Name": "Frank Abagnale"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/holly-willoughby.webp",
+            "Text": "If I do something, I commit. Otherwise you spread yourself too thin.",
+            "Title": "English Celebrity",
+            "Name": "Holly Willoughby"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jamshyd-godrej.webp",
+            "Text": "Godrej is committed towards improving quality of life in society.",
+            "Title": "Indian Businessman",
+            "Name": "Jamshyd Godrej"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-pryce.webp",
+            "Text": "When you play a character, you commit yourself to their beliefs.",
+            "Title": "Welsh Actor",
+            "Name": "Jonathan Pryce"
+        }
+    ]
+}

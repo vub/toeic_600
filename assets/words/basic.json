@@ -1,0 +1,311 @@
+{
+    "currentWord": {
+        "wordRoot": "basic",
+        "id": 6490,
+        "phonemic": "ˈbeɪsɪk|ˈbeɪsɪk\r",
+        "bigId": "546fbd7a-6595-4fb2-844d-9c44c0d545ff",
+        "wordForms": [
+            "basics",
+            "basically",
+            "basic"
+        ]
+    },
+    "senses": [
+        {
+            "id": "546fbd7a-6595-4fb2-844d-9c44c0d545ff",
+            "de": "Fundamental, the core or essential part of something",
+            "ty": "adjective",
+            "ex": "He needs to learn the basic principles of science.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "basic principles",
+                " basic skills",
+                " basic needs"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/546fbd7a-6595-4fb2-844d-9c44c0d545ff.webp",
+            "Tips": [
+                {
+                    "title": "Underlying Necessity",
+                    "description": "Understand 'basic' means what is needed at the very least for understanding or functioning.",
+                    "example": "Learning to add and subtract is basic in math.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kUBMfQZ7IK3cRlRWYPPxe0V0.webp"
+                },
+                {
+                    "title": "Not Optional",
+                    "description": "'Basic' in this sense underlines something that cannot be skipped or ignored.",
+                    "example": "Basic hygiene can't be overlooked.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/oG5xtAAStpM6DIDlgQdvoMBnhU.webp"
+                }
+            ]
+        },
+        {
+            "id": "05ed9e77-8c36-46e2-a9a4-d6350a794b80",
+            "de": "Simple and not very sophisticated or advanced",
+            "ty": "adjective",
+            "ex": "This is a basic model with no advanced features.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "basic model",
+                " basic version",
+                " basic plan"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/05ed9e77-8c36-46e2-a9a4-d6350a794b80.webp",
+            "Tips": [
+                {
+                    "title": "Lacks Complexity",
+                    "description": "'Basic' here implies the item or concept is straightforward and easy to understand.",
+                    "example": "That phone is pretty basic, it just calls and texts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Starting Point",
+                    "description": "Signifies a good starting point for beginners due to its simplicity.",
+                    "example": "Start with a basic recipe if you're new to cooking.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "00489444-c7a9-4362-9609-2d3e52848450",
+            "de": "Belonging to the first or starting level of something",
+            "ty": "adjective",
+            "ex": "He has a basic understanding of the concept.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "basic level",
+                " basic understanding",
+                " basic knowledge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/00489444-c7a9-4362-9609-2d3e52848450.webp",
+            "Tips": [
+                {
+                    "title": "First Step",
+                    "description": "Emphasizes beginning at the most elementary level for newcomers.",
+                    "example": "His basic knowledge of French vocabulary helps him understand simple texts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Foundation Layer",
+                    "description": "Highlights 'basic' as the essential foundation upon which more learning is built.",
+                    "example": "Master the basic chords before trying complex music pieces.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1745c171-4938-4206-b4fc-d2c3ea65d4cf",
+            "de": "In the field of chemistry, referring to a substance that can neutralize acids.",
+            "do": "Chemical",
+            "ty": "adjective",
+            "ex": "Soap is a basic substance.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "basic substance",
+                " basic solution"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1745c171-4938-4206-b4fc-d2c3ea65d4cf.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Context",
+                    "description": "Remember 'basic' in chemistry has a specific meaning related to pH levels.",
+                    "example": "The solution turned blue, indicating it was basic.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not about Simplicity",
+                    "description": "'Basic' in science doesn't refer to simplicity but to a property of substances that is measured.",
+                    "example": "If an acid is added to a basic liquid, it neutralizes it.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Elementary": {
+            "wordRoot": "Elementary",
+            "wordDefinition": "Elementary has a similar meaning, but it usually refers to things that are more specifically related to a particular subject.\n\nFor example, you might take an elementary-level course in biology, which would cover the basic concepts and principles of biology.\n\nBasic is a more general term that can apply to many different subjects or topics, while elementary is more specific and describes things that are specifically related to a particular subject.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9b7d4313-196b-4b60-a8bb-960c66bfc9be.webp"
+        },
+        "Essential": {
+            "wordRoot": "Essential",
+            "wordDefinition": "Essential refers to something that is absolutely necessary or vital. It implies that something cannot proceed or exist without it.\n\nFor example, air, water, and food are essential for survival.\n\nBasic refers to something that is fundamental or necessary to have a foundation on something, while essential refers to something that is absolutely necessary or vital for something to happen or exist.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8cc1da05-187c-4a8f-b15c-589129dd2b91.webp"
+        },
+        "Foundation": {
+            "wordRoot": "Foundation",
+            "wordDefinition": "Foundation refers to the underlying support or basis upon which something is built or established.\n\nFor example, a strong foundation is necessary for a building to be stable and secure. In this sense, foundation implies a deeper, more comprehensive understanding or framework upon which further knowledge or skills can be built.\n\nBasic refers to a minimum level of knowledge or skills, while foundation refers to a deeper understanding and framework for building upon that knowledge or skills.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/895aabff-883e-4978-a168-56cd4416efd9.webp"
+        },
+        "Fundamental": {
+            "wordRoot": "Fundamental",
+            "wordDefinition": "Fundamental refers to something that is essential, necessary, or foundational. It implies that the thing in question is a key element that supports or underpins something else.\n\nFor example, the fundamental principles of mathematics are key to understanding complex theories in engineering or physics.\n\nBasic refers to something simple or easy to understand, while fundamental refers to something essential or foundational.\n\nBasic concepts are often learned first before moving onto more fundamental ideas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/600feace-98c4-4000-8328-2ba18f425170.webp"
+        },
+        "Primary": {
+            "wordRoot": "Primary",
+            "wordDefinition": "Primary means the first or most important in a series or hierarchy. For example, primary education or primary sources.\n\nBasic refers to the essential fundamentals of something, while primary refers to the most important or significant aspect of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f71e3ba8-a288-4bc0-8c61-84c145df9e29.webp"
+        },
+        "Rudimentary": {
+            "wordRoot": "Rudimentary",
+            "wordDefinition": "Rudimentary means something that is very basic or undeveloped, and often implies that the thing in question is not yet fully formed or functional.\n\nFor example, \"rudimentary language skills\" might refer to someone who can only speak a few basic words.\n\nBoth words can describe something that is simple or fundamental, but basic tends to imply a certain level of competence or proficiency, while rudimentary suggests a lack of sophistication or refinement.\n\nBasic is more commonly used in everyday speech, while rudimentary is often used in more specialized contexts or in technical writing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4be303c8-2150-4297-b7d2-45f751839ed3.webp"
+        },
+        "Simple": {
+            "wordRoot": "Simple",
+            "wordDefinition": "Basic means fundamental or essential, while the word simple means easy to understand or do. For example, a basic understanding of math is necessary to do well in school, while a simple recipe is easy to follow.\n\nBasic refers to the underlying principles or foundation of something, while simple refers to the complexity or difficulty of a task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/60924687-7a6e-4d49-bc07-8c0a56709034.webp"
+        },
+        "Standard": {
+            "wordRoot": "Standard",
+            "wordDefinition": "Standard typically means a level of quality or excellence that is widely accepted or expected.\n\nA standard can apply to a product, service or process.\n\nIt is something that is considered to be the norm or benchmark. For example, if a restaurant has high standards for food quality and customer service, they will likely have a reputation for being one of the best in their area.\n\nBasic refers to something that is necessary or essential, while standard refers to a level of quality or excellence that is widely accepted or expected.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b586dd57-f4f9-48f6-a898-11ad2218a97a.webp"
+        },
+        "Undemanding": {
+            "wordRoot": "Undemanding",
+            "wordDefinition": "Basic means something that is essential or fundamental, while the word undemanding means something that is easy or not challenging.\n\nUndemanding applies to things that do not require much effort or skill. For example, watching an undemanding movie is something that does not require much thought or attention.\n\nBasic refers to something necessary or fundamental while undemanding refers to something that is easy or requires little effort.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ee562f08-dede-4c77-972f-fc45ce113b4b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " or not doing well on a test, eats up working memory, leaving less of it available to tackle the math itself. People can suddenly struggle with even basic math skills, like arithmetic, that they've otherwise mastered. Academic anxiety certainly isn't limited to math, but it does seem to happen much more frequently,",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=76"
+        },
+        {
+            "Text": " sometimes even outwitting the researchers and manipulating their partners. And they've grasped basic arithmetic, keeping track of the relative amounts of fruit in two baskets after multiple changes. The rare combination of memory and problem solving can explain some of elephants' most clever behaviors,",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=162"
+        },
+        {
+            "Text": " probably learned their lines from a script, which essentially tells them what to say and when to say it. A piece of written music operates on exactly the same principle. In a very basic sense, it tells a performer what to play and when to play it. Aesthetically speaking, there's a world of difference",
+            "Title": "How to read music - Tim...",
+            "VideoId": "ZN41d7Txcq0",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " But while chimps across the world only have a limited repertoire of vocalizations, they constantly invent and share new gestures with each other. One theory basically is that they imitate gestures from each other. They learned their gestures by interacting with others.",
+            "Title": "How to Speak Chimpanzee...",
+            "VideoId": "NBFBbFcixRY",
+            "Controls": "start=188"
+        },
+        {
+            "Text": " Think about Machine intelligence is the last invention that humanity will ever need to make. Machines will then be better at inventing than we are, and they'll be doing so on digital timescales. What this means is basically a telescoping of the future.",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=462"
+        },
+        {
+            "Text": " The myth captures the basic idea of narcissism, elevated and sometimes detrimental self-involvement. But it's not just a personality type that shows up in advice columns. It's actually a set of traits classified and studied by psychologists.",
+            "Title": "The psychology of...",
+            "VideoId": "arJLy3hX1E8",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " most cults share some basic characteristics. A typical cult requires a high level of commitment from its members and maintains a strict hierarchy, separating unsuspecting supporters and recruits from the inner workings.",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=111"
+        },
+        {
+            "Text": " Here are some questions and methods I've used to help build the worlds in which those books take place. I start with a basic place and time. Whether that's a fantasy world or a futuristic setting in the real world,",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=187"
+        },
+        {
+            "Text": " even though you have go through all this it's hard to really describe the importance of a face but being able to kiss being able to show emotion those are basic parts that we take from an",
+            "Title": "Watch One Family's...",
+            "VideoId": "fFua9-Rc4pw",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " that I was going to be genies chess is a game that you can learn the basic rules in about 15 minutes but it has more combinations than atoms in the universe",
+            "Title": "Giving checkmate is...",
+            "VideoId": "z-ttu7dyBCU",
+            "Controls": "start=7"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elon-musk.webp",
+            "Text": "Particularly Instagram, people look like they have a much better life than they really do. People basically seem like they are way better-looking than they really are, and they are way happier-seeming than they really are.",
+            "Title": "South African Businessman",
+            "Name": "Elon Musk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-nicholson.webp",
+            "Text": "Because you know, down deep in my heart, when all is said and done, I still live under the illusion that basically people think of me as an up-and-coming young actor.",
+            "Title": "American Actor",
+            "Name": "Jack Nicholson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/warren-buffett.webp",
+            "Text": "Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you.",
+            "Title": "American Businessman",
+            "Name": "Warren Buffett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronald-reagan.webp",
+            "Text": "Protecting the rights of even the least individual among us is basically the only excuse the government has for even existing.",
+            "Title": "American President",
+            "Name": "Ronald Reagan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aretha-franklin.webp",
+            "Text": "We all require and want respect, man or woman, black or white. It's our basic human right.",
+            "Title": "American Musician",
+            "Name": "Aretha Franklin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/simon-sinek.webp",
+            "Text": "The most basic human desire is to feel like you belong. Fitting in is important.",
+            "Title": "English Author",
+            "Name": "Simon Sinek"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/haris-pasovic.webp",
+            "Text": "Culture is a part of basic human nature, of deep humanity.",
+            "Title": "Bosniak Director",
+            "Name": "Haris Pasovic"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joseph-addison.webp",
+            "Text": "Reading is a basic tool in the living of a good life.",
+            "Title": "English Writer",
+            "Name": "Joseph Addison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hugh-grant.webp",
+            "Text": "Basically, my life is so boring, it's embarrassing.",
+            "Title": "English Actor",
+            "Name": "Hugh Grant"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/floyd-mayweather-jr.webp",
+            "Text": "I basically raised myself.",
+            "Title": "American Boxer",
+            "Name": "Floyd Mayweather, Jr."
+        }
+    ]
+}

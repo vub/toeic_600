@@ -1,0 +1,111 @@
+{
+    "currentWord": {
+        "wordRoot": "checkout",
+        "id": 0,
+        "phonemic": "ˈtʃɛkaʊt",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID2",
+            "de": "The action or process of paying for goods or services purchased at a store.",
+            "ty": "noun",
+            "ex": "Please proceed to the checkout to pay for your groceries.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "express checkout",
+                "self-checkout kiosk",
+                "checkout line",
+                "checkout counter",
+                "online checkout",
+                "checkout process"
+            ],
+            "ImageSrc": "./senses/2f07df47-b60e-4454-9633-f4d44128c1fa.webp",
+            "Tips": [
+                {
+                    "title": "At a physical store",
+                    "description": "Use 'checkout' to refer to the area designated for paying.",
+                    "example": "The checkout line was long on Saturday.",
+                    "imageUrl": "./tips/db78350b-5043-46c0-af40-fdbc27a4bbd7.webp"
+                },
+                {
+                    "title": "Online Shopping",
+                    "description": "Use 'checkout' to describe the process of finalizing an online purchase.",
+                    "example": "I abandoned my online shopping cart during checkout.",
+                    "imageUrl": "./tips/8825209b-b70c-4c15-a360-d0b98ecb8308.webp"
+                }
+            ]
+        },
+        {
+            "id": "UUID3",
+            "de": "The time by which someone must leave a hotel room or other rented accommodation.",
+            "ty": "noun",
+            "ex": "Hotel checkout is at 11 AM.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "late checkout",
+                "early checkout",
+                "checkout time"
+            ],
+            "ImageSrc": "./senses/2233e53b-65c4-4a31-98fc-c055c831e9be.webp",
+            "Tips": [
+                {
+                    "title": "Hotel Stays",
+                    "description": "Use 'checkout' to refer to the designated time for vacating a hotel room.",
+                    "example": "We requested a late checkout so we could enjoy the hotel amenities a bit longer.",
+                    "imageUrl": "./tips/d8ec526f-5760-4d96-a818-f555b889c250.webp"
+                }
+            ]
+        },
+        {
+            "id": "UUID4",
+            "de": "The act of borrowing something, especially a library book.",
+            "ty": "noun",
+            "ex": "The librarian scanned my books at the checkout desk.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "checkout desk",
+                "checkout system"
+            ],
+            "ImageSrc": "./senses/4dc2ad79-b2a2-4fc5-9443-ba51d3bd55b6.webp",
+            "Tips": [
+                {
+                    "title": "Library Borrowing",
+                    "description": "Use 'checkout' to refer to borrowing books or other materials from a library.",
+                    "example": "The maximum checkout period for this book is two weeks.",
+                    "imageUrl": "./tips/8d931268-5bb1-42b9-bc57-327bfa0d91a2.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "payment": {
+            "wordRoot": "payment",
+            "wordDefinition": "'Checkout' refers to the process, while 'payment' refers to the actual transfer of money.",
+            "wordImage": ""
+        },
+        "departure": {
+            "wordRoot": "departure",
+            "wordDefinition": "In the context of hotels, 'checkout' is a specific type of departure related to the formal process of leaving and settling the bill.",
+            "wordImage": ""
+        },
+        "borrowing": {
+            "wordRoot": "borrowing",
+            "wordDefinition": "In a library context, 'checkout' is the specific term used for borrowing materials.",
+            "wordImage": ""
+        }
+    }
+}

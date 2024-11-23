@@ -1,0 +1,378 @@
+{
+    "currentWord": {
+        "wordRoot": "remote",
+        "id": 12515,
+        "phonemic": "rɪˈməʊt|rɪˈməʊt\r",
+        "bigId": "fcdccecc-49af-4cf8-b71d-6019b4f66f4f",
+        "wordForms": [
+            "remoter",
+            "remotest",
+            "remotely",
+            "remoteness",
+            "remotes",
+            "remote"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fcdccecc-49af-4cf8-b71d-6019b4f66f4f",
+            "de": "Far away in distance or time",
+            "ty": "adjective",
+            "ex": "The remote island can only be reached by boat",
+            "use": "",
+            "sy": "",
+            "re": "Neutral",
+            "tp": "",
+            "cl": [
+                "remote island",
+                " remote village",
+                " remote past"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fcdccecc-49af-4cf8-b71d-6019b4f66f4f.webp",
+            "Tips": [
+                {
+                    "title": "Physical Distance",
+                    "description": "Used to describe places far from population centers or hard to reach.",
+                    "example": "Her cottage is nestled in a remote part of the highlands.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/vfZwC2yrDF6njPAd3u8bbkh7y90.webp"
+                },
+                {
+                    "title": "Temporal Distance",
+                    "description": "Indicates something from a long time ago, often historical.",
+                    "example": "They studied the customs of a remote era.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/LLU9ztuujIxaL6GOhv2xNM3NYs.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7174c06d-75d2-4f6b-a889-7978dac7e8ff",
+            "de": "Having very little connection with or relationship to",
+            "ty": "adjective",
+            "ex": "The chance of him getting the job is remote",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Neutral",
+            "tp": "",
+            "cl": [
+                "remote chance",
+                " remote possibility",
+                " remote consequence"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7174c06d-75d2-4f6b-a889-7978dac7e8ff.webp",
+            "Tips": [
+                {
+                    "title": "Likelihood",
+                    "description": "Suggests a very low chance of something happening.",
+                    "example": "There's a remote possibility of rain in the desert.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Detachment",
+                    "description": "Can be used to describe a lack of emotional connection.",
+                    "example": "He seemed remote during the party, hardly speaking to anyone.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9f36dac4-512b-4612-9001-2bcd5b8803d0",
+            "de": "A device that controls an apparatus or machine from a distance",
+            "do": "Technical",
+            "ty": "noun",
+            "ex": "She picked up the remote and changed the channel on the TV",
+            "use": "",
+            "sy": "",
+            "re": "Neutral",
+            "tp": "",
+            "cl": [
+                "remote control",
+                " tv remote",
+                " drone remote"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9f36dac4-512b-4612-9001-2bcd5b8803d0.webp",
+            "Tips": [
+                {
+                    "title": "Technical Object",
+                    "description": "Refers to an electronic gadget for controlling other devices.",
+                    "example": " \r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Everyday Use",
+                    "description": "Often used in daily life relating to television or other electronics.",
+                    "example": "Can you pass me the remote? I want to switch the channel.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "036de193-27a3-473c-80a9-35d4e88cdc7e",
+            "de": "Operated, done, or triggered by means of radio or infrared signal",
+            "do": "Technical",
+            "ty": "adjective",
+            "ex": "The bomb was detonated by remote control",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Neutral",
+            "tp": "",
+            "cl": [
+                "remote control",
+                " remote sensing",
+                " remote device"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/036de193-27a3-473c-80a9-35d4e88cdc7e.webp",
+            "Tips": [
+                {
+                    "title": "Wireless Technology",
+                    "description": "Associated with operating something from a distance using technology.",
+                    "example": "The gates open with a remote sensor.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Automation",
+                    "description": "Can imply the absence of human operation at the moment of action.",
+                    "example": "His new car features remote start capability.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "078c4b2f-00ae-4f22-971b-91a76a6e47ba",
+            "de": "Far off or retired; unseen; not obvious",
+            "ty": "adjective",
+            "ex": "The remote corners of the kingdom were the last to be explored",
+            "use": "",
+            "co": "Literary",
+            "re": "Neutral",
+            "tp": "",
+            "cl": [
+                "remote corners",
+                " remote areas",
+                " remote outposts"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/078c4b2f-00ae-4f22-971b-91a76a6e47ba.webp",
+            "Tips": [
+                {
+                    "title": "Unexplored Places",
+                    "description": "Refers to areas that are rarely visited or little-known.",
+                    "example": "Adventurers set out for the remote regions of the Amazon.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Obscure Reference",
+                    "description": "Used when something is not immediately recognizable or known.",
+                    "example": "She made a remote reference to an old folk song.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "773a567b-9fe6-49ca-a870-88f7631d85f8",
+            "de": "Not easily approached, accessed, or used",
+            "ty": "adjective",
+            "ex": "The location is remote, but beautiful",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Neutral",
+            "tp": "",
+            "cl": [
+                "remote location",
+                " remote area",
+                " remote place"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/773a567b-9fe6-49ca-a870-88f7631d85f8.webp",
+            "Tips": [
+                {
+                    "title": "Limited Access",
+                    "description": "Highlights the difficulty of reaching a certain location.",
+                    "example": "The ancient ruins are in a remote jungle inaccessible by car.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Exclusivity",
+                    "description": "Sometimes implies a place is special due to its isolation.",
+                    "example": "We enjoyed our stay at a remote private beach.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Approachable": {
+            "wordRoot": "Approachable",
+            "wordDefinition": "Approachable means friendly and easy to talk to, while the word remote means distant and unapproachable. Approachable is applicable when describing a person who is easy to approach and talk to, while remote is applicable when describing something or someone who is distant and difficult to reach or communicate with.\n\nFor example, a teacher who is open to questions and approachable is easy to talk to, while a boss who is aloof and remote is difficult to talk to or approach.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8263d5ca-af41-457c-b6ea-cc5d58663836.webp"
+        },
+        "Distant": {
+            "wordRoot": "Distant",
+            "wordDefinition": "Distant generally refers to something that is far away in physical space, or refers to a relationship between people, places or things that is not close or intimate.\n\nFor example, 'I have a distant relative who lives on the other side of the world.'\n\nOverall, both words describe things that are far away, but distant generally refers to physical or social distance while remote is more often used to convey a feeling of seclusion or difficulty in getting there.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0a599040-0ef6-4bd2-ba7e-aacff189d957.webp"
+        },
+        "Faraway": {
+            "wordRoot": "Faraway",
+            "wordDefinition": "Faraway refers to a location that is physically distant from where you are right now. For example, if you are in New York and you think of Australia as being faraway because it is on the other side of the world.\n\nFaraway refers to physical distance, while remote refers to accessibility and proximity to civilization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/48183677-68d0-425b-92c9-44899027afc6.webp"
+        },
+        "Inaccessible": {
+            "wordRoot": "Inaccessible",
+            "wordDefinition": "Inaccessible means something cannot be reached or accessed easily. For example, a high-security government facility can be described as inaccessible because it is difficult to enter or access without clearance.\n\nBoth words can describe places or objects that are difficult to reach or far away, but inaccessible refers more to the difficulty of access while remote refers more to the distance away.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4eb39aa0-c82a-4760-ae6c-06106699c323.webp"
+        },
+        "Isolate": {
+            "wordRoot": "Isolate",
+            "wordDefinition": "Isolate means to separate or keep something or someone apart from others. For example, if someone is diagnosed with a contagious disease, they may need to be isolated in a hospital room so they don't spread the disease to other people.\n\nIn general, isolating someone or something is a deliberate action to keep them away from others for safety or privacy reasons.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a547d09e-0155-4998-af18-4e992bf8950b.webp"
+        },
+        "Off the beaten track": {
+            "wordRoot": "Off the beaten track",
+            "wordDefinition": "The phrase off the beaten track means a place that is not commonly visited or well-known. It could be a hidden gem that is not frequently visited by tourists.\n\nOff the beaten track describes a less-known location that is not commonly visited, while remote describes a location that is far away and difficult to access.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62ce446c-aefd-47dc-9801-b64bb728533d.webp"
+        },
+        "Outlying": {
+            "wordRoot": "Outlying",
+            "wordDefinition": "Outlying refers to something that is located at the edge or fringes of a certain area or region. It suggests that the place is still connected to the main area, but is on the outskirts.\n\nFor example, an outlying village is a settlement on the edge of a town or city.\n\nOutlying suggests a location on the fringes, while remote suggests a location that is far and difficult to reach.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ab5548b-9f5c-4b01-bda6-fe23c1089879.webp"
+        },
+        "Remove": {
+            "wordRoot": "Remove",
+            "wordDefinition": "Remove means to take something away from a particular place or position. For example, you remove your shoes before entering someone's home or you can remove a stain from clothes by washing them.\n\nRemote refers to distance, while remove refers to taking something away.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0df8eca2-983b-4d49-b562-ff59cd1229f2.webp"
+        },
+        "Secluded": {
+            "wordRoot": "Secluded",
+            "wordDefinition": "Secluded refers to a place that is hidden or protected from view or outside influences. For example, a secluded beach might be hard to access or hidden from the main tourist areas.\n\nRemote refers to distance and isolation, while secluded refers to privacy and seclusion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/68f0e551-a96a-4b3d-8838-dff40437a8d9.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And some of the most popular places for this practice are located not on remote, tropical tax shelters, but within the same advanced nations which claim to be leading the fight for global financial transparency. But still, it's a fight worth fighting. Closing the legal loopholes that enable anonymous companies",
+            "Title": "How exposing anonymous...",
+            "VideoId": "FyOVMqAIFw8",
+            "Controls": "start=201"
+        },
+        {
+            "Text": " And we try to do it as much as possible because otherwise we wouldn't see each other very much. So, our journey to get to this rock art began with a chartered flight to a remote community and then a good part of a day on a dirt track in a four-wheel drive vehicle. Not really out of the ordinary",
+            "Title": "Amy Toensing: The...",
+            "VideoId": "Y4PMZtRYmMs",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " The truth is shedding pounds in the long run simply doesn't have a quick-fix solution. Not all diet crazes tout weight loss. What about claims of superfoods, cleanses, and other body-boosting solutions? Marketing emphasizes the allure of products associated with ancient and remote cultures",
+            "Title": "How to spot a fad diet -...",
+            "VideoId": "8V15Z-yyiVg",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " but most importantly, I couldn't believe we were finding perfect waves in such a remote and rugged part of the world. At one point, we got to the beach only to find massive chunks of ice had piled on the shoreline. They created this barrier between us and the surf,",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=278"
+        },
+        {
+            "Text": " in terms of accessibility play the secret about the whole thing was that if somebody in her life knew how to easily adapt the toy she could participate she could be an active participant in play she could make that remote control car",
+            "Title": "Accessible fart machines...",
+            "VideoId": "-We84cxubCY",
+            "Controls": "start=77"
+        },
+        {
+            "Text": " and now if i turn on the lights of the submersible we may catch a glimpse of one of these strange deep sea creatures as it drifts by the pilot has remote controls for the camera outside the sub to search for them in the blackness",
+            "Title": "What's Hiding in the...",
+            "VideoId": "TDNrM0Nt1Q0",
+            "Controls": "start=529"
+        },
+        {
+            "Text": " to do deep sea science we use a suite of tools so things like remotely operated vehicles or rovs these can be about the size of a car but you don't go in them and they're attached to the ship by a tether and",
+            "Title": "The Astronaut of the...",
+            "VideoId": "RXpMSsvhcmQ",
+            "Controls": "start=115"
+        },
+        {
+            "Text": " Yet, this remote zone is also one of the greatest habitats on Earth, harboring a huge diversity of life, from giant squids and goblin sharks to minuscule animals smaller than a millimeter.",
+            "Title": "The otherworldly...",
+            "VideoId": "U69LIr0OrNc",
+            "Controls": "start=19"
+        },
+        {
+            "Text": " also how tough it is for animals to survive in such a remote and hostile environment but very importantly i wanted to show just how fragile the continent is",
+            "Title": "The Antarctic's...",
+            "VideoId": "gUshuh4YwkI",
+            "Controls": "start=456"
+        },
+        {
+            "Text": " trees remote secluded and a stone's throw from rich atlantic fishing grounds it attracts one of the world's most charismatic birds",
+            "Title": "Bizarre Mating Ritual Of...",
+            "VideoId": "dhX8TI1bcy4",
+            "Controls": "start=41"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gillian-tans.webp",
+            "Text": "If you run a global business, it's so important that you understand what happens in each place, and you can't do that remotely. I don't want to go anywhere and leave and not have seen the people who work for us. That doesn't feel good.",
+            "Title": "American Businesswoman",
+            "Name": "Gillian Tans"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuri-milner.webp",
+            "Text": "It is hard to think of practical applications of the black hole. Because practical applications are so remote, many people assume we should not be interested. But this quest to understand the world is what defines us as human beings.",
+            "Title": "Russian Businessman",
+            "Name": "Yuri Milner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/r-a-salvatore.webp",
+            "Text": "I loved to read and to write, but then something happened. As I made my way through school, I kept getting handed books to read that didn't excite me and didn't even remotely connect to the realities of my life.",
+            "Title": "American Author",
+            "Name": "R. A. Salvatore"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/booker-t-washington.webp",
+            "Text": "Success in life is founded upon attention to the small things rather than to the large things; to the every day things nearest to us rather than to the things that are remote and uncommon.",
+            "Title": "American Educator",
+            "Name": "Booker T. Washington"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-harrison.webp",
+            "Text": "I used to have this illusion that time and remote areas prepare you for the world. Our moms used to think that kind of thing. Well, it doesn't prepare you for the world at all!",
+            "Title": "American Writer",
+            "Name": "Jim Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/phil-mcgraw.webp",
+            "Text": "I do not believe, even remotely, that you have to have a partner in your life in order to be whole, in order to be complete, in order to be fulfilled. You just don't have to.",
+            "Title": "American Psychologist",
+            "Name": "Phil McGraw"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicole-krauss.webp",
+            "Text": "What interests me in writing a novel is taking really remote voices, characters, and stories and beginning to create some kind of web.",
+            "Title": "American Author",
+            "Name": "Nicole Krauss"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kristian-nairn.webp",
+            "Text": "I never thought people would be remotely interested in my silly little life, but I'm really glad that they are.",
+            "Title": "Irish Actor",
+            "Name": "Kristian Nairn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ewan-mcgregor.webp",
+            "Text": "It's just fantastic to go out and meet people in the world and get to really remote places.",
+            "Title": "Scottish Actor",
+            "Name": "Ewan McGregor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joanna-krupa.webp",
+            "Text": "Helping others is the key duty for everyone on this earth who is remotely capable to do so.",
+            "Title": "American Model",
+            "Name": "Joanna Krupa"
+        }
+    ]
+}

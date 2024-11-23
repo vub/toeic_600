@@ -1,0 +1,349 @@
+{
+    "currentWord": {
+        "wordRoot": "instrument",
+        "id": 12571,
+        "phonemic": "ˈɪnstrəmənt|ˈɪnstrəmənt\r",
+        "bigId": "edcec604-ef42-41c2-9c22-aa3b4d04998a",
+        "wordForms": [
+            "instruments",
+            "instrument"
+        ]
+    },
+    "senses": [
+        {
+            "id": "edcec604-ef42-41c2-9c22-aa3b4d04998a",
+            "de": "A tool or device used for a specific task, mainly to make or mend things.",
+            "ty": "noun",
+            "ex": "He uses a variety of instruments to fix the car.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "surgical instrument",
+                " precision instrument",
+                " musical instrument"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/edcec604-ef42-41c2-9c22-aa3b4d04998a.webp",
+            "Tips": [
+                {
+                    "title": "Practical Use",
+                    "description": "Focus on the physical tasks 'instrument' can perform, like cutting or measuring.",
+                    "example": "He picked up the instrument to tighten the screws.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/f7Cgi3RH9qNgMKI2rtAYJy3Awt8.webp"
+                },
+                {
+                    "title": "Tangible Objects",
+                    "description": "'Instrument' refers to items you can actually touch, not abstract tools.",
+                    "example": "The dentist's instruments were sterilized before use.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tJAOwOB4bF9eq2MJuAUnuodUIk.webp"
+                },
+                {
+                    "title": "Specificity",
+                    "description": "'Instrument' often indicates a specialized object designed for particular tasks.",
+                    "example": "A carpenter uses specific instruments to carve wood.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZhHbtK6w5oB8kDIg64Pjz7h3Wo.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b0b4b8ce-f46e-4a68-bc1f-5fd8f119af6c",
+            "de": "A device used for producing music.",
+            "ty": "noun",
+            "ex": "She plays three instruments: piano, violin, and guitar.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "play an instrument",
+                " musical instrument",
+                " wind instrument"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b0b4b8ce-f46e-4a68-bc1f-5fd8f119af6c.webp",
+            "Tips": [
+                {
+                    "title": "Artistic Expression",
+                    "description": "When referring to music, 'instrument' often implies creative or artistic use.",
+                    "example": "Her favorite instrument to express emotions is the cello.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Skill Development",
+                    "description": "Learning to play an instrument usually requires practice and training.",
+                    "example": "He's taking lessons to master the instrument.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f174e42c-e83c-425b-8ac6-9e449f48a1fc",
+            "de": "A means by which something is achieved, done, or acted upon.",
+            "ty": "noun",
+            "ex": "Education can be an instrument of social change.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "instrument of change",
+                " instrument of policy",
+                " instrument of war"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f174e42c-e83c-425b-8ac6-9e449f48a1fc.webp",
+            "Tips": [
+                {
+                    "title": "Abstract Usage",
+                    "description": "In abstract contexts, 'instrument' means a way to accomplish something.",
+                    "example": "The new policy is an instrument for economic reform.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Figurative Speech",
+                    "description": "Can be used metaphorically to suggest someone or something is a means to an end.",
+                    "example": "He was merely an instrument in their scheme.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "22961fc3-c676-4701-a911-a6ea5eda0095",
+            "de": "A formal written legal document, such as a contract or will.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The loan agreement was a legally binding instrument.",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "legal instrument",
+                " binding instrument",
+                " instrument of agreement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/22961fc3-c676-4701-a911-a6ea5eda0095.webp",
+            "Tips": [
+                {
+                    "title": "Legally Binding",
+                    "description": "Refers to documents that have formal or legal power.",
+                    "example": "Sign this instrument to finalize the sale.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Contractual Context",
+                    "description": "Used in contexts where binding agreements are made.",
+                    "example": "The instrument outlined the terms of the lease.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "ce065522-5268-40ef-8f0a-23b6da664f63",
+            "de": "A tool or implement used in science, like a microscope or telescope.",
+            "do": "Scientific",
+            "ty": "noun",
+            "ex": "This lab is equipped with all the necessary scientific instruments.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "scientific instrument",
+                " measuring instrument",
+                " precision instrument"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ce065522-5268-40ef-8f0a-23b6da664f63.webp",
+            "Tips": [
+                {
+                    "title": "Research and Study",
+                    "description": "Science-related 'instruments' are often used for experiments or observations.",
+                    "example": "The astronomer used a new instrument to observe the stars.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Precision Required",
+                    "description": "Scientific instruments typically require exact measurement and careful handling.",
+                    "example": "The lab technician calibrated the instrument carefully.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Apparatus": {
+            "wordRoot": "Apparatus",
+            "wordDefinition": "Apparatus refers to a group of tools or equipment used for a specific scientific or technical purpose. For example, a chemistry laboratory may contain various apparatus like beakers, test tubes, pipettes, etc.\n\nApparatus refers to a collection of different instruments used together for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/340e7423-a50b-45e2-9b98-1e57125cf242.webp"
+        },
+        "Contraption": {
+            "wordRoot": "Contraption",
+            "wordDefinition": "Contraption refers to a device or machine that is made up of various parts or components, usually in a complex or unusual way.\n\nContraption describes something that is more complex or unusual in its design, while instrument describes something that is more functional or purposeful in its design.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2288a856-7cf7-4f47-a4e9-925eac88ed4f.webp"
+        },
+        "Device": {
+            "wordRoot": "Device",
+            "wordDefinition": "A device is an object or machine that is created to perform a specific function. It usually refers to something that is electronic or mechanical.\n\nExamples of devices include smartphones, laptops, and printers.\n\nA device is used to perform a task or function, while an instrument is used to measure or observe something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/34d69d8c-2dbf-4031-a0ae-cea502387d2f.webp"
+        },
+        "Equipment": {
+            "wordRoot": "Equipment",
+            "wordDefinition": "Equipment generally refers to items that are used for a specific purpose or activity, while instrument refers to tools or devices that are used to perform a specific task.\n\nFor example, a kitchen might have various pieces of equipment like a stove, an oven, a refrigerator, and a blender, while a musician might use instruments like a guitar, a piano, or a drum set.\n\nEquipment is a broader term that refers to any collection of tools and items that are needed for a specific task or activity, while instruments specifically refer to tools that are used to perform a task related to music, science, medicine, or some other specialized field.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/98d9050d-a882-4a81-b3ea-9a45220c4b9b.webp"
+        },
+        "Gadget": {
+            "wordRoot": "Gadget",
+            "wordDefinition": "A gadget is a small tool or device that is designed for a specific purpose, often with a novel or innovative design, and sometimes seen as a novelty or toy.\n\nExamples of gadgets include smartphones, fitness trackers, and portable gaming consoles.\n\nOverall, while gadgets are generally used for entertainment or everyday activities, instruments tend to be more specialized tools used for particular purposes in science, music, and other areas.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/234d9cbe-6051-4c7a-bce5-0bbecefa3814.webp"
+        },
+        "Implement": {
+            "wordRoot": "Implement",
+            "wordDefinition": "Implement refers to something that is used to put a plan or idea into action. For example, a company might implement a new policy to improve workplace safety.\n\nImplement is applicable when we want to talk about putting something into practice.\n\nThe difference between the two is that implement refers to the action of doing something, while instrument refers to the tool or device used to do it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/daf74ca6-580d-4b09-a07c-d6e436e8949f.webp"
+        },
+        "Machine": {
+            "wordRoot": "Machine",
+            "wordDefinition": "A machine is a device that performs a task using mechanical or electronic energy.\n\nIt can be used to make something, transport or move objects, or perform complex calculations, among other things. Machines are usually automated and do not require human intervention to perform their intended task.\n\nAn instrument is a tool designed to aid a person in performing a specific task, while a machine is a device that performs a task on its own.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/933f453a-2f8d-4a38-b5af-d156733e4b74.webp"
+        },
+        "Tool": {
+            "wordRoot": "Tool",
+            "wordDefinition": "It can be something that is used in music, surgery, or science, for example. An instrument is typically more specialized than a tool and may require specific training or skill to use.\n\nTool, on the other hand, refers to any device or object that is used to make a task easier or more efficient.\n\nA tool can be something as simple as a hammer or as complex as a software program. Tools are generally more versatile than instruments and can be used in a variety of situations.\n\nAn instrument is a specialized device used for a particular task or purpose, while a tool is a more general device used to make tasks easier or more efficient.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a150e9bb-859d-467a-ae4e-16c47d8b8a67.webp"
+        },
+        "Utensil": {
+            "wordRoot": "Utensil",
+            "wordDefinition": "An instrument is typically more technical and specialized than an utensil.\n\nUtensil usually refers to a tool or device used for preparing or serving food or for general domestic purposes.\n\nFor example, a fork is an eating utensil, a ladle is a cooking utensil, and a broom is a cleaning utensil. Utensils are typically more everyday, practical objects than instruments.\n\nIn summary, instruments are tools that are typically more technical or specialized, while utensils are tools that are typically more everyday or domestic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ddb3ed2c-d685-4a78-aae2-d208be5e18b6.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Playing a musical instrument engages practically every area of the brain at once, especially the visual, auditory, and motor cortices. As with any other workout, disciplined, structured practice in playing music strengthens those brain functions, allowing us to apply that strength to other activities.",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " many of the important instruments that have shaped society were designed for the right-handed majority. Because lefties are worse at using these tools, and suffer from higher accident rates, they would be less successful in a purely cooperative world, eventually disappearing from the population.",
+            "Title": "Why are some people...",
+            "VideoId": "TGLYcYCm2FM",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " The lander -- again, lots of instruments, mostly comparable except for the things which hammer in the ground and drill, etc. But much the same as Rosetta, and that is because you want to compare what you find in space with what you find on the comet. These are called ground truth measurements.",
+            "Title": "Fred Jansen: How to land...",
+            "VideoId": "h27g5iT0tck",
+            "Controls": "start=838"
+        },
+        {
+            "Text": " the pitch of the note or what note to play, and the left-to-right axis tells the performer the rhythm of the note or when to play it. Let's start with pitch. To help us out, we're going to use a piano, but this system works for pretty much any instrument you can think of.",
+            "Title": "How to read music - Tim...",
+            "VideoId": "ZN41d7Txcq0",
+            "Controls": "start=67"
+        },
+        {
+            "Text": " the techniques that people use for example I've developed all these funky techniques is the regular lip whistle but I can also whistle with my tongue and then go so I use those as embellishments to mimic an instrument or to add diversity and it really helps me",
+            "Title": "What a World Champion...",
+            "VideoId": "51nfpGY_AJk",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " String instruments are plucked or bowed. Woodwinds have air blown against a reed or sharp edge. For brass instruments, however, the vibration come directly from the musician's mouth. One of the first things a brass player must learn is to breathe in deeply,",
+            "Title": "How brass instruments...",
+            "VideoId": "IYHfiQ4R7Bs",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " Mastering any physical skill, be it performing a pirouette, playing an instrument, or throwing a baseball, takes practice. Practice is the repetition of an action with the goal of improvement, and it helps us perform with more ease, speed, and confidence.",
+            "Title": "How to practice...",
+            "VideoId": "f2O6mQkFiiw",
+            "Controls": "start=5"
+        },
+        {
+            "Text": " Some need a stand or a stool. But the cajon is a drum, a stand and a seat all in one convenient box. And this simplicity may be key to its journey across continents and cultures to become one of the most popular percussion instruments in the world today.",
+            "Title": "Rhythm in a box: The...",
+            "VideoId": "iJRfx0o5648",
+            "Controls": "start=9"
+        },
+        {
+            "Text": " hidden right underneath the bridge which transmits the vibration of the strings to the body of the instrument the soul is what allows the violin to resonate to reach out into the world what then if we were to reach out to if we were to let",
+            "Title": "The real meaning of soul...",
+            "VideoId": "LPQ_JsXof4c",
+            "Controls": "start=160"
+        },
+        {
+            "Text": " This is the instrument that makes us to communicate with the animal. The moment when the animal hears this sound means that it has to stop what it is doing and then come for food. They then have to learn that sniffing in a hole",
+            "Title": "These Rats Can Detect...",
+            "VideoId": "jrp2UgbYJn4",
+            "Controls": "start=46"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nina-simone.webp",
+            "Text": "Did you know that the human voice is the only pure instrument? That it has notes no other instrument has? It's like being between the keys of a piano. The notes are there, you can sing them, but they can't be found on any instrument. That's like me. I live in between this. I live in both worlds, the black and white world.",
+            "Title": "American Musician",
+            "Name": "Nina Simone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lyndon-b-johnson.webp",
+            "Text": "I am concerned about the whole man. I am concerned about what the people, using their government as an instrument and a tool, can do toward building the whole man, which will mean a better society and a better world.",
+            "Title": "American President",
+            "Name": "Lyndon B. Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amanda-gorman.webp",
+            "Text": "Poetry is - it's an art form, but, to me, it's also a weapon, it's also an instrument. It's the ability to make ideas that have been known, felt and said. And that's a real, I think, type of duty for the poet.",
+            "Title": "American Poet",
+            "Name": "Amanda Gorman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-j-orourke.webp",
+            "Text": "Conservatives really don't believe in politics as the primary instrument of getting along in life and therefore don't tend to put their energy into it a way people left of center do.",
+            "Title": "American Comedian",
+            "Name": "P. J. O'Rourke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yoko-ono.webp",
+            "Text": "I've always said that I use my voice as an instrument. It was something I created myself, and I said, 'Have voice, will travel.",
+            "Title": "American Artist",
+            "Name": "Yoko Ono"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "Anything that encourages people to pick up an instrument and play, I'm fully behind.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francis-of-assisi.webp",
+            "Text": "Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.",
+            "Title": "Italian Saint",
+            "Name": "Francis of Assisi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/park-chan-wook.webp",
+            "Text": "There's a humble beauty about listening to period instruments that I like.",
+            "Title": "South Korean Director",
+            "Name": "Park Chan-wook"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/laurie-anderson.webp",
+            "Text": "Something that has so much power must have life. Instruments have life.",
+            "Title": "American Musician",
+            "Name": "Laurie Anderson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-ward-beecher.webp",
+            "Text": "Riches are not an end of life, but an instrument of life.",
+            "Title": "American Clergyman",
+            "Name": "Henry Ward Beecher"
+        }
+    ]
+}

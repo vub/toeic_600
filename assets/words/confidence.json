@@ -1,0 +1,337 @@
+{
+    "currentWord": {
+        "wordRoot": "confidence",
+        "id": 2339,
+        "phonemic": "ˈkɒnfɪdəns|ˈkɑːnfɪdəns\r",
+        "bigId": "118d8bb0-f43f-47fd-ae33-87e1ef08085b",
+        "wordForms": [
+            "confidences",
+            "selfconfidence",
+            "confidence"
+        ]
+    },
+    "senses": [
+        {
+            "id": "118d8bb0-f43f-47fd-ae33-87e1ef08085b",
+            "de": "To believe in yourself or someone else, to trust in their ability",
+            "ty": "noun",
+            "ex": "I have confidence in your ability to complete the project on time.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "have confidence in",
+                " confidence boost",
+                " confidence level"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/118d8bb0-f43f-47fd-ae33-87e1ef08085b.webp",
+            "Tips": [
+                {
+                    "title": "Inner Strength",
+                    "description": "Confidence here implies having inner strength and positive feelings about abilities or decisions.",
+                    "example": "Despite the criticism, her confidence remained unshaken.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8vojMbT88xUi1K09yHfg49KriLc.webp"
+                },
+                {
+                    "title": "Supporting Others",
+                    "description": "To show confidence in people means you are supportive and believe in their capacities.",
+                    "example": "The teacher's confidence in his students inspired them to succeed.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/66vWy1FykhqfcqwpDSFmlQoBM.webp"
+                },
+                {
+                    "title": "Not Arrogance",
+                    "description": "'Confidence' should not be confused with arrogance; it's about belief without disparaging others.",
+                    "example": "His confidence inspired his team, unlike arrogance which could have pushed them away.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xkj4yFshZwpFbZy9DrMiI6mgO8.webp"
+                }
+            ]
+        },
+        {
+            "id": "18fc5fe0-943b-4b57-8f83-0ff429b33df8",
+            "de": "Information only shared between certain people and not meant to be told to others",
+            "ty": "noun",
+            "ex": "She told me her plans in strict confidence, so I can't tell anyone else.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "in confidence",
+                " breach of confidence",
+                " shared in confidence"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/18fc5fe0-943b-4b57-8f83-0ff429b33df8.webp",
+            "Tips": [
+                {
+                    "title": "Privacy Expected",
+                    "description": "This confidence signals something told privately and should be kept secret.",
+                    "example": "My friend discussed her fears with me in confidence.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Trust Implications",
+                    "description": "Revealing private information indicates high trust; breaking it can harm relationships.",
+                    "example": "He broke my confidence when he shared my personal problems with others.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f481fd93-8ebf-4e76-ab0c-c2062046dc47",
+            "de": "An act of trust or reliance",
+            "ty": "noun",
+            "ex": "His lending of the car was a huge vote of confidence in me.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "vote of confidence",
+                " confidence trick",
+                " confidence game"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f481fd93-8ebf-4e76-ab0c-c2062046dc47.webp",
+            "Tips": [
+                {
+                    "title": "Reflects Reliability",
+                    "description": "'Confidence' here reflects trust in someone's reliability based on positive past experiences.",
+                    "example": "Lending her the vintage car was a sign of confidence in her driving.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "07fc43c5-fa5b-40e8-be99-a402c72c39cc",
+            "de": "A feeling of certainty or assurance about something",
+            "ty": "noun",
+            "ex": "They expressed confidence that the issue would be resolved soon.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "expressed confidence",
+                " confidence vote",
+                " confidence measure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/07fc43c5-fa5b-40e8-be99-a402c72c39cc.webp",
+            "Tips": [
+                {
+                    "title": "Expect Positive Outcome",
+                    "description": "Expressing confidence often indicates an expected positive outcome or success in something.",
+                    "example": "The team has confidence they'll win the championship.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Context Matters",
+                    "description": "The setting can determine whether expressing confidence is seen as positive or presumptuous.",
+                    "example": "In the interview, she exuded just the right amount of confidence.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "193e8404-8377-45ef-a4a3-235c181e7e97",
+            "de": "A scheme to trick someone out of their money or valuables",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "He was arrested for running a confidence trick on elderly people.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "confidence trickster",
+                " confidence man",
+                " run a confidence trick"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/193e8404-8377-45ef-a4a3-235c181e7e97.webp",
+            "Tips": [
+                {
+                    "title": "Deceptive Intention",
+                    "description": "In legal contexts, confidence refers to dishonest acts intended to deceive people.",
+                    "example": "The con artist's confidence trick conned many into investing in fake stocks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cautious of Strangers",
+                    "description": "Be wary of unsolicited offers of 'easy money' as they might be confidence tricks.",
+                    "example": "Always research before investing to avoid falling for a confidence trick.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Assurance": {
+            "wordRoot": "Assurance",
+            "wordDefinition": "Assurance is a stronger word than confidence. It means having a guarantee or a promise that something will definitely happen or be provided.\n\nFor example, if you have assurance that you will get a job if you pass a test, then you can be confident that you will get the job if you pass the test.\n\nSo assurance is about having a promise or a guarantee that something will happen, while confidence is about having trust in your own abilities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/55dcc5c3-3594-4f04-a8f8-4f3e0d28e902.webp"
+        },
+        "Belief": {
+            "wordRoot": "Belief",
+            "wordDefinition": "Belief refers to an acceptance of something as true, often based on faith or personal conviction. Confidence pertains to the trust or assurance in oneself or others in the ability to achieve a task or goal.\n\nFor example, you might have a belief in a higher power, but not necessarily the confidence to speak in public. Alternatively, you might have confidence in your athletic abilities, but not necessarily a belief in luck.\n\nBelief is often subjective and personal, whereas confidence can be more objective and measurable. Both words are applicable in a wide range of contexts, from religious beliefs to confidence in a business plan.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/675abe3c-d927-4e13-97c5-9c13f50aad44.webp"
+        },
+        "Bold": {
+            "wordRoot": "Bold",
+            "wordDefinition": "Boldness refers to a willingness to take risks and act in a daring or fearless manner. It is applicable in situations where one needs to do something outside of their comfort zone, such as making a bold move in a game or standing up for what they believe in.\n\nIn summary, boldness is about taking action, while confidence is about how one carries themselves in that action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/638ebfed-4b8a-40d7-95ff-0a08e9ecd630.webp"
+        },
+        "Certainty": {
+            "wordRoot": "Certainty",
+            "wordDefinition": "Certainty refers to the state of being completely sure or confident about something without any doubt or hesitation. It is applicable when there is complete evidence, proof, or knowledge about a situation or issue.\n\nConfidence refers to a feeling of trust or belief in oneself, abilities, or someone/something else, even though there may be some uncertainty or doubt.\n\nIt is applicable when there is some level of uncertainty or risk involved. For example, I am confident that I will do well in my exams, even though I am not completely sure.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/64b67ad4-d708-4764-8f6a-db7778a9e9fa.webp"
+        },
+        "Conviction": {
+            "wordRoot": "Conviction",
+            "wordDefinition": "Conviction refers to a strong belief or opinion. It's the feeling of being certain that something is true or right.\n\nBoth confidence and conviction are important in different contexts. Confidence is applicable in situations that require personal competence or skill, such as public speaking or taking a test.\n\nConviction is applicable in situations that require strong beliefs or principles, such as standing up for what you believe in or making a moral decision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61e352c5-e98e-40b8-a18f-4cc350af3428.webp"
+        },
+        "Courage": {
+            "wordRoot": "Courage",
+            "wordDefinition": "Courage is the ability to face and overcome fear, danger, and uncertainty. It is the willingness to take risks and act in the face of adversity, even when one does not feel confident.\n\nCourage is applicable in situations where one is facing unknown or challenging circumstances, and requires strength and determination to persevere.\n\nConfidence is about having faith in oneself, while courage is about rising to the occasion even when one is unsure or afraid.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/67afcf7e-6472-4787-96b5-53d8b20f16a0.webp"
+        },
+        "Faith": {
+            "wordRoot": "Faith",
+            "wordDefinition": "Confidence refers to a feeling of trust and assurance in oneself or one's abilities, while faith refers to a belief in something without tangible evidence.\n\nConfidence is mostly applicable in situations where one's own skills and abilities are required, such as in sports or exams, while faith is more applicable in matters of religion or spirituality.\n\nConfidence is based on personal experience and knowledge, while faith is often based on religious teachings or spiritual beliefs.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/77473fd4-0ee2-4b82-a053-0b8a2497e47e.webp"
+        },
+        "Trust": {
+            "wordRoot": "Trust",
+            "wordDefinition": "Trust refers to a person's belief in the reliability, honesty and integrity of another person or thing. For example, if someone trusts their friend, it means they believe their friend will keep their promises and not betray their trust.\n\nTrust is applicable when referring to other people or things.\n\nFor example, a person may have confidence in their ability to pass a test, but they need to trust that their teacher will grade them fairly.\n\nA person may have confidence in their driving skills, but they need to trust that other drivers will follow the rules of the road.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f31bb5c6-e24c-46f1-8f4a-7d08d4e3fc93.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " cope with this or maintain or delusion we also have the highest concentration of psychoanalysts per capita in the world and if you don't want to spend your life in therapy you can do what I did which is you become a psychologist yourself so I've always been interested in the relationship between confidence how smart you think you are and",
+            "Title": "Rethink how you think...",
+            "VideoId": "wxf9B2xn3Rc",
+            "Controls": "start=37"
+        },
+        {
+            "Text": " as a marketing technique. It's tempting to think of this as a sign of us being stuck in the past, but that's not really how nostalgia works. Instead, nostalgia helps us remember that our lives can have meaning and value, helping us find the confidence and motivation to face the challenges of the future.",
+            "Title": "Why do we feel...",
+            "VideoId": "WiTgn5QH_HU",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " development of fourself driving that gave you the confidence to say you know what we could do something special here yeah exactly so you know it took me a while to sort of realize that that in order to solve self-driving you really needed to solve real-world ai um at the point of which you solve",
+            "Title": "Elon Musk talks Twitter,...",
+            "VideoId": "cdZZpaB2kDM",
+            "Controls": "start=313"
+        },
+        {
+            "Text": " Those new feelings of fear that I had never experienced before. I opened my arms and I welcomed them just as I had always done. And simply acknowledged them as places in my life that I was meant to learn and grow from. I started to regain that confidence and I started moving forward in my life.",
+            "Title": "Greg Long: Big Wave...",
+            "VideoId": "iPxfCYlWVWw",
+            "Controls": "start=1103"
+        },
+        {
+            "Text": " takes practice. Practice is the repetition of an action with the goal of improvement, and it helps us perform with more ease, speed, and confidence. So what does practice do in our brains to make us better at things? Our brains have two kinds of neural grey matter and white matter.",
+            "Title": "How to practice...",
+            "VideoId": "f2O6mQkFiiw",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " try being playful with math and focusing on the creative aspects. That can build the numerical skills that help students approach math with confidence later on. Importantly, you should give children the time and space to work through their answers. And if you're an administrator,",
+            "Title": "Why do people get so...",
+            "VideoId": "7snnRaC4t5c",
+            "Controls": "start=198"
+        },
+        {
+            "Text": " But what is confidence? Take the belief that you are valuable, worthwhile, and capable, also known as self-esteem, add in the optimism that comes when you are certain of your abilities, and then empowered by these, act courageously to face a challenge head-on.",
+            "Title": "3 tips to boost your...",
+            "VideoId": "l_NYrWqUR40",
+            "Controls": "start=20"
+        },
+        {
+            "Text": " Meanwhile, your self-esteem and confidence can get a big boost. There are a few reasons for that. One is found in training. Just by working and working at skills, especially with a good coach, you reinforce a growth mindset within yourself.",
+            "Title": "How playing sports...",
+            "VideoId": "hmFQqjMF_f0",
+            "Controls": "start=129"
+        },
+        {
+            "Text": " Published studies can motivate future research, inspire new products, and inform government policy. So it's important that we have confidence in the published results. If their conclusions are wrong, we risk time, resources,",
+            "Title": "Is there a reproducibilit...",
+            "VideoId": "FpCrY7x5nEE",
+            "Controls": "start=52"
+        },
+        {
+            "Text": " developed a deep-rooted fear of water months of therapy have rebuilt his confidence today he faces a big challenge we're going down to the big dam and trying to help him get over his",
+            "Title": "The Cutest Elephant...",
+            "VideoId": "05mhAq8u3n0",
+            "Controls": "start=469"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jocko-willink.webp",
+            "Text": "Since the team understands that the leader is de facto in charge, in that respect, a leader has nothing to prove. But in another respect, a leader has everything to prove: Every member of the team must develop the trust and confidence that their leader will exercise good judgment, remain calm, and make the right decisions when it matters most.",
+            "Title": "American",
+            "Name": "Jocko Willink"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eleanor-roosevelt.webp",
+            "Text": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I lived through this horror. I can take the next thing that comes along.",
+            "Title": "American First Lady",
+            "Name": "Eleanor Roosevelt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viola-davis.webp",
+            "Text": "I feel that confidence in women - especially young girls of color - but women, in general, is so important. It is so important for us to arm ourselves and become powerful at a very young age.",
+            "Title": "American Actress",
+            "Name": "Viola Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alex-ferguson.webp",
+            "Text": "If my parents were still alive, they would be very proud. They gave me a good start in life, the values that have driven me, and the confidence to believe in myself.",
+            "Title": "Scottish Coach",
+            "Name": "Alex Ferguson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yoko-ono.webp",
+            "Text": "I always thought that I was an important musician. If you don't have that confidence, why would you go on and do it?",
+            "Title": "American Artist",
+            "Name": "Yoko Ono"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lao-tzu.webp",
+            "Text": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+            "Title": "Chinese Philosopher",
+            "Name": "Lao Tzu"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/meryl-streep.webp",
+            "Text": "I didn't have any confidence in my beauty when I was young. I felt like a character actress, and I still do.",
+            "Title": "American Actress",
+            "Name": "Meryl Streep"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/epicurus.webp",
+            "Text": "It is not so much our friends' help that helps us, as the confidence of their help.",
+            "Title": "Greek Philosopher",
+            "Name": "Epicurus"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/marcus-garvey.webp",
+            "Text": "If you have no confidence in self, you are twice defeated in the race of life.",
+            "Title": "Jamaican Publisher",
+            "Name": "Marcus Garvey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aristotle.webp",
+            "Text": "Courage is a mean with regard to fear and confidence.",
+            "Title": "Greek Philosopher",
+            "Name": "Aristotle"
+        }
+    ]
+}

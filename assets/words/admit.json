@@ -1,0 +1,346 @@
+{
+    "currentWord": {
+        "wordRoot": "admit",
+        "id": 17800,
+        "phonemic": "ədˈmɪt|ədˈmɪt\r",
+        "bigId": "fb789eca-0abc-4105-9d2d-90a39be40259",
+        "wordForms": [
+            "admits",
+            "admitting",
+            "admitted",
+            "readmit",
+            "admit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fb789eca-0abc-4105-9d2d-90a39be40259",
+            "de": "To agree that something is true, especially unwillingly",
+            "ty": "verb",
+            "ex": "He admitted that he had made a mistake.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "admit a mistake",
+                " admit guilt",
+                " admit wrongdoing"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fb789eca-0abc-4105-9d2d-90a39be40259.webp",
+            "Tips": [
+                {
+                    "title": "Reluctant Agreement",
+                    "description": "Used when someone agrees to a truth they wish wasn’t true or hesitated to acknowledge.",
+                    "example": "After questioning, she finally admitted her jealousy.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/SFJQbmUGPgXgpnWw7BQhLguqQ.webp"
+                },
+                {
+                    "title": "Avoid Past Tense",
+                    "description": "Using 'admitted' might sound like a formal confession or a statement in legal contexts.",
+                    "example": "The defendant admitted the evidence was damning.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1idm5A8JRnqS2YFXeVaTktsjKlI.webp"
+                },
+                {
+                    "title": "Not Always Negative",
+                    "description": "It can also be used for positive truths, although less common.",
+                    "example": "He admitted he was in love.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RRyLohOi8O0QSMWtCTFENYS1SQY.webp"
+                }
+            ]
+        },
+        {
+            "id": "820699d2-4f1f-4f74-9318-2e530e49fee5",
+            "de": "To allow someone to enter a place",
+            "ty": "verb",
+            "ex": "The ticket admits one person.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "admit one person",
+                " admit to the hospital",
+                " admit into a club"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/820699d2-4f1f-4f74-9318-2e530e49fee5.webp",
+            "Tips": [
+                {
+                    "title": "Physical Entry",
+                    "description": "Often pertains to the physical act of allowing someone into a location.",
+                    "example": "Sign here to admit guests into the building.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Event Specific",
+                    "description": "Commonly used in contexts like events, buildings, or rooms, indicating permission to enter.",
+                    "example": "The pass admits two to the concert.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9d58e545-2f04-4864-ae89-1116cd379a37",
+            "de": "To accept someone into an organization or a group",
+            "ty": "verb",
+            "ex": "She was admitted to the bar in 2000.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "admit to the bar",
+                " admit into the club",
+                " admit to university"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9d58e545-2f04-4864-ae89-1116cd379a37.webp",
+            "Tips": [
+                {
+                    "title": "Formal Acceptance",
+                    "description": "Highlights a formal or official process of being accepted into a group or organization.",
+                    "example": "She felt proud to be admitted as a society member.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Milestone Achievement",
+                    "description": "Being admitted often signifies a significant achievement, like becoming a lawyer or doctor.",
+                    "example": "He was admitted to the engineers’ board.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "78b4d5ff-8601-46cb-af8d-e6384ddf761c",
+            "de": "To allow the possibility of something",
+            "ty": "verb",
+            "ex": "The theory admits of no exceptions.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "admit of no exceptions",
+                " admit of doubt",
+                " admit of the possibility"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/78b4d5ff-8601-46cb-af8d-e6384ddf761c.webp",
+            "Tips": [
+                {
+                    "title": "Abstract Possibility",
+                    "description": "Can refer to the abstract idea of accepting a concept or a chance of something happening.",
+                    "example": "This hypothesis admits of multiple interpretations.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Expression of Doubt",
+                    "description": "Sometimes indicates doubt or suggests that other interpretations are possible.",
+                    "example": "His theory admits of no definitive proof.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1c54ecc9-143e-4f76-b92b-3eec63f96aa9",
+            "de": "To send someone to a hospital for treatment",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The patient was admitted to hospital last night with chest pains.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "admit to hospital",
+                " admit for treatment",
+                " admit into icu"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1c54ecc9-143e-4f76-b92b-3eec63f96aa9.webp",
+            "Tips": [
+                {
+                    "title": "Medical Context",
+                    "description": "Used for patients entering a hospital to receive care, not just visiting.",
+                    "example": "The doctor decided to admit her immediately.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Severity Implication",
+                    "description": "Implies a serious concern that requires professional medical attention.",
+                    "example": "Due to the severity of his injuries, he was admitted.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Accept": {
+            "wordRoot": "Accept",
+            "wordDefinition": "Accept means to agree or take something that is offered or given, like accepting an invitation or accepting a gift. It's usually used in a positive way.\n\nBoth words can be used in different situations, but accept is more commonly used in a happy or positive circumstance, while admit is used when there is a more difficult or uncomfortable situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/62e1ac07-7784-4922-819c-028a87b7ed7e.webp"
+        },
+        "Acknowledge": {
+            "wordRoot": "Acknowledge",
+            "wordDefinition": "Acknowledge means to recognize or accept something as true or real. This could be used in a situation where you are aware of a fact or situation and you are willing to acknowledge that it exists.\n\nFor example, you might acknowledge that your friend is upset about something.\n\nAdmit means to confess or acknowledge something that is seen as negative or embarrassing. This could be used in a situation where you are confessing to a mistake or wrongdoing.\n\nSo, in short, acknowledge is more neutral and can be used for any type of recognition, while admit is used for a more negative or embarrassing acknowledgment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/09f474c2-c750-4257-a063-40f64d1f85a8.webp"
+        },
+        "Allow": {
+            "wordRoot": "Allow",
+            "wordDefinition": "Allow is used when you give someone permission or grant them access to something. For example, \"I'll allow you to borrow my book.\" It implies a sense of authority or control.\n\nAdmit is used when you confess something and allow is used when you give someone permission.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4bde3628-7655-4742-a49f-2b4ffd7328d6.webp"
+        },
+        "Concede": {
+            "wordRoot": "Concede",
+            "wordDefinition": "The words admit and concede are similar in meaning, but they have slight differences in their usage.\n\nTo concede means to surrender or acknowledge that something is true, valid or correct. It implies that you have lost an argument or discussion.\n\nFor example, if you and a friend are having a debate and they present a compelling argument, you might say, \"I concede that you have a point.\"\n\nAdmit is used when acknowledging your own fault or mistake, whereas concede is used when acknowledging the strength or correctness of someone else's argument.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f079101d-524b-41bd-937e-4dc0dccee8c2.webp"
+        },
+        "Confess": {
+            "wordRoot": "Confess",
+            "wordDefinition": "The words admit and confess are similar in meaning, but differ in their context of use.\n\nConfess means to openly and voluntarily admit something wrong, often as a way of asking for forgiveness or expressing remorse.\n\nFor example, a person may confess to their friend about lying to them or someone may confess their feelings to a crush.\n\nAdmit is used in more serious or formal situations, while confess is used in more personal situations of admitting something wrong.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f864859-2e99-4a92-b49b-753933ab601b.webp"
+        },
+        "Grant": {
+            "wordRoot": "Grant",
+            "wordDefinition": "Grant means to give or allow something that is being requested or deserved.\n\nFor example, \"the government granted the organization funding for their project\" or \"the university granted the student a scholarship for their academic achievements\".\n\nAdmit is used to accept the truth or give permission to join, while grant is used to give or allow something, such as funding or a scholarship.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d9c21956-69ab-4b65-8822-7d50a8da0389.webp"
+        },
+        "Permit": {
+            "wordRoot": "Permit",
+            "wordDefinition": "Permit means to give someone permission to do something. For example, if you want to go to a party, your parents might permit you to go if you finish your homework first.\n\nPermit can also refer to a document or license that allows someone to do something. For example, a driver's permit allows someone to legally drive a car.\n\nAdmit is used when referring to access to a place or confessing something, while permit is used when referring to permission to do something or possessing a document that allows something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3b308e0a-6f60-40ad-8907-0913004efaff.webp"
+        },
+        "Recognize": {
+            "wordRoot": "Recognize",
+            "wordDefinition": "Admit is used to acknowledge and take responsibility for something that was done wrong or mistaken. For example, \"I admit that I was wrong about my math answer.\" Recognize is used to identify something or someone that is familiar or known.\n\nFor example, \"I recognize that face from the TV show.\"\n\nAdmit is used when someone wants to take responsibility for their actions or errors, while recognize is used when someone wants to identify or acknowledge something or someone familiar.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/782e53b6-e1b3-4bc2-bc0f-c2ef081f0db2.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " I've got to admit that it's incredible that even the old forts here have become spider caves. Every building is transforming into its own habitat. And if you replicate that across the island, there's a whole new ecosystem in action here. These places that typically people think are not useful brownfield sites, so much value for wildlife and more",
+            "Title": "Finding Baby Seals on an...",
+            "VideoId": "whGoI0L_TLM",
+            "Controls": "start=1040"
+        },
+        {
+            "Text": " tassels on the end of their face because it's not just for style though you gotta admit it's a pretty stylish mustache they look like the schnauzers of the sea these tassels also help the sharks blend in they give smaller fish a sense of security but little do they know they're about to become a delicious snack",
+            "Title": "Seven Superpowered...",
+            "VideoId": "WKduBKUuIxg",
+            "Controls": "start=180"
+        },
+        {
+            "Text": " And this was Henry's rule, he said, \"Look, everyone is willing to give you something. They're ready to give you something for whatever it is they're hungry for.\" And that's the crux of it. If you don't want to be deceived, you have to know, what is it that you're hungry for? And we all kind of hate to admit it.",
+            "Title": "How to spot a liar PIPE...",
+            "VideoId": "P_6vDLq64gE",
+            "Controls": "start=209"
+        },
+        {
+            "Text": " You can get that at holdthelineguide.com. And that can give you a real good framework to move forward in a smart, peaceful way if you feel that you've got to take it to the streets. Now look, I know all this stuff is overwhelming, and I've got to admit, some of these steps may not be enough.",
+            "Title": "What if a US presidential...",
+            "VideoId": "WZWRhLW7Y8w",
+            "Controls": "start=848"
+        },
+        {
+            "Text": " Now let's see what he had to say when later admitting \"I am Quinn's father. I will do everything in my power to provide her with the love and support she deserves.\" The statement is short and direct, calling the child by name and addressing his role in her life.",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=281"
+        },
+        {
+            "Text": " and and and now that they they say it makes it look like i lied when i did not in fact lie i was i was forced to admit that i lied for to save tesla's life and that's the only reason given what's actually happened given what's actually happened to tesla",
+            "Title": "Elon Musk talks Twitter,...",
+            "VideoId": "cdZZpaB2kDM",
+            "Controls": "start=1722"
+        },
+        {
+            "Text": " and from that careful training to which I admit that at no part of my life I have ever been disinclined.\" And finally, you can demonstrate disinterest, or that you're not motivated by personal gain. Logos is the use of logic and reason.",
+            "Title": "How to use rhetoric to...",
+            "VideoId": "3klMM9BkW5o",
+            "Controls": "start=139"
+        },
+        {
+            "Text": " Those are called similes. A simile is a metaphor that admits it's making a comparison. Similes tend to make you think. Metaphors let you feel things directly. Take Shakespeare's famous metaphor, \"All the world's a stage.\"",
+            "Title": "The art of the metaphor...",
+            "VideoId": "A0edKgL9EgM",
+            "Controls": "start=133"
+        },
+        {
+            "Text": " know I was a parent lover until Big Bird landed so to speak into my life right now it's a little bit like admitting to you no statue of alcohol in the garage I have six large macaws and what happened",
+            "Title": "Why Are Wild Parrots...",
+            "VideoId": "6pYleuyC0QY",
+            "Controls": "start=30"
+        },
+        {
+            "Text": " have to admit probably that I could have told you but I knew I wanted to build my house life with and after a while I forgave him because I knew I wanted to",
+            "Title": "What forgiveness can...",
+            "VideoId": "TEfxPpnMuNQ",
+            "Controls": "start=637"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kurt-cobain.webp",
+            "Text": "I have to admit I've found myself doing the same things that a lot of other rock stars do or are forced to do. Which is not being able to respond to mail, not being able to keep up on current music, and I'm pretty much locked away a lot. The outside world is pretty foreign to me.",
+            "Title": "American Singer",
+            "Name": "Kurt Cobain"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ryan-reynolds.webp",
+            "Text": "We might be too proud to admit it as guys, but we still need to learn how to manage responsibility, how to face our challenges.",
+            "Title": "Canadian Actor",
+            "Name": "Ryan Reynolds"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "It's possible - you can never know - that the universe exists only for me. If so, it's sure going well for me, I must admit.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-johnson.webp",
+            "Text": "Some desire is necessary to keep life in motion, and he whose real wants are supplied must admit those of fancy.",
+            "Title": "English Writer",
+            "Name": "Samuel Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ira-glass.webp",
+            "Text": "I suppose I shouldn't go around admitting I speak untruths on the radio.",
+            "Title": "American Journalist",
+            "Name": "Ira Glass"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bruce-lee.webp",
+            "Text": "Mistakes are always forgivable, if one has the courage to admit them.",
+            "Title": "American Actor",
+            "Name": "Bruce Lee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yvonne-de-carlo.webp",
+            "Text": "I guess I lead a double life, and I must admit I'm happy with both.",
+            "Title": "Canadian Actress",
+            "Name": "Yvonne De Carlo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cristiano-ronaldo.webp",
+            "Text": "I am not the humblest person in the world. I admit that.",
+            "Title": "Portuguese Footballer",
+            "Name": "Cristiano Ronaldo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sebastian-kurz.webp",
+            "Text": "Remembering in an honest way means admitting the truth.",
+            "Title": "Austrian Politician",
+            "Name": "Sebastian Kurz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jacqueline-fernandez.webp",
+            "Text": "Don't be afraid to admit what your dreams are.",
+            "Title": "Actress",
+            "Name": "Jacqueline Fernandez"
+        }
+    ]
+}

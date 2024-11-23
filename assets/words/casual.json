@@ -1,0 +1,351 @@
+{
+    "currentWord": {
+        "wordRoot": "casual",
+        "id": 15984,
+        "phonemic": "ˈkæʒuəl|ˈkæʒuəl\r",
+        "bigId": "82a40e61-a17f-4b5a-8ee6-ec641f58ec0e",
+        "wordForms": [
+            "casuals",
+            "casually",
+            "casual"
+        ]
+    },
+    "senses": [
+        {
+            "id": "82a40e61-a17f-4b5a-8ee6-ec641f58ec0e",
+            "de": "Not formal or not serious",
+            "ty": "adjective",
+            "ex": "It's just a casual party, so you can wear anything you want.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "casual wear",
+                " casual clothes",
+                " casual conversation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/82a40e61-a17f-4b5a-8ee6-ec641f58ec0e.webp",
+            "Tips": [
+                {
+                    "title": "Social Settings",
+                    "description": "Used when describing events or attire with a laid-back atmosphere.",
+                    "example": "The invite said 'casual attire', so I wore jeans.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/uuz5JmLSN1bmJZw7aHfkR0nJ0o.webp"
+                },
+                {
+                    "title": "Ease in Language",
+                    "description": "Suggests a conversational tone or simpler language that's not taken too seriously.",
+                    "example": "We were just having a casual chat about the weather.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/L0v93zIneQTz3jTm7igw23X48bE.webp"
+                }
+            ]
+        },
+        {
+            "id": "d92d4067-d34a-4a40-9d38-a351029eb0da",
+            "de": "Not regular or constant",
+            "ty": "adjective",
+            "ex": "He's a casual worker who only works when he's needed.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "casual worker",
+                " casual employment",
+                " casual relationship"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d92d4067-d34a-4a40-9d38-a351029eb0da.webp",
+            "Tips": [
+                {
+                    "title": "Work Flexibility",
+                    "description": "Refs jobs without a fixed schedule, often with varying hours or days.",
+                    "example": "He prefers casual work to have time for his studies.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Relationship Implications",
+                    "description": "In relationships, signifies no serious commitment or regular expectations.",
+                    "example": "They're in a casual relationship, nothing too serious.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e6a94794-13e2-4837-9b4d-3e92728c7694",
+            "de": "Not taking or showing deep interest",
+            "ty": "adjective",
+            "ex": "She has a casual interest in painting but doesn't do it seriously.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "casual interest",
+                " casual observer",
+                " casual attitude"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e6a94794-13e2-4837-9b4d-3e92728c7694.webp",
+            "Tips": [
+                {
+                    "title": "Level of Interest",
+                    "description": "Means a person has a light and non-committal interest in something.",
+                    "example": "I'm a casual fan; I'll watch a game if it's on.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Detached Stance",
+                    "description": "Shows a lack of deep involvement, often perceived as cool or aloof.",
+                    "example": "His casual dismissal of the problem surprised everyone.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "84d4ce52-099a-45b8-9a9a-f97cd8429162",
+            "de": "Happening by chance",
+            "ty": "adjective",
+            "ex": "Their meeting was casual, as they hadn't planned it.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "casual meeting",
+                " casual encounter",
+                " casual acquaintance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/84d4ce52-099a-45b8-9a9a-f97cd8429162.webp",
+            "Tips": [
+                {
+                    "title": "Unplanned Events",
+                    "description": "Refers to encounters or events that happen without prior intention.",
+                    "example": "Our casual meeting at the cafe led to a great friendship.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e539ae51-51df-4751-bd6d-6cd22da8f4b8",
+            "de": "Wooden and designed only for light use",
+            "do": "Furniture",
+            "ty": "adjective",
+            "ex": "This is a casual chair, not meant for long-term sitting.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "casual furniture",
+                " casual chair",
+                " casual table"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e539ae51-51df-4751-bd6d-6cd22da8f4b8.webp",
+            "Tips": [
+                {
+                    "title": "Furniture Use",
+                    "description": "Describing furniture suitable for temporary or occasional use.",
+                    "example": "We bought a casual sofa for the game room.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ae5828f4-e76f-404c-9a1d-ab0907305fb2",
+            "de": "A person who is employed only when needed",
+            "ty": "noun",
+            "ex": "During seasonal peaks, the company hires a lot of casuals.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hire a casual",
+                " employ a casual",
+                " casual workforce"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ae5828f4-e76f-404c-9a1d-ab0907305fb2.webp",
+            "Tips": [
+                {
+                    "title": "Hiring Context",
+                    "description": "Implies non-permanent staff hired per immediate business needs.",
+                    "example": "Casuals are often hired during the holiday rush.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Carefree": {
+            "wordRoot": "Carefree",
+            "wordDefinition": "Carefree means without worries or responsibilities, while casual means relaxed or informal.\n\nCarefree is applicable to a situation or person where there are no worries or responsibilities, and they are able to enjoy themselves freely.\n\nFor example, a carefree vacation is one where you can relax and not worry about work or other responsibilities.\n\nCarefree relates to a lack of stress or responsibilities while casual relates to a relaxed atmosphere or dress code.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0c38603b-3875-489a-9af4-e6685f85fdd6.webp"
+        },
+        "Complicate": {
+            "wordRoot": "Complicate",
+            "wordDefinition": "Complicate means to make something more difficult or complex. For example, when you add extra steps or requirements to a task, you are complicating it.\n\nCasual is used when talking about things that are easy-going or not overly serious, while complicate is used when talking about things that are difficult or complex.\n\nFor instance, you might use the word casual when talking about hanging out with friends or going for a walk, while complicate might be used when talking about solving a math problem or designing a complex machine.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ac74ad1-f99b-41f7-81bd-78a3cbb3abdb.webp"
+        },
+        "Informal": {
+            "wordRoot": "Informal",
+            "wordDefinition": "Informal refers to a general setting or situation that is relaxed and not overly formal. This can include things like a casual get-together with friends or a relaxed work environment.\n\nThe main difference is that casual specifically refers to clothing, while informal refers to the overall atmosphere or setting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/19a0935a-2c76-45bb-9def-e3780528f2f8.webp"
+        },
+        "Nonchalant": {
+            "wordRoot": "Nonchalant",
+            "wordDefinition": "Casual means relaxed and informal in style, behavior, or attitude while nonchalant means appearing coolly unconcerned or indifferent.\n\nCasual can be applied to clothing, conversation, and behavior in a laid-back setting while nonchalant is more appropriate when describing someone's attitude or demeanor towards a situation, often in a situation where other people may be worried or stressed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8afc06d-bffc-4b25-83c5-da981db4e3b4.webp"
+        },
+        "Pretentious": {
+            "wordRoot": "Pretentious",
+            "wordDefinition": "Casual means relaxed, informal and comfortable, whereas pretentious means trying to seem more important or impressive than one actually is.\n\nCasual would be applicable in social situations where one doesn't need to be too formal or serious, while pretentious would be applicable when someone is trying too hard to impress others or seem more sophisticated than they really are.\n\nFor example, wearing a T-shirt and jeans to a casual get-together with friends would be appropriate, but wearing a tuxedo and talking in a fake accent to seem sophisticated would be pretentious.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/557041d3-85a5-4439-9763-769557e928da.webp"
+        },
+        "Relax": {
+            "wordRoot": "Relax",
+            "wordDefinition": "Casual usually means that you are dressed in a way that is comfortable but not too formal, and can describe a relaxed atmosphere or mood.\n\nRelax implies a state of being calm or free from stress, and can apply to physical and mental aspects.\n\nCasual refers to external factors related to appearance or surroundings, while relax refers to an internal state of being calm and stress-free.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0feb64c-004b-4582-92d5-cb715bb4eec4.webp"
+        },
+        "Restrain": {
+            "wordRoot": "Restrain",
+            "wordDefinition": "Restrain means to hold back, prevent, or control something or someone.\n\nIt can be applied to physical or emotional restraints. For example, a police officer may restrain a criminal, while a person may restrain their emotions during a difficult conversation.\n\nCasual refers to being relaxed and informal, while restrain refers to holding back or controlling something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/119c5755-832e-4afa-9d29-bf4739a10eaa.webp"
+        },
+        "Undemanding": {
+            "wordRoot": "Undemanding",
+            "wordDefinition": "Undemanding means something that is not difficult or challenging. It is applicable in situations where you need to do something that is easy for you to achieve without much effort or skill.\n\nFor example, a task may be undemanding if it requires only basic understanding or physical ability to complete.\n\nCasual is about the atmosphere or mindset, while undemanding is about the level of difficulty or challenge involved in a task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ee562f08-dede-4c77-972f-fc45ce113b4b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " the world the thing with deep water soloing though I mean I say that it's super casual super fun you know best-case scenario it's like a mix between going snorkeling and going climbing and it's like really nice but think it's worst-case you know you can't actually hurt yourself he pull rocks off you land in things or you could also take horrible falls in this case hazel",
+            "Title": "To Climb the World PIPE...",
+            "VideoId": "NFfTHoJ9khs",
+            "Controls": "start=922"
+        },
+        {
+            "Text": " who learn a secondary language by filtering it through their primary language. Because all types of bilingual people can become fully proficient in a language regardless of accent or pronunciation, the difference may not be apparent to a casual observer. But recent advances in brain imaging technology",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=99"
+        },
+        {
+            "Text": " Whatever you call them, these rubber-soled, casual shoes are worn by billions of people around the world. Originally invented in the late 19th century, these simple canvas and rubber creations have changed a lot since they first hit the pavement. Today, sneaker consumption is at an all-time high.",
+            "Title": "The wildly complex...",
+            "VideoId": "A_YMOhpyErI",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " she gave them a casual tour of her “film projector.” When an officer spotted her hanging her aerial, she chatted about her passion for listening to music on the radio– and charmed him into helping her set up the cable. In her entire four month tenure, her sharp wits and stealth never failed her.",
+            "Title": "From pacifist to spy:...",
+            "VideoId": "Y7zyB7rsvHU",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " So we've had three explanations for why we might sleep, and I think the important thing to realize is that the details will vary, and it's probable we sleep for multiple different reasons. But sleep is not an indulgence. It's not some sort of thing that we can take on board rather casually.",
+            "Title": "Why do we sleep? PIPE...",
+            "VideoId": "LWULB9Aoopc",
+            "Controls": "start=471"
+        },
+        {
+            "Text": " emerging social networks they were just starting we could listen better so what if business could be simply put more about how my brother approached his life well this casual exploration which I began to work on and implement and think",
+            "Title": "The era of higher ideals...",
+            "VideoId": "xvSnAyrOiMs",
+            "Controls": "start=550"
+        },
+        {
+            "Text": " Unprotected sex and contaminated needles are the leading cause of transmission. It, fortunately, cannot spread through air, water, or casual contact. Individuals of any age, sexual orientation, gender and race can contract HIV.",
+            "Title": "Why it’s so hard to cure...",
+            "VideoId": "0TipTogQT3E",
+            "Controls": "start=34"
+        },
+        {
+            "Text": " the brand that I am is I would call it casual fly part hippy part yogi part Brooklyn girl I don't know I'm the pet I sell pet toys all over the country all over the world so I guess that's my brand in my warped little industry",
+            "Title": "The greatest TED Talk...",
+            "VideoId": "Y2jyjfcp1as",
+            "Controls": "start=691"
+        },
+        {
+            "Text": " Thank you. And I want to be clear about what I'm saying, because I deeply believe our offices should be encouraging casual, chatty cafe-style types of interactions -- you know, the kind where people come together",
+            "Title": "The power of introverts...",
+            "VideoId": "c0KYU2j0TM4",
+            "Controls": "start=1012"
+        },
+        {
+            "Text": " For some, it's a serious sport. For others, just a way to let loose. But despite its casual association with fun and sun, surfing has a richer and deeper history than many realize.",
+            "Title": "The complicated history...",
+            "VideoId": "jyn_orqdyHQ",
+            "Controls": "start=4"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/janeane-garofalo.webp",
+            "Text": "Let's put it this way: I don't have a good work ethic. I have a real casual relationship with hours. I don't understand why, in entertainment, the hours are as long as they are. It seems like everything takes forever, and no one can tell you why, exactly.",
+            "Title": "American Comedian",
+            "Name": "Janeane Garofalo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johanna-konta.webp",
+            "Text": "I spend most of my life in sports kit, so it usually shocks people when they see me in casual clothing - let alone dressed up with make-up on. I've walked past people from my own family who don't recognise me.",
+            "Title": "British Athlete",
+            "Name": "Johanna Konta"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pooja-bhatt.webp",
+            "Text": "I believe in taking big risks. If you encourage new people, they want to prove themselves. They give their best. This is not possible with established stars, who treat their job casually most of the time.",
+            "Title": "Indian Director",
+            "Name": "Pooja Bhatt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joss-whedon.webp",
+            "Text": "All of the most important lessons about writing I learned from my father. He never set out to teach me anything, it would just be something he said casually in conversation.",
+            "Title": "American Writer",
+            "Name": "Joss Whedon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-h-macy.webp",
+            "Text": "We thought sex was free. Sex is not free. There's a price to be paid emotionally, physically, even legally. Sex isn't a casual thing. It's a huge thing.",
+            "Title": "American Actor",
+            "Name": "William H. Macy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-bettman.webp",
+            "Text": "I would hope there would be a greater appreciation by casual sports fans of the incredible skill and passion of our players.",
+            "Title": "American Businessman",
+            "Name": "Gary Bettman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/satoru-iwata.webp",
+            "Text": "We want to create a kind of cycle where casual gamers are gradually growing up to become passionate players.",
+            "Title": "Japanese Businessman",
+            "Name": "Satoru Iwata"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-jason-leigh.webp",
+            "Text": "I like a movie that the audience actively has to participate in and not just casually observe.",
+            "Title": "American Actress",
+            "Name": "Jennifer Jason Leigh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-wright.webp",
+            "Text": "I look like a casual, laid-back guy, but it's like a circus in my head.",
+            "Title": "American Comedian",
+            "Name": "Steven Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mike-shinoda.webp",
+            "Text": "The casual listener won't be around forever.",
+            "Title": "American Musician",
+            "Name": "Mike Shinoda"
+        }
+    ]
+}

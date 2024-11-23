@@ -1,0 +1,348 @@
+{
+    "currentWord": {
+        "wordRoot": "search",
+        "id": 19455,
+        "phonemic": "sɜːtʃ|sɜːrtʃ\r",
+        "bigId": "4b6627d2-71c4-4485-82fa-bc5c448253d2",
+        "wordForms": [
+            "searches",
+            "searching",
+            "searched",
+            "searcher",
+            "searchers",
+            "searchable",
+            "search"
+        ]
+    },
+    "senses": [
+        {
+            "id": "4b6627d2-71c4-4485-82fa-bc5c448253d2",
+            "de": "To look for something or someone carefully or thoroughly",
+            "ty": "verb",
+            "ex": "She is searching for her lost keys.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "search for",
+                " search out",
+                " search in"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4b6627d2-71c4-4485-82fa-bc5c448253d2.webp",
+            "Tips": [
+                {
+                    "title": "Action Intensity",
+                    "description": "Emphasizes the thorough action of looking, more than a glance.",
+                    "example": "They searched the forest for the missing hiker.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MHrxgFcH78RJJpZusOE1Rdd5qd4.webp"
+                },
+                {
+                    "title": "Active Process",
+                    "description": "Indicates an ongoing effort, not a single quick check.",
+                    "example": "He searched all day for a new job.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/d9pWq21ykmwnsHwiOFanPODzWQ.webp"
+                },
+                {
+                    "title": "Multiple Places",
+                    "description": "Can imply looking in more than one location or manner.",
+                    "example": "We searched high and low for your toy.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gUGFQEf8aQdTuQtNQam5LKV3k.webp"
+                }
+            ]
+        },
+        {
+            "id": "10557b6e-c842-47d0-b1ce-563a8365f1ff",
+            "de": "To examine something carefully",
+            "ty": "verb",
+            "ex": "The police searched the car for drugs.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "search through",
+                " search around",
+                " search inside"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/10557b6e-c842-47d0-b1ce-563a8365f1ff.webp",
+            "Tips": [
+                {
+                    "title": "Careful Examination",
+                    "description": "Stresses scrutiny, not just a surface look.",
+                    "example": "The jeweler searched the gem for flaws.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Purpose Driven",
+                    "description": "Often has a goal, like finding evidence or specific items.",
+                    "example": "Agents searched his luggage for contraband.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ef4a005f-3b69-4779-80ea-f979ea463f8c",
+            "de": "To try to find information on the Internet",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "I searched for tips on how to train a dog.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "search online",
+                " search on the internet",
+                " search info"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ef4a005f-3b69-4779-80ea-f979ea463f8c.webp",
+            "Tips": [
+                {
+                    "title": "Digital Search",
+                    "description": "Refers to using the internet or database to find information.",
+                    "example": "I searched the web for the latest news.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technology Dependent",
+                    "description": "Specific to devices like computers or phones.",
+                    "example": "She searched her email for the invitation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f793124c-a4d9-496d-be43-ea6b4d18e6c1",
+            "de": "An act of searching for someone or something",
+            "ty": "noun",
+            "ex": "He found his keys after a long search.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "long search",
+                " search for",
+                " search operation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f793124c-a4d9-496d-be43-ea6b4d18e6c1.webp",
+            "Tips": [
+                {
+                    "title": "Search Endeavor",
+                    "description": "Refers to a mission or planned action to find something.",
+                    "example": "The search for the lost city took years.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "May Be Collaborative",
+                    "description": "Can be an effort by a group, not just an individual.",
+                    "example": "A search party was organized for the hikers.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e1d54f96-b429-4f61-b7ac-cbfed7e9cefe",
+            "de": "To examine legally seized goods or property",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "The officer searched the bag for illegal items.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "search warrant",
+                " search unlawfully",
+                " search permission"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e1d54f96-b429-4f61-b7ac-cbfed7e9cefe.webp",
+            "Tips": [
+                {
+                    "title": "Legal Context",
+                    "description": "Searches can be official and require legal authority.",
+                    "example": "They needed a search warrant to enter the property.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Privacy Consideration",
+                    "description": "In legal terms, implies potential intrusion into one's privacy.",
+                    "example": "The search of her house violated her privacy.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Explore": {
+            "wordRoot": "Explore",
+            "wordDefinition": "Explore means to travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.\n\nExplore is about discovery and learning through immersion, while search is about finding something specific.\n\nFor example, you might explore a new city to learn more about its culture and history, while you would search for a particular book in a library.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b648c8ad-e138-43d6-8513-3546dd23201d.webp"
+        },
+        "Hunt": {
+            "wordRoot": "Hunt",
+            "wordDefinition": "Hunt refers to searching for something with the intent of capturing or killing it, like hunting for deer or hunting for a criminal.\n\nHunt is applicable when the goal is to capture or kill something, while search is applicable when the goal is to find something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9fde4f49-45ec-4ec7-9724-de52e477023f.webp"
+        },
+        "Investigate": {
+            "wordRoot": "Investigate",
+            "wordDefinition": "Investigate means to look into something carefully to find out the truth.\n\nIt describes when someone is trying to gather information or evidence about a subject. For example, a detective might investigate a crime scene to try and find out who committed a crime.\n\nInvestigate is when you are trying to figure out what happened or why something happened, while search is when you are trying to find something specific.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e835359-0865-4d86-ac05-e053e13feb1a.webp"
+        },
+        "Probe": {
+            "wordRoot": "Probe",
+            "wordDefinition": "The word ‘probe’ typically means to investigate something or look deeper into it. For example, a doctor may use a probe to examine a patient's ear or a detective may use a probe to uncover evidence in a case.\n\nIn short, ‘probe’ refers to investigating or examining something, while ‘search’ refers to looking for something. Probe is applicable when you're exploring or investigating something specific, while search is applicable when you're trying to locate something that is missing or hidden.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf8038f1-c3ab-4b5b-85f2-0893fd584e71.webp"
+        },
+        "Quest": {
+            "wordRoot": "Quest",
+            "wordDefinition": "A quest typically refers to a long and challenging journey in search of a specific goal or objective. It often involves facing obstacles, overcoming challenges, and experiencing personal growth along the way.\n\nExamples of quests could include a hero's journey in a story, a religious pilgrimage, or a personal endeavor such as finding one's purpose in life.\n\nIt can be a more practical and straightforward process than a quest, and may not involve any significant personal growth.\n\nA quest is more focused on the journey and the personal growth that comes with it, while a search is more focused on the end goal and finding what one is looking for.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1d63e47d-33ac-47ff-b269-83cb6a183142.webp"
+        },
+        "Scan": {
+            "wordRoot": "Scan",
+            "wordDefinition": "Scan means to quickly look over something to get a general idea of what it is or to find something specific.\n\nFor example, you might scan a page of a book to look for a particular word or to see if it's interesting before reading it more carefully.\n\nSo, scanning is used when you want to get a general idea of something or find something quickly, and searching is used when you want to find something specific, often through more thorough and intentional efforts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b7456381-eb41-49e7-9a09-bcd4e771ef72.webp"
+        },
+        "Scrutinize": {
+            "wordRoot": "Scrutinize",
+            "wordDefinition": "Scrutinize typically means examining something very closely, carefully, and in detail in order to discover any faults, errors, or inconsistencies.\n\nFor example, a teacher might scrutinize a student's essay to make sure it meets certain standards.\n\nBoth words involve looking at something closely or thoroughly, but they are used in different contexts. Scrutinize is more focused on looking for faults, while search is more focused on finding something that is missing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53f17615-8dfe-4eba-9d1e-aef39e0ff54e.webp"
+        },
+        "Seek": {
+            "wordRoot": "Seek",
+            "wordDefinition": "Both search and seek mean to look for something, but search is more commonly used to describe a systematic and methodical process of looking for something, while seek is more often used to describe a purposeful and intentional effort to find something.\n\nFor example, you might say you are going to search your room for your missing keys, but you might say you are going to seek out new opportunities in life.\n\nUltimately, both words can be used interchangeably in many cases, but search is often associated with a more thorough or exhaustive process, while seek is often associated with a more focused or intentional approach.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f757e6b6-8452-426c-824a-937f576eefde.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " searching for a blood vessel. When it hits one, the lucky parasite can suck two to three times its weight in blood. Turns out we don't really like that too much. In fact, humans hate mosquitos so much that we spend billions of dollars worldwide to keep them away from us -- from citronella candles to bug sprays to heavy-duty agricultural pesticides.",
+            "Title": "The loathsome, lethal...",
+            "VideoId": "IkmjCmvfeFI",
+            "Controls": "start=66"
+        },
+        {
+            "Text": " written by one of the smartest people in history? Let's give it a shot. The world's rarest fish has been stolen from the city aquarium. The police have followed the scent to a street with five identical looking houses. But they can't search all the houses at once, and if they pick the wrong one, the thief will know they're on his trail.",
+            "Title": "Can you solve...",
+            "VideoId": "1rDVz_Fb6HQ",
+            "Controls": "start=22"
+        },
+        {
+            "Text": " and last of all the name is a real dictionary word which is a rare find these days now there was only one issue with alphabet car company bmw owned the url alphabet.com but you know here's the thing owningthe.com doesn't matter as much these days now that we find stuff through google search and we connect",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=299"
+        },
+        {
+            "Text": " there were no tracks coming back we're gonna lose life it's getting dark yeah we have to wake out morning make a wide perimeter see if we can pick up some tracks with sunlight fading the men are forced to suspend their search and make camp for the night in the heart of bear country",
+            "Title": "The Skull Clue PIPE The...",
+            "VideoId": "KmTLBGsoiNg",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " or leaving drought-stricken areas in search of better circumstances. There are many people around the world who have been displaced because of natural disasters, food insecurities, and other hardships, but international law, rightly or wrongly,",
+            "Title": "What does it mean to be...",
+            "VideoId": "25bwiSikRsI",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " and searched their pockets for drugs as they walked to class? Or had raided their frat parties in the middle of the night? Okay, you might say. But doesn't this high incarceration rate partly account for our really low crime rate?",
+            "Title": "Alice Goffman: How we're...",
+            "VideoId": "-2Dj9M71JAc",
+            "Controls": "start=633"
+        },
+        {
+            "Text": " and researchers continue searching for new applications. Already, aspirin's versatility has transformed modern medicine, which is astounding considering its humble beginnings in a scraping of willow bark.",
+            "Title": "How aspirin was...",
+            "VideoId": "uRhkDN2WjzI",
+            "Controls": "start=310"
+        },
+        {
+            "Text": " Immortality. In movies, kings are always searching for the secret to immortality. But is immortality really a good thing? To a ten-year-old boy, one year is the same as 10% of his life.",
+            "Title": "If superpowers were...",
+            "VideoId": "uvMiz0-nPxs",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " These are insects that, by working together, transcend individual size. The colony can search the entire jungle and flush out its wildlife.",
+            "Title": "Army Ants Rampage...",
+            "VideoId": "JsfiUR0ZzLw",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " the scent lures the fly deep into the flower in search of meat",
+            "Title": "Corpse Flower Stinks of...",
+            "VideoId": "YxIpl38rsMo",
+            "Controls": "start=156"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tom-cruise.webp",
+            "Text": "I have respect for what other people believe. What I believe in my own life is that it's a search for how I can do things better, whether it's being a better man or a better father or finding ways for myself to improve.",
+            "Title": "American Actor",
+            "Name": "Tom Cruise"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-bach.webp",
+            "Text": "It is by not always thinking of yourself, if you can manage it, that you might somehow be happy. Until you make room in your life for someone as important to you as yourself, you will always be searching and lost.",
+            "Title": "American Novelist",
+            "Name": "Richard Bach"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alice-walker.webp",
+            "Text": "It no longer bothers me that I may be constantly searching for father figures; by this time, I have found several and dearly enjoyed knowing them all.",
+            "Title": "American Author",
+            "Name": "Alice Walker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-camus.webp",
+            "Text": "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
+            "Title": "French Philosopher",
+            "Name": "Albert Camus"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lady-gaga.webp",
+            "Text": "I've been searching for ways to heal myself, and I've found that kindness is the best way.",
+            "Title": "American Singer",
+            "Name": "Lady Gaga"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/isabelle-adjani.webp",
+            "Text": "Passion surprises. One doesn't search it. It can happen to you tomorrow.",
+            "Title": "French Actress",
+            "Name": "Isabelle Adjani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mohit-raina.webp",
+            "Text": "I search for thrill in my characters because I am a boring person.",
+            "Title": "Indian Actor",
+            "Name": "Mohit Raina"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mike-white.webp",
+            "Text": "My whole life I've been a seeker, searching for something.",
+            "Title": "Writer",
+            "Name": "Mike White"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bernard-berenson.webp",
+            "Text": "Between truth and the search for it, I choose the second.",
+            "Title": "American Historian",
+            "Name": "Bernard Berenson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nancy-grace.webp",
+            "Text": "I'm on a search for the truth.",
+            "Title": "American Journalist",
+            "Name": "Nancy Grace"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "currentWord": {
+        "wordRoot": "be ready for",
+        "id": 0,
+        "phonemic": "biː ˈrɛdi fɔːr",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "12345678-90ab-cdef-1234-567890abcdef",
+            "de": "Prepared and expecting something to happen.",
+            "ty": "phrasal verb",
+            "ex": "The athletes are ready for the competition.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "be ready for anything",
+                "be ready for a challenge",
+                "be ready for action",
+                "be ready for the worst",
+                "get ready for school",
+                "not ready for something"
+            ],
+            "ImageSrc": "./senses/d1ded8c3-5a69-4b76-8db4-24e44b71bc63.webp",
+            "Tips": [
+                {
+                    "title": "Expressing Preparedness",
+                    "description": "Use 'be ready for' to indicate that someone is prepared for a future event or situation.",
+                    "example": "I'm ready for my exam tomorrow.",
+                    "imageUrl": "./tips/b121ce58-3cca-4c66-bd44-44bccadde0bf.webp"
+                },
+                {
+                    "title": "Expecting the Unexpected",
+                    "description": "Use 'be ready for anything' to suggest preparedness for all possibilities.",
+                    "example": "Pack a first-aid kit, you never know, be ready for anything.",
+                    "imageUrl": "./tips/9c2bfed4-d764-4090-8ac0-ee7478a83c16.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Prepared": {
+            "wordRoot": "Prepared",
+            "wordDefinition": "'Prepared' emphasizes the act of making oneself ready, while 'be ready for' emphasizes the state of being ready. 'Prepared' often suggests more thorough or deliberate preparation.",
+            "wordImage": ""
+        },
+        "Set": {
+            "wordRoot": "Set",
+            "wordDefinition": "'Set' implies readiness and preparedness, especially for a specific action.  'Be ready for' is more general and can encompass a wider range of situations.",
+            "wordImage": ""
+        }
+    }
+}

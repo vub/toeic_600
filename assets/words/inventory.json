@@ -1,0 +1,292 @@
+{
+    "currentWord": {
+        "wordRoot": "inventory",
+        "id": 25612,
+        "phonemic": "ˈɪnvəntri|ˈɪnvəntɔːri\r",
+        "bigId": "e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1",
+        "wordForms": [
+            "inventories",
+            "inventory"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1",
+            "de": "A complete list of items such as products or goods in a particular place",
+            "ty": "noun",
+            "ex": "The store performs an annual inventory of all its products.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "annual inventory",
+                " inventory check",
+                " physical inventory"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1.webp",
+            "Tips": [
+                {
+                    "title": "Setting Context",
+                    "description": "Used to describe a comprehensive list in specific locations like a store or warehouse.",
+                    "example": "After the flood, the store needed a new inventory of its surviving stock.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OO4Nk7ExXnzMUxDp5VcNUcDPs.webp"
+                },
+                {
+                    "title": "Counting Items",
+                    "description": "Implies counting and describing each item, often for stock-taking or organizational purposes.",
+                    "example": "Please complete the inventory of office supplies by Monday.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nwTOsJF8cLMCV48zEI4F4uoFw.webp"
+                },
+                {
+                    "title": "Frequency Indicators",
+                    "description": "May be qualified by time to indicate when it's done, such as 'annual' for yearly.",
+                    "example": "The annual inventory helps us track product trends over time.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZfFs6rncbWpETegj8Yk6vNzadYE.webp"
+                }
+            ]
+        },
+        {
+            "id": "1ad6fb84-0167-4a38-8104-a882a9f0da08",
+            "de": "The amount of goods or the value of these goods a company has to sell at a particular time",
+            "ty": "noun",
+            "ex": "The car dealership had a large inventory of used cars.",
+            "use": "",
+            "co": "Business",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "large inventory",
+                " inventory management",
+                " inventory turnover"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1ad6fb84-0167-4a38-8104-a882a9f0da08.webp",
+            "Tips": [
+                {
+                    "title": "Business Assets",
+                    "description": "Relates to goods a company sells, indicating its range of products or financial value.",
+                    "example": "The company reported an inventory worth $500,000 in their quarterly update.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Inventory Turnover",
+                    "description": "In business, it suggests how quickly products are sold and replaced over time.",
+                    "example": "A high inventory turnover rate might indicate strong sales.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Management Tools",
+                    "description": "Highlights the role of tracking systems and practices for managing inventory in business.",
+                    "example": "Our warehouse uses the latest software for inventory management.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5a69c0d0-e28b-4d2f-8d29-9d58f114283d",
+            "de": "To make a complete list of items",
+            "ty": "verb",
+            "ex": "We need to inventory all the equipment before the move.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "inventory items",
+                " inventory goods",
+                " inventory products"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5a69c0d0-e28b-4d2f-8d29-9d58f114283d.webp",
+            "Tips": [
+                {
+                    "title": "Action Process",
+                    "description": "When used as a verb, it means to actively create a list of items.",
+                    "example": "We need to inventory the office computers before assigning them to the new interns.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Verbal Usage",
+                    "description": "Less common as a verb but still correct; focuses on the act of listing items systematically.",
+                    "example": "Could you help inventory the kitchen stock for our restaurant?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Preparation Context",
+                    "description": "Often done before events like moves, audits, or for updating systems.",
+                    "example": "Before the end-of-year audit, we must inventory all company assets.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Assortment": {
+            "wordRoot": "Assortment",
+            "wordDefinition": "Assortment refers to a collection or variety of different things, while inventory refers to the total amount or list of goods or materials that a business or organization has in stock.\n\nAssortment is applicable when referring to a range of products or items that are grouped together or sold as a package, such as a variety pack of snacks.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b86acd3d-669e-4fbb-add9-7dcfb7cfa0e9.webp"
+        },
+        "Cache": {
+            "wordRoot": "Cache",
+            "wordDefinition": "Cache generally refers to a hidden or secret store of something, often used in the context of computer data or files. For example, your web browser may have a cache that stores frequently accessed web pages to make loading faster.\n\nSo, while both cache and inventory involve keeping track of things, cache is more about storing and retrieving data or files, while inventory is more about keeping track of physical products or goods.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f99c274f-ed06-41c3-a3c1-f698f29cdba2.webp"
+        },
+        "Catalogue": {
+            "wordRoot": "Catalogue",
+            "wordDefinition": "A catalogue is a list of items that a business offers for sale, while an inventory is a record of all the items a business has in stock at a given time.\n\nCatalogues are used mainly for advertising and marketing purposes to showcase a business's products to potential customers, while inventories are used for internal management and tracking purposes to ensure that a business has enough stock to meet customer demand.\n\nFor example, a clothing store might create a catalogue of all the clothes they sell, and distribute it to customers so they can browse and choose what to buy.\n\nA catalogue is a list of items that a business is offering for sale and is mainly used for advertising and marketing, while an inventory is a record of all the items a business has in stock at any given time and is mainly used for internal management and tracking.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/941a39ec-5b31-4254-987a-eb9b3c6a2311.webp"
+        },
+        "Collection": {
+            "wordRoot": "Collection",
+            "wordDefinition": "A collection is a group of objects or items that are carefully chosen and gathered together by someone because they have a special value or significance.\n\nSo, while a collection is a curated selection of items that have special meaning or value to someone, an inventory is a complete record of all the goods that a business or organization has available.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b7dffe9b-3c07-4208-897e-6b759ff39c4b.webp"
+        },
+        "List": {
+            "wordRoot": "List",
+            "wordDefinition": "A list refers to a simple record of items in a specific order, such as a to-do list, grocery list, or packing list. It does not necessarily include specific details about the items on the list.\n\nInventory is used to keep track of goods in stock, while a list is a simple record of items in a specific order.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b2715178-90a7-45be-8be3-37a2033682e7.webp"
+        },
+        "Register": {
+            "wordRoot": "Register",
+            "wordDefinition": "A register can refer to a variety of things, such as a list of names or a recording device used to track sales or transactions.\n\nIn a business context, a register can also refer to a cash register, which is used to process sales and record payment transactions.\n\nInventory refers to the goods or materials that a business has, while a register is a tool used to track sales or transactions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3d315ee-352d-4337-a592-7a5c9a8f9a0f.webp"
+        },
+        "Repertoire": {
+            "wordRoot": "Repertoire",
+            "wordDefinition": "Repertoire refers to a collection of skills, abilities or talents that a person possesses.\n\nTo summarize, inventory refers to a list of physical goods, while repertoire refers to a collection of skills, abilities or talents.\n\nInventory is used in the context of tracking resources, while repertoire is used in the context of someone's abilities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bd31a892-ba96-473e-882e-9ef2b587158b.webp"
+        },
+        "Stock": {
+            "wordRoot": "Stock",
+            "wordDefinition": "Stock generally refers to the products that a retailer has available for immediate sale to customers. It specifically pertains to finished goods that are ready to be sold.\n\nFor example, a retail store may have different items in stock. The term stock is typically used in the context of a retail store.\n\nStock refers specifically to finished products that are available for sale in a retail store.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2cd09697-f848-4bc1-b212-2f38f4ebd4d8.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " we do. So sea turtles typically lay three to six nests per a season and each nest can have up to five different fathers in it. So because that females mating with multiple males, there are multiple paternity within these nests. So we have a nest right here and we're doing an inventory today, so this is what we do seven days after the nest hatches and we are freeing trapped hatchlings. So these eggs are not viable anymore, we have these little hatchlings here.",
+            "Title": "The Sea Turtles of...",
+            "VideoId": "hblxPDdisbw",
+            "Controls": "start=270"
+        },
+        {
+            "Text": " in your field of vision so I think it's important for all of us as individuals or as organizations to go about taking inventory of your past ten years what was the thing you couldn't see and what kept you from seeing it and trying to figure out what those blind spots were because we get good at that and we learn from the patterns of those older blind spots",
+            "Title": "Focusing on blind spots...",
+            "VideoId": "9MVc7sGIen8",
+            "Controls": "start=282"
+        },
+        {
+            "Text": " I got a female instructor first, to teach me the female role, the follow, because I wanted to understand the sensitivities and abilities that the follow needed to develop, so I wouldn't have a repeat of college. And then I took an inventory of the characteristics,",
+            "Title": "Smash fear, learn...",
+            "VideoId": "iPE2_iCCo0w",
+            "Controls": "start=744"
+        },
+        {
+            "Text": " Or, instead, they could give the food they would have wasted to her, upped their civic cred. Or, the white woman who called the police on the eight-year-old black girl, she could have bought all the inventory from that little black girl, support a small business.",
+            "Title": "How to deconstruct...",
+            "VideoId": "RZgkjEdMbSw",
+            "Controls": "start=825"
+        },
+        {
+            "Text": " This is one of the pieces. We put all these things on inventory, computerized, digital images and we created a passport for these objects. That meant that now these objects were visible to the whole world and could never actually be sold or marketed again.",
+            "Title": "Culture Heroes: Fredrik...",
+            "VideoId": "nsSLv41qXMA",
+            "Controls": "start=447"
+        },
+        {
+            "Text": " I decided to pull the white-power music from the inventory when I became too embarrassed to sell it in front of my new friends. And of course, the store couldn't sustain itself, so I had to close it. At that same time, I lost nearly everything in my life.",
+            "Title": "My descent into...",
+            "VideoId": "VM6HZqQKhok",
+            "Controls": "start=611"
+        },
+        {
+            "Text": " Did you ever stop to think about how those items of inventory actually found their way inside that box in the warehouse? So I'm here to tell you it's that guy right there. So deep in the middle of that picture, you see a classic pick-pack worker",
+            "Title": "Mick Mountz: What...",
+            "VideoId": "9UiK4llJOXc",
+            "Controls": "start=67"
+        },
+        {
+            "Text": " large lot, single family, distant, too expensive for the average middle-class family to afford and, quite frankly, not a good fit to their lifestyle anymore. But in order to move inventory, you can discount the financing and get it sold.",
+            "Title": "7 principles for...",
+            "VideoId": "IFjD3NMv6Kw",
+            "Controls": "start=298"
+        },
+        {
+            "Text": " and the resentful man sold him rotten herbs. As Xu Xian wondered what to do with this useless inventory, patients flooded into his shop. A plague had stricken the city, and he had nothing to treat them. Just as he was starting to panic,",
+            "Title": "The Chinese myth of the...",
+            "VideoId": "eEeeClBoqK0",
+            "Controls": "start=17"
+        },
+        {
+            "Text": " the census of marine life has released the most comprehensive inventory of life in the ocean to date it's an",
+            "Title": "Record-Breaking...",
+            "VideoId": "8LRfiSF6i58",
+            "Controls": "start=3"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/parker-harris.webp",
+            "Text": "Many people have said we just need to add more products. Look at Oracle, look at SAP. Add ERP and inventory or compensation. Add all this stuff. What we realized is we're the customer company. We're the front office solution, and our customers would be really upset if we just added a whole bunch of stuff and lost focus.",
+            "Title": "",
+            "Name": "Parker Harris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kirk-douglas.webp",
+            "Text": "All my life, I have taken inventory at intervals. For example, when I became a movie actor and suddenly I had to deal with fame, money and playing so many roles, I lost myself. I said, 'Who am I?' And I wrote my first book to deal with that, 'The Ragman's Son.",
+            "Title": "American Actor",
+            "Name": "Kirk Douglas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "Instead of blaming everyone and everything else for your problems, pray for God to help you take an inventory of what's been on your mind so you can think about what you've been thinking about.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jon-taffer.webp",
+            "Text": "In my extensive experience, I can honestly say that Sculpture Hospitality's inventory solutions are world class and, by far, the most comprehensive in the industry.",
+            "Title": "American Businessman",
+            "Name": "Jon Taffer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chuck-palahniuk.webp",
+            "Text": "I don't do much more than organise other people's ideas and insights and thoughts, and sort of harvest them, and inventory them and present them.",
+            "Title": "American Novelist",
+            "Name": "Chuck Palahniuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/craig-charles.webp",
+            "Text": "The inventory process and stepping back in your life can sometimes be a very dark process. But it also can be extremely funny and surprising.",
+            "Title": "British Actor",
+            "Name": "Craig Charles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nancy-pelosi.webp",
+            "Text": "We have so much room for improvement. Every aspect of our lives must be subjected to an inventory... of how we are taking responsibility.",
+            "Title": "American Politician",
+            "Name": "Nancy Pelosi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yolanda-hadid.webp",
+            "Text": "When the chips are down, life forces you to take inventory and reevaluate the people in your life.",
+            "Title": "American Model",
+            "Name": "Yolanda Hadid"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-sinegal.webp",
+            "Text": "We want to turn our inventory faster than our people.",
+            "Title": "American Businessman",
+            "Name": "James Sinegal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fairfax-cone.webp",
+            "Text": "The inventory goes down the elevator every night.",
+            "Title": "American Businessman",
+            "Name": "Fairfax Cone"
+        }
+    ]
+}

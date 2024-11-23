@@ -1,0 +1,90 @@
+{
+    "currentWord": {
+        "wordRoot": "go ahead",
+        "id": 0,
+        "phonemic": "ɡoʊ əˈhɛd",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+            "de": "To proceed or continue with something.",
+            "ty": "verb phrase",
+            "ex": "Go ahead and start the meeting without me.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "go ahead and",
+                "go right ahead",
+                "feel free to go ahead",
+                "please go ahead",
+                "go ahead with the plan",
+                "don't let me stop you, go ahead"
+            ],
+            "ImageSrc": "./senses/03330be8-124c-46cb-87c4-4b4ea99df905.webp",
+            "Tips": [
+                {
+                    "title": "Giving Permission",
+                    "description": "Used to give someone permission to do something.",
+                    "example": "Can I use your phone? - Go ahead.",
+                    "imageUrl": "./tips/b0ab66d3-cf6b-403a-8099-5ef647b5a4bb.webp"
+                },
+                {
+                    "title": "Encouraging someone",
+                    "description": "Used to encourage someone to start or continue.",
+                    "example": "I'm nervous about the presentation. - Go ahead, you'll do great!",
+                    "imageUrl": "./tips/c89d89ad-b121-4671-9e5d-c4773a95ee80.webp"
+                },
+                {
+                    "title": "Starting something",
+                    "description": "Used to indicate the start of an activity.",
+                    "example": "Are we ready to begin? - Yes, go ahead.",
+                    "imageUrl": "./tips/97da0368-db41-48f2-8a5e-66643876d1f6.webp"
+                }
+            ]
+        },
+        {
+            "id": "98765432-10fe-dcba-4321-09876543210f",
+            "de": "To happen or take place.",
+            "ty": "verb phrase",
+            "ex": "The concert is going ahead as planned.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "go ahead as planned",
+                "is going ahead",
+                "will go ahead",
+                "went ahead despite",
+                "decided to go ahead with"
+            ],
+            "ImageSrc": "./senses/ba5fac12-5cd4-453b-964b-500d7ce589b8.webp",
+            "Tips": [
+                {
+                    "title": "Describing events",
+                    "description": "Used to describe the progression of an event.",
+                    "example": "Despite the rain, the game went ahead.",
+                    "imageUrl": "./tips/8ca49998-edcb-4464-8662-de3da9bb99a1.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "proceed": {
+            "wordRoot": "proceed",
+            "wordDefinition": "'Proceed' is more formal and emphasizes a continuation after a pause or interruption. 'Go ahead' is more informal and general.",
+            "wordImage": ""
+        },
+        "continue": {
+            "wordRoot": "continue",
+            "wordDefinition": "'Continue' simply means to keep doing something. 'Go ahead' implies permission or encouragement to start or continue.",
+            "wordImage": ""
+        }
+    }
+}

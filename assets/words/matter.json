@@ -1,0 +1,369 @@
+{
+    "currentWord": {
+        "wordRoot": "matter",
+        "id": 17471,
+        "phonemic": "ˈmætə(r)|ˈmætər\r",
+        "bigId": "27cebc71-f630-4fc5-9b0d-2228f064f5e3",
+        "wordForms": [
+            "matters",
+            "mattering",
+            "mattered",
+            "matter"
+        ]
+    },
+    "senses": [
+        {
+            "id": "27cebc71-f630-4fc5-9b0d-2228f064f5e3",
+            "de": "A topic or issue to talk, think, or deal with",
+            "ty": "noun",
+            "ex": "Climate change is a serious matter that requires global attention.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "serious matter",
+                " pressing matter",
+                " complicated matter"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/27cebc71-f630-4fc5-9b0d-2228f064f5e3.webp",
+            "Tips": [
+                {
+                    "title": "Conversation Starter",
+                    "description": "Use 'matter' to introduce a topic for discussion in formal and informal contexts.",
+                    "example": "Let's discuss the matter of the upcoming project.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qI87WE3wh9YDOaNvvHdzOb7Pfw.webp"
+                },
+                {
+                    "title": "Expressing Concern",
+                    "description": "'Matter' can indicate a problem or concern when discussed among people.",
+                    "example": "Is everything alright? You look like you have a matter on your mind.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/cT3gslk5IasuxM2ARxDNzxKdf1Q.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9bba7e3f-589d-4d0c-ab4f-c3cd1d38b3bd",
+            "de": "Physical substance in general, everything in the universe",
+            "do": "Science",
+            "ty": "noun",
+            "ex": "Scientists study the properties of matter to understand its structure and behavior.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "dark matter",
+                " state of matter",
+                " antimatter"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9bba7e3f-589d-4d0c-ab4f-c3cd1d38b3bd.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Use",
+                    "description": "In science, 'matter' refers to anything with mass and volume, used in educational settings.",
+                    "example": "We learned that liquids and gases are both states of matter.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Broad Concept",
+                    "description": "'Matter' in science encompasses all physical objects, a foundational concept in physics and chemistry.",
+                    "example": "Matter can change states from solid to liquid or gas.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "83ea7c8b-f171-4f3d-b9b6-41a9ed0b2ffc",
+            "de": "Importance or significance",
+            "ty": "noun",
+            "ex": "Your opinion is of no matter to the decision we make.",
+            "use": "",
+            "sy": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "no matter",
+                " matter of importance",
+                " matter of time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/83ea7c8b-f171-4f3d-b9b6-41a9ed0b2ffc.webp",
+            "Tips": [
+                {
+                    "title": "Indicating Importance",
+                    "description": "Emphasize the weight or significance of a topic by considering it 'a matter' of something.",
+                    "example": "It's a matter of safety, so please wear your helmets.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Dismissing Significance",
+                    "description": "Using 'no matter' can minimize the perceived importance of something.",
+                    "example": "It's of no matter whether we take the train or the bus.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "39d28f3a-41e9-43db-8af0-542180decc9f",
+            "de": "To be of importance or significance",
+            "ty": "verb",
+            "ex": "It doesn't matter where you come from; what matters is where you are going.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "it doesn't matter",
+                " what matters",
+                " matters to me"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/39d28f3a-41e9-43db-8af0-542180decc9f.webp",
+            "Tips": [
+                {
+                    "title": "Current Issue",
+                    "description": "Use 'matter' when referring to a problem currently being experienced or considered.",
+                    "example": "We should resolve the matter of the late shipments immediately.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subject Relevance",
+                    "description": "The phrase 'matter at hand' helps to focus attention on the topic currently under discussion.",
+                    "example": "Let's focus on the matter at hand, which is budget allocation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b3929c39-7cc7-46ee-8ef1-a096cc37c0b7",
+            "de": "A situation or subject of concern",
+            "ty": "noun",
+            "ex": "There seems to be a matter of misunderstanding between us.",
+            "use": "",
+            "sy": "",
+            "re": "Concern",
+            "cl": [
+                "matter of concern",
+                " matter of course",
+                " matter at hand"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b3929c39-7cc7-46ee-8ef1-a096cc37c0b7.webp",
+            "Tips": [],
+            "tp": "",
+            "op": ""
+        },
+        {
+            "id": "4b4b1946-dcd9-46d0-9ee5-d1267b7fe487",
+            "de": "Printing material",
+            "do": "Publishing",
+            "ty": "noun",
+            "ex": "We need to check the matter before it goes to print.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "print matter",
+                " the matter at hand",
+                " draft matter"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4b4b1946-dcd9-46d0-9ee5-d1267b7fe487.webp",
+            "Tips": [
+                {
+                    "title": "Publishing Term",
+                    "description": "In publishing, 'matter' can be used to refer to text and illustrations for printing.",
+                    "example": "Please review the matter carefully for any typos before it's printed.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Content Preparation",
+                    "description": "Refers to preparing or examining content before it's made publicly available.",
+                    "example": "The editorial team is discussing the final print matter tomorrow.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Concern": {
+            "wordRoot": "Concern",
+            "wordDefinition": "Concern means to feel worried or anxious about something.\n\nIt is used when you care about a particular person or situation and want to make sure everything is okay. For example, \"I am concerned about my friend's health.\".\n\nConcern is used when there is emotional involvement or care, while matter describes a situation or topic that needs attention.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fd25403e-50af-4f9a-bef0-ecc1494ace6a.webp"
+        },
+        "Element": {
+            "wordRoot": "Element",
+            "wordDefinition": "Element refers to a simple substance that cannot be broken down into smaller substances by any chemical reaction.\n\nThere are 118 known elements in the periodic table, such as hydrogen, oxygen, carbon, etc. Elements are the basic building blocks of all matter, and they have unique physical and chemical properties.\n\nMatter can be either a pure substance or a mixture of substances. Pure substances can be elements or compounds, while mixtures are made up of two or more substances that are physically combined but not chemically bonded.\n\nSo, in simple terms, an element is a type of pure substance that cannot be broken down into simpler substances, while matter can be anything that takes up space and has mass, including elements, compounds, and mixtures.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0ea94ed-afca-4058-8180-39880e6a6b68.webp"
+        },
+        "Entity": {
+            "wordRoot": "Entity",
+            "wordDefinition": "An entity refers to something that exists, whether it is tangible or intangible.\n\nIn essence, anything that has its own existence can be considered an entity.\n\nSo, while an entity can refer to anything that exists, matter specifically refers to the physical substance that makes up the world around us.\n\nThey are both applicable in different contexts - entity can be used to refer to a business or a personal identity, while matter can be used to discuss the properties and physical makeup of the world's physical substances.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/07303d87-dbe1-4db6-9571-47ac41803e42.webp"
+        },
+        "Issue": {
+            "wordRoot": "Issue",
+            "wordDefinition": "Issue generally refers to a problem or concern that needs to be resolved or addressed.\n\nIt can also be used to refer to a topic that is being discussed or debated. For example, the issue of climate change or the issue of gun control.\n\nBoth words can be used in various contexts, but issue is often associated with problems or conflicts, while matter is more about a topic or subject that is important or significant.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fda7b7d6-4805-4aa7-9ef0-ea6278095593.webp"
+        },
+        "Material": {
+            "wordRoot": "Material",
+            "wordDefinition": "Material typically refers to a tangible thing, such as fabric or wood, that can be used to make something else. It's often used in the context of manufacturing or construction.\n\nTo summarize: material is a specific type of matter that can be used to make something, while matter can refer to anything that takes up space and has mass.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf40d611-a733-45e4-89b6-7d03cd83581b.webp"
+        },
+        "Object": {
+            "wordRoot": "Object",
+            "wordDefinition": "Objects refer to specific things made of matter that can be seen and touched.\n\nFor example, a football is an object made of matter, specifically plastic and air molecules. A mountain is also an object made of matter, specifically rock and dirt.\n\nMatter is a general term for the substance that makes up everything, while objects are specific things made of matter that can be observed and interacted with.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8fb143ea-057d-4cc5-8f41-8f48047940f3.webp"
+        },
+        "Subject": {
+            "wordRoot": "Subject",
+            "wordDefinition": "Subject refers to the broad area of interest or study that the matter falls under. For example, in a history class, the subject might be World War II and the matter might be the causes of the war.\n\nMatter refers to the specific thing or issue being discussed, while subject refers to the broader topic or area of study that the matter falls under.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5283a403-ad6f-49a5-9bda-2b37cd5d839e.webp"
+        },
+        "Substance": {
+            "wordRoot": "Substance",
+            "wordDefinition": "Substance refers to a particular type of matter that has uniform and distinct properties. For example, water is a substance as it has a particular formula (H2O) and will always have the same properties such as boiling point and freezing point.\n\nMatter refers to anything that has mass and takes up space, while substance refers to a particular type of matter with uniform properties.\n\nMatter can be applied to anything that exists, while substance is applicable when describing specific types of matter.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fb7521fb-fa40-4ef9-a532-7dba9e4f5780.webp"
+        },
+        "Thing": {
+            "wordRoot": "Thing",
+            "wordDefinition": "Thing is a more general term referring to any object or entity, whether physical or abstract.\n\nIt can be used in everyday conversations, and it often refers to something that is less specific or more general.\n\nYou might say \"I need to pick up a few things from the store,\" to refer to a general set of items you need to buy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e2d79319-f3e5-475b-9f90-433503f1370a.webp"
+        },
+        "Topic": {
+            "wordRoot": "Topic",
+            "wordDefinition": "Matter refers to the substance or material of something, while the word topic refers to the subject or theme being discussed.\n\nIf you are discussing the topic of healthy eating, you are talking about the subject of healthy eating, but not necessarily the physical make-up of specific foods.\n\nIn simpler terms, matter refers to the actual substance or material of something, while topic refers to the subject or theme being discussed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d56e4b0a-21f5-44bc-a6e6-b818693cd3b4.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and last of all the name is a real dictionary word which is a rare find these days now there was only one issue with alphabet car company bmw owned the url alphabet.com but you know here's the thing owningthe.com doesn't matter as much these days now that we find stuff through google search and we connect",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=299"
+        },
+        {
+            "Text": " The universe is bustling with matter and energy. Even in the vast apparent emptiness of intergalactic space, there's one hydrogen atom per cubic meter. That's not the mention a barrage of particles and electromagnetic radiation passing every which way from stars, galaxies, and into black holes.",
+            "Title": "Is it possible to create...",
+            "VideoId": "_rJOSDgDG0A",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " But we know it's out there because we can observe its gravitational attraction on galaxies and other celestial objects. We've yet to directly observe dark matter, but scientists theorize that we may actually be able to create it in the most powerful particle collider in the world.",
+            "Title": "Could we create dark...",
+            "VideoId": "h2MlS09KJP4",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " And with the exception of a compass or other magnetic object, we rarely see matter respond to a magnetic field. But put a plasma in an electric field or magnetic field, and you'll get a very different reaction. Because plasmas are charged, electric fields accelerate them,",
+            "Title": "Solid, liquid, gas and …...",
+            "VideoId": "tJplytSR-ww",
+            "Controls": "start=86"
+        },
+        {
+            "Text": " A few seconds or a minute at most? Well, oddly enough, the answer is many thousands of years. Here's why. Photons are produced by the nuclear reactions deep in the core of our Sun. As the photons flow out of the core, they interact with matter and lose energy,",
+            "Title": "Sunlight is way older...",
+            "VideoId": "Z-UO-RZBQ3U",
+            "Controls": "start=16"
+        },
+        {
+            "Text": " This law says take an isolated system defined by a boundary that matter and energy cannot cross. Inside this system, mass, a.k.a. matter and energy, can neither be created nor destroyed. The universe, to the best of our knowledge,",
+            "Title": "The law of conservation...",
+            "VideoId": "2S6e11NBwiw",
+            "Controls": "start=20"
+        },
+        {
+            "Text": " best friends for life. 'Cause we always thought that we would have each other, and she always saw the best in everyone, no matter who it was, she just like brought out their light. And her lifelong goal was to be a healer.",
+            "Title": "Surf Sisters - Ep. 2 PIPE...",
+            "VideoId": "F3LS8CQJW4A",
+            "Controls": "start=87"
+        },
+        {
+            "Text": " no matter how often or how hard I blew into it. It just wouldn't work. But it's not only about that. It's about passion. Often, people are good at things they don't really care for. It's about passion,",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=823"
+        },
+        {
+            "Text": " the elementary particles that are known for rarely interacting with anything. Starting from the center of the star, the exploding matter takes tens of minutes, or even hours,",
+            "Title": "How to detect a...",
+            "VideoId": "xYxyTZG7APQ",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " them how to hunt prey rob's got just the thing to help twist it'll be an easy target in a matter of weeks they'll actually be independent and hunting for themselves",
+            "Title": "Baby Weasel Playtime PIPE...",
+            "VideoId": "GQDpEEC6kW4",
+            "Controls": "start=108"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lebron-james.webp",
+            "Text": "Once you get on the playing field it's not about whether you're liked or not liked. All that matters is to play at a high level and do whatever it takes to help your team win. That's what it's about.",
+            "Title": "American Basketball Player",
+            "Name": "LeBron James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franz-kafka.webp",
+            "Text": "The experience of life consists of the experience which the spirit has of itself in matter and as matter, in mind and as mind, in emotion, as emotion, etc.",
+            "Title": "Novelist",
+            "Name": "Franz Kafka"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/future.webp",
+            "Text": "Don't matter if you're rich, poor or whatever, you just want to be able to have your own experiences in life and listen and learn from other people.",
+            "Title": "American Musician",
+            "Name": "Future"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-harrison.webp",
+            "Text": "In the big picture, it doesn't really matter if we never made a record, or we never sang a song. That isn't important.",
+            "Title": "British Musician",
+            "Name": "George Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-einstein.webp",
+            "Text": "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.",
+            "Title": "German Physicist",
+            "Name": "Albert Einstein"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-london.webp",
+            "Text": "Life is not a matter of holding good cards, but sometimes, playing a poor hand well.",
+            "Title": "American Novelist",
+            "Name": "Jack London"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paulo-coelho.webp",
+            "Text": "Life was always a matter of waiting for the right moment to act.",
+            "Title": "Brazilian Novelist",
+            "Name": "Paulo Coelho"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kareem-abdul-jabbar.webp",
+            "Text": "I just like seeing the world, and it doesn't matter where.",
+            "Title": "American Baseball Player",
+            "Name": "Kareem Abdul-Jabbar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aesop.webp",
+            "Text": "No act of kindness, no matter how small, is ever wasted.",
+            "Title": "Greek Author",
+            "Name": "Aesop"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-biden.webp",
+            "Text": "Life is a matter of really tough choices.",
+            "Title": "American President",
+            "Name": "Joe Biden"
+        }
+    ]
+}

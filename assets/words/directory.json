@@ -1,0 +1,261 @@
+{
+    "currentWord": {
+        "wordRoot": "directory",
+        "id": 3800,
+        "phonemic": "daɪˈrektəri|dəˈrektəri\r",
+        "bigId": "c2f74637-d2a1-41cf-a704-520aded0835c",
+        "wordForms": [
+            "directories",
+            "directory"
+        ]
+    },
+    "senses": [
+        {
+            "id": "c2f74637-d2a1-41cf-a704-520aded0835c",
+            "de": "A list of names, numbers, or other information arranged in a particular order.",
+            "ty": "noun",
+            "ex": "I looked up her name in the telephone directory.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "telephone directory",
+                " business directory",
+                " online directory"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c2f74637-d2a1-41cf-a704-520aded0835c.webp",
+            "Tips": [
+                {
+                    "title": "Organizational Tool",
+                    "description": "Directories often help people quickly find contact details or information.",
+                    "example": "Have a look at the company directory to get the manager’s extension number.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/akxn6reZ5pOHQLAFmha3WetuL7k.webp"
+                },
+                {
+                    "title": "Physical and Digital",
+                    "description": "Directories exist both in print, like phone books, and online as databases.",
+                    "example": "You can use an online business directory to find local services.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JeyK9HWh0zrtKzJ42rbNPtSemyU.webp"
+                },
+                {
+                    "title": "Arranged Information",
+                    "description": "Information in a directory is usually sorted alphabetically or by category.",
+                    "example": "The tourist directory lists all the hotels by location and then by name.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/VZXAfZI6VQqiuIg33xL1M1ZKo.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "192826ef-1a08-4fe9-ac36-8bc098c20472",
+            "de": "A folder or place where data is stored on a computer",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "You can find the file in the 'Documents' directory.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "root directory",
+                " subdirectory",
+                " directory path"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/192826ef-1a08-4fe9-ac36-8bc098c20472.webp",
+            "Tips": [
+                {
+                    "title": "File Organization",
+                    "description": "In computing, directories help organize files in a structured and navigable way.",
+                    "example": "Save your project in a separate directory on your desktop for easy access.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Hierarchy Levels",
+                    "description": "Computer directories can have multiple levels, called subdirectories.",
+                    "example": "I created a subdirectory under 'Music' for each genre.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Path Navigation",
+                    "description": "Directory paths tell you where to find a file within the folder structure.",
+                    "example": "Copy the full directory path to ensure you don't get lost in the folders.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Almanac": {
+            "wordRoot": "Almanac",
+            "wordDefinition": "An almanac is a book that usually contains detailed information about various aspects of weather, astronomy, statistics, and events.\n\nAlmanacs also include calendars, farming, and plant information. It provides a wide range of general knowledge, while directory provides specific contact details of individuals and organizations, usually arranged alphabetically or categorically.\n\nTo summarize, an almanac is for general information needed in a particular field, while a directory is for specific contact details.\n\nAlmanacs focus on providing general knowledge and information while directories focus on providing contact details for individuals and organizations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f3f35bed-d165-4387-8745-686a94cb28c3.webp"
+        },
+        "Catalogue": {
+            "wordRoot": "Catalogue",
+            "wordDefinition": "A catalogue is a list of items, often with pictures or descriptions, that are for sale or available to be borrowed from a library.\n\nA catalogue is used to list items for sale or borrowing, while a directory is used to list information about people or places.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/941a39ec-5b31-4254-987a-eb9b3c6a2311.webp"
+        },
+        "Guide": {
+            "wordRoot": "Guide",
+            "wordDefinition": "A guide is a document or a person who provides information or advice regarding a particular subject or activity. It is commonly used to assist someone in making a decision or finding their way around.\n\nFor example, a travel guide provides information on tourist destinations and activities.\n\nA directory is a list of information whereas a guide provides information or advice to assist someone with a specific task or decision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f804794-9b88-49fa-8b3e-7d9216f94710.webp"
+        },
+        "Handbook": {
+            "wordRoot": "Handbook",
+            "wordDefinition": "A handbook is typically a more comprehensive and detailed guide that provides information about a particular subject.\n\nA handbook may include instructions, rules, and policies, as well as background information and tips.\n\nA directory is more applicable when you need to find contact information for specific individuals or organizations, while a handbook is more applicable when you need a more comprehensive understanding of a particular subject.\n\nFor example, a phone book is a directory and would be used to find the phone number of a specific person, while a company's employee handbook would be a comprehensive guide to the company's policies and procedures.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f70cb7b8-c1a1-4218-9f91-d3d7c87ca7dc.webp"
+        },
+        "Index": {
+            "wordRoot": "Index",
+            "wordDefinition": "An index is a method of organizing and accessing information. An index is used to quickly locate specific information in a book, database, or other organized collection of information.\n\nFor instance, if you want to look up a specific word in a dictionary, you can use the index to find the page number for that word.\n\nAn index is typically a list of keywords and page numbers that helps you find information quickly.\n\nA directory is a place where files are stored and organized, while an index is a tool used to help users locate specific information within a larger collection of data.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e29bada7-0430-47b1-bde9-33ced15d8331.webp"
+        },
+        "Inventory": {
+            "wordRoot": "Inventory",
+            "wordDefinition": "An inventory is a comprehensive list of all items or resources available, such as an inventory of products in a store or an inventory of equipment in a factory.\n\nIn simpler terms, a directory is a list of names or places while an inventory is a list of everything that is available.\n\nDirectory is used when referring to specific names or places listed in an organized way, while inventory is used when referring to every item available.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1.webp"
+        },
+        "List": {
+            "wordRoot": "List",
+            "wordDefinition": "A directory is like a virtual folder that contains lists of files, subdirectories, and other data.\n\nA list is simply a collection of items arranged in a particular order.\n\nA list can be written down on a piece of paper or displayed on a computer screen.\n\nA directory is a type of list that provides a structured way to organize and access files and folders on a computer or network, while a list is a collection of items that can be used for a variety of purposes.\n\nDirectories are used in operating systems, file managers, and network protocols, while lists can be used in everyday life for tasks such as making a grocery list or creating a to-do list.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b2715178-90a7-45be-8be3-37a2033682e7.webp"
+        },
+        "Register": {
+            "wordRoot": "Register",
+            "wordDefinition": "A register is a list of people or things that have been officially recorded or enrolled.\n\nIt is used to keep track of people, organizations, or things for administrative or legal purposes. For example, a voter register is a list of people who are eligible to vote in an election.\n\nA directory is used to organize and locate information, while a register is used to keep track of people, organizations, or things for administrative or legal purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3d315ee-352d-4337-a592-7a5c9a8f9a0f.webp"
+        },
+        "Roster": {
+            "wordRoot": "Roster",
+            "wordDefinition": "A roster is a list of names or groups of people, typically used for organizing schedules or assignments. It is commonly used in sports teams or military groups to assign or record who is participating, when they are playing or working, and what their responsibilities are.\n\nA directory is used to find contact information or resources, while a roster is used to organize schedules or assignments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14082716-7b9e-4fd6-b100-62d984b76dd7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " like community-supported agriculture schemes, urban food production, creating local food directories, and so on. A lot of places now are starting to set up their own energy companies, community-owned energy companies, where the community can invest money into itself, to start putting in place the kind of renewable energy infrastructure that we need.",
+            "Title": "Rob Hopkins: Transition...",
+            "VideoId": "8meWY0W40OA",
+            "Controls": "start=734"
+        },
+        {
+            "Text": " and they're saying, we want to go anywhere in the world and censor content. Now the mechanism, as I said, for doing this, is you need to take out anybody pointing to those IP addresses. You need to take them out of search engines, you need to take them out of online directories,",
+            "Title": "Defend our freedom to...",
+            "VideoId": "9h2dF-IsH0I",
+            "Controls": "start=522"
+        },
+        {
+            "Text": " It had recently gone public and the market said that it was apparently worth two billion dollars, a number I didn't really understand. A magazine I'd recently launched called Business 2.0 was fatter than a telephone directory, busy pumping hot air into the bubble.",
+            "Title": "Chris Anderson (TED): A...",
+            "VideoId": "1NiB2ZAS-tk",
+            "Controls": "start=65"
+        },
+        {
+            "Text": " patient advocacy, research and health organizations. We built scalable and extensible resources, like biobanks and registries and directories of support for all diseases. And as I learned about all those diseases and all those disease communities,",
+            "Title": "Science didn't...",
+            "VideoId": "fscaRh2OtXk",
+            "Controls": "start=499"
+        },
+        {
+            "Text": " is also to share failures and successes. We're at the very beginning of something that, what we're seeing and the way that mesh companies are coming forward, is inviting, it's engaging, but it's very early. I have a website -- it's a directory --",
+            "Title": "Lisa Gansky: The future...",
+            "VideoId": "IHBGLHgIWJM",
+            "Controls": "start=844"
+        },
+        {
+            "Text": " tens of discipline tags so the software what it does it mines the data and sees like who is similar to who across many many different dimensions to me that's quite an evolution to our directory on the fellows website which is basically a",
+            "Title": "Making sense of complex...",
+            "VideoId": "nnPWQHtmlBw",
+            "Controls": "start=574"
+        },
+        {
+            "Text": " thanking us for being here one of the most powerful ways in which we can help the Ted fellows is offering them the platform of Ted calm in addition to putting up a directory of their profiles and letting them blog in a continuous",
+            "Title": "The TED Fellows program",
+            "VideoId": "jLQymiwTrW8",
+            "Controls": "start=284"
+        },
+        {
+            "Text": " with 3D, realistic, permanent nipple tattoos. We have a directory of artists throughout the UK that all work to a standard set by NIP, another standard, very important, and funding is available from the charity",
+            "Title": "The Restorative Power of...",
+            "VideoId": "dcsrHfPDP2M",
+            "Controls": "start=743"
+        },
+        {
+            "Text": " hurry up hurry up me to fish at a time it's a blessing and a curse change the directory if they cross lines sighs yes you cut them off",
+            "Title": "Catch of the Week -...",
+            "VideoId": "MQTb12gbFpw",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " So, this book that I have in my hand is a directory of everybody who had an email address",
+            "Title": "Danny Hillis: The...",
+            "VideoId": "AOEQ9GteWbg",
+            "Controls": "start=13"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sophie-hannah.webp",
+            "Text": "Some writers, I'm told, look for their characters' surnames in telephone directories. I don't - it seems too obvious. Or too deliberate: if you go looking for names, you're bound to find them, of course, but I've always had a superstitious hunch that the names you find by accident are always going to be better and more satisfying somehow.",
+            "Title": "British Poet",
+            "Name": "Sophie Hannah"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barry-diller.webp",
+            "Text": "The directories businesses still make nothing but money. They're overleveraged, they're bankrupt entities, but they still are the largest. This is all going to move online over time. Why Citysearch and Service Magic are so important to us, is because nobody has really colonized it yet completely.",
+            "Title": "American Businessman",
+            "Name": "Barry Diller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-sununu.webp",
+            "Text": "Not since the steam engine has any invention disrupted business models like the Internet. Whole industries including music distribution, yellow-pages directories, landline telephones, and fax machines have been radically reordered by the digital revolution.",
+            "Title": "American Politician",
+            "Name": "John Sununu"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "I think Facebook is an online directory for colleges... If I want to get information about you, I just go to TheFacebook, type in your name, and it hopefully pulls up all the information I'd care to know about you.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paul-graham.webp",
+            "Text": "When Facebook first started, and it was just a social directory for undergrads at Harvard, it would have seemed like such a bad startup idea, like some student side project.",
+            "Title": "English Scientist",
+            "Name": "Paul Graham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-seibel.webp",
+            "Text": "There is a directory where you can explore every single person who has gone through YC and a private forum that only founders can participate in.",
+            "Title": "American Businessman",
+            "Name": "Michael Seibel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eva-marie.webp",
+            "Text": "WWE Network has been phenomenal for me. It's an amazing directory for not only myself, but for anyone who's into wrestling.",
+            "Title": "American Actress",
+            "Name": "Eva Marie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christine-mcvie.webp",
+            "Text": "Recording 'Tusk' was quite absurd. The studio contract rider for refreshments was like a telephone directory.",
+            "Title": "American Musician",
+            "Name": "Christine McVie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/donald-sinden.webp",
+            "Text": "An actor who knows his business ought to be able to make the London telephone directory sound enthralling.",
+            "Title": "English Actor",
+            "Name": "Donald Sinden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joan-rivers.webp",
+            "Text": "Elizabeth Taylor has more chins than the Chinese telephone directory.",
+            "Title": "American Comedian",
+            "Name": "Joan Rivers"
+        }
+    ]
+}

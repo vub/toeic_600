@@ -1,0 +1,313 @@
+{
+    "currentWord": {
+        "wordRoot": "expense",
+        "id": 9144,
+        "phonemic": "ɪkˈspens|ɪkˈspens\r",
+        "bigId": "5341a6da-f595-44d4-8411-18052d842875",
+        "wordForms": [
+            "expenses",
+            "expense"
+        ]
+    },
+    "senses": [
+        {
+            "id": "5341a6da-f595-44d4-8411-18052d842875",
+            "de": "The cost required for something; the money spent on something.",
+            "ty": "noun",
+            "ex": "Running a car can be a huge expense.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "personal expense",
+                " annual expense",
+                " necessary expense"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5341a6da-f595-44d4-8411-18052d842875.webp",
+            "Tips": [
+                {
+                    "title": "Financial Priority",
+                    "description": "Indicates an important financial consideration, often suggesting high cost.",
+                    "example": "Securing a good education is an expense worth investing in.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/H1TZYYklUXxUq2ttecvh4RHVtk.webp"
+                },
+                {
+                    "title": "Everyday Usage",
+                    "description": "Commonly refers to typical costs associated with daily life or routines.",
+                    "example": "Monthly expenses such as rent and utilities are my main financial concern.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/YvpubmrSLkTkc423WOTmSj6QJU.webp"
+                },
+                {
+                    "title": "Budgeting Term",
+                    "description": "Often used in the context of managing finances or when budgeting personal earnings.",
+                    "example": "I track all my expenses in an app to manage my budget better.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HQGJ5ytkZ3Y0LBD9pqdOTa13Wg.webp"
+                }
+            ]
+        },
+        {
+            "id": "bc0c6e04-4b96-4f59-9db4-34dcb5725e28",
+            "de": "Something on which money must be spent; necessary costs or losses.",
+            "ty": "noun",
+            "ex": "This trip might be a great expense, but it's worth every penny.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "at the expense of",
+                " expense of time",
+                " expense of effort"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bc0c6e04-4b96-4f59-9db4-34dcb5725e28.webp",
+            "Tips": [
+                {
+                    "title": "Unavoidable Costs",
+                    "description": "Emphasizes expenses that are essential and can't be avoided.",
+                    "example": "Medical bills are an unfortunate expense that must be paid.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Sacrifice Implied",
+                    "description": "Suggests cost in not only money but also time, effort, or other sacrifices.",
+                    "example": "She completed her project, but not without significant expense of time.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7abacaf1-8334-4f00-bae8-e3b579926065",
+            "de": "In accounting, costs spent by a business in the process of earning revenue.",
+            "do": "Accounting",
+            "ty": "noun",
+            "ex": "The capital expense was high this quarter due to new equipment purchases.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "operating expense",
+                " capital expense",
+                " overhead expense"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7abacaf1-8334-4f00-bae8-e3b579926065.webp",
+            "Tips": [
+                {
+                    "title": "Business Context",
+                    "description": "Specific to costs incurred by businesses and typically used in professional settings.",
+                    "example": "The company's quarterly report lists travel as a major expense.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Revenue Relationship",
+                    "description": "In business, expenses are closely tied to profit and loss considerations.",
+                    "example": "Reducing unnecessary expenses will increase our net revenue.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6e19b00f-60a1-427c-b8bc-4246bf9174d9",
+            "de": "Used to say that someone is insulted or loses respect in order to do something that benefits someone else.",
+            "ty": "noun",
+            "ex": "They built a new mall at the expense of the local businesses.",
+            "use": "",
+            "co": "Idiomatic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "at one's own expense",
+                " at the expense of",
+                " laugh at the expense of"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6e19b00f-60a1-427c-b8bc-4246bf9174d9.webp",
+            "Tips": [
+                {
+                    "title": "Figurative Cost",
+                    "description": "Not always monetary; can imply a cost to dignity, reputation, or other intangible factors.",
+                    "example": "He made a mockery of himself at the expense of getting a laugh.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Social Situations",
+                    "description": "Used when one person or group benefits or gains humor at another's cost.",
+                    "example": "Sitcoms often have characters joking at the expense of each other.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Charge": {
+            "wordRoot": "Charge",
+            "wordDefinition": "Charge refers to the act of billing or asking someone to pay for something. For example, if you go to a restaurant and order food, the restaurant will charge you for the meal.\n\nCharge is also used when talking about electricity, where the amount of electricity used is measured in units of charge.\n\nTo summarize, charge refers to the act of billing or asking for payment, while expense refers to the cost of something.\n\nCharge is applicable when selling goods or services, while expense is applicable when talking about the cost of daily life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0ce82455-58ee-4af7-8e72-5c206b8731ac.webp"
+        },
+        "Cost": {
+            "wordRoot": "Cost",
+            "wordDefinition": "Cost refers to the amount of money needed to produce or acquire a good or service. It includes the price of raw materials, labor, and any other necessary expenses.\n\nCost is usually used in reference to production or manufacturing.\n\nCost is the price of producing or acquiring something, while expense is the price of using or consuming something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/085b4924-fb2c-4f96-9948-826bd0b13358.webp"
+        },
+        "Disburse": {
+            "wordRoot": "Disburse",
+            "wordDefinition": "Disburse refers to the act of distributing or paying out money, while expense refers to the cost of a particular item or service.\n\nFor example, if a company has a budget and needs to pay its employees, the company will disburse funds to the employees' bank accounts.\n\nDisburse relates to the act of distributing money, while expense refers to the cost of goods or services.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/96816e2c-a9d6-429a-ba03-b55eb3ecc9cd.webp"
+        },
+        "Expenditure": {
+            "wordRoot": "Expenditure",
+            "wordDefinition": "Expense and expenditure both refer to money spent, but there is a slight difference.\n\nExpenditure refers to the total amount of money that is spent over a period of time, including all expenses. It includes all forms of spending, whether it is on goods or services, and whether it is for personal or business purposes.\n\nFor example, if you buy a book for $20, the $20 is the expense. If you keep buying books over the course of a year and spend a total of $500, the $500 is the expenditure.\n\nExpense refers to the cost of a specific item, while expenditure refers to the total amount of money spent over a longer period of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a2e5c97f-775e-4017-a863-2b54463d4de7.webp"
+        },
+        "Fee": {
+            "wordRoot": "Fee",
+            "wordDefinition": "Fee refers to a specific charge or price for a particular service or product, such as a membership fee, tuition fee, or consulting fee.\n\nFees are usually charged as part of a transaction, such as a purchase or service provided.\n\nExpense is a more general term for the costs involved in running something, while fee refers to a specific charge for a particular service or product.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/48e2ac1f-1edf-4e91-a8e3-5db97e52b34a.webp"
+        },
+        "Outlay": {
+            "wordRoot": "Outlay",
+            "wordDefinition": "Expense and outlay are similar but have different nuances.\n\nOutlay usually refers to a one-time or upfront cost, such as buying a new car or investing money in a project.\n\nBut if you're talking about the cost of a new computer, you would refer to that as an outlay.\n\nExpense refers to ongoing costs, while outlay refers to one-time or upfront costs.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/82a39bba-d656-424f-873f-b2dfcb6309da.webp"
+        },
+        "Overhead": {
+            "wordRoot": "Overhead",
+            "wordDefinition": "Expense refers to any cost incurred in the process of producing or selling a product or service. Overhead specifically refers to the ongoing expenses of running a business that are not directly related to producing or selling a product, such as rent, insurance, utilities, or office supplies.\n\nTo simplify, expenses are costs that come with running or selling something, while overhead is a specific set of ongoing costs that are not directly related to production or sales.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5a4f8d4e-74aa-4f0d-84bd-a4dcea6d257d.webp"
+        },
+        "Spend": {
+            "wordRoot": "Spend",
+            "wordDefinition": "Spend refers to the actual act of using one's money to buy things. It involves the use of money to purchase goods or services, whether necessities or luxuries.\n\nBoth expense and spend are applicable when talking about money, but expense is the cost of something we regularly pay for, and spend is the money we use to buy things.\n\nFor example, rent is an expense, and when we pay rent, we are spending money.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/142c3d8e-44f0-46c7-97b9-d21d253b86d7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and the more often people are helping and sharing their knowledge and providing mentoring, the better organizations do on every metric we can higher profits, customer satisfaction, employee retention -- even lower operating expenses. So givers spend a lot of time trying to help other people and improve the team,",
+            "Title": "Are you a giver or a...",
+            "VideoId": "YyXRYgjQXX0",
+            "Controls": "start=219"
+        },
+        {
+            "Text": " microfinance but she still lacks the upfront cash that she needs for big expenses that can really help her get ahead and so how can she prove her capacity to repay without a credit score right now she can potentially go to a moneylender she can bribe someone within the bank to get connected to a loan",
+            "Title": "Creating an alternative...",
+            "VideoId": "xOlsCnqlf9I",
+            "Controls": "start=90"
+        },
+        {
+            "Text": " But the moment you set this as the default, it has a huge power over whatever people end up doing. I'll give you a couple of more examples on irrational decision-making. Imagine I give you a Do you want to go for a weekend to Rome, all expenses paid --",
+            "Title": "Are we in control of our...",
+            "VideoId": "9X68dm92HVI",
+            "Controls": "start=661"
+        },
+        {
+            "Text": " Meeting this goal will require nothing short of a second agricultural revolution. The first agricultural revolution was characterized by expansion and exploitation, feeding people at the expense of forests, wildlife and water",
+            "Title": "Can we create the...",
+            "VideoId": "xFqecEtdGZ0",
+            "Controls": "start=44"
+        },
+        {
+            "Text": " All of life abounds with suffering. It's caused by selfish craving for one's own fulfillment at the expense of others. Following an eight-step plan can teach us to reduce that craving, and thus reduce the suffering.",
+            "Title": "The five major world...",
+            "VideoId": "m6dCxo7t_aE",
+            "Controls": "start=324"
+        },
+        {
+            "Text": " who has what income, who has what expenses, who has what balance sheet, and how do we deal with money and credit -- those things, which people often lose sight of, because they happen only once in one's lifetime.",
+            "Title": "What coronavirus means...",
+            "VideoId": "yrxYhv2O3wU",
+            "Controls": "start=1264"
+        },
+        {
+            "Text": " that cause considerable damage when introduced to a new area. These species compete with native wildlife for resources, and thrive at the expense of the local ecosystem. The introduction of invasive species",
+            "Title": "Invasive Species 101 PIPE...",
+            "VideoId": "gYNAtw1c7hI",
+            "Controls": "start=37"
+        },
+        {
+            "Text": " and pour a torrent of light onto our dark world.\" Although he accomplishes something awe-inspiring, he has played with fire at his own ethical expense. And that decision echoes throughout the novel,",
+            "Title": "Everything you need to...",
+            "VideoId": "PDgu25Dsv34",
+            "Controls": "start=249"
+        },
+        {
+            "Text": " Herding behaviour protects the many but at the expense of the few.",
+            "Title": "Dinosaur Massacre PIPE...",
+            "VideoId": "xO8BjI3L3yg",
+            "Controls": "start=56"
+        },
+        {
+            "Text": " Herding behaviour protects the many but at the expense of the few.",
+            "Title": "Dinosaurs: Just Big...",
+            "VideoId": "LBZAtLxJf8c",
+            "Controls": "start=714"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/geoff-mulgan.webp",
+            "Text": "For most of human history, the main goal of states has been to conquer land and to achieve glory for their rulers, usually at others' expense. Then in recent decades it was all about GDP. It's only in very recent history that rulers have been willing to commit themselves to helping their citizens live happier lives.",
+            "Title": "English Educator",
+            "Name": "Geoff Mulgan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franchesca-ramsey.webp",
+            "Text": "I'm very self-deprecating, so I'm not afraid to make jokes at my own expense, and I've just found that makes people a little more comfortable and can open the door for people to feel a little bit more understanding and accepting of where you're coming from.",
+            "Title": "American Comedian",
+            "Name": "Franchesca Ramsey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zakk-wylde.webp",
+            "Text": "You have to pay attention, like with tours and expenses; you have to factor that all in. You want to play music for the rest of your life, you have to pay attention to all the things. You want to know what's always going on.",
+            "Title": "American Musician",
+            "Name": "Zakk Wylde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hank-johnson.webp",
+            "Text": "Most people seem unaware that corporate influence and wealth has taken over public policy, such that government policy now favors the wealthy few at the expense of the people.",
+            "Title": "American Politician",
+            "Name": "Hank Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eric-garcetti.webp",
+            "Text": "I have to spend my time worrying about poor families at the expense of helping businesses, or vice versa. To me, I really see that's the bridge I need to build.",
+            "Title": "Algerian Politician",
+            "Name": "Eric Garcetti"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-austen.webp",
+            "Text": "Give a girl an education and introduce her properly into the world, and ten to one but she has the means of settling well, without further expense to anybody.",
+            "Title": "British Writer",
+            "Name": "Jane Austen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fred-thompson.webp",
+            "Text": "You can't substitute promise after promise with known violators of prior promises at the expense of protecting ourselves or setting an example.",
+            "Title": "American Politician",
+            "Name": "Fred Thompson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noam-chomsky.webp",
+            "Text": "The U.S. is just in a class by itself in military expenses. It basically matches the rest of the world, and it's far more advanced.",
+            "Title": "American Activist",
+            "Name": "Noam Chomsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ernest-renan.webp",
+            "Text": "No idea can succeed except at the expense of sacrifice; no one ever escapes without enduring strain from the struggle of life.",
+            "Title": "French Philosopher",
+            "Name": "Ernest Renan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/imre-kertesz.webp",
+            "Text": "Modern life is organised so that you benefit at the expense of the other, and the most extreme example of that is a camp.",
+            "Title": "Hungarian Author",
+            "Name": "Imre Kertesz"
+        }
+    ]
+}

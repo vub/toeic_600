@@ -1,0 +1,317 @@
+{
+    "currentWord": {
+        "wordRoot": "random",
+        "id": 1520,
+        "phonemic": "ˈrændəm|ˈrændəm\r",
+        "bigId": "8ee8e025-97f5-4321-ba03-8a4fa2b13a13",
+        "wordForms": [
+            "randomly",
+            "randomness",
+            "random"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8ee8e025-97f5-4321-ba03-8a4fa2b13a13",
+            "de": "Happening without a clear pattern, purpose, or plan.",
+            "ty": "adjective",
+            "ex": "Random people were selected for the survey.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "random selection",
+                " random sample",
+                " random event"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8ee8e025-97f5-4321-ba03-8a4fa2b13a13.webp",
+            "Tips": [
+                {
+                    "title": "Lack of Control",
+                    "description": "Random events can't be predicted or influenced by anyone.",
+                    "example": "The weather is so random lately.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9KEThdYknFd3IodRUDPliku8W8.webp"
+                },
+                {
+                    "title": "Unexpected Occurrence",
+                    "description": "When something random happens, it's surprising and not anticipated.",
+                    "example": "A random thunderstorm ruined our picnic.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/r3WnMw1O9KAt822j1rBTUB53VfM.webp"
+                },
+                {
+                    "title": "No Discrimination",
+                    "description": "Random selection means everyone has an equal chance.",
+                    "example": "The draw for the prize was random.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QhMSJilAN4pzZ1JsDWYGlZ6J6is.webp"
+                }
+            ]
+        },
+        {
+            "id": "b540f072-9c6f-4c64-9e69-deea60234853",
+            "de": "Made, done, or happening without method or conscious decision.",
+            "ty": "adjective",
+            "ex": "He took a random guess.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "random guess",
+                " random choice",
+                " random decision"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b540f072-9c6f-4c64-9e69-deea60234853.webp",
+            "Tips": [
+                {
+                    "title": "Without Thinking",
+                    "description": "A random decision is made quickly, without careful reasoning.",
+                    "example": "He made a random choice and surprisingly won.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Impulsive Action",
+                    "description": "Random acts often result from a sudden impulse rather than a plan.",
+                    "example": "She bought a plane ticket to Paris on a random impulse.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d37a24c9-6ab8-41f3-b1ec-53d10ba52b3d",
+            "de": "Unknown, unidentified or chosen at random.",
+            "ty": "adjective",
+            "ex": "She received a call from some random person.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Colloquial",
+            "tp": "",
+            "cl": [
+                "random person",
+                " random stranger",
+                " random guy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d37a24c9-6ab8-41f3-b1ec-53d10ba52b3d.webp",
+            "Tips": [
+                {
+                    "title": "No Personal Connection",
+                    "description": "A random person is someone you don't know or have a connection with.",
+                    "example": "A random man on the street asked me for directions.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Feeling of Unpredictability",
+                    "description": "Calling someone 'random' can express the unexpected nature of an encounter.",
+                    "example": "She keeps getting texts from some random number.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "78183703-3a18-4251-9453-40312adf6848",
+            "de": "In computing, selected without any defined method or pattern.",
+            "do": "Computing",
+            "ty": "adjective",
+            "ex": "The computer generated a random number.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "random number",
+                " random sequence",
+                " random variable"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/78183703-3a18-4251-9453-40312adf6848.webp",
+            "Tips": [
+                {
+                    "title": "Strictly Technical",
+                    "description": "In computing, 'random' is precise and relates to unpredictability in algorithms.",
+                    "example": "The function returns a random integer each time it's called.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Truly Random",
+                    "description": "Computers simulate randomness; it's not truly unpredictable like natural randomness.",
+                    "example": "Random number generators are essential in cryptography.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Arbitrary": {
+            "wordRoot": "Arbitrary",
+            "wordDefinition": "Arbitrary means something that is decided or chosen without any specific reason or principle, whereas the word random means something that is chosen or happening without any particular pattern or purpose.\n\nRandom is applicable when referring to something that is unpredictable, chance or lacking in order or purpose, while arbitrary is applicable when referring to something that is subject to personal choice or whim rather than any rational basis.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/960e53b2-c27b-408d-90dd-6da67679da3d.webp"
+        },
+        "Capricious": {
+            "wordRoot": "Capricious",
+            "wordDefinition": "Capricious refers to something or someone that behaves in an unpredictable, impulsive, and often erratic manner. It implies a tendency to change one's mind suddenly or to act on a whim without any apparent reason.\n\nExample: The weather is capricious and can change quickly from sunny to stormy without warning.\n\nCapricious refers to behavior that is unpredictable and impulsive, while random refers to events or processes that are not based on any discernible pattern or order.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/50a978d4-912a-4536-a4bb-8495779eabec.webp"
+        },
+        "Casual": {
+            "wordRoot": "Casual",
+            "wordDefinition": "Casual means relaxed or informal, while the word random means without a particular aim or pattern.\n\nCasual is applicable when describing something that is not formal or serious, such as casual clothing or a casual conversation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/82a40e61-a17f-4b5a-8ee6-ec641f58ec0e.webp"
+        },
+        "Chance": {
+            "wordRoot": "Chance",
+            "wordDefinition": "Chance means that there is a possibility of something happening or not happening based on circumstances or conditions. For example, there is a chance of rain today.\n\nIn other words, chance relates to the likelihood of an event happening based on certain conditions or circumstances, while random refers to events happening with no predictable pattern or reason.\n\nBoth words can be applicable in various scenarios such as games of chance, statistical analysis, and decision-making processes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8d349d57-8092-460a-bc8f-dcbc362f1f67.webp"
+        },
+        "Erratic": {
+            "wordRoot": "Erratic",
+            "wordDefinition": "Erratic refers to something that is unpredictable or inconsistent in its pattern or behavior. For example, an erratic driver might swerve unexpectedly, making it difficult for others on the road to anticipate their movements.\n\nBoth words describe things that are unpredictable, but erratic implies an element of variability or inconsistency in a behavior, while random implies a lack of deliberate order or purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b8a9925e-9df4-4630-9483-4a484b93d5f0.webp"
+        },
+        "Haphazard": {
+            "wordRoot": "Haphazard",
+            "wordDefinition": "Haphazard implies a lack of organization or planning, often resulting in a messy or chaotic situation. It suggests that things are done without a clear purpose or direction.\n\nIn other words, haphazard implies a lack of intent or strategy, while random implies a lack of pattern or predictability.\n\nFor example, if someone throws clothes into their closet haphazardly, it suggests that the clothes are disorganized and not arranged purposefully.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e9c5289e-8520-4fa9-ad43-c1fe5ca10369.webp"
+        },
+        "Indiscriminate": {
+            "wordRoot": "Indiscriminate",
+            "wordDefinition": "Indiscriminate means without any thought or care about who or what is affected.\n\nFor example, indiscriminate bombing is when bombs are dropped without considering who or what may be in the area, causing damage and harm to innocent people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8f411a0c-60bb-481c-9036-ae7ecc3a1c39.webp"
+        },
+        "Predict": {
+            "wordRoot": "Predict",
+            "wordDefinition": "Predict means to make an educated guess or estimate about what will happen in the future based on available information or past experiences.\n\nFor example, a meteorologist predicts that it will rain tomorrow based on data collected from weather satellites.\n\nPredict is used when you can make a reasonable guess based on gathered information or past experience, while random is used when the outcome is not determined by any specific plan or pattern.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8a290aa8-a38f-4aed-b5a5-aaba4a406d2d.webp"
+        },
+        "Unplanned": {
+            "wordRoot": "Unplanned",
+            "wordDefinition": "Random and unplanned are similar in that they both describe things that happen unexpectedly or without deliberate intention.\n\nHowever, random suggests that there is no particular pattern or reason behind the occurrence, while unplanned implies that there was an original plan, but it was not followed or something happened to interfere with it.\n\nAn unplanned event could be missing a flight due to traffic - there was a plan to get to the airport on time, but unforeseen circumstances caused it to fall through.\n\nRandom is used more to describe things that happen without any apparent logic or order, while unplanned describes situations where something was supposed to happen a certain way, but ended up deviating from the plan.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e35b030-4f4b-4336-ad55-fe51e351f56b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " has patterns you wouldn't find from a random letter generator. Other than that, we know little more than what we can see. The letters are varied in style and height. Some are borrowed from other scripts, but many are unique. The taller letters have been named gallows characters. The manuscript is highly decorated throughout",
+            "Title": "The world’s most...",
+            "VideoId": "8NS4CbBJQ84",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " it led to further elaboration of the theory and helped launch research into subjects like quantum information, now a thriving field with the potential to develop computers of unparalleled power. Unfortunately, the randomness of the measured results prevents science fiction scenarios,",
+            "Title": "Einstein's brilliant...",
+            "VideoId": "DbbWx2COU0E",
+            "Controls": "start=261"
+        },
+        {
+            "Text": " wore the same T-shirts for three nights. After male volunteers were randomly assigned to smell either one of the worn shirts, or a new unworn one, saliva samples showed an increase in testosterone in those who had smelled a shirt worn by an ovulating woman. Such a testosterone boost",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " Otherwise, the label is dropping you. You have three minutes to think about it before we start. The band is in despair. After all, each musician only has a 50% chance of finding their instrument by picking five random boxes. And the chances that all ten will succeed are even lower -",
+            "Title": "Can you solve the...",
+            "VideoId": "vIdStMTgNl0",
+            "Controls": "start=62"
+        },
+        {
+            "Text": " veterinarian for is it a bit late you know for that and and he said well he comes in this guy show me around he said the veterinarian comes in every couple of weeks to conduct random autopsies so I thought well he must have seen the pattern by now surely in I mean another",
+            "Title": "Expanding our definition...",
+            "VideoId": "8awctnozMdo",
+            "Controls": "start=301"
+        },
+        {
+            "Text": " miraculous well no as you said before it's just a random set of cards what if it was first six digits of your social security number what if it were the last six digits of your social security number the first six digits of your phone number sometimes it's not actually",
+            "Title": "Miracle, Luck or Chance?...",
+            "VideoId": "921nsh8sK8U",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " though this is not supported by science. And though the proportions of different blood types vary between human populations, scientists aren't sure why they evolved; perhaps as protection against blood born diseases, or due to random genetic drift.",
+            "Title": "Why do blood types...",
+            "VideoId": "xfZhb6lmxjk",
+            "Controls": "start=235"
+        },
+        {
+            "Text": " plays an important role in explaining why certain things mix well into water and others don't. Entropy basically describes the way things and energy can be arranged based on random motion. For example, think of the air in a room.",
+            "Title": "Why don't oil and water...",
+            "VideoId": "h5yIJXdItgo",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " using a process called grafting to create this variety that's half tomato and half potato. Breeders have also used other types of genetic techniques, such as random mutagenesis, which induces uncharacterized mutations",
+            "Title": "Pamela Ronald: The case...",
+            "VideoId": "wZ2TF8-PGQ4",
+            "Controls": "start=129"
+        },
+        {
+            "Text": " that chaser has learned throughout her life and John picks eight at random chase let spice up chase fine punt go get one ray pop up play do it go do it",
+            "Title": "The Best Dogs of BBC...",
+            "VideoId": "MPV2METPeJU",
+            "Controls": "start=152"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gigi-gorgeous.webp",
+            "Text": "I think a lot of people who maybe know me from one video or come upon me randomly think I'm stuck-up because I'm blonde, or the way I come off, or from something I might have said. But everybody who actually knows me knows that I'm very down-to-earth and super chill.",
+            "Title": "Canadian Celebrity",
+            "Name": "Gigi Gorgeous"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lady-gaga.webp",
+            "Text": "I miss people. I miss going anywhere and meeting a random person and saying 'Hi' and having a conversation about life. I love people.",
+            "Title": "American Singer",
+            "Name": "Lady Gaga"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gail-honeyman.webp",
+            "Text": "We can all fight against loneliness by engaging in random acts of kindness.",
+            "Title": "Scottish Writer",
+            "Name": "Gail Honeyman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lucas-cruikshank.webp",
+            "Text": "For as long as I can remember, I was always creating random characters.",
+            "Title": "American Comedian",
+            "Name": "Lucas Cruikshank"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-jobs.webp",
+            "Text": "I believe life is an intelligent thing: that things aren't random.",
+            "Title": "American Businessman",
+            "Name": "Steve Jobs"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sidney-poitier.webp",
+            "Text": "So much of life, it seems to me, is determined by pure randomness.",
+            "Title": "American Actor",
+            "Name": "Sidney Poitier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-ryan.webp",
+            "Text": "Sometimes in life, random things can blind-side you.",
+            "Title": "English Actress",
+            "Name": "Michelle Ryan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-gygax.webp",
+            "Text": "Random chance plays a huge part in everybody's life.",
+            "Title": "American Inventor",
+            "Name": "Gary Gygax"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/claire-tomalin.webp",
+            "Text": "My life was a sort of series of random disasters.",
+            "Title": "English Author",
+            "Name": "Claire Tomalin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-tyler.webp",
+            "Text": "Maybe life is random, but I doubt it.",
+            "Title": "American Singer",
+            "Name": "Steven Tyler"
+        }
+    ]
+}

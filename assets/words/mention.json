@@ -1,0 +1,319 @@
+{
+    "currentWord": {
+        "wordRoot": "mention",
+        "id": 3480,
+        "phonemic": "ˈmenʃn|ˈmenʃn\r",
+        "bigId": "f33db7fa-6887-44aa-ad26-f2d4b27e5d8d",
+        "wordForms": [
+            "mentions",
+            "mentioning",
+            "mentioned",
+            "mention"
+        ]
+    },
+    "senses": [
+        {
+            "id": "f33db7fa-6887-44aa-ad26-f2d4b27e5d8d",
+            "de": "To talk about something or someone in a few words",
+            "ty": "verb",
+            "ex": "She mentioned that the store would be closed tomorrow.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "mention in passing",
+                " mention casually",
+                " mention by name"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f33db7fa-6887-44aa-ad26-f2d4b27e5d8d.webp",
+            "Tips": [
+                {
+                    "title": "Casual Conversation",
+                    "description": "Use 'mention' in informal chats to introduce a small piece of information.",
+                    "example": "Oh, I forgot to mention, we're having a party next week.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Ut5oOW7hXrVs6pN50azTSotRnE.webp"
+                },
+                {
+                    "title": "Brief Interjection",
+                    "description": "'Mention' can introduce an aside or relevant fact while discussing something else.",
+                    "example": "The movie was great, not to mention the awesome soundtrack.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JZ77mzs0wUyIgev2baBo9IbO1jg.webp"
+                },
+                {
+                    "title": "Avoid Overemphasis",
+                    "description": "Using 'mention' shows that the information is not the main focus of the conversation.",
+                    "example": "He briefly mentioned the meeting but didn't go into details.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PoccUWdhHOPXhsJmm7A7jchSw.webp"
+                }
+            ]
+        },
+        {
+            "id": "10109140-c295-4e14-bcdb-a47bec2495f9",
+            "de": "The act of talking about someone or something in a few words",
+            "ty": "noun",
+            "ex": "I was surprised to hear a mention of my name in their conversation.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "honorable mention",
+                " make mention of",
+                " no mention"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/10109140-c295-4e14-bcdb-a47bec2495f9.webp",
+            "Tips": [
+                {
+                    "title": "Subtle Recognition",
+                    "description": "A 'mention' can acknowledge someone's work or contribution without giving full focus.",
+                    "example": "She received an honorable mention for her artwork.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Limited Detail",
+                    "description": "A 'mention' implies that not much detail was provided about the topic or person.",
+                    "example": "They made a mention of the issue, but I wish they had elaborated.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "637e4257-2924-4c40-9fae-5e739ea7482b",
+            "de": "To say or write something in a formal or official way",
+            "ty": "verb",
+            "ex": "The report did not mention any names.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "mention in a report",
+                " mention in a document",
+                " mention officially"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/637e4257-2924-4c40-9fae-5e739ea7482b.webp",
+            "Tips": [
+                {
+                    "title": "Formal Reference",
+                    "description": "In academic or official contexts, 'mention' means to acknowledge something with authority.",
+                    "example": "The textbook mentions Piaget's theory in chapter three.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Official Documentation",
+                    "description": "Use 'mention' to refer to something that needs to be recognized in a formal document.",
+                    "example": "The contract mentions the confidentiality clause on page five.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6b2d9af8-52be-4d9a-a835-d090ed4c88e6",
+            "de": "A reference or citation in a document",
+            "do": "Academic",
+            "ty": "noun",
+            "ex": "The research paper had several mentions of previous studies on the topic.",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "written mention",
+                " document mention",
+                " reference mention"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6b2d9af8-52be-4d9a-a835-d090ed4c88e6.webp",
+            "Tips": [
+                {
+                    "title": "Academic Citations",
+                    "description": "'Mention' is used for citing sources in scholarly works, showing respect for prior research.",
+                    "example": "His paper mentioned several key studies that supported his hypothesis.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Crediting Sources",
+                    "description": "Mentioning work in academic papers shows the breadth of research done.",
+                    "example": "Throughout her thesis, she mentioned various authors who influenced her theory.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Allude to": {
+            "wordRoot": "Allude to",
+            "wordDefinition": "The words allude to and mention have different meanings. Mention means to directly refer to something or someone. For example, \"I mentioned to my friend about the movie I saw last night.\".\n\nAllude to means to refer to something indirectly, without actually saying it outright. For example, \"She alluded to her ex-boyfriend without directly talking about him.\".\n\nEach one is applicable in different situations. Use mention when you want to directly refer to something or someone, while use allude to when you want to refer to something indirectly.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aab6eec4-9356-4ddd-9aba-ce3b46890994.webp"
+        },
+        "Bring up": {
+            "wordRoot": "Bring up",
+            "wordDefinition": "The phrase bring up means to introduce a topic or subject for discussion, while mention means to briefly refer to something without going into detail.\n\nFor example, you might bring up a new movie you want to see with your friends as a possible activity, but only briefly mention it in passing if you're talking about something else.\n\nBring up is applicable when you want to start a conversation about a specific topic, while mention is more appropriate when you want to give a quick reference to something without discussing it in depth.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d5b326bb-15b6-403b-96a1-5bbf0b8dbfcc.webp"
+        },
+        "Cite": {
+            "wordRoot": "Cite",
+            "wordDefinition": "Cite refers to giving credit to a source for a fact or idea used in a piece of work. For example, when writing an essay, you would cite the sources you used for quotations or statistics.\n\nMention means to briefly refer to something in a piece of work without necessarily giving credit to a source. For example, if you were writing a personal narrative, you might mention a place you visited without citing a specific source.\n\nCite is used to give credit to sources, while mention is used to briefly refer to something without necessarily giving credit.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4c008413-01b8-4381-b8b6-fee31be545c6.webp"
+        },
+        "Introduce": {
+            "wordRoot": "Introduce",
+            "wordDefinition": "Introduce means to make someone aware of someone or something for the first time. It is mostly used when you are presenting someone to a group of people or when you are formally presenting an idea or concept.\n\nFor example, \"May I introduce you to my friend Sarah?\" or \"I would like to introduce the concept of sustainability.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/23a94f57-20f5-43ba-b939-c20aa30a9c1f.webp"
+        },
+        "Name": {
+            "wordRoot": "Name",
+            "wordDefinition": "Name refers to identifying a specific person, place, or thing by their given title or label. It's like pointing out something in a conversation by giving it an exact name.\n\nFor example: \"She named her dog Spot.\"\n\nTo put it simply, mention is used to bring up a topic in passing, while name is used to give something or someone a specific title or identity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3efd8f3-cd84-4cb7-8084-0c737275cd87.webp"
+        },
+        "Note": {
+            "wordRoot": "Note",
+            "wordDefinition": "Note means to record or take notice of something important.\n\nIt is used when something needs to be recorded for future reference or when it is particularly important to remember. For example, \"I noted down the important points from the meeting.\".\n\nMention is used when something is briefly brought up or spoken about, while note is used when something needs to be recorded or remembered for future reference or when it is particularly important.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4ab0402d-3807-45a1-8acd-d6999d0bade9.webp"
+        },
+        "Quote": {
+            "wordRoot": "Quote",
+            "wordDefinition": "Quote means to precisely repeat or reproduce someone's exact words or phrases. It is applicable when you want to provide a verbatim representation of someone's statement or text.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/79095899-da97-4e1b-995a-b8252b2ae852.webp"
+        },
+        "Refer to": {
+            "wordRoot": "Refer to",
+            "wordDefinition": "Mention means to briefly bring up or talk about something without going into much detail. It's often used when introducing a topic or idea, or when discussing something in passing.\n\nRefer to means to direct someone's attention to something else that might help explain or clarify what is being talked about.\n\nIt's often used when there is a need to go into more detail about a particular topic or idea.\n\nFor example, if you were talking about a book you read, you might mention the title and author. But if you wanted to discuss a specific passage or quote from the book, you might refer to that particular section to provide more context.\n\nMention is used when you want to bring something up quickly or briefly, while refer to is used when you want to provide more information or context about something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/51c383fe-47c2-4206-9a25-55b73d4ea0d2.webp"
+        },
+        "Remark": {
+            "wordRoot": "Remark",
+            "wordDefinition": "Remark means to comment on or express an opinion about something, often in a more detailed manner. It is applicable when you want to give your thoughts or opinions on a particular topic or issue.\n\nIn simpler terms, to mention is to bring something up briefly, while to remark is to say more about it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b2200d6b-495b-4017-946f-f986abafcf8d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " because that's where the pick stations were. They sorted it out for themselves. So I'll conclude with just one final video that shows how this comes to bear on the pick worker's actual day in the life of. So as we mentioned, the process is to move inventory along the highway and then find your way into these pick stations.",
+            "Title": "Mick Mountz: What...",
+            "VideoId": "9UiK4llJOXc",
+            "Controls": "start=586"
+        },
+        {
+            "Text": " but because of the way traits are inherited, all of the seedlings produced will have different sets of genes and characteristics. This means that to achieve a desired quality, it takes a lot of offspring, not to mention patience on the breeder's part. When a seedling does bear fruit with the desired qualities,",
+            "Title": "Why are there so many...",
+            "VideoId": "mQePz62zkqA",
+            "Controls": "start=98"
+        },
+        {
+            "Text": " and and it mentioned these things called barnacles and i was like really fascinated it said there were those ice formations that grew down from the the eyes from the surface ice uh remarkably quickly but no one had really seen the growth of them and i thought my god you know we could film we're going",
+            "Title": "Filming Antarctica's...",
+            "VideoId": "BtQhb8sWJNw",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " And if a fire-dependent forest goes too long without burning, that raises the risk of a catastrophic blaze, which could destroy a forest completely, not to mention people's homes and lives. That's why forest rangers sometimes intentionally start controlled burns",
+            "Title": "Why certain naturally...",
+            "VideoId": "cNVZEVq3KzY",
+            "Controls": "start=203"
+        },
+        {
+            "Text": " allows us to empathize with others' feelings at a deeper level. Scientists discovered this empathetic response to yawning while testing the first hypothesis we mentioned, fixed action pattern. This study was set up to show that dogs would enact a yawn reflex",
+            "Title": "Why is yawning...",
+            "VideoId": "4NpG4F9yq00",
+            "Controls": "start=172"
+        },
+        {
+            "Text": " Probably not. There's no evidence he did, and some of the brands mentioned are too recent. But the logic here is not so different from what you'd use to solve equations with multiple variables, even those describing the nature of the universe.",
+            "Title": "Can you solve...",
+            "VideoId": "1rDVz_Fb6HQ",
+            "Controls": "start=280"
+        },
+        {
+            "Text": " with five sharp claws not to mention intelligence and an acute sense of smell it all adds up to make brown bears amazing predators and that's why it's so important that we keep a safe distance and tread carefully in their habitat",
+            "Title": "Brown Bear Attack PIPE...",
+            "VideoId": "0ThZ8dc2B8E",
+            "Controls": "start=198"
+        },
+        {
+            "Text": " The universe is bustling with matter and energy. Even in the vast apparent emptiness of intergalactic space, there's one hydrogen atom per cubic meter. That's not the mention a barrage of particles and electromagnetic radiation",
+            "Title": "Is it possible to create...",
+            "VideoId": "_rJOSDgDG0A",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " and if you do, there are so many benefits. You'll be a part of a supportive community, you'll be building your confidence, you'll be exercising your body, and you'll be nurturing your mind, not to mention having fun.",
+            "Title": "How playing sports...",
+            "VideoId": "hmFQqjMF_f0",
+            "Controls": "start=195"
+        },
+        {
+            "Text": " recycled materials I was committed to helping the planet but I came to realize that none of the eco conscious actions I've mentioned even if we all did them would be enough to solve the great",
+            "Title": "An eco-modernist...",
+            "VideoId": "PcAKs7DVkPw",
+            "Controls": "start=30"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-morton.webp",
+            "Text": "Without mentioning any names, there was a film that was being done, and I ran into the producer on the plane. It was a book that I really, really loved, and I said, 'I'd love to be a part of this.' And they made it clear that that was not going to be possible - for no particular reason other than that there was just no part for a black person.",
+            "Title": "American Actor",
+            "Name": "Joe Morton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/emma-willis.webp",
+            "Text": "I tell my children they're beautiful, but that's more about their character as the way they look. We never talk about size or what's 'normal,' as everyone is unique. And I definitely don't mention things that might worry me about my own body in front of them.",
+            "Title": "English Celebrity",
+            "Name": "Emma Willis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/phan-thi-kim-phuc.webp",
+            "Text": "When I meet children and people who suffer, when they mention any kind of pain, emotional pain, physical pain, I know what they need, because it's the same thing I need. They need healing, they need peace, they need joy, they need hope.",
+            "Title": "Canadian Activist",
+            "Name": "Phan Thi Kim Phuc"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-franzen.webp",
+            "Text": "I was unwise enough to actually mention this in public a few times, and in fact to point out that there were two versions of the book now. One of them had somebody else's name on the cover, one had my name on the cover.",
+            "Title": "American Novelist",
+            "Name": "Jonathan Franzen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tony-mccoy.webp",
+            "Text": "Really racing is about the horses, not me. You can't do it without the horses, and they are the big players as are the lads who look after them, and they rarely get a mention.",
+            "Title": "Irish Athlete",
+            "Name": "Tony McCoy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bo-burnham.webp",
+            "Text": "Everyone in my family is very supportive, and any mention of family in my show is just, in my idea, the funniest version of the family of the guy of who's performing.",
+            "Title": "American Comedian",
+            "Name": "Bo Burnham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/clifton-fadiman.webp",
+            "Text": "One measure of friendship consists not in the number of things friends can discuss, but in the number of things they need no longer mention.",
+            "Title": "American Writer",
+            "Name": "Clifton Fadiman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jermaine-dupri.webp",
+            "Text": "To be mentioned in the same breath as people I admire means everything to me.",
+            "Title": "American Musician",
+            "Name": "Jermaine Dupri"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/al-lewis.webp",
+            "Text": "I'm more important to me than any body you can mention. Do you know that?",
+            "Title": "American Actor",
+            "Name": "Al Lewis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-pires.webp",
+            "Text": "It's a huge honour that I'm mentioned in the same breath as Mesut.",
+            "Title": "French Coach",
+            "Name": "Robert Pires"
+        }
+    ]
+}

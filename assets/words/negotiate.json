@@ -1,0 +1,330 @@
+{
+    "currentWord": {
+        "wordRoot": "negotiate",
+        "id": 11794,
+        "phonemic": "nɪˈɡəʊʃieɪt|nɪˈɡəʊʃieɪt\r",
+        "bigId": "1142fbcf-63ee-40de-a2c4-de59fbdced58",
+        "wordForms": [
+            "negotiates",
+            "negotiating",
+            "negotiated",
+            "negotiation",
+            "negotiate"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1142fbcf-63ee-40de-a2c4-de59fbdced58",
+            "de": "To discuss something with someone to reach an agreement",
+            "ty": "verb",
+            "ex": "The company refused to negotiate with the union.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "negotiate a deal",
+                " negotiate a treaty",
+                " negotiate a settlement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1142fbcf-63ee-40de-a2c4-de59fbdced58.webp",
+            "Tips": [
+                {
+                    "title": "Discussion Flow",
+                    "description": "Negotiating implies a back-and-forth exchange, often to find a middle ground.",
+                    "example": "We need to negotiate our terms carefully to benefit both parties.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MQ6JGk0buAAda3ZoBWUyWzYCuCA.webp"
+                },
+                {
+                    "title": "Power Dynamics",
+                    "description": "The ability to negotiate can depend on the balance of power between parties.",
+                    "example": "As a new employee, she found it hard to negotiate her salary.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Gx5EsuxBiRn35snZjYAGUVQucU4.webp"
+                },
+                {
+                    "title": "Resolution Goal",
+                    "description": "The main goal of negotiating is to resolve differences and reach an agreement.",
+                    "example": "We negotiated all night to resolve the conflict.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/OWGMVZIqYdXM9HkNzJ2ulbvqgU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "cc74ba62-8a2a-4274-9f60-18832fa73072",
+            "de": "To move in a clever way around something or someone that could cause problems for you",
+            "ty": "verb",
+            "ex": "He managed to negotiate his way through the crowd.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "negotiate through traffic",
+                " negotiate over obstacles",
+                " negotiate around barriers"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cc74ba62-8a2a-4274-9f60-18832fa73072.webp",
+            "Tips": [
+                {
+                    "title": "Strategic Movement",
+                    "description": "Negotiate can imply careful planning to move through challenging situations.",
+                    "example": "She negotiated the busy streets with ease.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Clever Adaptation",
+                    "description": "Using 'negotiate' in this way shows adaptability in tricky circumstances.",
+                    "example": "He negotiated the complex rules of the game quickly.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3fd8342e-35eb-4a60-9b1b-d40e59ea2a92",
+            "de": "To arrange for something to happen after discussions",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "They negotiated a new contract.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "negotiate an agreement",
+                " negotiate a contract",
+                " negotiate a loan"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3fd8342e-35eb-4a60-9b1b-d40e59ea2a92.webp",
+            "Tips": [
+                {
+                    "title": "Agreement Crafting",
+                    "description": "In legal terms, negotiate focuses on formally arranging terms and conditions.",
+                    "example": "The lawyers negotiated the terms before drafting the contract.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Plan Creation",
+                    "description": "Negotiate can mean to collaboratively come up with a detailed plan or strategy.",
+                    "example": "We negotiated a repayment plan that suited both sides.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0f00e143-a9a2-4bc8-b0d5-f5aa53f97397",
+            "de": "To successfully get past or through a difficult part or period",
+            "ty": "verb",
+            "ex": "We had several difficulties to negotiate before we could set up the project.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "negotiate a problem",
+                " negotiate a difficulty",
+                " negotiate a challenge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0f00e143-a9a2-4bc8-b0d5-f5aa53f97397.webp",
+            "Tips": [
+                {
+                    "title": "Problem Handling",
+                    "description": "Using 'negotiate' this way implies active efforts to solve challenges.",
+                    "example": "He negotiated every hurdle on the course meticulously.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Stressful Situations",
+                    "description": "Negotiating can involve managing stressful periods or complex parts of a task.",
+                    "example": "The team had to negotiate a crucial phase of the project.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Agree": {
+            "wordRoot": "Agree",
+            "wordDefinition": "Agree means to say yes or accept someone else's idea or proposal without discussion or argument. For example, if someone asks if you want to go to the movies, and you say yes, you've agreed to the idea without further discussion.\n\nNegotiate means to discuss and come to a mutual agreement or compromise with another person or party. For example, if you were trying to buy a used car, you would negotiate the price with the seller, discussing and coming to an agreed-upon price that is beneficial to both parties.\n\nAgree means to accept an idea without debate, while negotiate means to engage in discussion and compromise to reach an agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6d0e30c2-1256-408e-b3e3-a84306e8b711.webp"
+        },
+        "Bargain": {
+            "wordRoot": "Bargain",
+            "wordDefinition": "Bargain refers to getting something at a lower price than what is being asked for or selling something at a higher price than what it is worth.\n\nTo summarize, bargain describes obtaining a good deal on a product while negotiate describes making a deal or agreement with another party.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5594d17e-daae-49c9-b0f0-437a32ac0558.webp"
+        },
+        "Broker": {
+            "wordRoot": "Broker",
+            "wordDefinition": "A broker is a person or company who acts as a middleman between two parties to facilitate a transaction, such as buying or selling a property or financial investment.\n\nNegotiate refers to the act of discussing and reaching a mutual agreement between two parties. It involves exchanging ideas and finding a solution that works for both parties without necessarily involving a third-party broker.\n\nA broker helps parties complete a transaction while negotiating involves parties coming to a mutual agreement without a middleman involved.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aad71c00-04c3-4442-bba5-86fdddf1e4c0.webp"
+        },
+        "Compromise": {
+            "wordRoot": "Compromise",
+            "wordDefinition": "Compromise is when two or more people agree to give up some of what they want in order to reach a solution that everyone can live with.\n\nIt's like meeting in the middle. For example, if two friends are deciding what to do together and one suggests going to the movies and the other suggests going to the beach, they might compromise by going to a nearby lake instead.\n\nHowever, compromise is more focused on finding a solution that meets everyone's needs, while negotiate is focused on trying to get the best outcome for yourself while still working with others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/577861b6-f92b-4914-828c-309056032aec.webp"
+        },
+        "Confer": {
+            "wordRoot": "Confer",
+            "wordDefinition": "The main difference between the words confer and negotiate is that confer refers to discussing something with someone in order to make a decision, while negotiate refers to discussing and reaching an agreement or compromise with someone.\n\nConfer is applicable in situations where a group of people need to discuss or exchange ideas before making a decision. For example, a board of directors may confer about the direction of a company before making a decision.\n\nConfer is about discussing and coming to a decision, while negotiate is about discussing and coming to an agreement or compromise.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e841fbde-57fb-4a2f-a19f-12ed6f27c5c4.webp"
+        },
+        "Discuss": {
+            "wordRoot": "Discuss",
+            "wordDefinition": "Discuss means to talk about a topic or issue in order to share thoughts or ideas. It is a general term used for conversations where people exchange their views and reach a common understanding.\n\nTo simplify it for a 15-year-old, discussing something means talking about it while negotiating means talking about it to come up with a decision that both parties agree on.\n\n'Discussions' are used when people need to exchange their opinions, while 'negotiations' come into play when people are trying to finalize a deal or reach an agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/992d23d2-5795-44fa-bd24-c0580f15ef03.webp"
+        },
+        "Haggle": {
+            "wordRoot": "Haggle",
+            "wordDefinition": "Haggle and negotiate both mean to discuss terms and come to an agreement, but there are some differences in their usage.\n\nHaggle is typically used when discussing the details of a purchase or price with a seller or vendor. It often involves back-and-forth bargaining and trying to get the best deal possible.\n\nFor example, you might haggle with a salesperson over the price of a car or at a flea market over the cost of a piece of art.\n\nHaggle is more specific to price-related discussions with a seller, while negotiate can be used in a wider variety of situations where two parties are trying to reach an agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/edd82a89-784c-4e98-bbbc-f804dfaaca87.webp"
+        },
+        "Mediate": {
+            "wordRoot": "Mediate",
+            "wordDefinition": "Both mediate and negotiate refer to resolving a disagreement between two parties, but there is a subtle difference.\n\nMediation involves a third party who intervenes to help the two parties talk to each other and reach an agreement on their own.\n\nThe mediator does not make decisions for them, but rather facilitates communication and compromise. Mediation is generally used when two parties have a difficult time coming to an agreement on their own and need a neutral person to assist them.\n\nNegotiation is more confrontational than mediation, but the parties have more control over the outcome. Negotiation is often used when the parties are more equal in power and can discuss directly with each other.\n\nIn summary, mediation involves a third party who helps two parties communicate and come to an agreement, while negotiation involves a direct conversation between the two parties to find a resolution.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/34b7e0e7-69b6-4592-b037-3c0bdbf88760.webp"
+        },
+        "Resolve": {
+            "wordRoot": "Resolve",
+            "wordDefinition": "Resolve means to find a solution to a problem or conflict.\n\nIt can be used in a wider range of situations, not necessarily in a negotiation context. For example, you can resolve a technical issue on your computer, a tension between two friends, or a personal challenge you are facing.\n\nIn summary, while negotiation refers to a specific process of reaching an agreement with others, resolving refers to finding a way to overcome a problem or obstacle, either with or without the involvement of others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/01ad0f7a-9739-420f-a204-a5d1beb3ec2b.webp"
+        },
+        "Settle": {
+            "wordRoot": "Settle",
+            "wordDefinition": "Settle means to resolve or come to a final decision about something. It is applicable when the decision has already been made, and there is no more negotiation needed.\n\nFor example, a lawsuit may be settled out of court with a monetary agreement between the parties involved.\n\nNegotiate is about reaching an agreement, while settle is about making a final decision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4b152a5b-ce31-4e56-a1a8-b93e5c39fc32.webp"
+        },
+        "Transact": {
+            "wordRoot": "Transact",
+            "wordDefinition": "Transact means to carry out a business deal. It typically involves a straightforward exchange of goods or services for money.\n\nTransact is applicable when both parties have agreed on the terms of the deal and are ready to exchange goods or services for money.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/321ea8ce-504f-48bf-bf58-31152b68bf02.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " can lead you to claim more value from that negotiation. If you use them poorly, bad idea. Right? So when we think of nonverbals, we think of how we judge others, how they judge us and what the outcomes are. We tend to forget, though, the other audience that's influenced by our nonverbals, and that's ourselves.",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " Descriptivism, on the other hand, gives us insight into how our minds work and the instinctive ways in which we structure our view of the world. Ultimately, grammar is best thought of as a set of linguistic habits that are constantly being negotiated and reinvented by the entire group of language users.",
+            "Title": "Does grammar matter? -...",
+            "VideoId": "Wn_eBrIDUuc",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " was bent over backwards to help us with anything we needed. So now we had a hangar space to work in, and prototypes to demo with. So in one year, we've negotiated manufacturing agreements, been awarded one patent, filed our second patent, talked to multiple people, demoed this to FEMA",
+            "Title": "Michael McDaniel: Cheap,...",
+            "VideoId": "rx1cyKs3ysg",
+            "Controls": "start=392"
+        },
+        {
+            "Text": " vision she had a teacher who was an agent of this change and that teacher negotiated with my grandfather couldn't really believe in educating girls all that much the teacher went to her father and said if it's a issue of money I'm gonna found her education she should",
+            "Title": "Defying stereotypes: the...",
+            "VideoId": "yYALOFCuw-Q",
+            "Controls": "start=492"
+        },
+        {
+            "Text": " you will ever regret. And so the third side reminds us of that. The third side helps us go to the balcony, which is a metaphor for a place of perspective, where we can keep our eyes on the prize. Let me tell you a little story from my own negotiating experience.",
+            "Title": "The walk from \"no\" to...",
+            "VideoId": "Hc6yi_FtoNo",
+            "Controls": "start=312"
+        },
+        {
+            "Text": " this is a guy who's taking an opportunity he probably just wants some extra money for his family maybe even a good thing to put his kids in school who knows and he thinks that this is a way to do it after a tense four hour negotiation maria leaves",
+            "Title": "Saving a Pangolin's Life...",
+            "VideoId": "_8JWIhD628Y",
+            "Controls": "start=240"
+        },
+        {
+            "Text": " how to negotiate a late-night police raid, how and where to hide. I want you to imagine for a second what Chuck and Tim's lives would be like if they were living in a neighborhood where kids were going to college, not prison.",
+            "Title": "Alice Goffman: How we're...",
+            "VideoId": "-2Dj9M71JAc",
+            "Controls": "start=571"
+        },
+        {
+            "Text": " are negotiating their first salary, and only seven percent of women. And most importantly, men attribute their success to themselves, and women attribute it to other external factors. If you ask men why they did a good job,",
+            "Title": "Why we have too few...",
+            "VideoId": "18uDutylDa4",
+            "Controls": "start=388"
+        },
+        {
+            "Text": " had a few mouths full the adults need to go back to the ocean and start again if only it were as easy as that they must negotiate a long line of pecky adults protecting their eggs",
+            "Title": "Go Inside an Antarctic...",
+            "VideoId": "r1_8rRDHtQ8",
+            "Controls": "start=410"
+        },
+        {
+            "Text": " \"And you are a news magazine.\" So after a certain amount of negotiation, they agreed to it. But I think a lot of what they said was connected in some strange way",
+            "Title": "Depression, the secret...",
+            "VideoId": "-eBUcBfkVCo",
+            "Controls": "start=1367"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-mintzberg.webp",
+            "Text": "Basically, managing is about influencing action. Managing is about helping organizations and units to get things done, which means action. Sometimes, managers manage actions directly. They fight fires. They manage projects. They negotiate contracts.",
+            "Title": "Canadian Businessman",
+            "Name": "Henry Mintzberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pope-john-paul-ii.webp",
+            "Text": "Humanity should question itself, once more, about the absurd and always unfair phenomenon of war, on whose stage of death and pain only remain standing the negotiating table that could and should have prevented it.",
+            "Title": "Polish Saint",
+            "Name": "Pope John Paul II"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yul-vazquez.webp",
+            "Text": "When I was a child it was very clear what I was allowed to see and what I was not allowed to see and there was no discussion or option or negotiation. Whatever my mom said, that's what went down.",
+            "Title": "Cuban Actor",
+            "Name": "Yul Vazquez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judith-mckenna.webp",
+            "Text": "It's a very big world with some very big characters. And, boy, do you have to be able to stand up for yourself when you walk into a working men's club and negotiate a loan.",
+            "Title": "American Businesswoman",
+            "Name": "Judith McKenna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/judy-sheindlin.webp",
+            "Text": "When I go on vacation, I leave my house in total order: bills paid, garbage out, no milk in the refrigerator, mail done so that I can better negotiate what will await me.",
+            "Title": "American Lawyer",
+            "Name": "Judy Sheindlin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/harri-holkeri.webp",
+            "Text": "If you come to a negotiation table saying you have the final truth, that you know nothing but the truth and that is final, you will get nothing.",
+            "Title": "Finnish Politician",
+            "Name": "Harri Holkeri"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gina-mckee.webp",
+            "Text": "There's a way of negotiating how you portray your private life publicly that I've never had the skill to do.",
+            "Title": "English Actor",
+            "Name": "Gina McKee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/meryl-streep.webp",
+            "Text": "There's no road map on how to raise a family: it's always an enormous negotiation.",
+            "Title": "American Actress",
+            "Name": "Meryl Streep"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jan-schakowsky.webp",
+            "Text": "I support negotiating authority to lower prescription drug prices.",
+            "Title": "American Politician",
+            "Name": "Jan Schakowsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/benjamin-netanyahu.webp",
+            "Text": "You can only end a negotiation for peace if you begin it.",
+            "Title": "Israeli Leader",
+            "Name": "Benjamin Netanyahu"
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "currentWord": {
+        "wordRoot": "replace",
+        "id": 15997,
+        "phonemic": "rɪˈpleɪs|rɪˈpleɪs\r",
+        "bigId": "e18e97e6-fafa-4a9b-86ff-ce0d4cbb516d",
+        "wordForms": [
+            "replaces",
+            "replacing",
+            "replaced",
+            "replaceable",
+            "replace"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e18e97e6-fafa-4a9b-86ff-ce0d4cbb516d",
+            "de": "To put something or someone in the place of another.",
+            "ty": "verb",
+            "ex": "John couldn't come to work today, so Alex replaced him.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "replace the battery",
+                " replace the old version",
+                " replace someone in a team"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e18e97e6-fafa-4a9b-86ff-ce0d4cbb516d.webp",
+            "Tips": [
+                {
+                    "title": "Temporary Replacement",
+                    "description": "Used when someone temporarily takes over another's duties or role.",
+                    "example": "Sara was ill, so Mark replaced her at the meeting.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/DnEIQD4JmblLfTpiLrzEEFN9AB0.webp"
+                },
+                {
+                    "title": "Not Interchangeable",
+                    "description": "'Replace' suggests a successor, not necessarily an identical substitute.",
+                    "example": "Our new teacher replaced Mr. Johnson; they have different teaching styles.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/70t9TQn2FnWnu1hTBJxE89kNuOQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "ab4ccbe3-8d7d-497c-aac4-a8ad3d22c6d0",
+            "de": "To take the place of something or somebody.",
+            "ty": "verb",
+            "ex": "The sequel to the movie replaced the original in popularity.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "replace the leader",
+                " replace the old",
+                " replace tradition"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ab4ccbe3-8d7d-497c-aac4-a8ad3d22c6d0.webp",
+            "Tips": [
+                {
+                    "title": "New Dominance",
+                    "description": "Implies that the replacement has taken over in importance or popularity.",
+                    "example": "Streaming services have replaced DVDs as the preferred way to watch movies.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Era Shift",
+                    "description": "Indicates a change of time or era, often technological or cultural.",
+                    "example": "Smartphones replaced flip phones in the 2000s.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c3062e71-62f5-43a7-867f-456454d10059",
+            "de": "To fix something by putting a new part in place of the old one.",
+            "ty": "verb",
+            "ex": "The mechanic replaced the car's broken engine.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "replace parts",
+                " replace worn out items",
+                " replace the engine"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c3062e71-62f5-43a7-867f-456454d10059.webp",
+            "Tips": [
+                {
+                    "title": "Functional Restoration",
+                    "description": "Focus on restoring functionality, rather than making something new.",
+                    "example": "If your watch stops working, you might just need to replace the battery.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Repair with Parts",
+                    "description": "Usually involves exchanging a part, not fixing the original.",
+                    "example": "We replaced the worn-out tires with a new set.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "dad23d4a-1c35-4964-be28-ebd465bed204",
+            "de": "To substitute one string of characters, files or data by another in a file or sequence of commands.",
+            "do": "computing",
+            "ty": "verb",
+            "ex": "You can use the replace function to change 'cats' to 'dogs' in your document.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "replace a character",
+                " replace text",
+                " replace all instances"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dad23d4a-1c35-4964-be28-ebd465bed204.webp",
+            "Tips": [
+                {
+                    "title": "Digital Substitution",
+                    "description": "Used when changing digital information like text or files.",
+                    "example": "To correct a repeated mistake, just replace 'there' with 'their'.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Batch Processing",
+                    "description": "Can be used for making multiple replacements at once in digital files.",
+                    "example": "Replace all uses of 'Color' with 'Colour' to adapt the text for UK readers.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Alternate": {
+            "wordRoot": "Alternate",
+            "wordDefinition": "Alternate means to switch between two or more options or to take turns. For example, if you alternate between running and walking during a workout, you would run for a certain amount of time and then walk for a certain amount of time.\n\nAlternate means to switch back and forth between options, while replace means to remove one thing and put a new thing in its place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f0addb2-e125-46da-b67c-37166500c092.webp"
+        },
+        "Exchange": {
+            "wordRoot": "Exchange",
+            "wordDefinition": "Exchange refers to giving something in return for something else of equal value. For example, exchanging currency when traveling overseas.\n\nExchange is applicable when two parties are trading something, whereas replace is applicable when something needs to be substituted for another due to damage or ineffectiveness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e99727f-5e15-46be-b642-e663786b5987.webp"
+        },
+        "Fill in": {
+            "wordRoot": "Fill in",
+            "wordDefinition": "Fill in means to add or provide what is missing or incomplete, while replace means to substitute something with something else.\n\nFor example, if you have a form that has blanks in it that need to be completed, you would use fill in to mean completing the blanks with the necessary information.\n\nIf you have a broken chair, you would use the word replace to mean getting rid of the broken chair and getting a new one in its place.\n\nEssentially, to fill in means to complete something that is unfinished or incomplete, while to replace means to substitute one thing for another.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1439bb60-fd78-484e-925f-6886a428ea2e.webp"
+        },
+        "Substitute": {
+            "wordRoot": "Substitute",
+            "wordDefinition": "The words replace and substitute both mean to use something instead of something else, but there are some differences in their usage.\n\nSubstitute means to use something different instead of the original thing. For example, if you don't have milk for a recipe, you can substitute it with water.\n\nIf you want to make something exactly the same as before, use replace. If you want to use something different, use substitute.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8672302f-240e-4848-9e34-d825ea4aac87.webp"
+        },
+        "Succeed": {
+            "wordRoot": "Succeed",
+            "wordDefinition": "Succeed means to achieve or accomplish something, often in place of someone else. For example, if a CEO retires, someone else might succeed them by taking their place as the head of the company.\n\nReplace means to take the place of something or someone, while succeed means to achieve or take over from someone else in a specific role or position.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b43a3e21-87bf-448b-844c-c2e863a0cb5c.webp"
+        },
+        "Supplant": {
+            "wordRoot": "Supplant",
+            "wordDefinition": "Supplant means to remove something and replace it with something else, usually because the new thing is better. It's like saying the new thing has taken over the role of the old thing.\n\nFor example, a new technology might supplant an older one, or a new leader might supplant the old one.\n\nSo the difference is that replace is just swapping one thing for another, while supplant implies that the new thing is better or more important, and has replaced the old thing in that role.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/251d91c4-7789-411f-8836-222a9543cd45.webp"
+        },
+        "Swap": {
+            "wordRoot": "Swap",
+            "wordDefinition": "Swap means to exchange something with someone else.\n\nExample: I will swap my sandwich with your burger.\n\nReplace is used when you are getting rid of something old or damaged and putting in something new, while swap is used when trading one thing for another, usually of equal value.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/de52600f-ab8c-46cb-b259-6e6189e46bc7.webp"
+        },
+        "Take over": {
+            "wordRoot": "Take over",
+            "wordDefinition": "Replace means to substitute something or someone with a new thing or person, whereas take over means to take control or authority of something.\n\nTake over would be useful when a company acquires another company, they take over that company's assets, employees, and management.\n\nReplace means to substitute, while take over means to gain control or authority over something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dbe2b4b0-441d-4826-ad43-c3a7f3950bc9.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " As the world becomes wealthier as well as more populous, we're seeing increases in dietary consumption of meat, which take a lot more resources than a vegetarian diet does. So more people, eating more stuff, and richer stuff, and of course having an energy crisis at the same time, where we have to replace oil with other energy sources",
+            "Title": "Jonathan Foley: The...",
+            "VideoId": "1US4jjWtua8",
+            "Controls": "start=624"
+        },
+        {
+            "Text": " By selling them, kings enriched their own realms, and strengthened them against neighboring enemies. African kingdoms prospered from the slave trade, but meeting the European's massive demand created intense competition. Slavery replaced other criminal sentences, and capturing slaves became a motivation for war,",
+            "Title": "The Atlantic slave...",
+            "VideoId": "3NXC4Q_4JVg",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " So this time signature here tells us that there are four quarter notes in each bar, one, two, three, four; one, two, three, four, and so on. But like I said before, if we just stick to the beat, it gets kind of boring, so we'll replace some quarter notes with different rhythms.",
+            "Title": "How to read music - Tim...",
+            "VideoId": "ZN41d7Txcq0",
+            "Controls": "start=263"
+        },
+        {
+            "Text": " to take apart this pie chart and replace the word email with memo this could represent the life of a worker one century ago and it's frustrating because we all know what a great day feels like a day where you're able to keep the most important thing the most important thing",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=144"
+        },
+        {
+            "Text": " This is one of planet Earth's greatest spectacles. It's rarely seen on this scale and it won't last long. Once the food has gone, the steady roar of a billion beating locust wings will once again be replaced by nothing more than the sound of the desert wind.",
+            "Title": "Swarm Of Locusts DEVOUR...",
+            "VideoId": "6bx5JUGVahk",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " are now being replaced with standards based on universal constants, like the speed of light. Consistent measurements are such an integral part of our daily lives that it's hard to appreciate what a major accomplishment for humanity they've been.",
+            "Title": "Why the metric system...",
+            "VideoId": "7bUVjJWA6Vw",
+            "Controls": "start=264"
+        },
+        {
+            "Text": " Your experiences will be indistinguishable from reality. Life's natural ups and downs will just be replaced with an endless series of ups. Sounds great, right? It may seem like a tempting offer, but perhaps it's not as ideal as it sounds.",
+            "Title": "Would you opt for a life...",
+            "VideoId": "XNP1x11Z2Ig",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " He was one of the most influential figures of the 20th century, forever changing the course of one of the world's largest countries. But was he a hero who toppled an oppressive tyranny or a villain who replaced it with another?",
+            "Title": "History vs. Vladimir...",
+            "VideoId": "9N8hsXQapjY",
+            "Controls": "start=4"
+        },
+        {
+            "Text": " reopen blocked arteries, replace damaged livers and kidneys, and many other life-saving operations. And each year, new anesthesia techniques are developed that will ensure more and more patients survive the trauma of surgery.",
+            "Title": "How does anesthesia...",
+            "VideoId": "B_tTymvDWXk",
+            "Controls": "start=261"
+        },
+        {
+            "Text": " as dry as the one I'm holding in my hand now what happened we replaced that condition with this condition two and a half years after we began the first spring came to life",
+            "Title": "50 Years Ago, This Was a...",
+            "VideoId": "ZSPkcpGmflE",
+            "Controls": "start=188"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zal-batmanglij.webp",
+            "Text": "It doesn't really matter what someone's hair looks like or if the sound is perfect. Every director who's made a couple of movies knows that, because you can replace the sound. Or, like, any one shot is not that important, because they all add up together.",
+            "Title": "American Director",
+            "Name": "Zal Batmanglij"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jax-jones.webp",
+            "Text": "Getting to connect with new people in new parts of the world every week is a blessing, and when the crowd and music is right, nothing can replace that feeling.",
+            "Title": "English",
+            "Name": "Jax Jones"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-parrack.webp",
+            "Text": "When everything in a person's life is gone, ripped-out gone, it's not that you stay empty for so long, so you replace it with something else very quickly.",
+            "Title": "American Actor",
+            "Name": "Jim Parrack"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ernie-harwell.webp",
+            "Text": "I knew that everybody could be replaced. Nobody lasts forever. And if you work for somebody, he's certainly got the privilege and the right to fire you.",
+            "Title": "American Celebrity",
+            "Name": "Ernie Harwell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-sowell.webp",
+            "Text": "Much of the social history of the Western world, over the past three decades, has been a history of replacing what worked with what sounded good.",
+            "Title": "American Economist",
+            "Name": "Thomas Sowell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hal-needham.webp",
+            "Text": "If you read books forever and ever, they will never replace what really counts - that's practical experience.",
+            "Title": "American Director",
+            "Name": "Hal Needham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tempestt-bledsoe.webp",
+            "Text": "Whenever someone says, 'You've changed my life,' you can't replace that.",
+            "Title": "American Actress",
+            "Name": "Tempestt Bledsoe"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/martin-l-gross.webp",
+            "Text": "We live in a world in which politics has replaced philosophy.",
+            "Title": "American Writer",
+            "Name": "Martin L. Gross"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-m-schulz.webp",
+            "Text": "That's the secret to life... replace one worry with another.",
+            "Title": "American Cartoonist",
+            "Name": "Charles M. Schulz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fabinho.webp",
+            "Text": "It's not easy to replace the best centre-back in the world.",
+            "Title": "Brazilian Athlete",
+            "Name": "Fabinho"
+        }
+    ]
+}

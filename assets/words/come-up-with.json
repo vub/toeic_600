@@ -1,0 +1,63 @@
+{
+    "currentWord": {
+        "wordRoot": "come up with",
+        "id": 0,
+        "phonemic": "kʌm ʌp wɪð",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "a1b2c3d4-5678-90ab-cdef-012345678901",
+            "de": "To produce or create (something, such as an idea, a plan, or a solution) after a period of thought or effort.",
+            "ty": "phrasal verb",
+            "ex": "She came up with a brilliant idea for the new marketing campaign.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "come up with a solution",
+                "come up with an idea",
+                "come up with a plan",
+                "come up with an answer",
+                "come up with a suggestion",
+                "quickly come up with",
+                "struggling to come up with"
+            ],
+            "ImageSrc": "./senses/b1693143-6c22-4c49-8630-ee73603119da.webp",
+            "Tips": [
+                {
+                    "title": "Suggesting a solution",
+                    "description": "Use 'come up with' when you're suggesting a solution to a problem or offering an idea.",
+                    "example": "We need to come up with a way to increase sales.",
+                    "imageUrl": "./tips/c829350f-4577-4ef7-a66f-f74abd36d2f3.webp"
+                },
+                {
+                    "title": "Creating something new",
+                    "description": "Use 'come up with' to describe the process of creating or inventing something new.",
+                    "example": "The engineers came up with a new design for the engine.",
+                    "imageUrl": "./tips/3f286b7c-9ef0-4290-9d9c-35adba9840d8.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "devise": {
+            "wordRoot": "devise",
+            "wordDefinition": "'Devise' implies careful planning and ingenuity, often for something complex. 'Come up with' is more general and can be used for simpler ideas as well.",
+            "wordImage": ""
+        },
+        "think of": {
+            "wordRoot": "think of",
+            "wordDefinition": "'Think of' is more general and can refer to any thought that comes to mind. 'Come up with' suggests a more deliberate effort to generate an idea or solution.",
+            "wordImage": ""
+        },
+        "create": {
+            "wordRoot": "create",
+            "wordDefinition": "'Create' is broader and encompasses the act of bringing something into existence. 'Come up with' specifically refers to the generation of ideas or solutions.",
+            "wordImage": ""
+        }
+    }
+}

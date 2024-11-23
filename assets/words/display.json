@@ -1,0 +1,365 @@
+{
+    "currentWord": {
+        "wordRoot": "display",
+        "id": 13239,
+        "phonemic": "dɪˈspleɪ|dɪˈspleɪ\r",
+        "bigId": "ab15b671-5ce8-44a8-b67c-2deef94aab89",
+        "wordForms": [
+            "displays",
+            "displaying",
+            "displayed",
+            "display"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ab15b671-5ce8-44a8-b67c-2deef94aab89",
+            "de": "To show something so that it can be seen",
+            "ty": "verb",
+            "ex": "He displayed his paintings in the local gallery.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "display emotions",
+                " display interest",
+                " display talent"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ab15b671-5ce8-44a8-b67c-2deef94aab89.webp",
+            "Tips": [
+                {
+                    "title": "Visibility Intended",
+                    "description": "Using 'display' suggests intention to make something clearly visible to others.",
+                    "example": "She proudly displayed the award in her office.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/iLw3H9FKN54lnzihQxhnR2aFY0.webp"
+                },
+                {
+                    "title": "Not Concealed",
+                    "description": "When you 'display' something, there is no attempt to hide it; it's prominently shown.",
+                    "example": "The museum displayed the artifact in a central location.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HSynk4tjCcJIaWO9bkrUIYDF3YE.webp"
+                }
+            ]
+        },
+        {
+            "id": "db51fd0d-3428-49bb-bf6d-8e7dc855f1b0",
+            "de": "A collection of objects or pictures arranged for people to look at",
+            "ty": "noun",
+            "ex": "They have a display of flowers at the garden centre.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fireworks display",
+                " display case",
+                " display board"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/db51fd0d-3428-49bb-bf6d-8e7dc855f1b0.webp",
+            "Tips": [
+                {
+                    "title": "Artistic Arrangement",
+                    "description": "Focuses on a thoughtfully arranged presentation, often for aesthetic reasons.",
+                    "example": "The flower display at the entrance was captivating.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Public Attraction",
+                    "description": "Commonly used for arrangements meant to attract public attention or interest.",
+                    "example": "A colorful pottery display attracted many visitors.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "41a0661c-aa53-429d-9554-8363ba95148b",
+            "de": "A performance, show, or event intended for public entertainment",
+            "ty": "noun",
+            "ex": "The display of fireworks was amazing!",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fireworks display",
+                " aerial display",
+                " display of skill"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/41a0661c-aa53-429d-9554-8363ba95148b.webp",
+            "Tips": [
+                {
+                    "title": "Spectacle Emphasis",
+                    "description": "Implies a grand or elaborate presentation designed to impress or entertain viewers.",
+                    "example": "The dance troupe put on an incredible display.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "41837910-db6b-4876-97ce-79879408f245",
+            "de": "To appear on a screen",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "Press enter and the results will display on the screen.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "display image",
+                " display text",
+                " display results"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/41837910-db6b-4876-97ce-79879408f245.webp",
+            "Tips": [
+                {
+                    "title": "Technical Context",
+                    "description": "In computing, 'display' means information shown on a screen and can refer to the action or the device.",
+                    "example": "The error message will display for a brief moment.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0ff7e4ee-6711-4c3d-a2c6-2fff451d75d4",
+            "de": "The part of a computer which shows information visually",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "My computer display is not working.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "lcd display",
+                " led display",
+                " display screen"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0ff7e4ee-6711-4c3d-a2c6-2fff451d75d4.webp",
+            "Tips": [
+                {
+                    "title": "Electronics Term",
+                    "description": "Refers to a screen or device in electronics that visually shows data or images.",
+                    "example": "That smartphone has an OLED display.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Visual Clarity",
+                    "description": "In technology, it emphasizes clarity and quality of the visual output on the device.",
+                    "example": "The display resolution affects image sharpness.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ba29ac98-9c37-48f8-b514-c11a651cc05d",
+            "de": "To show a feeling, attitude, or quality",
+            "ty": "verb",
+            "ex": "She displayed a great deal of patience.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "display anger",
+                " display excitement",
+                " display indifference"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ba29ac98-9c37-48f8-b514-c11a651cc05d.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Context",
+                    "description": "To 'display' an emotion means to openly express it so others can observe it.",
+                    "example": "He could hardly display his joy at the news.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Intentional Sharing",
+                    "description": "When displaying a quality or attitude, it's done intentionally to communicate with others.",
+                    "example": "She displayed confidence during her presentation.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Array": {
+            "wordRoot": "Array",
+            "wordDefinition": "An array refers to a collection of similar data items that are stored together under a single name.\n\nIt is typically used in programming to store and manipulate large amounts of data. For example, an array can be used to store an entire list of numbers or words and perform various operations on them.\n\nAn array is used to organize and store data, while a display is used to show that data in a visual format.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c7762bae-0a75-4561-b67f-e0249928cf08.webp"
+        },
+        "Demonstrate": {
+            "wordRoot": "Demonstrate",
+            "wordDefinition": "Demonstrate means to show or prove something by giving evidence or by doing something. For example, a science teacher may demonstrate a scientific concept by performing an experiment in front of the class.\n\nIn simpler terms, demonstrate is used when you want to prove or show how something works or is done, while display is used when you want to show something off or make it visible to others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/72da8e41-218f-476e-ba99-275827fabbcb.webp"
+        },
+        "Exhibit": {
+            "wordRoot": "Exhibit",
+            "wordDefinition": "Exhibit generally means to show something in a public setting or environment, often as part of a collection or display.\n\nExhibits can be found in museums, galleries, or other public spaces, and can range from individual pieces to entire collections.\n\nDisplay is more often used to refer to individual items, while exhibit is typically used to refer to a collection of items that are presented to the public in a particular setting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf72c28e-0aa4-4874-8ccb-5582cbc5bc5b.webp"
+        },
+        "Flaunt": {
+            "wordRoot": "Flaunt",
+            "wordDefinition": "Flaunt refers to showing off or displaying something in a way that is meant to be noticed and draw attention, often in a way that is considered excessive or boastful.\n\nIn simpler terms, displaying something is simply showing it, while flaunting is showing it off in an attention-seeking way.\n\nDisplay is generally considered more neutral or positive, while flaunt can have negative connotations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5ccb0752-994e-4b7a-86a5-0dc304af30a5.webp"
+        },
+        "Parade": {
+            "wordRoot": "Parade",
+            "wordDefinition": "Parade refers to a public procession or celebration in which people and things are displayed or exhibited. For example, a parade might feature floats or marching bands and is often held for a specific occasion or holiday.\n\nDisplay is a more general term that refers to showing something, while parade specifically refers to a public procession or celebration.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ca79f33d-18fc-4176-b146-5d0ccf89b78a.webp"
+        },
+        "Present": {
+            "wordRoot": "Present",
+            "wordDefinition": "Both words, display and present refer to the act of showing something to an audience.\n\nPresent refers to showing something more abstractly or orally, like giving a speech, sharing a presentation or explaining something.\n\nDisplay is used when you want to physically show something to someone, and present is used when you want to verbally share something with someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2bf9fb1d-786b-4595-85a1-d38507078281.webp"
+        },
+        "Show": {
+            "wordRoot": "Show",
+            "wordDefinition": "The words display and show both mean to exhibit something or make it visible to others.\n\nHowever, display implies a more formal presentation, often in a public space, such as a museum or store window. Show can be used in a more casual or everyday context, like showing a friend a picture on your phone.\n\nDisplay is often used in more professional or official settings, while show is used in more personal or informal settings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/37a43b42-b043-4bf3-84e5-43d9946c9644.webp"
+        },
+        "Showcase": {
+            "wordRoot": "Showcase",
+            "wordDefinition": "Showcase refers to a specially designed container or display case that is used to show off or highlight something.\n\nSo, while both words refer to presenting or exhibiting something, display is a general term while showcase has a more specific meaning and is often used in marketing or advertising contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5ea19172-b6e5-4f18-8e59-19e042005f80.webp"
+        },
+        "Unveil": {
+            "wordRoot": "Unveil",
+            "wordDefinition": "Unveil refers to revealing something that was previously hidden or unknown, such as unveiling a new product or revealing a secret.\n\nYou would use display when you want to show something that is already known or visible, and unveil when you want to reveal something that was previously hidden or unknown.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/802f4285-d906-4783-b174-19b5cb9abe08.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " heads-up display that the drivers used to pair their instincts and experience with real-world analytics the results of the drivers are getting home earlier to see their families mileage is down which is good for profits in the environment customer satisfaction is actually up and they've been saving lives through an insight that they didn't have which is",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=325"
+        },
+        {
+            "Text": " but what we do have is improved technology. Today we don't need one million light bulbs to create a spherical display. We can use LEDs. LEDs are smaller, they're cheaper, they're longer lasting, they're more efficient. Most importantly for this, they're faster. And this speed, combined with today's high-performance micro-controllers,",
+            "Title": "Nick Sears: Presenting...",
+            "VideoId": "YYtr9us2pGw",
+            "Controls": "start=55"
+        },
+        {
+            "Text": " Hippos and crocodiles normally coexist peacefully, but crocs will take every opportunity to prey on a weak animal or scavenge a dead one. We've seen one or two of these hippos doing these big yawning displays, which is a threat to the crocodiles. They're trying to drive the crocodiles off with this big yawn and sharp teeth.",
+            "Title": "Hippo Fights Crocodiles...",
+            "VideoId": "zBnchVmArKE",
+            "Controls": "start=84"
+        },
+        {
+            "Text": " hippos and crocodiles normally coexist peacefully but crocs will take every opportunity to prey on a weak animal or scavenge a dead one we've seen one or two of these hippos doing these big yawning displays which is really a threat to the crocodiles they're trying to drive the crocodiles",
+            "Title": "Top 5 Killer Crocodile...",
+            "VideoId": "npi99Y-MkN0",
+            "Controls": "start=231"
+        },
+        {
+            "Text": " And your love for your partner may be in its own dynamic relationship, healthy or totally weird, with the love of your parents and siblings. Love is also a set of behaviors we associate with the Holding hands, kissing, hugging, public displays of affection, dating, marriage,",
+            "Title": "What is love? - Brad...",
+            "VideoId": "5sY4rhvB9LE",
+            "Controls": "start=108"
+        },
+        {
+            "Text": " these birds mate for life and the male reaffirms the bond by displaying to the female they're building a mud nest on the underside of the boulders overhang where it'll be protected from the rain",
+            "Title": "BBC Earth 50 Top Natural...",
+            "VideoId": "oP2oGREukAE",
+            "Controls": "start=22"
+        },
+        {
+            "Text": " expecting anything in return. So you might even risk your life and so it started sort of all sort of flooding in about. how this was an experience of perhaps the whale displaying",
+            "Title": "A whale saved my life PIPE...",
+            "VideoId": "OXNCCdcBhcY",
+            "Controls": "start=313"
+        },
+        {
+            "Text": " Now that we're integrating them into the compound, one of the most important aspects is obviously being on display here, where the public can see them.",
+            "Title": "Tiger Cubs Swimming For...",
+            "VideoId": "RPekEt1Kjg8",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " to show off we just can't help ourselves this group of chimpanzees is exhibiting behavior scientifically known as display",
+            "Title": "How Male Chimps Show Off...",
+            "VideoId": "yHzugoaktbk",
+            "Controls": "start=8"
+        },
+        {
+            "Text": " Picathartes. These birds mate for life and the male reaffirms the bond by displaying to the female.",
+            "Title": "These Ancient Birds Have...",
+            "VideoId": "fTT8Lxjh0Cg",
+            "Controls": "start=10"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-numan.webp",
+            "Text": "Being a display pilot is probably the thing I've been most proud of in my life. Don't really fly anymore now though. I have three small children and as most of my friends were killed in different accidents, I realised that it was probably just a matter of time before I went that way.",
+            "Title": "British Musician",
+            "Name": "Gary Numan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-berger.webp",
+            "Text": "Degas was obsessed by the art of classical ballet, because to him it said something about the human condition. He was not a balletomane looking for an alternative world to escape into. Dance offered him a display in which he could find, after much searching, certain human secrets.",
+            "Title": "English Artist",
+            "Name": "John Berger"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/javale-mcgee.webp",
+            "Text": "I went through that phase in my life where everything I did wrong was displayed into the public and all over national TV, so I went through a part of my life where I was afraid to do things because I didn't want to make a mistake.",
+            "Title": "American Athlete",
+            "Name": "JaVale McGee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gail-simone.webp",
+            "Text": "I feel humanity is often displayed in how we react to our mistakes and the misdeeds committed against us.",
+            "Title": "American Writer",
+            "Name": "Gail Simone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-johnson.webp",
+            "Text": "Almost every man wastes part of his life attempting to display qualities which he does not possess.",
+            "Title": "English Writer",
+            "Name": "Samuel Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeremiah-brent.webp",
+            "Text": "Let your personality and passions shine through in the objects you choose to display in your home.",
+            "Title": "American Celebrity",
+            "Name": "Jeremiah Brent"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edward-de-bono.webp",
+            "Text": "What the joke displays is a switch in perception. This is important in changing the way we think.",
+            "Title": "English Psychologist",
+            "Name": "Edward de Bono"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johnny-gargano.webp",
+            "Text": "Anything nerd-wise, I have probably collected it, and it's displayed in our apartment.",
+            "Title": "American Wrestler",
+            "Name": "Johnny Gargano"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zoe-buckman.webp",
+            "Text": "My work is always on display, and my life is always on display when I make my work.",
+            "Title": "Australian Athlete",
+            "Name": "Zoe Buckman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/raven-symone.webp",
+            "Text": "I'm not one for a public display of my life.",
+            "Title": "American Actress",
+            "Name": "Raven-Symone"
+        }
+    ]
+}

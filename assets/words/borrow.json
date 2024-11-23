@@ -1,0 +1,327 @@
+{
+    "currentWord": {
+        "wordRoot": "borrow",
+        "id": 1381,
+        "phonemic": "ˈbɒrəʊ|ˈbɔːrəʊ\r",
+        "bigId": "e075ab99-4d80-4d50-bc95-0f867449bead",
+        "wordForms": [
+            "borrows",
+            "borrowing",
+            "borrowed",
+            "borrow"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e075ab99-4d80-4d50-bc95-0f867449bead",
+            "de": "to take and use something that belongs to someone else, and return it to them after a period of time",
+            "ty": "verb",
+            "ex": "Can I borrow your umbrella?",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e075ab99-4d80-4d50-bc95-0f867449bead.webp",
+            "Tips": [
+                {
+                    "title": "Temporary Use",
+                    "description": "Borrowing implies you'll return the item after temporary use without payment.",
+                    "example": "I need to borrow your bike for my morning ride.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/5YFPt2lSDMxGSiWPmTF273Z9bpU.webp"
+                },
+                {
+                    "title": "Implied Trust",
+                    "description": "Borrowing involves trust between the lender and the borrower.",
+                    "example": "She trusts me enough to borrow her laptop.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/k1TjJNGJ8tqt5zKzaMRzPlmA.webp"
+                },
+                {
+                    "title": "Recipient Initiative",
+                    "description": "The borrower is usually the one who initiates the action of borrowing.",
+                    "example": "Can I borrow your textbook for my revision?",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nILtkRUHw1pUCevz2w9ejW7fo8.webp"
+                }
+            ]
+        },
+        {
+            "id": "05d62180-bfef-43bc-a49b-cc9b2d2d942e",
+            "de": "to take and use words, ideas, or money from another source",
+            "do": "legal",
+            "ty": "verb",
+            "ex": "She is suspected of borrowing her thesis from another student's work.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/05d62180-bfef-43bc-a49b-cc9b2d2d942e.webp",
+            "Tips": [
+                {
+                    "title": "Originality Questioned",
+                    "description": "Using someone's ideas can imply a lack of originality or authenticity.",
+                    "example": "She was criticized for borrowing his designs for her project.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cite Appropriately",
+                    "description": "When borrowing ideas, proper citation is important to avoid plagiarism.",
+                    "example": "In my paper, I borrowed theories from different philosophers and cited them.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "583e52ed-99bb-4f28-8138-86ef1a79ffac",
+            "de": "to temporarily transfer control of a system resource to a program",
+            "do": "computing",
+            "ty": "verb",
+            "ex": "The program borrows processor time from the operating system.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/583e52ed-99bb-4f28-8138-86ef1a79ffac.webp",
+            "Tips": [
+                {
+                    "title": "Technical Sharing",
+                    "description": "In computing, borrow implies resources are used by multiple parties efficiently.",
+                    "example": "The system borrows memory during peak processing times.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "2dc5609f-cd53-49cc-81b2-1d631c59e3fb",
+            "de": "to take money from a person or bank and agree to pay it back to them at a later time",
+            "do": "economic",
+            "ty": "verb",
+            "ex": "The country has had to borrow heavily from abroad to pay for its development program.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2dc5609f-cd53-49cc-81b2-1d631c59e3fb.webp",
+            "Tips": [
+                {
+                    "title": "Repayment Obligation",
+                    "description": "Borrowing money comes with a responsibility to repay, often with interest.",
+                    "example": "We borrowed from the bank to buy a house.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Financial Planning",
+                    "description": "When borrowing money, consider your ability to repay to avoid debt traps.",
+                    "example": "They thoughtfully calculated before deciding to borrow for their startup.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "df402b97-9310-4355-a89c-58f9ca2ae685",
+            "de": "to adopt (a word or phrase) from a foreign language",
+            "ty": "verb",
+            "ex": "English has borrowed many words from Latin.",
+            "use": "",
+            "co": "Linguistic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/df402b97-9310-4355-a89c-58f9ca2ae685.webp",
+            "Tips": [
+                {
+                    "title": "Language Evolution",
+                    "description": "Languages borrow from each other, adding richness and diversity to vocabulary.",
+                    "example": "'Café' is a term borrowed from French.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cultural Exchange",
+                    "description": "Word borrowing shows cultural interaction and exchange throughout history.",
+                    "example": "English borrowed 'yoga' from Sanskrit, reflecting cultural influence.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9b21ebc0-0412-41ca-8a06-be82f71d7bf2",
+            "de": "to take a unit from the next column to the left in subtracting figures",
+            "do": "mathematics",
+            "ty": "verb",
+            "ex": "When subtracting 9 from 7, you need to borrow 1 from the tens place.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9b21ebc0-0412-41ca-8a06-be82f71d7bf2.webp",
+            "Tips": [
+                {
+                    "title": "Math Operation",
+                    "description": "In subtraction, borrowing means taking a value to help subtract a larger number.",
+                    "example": "To subtract 8 from 3, borrow 1 from the adjacent tens column.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Lend": {
+            "wordRoot": "Lend",
+            "wordDefinition": "To lend means to give something to someone with the expectation that it will be returned. For example, a library lends books to patrons, or a friend might lend you their pencil if you don't have one.\n\nSo, one key difference between the two words is that borrow refers to taking something, while lend refers to giving something.\n\nAnother difference is that when you borrow something, you are the one doing the taking, while when you lend something, you are the one doing the giving.\n\nOverall, knowing when to use borrow versus lend is about understanding who is doing the taking and who is doing the giving.\n\nIf you are taking something, you would say borrow, and if you are giving something, you would say \"lend.\"",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ced31963-99b6-41d5-a138-f98410dcfae8.webp"
+        },
+        "Obtain": {
+            "wordRoot": "Obtain",
+            "wordDefinition": "Obtain means to get or acquire something through various means such as purchase or negotiation. For example, if you go to a store to buy a book, you would be obtaining it by paying for it.\n\nThe difference between the two words is that borrowing means taking something temporarily with the intention of returning it, while obtaining means getting something permanently or for the long-term.\n\nBorrowing is applicable in situations where you need something temporarily, while obtaining is applicable in situations where you need something for a longer period of time or permanently.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74ca53ea-29c3-49b7-8184-25c4d7d811bf.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and even reconstruct earlier languages with no written records. Linguistics can even reveal other important historical clues, such as determining the geographic origins and lifestyles of ancient peoples based on which of their words were native, and which were borrowed. There are two main problems linguists face",
+            "Title": "How languages evolve -...",
+            "VideoId": "iWDKsHm6gTA",
+            "Controls": "start=110"
+        },
+        {
+            "Text": " added decoration to their penal tattoos, with designs borrowed from woodblock prints, popular literature and mythical spirtual iconography. Yakuza gangs viewed their outsider tattoos as signs of lifelong loyalty and courage. After all, they lasted forever and it really hurt to get them.",
+            "Title": "The history of tattoos -...",
+            "VideoId": "MYn15yDBvxM",
+            "Controls": "start=202"
+        },
+        {
+            "Text": " says this is the number one issue in the world in terms of economic mobility, more important than having a bank account, because if you don't have a valid title to your land, you can't borrow against it, and you can't plan for the future. So today, companies are working with governments",
+            "Title": "How the blockchain is...",
+            "VideoId": "Pl8OlkkwRpc",
+            "Controls": "start=643"
+        },
+        {
+            "Text": " The letters are varied in style and height. Some are borrowed from other scripts, but many are unique. The taller letters have been named gallows characters. The manuscript is highly decorated throughout with scroll-like embellishments. It appears to be written by two or more hands,",
+            "Title": "The world’s most...",
+            "VideoId": "8NS4CbBJQ84",
+            "Controls": "start=96"
+        },
+        {
+            "Text": " As you know, it's not going to turn out well. You know this. So, I could tell you a lot about shame, but I'd have to borrow everyone else's time. But here's what I can tell you that it boils down to -- and this may be one of the most important things that I've ever learned",
+            "Title": "The power of vulnerabilit...",
+            "VideoId": "iCvmsMzlF7o",
+            "Controls": "start=358"
+        },
+        {
+            "Text": " the proper way to save, control your cost of living, borrow money effectively and diversify your finances by allowing your money to work for you instead of you working for it. Incarcerated people need these life skills before we reenter society.",
+            "Title": "How I learned to read --...",
+            "VideoId": "F89eycANUrQ",
+            "Controls": "start=532"
+        },
+        {
+            "Text": " to measure the sticking power of one single hair from it and to do that you needed the techniques borrowed from the most advanced physics like these the results were astonishing they discovered that theoretically a gecko walking",
+            "Title": "Sticky Gecko Feet PIPE...",
+            "VideoId": "OoYeIsSkafI",
+            "Controls": "start=3"
+        },
+        {
+            "Text": " now and I was just living here I was trying to write a novel at the time I didn't really know what I wanted to do with my life and borrow kind of heard that I was a tree planter came and we spent several long evenings just",
+            "Title": "An Island On the Brink...",
+            "VideoId": "F5VcPoGj4DU",
+            "Controls": "start=352"
+        },
+        {
+            "Text": " Columbia banished him forever Venezuela would not allow him to come home the doctor who prepared his bit his body for burial had to borrow a shirt for his corpse few heroes in history have been dealt so",
+            "Title": "The impact of Simón...",
+            "VideoId": "reFr06PGB3c",
+            "Controls": "start=956"
+        },
+        {
+            "Text": " and like any tool, it can and will be abused. To borrow a concept from my country's CIA, it helps you to soften up your audience. It distracts them with pretty pictures, irrelevant data.",
+            "Title": "John Bohannon: Dance vs....",
+            "VideoId": "Qprd1VNNNec",
+            "Controls": "start=416"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-dangermond.webp",
+            "Text": "My parents had no money, but they had strong values that I've carried throughout my life - things like not going into debt, never borrowing money, never leveraging, paying your bills on time, keeping your agreements, selling customers the right things, treating employees right, and growing things.",
+            "Title": "American Businessman",
+            "Name": "Jack Dangermond"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-ervin-beam.webp",
+            "Text": "All my songs usually borrow from my own life but pull from fantasy or other people's stories that you hear, or something you read. It's fun as a writer to pull from all those different places, and to connect them. But also, I don't have an interesting enough life to strictly pull from that.",
+            "Title": "American Musician",
+            "Name": "Samuel Ervin Beam"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-scott.webp",
+            "Text": "In my books I might hold the mirror to my own face. If others would like to borrow the mirror, they're welcome. The books aren't there to accuse others - merely to raise issues and keep the debates alive.",
+            "Title": "",
+            "Name": "John Scott"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gary-vaynerchuk.webp",
+            "Text": "I'm concerned a little bit with the culture of celebrating the fundraise. My dad taught me that when you borrow money it's the worst day of your life.",
+            "Title": "American Businessman",
+            "Name": "Gary Vaynerchuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-wright.webp",
+            "Text": "I went to the bank and asked to borrow a cup of money. They said, 'What for?' I said, 'I'm going to buy some sugar.",
+            "Title": "American Comedian",
+            "Name": "Steven Wright"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henrik-ibsen.webp",
+            "Text": "Home life ceases to be free and beautiful as soon as it is founded on borrowing and debt.",
+            "Title": "Norwegian Poet",
+            "Name": "Henrik Ibsen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ken-livingstone.webp",
+            "Text": "I have only ever borrowed money for investment. I have been sound money all my life.",
+            "Title": "English Politician",
+            "Name": "Ken Livingstone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-plank.webp",
+            "Text": "Any self-respecting entrepreneur has borrowed money from their mother at some point.",
+            "Title": "American Businessman",
+            "Name": "Kevin Plank"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-washington.webp",
+            "Text": "Worry is the interest paid by those who borrow trouble.",
+            "Title": "American President",
+            "Name": "George Washington"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sebastian-coe.webp",
+            "Text": "World records are only borrowed.",
+            "Title": "British Politician",
+            "Name": "Sebastian Coe"
+        }
+    ]
+}

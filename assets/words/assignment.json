@@ -1,0 +1,314 @@
+{
+    "currentWord": {
+        "wordRoot": "assignment",
+        "id": 5701,
+        "phonemic": "əˈsaɪnmənt|əˈsaɪnmənt\r",
+        "bigId": "25d14f0d-8f9f-4229-8e0d-dd00a2a90aa2",
+        "wordForms": [
+            "assignments",
+            "assignment"
+        ]
+    },
+    "senses": [
+        {
+            "id": "25d14f0d-8f9f-4229-8e0d-dd00a2a90aa2",
+            "de": "A task or piece of work given to someone as a part of their studies or job",
+            "ty": "noun",
+            "ex": "She finished her assignment and submitted it to the teacher.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "homework assignment",
+                " assignment deadline",
+                " complete an assignment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/25d14f0d-8f9f-4229-8e0d-dd00a2a90aa2.webp",
+            "Tips": [
+                {
+                    "title": "Context Matters",
+                    "description": "The meaning of 'assignment' can change depending on whether it's for study or work.",
+                    "example": "The work assignment involved analyzing market trends.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/rQMFSiUzziyIHxneK9BQgENM.webp"
+                },
+                {
+                    "title": "Beyond Homework",
+                    "description": "'Assignment' doesn't only mean homework; it can refer to any task given.",
+                    "example": "He received a challenging research assignment at work.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/D2RshzcXuG0PQcORY2HEeuxRM.webp"
+                },
+                {
+                    "title": "Conveys Responsibility",
+                    "description": "Using 'assignment' implies a responsibility to complete a task.",
+                    "example": "The group took their assignment seriously and met daily.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HjohRa6txKwWFIu4PoynjttePWE.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "04d14d82-b363-48bf-8b20-eff09bb4a280",
+            "de": "The act of assigning; allocation",
+            "ty": "noun",
+            "ex": "He is responsible for the assignment of tasks to the team members.",
+            "use": "",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "task assignment",
+                " assignment of resources",
+                " assignment of duties"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/04d14d82-b363-48bf-8b20-eff09bb4a280.webp",
+            "Tips": [
+                {
+                    "title": "Management Skill",
+                    "description": "The term is often used in a management context where tasks are distributed.",
+                    "example": "Effective assignment of duties ensured project success.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Can Imply Control",
+                    "description": "It may denote control over who does what in a planned activity.",
+                    "example": "The team leader managed the assignment of roles.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "f226101c-a665-4002-8a04-40ea60aac4dc",
+            "de": "The transfer of a right or property from one party to another",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "The contract included a clause about assignment of property rights to the buyer.",
+            "use": "",
+            "co": "Legal",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assignment of rights",
+                " assignment of property",
+                " deed of assignment"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f226101c-a665-4002-8a04-40ea60aac4dc.webp",
+            "Tips": [
+                {
+                    "title": "Legal Specificity",
+                    "description": "In law, 'assignment' is a formal act usually involving documentation.",
+                    "example": "Assignment of the patent took place yesterday.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Permanent Change",
+                    "description": "An assignment in legal terms often means a permanent transfer.",
+                    "example": "He considered the assignment of his copyrights.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c01e3272-6964-451f-a690-3676befec06c",
+            "de": "An operation which assigns a value to a variable in computer programming",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "In the programming assignment, we had to use multiple assignment operations.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "variable assignment",
+                " assignment operation",
+                " assignment statement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c01e3272-6964-451f-a690-3676befec06c.webp",
+            "Tips": [
+                {
+                    "title": "Technical Usage",
+                    "description": "In computing, 'assignment' involves variables and data storage.",
+                    "example": "The code failed because of an incorrect assignment.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Programming Precision",
+                    "description": "Precision is key; an incorrect assignment can lead to errors.",
+                    "example": "Triple-check the variable assignment in your script.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Chore": {
+            "wordRoot": "Chore",
+            "wordDefinition": "Meanwhile, a chore refers to a task that needs to be done regularly or routinely as a part of household, personal or daily affairs.\n\nIt is often associated with household chores such as cleaning, cooking, or laundry. For example, washing the dishes after dinner, taking out the trash, or making the bed can be considered as chores.\n\nIn summary, while assignments are mostly work or school-related, chores are the things we do on a regular basis for our daily lives.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/76d8d7a0-bd3b-4013-a10c-78ce1c170aa7.webp"
+        },
+        "Duty": {
+            "wordRoot": "Duty",
+            "wordDefinition": "Duty refers to a responsibility that someone has to fulfill. It is an obligation or a commitment to do something.\n\nFor example, a firefighter has a duty to protect and save people in case of a fire.\n\nIn summary, assignments are specific tasks given within a job or project, while duties are broader responsibilities that require fulfillment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cfe1420e-b26e-4f5c-8633-1f0170966fe2.webp"
+        },
+        "Errand": {
+            "wordRoot": "Errand",
+            "wordDefinition": "An errand refers to a short journey taken to fulfill a specific purpose or need, such as buying groceries or picking up a package.\n\nAn assignment is a larger task assigned as part of work or studies, while an errand is a small task that needs to be done quickly to accomplish something specific.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c79aab40-d097-4c52-bd7a-776c5bb76556.webp"
+        },
+        "Job": {
+            "wordRoot": "Job",
+            "wordDefinition": "A job usually refers to a more long-term commitment to a specific role or position. It typically involves performing a variety of tasks and responsibilities over an extended period of time.\n\nAn example of a job could be working as a cashier at a grocery store or as a software engineer at a tech company.\n\nAn assignment refers to a specific task or project, while a job is a long-term commitment to a specific role.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/54203cec-57e1-4ff6-9c0a-b1ff7f4913de.webp"
+        },
+        "Mission": {
+            "wordRoot": "Mission",
+            "wordDefinition": "Both the words assignment and mission refer to a particular task or job that needs to be completed.\n\nA mission is a more significant or challenging task that often involves a specific purpose or objective. Missions are commonly associated with military or humanitarian operations, but can also be used in a broader context.\n\nA mission often requires a higher level of dedication and commitment, and may involve risks and challenges.\n\nAn assignment is a particular task given by an authority figure for academic or professional purposes, while a mission is a significant task with a specific purpose, often involving risks and challenges.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1057bac8-95d0-458c-a42c-8521d2e58b6e.webp"
+        },
+        "Project": {
+            "wordRoot": "Project",
+            "wordDefinition": "An assignment is a task given to a person to complete within a specific time frame. Assignments are usually shorter than projects and are often given as a regular part of a course or program.\n\nA project is a more complex and substantial assignment that requires planning, research, and execution over a longer period.\n\nProjects generally involve a team of people working together towards a common goal, and they often require the use of various resources such as financial, technical or creative.\n\nProjects are usually more open-ended and allow for greater creativity in the approach to solving problems.\n\nBoth assignments and projects are used to measure someone's understanding of a specific topic or subject.\n\nHowever, assignments are usually used more frequently in educational settings, while projects are used more often in professional or business environments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cd322bf1-b0e9-455c-82a7-69c901321344.webp"
+        },
+        "Task": {
+            "wordRoot": "Task",
+            "wordDefinition": "A task is any activity or job that needs to be done.\n\nTasks can range from small daily routines to significant projects that require a lot of effort.\n\nAn assignment is a specific type of task that is given in an academic setting, whereas a task can refer to any job or activity that needs to be done.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/10fc63e2-3490-4f67-8690-9983c0f7c30b.webp"
+        },
+        "Work": {
+            "wordRoot": "Work",
+            "wordDefinition": "Work refers to a broader range of activities that one does for a living or as part of a job.\n\nAn assignment is a specific task or project given to you, while work encompasses all the tasks and responsibilities associated with your job.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc4f55ab-ac2d-4061-a71b-e78e86123fd7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " theme for this your shot assignment it's a big assignment how is the world changing what's happening around you how can you show that to us in unique in different ways think about bigger themes there's big things that we can name you know climate people technology all those things but also you know don't be afraid to explore how change in your own",
+            "Title": "Your Shot: Go On...",
+            "VideoId": "ZmhMYE_jyy0",
+            "Controls": "start=38"
+        },
+        {
+            "Text": " of another hunting technique the whales scouring the ocean floor brush out prey a behavior rarely captured on any camera giving scientists a whale's eye view of this extraordinary behavior that's National Geographic on assignment your link to our explorers",
+            "Title": "Hidden Humpback Hunt...",
+            "VideoId": "zWrGDC-5Sec",
+            "Controls": "start=39"
+        },
+        {
+            "Text": " illuminating certain cells in the body David's team hopes to find a very specific infrared protein if successful scientists may be able to track the inner workings of our brains that's National Geographic on assignment your link to our explorers",
+            "Title": "\"Glow in the Dark\" Reefs...",
+            "VideoId": "PWvuV5DVc0E",
+            "Controls": "start=42"
+        },
+        {
+            "Text": " embracing violence. When I was a kid, I traded in homework assignments for friendship, then gave each friend a late slip for never showing up on time, and in most cases, not at all. I gave myself a hall pass to get through each broken promise.",
+            "Title": "\"To This Day\" ... for...",
+            "VideoId": "sa1iS1MqUy4",
+            "Controls": "start=242"
+        },
+        {
+            "Text": " To keep their emotions in check, they carefully prepare for an assignment, building glossaries in advance, reading voraciously about the subject matter, and reviewing previous talks on the topic. Finally, interpreters work in pairs.",
+            "Title": "How interpreters juggle...",
+            "VideoId": "cXNTArhA0Jg",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " how many are surviving and help scientists map their movements around populated areas knowing where the sliders migrate can help protect areas for their survival that's National Geographic on assignment your link to our explorers",
+            "Title": "Ice Age Antelope Under...",
+            "VideoId": "FXeUhuwKrqg",
+            "Controls": "start=49"
+        },
+        {
+            "Text": " flies usually attracted to the mushrooms help spread the orchids pollen there by aiding reproduction orchid are plentiful here so the bakery is paying off bats National Geographic on assignment your link to our explorers",
+            "Title": "Orchids \"Pretend\" to be...",
+            "VideoId": "V-vmmmCzcGs",
+            "Controls": "start=42"
+        },
+        {
+            "Text": " data her team can establish where the animals are roaming the goal is to create protected corridors where these carnivores can hunt and survive that's National Geographic on assignment your link to our explorers",
+            "Title": "Poop-Sniffing Dog Tracks...",
+            "VideoId": "y9r115bgfNk",
+            "Controls": "start=48"
+        },
+        {
+            "Text": " perhaps confused with how to manage and cope with the situation now for I can help when I was in my mid-thirties I had a meeting with my editor and it was my first major journalism assignment for",
+            "Title": "How to deal with...",
+            "VideoId": "v4P2Qwh1QCU",
+            "Controls": "start=55"
+        },
+        {
+            "Text": " roboshark first assignment takes him to",
+            "Title": "Can Roboshark Fool the...",
+            "VideoId": "6S1CZnx889s",
+            "Controls": "start=2"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joe-buck.webp",
+            "Text": "My dad worked so hard. He slept in his own bed maybe half the nights of the year because of road assignments, but even when he was home, he was covering games. It put a lot of pressure on my mom. She brought in her parents to help out, and it took a village to raise us. I was lucky.",
+            "Title": "American Celebrity",
+            "Name": "Joe Buck"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-bridges.webp",
+            "Text": "It's the same assignment on every part: you want to create a real world, and the tone of it is a little different on each movie. You have to find your tone and work within that to make it as real so the audience can really engage in the story you're telling.",
+            "Title": "American Actor",
+            "Name": "Jeff Bridges"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/khris-middleton.webp",
+            "Text": "Now, I'm not afraid. Or getting myself down about missing shots or missing an assignment late. The game goes on. You've got another chance. That's definitely a mental thing.",
+            "Title": "American Athlete",
+            "Name": "Khris Middleton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kenneth-lonergan.webp",
+            "Text": "I've done a lot of assignment work in my life, and the only way you can do it is to make it your own as quickly as possible, and then you give it back.",
+            "Title": "American Playwright",
+            "Name": "Kenneth Lonergan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/reed-morano.webp",
+            "Text": "I read it in college as an assignment. I didn't think about it at the time. But when I heard there was a 'The Handmaid's Tale' pilot, I freaked out.",
+            "Title": "American Director",
+            "Name": "Reed Morano"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/randy-pitchford.webp",
+            "Text": "Things that are created with passion tend to work out better than things that are assignments that we don't really want to do.",
+            "Title": "American Businessman",
+            "Name": "Randy Pitchford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tulsi-gabbard.webp",
+            "Text": "In the military, I learned that 'leadership' means raising your hand and volunteering for the tough, important assignments.",
+            "Title": "American Politician",
+            "Name": "Tulsi Gabbard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kiran-bedi.webp",
+            "Text": "I had a clear vision: if I take up an assignment, I'll do full justice to it; otherwise I'll walk away.",
+            "Title": "Indian Activist",
+            "Name": "Kiran Bedi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joanna-lumley.webp",
+            "Text": "I admire politicians. It is a really tough assignment, and I would fall at the first fence.",
+            "Title": "English Actress",
+            "Name": "Joanna Lumley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leslie-fiedler.webp",
+            "Text": "My assignment is what every writer's assignment is: tell the truth of his own time.",
+            "Title": "American Critic",
+            "Name": "Leslie Fiedler"
+        }
+    ]
+}

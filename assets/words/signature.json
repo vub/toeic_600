@@ -1,0 +1,347 @@
+{
+    "currentWord": {
+        "wordRoot": "signature",
+        "id": 1548,
+        "phonemic": "ˈsɪɡnətʃə(r)|ˈsɪɡnətʃər\r",
+        "bigId": "838725a6-5dbc-438d-9037-70722bfa6c26",
+        "wordForms": [
+            "signatures",
+            "signature"
+        ]
+    },
+    "senses": [
+        {
+            "id": "838725a6-5dbc-438d-9037-70722bfa6c26",
+            "de": "a person's unique way of writing their name",
+            "ty": "noun",
+            "ex": "Mr. White signed the contract with his signature.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "put your signature",
+                " signature is required",
+                " provide your signature"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/838725a6-5dbc-438d-9037-70722bfa6c26.webp",
+            "Tips": [
+                {
+                    "title": "Personal Identification",
+                    "description": "Used as proof of one's identity, often required on official documents.",
+                    "example": "Please, add your signature here to confirm your identity.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/LYpGtNOutTcwqEoJxn1XxYjfpk.webp"
+                },
+                {
+                    "title": "Legally Binding",
+                    "description": "Indicates agreement or consent, especially in legal contracts or forms.",
+                    "example": "By providing your signature, you agree to the terms.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/P34TWRIJAK7BUmWDimmDInPAg.webp"
+                },
+                {
+                    "title": "Physical Act",
+                    "description": "Usually involves a pen and paper, but can also include electronic methods.",
+                    "example": "She practiced writing her signature on the paper.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qaGDRjD3orqC7TA29m5utfpMc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e88145c4-dd29-4f00-b290-14ab93bc083d",
+            "de": "a distinctive characteristic or feature",
+            "ty": "noun",
+            "ex": "The signature styles of the artist make his work recognizable.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "signature style",
+                " signature dish",
+                " signature scent"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e88145c4-dd29-4f00-b290-14ab93bc083d.webp",
+            "Tips": [
+                {
+                    "title": "Creator's Mark",
+                    "description": "Reflects someone's personal style or brand distinctly in various contexts.",
+                    "example": "The chef is known for his signature spicy salsa.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Recognition Tool",
+                    "description": "Enables others to identify or associate the product or work with its creator.",
+                    "example": "The fashion designer's signature look includes bold patterns.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "213b48cf-1944-46ee-a259-246d8624f106",
+            "de": "a collection of sheets of paper bound together in a book",
+            "do": "Printing",
+            "ty": "noun",
+            "ex": "Each signature of the book was printed separately.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "binding signature",
+                " book's signature",
+                " printed signature"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/213b48cf-1944-46ee-a259-246d8624f106.webp",
+            "Tips": [
+                {
+                    "title": "Printing Jargon",
+                    "description": "Specific to the publishing and book-making industry, less common in everyday use.",
+                    "example": "The printer arranged the pages into signatures before binding.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Binding Concern",
+                    "description": "Important for understanding how books are assembled and how many pages they have.",
+                    "example": "This textbook has about seven signatures, each with 16 pages.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "4ad7702f-840e-4375-a4f4-d63c2a1ddefa",
+            "de": "a sequence of characters that identifies or verifies the sender of data",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The programmer used a digital signature to secure the software.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "digital signature",
+                " electronic signature",
+                " cryptographic signature"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4ad7702f-840e-4375-a4f4-d63c2a1ddefa.webp",
+            "Tips": [
+                {
+                    "title": "Digital Security",
+                    "description": "Verifies authorship and integrity of electronic documents and software.",
+                    "example": "The email was verified with the sender's digital signature.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Tech Authenticity",
+                    "description": "Ensures the recipient that the digital content is safe and not tampered with.",
+                    "example": "The digital signature ensures the software hasn’t been altered.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "4c04ff66-f092-4c3c-9530-fbee0b7a3dd0",
+            "de": "A set of musical notes that show the key of a piece of music",
+            "do": "Music",
+            "ty": "noun",
+            "ex": "The piece was written in F major, as reflected in its key signature.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "key signature",
+                " time signature",
+                " musical signature"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4c04ff66-f092-4c3c-9530-fbee0b7a3dd0.webp",
+            "Tips": [
+                {
+                    "title": "Music Theory Basics",
+                    "description": "Essential for musicians to comprehend the tonality and scale of a piece.",
+                    "example": "The key signature indicated that the music was in C sharp minor.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Rhythm Indicator",
+                    "description": "Refers to time signature, which informs the beat and tempo of the music piece.",
+                    "example": "A time signature of 4/4 means there are four beats per measure.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Autograph": {
+            "wordRoot": "Autograph",
+            "wordDefinition": "An autograph is typically used to refer to a signature of a famous or notable person, such as a celebrity or athlete. Autographs are often valued for their personal or historical significance and may be collected or sold.\n\nIn summary, while the terms autograph and signature are often used interchangeably, autograph specifically refers to a famous person's signature, while a signature is any written mark made for identification or approval.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/641b161d-7276-4242-bdb6-b629d14c3c77.webp"
+        },
+        "Endorse": {
+            "wordRoot": "Endorse",
+            "wordDefinition": "Endorse means to publicly support or approve of something, such as a product or a candidate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d6371da8-9f69-4d21-bebb-f06a8cfd4a80.webp"
+        },
+        "Inscription": {
+            "wordRoot": "Inscription",
+            "wordDefinition": "An inscription is a piece of writing that is put on something to explain or give important information.\n\nIt can be a message, dedication, or label. An inscription is applicable in places like monuments, plaques, books, or gifts.\n\nAn inscription is a piece of writing that explains or labels something, while a signature is a person's name or mark to validate or identify.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/03eade2e-7aa2-402f-b5f6-e8a33036a2b6.webp"
+        },
+        "Mark": {
+            "wordRoot": "Mark",
+            "wordDefinition": "Mark refers to a symbol or design that is used to identify something.\n\nIt can be used for many things like marking an exam paper, a price tag, or a sign for a brand.\n\nA mark can be any symbol used for identification, whereas a signature is typically a person's name written in a unique style for identification purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/080633ad-dcf1-4c53-8a69-e3df308138dd.webp"
+        },
+        "Moniker": {
+            "wordRoot": "Moniker",
+            "wordDefinition": "A moniker is a name or nickname that someone is known by, while a signature is a person's unique way of writing their name.\n\nMonikers are typically informal and given by friends or peers, while signatures are more formal and often used to sign important documents.\n\nMonikers can be used in casual conversation, social media usernames, or as a stage name for performers, while signatures are typically reserved for legal documents or formal correspondence.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a7b54006-8aa0-430e-b02b-f32bb2a8cd6a.webp"
+        },
+        "Seal": {
+            "wordRoot": "Seal",
+            "wordDefinition": "A seal is a special stamp or emblem that represents an organization, company or individual.\n\nIt is used to verify documents and shows that they come from the authorized source. For example, a university might have a seal that is placed on diplomas to show that it is an official document from the university.\n\nA seal is typically used by an organization or entity to verify official documents, while a signature is a personal identification mark used to authenticate an individual's agreement to a document or agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a72eb2f9-5bc5-4dc8-ba18-e273560a861d.webp"
+        },
+        "Sign": {
+            "wordRoot": "Sign",
+            "wordDefinition": "Sign refers to writing your name or making a mark to indicate your agreement or acknowledgment of something.\n\nIt can be used in many different contexts, such as signing a contract, signing a guestbook, or signing a document.\n\nSignature refers specifically to your unique style of writing your name.\n\nIt is often used in the context of legal documents or official forms, where your signature is required for verification or approval.\n\nSign means to write your name or make a mark, while signature refers to your unique writing style. You use sign when you need to indicate your agreement or acknowledgment of something, and signature when a legal or official document requires your unique mark.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f640222b-3515-4287-9a6b-7eb1b856a948.webp"
+        },
+        "Symbol": {
+            "wordRoot": "Symbol",
+            "wordDefinition": "A symbol is an object, shape or picture that represents something else.\n\nA symbol can be used to represent an idea, concept or object.\n\nFor example, the cross is a symbol of Christianity, while the dove is a symbol of peace.\n\nSymbols can be used to represent something in a visual way, and they can be used in many different contexts.\n\nIn summary, while a signature is a personal mark that shows approval or agreement, a symbol is a visual representation of an idea, concept or object.\n\nA signature is typically used for legal purposes, while a symbol can be used in many contexts, including religious, cultural, and social contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/73ce5f1f-03f2-4832-855c-d72640785445.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " a couple adaptations first they're built like a torpedo very hydrodynamic perfect for swimming fast this shark also has a very prominent keel on its tail right before that signature tail fin i like to call this section of their tail the ankle so the keel on their ankle helps to reduce drag letting them cut right through the water",
+            "Title": "Seven Superpowered...",
+            "VideoId": "WKduBKUuIxg",
+            "Controls": "start=612"
+        },
+        {
+            "Text": " two to a half note, four to a quarter note, and eight to an eighth note, and so on. So this time signature here tells us that there are four quarter notes in each bar, one, two, three, four; one, two, three, four, and so on. But like I said before, if we just stick to the beat,",
+            "Title": "How to read music - Tim...",
+            "VideoId": "ZN41d7Txcq0",
+            "Controls": "start=258"
+        },
+        {
+            "Text": " he made drip, or action, paintings following a similar premise, though he developed a signature technique and never looked for images or messages hidden in the works. First, he took the canvas off of the easel and laid it on the floor, a subversive act in itself.",
+            "Title": "What is abstract...",
+            "VideoId": "oG9jQBj1eqE",
+            "Controls": "start=129"
+        },
+        {
+            "Text": " Not only that, but during life, bones undergo a constant cycle of remodeling. So if someone moves from one place to another, bones synthesized after that move will also reflect the new isotopic signatures of the surrounding environment.",
+            "Title": "What can you learn from...",
+            "VideoId": "T24hdchCVIg",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " curtisha is figuring out how marine life interacts with the water by studying their hydrodynamic signature and the great thing about the hydrodynamic signature is pretending to understand the term hydrodynamic signature",
+            "Title": "TEDWomen 2015 in review...",
+            "VideoId": "BvsSf3Uk0j8",
+            "Controls": "start=674"
+        },
+        {
+            "Text": " and then cosmic rays and U.V. bombarded the surface and water escaped to space and went underground. So if we want to be able to understand, if we want to be able to find those traces of the signatures of life",
+            "Title": "Nathalie Cabrol: How...",
+            "VideoId": "wxCtIdI3xL0",
+            "Controls": "start=384"
+        },
+        {
+            "Text": " The antipsychotic drugs used to treat schizophrenia have helped researchers work backwards to trace signatures of the disorder in the brain. Traditional antipsychotics block dopamine receptors.",
+            "Title": "What is schizophrenia? -...",
+            "VideoId": "K2sc_ck5BZU",
+            "Controls": "start=185"
+        },
+        {
+            "Text": " lending the character many of his signature characteristics. And since then, Dracula has risen again in countless adaptations, finding eternal life far beyond the humble pages of his birth.",
+            "Title": "How did Dracula become...",
+            "VideoId": "7uiyz3139tE",
+            "Controls": "start=271"
+        },
+        {
+            "Text": " with their signature orange fur and black stripes tigers have become icons of beauty power and the importance of conservation tigers have evolved into six subspecies",
+            "Title": "Tigers 101 PIPE National...",
+            "VideoId": "FK3dav4bA4s",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " or 120 feet deep, to measure the hydrodynamic signatures that organisms create. Before I begin, I want to immerse you into what these kinds of measurements require.",
+            "Title": "The surprising (and...",
+            "VideoId": "s0yJwZGxvBA",
+            "Controls": "start=142"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/victoria-beckham.webp",
+            "Text": "I want to evolve each season. I never want to be one of those brands where people know what they're going to see. I always want an element of surprise. One thing I never want to do is copy what anybody else is doing. I have a signature, and it's very important to me to stay true to that.",
+            "Title": "English Musician",
+            "Name": "Victoria Beckham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/christian-louboutin.webp",
+            "Text": "You know, I'm behind my company. My company has been a big part of my life. And it's not that I been buying a company or that my father bought a company and tried to do something out of it. You know, it's not the same thing. It's my name, it's my company, it's my signature.",
+            "Title": "French Designer",
+            "Name": "Christian Louboutin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ariel-pink.webp",
+            "Text": "That's one thing I don't think people consider nowadays. They want to believe in the importance of marriage, boil it down to just a signature on a legal document. But that's exactly what it is. If not, why not just get married without one?",
+            "Title": "American Musician",
+            "Name": "Ariel Pink"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/martin-seligman.webp",
+            "Text": "The good life consists in deriving happiness by using your signature strengths every day in the main realms of living. The meaningful life adds one more component: using these same strengths to forward knowledge, power or goodness.",
+            "Title": "American Psychologist",
+            "Name": "Martin Seligman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mike-portnoy.webp",
+            "Text": "I guess I did make my name out of my drumming, and I have the big drum sets, and I'm doing all these crazy, odd-time signatures, so, yeah, I guess drumming was very important to what made me popular.",
+            "Title": "American Musician",
+            "Name": "Mike Portnoy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tia-mowry.webp",
+            "Text": "In Budapest, I always had questions. What is your signature dish? They, of course, said goulash. I loved it so much and now have to figure out a way to make it at home.",
+            "Title": "American Actress",
+            "Name": "Tia Mowry"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/iman.webp",
+            "Text": "I'm against a signature look, as that can be very outdating. But having said that, I also know my best qualities, so I'm not going to foolhardily give away my power.",
+            "Title": "Somali Model",
+            "Name": "Iman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chris-ware.webp",
+            "Text": "I had a messy signature as a child, and my grandmother said this suggested I had no regard for other people. She was right.",
+            "Title": "American Artist",
+            "Name": "Chris Ware"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/evan-esar.webp",
+            "Text": "A signature always reveals a man's character - and sometimes even his name.",
+            "Title": "American Writer",
+            "Name": "Evan Esar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mae-west.webp",
+            "Text": "A man's kiss is his signature.",
+            "Title": "American Actress",
+            "Name": "Mae West"
+        }
+    ]
+}

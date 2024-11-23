@@ -1,0 +1,370 @@
+{
+    "currentWord": {
+        "wordRoot": "present",
+        "id": 22926,
+        "phonemic": "ˈpreznt|ˈpreznt\r",
+        "bigId": "2bf9fb1d-786b-4595-85a1-d38507078281",
+        "wordForms": [
+            "presents",
+            "presenting",
+            "presented",
+            "presenter",
+            "presently",
+            "presenters",
+            "present"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2bf9fb1d-786b-4595-85a1-d38507078281",
+            "de": "A gift or something given to someone.",
+            "ty": "noun",
+            "ex": "She received a surprise present on her birthday.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "birthday present",
+                " christmas present",
+                " surprise present"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2bf9fb1d-786b-4595-85a1-d38507078281.webp",
+            "Tips": [
+                {
+                    "title": "Timeless Gratitude",
+                    "description": "Used to express gratitude or celebration, especially for special occasions.",
+                    "example": "He gave her a present to express his thanks.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xmqPOdkjAnMhCqLmC6B17PUO5s.webp"
+                },
+                {
+                    "title": "Cultural Expectations",
+                    "description": "In some cultures, presents are expected for certain events like weddings or housewarmings.",
+                    "example": "They brought a present to the housewarming party.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/LMfAsY1l9IFHlLj9nLPwMpY8.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "de9fb5b8-3d53-4fd5-a591-b007f449635a",
+            "de": "In the place mentioned or understood.",
+            "ty": "adjective",
+            "ex": "Is Mr. Smith present in the meeting?",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "present in",
+                " everyone present",
+                " physically present"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/de9fb5b8-3d53-4fd5-a591-b007f449635a.webp",
+            "Tips": [
+                {
+                    "title": "Indicates Attendance",
+                    "description": "It emphasizes someone's attendance as opposed to being absent.",
+                    "example": "All employees must be present at the meeting.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emphasizes Now",
+                    "description": "It's a reminder that something important is occurring at the current time.",
+                    "example": "It's essential we remain present during these changes.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "602f6dc0-11a9-4d71-81e2-528f24ae6cc8",
+            "de": "To give something to someone formally or officially.",
+            "ty": "verb",
+            "ex": "They presented the award to the winner.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "present an award",
+                " present a proposal",
+                " present evidence"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/602f6dc0-11a9-4d71-81e2-528f24ae6cc8.webp",
+            "Tips": [
+                {
+                    "title": "Formal Exchange",
+                    "description": "Indicates a formal or ceremonial act of giving something.",
+                    "example": "The medal was presented to the hero.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Structured Settings",
+                    "description": "Often used in official or structured settings like awards ceremonies or official announcements.",
+                    "example": "The award will be presented after the speech.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "74ab21c4-a8df-48c9-a14a-46a607356165",
+            "de": "To show or offer something.",
+            "do": "Business",
+            "ty": "verb",
+            "ex": "She presented a new approach to the problem.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "present a case",
+                " present an idea",
+                " present a report"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/74ab21c4-a8df-48c9-a14a-46a607356165.webp",
+            "Tips": [
+                {
+                    "title": "Business Context",
+                    "description": "Used in business to suggest a professional offering of ideas or plans.",
+                    "example": "Our team presented a business case to the board.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b1f3e0d2-43d6-4a0e-bfe2-a059b3b1e211",
+            "de": "To introduce or bring forward someone or something for consideration.",
+            "ty": "verb",
+            "ex": "May I present my colleague, Mr. Johnson.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "present oneself",
+                " present someone",
+                " present something"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b1f3e0d2-43d6-4a0e-bfe2-a059b3b1e211.webp",
+            "Tips": [
+                {
+                    "title": "Formal Introduction",
+                    "description": "It's a polite and formal way to introduce someone or something.",
+                    "example": "I would like to present our guest speaker.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d3dfcc14-8407-4e0d-b1de-9f5416845144",
+            "de": "At this moment or now.",
+            "ty": "adjective",
+            "ex": "We are present in a historical moment.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "present moment",
+                " present day",
+                " present time"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d3dfcc14-8407-4e0d-b1de-9f5416845144.webp",
+            "Tips": [
+                {
+                    "title": "Not Always Positive",
+                    "description": "The adjective can imply challenges in the current scenario or environment.",
+                    "example": "The dangers present demand immediate action.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Historical Significance",
+                    "description": "It can highlight the importance of the current era or moment in history.",
+                    "example": "We live in the present, an era of technological advances.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Contemporary": {
+            "wordRoot": "Contemporary",
+            "wordDefinition": "Contemporary means belonging to or occurring in the present time while also being in sync with current trends, styles, or ideas.\n\nContemporary refers to what is new and modern.\n\nSo, while both words refer to the current time, contemporary has a connotation of being up-to-date and fashionable, while present is a more neutral way of describing something that is happening right now.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b5c75f39-621e-40d1-9fff-780de7c8ea1e.webp"
+        },
+        "Current": {
+            "wordRoot": "Current",
+            "wordDefinition": "Current refers to something that is happening right now or is ongoing in a current time period. For example, the current President of the United States is Joe Biden.\n\nSo, while current refers to a longer time period, present refers to the exact moment in time. They are both applicable in different contexts depending on the time frame we are referring to.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/15515abc-5af0-4f70-9a38-7a80b4e1a137.webp"
+        },
+        "Donation": {
+            "wordRoot": "Donation",
+            "wordDefinition": "A donation is giving something to a person or organization for a charitable cause or without expecting anything in return.\n\nA donation is typically given to support a cause, while a present is given to show appreciation or celebrate an occasion.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06f36301-9d2d-4522-8fca-a248048c72fa.webp"
+        },
+        "Exist": {
+            "wordRoot": "Exist",
+            "wordDefinition": "Exist means to be real or to have actual being.\n\nThe key difference between the two words is that exist refers to something that has a permanent existence, while present refers to something that is currently in a particular place or moment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d64ca3f7-0dfe-4f1a-aad9-75374cbce9e1.webp"
+        },
+        "Gift": {
+            "wordRoot": "Gift",
+            "wordDefinition": "Both words, gift and present, refer to something given to someone without any expectation of payment or exchange. Many people use the words interchangeably, but there is a subtle difference between the two.\n\nA gift is more personal and carries more emotional and sentimental value. For example, you might give your best friend a special book as a birthday gift because it is something that they will cherish and appreciate for a long time.\n\nGift implies a more thoughtful and personal gesture, while present implies a more routine or expected exchange.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1d1fd925-7537-4c80-91f1-a7edc92008ea.webp"
+        },
+        "Immediate": {
+            "wordRoot": "Immediate",
+            "wordDefinition": "Immediate refers to something that is happening right now or requires immediate attention. For example, if your car breaks down and you need to get it fixed right away, that's an immediate problem.\n\nImmediate refers to urgency and requires action, while present refers to something that is happening now or currently existing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/47952b26-ea85-416c-bb4e-455a0ed5935d.webp"
+        },
+        "Modern": {
+            "wordRoot": "Modern",
+            "wordDefinition": "Modern refers to something that is current or new in comparison to the past, while present refers to the current time or moment.\n\nFor example, a modern smartphone would be the latest model produced by a company, while the present moment is the exact time that you are living in right now.\n\nModern is generally used to describe objects or ideas that have been updated or developed recently, while present is used to refer to the current state of affairs or time frame.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af706d57-52ad-4dda-9eca-d7365e9a4fda.webp"
+        },
+        "Now": {
+            "wordRoot": "Now",
+            "wordDefinition": "Both now and present refer to the current moment in time, but now is a more immediate and specific term. For example, \"I am typing this response now\" means that at this exact moment in time, the action of typing is happening.\n\nNow is more precise and refers to the exact moment in time, while present is a broader term that encompasses the current time period.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6684cc3d-6da0-405d-a4a6-5a55708520cc.webp"
+        },
+        "Ongoing": {
+            "wordRoot": "Ongoing",
+            "wordDefinition": "Ongoing means that something is still happening or progressing and has not yet stopped. It refers to a situation, event, or time period that is continuing and not yet completed.\n\nFor example, a lecture is present when the speaker is speaking at that moment. But if the lecture continues for several days, it can be described as ongoing.\n\nSimilarly, a project that is currently being worked on is present, while a project that has been ongoing for a long time and is still in progress is ongoing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/46326cb7-3ec4-4c38-9957-2644cb27d24d.webp"
+        },
+        "Today": {
+            "wordRoot": "Today",
+            "wordDefinition": "Present refers to the current moment in time, regardless of when the reader or listener is reading or hearing it. For example, if someone says 'I am studying hard in the present', it could mean they are currently studying hard, whether it is today or any other day.\n\nToday refers specifically to the current day on which the speaker or writer is communicating. For instance, if someone says 'I am studying hard today', it means they are studying hard on that particular day.\n\nPresent can be applied to any moment in time whereas today refers only to the current day.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1bc2a7e1-a257-41c2-afd8-453ea68e42d6.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " have been crafted to appeal to you and affect your behavior, as have the soundbites and talking points of political campaigns which rarely present the most nuanced perspective on the issues. And the way that we use ready-made phrases and responses gleaned from media reports",
+            "Title": "What \"Orwellian\" really...",
+            "VideoId": "oe64p-QzhNE",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " these days are become shorter and shorter term which creates turmoil and chaos in strategy in how we present ourselves to the world the easiest way to understand the game you're in is when you have an opposing force in other words not that right so you want great",
+            "Title": "What game theory teaches...",
+            "VideoId": "0bFs6ZiynSU",
+            "Controls": "start=355"
+        },
+        {
+            "Text": " zombies are are the beginning of the end of the world whereas vampires they're just trying to they're just trying to live but I have no idea I'm not a good future predictor I mean I think I'm an acute observer of how the past has influenced the present",
+            "Title": "Sci-Fi Monsters: Past,...",
+            "VideoId": "oLZWYpXze-M",
+            "Controls": "start=64"
+        },
+        {
+            "Text": " Do such structures serve some hidden function that hasn't yet been discovered? Or are they relics of our evolutionary past, having once served some important purpose only to persist into the present as vestigial remnants? One idea is that hiccups began",
+            "Title": "Why do we hiccup? - John...",
+            "VideoId": "-AdQLkUkui8",
+            "Controls": "start=112"
+        },
+        {
+            "Text": " present, or future. I like to create a timeline showing how the world came to be. What past events have shaped the way it is now? Then I brainstorm answers to questions that draw out the details of my fictional world. What rules are in place here?",
+            "Title": "How to build a fictional...",
+            "VideoId": "ZQTQSbjecLg",
+            "Controls": "start=204"
+        },
+        {
+            "Text": " After his release and eventual victory, Mandela stressed peace and reconciliation, believing that while the injustices of the past couldn't be changed, his people could confront them in the present and seek to build a better, more just future.",
+            "Title": "The philosophy of...",
+            "VideoId": "R9OCA6UFE-0",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " But he said \"The dogmas of the quiet past are inadequate to the stormy present. The occasion is piled high with difficulty, and we must rise with the occasion.\" I love that.",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=366"
+        },
+        {
+            "Text": " anyone in the troop can join in they are amongst the most affectionate monkeys on the planet one reason is that with the coming of each monsoon the forest presents a banquet",
+            "Title": "Best Monkey Moments PIPE...",
+            "VideoId": "opyPkipNNhE",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " ranks around their young presenting a wall of blubber and high he tests the man but it stands firmly it appears that the world's largest land carnivore has",
+            "Title": "BBC Earth 50 Top Natural...",
+            "VideoId": "a6roH6RffnA",
+            "Controls": "start=1203"
+        },
+        {
+            "Text": " This holiday season, people around the world will give and receive presents. You might even get a knitted sweater from an aunt.",
+            "Title": "What is a gift economy?...",
+            "VideoId": "EaxjxICgahc",
+            "Controls": "start=4"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alice-walker.webp",
+            "Text": "For me, writing has always come out of living a fairly to-the-bone kind of life, just really being present to a lot of life. The writing has been really a byproduct of that.",
+            "Title": "American Author",
+            "Name": "Alice Walker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eckhart-tolle.webp",
+            "Text": "Always say 'yes' to the present moment... Surrender to what is. Say 'yes' to life - and see how life starts suddenly to start working for you rather than against you.",
+            "Title": "German Speaker",
+            "Name": "Eckhart Tolle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-f-kennedy.webp",
+            "Text": "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+            "Title": "American President",
+            "Name": "John F. Kennedy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oprah-winfrey.webp",
+            "Text": "Whatever has happened to you in your past has no power over this present moment, because life is now.",
+            "Title": "American Entertainer",
+            "Name": "Oprah Winfrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kurt-vonnegut.webp",
+            "Text": "I asked myself about the present: how wide it was, how deep it was, how much was mine to keep.",
+            "Title": "American Writer",
+            "Name": "Kurt Vonnegut"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/deepak-chopra.webp",
+            "Text": "Life gives you plenty of time to do whatever you want to do if you stay in the present moment.",
+            "Title": "American Speaker",
+            "Name": "Deepak Chopra"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thich-nhat-hanh.webp",
+            "Text": "If you abandon the present moment, you cannot live the moments of your daily life deeply.",
+            "Title": "Vietnamese Clergyman",
+            "Name": "Thich Nhat Hanh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/woodrow-wilson.webp",
+            "Text": "He is not a true man of the world who knows only the present fashions of it.",
+            "Title": "American President",
+            "Name": "Woodrow Wilson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-nietzsche.webp",
+            "Text": "The future influences the present just as much as the past.",
+            "Title": "German Philosopher",
+            "Name": "Friedrich Nietzsche"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/voltaire.webp",
+            "Text": "It is said that the present is pregnant with the future.",
+            "Title": "French Writer",
+            "Name": "Voltaire"
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "currentWord": {
+        "wordRoot": "distraction",
+        "id": 9355,
+        "phonemic": "dɪˈstrækʃn|dɪˈstrækʃn\r",
+        "bigId": "1e84e0b0-1092-4282-8750-df92df0def38",
+        "wordForms": [
+            "distractions",
+            "distraction"
+        ]
+    },
+    "senses": [
+        {
+            "id": "1e84e0b0-1092-4282-8750-df92df0def38",
+            "de": "Something that makes it difficult to think or pay attention",
+            "ty": "noun",
+            "ex": "Sorry, I didn't catch that - the noise from next door was a real distraction.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "major distraction",
+                " a bit of a distraction",
+                " worry and distraction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1e84e0b0-1092-4282-8750-df92df0def38.webp",
+            "Tips": [
+                {
+                    "title": "Negative Context",
+                    "description": "Often used when something negatively affects focus, especially during tasks requiring concentration.",
+                    "example": "The construction noise outside was a huge distraction during my exam.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/eJA16L81l4QvZZWznvuY20NeNdc.webp"
+                },
+                {
+                    "title": "Degree Varies",
+                    "description": "Can imply different scales of disruption, from minor annoyances to complete loss of attention.",
+                    "example": "A fly buzzing around is a minor distraction, but loud music could derail your study session.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/J18hs6jh3REXrCY3OZYpuqQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "8c7d178b-6d91-46c5-b1e6-1e3697b146f1",
+            "de": "Something that amuses or entertains you so that you do not think about problems or worries",
+            "ty": "noun",
+            "ex": "She listens to music as a distraction from her troubles.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "welcome distraction",
+                " pleasant distraction",
+                " needed distraction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8c7d178b-6d91-46c5-b1e6-1e3697b146f1.webp",
+            "Tips": [
+                {
+                    "title": "Positive Escape",
+                    "description": "Usually describes an enjoyable break from stress or routine, often implying relief or comfort.",
+                    "example": "The comedy show was a welcome distraction from the stress of work.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporary Relief",
+                    "description": "Refers to a short-term diversion, not a solution to one's problems or worries.",
+                    "example": "Playing video games provided a necessary distraction from his anxiety.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "68f56368-d8c3-42a8-816c-311a8402174b",
+            "de": "An activity that diverts the mind from tedious or serious concerns; a recreation or pastime",
+            "do": "Psychology",
+            "ty": "noun",
+            "ex": "Reading is a good distraction from the cares of life.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "useful distraction",
+                " temporary distraction",
+                " harmless distraction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/68f56368-d8c3-42a8-816c-311a8402174b.webp",
+            "Tips": [
+                {
+                    "title": "Active Engagement",
+                    "description": "In a psychological sense, implies an active engagement in an alternative activity for mental rest.",
+                    "example": "Taking up painting as a distraction can be a therapeutic way to unwind.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Refocus Strategy",
+                    "description": "Used in academic or therapeutic contexts to discuss strategies for redirecting attention.",
+                    "example": "Educators often use puzzles as distractions to manage classroom behavior.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5d5f26e6-916a-4361-9881-4aa685f39b00",
+            "de": "A mental state of being drawn or turned to one side; a divided attention",
+            "do": "Psychology",
+            "ty": "noun",
+            "ex": "Distraction is a common symptom in young children with ADHD.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "constant distraction",
+                " potential distraction",
+                " mental distraction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5d5f26e6-916a-4361-9881-4aa685f39b00.webp",
+            "Tips": [
+                {
+                    "title": "Attention Split",
+                    "description": "Highlights the splitting of attention that may lead to inefficiency in completing tasks.",
+                    "example": "With constant distractions from his phone, he couldn't finish his homework.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cognitive Symptom",
+                    "description": "In medical or psychological discussion, it points to a symptom affecting cognitive function.",
+                    "example": "Distraction is often discussed as a symptom in patients with concentration disorders.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Deflection": {
+            "wordRoot": "Deflection",
+            "wordDefinition": "Deflection refers to redirecting the focus of a conversation or argument away from a particular topic or issue.\n\nDeflection is about shifting blame or attention away from a specific topic, while distraction refers to something that causes your attention to stray from what you're trying to accomplish.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/664c9998-d072-4ef7-a222-2447877eb9c3.webp"
+        },
+        "Disruption": {
+            "wordRoot": "Disruption",
+            "wordDefinition": "Disruption refers to something that interrupts or changes the normal flow of events.\n\nIt can be intentional or unintentional, but it often creates a significant impact on the situation. For example, a protest can cause a disruption by blocking traffic and preventing people from going about their daily activities.\n\nDisruption is a significant interruption of normalcy, while distraction is a mere diversion from what you should be doing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3a0d42f-c6f0-4286-bd97-b2e376874d29.webp"
+        },
+        "Disturbance": {
+            "wordRoot": "Disturbance",
+            "wordDefinition": "A disturbance is something that interrupts or bothers you.\n\nTo summarize, a distraction is an external force that diverts your attention while a disturbance is an external force that causes irritation or interruption.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0e31cb4a-8be6-4871-b833-b13b6dd4d57a.webp"
+        },
+        "Diversion": {
+            "wordRoot": "Diversion",
+            "wordDefinition": "Distraction and diversion are both words used to describe a situation where someone's attention is redirected from something else.\n\nA diversion is a deliberate redirection of someone's attention. It's often used to avoid a difficult or uncomfortable situation.\n\nFor example, if someone is having a heated argument and one person tries to change the subject to avoid the argument, it would be a diversion.\n\nDistraction refers to something that pulls your attention away from what you're doing, while a diversion is a deliberate attempt to redirect someone's attention.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d90f0904-5a62-4797-bea1-f26b974bb1fa.webp"
+        },
+        "Hindrance": {
+            "wordRoot": "Hindrance",
+            "wordDefinition": "Distraction and hindrance are two words that describe obstacles or barriers that prevent someone from doing something.\n\nHindrance refers to something that actively blocks or prevents you from doing something. For example, if you're trying to exercise but there's a big, heavy couch in the way, that couch is a hindrance because it's physically stopping you from moving.\n\nOverall, distractions are things that can make it harder to do something, while hindrances are things that actively prevent you from doing something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a206d16e-fe13-4957-ba9e-611164793b93.webp"
+        },
+        "Interruption": {
+            "wordRoot": "Interruption",
+            "wordDefinition": "Interruption is when something or someone externally stops you from doing what you were doing. For example, if you were in a meeting and your boss walked in and started talking to you, your attention would be interrupted from the meeting.\n\nDistraction is something that you have control over, something you can avoid whereas interruption is something that may come unannounced and disrupt your current task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24a2a4a1-b46b-46ec-8682-ec09d1096abf.webp"
+        },
+        "Obfuscate": {
+            "wordRoot": "Obfuscate",
+            "wordDefinition": "Obfuscate means to make something unclear or confusing. It's like trying to hide the truth or make it difficult for someone to understand what's really going on.\n\nFor example, if a politician uses complicated language to avoid answering a question directly, they're obfuscating the issue.\n\nThe main difference is that a distraction is something that takes your attention away from something else, while obfuscation is intentionally making something unclear or confusing.\n\nA distraction can be unintentional, while obfuscation is always deliberate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/32f6b03f-eff3-4767-b044-c1386b3d2856.webp"
+        },
+        "Obstruction": {
+            "wordRoot": "Obstruction",
+            "wordDefinition": "An obstruction is something that physically blocks or hinders your progress. For example, if a tree falls across the road, it obstructs the path and makes it difficult or impossible for cars to pass.\n\nA distraction is a mental interruption, while an obstruction is a physical barrier.\n\nDistractions can occur anywhere - at school, work, or home - while obstructions typically occur out in the world, such as on a road or a construction site.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d10ecf6b-79ab-4a49-9fa6-0d9a2a083a23.webp"
+        },
+        "Preoccupation": {
+            "wordRoot": "Preoccupation",
+            "wordDefinition": "Preoccupation refers to being deeply absorbed or overly focused on something. This could be something like being preoccupied with a problem you're trying to solve.\n\nA distraction is an external force that takes your attention away from what you're supposed to be doing, while preoccupation is something that you are internally focused on.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bd4d3356-bd59-4fd9-8154-f18fbcb0c0fe.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Your heart beats faster, your pupils dilate, and your body releases glucose for additional energy, not because you're in danger but because your body is telling you that something important is happening. To help you focus, norepinephrine creates a sort of tunnel vision, blocking out surrounding distractions,",
+            "Title": "The science of...",
+            "VideoId": "169N81xAffQ",
+            "Controls": "start=213"
+        },
+        {
+            "Text": " with a distraction task in between. So we could look at the same brain when it was in that heightened state and when it was in a resting state. And we found activity in a lot of brain regions. In fact, one of the most important was a brain region that becomes active when you feel the rush of cocaine.",
+            "Title": "Why we love, why we...",
+            "VideoId": "x-ewvCNguug",
+            "Controls": "start=317"
+        },
+        {
+            "Text": " and, ironically, use the same technology that's driving us to distraction to help us step out of our unhealthy habit patterns of smoking, of stress eating and other addictive behaviors. Now, remember that bit about context-dependent memory? We can deliver these tools to peoples' fingertips",
+            "Title": "A simple way to break a...",
+            "VideoId": "-moW9jvvMr4",
+            "Controls": "start=488"
+        },
+        {
+            "Text": " Sadly, it may interrupt and the polio situation might get worse a little bit because of the distraction here. We're using a lot of the great capacity that was built up for those polio activities to try and help the developing countries respond to this very well. And that is appropriate,",
+            "Title": "How we must respond to...",
+            "VideoId": "Xe8fIjxicoo",
+            "Controls": "start=2699"
+        },
+        {
+            "Text": " were some distractions but despite that I was able to graduate in the top 80 percent of my class and then I got into the workforce like look millions of other people the B student but with a level aspirations for my life and I quickly became frustrated with the lack of tools that were",
+            "Title": "The Primary Color...",
+            "VideoId": "yX2ohk3-YtE",
+            "Controls": "start=31"
+        },
+        {
+            "Text": " I believe in focus focus it's a way for the dog to watch me if he's watching me he trusts me so I show him what I want so now he said what what do you want I have complete attention then if there are distraction around whether it be noise another dog a person running down",
+            "Title": "A Lesson in Aggression PIPE...",
+            "VideoId": "S3XrKkrAZpY",
+            "Controls": "start=49"
+        },
+        {
+            "Text": " another one would pop back up again. It was a really very stressful time. I guess we all deal with stress in different ways. Some people will bury themselves in work, grateful for the distraction. Others will turn to their friends, their family, looking for support.",
+            "Title": "All it takes is 10...",
+            "VideoId": "qzR62JJCMBQ",
+            "Controls": "start=191"
+        },
+        {
+            "Text": " work by reducing the activity in pain-sensing circuits or boosting our coping system, or endorphins. Some people can cope with pain using methods that involve distraction, relaxation, meditation, yoga,",
+            "Title": "How does your brain...",
+            "VideoId": "I7wfDenj6CQ",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " with dwindling energy chile must choose our target wisely but the kittens especially the bold cub chassa are a distraction they don't understand the rules of the hunt",
+            "Title": "Hungry Cheetah Cubs Need...",
+            "VideoId": "HEERWbcZMkY",
+            "Controls": "start=60"
+        },
+        {
+            "Text": " It is essential the swap happens quickly before foster mum notices baby is missing. A bamboo distraction can only last so long.",
+            "Title": "Baby Twin Pandas PIPE Panda...",
+            "VideoId": "unKI78hW6LI",
+            "Controls": "start=34"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-canfield.webp",
+            "Text": "Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them.",
+            "Title": "American Author",
+            "Name": "Jack Canfield"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jesse-itzler.webp",
+            "Text": "I feel like I'd invested so much in the physical side of my life: running marathons - I brought a SEAL into my house - I have a trainer. But I've invested very little on the inner work, and in a world of distractions, I felt like to have the whole picture, I really had to spend a little time alone and work on being present.",
+            "Title": "American Businessman",
+            "Name": "Jesse Itzler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jhene-aiko.webp",
+            "Text": "You know how a lot of people say, 'I lose myself in music,' or 'I like to escape,' but I want my music to be more of an awakening. I want it to make people to be aware of life; I don't want my music to be a distraction. I want to light a path.",
+            "Title": "American Musician",
+            "Name": "Jhene Aiko"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/clarence-thomas.webp",
+            "Text": "You have a number of choices. You could continue to always fight against people who are really distractions. They're people in the cheap seats of life. Or you can do what you went there to do.",
+            "Title": "American Judge",
+            "Name": "Clarence Thomas"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hope-solo.webp",
+            "Text": "All my life, since the time I was little, has been a long distraction. At least that is the way some people want to perceive it, but for me, it's given me a lot of strength.",
+            "Title": "American Athlete",
+            "Name": "Hope Solo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-mraz.webp",
+            "Text": "Music was always the distraction, so it was the obvious choice to pursue. My dad always said to find a job I love to do, that way it wouldn't feel like a job. So I did that.",
+            "Title": "American Musician",
+            "Name": "Jason Mraz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-mirren.webp",
+            "Text": "Nothing is quite so emotional and passionate as what goes on inside of a family. People are driven to distraction by a father or a mother or a husband. Or a child.",
+            "Title": "British Actress",
+            "Name": "Helen Mirren"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hilaire-belloc.webp",
+            "Text": "I have wandered all my life, and I have also traveled; the difference between the two being this, that we wander for distraction, but we travel for fulfillment.",
+            "Title": "English Poet",
+            "Name": "Hilaire Belloc"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jay-weatherill.webp",
+            "Text": "A stronger focus on quality public policymaking and less distraction of personalities would be a sufficient and important contribution I can make.",
+            "Title": "Australian Politician",
+            "Name": "Jay Weatherill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nik-wallenda.webp",
+            "Text": "I've trained all my life not to be distracted by distractions.",
+            "Title": "American Entertainer",
+            "Name": "Nik Wallenda"
+        }
+    ]
+}

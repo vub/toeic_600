@@ -1,0 +1,346 @@
+{
+    "currentWord": {
+        "wordRoot": "network",
+        "id": 6302,
+        "phonemic": "ˈnetwɜːk|ˈnetwɜːrk\r",
+        "bigId": "da78fbaf-b114-430e-a3dc-277903122bdb",
+        "wordForms": [
+            "networks",
+            "networking",
+            "networked",
+            "network"
+        ]
+    },
+    "senses": [
+        {
+            "id": "da78fbaf-b114-430e-a3dc-277903122bdb",
+            "de": "A group or system of connected people or things",
+            "ty": "noun",
+            "ex": "She's trying to build a network of business contacts.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "build a network",
+                " network of contacts",
+                " support network"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/da78fbaf-b114-430e-a3dc-277903122bdb.webp",
+            "Tips": [
+                {
+                    "title": "Social Connections",
+                    "description": "Refers to interpersonal connections; implies direct or indirect relationships which offer support or resources.",
+                    "example": "Joining clubs can expand your social network.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/onaBaIfVnvbaP4Ps4ZDeJzgBQU.webp"
+                },
+                {
+                    "title": "Not Just Digital",
+                    "description": "While often used for digital connections, it also applies to real-world relationships between people.",
+                    "example": "Neighbors often form a strong community network.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Ia8TYszocWNkswKV6RmdjkCPik.webp"
+                },
+                {
+                    "title": "Link to Success",
+                    "description": "Having a broad network can lead to more opportunities in various aspects of life, not just in business.",
+                    "example": "Her extensive network helped her find a mentor.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/oPYfmoA82oNsUhk8r42X9ABA14.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "b040c267-bcf0-4408-ac00-2b81a1f688d0",
+            "de": "A system of computers and other devices that are connected to each other",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "We're having some problems with our network at the moment.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "computer network",
+                " network problems",
+                " network security"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b040c267-bcf0-4408-ac00-2b81a1f688d0.webp",
+            "Tips": [
+                {
+                    "title": "Technical Context",
+                    "description": "Used in IT and technical contexts; indicates a focus on hardware and software connectivity.",
+                    "example": "Our office network allows employees to share files easily.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Security Importance",
+                    "description": "Secure networks are vital in protecting data from unauthorized access or cyber threats.",
+                    "example": "We updated our network security protocols.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3805e4f9-dc19-4649-ac9c-56a48bebede3",
+            "de": "A group of television or radio stations that broadcast the same programs",
+            "do": "Media",
+            "ty": "noun",
+            "ex": "The programme will be broadcast on the national network.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "national network",
+                " network broadcast",
+                " tv/radio network"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3805e4f9-dc19-4649-ac9c-56a48bebede3.webp",
+            "Tips": [
+                {
+                    "title": "Broadcasting Reach",
+                    "description": "In media, networks are systems to distribute content over a wide area, often nationwide.",
+                    "example": "The game will be shown across the sports network.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Shared Programs",
+                    "description": "Networks broadcast the same shows across all stations, providing a unified viewer experience.",
+                    "example": "The sitcom is a hit across the entire network.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a73f6967-926b-4b65-8346-7f2856092452",
+            "de": "A group of people or organizations that are closely connected in some way",
+            "ty": "noun",
+            "ex": "The tobacco industry has a network of influences in the government.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "network of influences",
+                " global network",
+                " social network"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a73f6967-926b-4b65-8346-7f2856092452.webp",
+            "Tips": [
+                {
+                    "title": "Influence and Power",
+                    "description": "Networks can represent the reach of a person's or group's influence, often used in political or corporate contexts.",
+                    "example": "His business network includes influential politicians.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Beyond Geography",
+                    "description": "Networks can transcend physical locations, uniting people with common interests globally.",
+                    "example": "She's part of an international research network.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "39a4d694-eff5-4bea-bee3-85c8556482c2",
+            "de": "To make contacts and establish relationships with people, especially for business purposes",
+            "ty": "verb",
+            "ex": "You have to network if you want to get a good job.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "network with people",
+                " network for business/job",
+                " network online"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/39a4d694-eff5-4bea-bee3-85c8556482c2.webp",
+            "Tips": [
+                {
+                    "title": "Career Advancement",
+                    "description": "Networking is a proactive process for creating professional relationships that could lead to job opportunities.",
+                    "example": "He got his job by networking at a conference.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Immediately Beneficial",
+                    "description": "Networking doesn't always produce instant results; it's about building long-term connections.",
+                    "example": "I've been networking for months without a job offer yet.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Circuit": {
+            "wordRoot": "Circuit",
+            "wordDefinition": "A circuit is a closed path through which electric current can flow, usually consisting of wires, devices, and a power source.\n\nA network refers to a group or system of interconnected people or things. In terms of electronics, a network is a collection of circuits or components that are connected together to perform a specific function, often in a more complex and integrated way than a single circuit can achieve.\n\nIn simpler terms, a circuit is like a single street, while a network is like a whole city with its interconnected streets, buildings, and services.\n\nCircuits are used to control the flow of electricity to power a device, while networks are used to interconnect multiple devices to perform more complex tasks.\n\nCircuits are applicable in electronic devices such as radios, computers, and appliances, while networks are used in communication systems such as the internet, cellular networks, and computer networks.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5ff14686-cebc-4ef3-b572-222471579bf8.webp"
+        },
+        "Connection": {
+            "wordRoot": "Connection",
+            "wordDefinition": "Connection refers to the act of linking two or more things together.\n\nA connection is usually viewed as a direct relationship between two things.\n\nA connection is a link between two or more things, and a network is a system of links between multiple things. Connections are used to build networks, and networks are used to create larger systems of relationships between things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14ffe5ed-b0c3-4d57-9700-40b30db152c0.webp"
+        },
+        "Infrastructure": {
+            "wordRoot": "Infrastructure",
+            "wordDefinition": "Infrastructure refers to the physical and organizational structures, facilities, and systems that support a community, such as buildings, roads, power grids, and water supply systems.\n\nInfrastructure is applicable to the construction and maintenance of physical structures and systems, while a network can refer to information and communication technologies and their components connecting people or devices together.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f0127bb1-6c5b-4644-a2a6-52095c2077f9.webp"
+        },
+        "Linkage": {
+            "wordRoot": "Linkage",
+            "wordDefinition": "Linkage refers to the connection between two or more things or entities, whereas a network refers to a group of interconnected entities.\n\nFor example, in biology, linkage refers to the connection between genes on a chromosome. In this context, genes that are close together on a chromosome are said to be linked, meaning that they are frequently inherited together.\n\nLinkage focuses more on the relationship between two things, while a network focuses on the connections between a group of things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/660c81de-a2ba-43b6-afe6-7b2e190df8a7.webp"
+        },
+        "Mesh": {
+            "wordRoot": "Mesh",
+            "wordDefinition": "Mesh and network are both terms used to refer to systems that are connected together.\n\nMesh usually refers to a system where each component is connected to multiple other components, creating a web-like structure.\n\nThis means that if one component fails, the others can still work together. Mesh networks are often used in wireless communication systems, such as Wi-Fi, where each device acts as a node that can connect to other devices in the network.\n\nTo put it simply, think of a mesh network like a spider web, where each strand is connected to multiple other strands, while a network is like a star, with all the points connected to a central hub.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c5b8deb6-6c59-436a-8e23-05ede601d653.webp"
+        },
+        "Nexus": {
+            "wordRoot": "Nexus",
+            "wordDefinition": "Nexus describes a connection or link between two or more things.\n\nNetwork refers to a group of things that are connected, while nexus refers to the specific connections or links between those things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/12a7d7f9-c550-42f4-a321-5d503289b304.webp"
+        },
+        "System": {
+            "wordRoot": "System",
+            "wordDefinition": "A system is a set of connected components that work together to achieve a particular goal.\n\nA system can be physical or virtual, and it can include hardware, software, and people.\n\nA network is a type of system that focuses on connecting devices together, while a system is a broader concept that can include many different types of components working together.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp"
+        },
+        "Web": {
+            "wordRoot": "Web",
+            "wordDefinition": "A web refers to the World Wide Web or the internet. It is a vast network of interconnected websites that can be accessed from anywhere in the world.\n\nWebsites can be accessed through web browsers like Google Chrome or Safari.\n\nA network is a small connection of devices, while the web is a vast network of websites that can be accessed from anywhere in the world.\n\nNetworks are typically used in private or professional settings, while the web is accessible to anyone with an internet connection.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b25906a0-41e2-48c2-adbb-c8b3fc24f77b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " room to access the people and information and resources you need at any given point of time around the world but I'm not here to talk about that I'm here to talk about the names behind the people of this network every single day I interact with amazing young people and other seasoned folks just like you all",
+            "Title": "The power in your name PIPE...",
+            "VideoId": "gQ0kF8ot2E8",
+            "Controls": "start=27"
+        },
+        {
+            "Text": " As this system drains many parts of the body, it also provides a large network for the cancer. In addition, the lymphatic vessels empty into the blood circulation, allowing the malignant cells to undergo hematogenous spread. Once at a new site, the cells once again undergo proliferation,",
+            "Title": "How does cancer spread...",
+            "VideoId": "OcigJn8UJNQ",
+            "Controls": "start=93"
+        },
+        {
+            "Text": " This effectively pushes more of it into the neural network. Meanwhile, painkillers, like morphine, raise levels of serotonin and noradrenaline, which regulate energy, arousal, alertness, and pleasure. Those same neurotransmitters also affect endorphin receptors,",
+            "Title": "How do drugs affect the...",
+            "VideoId": "8qK0hxuXOC8",
+            "Controls": "start=152"
+        },
+        {
+            "Text": " and strengthening the neural network where the information will be returned as long-term memory. So why do we remember some things and not others? Well, there are a few ways to influence the extent and effectiveness of memory retention.",
+            "Title": "The benefits of a good...",
+            "VideoId": "gedoSfZvBgE",
+            "Controls": "start=198"
+        },
+        {
+            "Text": " These chemical systems help regulate and reduce pain. All these networks and pathways work together to create your pain experience, to prevent further tissue damage, and help you to cope with pain. This system is similar for everyone,",
+            "Title": "How does your brain...",
+            "VideoId": "I7wfDenj6CQ",
+            "Controls": "start=155"
+        },
+        {
+            "Text": " Together, the alveolar wall and capillaries make a two-cell thick membrane that brings blood and oxygen close enough for diffusion. These oxygen-enriched cells are then carried from the lungs through the cardiovascular network,",
+            "Title": "Oxygen’s surprisingly...",
+            "VideoId": "GVU_zANtroE",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " And today, the quote, whoever said it, is truer than ever before. In previous decades, most media with global reach consisted of several major newspapers and networks which had the resources to gather information directly.",
+            "Title": "How false news can...",
+            "VideoId": "cSKGa_7XJkg",
+            "Controls": "start=24"
+        },
+        {
+            "Text": " and the fires that attacked the steel network that supported the building you see we're going to have a source of heat here that covers almost the entire core and that starts heating the columns which are unprotected",
+            "Title": "9/11 Impact Anatomy PIPE...",
+            "VideoId": "_FVAzn1Yuz8",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " could be a threat of extinction solely due to climate change this isn't just about losing wonders of nature the loss of even the smallest organisms destabilizes the world's ecosystems the networks that support",
+            "Title": "When The World Gets 1℃...",
+            "VideoId": "dIsjcG7hTmo",
+            "Controls": "start=403"
+        },
+        {
+            "Text": " And we need to all gather together and say no to the tar sands. And we can do that. there is a huge network all over the world, fighting to stop this project. And I quite simply think",
+            "Title": "Garth Lenz: The true...",
+            "VideoId": "h9SKyrHRhDo",
+            "Controls": "start=937"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franchesca-ramsey.webp",
+            "Text": "I'm very fortunate to have a husband and friends and family that are super supportive of my career in all aspects. I do so many different things, it's really nice to have a support network that includes him and my parents and my friends that encourage me to continue to work towards whatever it is that I want to do.",
+            "Title": "American Comedian",
+            "Name": "Franchesca Ramsey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "Cosmos' wouldn't deserve its place in primetime evening network television were it not a landscape on which compelling stories were told. People, when they watch TV in the evening, want to see stories, and science simply tells the best stories.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jacqueline-novogratz.webp",
+            "Text": "Wealth today has been created by a world view dominated by fast-moving networks, open information, bottom-up entrepreneurialism.",
+            "Title": "American Businesswoman",
+            "Name": "Jacqueline Novogratz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/reid-hoffman.webp",
+            "Text": "Your network is the people who want to help you, and you want to help them, and that's really powerful.",
+            "Title": "American Businessman",
+            "Name": "Reid Hoffman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gail-sheehy.webp",
+            "Text": "In rough times, pathfinders rely on work, friends, humor and prayer. They develop a support network.",
+            "Title": "American Writer",
+            "Name": "Gail Sheehy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zadie-smith.webp",
+            "Text": "World makers, social network makers, ask one question first: 'How can I do it?",
+            "Title": "British Novelist",
+            "Name": "Zadie Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yami-gautam.webp",
+            "Text": "I'm there on all the social networking sites, as it plays an important role.",
+            "Title": "Indian Actress",
+            "Name": "Yami Gautam"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alun-wyn-jones.webp",
+            "Text": "I'm very fortunate I've got a good support network.",
+            "Title": "Welsh Athlete",
+            "Name": "Alun Wyn Jones"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/carlo-ratti.webp",
+            "Text": "Phone networks can capture life on our planet.",
+            "Title": "Italian Architect",
+            "Name": "Carlo Ratti"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mauro-ranallo.webp",
+            "Text": "I'm blessed to have a great support network.",
+            "Title": "Canadian Entertainer",
+            "Name": "Mauro Ranallo"
+        }
+    ]
+}

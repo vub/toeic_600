@@ -1,0 +1,358 @@
+{
+    "currentWord": {
+        "wordRoot": "suit",
+        "id": 5186,
+        "phonemic": "suːt|suːt\r",
+        "bigId": "2702a922-ebb2-4579-97d3-a3f92ee7db48",
+        "wordForms": [
+            "suits",
+            "suiting",
+            "suited",
+            "suit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2702a922-ebb2-4579-97d3-a3f92ee7db48",
+            "de": "A set of clothes made from the same fabric, usually including a jacket and trousers or a jacket and skirt.",
+            "ty": "noun",
+            "ex": "He wore a dark blue business suit to the meeting.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business suit",
+                " suit jacket",
+                " suit trousers"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2702a922-ebb2-4579-97d3-a3f92ee7db48.webp",
+            "Tips": [
+                {
+                    "title": "Professional Dress",
+                    "description": "Wearing a suit often signifies professionalism and is expected in certain workplaces.",
+                    "example": "For your job interview, make sure to wear a suit to present yourself professionally.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/BnLvble0Tfab3TlNVTtWgbhDZ4.webp"
+                },
+                {
+                    "title": "Formal Events",
+                    "description": "Suits are typical attire for formal events like weddings or dinners.",
+                    "example": "He bought a new suit for his sister's wedding.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/b8PgabdeJ5kga3IzuH30H9hE.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "eed9fe19-919b-47b3-87b3-6d8c51f8cb45",
+            "de": "One of the four sets of cards in a deck - hearts, diamonds, clubs, spades.",
+            "do": "Gaming",
+            "ty": "noun",
+            "ex": "He had a strong hand - a full house of the highest suit.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "card suit",
+                " suit of cards",
+                " highest suit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/eed9fe19-919b-47b3-87b3-6d8c51f8cb45.webp",
+            "Tips": [
+                {
+                    "title": "Card Games",
+                    "description": "In card games, 'suit' refers to one of the categories cards are divided into.",
+                    "example": "Could you sort the cards by suit before we start the game?\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Strategy Importance",
+                    "description": "In many card games, the suit can determine the strength or value of a hand.",
+                    "example": "In bridge, spades are generally the highest suit.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5c3b698d-bb1d-4b5a-887d-e773222e64d8",
+            "de": "An act of making a legal claim.",
+            "do": "Legal",
+            "ty": "noun",
+            "ex": "She decided to bring a suit against her former employer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "bring a suit",
+                " law suit",
+                " suit for damages"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5c3b698d-bb1d-4b5a-887d-e773222e64d8.webp",
+            "Tips": [
+                {
+                    "title": "Legal Action",
+                    "description": "A 'suit' can also mean taking someone to court through a formal legal process.",
+                    "example": "The company faced a suit for breach of contract.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1eb5d986-d8e2-4104-896c-bead7b686d59",
+            "de": "To be right or proper for.",
+            "ty": "verb",
+            "ex": "That color really suits you.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "suit someone's taste",
+                " suit the occasion",
+                " suit your needs"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1eb5d986-d8e2-4104-896c-bead7b686d59.webp",
+            "Tips": [
+                {
+                    "title": "Personal Preference",
+                    "description": "'Suit' as a verb means something fits one's personal taste or preference.",
+                    "example": "These curtains don't suit my taste; they're too bright.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Occasion Appropriateness",
+                    "description": "Using 'suit' indicates appropriateness for a specific time, place or event.",
+                    "example": "This casual outfit won't suit a formal event like the gala.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "485d01ea-929e-461b-9f3e-4b0b65e0169d",
+            "de": "To meet the needs or requirements of.",
+            "ty": "verb",
+            "ex": "Will this time suit you?",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "suit someone's schedule",
+                " suit the circumstances",
+                " suit the purpose"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/485d01ea-929e-461b-9f3e-4b0b65e0169d.webp",
+            "Tips": [
+                {
+                    "title": "Meeting Requirements",
+                    "description": "When something 'suits' a purpose, it means it meets the requirements or needs.",
+                    "example": "The software update should suit our needs for faster data processing.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6867590b-7690-42a7-a487-0a04560d3562",
+            "de": "A man dressed in a conventional or formal way, often working in an office or in business.",
+            "ty": "noun",
+            "ex": "The bar was full of suits discussing corporate matters.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Informal, Neutral",
+            "tp": "",
+            "cl": [
+                "corporate suits",
+                " suits from head office",
+                " expensive suits"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6867590b-7690-42a7-a487-0a04560d3562.webp",
+            "Tips": [
+                {
+                    "title": "Corporate Stereotype",
+                    "description": "Calling someone a 'suit' can be stereotyping them as a corporate worker, often with a negative tone.",
+                    "example": "The office was full of suits making decisions without consulting the staff.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Informal Usage",
+                    "description": "'Suits' used to describe people is informal and may be perceived as disrespectful if used improperly.",
+                    "example": "The suits upstairs haven't thought this through well enough.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Apparel": {
+            "wordRoot": "Apparel",
+            "wordDefinition": "Apparel generally refers to any type of clothing worn on the body, whereas suit specifically refers to a matching set of clothing consisting of a jacket and trousers or skirt.\n\nApparel is a broader term that can include a variety of clothing items like shirts, dresses, pants, and more.\n\nSuit is often used in more formal settings, like for business or special occasions. So, while a suit would fall under the category of apparel, not all apparel would be considered a suit.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/756487e2-fb0f-49e9-9c6d-d5cf44b7b99f.webp"
+        },
+        "Attire": {
+            "wordRoot": "Attire",
+            "wordDefinition": "Attire refers to clothing in general, whereas a suit specifically refers to a matching set of formal clothing items such as a jacket, pants or skirt, and possibly a vest or tie.\n\nAttire can be more casual or formal depending on the context, while suits are generally considered to be formal attire.\n\nAttire can be applicable in many situations, from everyday wear to special occasions, while suits are usually reserved for formal events such as weddings or a job interview.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9ef65614-c26e-43a3-b4fe-0b075c501fab.webp"
+        },
+        "Costume": {
+            "wordRoot": "Costume",
+            "wordDefinition": "A costume is clothing worn for a particular occasion or to represent a particular character, such as for Halloween or a theater performance.\n\nA costume is typically worn for fun or entertainment purposes, while a suit is worn for more serious or formal occasions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4a9912bf-904d-4c4e-97a0-64c9db55ca1a.webp"
+        },
+        "Dress": {
+            "wordRoot": "Dress",
+            "wordDefinition": "A dress is typically a one-piece garment that covers the body from the shoulders to the hem. It's often worn by women on formal occasions, like weddings or cocktail parties.\n\nA dress is a one-piece garment worn by women on formal occasions, while a suit is a set of separate pieces worn by both men and women in professional or formal settings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/16fabeea-2a21-4e84-abf8-6a0ad20482b5.webp"
+        },
+        "Ensemble": {
+            "wordRoot": "Ensemble",
+            "wordDefinition": "Ensemble refers to a complete outfit or a group of performers who work together to create a piece of music or play. It is applicable in the context of fashion as well as performing arts.\n\nFor example, a complete outfit involving a shirt, pants, and a jacket can be referred to as an ensemble.\n\nSimilarly, a group of musicians or actors working together on a performance can also be referred to as an ensemble.\n\nEnsemble can refer to any complete outfit or group of performers, while suit specifically refers to formal wear.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dc93e2ed-27fa-4f55-8aaa-9a4d9b2a72c1.webp"
+        },
+        "Garb": {
+            "wordRoot": "Garb",
+            "wordDefinition": "Garb refers to any type of clothing or attire, especially distinctive or unusual clothing that is worn for a special occasion, such as traditional Indian garb worn during festivals.\n\nIt can also refer to garments that specific professions may wear, such as medical garb or chef garb.\n\nGarb describes clothing that is specific to a certain situation or purpose.\n\nGarb can refer to any type of clothing, whereas a suit is a specific type of formal attire.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e657d7b8-be48-4c25-8d22-447273c4bd92.webp"
+        },
+        "Outfit": {
+            "wordRoot": "Outfit",
+            "wordDefinition": "Outfit can refer to any clothing worn together, such as a shirt, pants, and shoes.\n\nIt can also refer to a special set of clothing worn for a particular purpose, such as a sports outfit or a formal outfit.\n\nSuits are often made from finer materials and are designed to be more formal and professional-looking than regular outfits.\n\nThe main difference between the two is that an outfit can refer to any combination of clothing, while a suit is a specific type of formal attire made up of matching pieces.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/623c6c21-e2cd-43f7-8bee-015f67d1ca9a.webp"
+        },
+        "Uniform": {
+            "wordRoot": "Uniform",
+            "wordDefinition": "A uniform is a set of clothes worn by a group of people to signify their affiliation or profession.\n\nSuits are commonly worn by people in office jobs or for special occasions, such as weddings or job interviews. Uniforms are worn by people in certain jobs or professions, such as police officers or military personnel.\n\nThe main difference between suits and uniforms is that suits are worn to look professional or formal, while uniforms are worn to signify a specific group or profession.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9e09b35f-c71a-4884-b5fe-3efa210a3fd0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and for the audience to understand because it's naturally suited to the English language. But there might be another reason. The next time you're in a heightened emotional situation, like the ones that make Shakespeare's characters burst into verse, put your hand over the left side of your chest.",
+            "Title": "Why Shakespeare loved...",
+            "VideoId": "I5lsuyUNu_4",
+            "Controls": "start=268"
+        },
+        {
+            "Text": " that'll equip you to sift through this information critically, find what you're looking for, and decide whether the new fad really suits your needs. gather your information. There's lots of it out there, so having a clear idea of your question will help you determine what's relevant.",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=108"
+        },
+        {
+            "Text": " It's on the cunning, manipulative. So, faking your brain going wrong is evidence that your brain has gone wrong. And I spoke to other experts, and they said the pinstripe suit -- classic psychopath -- speaks to items one and two on the",
+            "Title": "Strange answers to the...",
+            "VideoId": "xYemnKEKx0c",
+            "Controls": "start=466"
+        },
+        {
+            "Text": " such as biodegradable caskets, urns that sprout trees, and burial suits that grow mushrooms. Eternal reefs take that concept to the depths of the ocean using a mixture of ashes and cement to create marine habitats for sea life.",
+            "Title": "What happens to our...",
+            "VideoId": "mRsa2wb0aTs",
+            "Controls": "start=224"
+        },
+        {
+            "Text": " is enough to generate significant acceleration. And unlike the exhaust that pours out of a rocket engine, this stream is much smaller and far more fuel efficient, which makes it better suited for long deep-space missions.",
+            "Title": "Will future spacecraft...",
+            "VideoId": "Y7IsyjFROHE",
+            "Controls": "start=220"
+        },
+        {
+            "Text": " The virus is contained for now, but unless you can destroy it, the vents will soon open and unleash a deadly airborne plague. Without hesitation, you grab your HazMat suit and get ready to save the world.",
+            "Title": "Can you solve the virus...",
+            "VideoId": "ZKh6z0X6KRw",
+            "Controls": "start=28"
+        },
+        {
+            "Text": " chess so obviously I was very motivated to learn the game in the beginning it was only a game for me but it became gradually competitive it suited very much to my character as from a very",
+            "Title": "Giving checkmate is...",
+            "VideoId": "z-ttu7dyBCU",
+            "Controls": "start=80"
+        },
+        {
+            "Text": " and at least 2.5 billion times during an average lifetime. That may sound like an insurmountable amount of pressure, but don't worry, your arteries are well suited for the challenge.",
+            "Title": "How blood pressure works...",
+            "VideoId": "Ab9OZsDECZw",
+            "Controls": "start=240"
+        },
+        {
+            "Text": " A lot of our participants, it's their first time putting on a wet suit, it's their first time going in the water, and so they sign up 'cause they're like afraid of the ocean.",
+            "Title": "Surf Sisters - Ep. 2 PIPE...",
+            "VideoId": "F3LS8CQJW4A",
+            "Controls": "start=229"
+        },
+        {
+            "Text": " one hundred thousand bees cover his body creating a living suit he has such control over the bees he rarely suffers a single sting",
+            "Title": "The Man Who Can Control...",
+            "VideoId": "7LSFOqnBbpk",
+            "Controls": "start=89"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-barkley.webp",
+            "Text": "I got some cash from agents. I've talked to the NCAA. I think that should be legal. I want some money, too; everybody else is making money. I want to go on dates. I want to go buy myself some new suits. I want to buy myself some new sneakers, and I paid the agents back.",
+            "Title": "American Baseball Player",
+            "Name": "Charles Barkley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/evan-peters.webp",
+            "Text": "I would love to do comedy. I think I'm funny and that comedy is my strong suit, at least in real life. I have yet to prove myself in the movies, but I'd love to get the opportunity to do that.",
+            "Title": "American Actor",
+            "Name": "Evan Peters"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gena-lee-nolin.webp",
+            "Text": "The show was that we were sexy lifeguards. Clearly, the suits were probably five sizes too small and all of that, but it was just part of what it was, and that's why it was so popular.",
+            "Title": "American Actress",
+            "Name": "Gena Lee Nolin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-statham.webp",
+            "Text": "Some people are very good at that, communicating with the world; I'm not sure I'm suited to it.",
+            "Title": "British Actor",
+            "Name": "Jason Statham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francois-nars.webp",
+            "Text": "Women have to find their own personality, their own style, and what suits them the best.",
+            "Title": "French Businessman",
+            "Name": "Francois Nars"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ian-mcshane.webp",
+            "Text": "My daughter said, 'I don't think granddad really suits you.",
+            "Title": "English Actor",
+            "Name": "Ian McShane"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rockline-venkatesh.webp",
+            "Text": "Once I know an actor suits a character, it seals the deal.",
+            "Title": "",
+            "Name": "Rockline Venkatesh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/matt-berninger.webp",
+            "Text": "A suit is a sign of respect.",
+            "Title": "American Musician",
+            "Name": "Matt Berninger"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brooklyn-decker.webp",
+            "Text": "Married life suits me.",
+            "Title": "American Model",
+            "Name": "Brooklyn Decker"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-slade.webp",
+            "Text": "Married life suits me.",
+            "Title": "British Director",
+            "Name": "David Slade"
+        }
+    ]
+}

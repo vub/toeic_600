@@ -1,0 +1,141 @@
+{
+    "currentWord": {
+        "wordRoot": "check in",
+        "id": 34121,
+        "phonemic": "ʧɛk ɪn|ʧɛk ɪn",
+        "bigId": "be9e84c2-2d1f-4c65-9d07-1b52c60dbecf",
+        "wordForms": [
+            "check in"
+        ]
+    },
+    "senses": [
+        {
+            "id": "be9e84c2-2d1f-4c65-9d07-1b52c60dbecf",
+            "de": "To report one's arrival, typically at a hotel or airport",
+            "ty": "verb",
+            "ex": "We will check in at the hotel at 3pm.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "check in at the hotel",
+                " check in for a flight",
+                " check in upon arrival"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/be9e84c2-2d1f-4c65-9d07-1b52c60dbecf.webp",
+            "Tips": [
+                {
+                    "title": "Travel Protocol",
+                    "description": "Used in travel-related situations as part of standard procedures for verifying one's presence.",
+                    "example": "We must check in at the airport counter before going through security.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gmAl6kwFUgKDq1Mh2v1GD1PwdCE.webp"
+                },
+                {
+                    "title": "Time Specific",
+                    "description": "'Check in' often denotes a specific time to report arrival and can coincide with formalities.",
+                    "example": "Guests are required to check in between 4pm and 6pm.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/umHs9rFAoA3TeDQHBINeXU475s.webp"
+                }
+            ]
+        },
+        {
+            "id": "5688bb14-78d6-471d-950b-ed2604339a2f",
+            "de": "To investigate, look into, or examine",
+            "ty": "verb",
+            "ex": "I'll check in on that issue for you.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "check in on something",
+                " check in on someone",
+                " check in with"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5688bb14-78d6-471d-950b-ed2604339a2f.webp",
+            "Tips": [
+                {
+                    "title": "Concern or Update",
+                    "description": "Conveys an act of care or the need to update oneself on a situation or person.",
+                    "example": "After the surgery, the nurse came to check in on his recovery.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Casual Inquiry",
+                    "description": "Used in casual or informal contexts, showing interest in someone's condition or work.",
+                    "example": "I'll check in with you later to see how you're feeling.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4f7146b0-9396-4e82-be77-3f5c9614e0a2",
+            "de": "To make contact with someone, especially to ascertain their situation or well-being",
+            "ty": "verb",
+            "ex": "I call to check in on my grandmother every weekend.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "check in on someone",
+                " check in with someone"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4f7146b0-9396-4e82-be77-3f5c9614e0a2.webp",
+            "Tips": [
+                {
+                    "title": "Regular Communication",
+                    "description": "Suggests routine or habitual contacting to maintain communication or reassurance.",
+                    "example": "She likes to check in with her team every morning.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Remote Care",
+                    "description": "Indicates a way to remotely ensure someone's well-being, often out of concern.",
+                    "example": "Please check in with your elderly neighbors during the heatwave.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e741cb35-2854-41d0-8027-b287e5073623",
+            "de": "To commit (code into a repository) in software development",
+            "do": "Computing",
+            "ty": "verb",
+            "ex": "Please check in your changes before you leave for the day.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "check in code",
+                " check in changes",
+                " check in with comments"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e741cb35-2854-41d0-8027-b287e5073623.webp",
+            "Tips": [
+                {
+                    "title": "Work Habit",
+                    "description": "In computing, it highlights a routine part of the work process to maintain project continuity.",
+                    "example": "Team members are expected to check in their code by the end of each day.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Collaboration",
+                    "description": "Emphasizes teamwork and sharing progress by updating a shared repository.",
+                    "example": "When you check in your part of the project, please ensure it’s well-documented.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {},
+    "videos": [],
+    "quotes": []
+}

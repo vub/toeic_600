@@ -1,0 +1,294 @@
+{
+    "currentWord": {
+        "wordRoot": "compromise",
+        "id": 3106,
+        "phonemic": "ˈkɒmprəmaɪz|ˈkɑːmprəmaɪz\r",
+        "bigId": "577861b6-f92b-4914-828c-309056032aec",
+        "wordForms": [
+            "compromises",
+            "compromising",
+            "compromised",
+            "compromise"
+        ]
+    },
+    "senses": [
+        {
+            "id": "577861b6-f92b-4914-828c-309056032aec",
+            "de": "A way of resolving disagreements where each side gives up something they want to reach a solution they can both accept.",
+            "ty": "noun",
+            "ex": "After several hours of discussion, they finally reached a compromise.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "reach a compromise",
+                " make a compromise",
+                " accept a compromise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/577861b6-f92b-4914-828c-309056032aec.webp",
+            "Tips": [
+                {
+                    "title": "Positive Outcome",
+                    "description": "Compromise often suggests a positive result from negotiations.",
+                    "example": "They reached a compromise and both left the meeting satisfied.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ghD6snOC1qx2QSMzVrOupzgY.webp"
+                },
+                {
+                    "title": "Mutual Concession",
+                    "description": "Remember, compromise requires both sides to give up something, not just one.",
+                    "example": "Both firms made a compromise on their prices to close the deal.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EMC0MXIt2j5Ms6N7h2z6KnoO8.webp"
+                },
+                {
+                    "title": "Not Always Equal",
+                    "description": "A compromise doesn't necessarily mean each side gives up the same amount.",
+                    "example": "He felt the compromise was unfair, but agreed for the team's sake.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qAq3oJwv3iDxlSC95z8EA5gFYY.webp"
+                }
+            ]
+        },
+        {
+            "id": "a1d24b66-ec49-4a49-994c-9e0c4a3b38e9",
+            "de": "To settle a disagreement by each side agreeing to give up something they want.",
+            "ty": "verb",
+            "ex": "To avoid further conflict, both parties must be ready to compromise.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "compromise on something",
+                " ready to compromise",
+                " willing to compromise"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a1d24b66-ec49-4a49-994c-9e0c4a3b38e9.webp",
+            "Tips": [
+                {
+                    "title": "Seeking Agreement",
+                    "description": "The action of compromising usually comes after debate or disagreement.",
+                    "example": "They compromised after hours of negotiation to avoid a lawsuit.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Initiation Willingness",
+                    "description": "Showing readiness to compromise can be seen as a sign of cooperation.",
+                    "example": "She was ready to compromise about the project deadlines.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Cost",
+                    "description": "Compromising may involve a personal cost or sacrifice for the greater good.",
+                    "example": "He compromised his ideal location to ensure everyone could attend.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a88491a6-082a-4026-a9bb-6c7190786257",
+            "de": "To risk harming something, especially a person's reputation.",
+            "do": "General",
+            "ty": "verb",
+            "ex": "His behavior might compromise his reputation.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Disapproving",
+            "tp": "",
+            "cl": [
+                "compromise one's reputation",
+                " compromise one's status",
+                " compromise one's position"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a88491a6-082a-4026-a9bb-6c7190786257.webp",
+            "Tips": [
+                {
+                    "title": "Reputation Risk",
+                    "description": "Using compromise in this sense highlights possible damage to someone's image.",
+                    "example": "Leaking the confidential report could compromise her integrity.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Potential Harm",
+                    "description": "Emphasize that compromise here relates to potentially negative consequences.",
+                    "example": "His association with the scandal compromised his career prospects.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implicit Warning",
+                    "description": "This form carries an implicit warning about the risks of certain actions.",
+                    "example": "By ignoring the regulations, you might compromise our entire team.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Accord": {
+            "wordRoot": "Accord",
+            "wordDefinition": "Accord refers to a formal agreement or harmony between two or more parties, where both parties agree to the same terms without changing them.\n\nFor example, when negotiating a business deal, parties may need to come to an accord on certain terms and conditions before moving forward.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a5b6a89c-40bf-4039-8a24-9345b7b8d28c.webp"
+        },
+        "Agreement": {
+            "wordRoot": "Agreement",
+            "wordDefinition": "An agreement is when two or more parties come together and agree on something that works for everyone involved.\n\nA compromise is when both parties give up something in order to reach an agreement.\n\nAn agreement is applicable when both parties have similar interests and values, and are willing to work together to find a solution that benefits everyone.\n\nIt's often used in situations where there is conflict or disagreement.\n\nAn agreement is a mutual decision that satisfies both parties, while a compromise is a decision that requires both parties to give up something in order to reach a solution.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fb58f305-e166-422a-87a3-28f4bf1160c7.webp"
+        },
+        "Arrangement": {
+            "wordRoot": "Arrangement",
+            "wordDefinition": "Arrangement refers to an agreement or plan between two or more parties that is mutually beneficial and involves setting terms and conditions for a particular situation.\n\nFor example, a business arrangement between two companies may involve the sharing of resources or information for a joint project.\n\nAn arrangement is a planned agreement that both parties agree on, while a compromise is where both parties give and take in order to reach an agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp"
+        },
+        "Bargain": {
+            "wordRoot": "Bargain",
+            "wordDefinition": "Bargain refers to an agreement between two parties to exchange goods or services for a price that both parties agree upon.\n\nFor example, if you go to the market and buy a shirt for $20, you have made a bargain with the seller.\n\nIn short, bargaining is used when two parties want to come to an agreement on a price, while compromising is used when two parties want to find a solution to a disagreement or conflict.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5594d17e-daae-49c9-b0f0-437a32ac0558.webp"
+        },
+        "Concession": {
+            "wordRoot": "Concession",
+            "wordDefinition": "Concession is when one party in a disagreement gives up something to make the other party happy. For example, if two siblings are fighting over who gets to keep a toy, one sibling might make a concession by allowing the other sibling to keep the toy.\n\nCompromise and concession are both strategies used to resolve conflict, but they differ in terms of how many people are making sacrifices and whether both parties get something out of the solution.\n\nCompromise is best used when all parties have something to gain, whereas concession is best used when one party needs to give up something in order to resolve a conflict.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/afeef1d0-805a-415a-99c0-4b7dde892ef4.webp"
+        },
+        "Negotiate": {
+            "wordRoot": "Negotiate",
+            "wordDefinition": "Negotiate is when two or more people discuss what they want and try to come to an agreement that works for everyone. It's like a discussion or a debate.\n\nFor example, if two coworkers are discussing their salaries, they might negotiate with their boss to try to get a better pay raise.\n\nHowever, compromise is more focused on finding a solution that meets everyone's needs, while negotiate is focused on trying to get the best outcome for yourself while still working with others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1142fbcf-63ee-40de-a2c4-de59fbdced58.webp"
+        },
+        "Settlement": {
+            "wordRoot": "Settlement",
+            "wordDefinition": "Compromise and settlement are both ways to resolve a disagreement, but they have slightly different meanings.\n\nSettlement is more of a legal term. It means reaching a resolution in a dispute without going to court. For example, if two companies are in a disagreement about a contract, they might settle out of court by agreeing to a new contract or payment arrangement.\n\nCompromise is a solution that can be used in both informal and formal situations, while settlement is more formal and typically relates to legal and contractual disputes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8bbff294-8989-4df2-9625-04dad0cab710.webp"
+        },
+        "Understand": {
+            "wordRoot": "Understand",
+            "wordDefinition": "Understand means being aware of or comprehending something, such as a concept, an idea or another person's feelings.\n\nIt is applicable when a person wants to empathize with another person's situation or understand a new idea. For example, a teacher might explain a difficult math concept to their student until the student understands it.\n\nAlternatively, a person might try to understand their friend's feelings and perspective on an issue, which might help them provide better support or advice.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70a3474d-00c4-4e2d-9d98-5234b1a544d3.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and not compromising to have a successful relationship. But I think that it's quite interesting to know that there is really mathematical evidence to say that you should never let the sun go down on your anger. So those are my top three tips of how maths can help you with love and relationships.",
+            "Title": "The mathematics of love...",
+            "VideoId": "yFVXsjVdvmY",
+            "Controls": "start=959"
+        },
+        {
+            "Text": " we support this, this is something that needed to happen, that's a powerful argument, but it's not the final argument, and I think that's something that public should decide. But at the same time, the government has hinted that they want some kind of deal, that they want me to compromise",
+            "Title": "How we take back the...",
+            "VideoId": "yVwAodrjZMY",
+            "Controls": "start=1974"
+        },
+        {
+            "Text": " They would die near the sites of nuclear explosions and would still be severely compromised miles away. Moreover, disasters that threaten humanity also jeopardize the habitats and buffets we provide roaches. Perhaps the only way to beat them is through our mutual destruction.",
+            "Title": "Why are cockroaches so...",
+            "VideoId": "lkdLg0Nq4SQ",
+            "Controls": "start=262"
+        },
+        {
+            "Text": " neighbors did put on some dangerous people I didn't give them ilonka it doesn't matter how much you get them you listen to me if you ever do that again if you ever compromise my pants no way the problem that's helping out it's not helping out you don't understand it's",
+            "Title": "Compromising the Food...",
+            "VideoId": "aWoIg5g2GGc",
+            "Controls": "start=35"
+        },
+        {
+            "Text": " We have an incredible gift in the boreal, an incredible opportunity to preserve our best defense against global warming, but we could let that slip away. The tar sands could threaten not just a large section of the boreal. It compromises the life and the health",
+            "Title": "Garth Lenz: The true...",
+            "VideoId": "h9SKyrHRhDo",
+            "Controls": "start=975"
+        },
+        {
+            "Text": " You'll be more present with your friends, more engaged with your family, not to mention the billions of dollars of compromised productivity in the workplace that could be avoided. So if you know someone who is heartbroken, have compassion,",
+            "Title": "How to fix a broken...",
+            "VideoId": "k0GQSJrpVhM",
+            "Controls": "start=692"
+        },
+        {
+            "Text": " comes to their love life and so it can happen to the best of us it leaves us with a conundrum on the one hand falling in love is one of the best experiences that we can have emotionally on the other hand it seems to compromise our",
+            "Title": "An algorithm for happily...",
+            "VideoId": "-BQcF8irz9k",
+            "Controls": "start=72"
+        },
+        {
+            "Text": " would become infested with parasites compromising their health this is the first time that such behavior has been seen at depth in Galapagos like it's sort of it in another world right now it doesn't it doesn't seem",
+            "Title": "Best Of Oceans PIPE BBC...",
+            "VideoId": "FGvkmjAwErk",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " to create a stronger federal government. Thanks to compromises on issues like state representation, taxation power, and how to elect the president, their proposal gradually gained support.",
+            "Title": "Why wasn’t the Bill of...",
+            "VideoId": "aMCDikASE4o",
+            "Controls": "start=87"
+        },
+        {
+            "Text": " compromising their health this is the first time that such behavior has been seen at depth in Galapagos like it's sort of it in another world right now it doesn't it doesn't seem",
+            "Title": "Rare Footage of Ocean...",
+            "VideoId": "A1WBilMrDIU",
+            "Controls": "start=101"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-hart.webp",
+            "Text": "I don't take pictures when I'm with my kids, for the sake of my kids. It's important when you're as busy as I am that you give your kids your time when you're with them, and nothing compromises that. I've been lucky enough to have fans that understand that.",
+            "Title": "American Actor",
+            "Name": "Kevin Hart"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/colin-powell.webp",
+            "Text": "My own experience is use the tools that are out there. Use the digital world. But never lose sight of the need to reach out and talk to other people who don't share your view. Listen to them and see if you can find a way to compromise.",
+            "Title": "American Statesman",
+            "Name": "Colin Powell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patti-smith.webp",
+            "Text": "It's not that I have compromised or anything, but it's always been important to me to take good care of myself and be a good example. I'm not much a role model in terms of hair care, though.",
+            "Title": "American Musician",
+            "Name": "Patti Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-ruskin.webp",
+            "Text": "You may either win your peace or buy it: win it, by resistance to evil; buy it, by compromise with evil.",
+            "Title": "English Writer",
+            "Name": "John Ruskin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/future.webp",
+            "Text": "It takes compromise to raise a child, especially with a schedule like mine.",
+            "Title": "American Musician",
+            "Name": "Future"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/greta-thunburg.webp",
+            "Text": "I see the world in black and white, and I don't like compromising.",
+            "Title": "Swedish Environmentalist",
+            "Name": "Greta Thunburg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/saina-nehwal.webp",
+            "Text": "I think studies are really important and shouldn't be compromised.",
+            "Title": "Indian Athlete",
+            "Name": "Saina Nehwal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/angela-stanton-king.webp",
+            "Text": "I will not compromise on anything related to protecting children.",
+            "Title": "American Author",
+            "Name": "Angela Stanton-King"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gretchen-carlson.webp",
+            "Text": "Life is about compromise - in relationships and at work.",
+            "Title": "American Journalist",
+            "Name": "Gretchen Carlson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kevin-mccloud.webp",
+            "Text": "Life involves other people and it is a compromise.",
+            "Title": "British Designer",
+            "Name": "Kevin McCloud"
+        }
+    ]
+}

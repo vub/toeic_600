@@ -1,0 +1,382 @@
+{
+    "currentWord": {
+        "wordRoot": "sharp",
+        "id": 19629,
+        "phonemic": "ʃɑːp|ʃɑːrp\r",
+        "bigId": "756a03a2-562b-48d7-831d-8a1ba2f779e3",
+        "wordForms": [
+            "sharper",
+            "sharpest",
+            "sharps",
+            "sharply",
+            "sharpness",
+            "sharp"
+        ]
+    },
+    "senses": [
+        {
+            "id": "756a03a2-562b-48d7-831d-8a1ba2f779e3",
+            "de": "Having a thin edge or point that can cut or pierce something",
+            "ty": "adjective",
+            "ex": "He cut the apple with a sharp knife.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sharp knife",
+                " sharp edge",
+                " sharp point"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/756a03a2-562b-48d7-831d-8a1ba2f779e3.webp",
+            "Tips": [
+                {
+                    "title": "Physical Sharpness",
+                    "description": "Used literally to describe objects that can cut or pierce. Be careful when using items described as 'sharp'.",
+                    "example": "She accidentally pricked her finger on a sharp needle.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/cuQqlV7IaHmcuQLnVDOz1ZOTO3Y.webp"
+                }
+            ]
+        },
+        {
+            "id": "55f4938a-e71b-4dd8-bd7d-3435c13f1f6a",
+            "de": "Quick to understand or learn",
+            "ty": "adjective",
+            "ex": "She's a very sharp student.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sharp mind",
+                " sharp intellect",
+                " sharp student"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/55f4938a-e71b-4dd8-bd7d-3435c13f1f6a.webp",
+            "Tips": [
+                {
+                    "title": "Mental Acuity",
+                    "description": "Refers to quick intelligence. 'Sharp' in this sense often compliments someone's mental capacity.",
+                    "example": "His sharp wit always brightened our conversations.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "84c047ca-82bc-47ec-a1b8-d17f9f6a2965",
+            "de": "Abrupt or sudden",
+            "ty": "adjective",
+            "ex": "He made a sharp turn.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sharp turn",
+                " sharp bend",
+                " sharp increase"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/84c047ca-82bc-47ec-a1b8-d17f9f6a2965.webp",
+            "Tips": [
+                {
+                    "title": "Sudden Change",
+                    "description": "Indicates an immediate or abrupt change in direction or condition, often unexpectedly.",
+                    "example": "There was a sharp decline in temperatures overnight.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "dec56996-051f-4dd3-aada-fed082f77273",
+            "de": "Having a strong, often unpleasant taste or smell",
+            "ty": "adjective",
+            "ex": "The lemon has a sharp taste.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sharp flavor",
+                " sharp smell",
+                " sharp taste"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dec56996-051f-4dd3-aada-fed082f77273.webp",
+            "Tips": [
+                {
+                    "title": "Intense Flavor",
+                    "description": "Describes a taste or smell that is strong and distinct, not necessarily unpleasant.",
+                    "example": "The cheese left a sharp aftertaste in my mouth.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5adbc62e-6c1f-43e8-938c-f49a113c0f60",
+            "de": "In music, higher in pitch by one half step",
+            "ty": "adjective",
+            "ex": "The note was a bit sharp.",
+            "use": "",
+            "co": "Musical",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sharp note",
+                " sharp pitch",
+                " sharp tone"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5adbc62e-6c1f-43e8-938c-f49a113c0f60.webp",
+            "Tips": [
+                {
+                    "title": "Pitch Precision",
+                    "description": "In music, 'sharp' means slightly above the intended pitch. It's specific to musical context.",
+                    "example": "Try not to sing the chorus too sharp.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": ""
+        },
+        {
+            "id": "b73ad489-926c-4968-b553-27aa9c9bc362",
+            "de": "Clearly defined, distinct and striking",
+            "ty": "adjective",
+            "ex": "He has a sharp sense of style.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sharp image",
+                " sharp contrast",
+                " sharp definition"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b73ad489-926c-4968-b553-27aa9c9bc362.webp",
+            "Tips": [
+                {
+                    "title": "Visual Clarity",
+                    "description": "Emphasizes the clearness and distinct appearance of an image or style.",
+                    "example": "The photographer is known for his sharp images.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7a6cb79e-ed66-4d98-9519-3a3023505ad5",
+            "de": "Exactly at a specified time",
+            "ty": "adverb",
+            "ex": "I will meet you at 8 o'clock sharp.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7a6cb79e-ed66-4d98-9519-3a3023505ad5.webp",
+            "Tips": [
+                {
+                    "title": "Punctuality",
+                    "description": "Means exactly at the specified time, emphasizing timeliness. Common in everyday use.",
+                    "example": "The bus leaves at 9:00 AM sharp, so don't be late.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "25f2b846-836e-4972-b600-4cb1761495aa",
+            "de": "A musical note that is one semitone higher than a given note",
+            "ty": "noun",
+            "ex": "Play an F sharp.",
+            "use": "",
+            "co": "Musical",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/25f2b846-836e-4972-b600-4cb1761495aa.webp",
+            "Tips": [
+                {
+                    "title": "Musical Notation",
+                    "description": "A symbol in music that means to play/sing slightly higher in pitch. Always related to music sheets.",
+                    "example": "The score indicates that you should play a C sharp here.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": ""
+        }
+    ],
+    "comparisons": {
+        "Acute": {
+            "wordRoot": "Acute",
+            "wordDefinition": "Acute generally describes a condition or situation that is intense and severe, such as an \"acute illness\" or \"acute pain.\" Sharp describes something that is physically pointed, like a \"sharp knife\" or mentally precise, like a \"sharp wit.\" Acute describes intense and severe conditions or situations, while sharp describes something that is physically pointed or mentally precise.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a2b4d19-b006-48a1-b9be-d1639739bda7.webp"
+        },
+        "Astute": {
+            "wordRoot": "Astute",
+            "wordDefinition": "Astute means having a keen insight or understanding, while sharp means having a quick or clever intellect or perception.\n\nAstute is more applicable when talking about someone who can accurately and quickly analyze a situation or problem, and use their knowledge to make wise decisions.\n\nFor example, a business person might be described as astute if they make smart decisions about investments or negotiations.\n\nAstute is more about analyzing and understanding, while sharp is more about being clever and quick-witted.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c325ad34-66eb-47de-aaa2-720278385ac7.webp"
+        },
+        "Bite": {
+            "wordRoot": "Bite",
+            "wordDefinition": "Bite refers to the action of using your teeth to grab and press down on something, such as when you eat an apple or a sandwich.\n\nBite describes the action of your teeth, while sharp describes the physical shape or quality of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0e8d4df7-7064-44d4-87b6-3888c2c9fefe.webp"
+        },
+        "Incisive": {
+            "wordRoot": "Incisive",
+            "wordDefinition": "Incisive means having a keen ability to understand and analyze something, while the word sharp generally refers to physical objects that are well-defined or pointed.\n\nFor example, if someone has an \"incisive mind,\" it suggests that they are able to understand complex ideas or situations with clarity and precision.\n\nIncisive is more commonly applied to mental or intellectual skills, while sharp is often used to describe physical attributes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/da72fff0-1de7-47bf-ae9c-f5ec941549ed.webp"
+        },
+        "Keen": {
+            "wordRoot": "Keen",
+            "wordDefinition": "Both keen and sharp describe attributes of something being precise or focused, but they are used in slightly different situations.\n\nKeen is often used to describe someone's interest or enthusiasm for something. For example, someone might be keen on playing video games or keen to learn a new skill.\n\nKeen often describes enthusiasm, while sharp describes physical precision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6789d387-68b3-4b65-96f3-f4d109b63cef.webp"
+        },
+        "Pierce": {
+            "wordRoot": "Pierce",
+            "wordDefinition": "Pierce means to make a hole in something by pushing or thrusting a pointed object through it.\n\nSharp means having a thin edge or point that can easily cut or pierce through something. It is commonly used to describe knives, needles, or other objects with an edge or point that can easily cut or penetrate skin.\n\nPierce means to make a hole by thrusting something through it, while sharp describes an object with a thin, pointed edge that can easily cut or penetrate.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ba34c3c4-d1af-4c92-b0bb-43879c18f246.webp"
+        },
+        "Point": {
+            "wordRoot": "Point",
+            "wordDefinition": "Point refers to the tip of an object, such as a pencil or a needle.\n\nIt can also refer to a specific location or moment, such as \"the point in time when the concert started.\"\n\nPoint typically refers to the tip or specific location of an object, while sharp typically refers to an edge or angle that is able to cut or a precise measurement or observation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0eb9144d-6ca2-45a2-bb97-0a83a09eeed7.webp"
+        },
+        "Shrewd": {
+            "wordRoot": "Shrewd",
+            "wordDefinition": "Shrewd typically refers to a person who is astute, clever and good at judging situations, especially in business or financial matters.\n\nTo summarize, being sharp means having a general intelligence and quick reflexes, while being shrewd means having good judgement and practical skills, especially in dealing with finances and business.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aba38988-3db0-4aca-9362-42b7558efb11.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " peacefully but crocs will take every opportunity to prey on a weak animal or scavenge a dead one we've seen one or two of these hippos doing these big yawning displays which is really a threat to the crocodiles they're trying to drive the crocodiles off with this big yawn and you know sharp teeth and everything but the crocs",
+            "Title": "Top 5 Killer Crocodile...",
+            "VideoId": "npi99Y-MkN0",
+            "Controls": "start=234"
+        },
+        {
+            "Text": " you'd be choosing an option that sharply decreases your net pleasure. Perhaps, then, you believe that there are things in life with greater intrinsic value than pleasure. Truth, knowledge, authentic connection with other human beings. These are all things that might make the list. By never learning the truth,",
+            "Title": "Would you opt for a life...",
+            "VideoId": "XNP1x11Z2Ig",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " these dreams allow you to practice your fight or flight instincts and keep them sharp and dependable in case you'll need them in real life. But it doesn't always have to be unpleasant. For instance, dreams about your attractive neighbor could actually give your reproductive instinct some practice, too.",
+            "Title": "Why do we dream? - Amy...",
+            "VideoId": "2W85Dwxx218",
+            "Controls": "start=212"
+        },
+        {
+            "Text": " that helped ensure the continuation of her species for millions of years before. In the wild, cats needed sharp claws for climbing, hunting, and self-defense. Sharpening their claws on nearby surfaces kept them conditioned and ready, helped stretch their back and leg muscles,",
+            "Title": "Why do cats act so...",
+            "VideoId": "sI8NsYIyQ2A",
+            "Controls": "start=133"
+        },
+        {
+            "Text": " worried about the pain in whatever life I think about that I won't get more beauty as his clan feast the shaman sharpens his tools for the main event when the chisel gets sharp it will be less painful for the person who is getting their teeth vile and it will",
+            "Title": "Teeth Chiseling PIPE...",
+            "VideoId": "314KpEm88LU",
+            "Controls": "start=124"
+        },
+        {
+            "Text": " to maintain its structure, and tear glands that secrete a protective film. But equally important was the accompanying evolution of the brain, with its expansion of the visual cortex to process the sharper and more colorful images it was receiving.",
+            "Title": "The evolution of the...",
+            "VideoId": "qrKZBh8BL_U",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " to another person in your 80s is protective, that the people who are in relationships where they really feel they can count on the other person in times of need, those people's memories stay sharper longer. And the people in relationships",
+            "Title": "Robert Waldinger: What...",
+            "VideoId": "8KkKuTCFvzI",
+            "Controls": "start=557"
+        },
+        {
+            "Text": " at coral their sharp beaks and the base of a humpback whale pretty much perfect pret never hurt see what I mean there's music all over the world and last but not least he has the runic of a hot of a.m. mockingbird singing in the",
+            "Title": "DJing to the sounds of...",
+            "VideoId": "br7iQ-NCVic",
+            "Controls": "start=152"
+        },
+        {
+            "Text": " to warn would-be predators. Thorns, spines, and prickles discourage bigger herbivores. To deal with smaller pests, some plants' leaves have sharp hair-like structures called trichomes.",
+            "Title": "The amazing ways plants...",
+            "VideoId": "Hja0SLs2kus",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " razor sharp jaws the ants make a clean sweep capturing up to one hundred thousand insects in a single raid",
+            "Title": "Killer Ant Swarm...",
+            "VideoId": "OnooyOZRzkM",
+            "Controls": "start=230"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johnny-depp.webp",
+            "Text": "Lily's really together - she's a sharp kid and one of the smartest human beings I have ever met. Whatever she is doing, if she needs any advice, I'm there for her. Kids are going to make their own decisions, but I guess that the only thing you can do as a parent is to offer support. And I do.",
+            "Title": "American Actor",
+            "Name": "Johnny Depp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/grant-bowler.webp",
+            "Text": "For my money, if I'm playing anything then it has to have some sharp angles on it. It's got to have some edges that you can cut yourself on, otherwise it's boring.",
+            "Title": "Australian Actor",
+            "Name": "Grant Bowler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jos-buttler.webp",
+            "Text": "We all make worse decisions when we are tired but being fit keeps your mind sharp and gives you the confidence to handle anything the world throws at you.",
+            "Title": "English Athlete",
+            "Name": "Jos Buttler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeffrey-lurie.webp",
+            "Text": "I'm an owner that tends to absolutely be supportive of a coach and his vision if it's a real sharp and smart vision. I really believe in that.",
+            "Title": "American Businessman",
+            "Name": "Jeffrey Lurie"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hannah-simone.webp",
+            "Text": "I know quite a few friends who are models, and they're usually really smart, sharp, world-savvy people.",
+            "Title": "Canadian Actress",
+            "Name": "Hannah Simone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bertrand-russell.webp",
+            "Text": "The world is full of magical things patiently waiting for our wits to grow sharper.",
+            "Title": "British Philosopher",
+            "Name": "Bertrand Russell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/klaas-jan-huntelaar.webp",
+            "Text": "The important thing is always to be sharp and score when the opportunity arises.",
+            "Title": "Dutch Athlete",
+            "Name": "Klaas-Jan Huntelaar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/billy-gibbons.webp",
+            "Text": "It's important to collect unusual characters. It keeps you sharp.",
+            "Title": "American Musician",
+            "Name": "Billy Gibbons"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ken-starr.webp",
+            "Text": "I said in sharp language that that practice was wrong.",
+            "Title": "American Lawyer",
+            "Name": "Ken Starr"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-lamb.webp",
+            "Text": "Pain is life - the sharper, the more evidence of life.",
+            "Title": "English Critic",
+            "Name": "Charles Lamb"
+        }
+    ]
+}

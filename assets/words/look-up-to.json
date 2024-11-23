@@ -1,0 +1,59 @@
+{
+    "currentWord": {
+        "wordRoot": "look up to",
+        "id": 0,
+        "phonemic": "lʊk ʌp tuː",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "34d33065-92f3-4298-b83a-701cb286753d",
+            "de": "To admire and respect someone.",
+            "ty": "verb",
+            "ex": "Children often look up to their parents.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "always looked up to him",
+                "look up to her as a role model",
+                "someone to look up to"
+            ],
+            "ImageSrc": "./senses/0407e38a-e726-416c-b2b8-3edae09497f3.webp",
+            "Tips": [
+                {
+                    "title": "Expressing admiration",
+                    "description": "Use 'look up to' to express admiration for someone's qualities or achievements.",
+                    "example": "I've always looked up to my older sister for her courage and determination.",
+                    "imageUrl": "./tips/16e6ee12-e77f-409a-a472-08c47b1d3468.webp"
+                },
+                {
+                    "title": "Referring to role models",
+                    "description": "Use 'look up to' when talking about role models or people you aspire to be like.",
+                    "example": "Many young athletes look up to professional sports stars.",
+                    "imageUrl": "./tips/d91788a0-138d-4f26-baac-8309e5cf1989.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "admire": {
+            "wordRoot": "admire",
+            "wordDefinition": "'Admire' is a more general term for having respect and appreciation for someone, while 'look up to' implies a desire to emulate or be like the admired person.",
+            "wordImage": ""
+        },
+        "respect": {
+            "wordRoot": "respect",
+            "wordDefinition": "'Respect' focuses on holding someone in high esteem, while 'look up to' suggests seeing them as a positive influence or guide.",
+            "wordImage": ""
+        },
+        "idolize": {
+            "wordRoot": "idolize",
+            "wordDefinition": "'Idolize' implies a more intense form of admiration that can border on worship, while 'look up to' suggests a more grounded and realistic form of emulation.",
+            "wordImage": ""
+        }
+    }
+}

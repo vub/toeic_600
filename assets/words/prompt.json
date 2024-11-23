@@ -1,0 +1,346 @@
+{
+    "currentWord": {
+        "wordRoot": "prompt",
+        "id": 15781,
+        "phonemic": "prɒmpt|prɑːmpt\r",
+        "bigId": "3a3ce666-301c-4943-a876-60808de761b7",
+        "wordForms": [
+            "prompts",
+            "prompting",
+            "prompted",
+            "promptly",
+            "promptings",
+            "prompt"
+        ]
+    },
+    "senses": [
+        {
+            "id": "3a3ce666-301c-4943-a876-60808de761b7",
+            "de": "To do something quickly and without delay",
+            "ty": "adjective",
+            "ex": "She was always prompt in her responses.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "prompt reply",
+                " prompt response",
+                " prompt action"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3a3ce666-301c-4943-a876-60808de761b7.webp",
+            "Tips": [
+                {
+                    "title": "Time Sensitivity",
+                    "description": "Use 'prompt' to describe actions done without hesitation, showing efficiency.",
+                    "example": "I appreciated his prompt attention to the matter.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/nrn9tXkAERwmtWPfPfRKDNTtd8.webp"
+                },
+                {
+                    "title": "Positive Impression",
+                    "description": "It carries a positive connotation, often associated with good service or professionalism.",
+                    "example": "Her prompt reply gained her the client's trust.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/FTY82oG7J4lGctkMaSzhqWZAK8.webp"
+                }
+            ]
+        },
+        {
+            "id": "c6951117-518b-438f-aa98-f127e6b86992",
+            "de": "To cause someone to do something or take action",
+            "ty": "verb",
+            "ex": "His curiosity prompted him to investigate further.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "prompt someone to do something",
+                " prompt action",
+                " prompt a response"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c6951117-518b-438f-aa98-f127e6b86992.webp",
+            "Tips": [
+                {
+                    "title": "Motivation Nuance",
+                    "description": "'Prompt' suggests that the action wouldn't have occurred without some external stimulus.",
+                    "example": "The high demand prompted the company to increase production.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Gentle Nudge",
+                    "description": "Often implies a subtle or gentle influence rather than force or direct instruction.",
+                    "example": "A slight hint from her coach prompted her to adjust her posture.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a87acd13-fc74-4579-ac04-c9389ca10f12",
+            "de": "A reminder or cue to help someone remember what to say or do",
+            "ty": "noun",
+            "ex": "He needed a prompt to remember his lines in the play.",
+            "use": "",
+            "co": "Theatrical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "script prompt",
+                " stage prompt",
+                " cue prompt"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a87acd13-fc74-4579-ac04-c9389ca10f12.webp",
+            "Tips": [
+                {
+                    "title": "Performance Support",
+                    "description": "In performing arts, 'prompt' helps an actor recall forgotten lines or cues.",
+                    "example": "Seeing the prompt, he smoothly continued his monologue.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subtle Assistance",
+                    "description": "Using a 'prompt' should be discreet to not distract the audience or other performers.",
+                    "example": "The prompt was so subtle that the audience didn't notice.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "77606496-bfe4-46de-aebb-40775a4393c8",
+            "de": "A symbol or message in a computer program to tell the user to do something",
+            "ty": "noun",
+            "ex": "The command prompt on the computer screen asked for a password.",
+            "use": "",
+            "co": "Computing",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "command prompt",
+                " login prompt",
+                " password prompt"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/77606496-bfe4-46de-aebb-40775a4393c8.webp",
+            "Tips": [
+                {
+                    "title": "User Interaction",
+                    "description": "Refers to signals or messages that require a response from the computer user.",
+                    "example": "The prompt asked me to confirm my email address.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Technical Context",
+                    "description": "Commonly used by programmers and in IT contexts to represent a command line interface.",
+                    "example": "Type 'exit' at the prompt to close the terminal.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "938ef7c9-620a-47e7-9478-c19a20126158",
+            "de": "To help or encourage someone to say something",
+            "ty": "verb",
+            "ex": "Her friend prompted her to share the news.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "prompt a response",
+                " prompt a question",
+                " prompt an answer"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/938ef7c9-620a-47e7-9478-c19a20126158.webp",
+            "Tips": [
+                {
+                    "title": "Conversation Aid",
+                    "description": "In dialogue, 'prompt' can indicate helping someone to start speaking or reply.",
+                    "example": "Her silence prompted him to ask if she was okay.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Emotional Response",
+                    "description": "Used to cause or elicit an emotional reaction or expression in conversation.",
+                    "example": "His kind words prompted her to smile.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Alert": {
+            "wordRoot": "Alert",
+            "wordDefinition": "Alert is used when there is an urgent need for attention or action to be taken. For example, a weather alert warns people of potential dangers caused by extreme weather conditions.\n\nSo, when you are alerted, it means you need to take immediate action or attention, while prompts are simply reminders or requests to do things in a timely manner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f04635e-4603-4059-b734-32d2a441a189.webp"
+        },
+        "Efficient": {
+            "wordRoot": "Efficient",
+            "wordDefinition": "Efficient means doing something in a way that uses as little time, effort, or resources as possible, while still achieving a desired result.\n\nFor example, an efficient dishwasher uses less water and electricity than an inefficient one, but still cleans dishes just as well.\n\nFor example, a restaurant kitchen needs to be efficient in preparing food quickly and accurately, while a business professional needs to be prompt in replying to emails and attending meetings on time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2adb715f-38d9-41f8-92b4-d2c06968cc9c.webp"
+        },
+        "Immediate": {
+            "wordRoot": "Immediate",
+            "wordDefinition": "Immediate means without delay or hesitation, while prompt means being on time or doing something quickly. Both words can be used in situations where something needs to be done quickly, but immediate suggests urgency and no delay, while prompt suggests doing something quickly but not necessarily right away.\n\nFor example, if someone asks for immediate help, they need it right away without any delay. If someone asks for a prompt response, they need a timely response, but it can be given within a reasonable time frame.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/47952b26-ea85-416c-bb4e-455a0ed5935d.webp"
+        },
+        "Punctual": {
+            "wordRoot": "Punctual",
+            "wordDefinition": "Prompt means to do something quickly or without delay, while punctual means to do something at the scheduled time.\n\nPunctuality is applicable in situations where being on time is important but there may not necessarily be a sense of urgency.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/54dfb303-5e83-454b-ae84-dd2f6e15f52a.webp"
+        },
+        "Quick": {
+            "wordRoot": "Quick",
+            "wordDefinition": "Quick refers to doing something in a short amount of time. For example, if your friend asks you how long it takes you to finish your homework, you might say it typically only takes a quick 30 minutes.\n\nPrompt refers to doing something on time, while quick refers to doing something in a short amount of time. Prompt is applicable when time is of the essence and deadlines need to be met, while quick is applicable when the speed of completion is important, but not necessarily when a specific deadline is present.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4af50091-a05d-4dd0-aa48-560e8eb931cc.webp"
+        },
+        "Ready": {
+            "wordRoot": "Ready",
+            "wordDefinition": "Ready means to be prepared or fully equipped to do something. It is applicable in situations where readiness is important, such as planning for an event, anticipating a task, or being fully aware of the requirements needed to complete a task.\n\nPrompt means quick and immediate action, while ready means preparedness and being fully equipped to do something. Both words are important and applicable in specific situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/43a2c60c-f143-4d48-98c6-15d04b6f9529.webp"
+        },
+        "Responsive": {
+            "wordRoot": "Responsive",
+            "wordDefinition": "Responsive means to react to something or to give a reply to a question or request. This is applicable when someone needs to answer a question or give feedback.\n\nPrompt is used when something needs to be done quickly and responsive is used when a response or action is needed to a question or request.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aa29c194-459c-4850-a042-d09f559d1afa.webp"
+        },
+        "Swift": {
+            "wordRoot": "Swift",
+            "wordDefinition": "Swift means to move or act with great speed, agility or efficiency. It is applicable in situations where there is a need for quick and efficient completion of a task, such as in a competitive sport, business projects or completing objectives.\n\nPrompt is about acting quickly in response to a situation, while swift is about being fast and efficient in completing a task.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c98f7306-2f85-4de5-b01b-4055aa4762e2.webp"
+        },
+        "Time": {
+            "wordRoot": "Time",
+            "wordDefinition": "Time, on the other hand, refers to a duration or period that can be measured on a clock or calendar. It's often used to talk about how long something will take, or when something is scheduled to happen.\n\nFor example, if your teacher asks you to promptly turn in your homework, they want you to do it right away. If they tell you that you have a certain amount of time to finish a task, they're giving you a deadline or duration to work within.\n\nPrompt is used more for urgency, while time is used more for scheduling and duration.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fe8f14e0-0753-4258-bb8c-d6fa25168aad.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and geopolitical factors. An earthquake, for example, can destroy the infrastructure needed to produce important commodities such as oil. That forces the supply side of the economy to charge more for products that use oil, discouraging demand and potentially prompting a recession.",
+            "Title": "What causes an economic...",
+            "VideoId": "SwaCg7Gwtzw",
+            "Controls": "start=151"
+        },
+        {
+            "Text": " signaling molecules produced by its immune system can travel to a healthy plant and prompt it to turn on its immune system, too. These advance warnings increase the plants chance of survival. Bean plants also eavesdrop on each other's health through these fungal conduits.",
+            "Title": "Can plants talk to each...",
+            "VideoId": "xOXSqy05EO0",
+            "Controls": "start=204"
+        },
+        {
+            "Text": " flight controllers monitor the approach of a small chunk of space debris in the vicinity of the station that prompted the precautionary sheltering of the six crew members in their respective Soyuz spacecraft space debris you know as an operating astronaut it was just the",
+            "Title": "What Happens When an...",
+            "VideoId": "rbA9q7JdzZs",
+            "Controls": "start=233"
+        },
+        {
+            "Text": " represents really in life and in the game a big delay in the young girl's life so she rolls the game again and this time she lands on an intervention category and in this category the game is prompting her the game is prompting her to provide a solution to one of the",
+            "Title": "Creating art that makes...",
+            "VideoId": "sPlA6lAkKAY",
+            "Controls": "start=282"
+        },
+        {
+            "Text": " destroying human civilization. And this did not happen. In fact, nuclear weapons prompted humans all over the world to change the way that they manage international politics to reduce violence. And many countries basically took out war",
+            "Title": "Nationalism vs....",
+            "VideoId": "szt7f5NmE9E",
+            "Controls": "start=3472"
+        },
+        {
+            "Text": " Unger wrote that his results should prompt investigation into other parental beliefs, like the importance of eating spinach. The jury's still out on that one. As for knuckle-cracking, one study suggests that all that joint stretching",
+            "Title": "Why do your knuckles...",
+            "VideoId": "IjiKUmfaZr4",
+            "Controls": "start=219"
+        },
+        {
+            "Text": " It prompts your muscle and fat cells to let glucose in and jump starts the conversion of sugar to energy. The degree to which a unit of insulin lowers the blood sugar helps us understand something called insulin sensitivity.",
+            "Title": "How do carbohydrates...",
+            "VideoId": "wxzc_2c6GMg",
+            "Controls": "start=201"
+        },
+        {
+            "Text": " prompted the stomach to eat itself. Fervent proponents of this idea were referred to as the acid mafia. The biggest hole in this theory was that antiacids only provide temporary relief. We now know that some rare ulcers",
+            "Title": "The surprising cause of...",
+            "VideoId": "V_U6czbDHLE",
+            "Controls": "start=173"
+        },
+        {
+            "Text": " that extends from the midbrain to the nucleus accumbens, a region important for motivation. Like all addictive drugs, it prompts a squirt of dopamine in the nucleus accumbens which gives users a surge of pleasure.",
+            "Title": "How does alcohol make...",
+            "VideoId": "gCrmFbgT37I",
+            "Controls": "start=140"
+        },
+        {
+            "Text": " creature it figured out the problem without any human prompting a perfect opening gambit observations of intelligent behavior like this have brought scientists from across the world",
+            "Title": "Sneaky Kea Raids A...",
+            "VideoId": "bxoCuRuHlt8",
+            "Controls": "start=36"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/laeta-kalogridis.webp",
+            "Text": "One of my favorite stories is, I got fired off 'Bionic Woman' in part because I was told that I don't know how to write women, and they promptly replaced me with a guy. What I find lovely about the story is how unaware the white dude who said that to me was when he said it.",
+            "Title": "American Producer",
+            "Name": "Laeta Kalogridis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-howard-kunstler.webp",
+            "Text": "On top of the insult of destroying the geographic places we call home, the chain stores also destroyed people's place in the order of daily life, including the duties, responsibilities, obligations, and ceremonies that prompt citizens to care for each other.",
+            "Title": "American Author",
+            "Name": "James Howard Kunstler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/vladimir-horowitz.webp",
+            "Text": "Life is very busy now. I find that in today's cities, the public is very tired after working the whole day. When concerts start at eight o'clock, the wife pushes the husband to go to the concert, where some promptly fall asleep!",
+            "Title": "American Musician",
+            "Name": "Vladimir Horowitz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronald-coase.webp",
+            "Text": "There is no doubt that the recognition by economists of the importance of the role of the firm in the functioning of the economy will prompt them to investigate its activities more closely.",
+            "Title": "British Economist",
+            "Name": "Ronald Coase"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maxwell.webp",
+            "Text": "I love my last-minute lifestyle because I just sort of don't have plans, and things kind of happen. Plans make me annoyed a little bit, personally. I'm not the most prompt, on-time person.",
+            "Title": "American Musician",
+            "Name": "Maxwell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paresh-rawal.webp",
+            "Text": "Work is exciting when it's challenging. It should be something that makes me afraid initially and prompts me to ask myself whether I'll be able to do it or not.",
+            "Title": "Indian Actor",
+            "Name": "Paresh Rawal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/isaac-of-nineveh.webp",
+            "Text": "If God is slow in answering your request, or if you ask but do not promptly receive anything, do not be upset, for you are not wiser than God.",
+            "Title": "Saint",
+            "Name": "Isaac of Nineveh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/maurice-saatchi.webp",
+            "Text": "Advertising must respect the intelligence of its audience and if it does not prompt them to think, it will be instantly dismissed.",
+            "Title": "Iraqi Businessman",
+            "Name": "Maurice Saatchi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/francesco-guicciardini.webp",
+            "Text": "Ambition is not in itself an evil; nor is he to be condemned whose spirit prompts him to seek fame by worthy and honourable ways.",
+            "Title": "Italian Historian",
+            "Name": "Francesco Guicciardini"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sheila-hancock.webp",
+            "Text": "Prompting children to create imaginary worlds is hugely important.",
+            "Title": "",
+            "Name": "Sheila Hancock"
+        }
+    ]
+}

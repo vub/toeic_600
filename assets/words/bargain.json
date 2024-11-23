@@ -1,0 +1,335 @@
+{
+    "currentWord": {
+        "wordRoot": "bargain",
+        "id": 22959,
+        "phonemic": "ˈbɑːɡən|ˈbɑːrɡən\r",
+        "bigId": "5594d17e-daae-49c9-b0f0-437a32ac0558",
+        "wordForms": [
+            "bargains",
+            "bargaining",
+            "bargained",
+            "bargain"
+        ]
+    },
+    "senses": [
+        {
+            "id": "5594d17e-daae-49c9-b0f0-437a32ac0558",
+            "de": "Something bought or offered for sale at a lower than usual price.",
+            "ty": "noun",
+            "ex": "I got these shoes on sale, they were a real bargain.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bargain price",
+                " bargain sale",
+                " bargain purchase"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5594d17e-daae-49c9-b0f0-437a32ac0558.webp",
+            "Tips": [
+                {
+                    "title": "Shopping Context",
+                    "description": "Use 'bargain' when discussing shopping deals or sales.",
+                    "example": "This jacket is only $20, such a bargain!\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/uJQGMYTosVwJRF9ewWTOUMpBcE.webp"
+                },
+                {
+                    "title": "Emotional Implication",
+                    "description": "'Bargain' implies satisfaction with the savings.",
+                    "example": "I felt proud for snagging that dress at a bargain.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/fZN8Dcwhg82Ihdg8homOEoM.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4208a0d1-1a34-42cc-8384-a147394180c7",
+            "de": "To negotiate or argue for a better price or terms.",
+            "ty": "verb",
+            "ex": "He bargained with the seller to reduce the price.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bargain down",
+                " bargain for",
+                " bargain over"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4208a0d1-1a34-42cc-8384-a147394180c7.webp",
+            "Tips": [
+                {
+                    "title": "Negotiation Strategy",
+                    "description": "As a verb, 'bargain' implies a strategic discussion on price.",
+                    "example": "I bargained hard and got the table at half price.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Skilled Persuasion",
+                    "description": "'Bargaining' shows skill in persuading someone to lower prices.",
+                    "example": "She's good at bargaining at yard sales.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bf886067-6e13-42ef-84af-c88bdc8114dc",
+            "de": "An agreement between two or more parties about what each will do for the other.",
+            "ty": "noun",
+            "ex": "They made a bargain to share the cost of dinner.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bargain with",
+                " strike a bargain",
+                " into a bargain"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bf886067-6e13-42ef-84af-c88bdc8114dc.webp",
+            "Tips": [
+                {
+                    "title": "Formal Agreements",
+                    "description": "Use 'bargain' for formal or legal agreements beyond shopping.",
+                    "example": "They struck a bargain that ended the dispute.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mutual Promises",
+                    "description": "A 'bargain' involves promises between parties.",
+                    "example": "The employee's bargain included a non-compete clause.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "27902e9b-03fa-4da5-bc8a-757b1a6781d7",
+            "de": "Being sold at a discounted or lower than usual price.",
+            "ty": "adjective",
+            "ex": "This is a bargain product, so it's cheaper than usual.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bargain price",
+                " bargain sale",
+                " bargain bin"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/27902e9b-03fa-4da5-bc8a-757b1a6781d7.webp",
+            "Tips": [
+                {
+                    "title": "Inexpensive Quality",
+                    "description": "Bargain products may be cheap, but not necessarily low quality.",
+                    "example": "This phone is discounted and a real bargain!\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Advertising Appeal",
+                    "description": "'Bargain' can attract buyers looking for a good deal.",
+                    "example": "Our store advertises bargain furniture every August.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "92dd65ba-5bfc-4441-87bf-647d427f7efd",
+            "de": "'Into the bargain' is a phrase meaning 'in addition to other things'.",
+            "ty": "phrase",
+            "ex": "He cooked dinner and did the dishes into the bargain.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                ""
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/92dd65ba-5bfc-4441-87bf-647d427f7efd.webp",
+            "Tips": [
+                {
+                    "title": "Extra Advantages",
+                    "description": "The phrase 'into the bargain' highlights unexpected benefits.",
+                    "example": "He threw in free delivery into the bargain.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Enhanced Offer",
+                    "description": "Use 'into the bargain' to emphasize an enhanced deal.",
+                    "example": "The car comes with a sunroof into the bargain.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Agreement": {
+            "wordRoot": "Agreement",
+            "wordDefinition": "An agreement is when two or more parties come to a mutual understanding or decision on something, either verbally or in writing.\n\nAgreement can be applicable in situations like two parties signing a contract or agreeing to terms for a business partnership, while a bargain is applicable in situations when purchasing goods, bargaining for the price of services or negotiating wages of an employee.\n\nAn agreement is a broader term used for formal, legal, and mutual understanding between two or more parties, while a bargain is a term used for a negotiation on a purchase or exchange.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fb58f305-e166-422a-87a3-28f4bf1160c7.webp"
+        },
+        "Arrangement": {
+            "wordRoot": "Arrangement",
+            "wordDefinition": "Arrangement refers to a plan or agreement made between two or more parties to achieve a specific goal or outcome.\n\nArrangements are usually more formal and involve a detailed plan or agreement.\n\nIn summary, arrangements involve making plans or agreements, while bargains involve negotiating prices or exchanging goods or services.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78870e5d-20d1-4ccb-bf38-de06b3312745.webp"
+        },
+        "Compromise": {
+            "wordRoot": "Compromise",
+            "wordDefinition": "Compromise refers to finding a middle ground in a situation where two parties have different opinions or demands.\n\nFor example, if you and your friend want to watch different movies, you could compromise by agreeing to watch a movie that you both haven't seen before.\n\nIn short, bargaining is used when two parties want to come to an agreement on a price, while compromising is used when two parties want to find a solution to a disagreement or conflict.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/577861b6-f92b-4914-828c-309056032aec.webp"
+        },
+        "Contract": {
+            "wordRoot": "Contract",
+            "wordDefinition": "A contract is a legally binding agreement between two or more parties that sets out the terms and conditions of a transaction or relationship.\n\nIt is typically in writing and signed by all parties involved. For example, an employment contract outlines the specific terms and expectations of an employee's job.\n\nA bargain is a casual agreement on the terms of something, while a contract is a formal, legal agreement that outlines the specific terms and conditions of a transaction or relationship.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/16e3c77a-4f67-49c3-9516-58b201dd0037.webp"
+        },
+        "Deal": {
+            "wordRoot": "Deal",
+            "wordDefinition": "A deal refers to an agreement made between two parties to exchange goods or services at a mutually agreed-upon price.\n\nFor example, if you buy a new laptop for $500 when its actual value is $800, you got a bargain. If you agree to mow your neighbor's lawn for $20, that's a deal.\n\nBoth words can be used interchangeably in some contexts, but generally, bargain is used for purchasing items or getting a good price, while deal is used for negotiations, agreements, or exchanges.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c1b20aaa-581c-4adb-b5dd-ff5a35709733.webp"
+        },
+        "Pact": {
+            "wordRoot": "Pact",
+            "wordDefinition": "A pact is a formal agreement between two parties, usually with a more significant impact or consequence. It usually involves promises or commitments to one another and may relate to personal, professional, or political matters.\n\nA bargain refers to a negotiation for a specific exchange of goods, services or money, while a pact is a formal agreement between two parties that may involve promises or commitments.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5d44692a-a976-4f5a-82fc-f50124d23523.webp"
+        },
+        "Settlement": {
+            "wordRoot": "Settlement",
+            "wordDefinition": "A settlement is an agreement between parties to end a dispute or conflict by making concessions or compromises. It is applicable in legal or diplomatic situations where there is a conflict, such as a lawsuit or international conflict, and a mutually agreeable conclusion needs to be reached.\n\nA bargain involves negotiating a price, while a settlement involves resolving a conflict through concessions and compromises.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8bbff294-8989-4df2-9625-04dad0cab710.webp"
+        },
+        "Transaction": {
+            "wordRoot": "Transaction",
+            "wordDefinition": "A transaction refers to any exchange of goods or services between two or more parties.\n\nA bargain refers to a specific type of transaction where the price is negotiated to reach a favorable deal, while a transaction is a broader term that encompasses all types of exchanges between parties.\n\nBargain is applicable when someone is trying to get a good deal or negotiate a price, while transaction is applicable whenever there is an exchange of goods or services between two or more parties.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/256c8d4f-6974-4dea-931e-e8f1d6b0fe46.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " to protect Mother Nature from those who refuse to see her beauty call me crazy but I believe we should have the right to eat food that's safe with ingredients we can pronounce drink water that is clean marvel at trees breathe air free of toxins these are natural rights not things that can be bargained for in Congress see they want you to feel",
+            "Title": "His Epic Message Will...",
+            "VideoId": "B-nEYsyRlYo",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " Leaflets described the five stages of anger, bargaining, denial, depression, acceptance. Victim support arrived at our door and told us that we could expect to write off the next five years to grief. I know the leaflets and the resources meant well. But in all of that advice,",
+            "Title": "3 secrets of resilient...",
+            "VideoId": "9-5SMpg7Q0k",
+            "Controls": "start=281"
+        },
+        {
+            "Text": " matter or the mind part of this bargain you know somehow you're actually looking for something right in between when something turns into another this magical moment of transformation you know and you're enjoying the crossing of this threshold that separates the world",
+            "Title": "Finding the transformativ...",
+            "VideoId": "GQrroEGZuUE",
+            "Controls": "start=210"
+        },
+        {
+            "Text": " there's a new kind of difference that has kind of evaded the academic world for a while, and that difference is that whether positive stimuli are more effective than negative ones in different circumstances, the negative ones are cheaper. They're the bargain stimuli.",
+            "Title": "How we need to remake...",
+            "VideoId": "qQ-PUXPVlos",
+            "Controls": "start=572"
+        },
+        {
+            "Text": " These initiatives cut civilian unemployment in half. And they did so alongside labor acts that abolished child labor, granted unions the right to collective bargaining, and set the first national minimum wage. Benefits were also created to help those unable to work.",
+            "Title": "What few people know...",
+            "VideoId": "VWvA26V4wk0",
+            "Controls": "start=153"
+        },
+        {
+            "Text": " The crisis was now over. While criticized at the time by their respective governments for bargaining with the enemy, contemporary historical analysis shows great admiration for Kennedy's and Khrushchev's ability to diplomatically solve the crisis.",
+            "Title": "The history of the Cuban...",
+            "VideoId": "bwWW3sbk4EU",
+            "Controls": "start=236"
+        },
+        {
+            "Text": " You know, we had expected an expansion of ideas and dreams with the enhanced connectivity of the world. We had not bargained for the village-like enclosure of thought, of judgment, of definition that flowed from the same place",
+            "Title": "Thoughts on humanity,...",
+            "VideoId": "0NV1KdWRHck",
+            "Controls": "start=388"
+        },
+        {
+            "Text": " as bargaining chips for the present ones. Consider this both agree to spare each other every day. If one ever chooses to sacrifice, the other will retaliate by choosing “sacrifice” for the rest of eternity.",
+            "Title": "How to outsmart the...",
+            "VideoId": "emyi4z-O0ls",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " The first tool I'm going to give you got discovered in negotiations in an important finding. On average, women make less ambitious offers and get worse outcomes than men at the bargaining table.",
+            "Title": "How to speak up for...",
+            "VideoId": "MEDgtjpycYg",
+            "Controls": "start=373"
+        },
+        {
+            "Text": " more than you bargained for the European yellowtail scorpion is rarely lethal we won't want to lie around in this gutter after a skinful there are now three separate colonies of",
+            "Title": "Crayfish Turf Wars PIPE...",
+            "VideoId": "8lXwWnA1mG8",
+            "Controls": "start=5"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/disha-patani.webp",
+            "Text": "Work is important, no doubt, but one can end up neglecting family and friends in the bargain. So I have resolved not to let that happen and maintain work-life balance by taking time out for the people who matter the most to me.",
+            "Title": "Indian Actress",
+            "Name": "Disha Patani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rutger-bregman.webp",
+            "Text": "I think one of the most important facts of basic income would be that it's not only a redistribution of income, but also of power. So the cleaners and bin men would have a lot more bargaining power.",
+            "Title": "Dutch Historian",
+            "Name": "Rutger Bregman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/meir-kahane.webp",
+            "Text": "If we ever hope to rid the world of the political AIDS of our time, terrorism, the rule must be clear: One does not deal with terrorists; one does not bargain with terrorists; one kills terrorists.",
+            "Title": "American Clergyman",
+            "Name": "Meir Kahane"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-e-wilson.webp",
+            "Text": "Many people do not realize that where unions have bargaining rights employers cannot raise wages or improve benefit plans any more than they can reduce them without of the consent of the union.",
+            "Title": "American Businessman",
+            "Name": "Charles E. Wilson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hiten-tejwani.webp",
+            "Text": "I went into 'Bigg Boss' because I wanted to experience what it was like. It was more disorienting than I had bargained for. I began to forget the names of people in my life. It got scary.",
+            "Title": "Indian Actor",
+            "Name": "Hiten Tejwani"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sharan-burrow.webp",
+            "Text": "Where laws recognize rights to collective bargaining, the truth is that employee rights to negotiate with employers are denied in many countries.",
+            "Title": "Welsh Activist",
+            "Name": "Sharan Burrow"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jan-schakowsky.webp",
+            "Text": "I will continue to do all that I can to ensure and enhance worker protections, including the right to bargain collectively.",
+            "Title": "American Politician",
+            "Name": "Jan Schakowsky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ursula-burns.webp",
+            "Text": "My mother raised us to think that if we worked hard, and if we put our end of the bargain in, it would work out OK for us.",
+            "Title": "American Businesswoman",
+            "Name": "Ursula Burns"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-fenimore-cooper.webp",
+            "Text": "Battles, unlike bargains, are rarely discussed in society.",
+            "Title": "American Writer",
+            "Name": "James Fenimore Cooper"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ed-schultz.webp",
+            "Text": "I support collective bargaining everywhere.",
+            "Title": "American Entertainer",
+            "Name": "Ed Schultz"
+        }
+    ]
+}

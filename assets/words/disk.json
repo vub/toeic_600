@@ -1,0 +1,332 @@
+{
+    "currentWord": {
+        "wordRoot": "disk",
+        "id": 24733,
+        "phonemic": "dɪsk|dɪsk\r",
+        "bigId": "bb3736d4-325a-4a3c-81cd-107f855985c3",
+        "wordForms": [
+            "disks",
+            "disk"
+        ]
+    },
+    "senses": [
+        {
+            "id": "bb3736d4-325a-4a3c-81cd-107f855985c3",
+            "de": "A flat, thin, round object",
+            "ty": "noun",
+            "ex": "He threw the disk like a Frisbee.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "disk drive",
+                " hard disk",
+                " disk brake"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bb3736d4-325a-4a3c-81cd-107f855985c3.webp",
+            "Tips": [
+                {
+                    "title": "Physical Shape",
+                    "description": "Refers to items resembling a flat, circular plate, often used casually.",
+                    "example": "She decorated the room with colorful paper disks.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/3i8OXSUqbcpsGothgxSjwHTcjs.webp"
+                },
+                {
+                    "title": "Sporting Goods",
+                    "description": "Used in sports like discus or ultimate frisbee to describe the object thrown.",
+                    "example": "He excelled at throwing the disk, breaking his previous record.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/HYeQjMbzyRlLHA9F7PfiVvydIE.webp"
+                },
+                {
+                    "title": "Not Always Digital",
+                    "description": "Not to be confused with digital storage; can be any round flat object.",
+                    "example": "The potter shaped the clay into a perfect disk.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RkP1R4YxCpKT8FkRR21Mb0QbOE.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "faa6f51e-aae1-4c28-934f-e76aed8fbfa4",
+            "de": "The background area in an image or a graph",
+            "ty": "noun",
+            "ex": "The sun was setting behind the black disk of the island.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "disk of the sun",
+                " optical disk",
+                " disk galaxy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/faa6f51e-aae1-4c28-934f-e76aed8fbfa4.webp",
+            "Tips": [
+                {
+                    "title": "Visual Representation",
+                    "description": "In graphics, represents a shape or area. Understand context by adjacent terms.",
+                    "example": "The artist drew a blue disk to represent the pond.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Astronomy Context",
+                    "description": "Often used to describe celestial bodies from an observer's perspective.",
+                    "example": "Through the telescope, the planet appeared as a small red disk.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "87a80cfd-126a-4ed4-97ab-f06dde2f888f",
+            "de": "A computer storage device like a CD or DVD",
+            "do": "computing",
+            "ty": "noun",
+            "ex": "My computer does not have a disk drive.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "floppy disk",
+                " disk drive",
+                " compact disk"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/87a80cfd-126a-4ed4-97ab-f06dde2f888f.webp",
+            "Tips": [
+                {
+                    "title": "Technology Usage",
+                    "description": "In computing, it often refers to devices that read and write data on disks.",
+                    "example": "I saved the files onto an external disk for backup.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Obsolescence Noted",
+                    "description": "Be aware that technological disks (floppy, CD, DVD) are becoming less common.",
+                    "example": "I found an old floppy disk, but my laptop can't read it.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "18f60bf5-2afd-46d7-a633-4d4423bf2f3d",
+            "de": "An intervertebral disk (a piece of cartilage between the vertebrae)",
+            "do": "medical",
+            "ty": "noun",
+            "ex": "The accident caused a slipped disk in his spine.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "slipped disk",
+                " herniated disk",
+                " lumbar disk"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/18f60bf5-2afd-46d7-a633-4d4423bf2f3d.webp",
+            "Tips": [
+                {
+                    "title": "Medical Term",
+                    "description": "Specifically refers to cartilage between spinal bones; common in injury discussions.",
+                    "example": "After lifting heavy boxes, she felt pain in her lower disk.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Health Context",
+                    "description": "Understanding its medical context helps identify discussions around back injuries.",
+                    "example": "The doctor said my back pain is due to a damaged disk.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "0ab2eab8-4dd9-4163-9077-675d048603a9",
+            "de": "The disk of a plant or a flower",
+            "do": "botany",
+            "ty": "noun",
+            "ex": "The central disk of the sunflower is made up of numerous small flowers.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "disk flowers",
+                " floral disk",
+                " central disk"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0ab2eab8-4dd9-4163-9077-675d048603a9.webp",
+            "Tips": [
+                {
+                    "title": "Botanical Part",
+                    "description": "Refers to the centralized part of a composite flower head.",
+                    "example": "The disk of the daisy attracted numerous bees.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Plant Structure",
+                    "description": "Recognize it can imply the main platform for seeds or small flowers in botany.",
+                    "example": "The disk is the dense part of the flower where seeds develop.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Cylinder": {
+            "wordRoot": "Cylinder",
+            "wordDefinition": "A cylinder is a 3D shape that has a circular base and straight sides that are perpendicular to the base. It looks like a can or a soup can.\n\nCylinders are applicable in many different areas, such as in engineering, where they might be used to build engines, hydraulic systems, or pipes.\n\nA cylinder is a 3D shape with straight sides and a circular base, whereas a disk is a flat, circular shape. Both shapes have different uses and applications, depending on the context in which they are being used.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dc806cfe-dd53-4704-8189-6a7c7957d171.webp"
+        },
+        "Disc": {
+            "wordRoot": "Disc",
+            "wordDefinition": "The words disc and disk have the same meaning in most contexts, but they are used in different parts of the world.\n\nDisc is more common in British English while disk is more common in American English.\n\nDisc is often used to refer to a circular object with a hole in the middle, such as a CD or DVD.\n\nIn summary, both disc and disk are used to refer to round objects, but disc is more commonly used for objects with a hole in the middle and disk is more commonly used for objects used for storing or processing data.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4aadc938-0bfb-4306-9c8b-a80292cd4103.webp"
+        },
+        "Platter": {
+            "wordRoot": "Platter",
+            "wordDefinition": "In computer storage technology, the terms disk and platter can be used interchangeably. They refer to the round, flat, metal plates used to store data in hard disk drives (HDDs) and some solid-state drives (SSDs).\n\nA disk typically refers to the entire physical housing of the hard drive, which contains multiple platters stacked on top of each other, along with the read/write heads, spindle motor, and other components necessary for the drive to function.\n\nA platter refers specifically to one of the circular metal disks inside the disk drive that holds the data. Each platter is coated with a magnetizable substance and is divided into many tracks and sectors, allowing data to be read and written to specific locations on the platter.\n\nDisk is a more general term that can refer to the entire hard drive unit, while platter is a more specific term that refers to the individual metal disks inside the drive.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e67cbfc7-2d2d-48bc-948f-642874ec9617.webp"
+        },
+        "Rotary": {
+            "wordRoot": "Rotary",
+            "wordDefinition": "A rotary refers to something that rotates or moves in a circular motion, such as a rotary engine or a rotary phone dial.\n\nDisk is applicable when referring to a specific type of shape, while rotary pertains to movement. The two terms can be used in different contexts, but they generally have different meanings and applications.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c812833b-9381-4ddf-819b-1c26cbe643c4.webp"
+        },
+        "Wheel": {
+            "wordRoot": "Wheel",
+            "wordDefinition": "Disk and wheel are both circular objects but differ in their purposes and structures.\n\nA wheel is a circular object that rotates around an axle, usually used for transportation or movement. It is a key component of vehicles such as cars, bicycles, and trains.\n\nA disk is used for data storage and computing while a wheel is used for transportation and movement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b3e6d65f-0805-4e9a-885d-6ed0be1c84b0.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " shown here in blue. Some of that material is slingshotted around the black hole and accelerated to insanely high speeds in the jet, shown here in white. Although the blazar system is rare, the process by which nature pulls in material via a disk, and then flings some of it out via a jet, is more common.",
+            "Title": "Jedidah Isler: How I...",
+            "VideoId": "XzZJuEDQ1a0",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " Its placenta, a solid disk of blood-rich tissue, attaches to the wall of the uterus to support the developing embryo. The placenta is what keeps the calf alive during pregnancy. Directly connected to the mother's blood supply, it funnels nutrients and oxygen straight into the calf's body",
+            "Title": "The three different ways...",
+            "VideoId": "sz3Yv3On4lE",
+            "Controls": "start=54"
+        },
+        {
+            "Text": " and has a diameter about the distance between the earth and our sun. Because black holes are invisible, the only way for scientists to detect and study them is to observe their effect on nearby matter. This includes accretion disks, a disk of particles that form when gases and dust",
+            "Title": "Black Holes 101 PIPE...",
+            "VideoId": "kOEDG3j1bjs",
+            "Controls": "start=94"
+        },
+        {
+            "Text": " having the windows shot out of his car, having the police break into his apartment and steal his computer disks -- you name it. But ultimately, the story has a happy ending for Sudhir, who became one of the most respected sociologists in the country. And especially for me,",
+            "Title": "The freakonomics of...",
+            "VideoId": "5UGC2nLnaes",
+            "Controls": "start=504"
+        },
+        {
+            "Text": " sights is the fastest it has the same bandwidth as a computer network then you have touch about the speed of a USB key and then you have hearing and smell which is the throughput of a hard disk and then you have poor old taste which is like rarely the throughput of a",
+            "Title": "The beauty of data...",
+            "VideoId": "5Zg-C8AAIGg",
+            "Controls": "start=562"
+        },
+        {
+            "Text": " transaction anonymously out over the Bitcoin network which posts it to the Bitcoin general ledger on everyone's computer okay the big challenge with digital money because this is not the first digital money stored on your computer's hard disk has always been",
+            "Title": "Unpacking the nuts and...",
+            "VideoId": "rla5w2ubISE",
+            "Controls": "start=230"
+        },
+        {
+            "Text": " I'm not going to hypnotize you. But are you starting to see colors in the rings? If so, your eyes are playing tricks on you. The disk was only ever black and white. You see, your eyes don't always capture the world as a video camera would.",
+            "Title": "Eye vs. camera - Michael...",
+            "VideoId": "OGqAM2Mykng",
+            "Controls": "start=17"
+        },
+        {
+            "Text": " There were no graphics routines. There were no mouse drivers. So it was a necessity. But in the quarter-century since then, we've seen all of the fundamental supporting technologies go berserk. So memory capacity and disk capacity",
+            "Title": "Pointing to the future...",
+            "VideoId": "b6YTQJVzwlI",
+            "Controls": "start=63"
+        },
+        {
+            "Text": " would go back into protecting and managing the land. There are no headstones and no graves in the typical sense. The graves are scattered about the property under elegant mounds, marked only by a rock or a small metal disk,",
+            "Title": "A burial practice that...",
+            "VideoId": "zcMj4Az1MwE",
+            "Controls": "start=568"
+        },
+        {
+            "Text": " will be replanted on fresh disks while others will be returned to the reef if replicated coral gardening could help restore reefs throughout the Pacific but its biggest success may be in sowing the",
+            "Title": "Coral Gardening PIPE South...",
+            "VideoId": "0UlnRnHWFqU",
+            "Controls": "start=181"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michio-kaku.webp",
+            "Text": "Time travel and teleportation will have to wait. It may take centuries to master these technology. But within the coming decades, we will understand dark matter, perhaps test string theory, find planets which can harbor life, and maybe have Brain 2.0, i.e. our consciousness on a disk which will survive even after we die.",
+            "Title": "American Physicist",
+            "Name": "Michio Kaku"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ridley-scott.webp",
+            "Text": "I don't go to the cinema often anymore - I'd rather just pop in a disk and get the biggest monitor you've got, and if the quality is superb, I can watch a film, and if I don't like it I can pop it out.",
+            "Title": "British Director",
+            "Name": "Ridley Scott"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ella-maillart.webp",
+            "Text": "Others are keen to see if natives other than us live better than we do, without heat in pipes, ice in boxes, sunshine in bulbs, music on disks, or images gliding over a pale screen.",
+            "Title": "Swiss Writer",
+            "Name": "Ella Maillart"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rosalyn-sussman-yalow.webp",
+            "Text": "To primitive man, the sky was wonderful, mysterious and awesome, but he could not even dream of what was within the golden disk or silver points of light so far beyond his reach.",
+            "Title": "American Scientist",
+            "Name": "Rosalyn Sussman Yalow"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/b-b-king.webp",
+            "Text": "I used to play - when I first started trying to be professional, I disk jockey from 1949 to 1955 in Memphis, Tennessee, and I was quite popular there as a disk jockey.",
+            "Title": "American Musician",
+            "Name": "B. B. King"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "The thing about HD-DVD that is attractive to Microsoft is that it's very pro-consumer in letting you copy all movies up onto the hard disk.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fran-lebowitz.webp",
+            "Text": "Radio news is bearable. This is due to the fact that while the news is being broadcast, the disk jockey is not allowed to talk.",
+            "Title": "American Journalist",
+            "Name": "Fran Lebowitz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/debra-fischer.webp",
+            "Text": "There may be hundreds of small seed planets - or planetesimals - which grow in the disk of matter around a star.",
+            "Title": "American Scientist",
+            "Name": "Debra Fischer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/peter-sunde.webp",
+            "Text": "I started off copying disks on my computer when I was eight or nine.",
+            "Title": "Swedish Businessman",
+            "Name": "Peter Sunde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-wozniak.webp",
+            "Text": "Hard disks have disappointed me more than most technologies.",
+            "Title": "American Businessman",
+            "Name": "Steve Wozniak"
+        }
+    ]
+}

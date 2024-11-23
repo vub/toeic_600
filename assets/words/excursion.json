@@ -1,0 +1,286 @@
+{
+    "currentWord": {
+        "wordRoot": "excursion",
+        "id": 11503,
+        "phonemic": "ɪkˈskɜːʃn|ɪkˈskɜːrʒn\r",
+        "bigId": "981613fb-8ce9-4e05-880a-6fd165d1dac7",
+        "wordForms": [
+            "excursions",
+            "excursion"
+        ]
+    },
+    "senses": [
+        {
+            "id": "981613fb-8ce9-4e05-880a-6fd165d1dac7",
+            "de": "A short journey or trip, especially one taken for leisure or pleasure.",
+            "ty": "noun",
+            "ex": "We went on an excursion to the beach over the weekend.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "school excursion",
+                " weekend excursion",
+                " day excursion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/981613fb-8ce9-4e05-880a-6fd165d1dac7.webp",
+            "Tips": [
+                {
+                    "title": "Leisure Context",
+                    "description": "Use 'excursion' when talking about a leisurely adventure or outing, often planned.",
+                    "example": "Our class is planning an exciting excursion to the science museum.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/moR8n8g3nPO8OqkAjtfnega8Mc.webp"
+                },
+                {
+                    "title": "Planned Event",
+                    "description": "'Excursion' implies a trip that is organized in advance and intended for a group.",
+                    "example": "The tourist agency offers a variety of excursions to local landmarks.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/j8boDJJqfJnYkgFQS0nMEdvdnhM.webp"
+                },
+                {
+                    "title": "Duration Implied",
+                    "description": "'Excursion' suggests a brief duration; it is not usually for extended travel periods.",
+                    "example": "The family took a weekend excursion to the countryside.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ZeYa8TUHlGQFNrLAdAQqketXZI.webp"
+                }
+            ]
+        },
+        {
+            "id": "079ae8e1-c608-4abd-b3af-6a4b807ba4a8",
+            "de": "A deviation from a regular or set course or standard.",
+            "ty": "noun",
+            "ex": "There was a brief excursion into politics before he returned to private life.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "brief excursion",
+                " brief excursion into politics",
+                " life excursion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/079ae8e1-c608-4abd-b3af-6a4b807ba4a8.webp",
+            "Tips": [
+                {
+                    "title": "Metaphorical Use",
+                    "description": "Metaphorically, 'excursion' can refer to a temporary deviation in conversation or activity.",
+                    "example": "The lecture took an interesting excursion into ancient history.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Temporary Change",
+                    "description": "Use 'excursion' to convey a brief shift from the usual, without significant impact.",
+                    "example": "The writer made a brief excursion into poetry before returning to novels.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c1accf38-e774-48cb-9608-70d97d6b2454",
+            "de": "A movement of a physical property in one direction.",
+            "do": "Physics",
+            "ty": "noun",
+            "ex": "The excursion of a pendulum is its swinging movement back and forth.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "excursion of a pendulum",
+                " excursion of a wave",
+                " excursion of a piston"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c1accf38-e774-48cb-9608-70d97d6b2454.webp",
+            "Tips": [
+                {
+                    "title": "Physical Movement",
+                    "description": "In a technical context, 'excursion' refers to the movement of something within physical space.",
+                    "example": "The engineer measured the excursion of the robotic arm.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scientific Specificity",
+                    "description": "'Excursion' in science and engineering precisely describes movement with a start and return.",
+                    "example": "The oscilloscope traced the excursion of the wave through the medium.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Adventure": {
+            "wordRoot": "Adventure",
+            "wordDefinition": "Adventure implies an exciting and perhaps risky experience, often involving the exploration of the unknown or unexpected.\n\nAn adventure could be anything from hiking through an unexplored forest to skydiving.\n\nAdventure refers to an exciting, spontaneous experience while excursion refers to a planned, leisurely activity.\n\nAdventure is suitable for those seeking thrills and excitement, while an excursion is ideal for those looking for a relaxing or educational experience.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d8ed8314-7a10-433f-95f7-223bd72610f8.webp"
+        },
+        "Expedition": {
+            "wordRoot": "Expedition",
+            "wordDefinition": "Expedition refers to a more organized and planned journey, typically for a specific purpose, such as scientific research or exploration.\n\nExpeditions require careful planning, often involve a group of people with specific skills or qualifications, and can sometimes last for weeks or even months.\n\nExamples of expeditions could be a mountaineering trip, an archaeological dig, or a wildlife survey.\n\nAn excursion is a casual, spontaneous trip taken for leisure, while an expedition is an organized, purposeful journey that requires planning and preparation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e600800e-7966-43bc-a126-f3900ef46111.webp"
+        },
+        "Journey": {
+            "wordRoot": "Journey",
+            "wordDefinition": "Journey describes a longer trip or voyage that may take several days, weeks, or even months. It usually involves traveling a significant distance from one place to another, often with a specific goal or purpose in mind, such as exploring a new country or visiting friends or family in a distant location.\n\nIn simpler terms, an excursion is a short trip taken for fun or educational purposes, while a journey is a longer trip that involves traveling to a specific destination for a specific reason.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/05974bd2-2a72-45a9-80dd-09bdb0f2794f.webp"
+        },
+        "Out": {
+            "wordRoot": "Out",
+            "wordDefinition": "Excursion refers to a planned trip or outing, usually for leisure, education or culture. It involves going somewhere with a specific purpose in mind, and often involves a group of people.\n\nOut simply means going outside or leaving a place, without necessarily having a specific destination or purpose in mind.\n\nFor example, someone might say \"I'm going out for a walk\" or \"I'm going out to get some fresh air\".\n\nAn excursion is a planned outing with a specific purpose, while out just means leaving a place without a specific plan.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/609a8d86-3430-46f0-98b0-4eb2afd71554.webp"
+        },
+        "Pilgrimage": {
+            "wordRoot": "Pilgrimage",
+            "wordDefinition": "A pilgrimage is a journey to a holy or sacred place, often undertaken for religious or spiritual reasons. It could be a trip to a famous religious site like Mecca, Jerusalem, or Vatican City, or it could involve visiting the birthplace or tomb of a saint or other revered figure.\n\nWhile both an excursion and a pilgrimage involve traveling to a destination, the purpose and focus of each is different.\n\nAn excursion is meant for enjoyment, while a pilgrimage is meant to deepen one's faith or spirituality.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8316af93-7420-40c0-ba5a-00580f9d445c.webp"
+        },
+        "Safari": {
+            "wordRoot": "Safari",
+            "wordDefinition": "Safari refers to a specific type of excursion, usually associated with wildlife watching in Africa.\n\nSafaris can be organized by specialized travel agencies and involve observing wild animals in their natural habitat.\n\nSafaris can be done on foot or in a vehicle, and often include camping or staying in lodges near the wildlife areas.\n\nIn summary, excursions are general outings for various purposes, while safaris are specific types of excursions focused on wildlife watching in Africa.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f14849cc-c53c-4d5b-a8b9-761c657fb07c.webp"
+        },
+        "Tour": {
+            "wordRoot": "Tour",
+            "wordDefinition": "It usually lasts for a day or less and includes fewer activities than a tour.\n\nA tour is a longer and more structured trip that usually involves visiting multiple locations or attractions.\n\nA tour guide typically leads the group, and there may be specific activities, such as sightseeing, visiting landmarks, or trying local cuisine.\n\nAn excursion is a short and focused trip, while a tour is a more extended itinerary that includes multiple activities and places of interest.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8784a057-60a9-4f77-8cbd-fef1fe181b50.webp"
+        },
+        "Trip": {
+            "wordRoot": "Trip",
+            "wordDefinition": "An excursion is a short trip, usually made for pleasure and typically to a place nearby. It usually involves a planned activity such as a visit to a museum, a hike, or a picnic.\n\nA trip is a longer journey, often for a specific purpose like a business meeting or vacation, and requires more planning and preparation.\n\nAn excursion is a brief and planned outing usually for enjoyment while a trip is a longer journey often for a specific purpose, which requires more preparation and planning.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e08f17fe-2d02-485c-a7f9-962a7b992dd8.webp"
+        },
+        "Voyage": {
+            "wordRoot": "Voyage",
+            "wordDefinition": "Voyage refers to a longer journey, especially by sea, and usually with a destination in mind. It typically involves a larger group of people and may be done for exploration, trade, or migration purposes.\n\nFor example, a cruise across the Atlantic or a voyage around the world are both examples of a voyage.\n\nAn excursion is a short trip for fun or education, while a voyage is a longer journey that has a specific goal or destination.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2a9a84f2-bdb6-4dc7-9ac8-b6f4b7edffff.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " of the climate, of the hot air, in order to then measure the ozone, the carbon dioxide. We're developing these sensors together with different communities all over the world in order to reconnect with the climate, the temperature and the environment, because there are other species in the air; in these excursions towards the atmosphere, we're not alone.",
+            "Title": "Tomás Saraceno: Would...",
+            "VideoId": "B5pFS8XD_MM",
+            "Controls": "start=295"
+        },
+        {
+            "Text": " Fleets of them could land on open beaches, penetrate deep into river systems, and be moved over land if need be. When not at war, the vessels were used to transport goods and make trade journeys. There were smaller versions for fishing and local excursions, and larger adaptations for open sea voyages",
+            "Title": "What's so special about...",
+            "VideoId": "kge0c2mNmRQ",
+            "Controls": "start=228"
+        },
+        {
+            "Text": " Although kings claimed absolute power, we know that an extensive system of courtiers, provincial officials, and scholars influenced affairs. At least one woman, Sammuramat, ruled the kingdom. Assyrian rulers celebrated their military excursions by having representations of their exploits",
+            "Title": "The rise and fall of the...",
+            "VideoId": "7pa54hWROpQ",
+            "Controls": "start=167"
+        },
+        {
+            "Text": " he brought a caravan stretching as far as the eye could see. Accounts of this journey are mostly based on an oral testimony and differing written records, so it's difficult to determine the exact details. But what most agree on is the extravagant scale of the excursion.",
+            "Title": "Mansa Musa, one of the...",
+            "VideoId": "O3YJMaL55TM",
+            "Controls": "start=85"
+        },
+        {
+            "Text": " Growing in the soil mat was a huckleberry bush with ripe berries! He ate some and waited for his friend. Stephen had discovered a new world hundreds of feet above the ground. His climb led to more excursions, with safety equipment, thank goodness,",
+            "Title": "What's hidden among the...",
+            "VideoId": "KMudRLPZidg",
+            "Controls": "start=176"
+        },
+        {
+            "Text": " Now, there's one piece of good news I have that may save the world. Okay. Are you on the edges of your seats here? Good, because before I tell you about that good news, I'm going to have to take a little excursion through some academic terrain.",
+            "Title": "Robert Wright: The...",
+            "VideoId": "N4wFyRGilp4",
+            "Controls": "start=439"
+        },
+        {
+            "Text": " a boyhood long past where the painting was my grandmother's love how she spoiled me how she fed me how she went on excursions with me how she helped educate me all this is interrelated consumer filed suit against",
+            "Title": "Man Fights Nazi Plunder...",
+            "VideoId": "mFV2JMmv9KM",
+            "Controls": "start=184"
+        },
+        {
+            "Text": " she went on excursions with me how she helped educate me all these interrelated kassir petitioned the museum to return the painting and when that didn't work he decided to sue the museum and its",
+            "Title": "Man Fights Nazi Plunder...",
+            "VideoId": "-cp3X2YShCU",
+            "Controls": "start=195"
+        },
+        {
+            "Text": " and said about these excursions will help build Stacy's confidence come I dunno and already she's overcome her initial nerves she's pretty fast isn't she she is they",
+            "Title": "Orphan Wombat Preparing...",
+            "VideoId": "B_od9aHihGU",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " believe in the shortest excursion provides plenty of opportunity to",
+            "Title": "Baby Penguin Annoys...",
+            "VideoId": "7Z4DWS6VM00",
+            "Controls": "start=79"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jr.webp",
+            "Text": "I started when I was 15 years old. And at that time, I was not thinking about changing the world, I was doing graffiti - writing my name everywhere, using the city as a canvas. I was going in the tunnels of Paris, on the rooftops with my friends. Each trip was an excursion, was an adventure.",
+            "Title": "French Artist",
+            "Name": "JR"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-muir.webp",
+            "Text": "Here ends my forever memorable first High Sierra excursion. I have crossed the Range of Light, surely the brightest and best of all the Lord has built. And, rejoicing in its glory, I gladly, gratefully, hopefully pray I may see it again.",
+            "Title": "American Environmentalist",
+            "Name": "John Muir"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brian-eno.webp",
+            "Text": "The problem with fine art is that in most cases people have to make a special excursion to go and look at it: they can't afford to own it. So it isn't really part of their life in the way that music can be.",
+            "Title": "British Musician",
+            "Name": "Brian Eno"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/franz-grillparzer.webp",
+            "Text": "Science and art, or by the same token, poetry and prose differ from one another like a journey and an excursion. The purpose of the journey is its goal, the purpose of an excursion is the process.",
+            "Title": "Austrian Poet",
+            "Name": "Franz Grillparzer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-caldwell.webp",
+            "Text": "Learning should be a joy and full of excitement. It is life's greatest adventure; it is an illustrated excursion into the minds of the noble and the learned.",
+            "Title": "American Author",
+            "Name": "Taylor Caldwell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/linda-ronstadt.webp",
+            "Text": "I am a believer in discipline; it takes a lot to do well. You need discipline for those little excursions into the chaotic that make life interesting.",
+            "Title": "American Musician",
+            "Name": "Linda Ronstadt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-vance.webp",
+            "Text": "Sometimes some of these little side excursions are useful and I manage to fit them in the book somewhere.",
+            "Title": "American Author",
+            "Name": "Jack Vance"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ivan-reitman.webp",
+            "Text": "The home viewing experience is slightly different and there's room for these kinds of extra excursions.",
+            "Title": "Canadian Actor",
+            "Name": "Ivan Reitman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eudora-welty.webp",
+            "Text": "The excursion is the same when you go looking for your sorrow as when you go looking for your joy.",
+            "Title": "American Author",
+            "Name": "Eudora Welty"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hilary-knight.webp",
+            "Text": "I like going on adventures or excursions.",
+            "Title": "American Athlete",
+            "Name": "Hilary Knight"
+        }
+    ]
+}

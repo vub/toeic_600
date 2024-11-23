@@ -1,0 +1,248 @@
+{
+    "currentWord": {
+        "wordRoot": "overcrowded",
+        "id": 26186,
+        "phonemic": "ˌəʊvəˈkraʊdɪd|ˌəʊvərˈkraʊdɪd\r",
+        "bigId": "8d2883e1-6815-4188-8bfe-c399e53b4bb6",
+        "wordForms": [
+            "overcrowded"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8d2883e1-6815-4188-8bfe-c399e53b4bb6",
+            "de": "Having too many people or things in one place",
+            "ty": "adjective",
+            "ex": "The bus was overcrowded and we had to stand most of the journey.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "overcrowded train",
+                " overcrowded classroom",
+                " overcrowded housing"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8d2883e1-6815-4188-8bfe-c399e53b4bb6.webp",
+            "Tips": [
+                {
+                    "title": "Physical Space",
+                    "description": "Focuses on limited physical space affecting comfort and function.",
+                    "example": "The overcrowded classroom made it hard to focus on the lesson.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/wpaVT14JEy4Q9A4WJAk25tl8uA.webp"
+                },
+                {
+                    "title": "Negative Feeling",
+                    "description": "Carries a negative tone suggesting discomfort or stress.",
+                    "example": "Feeling claustrophobic, he left the overcrowded party.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gUHFiT1WI7SfNdLJU8RUY71za4.webp"
+                },
+                {
+                    "title": "Situational Context",
+                    "description": "Used in contexts such as public transport, living spaces, or events.",
+                    "example": "She avoids the overcrowded subway during rush hour.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/WL99Lbg19M32MV1iG02osnvP6w.webp"
+                }
+            ]
+        },
+        {
+            "id": "b5c86dee-aaa8-4947-aece-36c3b7ff897b",
+            "de": "To put too many people or things into a space that is too small",
+            "ty": "verb",
+            "ex": "The city has been overcrowded with tourists throughout the summer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "overcrowded with tourists",
+                " overcrowded the room",
+                " overcrowded the market"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b5c86dee-aaa8-4947-aece-36c3b7ff897b.webp",
+            "Tips": [
+                {
+                    "title": "Action Oriented",
+                    "description": "Explains a process or condition in which an area becomes too filled.",
+                    "example": "Tour guides usually overcrowded the exhibit by welcoming too many visitors at once.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implies Excess",
+                    "description": "Emphasizes the excessive addition of people or items beyond capacity.",
+                    "example": "The manager overcrowded the schedule with back-to-back meetings.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Planning Failure",
+                    "description": "Suggests poor planning or management leading to uncomfortable situations.",
+                    "example": "The festival was overcrowded due to poor ticketing arrangements.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Congested": {
+            "wordRoot": "Congested",
+            "wordDefinition": "Congested refers specifically to something that has a lot of traffic or a lot of people in one place and is difficult to move in.\n\nThey both essentially mean there are too many things in one place, but congested is about movement and overcrowded is about space.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/313cd2c1-d802-42eb-9a64-695c1d8d9e05.webp"
+        },
+        "Cram": {
+            "wordRoot": "Cram",
+            "wordDefinition": "Cram refers to the act of forcefully fitting a large amount of something into a small space. This can be applicable in situations where you have to squeeze a lot of items or information into a limited space or amount of time.\n\nFor example, you might cram for a test by studying a lot of information in a short amount of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b746faa1-8560-49bf-8f8a-8813d2977c41.webp"
+        },
+        "Inundate": {
+            "wordRoot": "Inundate",
+            "wordDefinition": "Inundate means to flood or overwhelm with a large amount of something, usually with water or information. For example, \"The city was inundated with rain, causing flooding in the streets\" or \"I was inundated with emails after I announced the sale.\".\n\nSo, while both words refer to an excess of something, inundate typically refers to a sudden overflow or overwhelming amount, while overcrowded refers to something being too crowded or full for comfort or efficiency.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e50f4866-68ee-40a9-95cb-b9898da39da0.webp"
+        },
+        "Pack": {
+            "wordRoot": "Pack",
+            "wordDefinition": "Pack refers to filling a space tightly or completely, often with objects rather than people. This can refer to packing a suitcase full for a vacation, or packing a box with books for moving.\n\nOvercrowded applies to spaces that have too many people, while pack refers to filling a space tightly with objects.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/281ee4fb-3b5e-477e-b082-6c43bdfa740e.webp"
+        },
+        "Swarm": {
+            "wordRoot": "Swarm",
+            "wordDefinition": "Swarm refers to a large group of people or animals moving together.\n\nIt can also refer to a large number of insects flying or crawling together. For example, bees might swarm around a hive, or a group of birds might swarm together in the sky.\n\nSo, while overcrowded refers to a place that has too many things in it, swarm refers to a large group of things moving or existing together.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6b25f4a2-65dc-4bab-a926-32e6497c623f.webp"
+        },
+        "Teem": {
+            "wordRoot": "Teem",
+            "wordDefinition": "Teem means that a place is full of activity or moving things.\n\nOvercrowded is used when a place has too much of something, while teem describes a place that is active and bustling with life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ab042a9-301c-4eea-a8b3-a3cda0666d10.webp"
+        },
+        "Throng": {
+            "wordRoot": "Throng",
+            "wordDefinition": "Throng means a crowd of people bustling around a particular place.\n\nThis word describes a lively and busy situation where people are gathered in a particular area for a specific reason. For instance, a throng of people may gather at a music festival or at a popular tourist attraction.\n\nOvercrowded is used when there is a lack of space for too many people while throng is about a busy crowd of people gathered for a particular reason.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f42be147-0ebe-4ffa-a0f1-b50c38fcc4af.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " It's a really common tactic that's used worldwide when politicians want to posture as tough on crime but don't actually want to change the status quo. And research shows it backfires all over the world. If you throw a lot of low-level offenders into jails, usually already overcrowded jails,",
+            "Title": "A path to security for...",
+            "VideoId": "bGUVQaBdxKw",
+            "Controls": "start=547"
+        },
+        {
+            "Text": " when it has state-of-the-art technology and gleaming floors, not overcrowded cells and decrepit facilities, it's harder to believe that torture happens there. But it's important to entertain the idea that, sometimes, this too is what torture looks like. As a civil rights lawyer,",
+            "Title": "What happens to people...",
+            "VideoId": "8UNCvk9YXOo",
+            "Controls": "start=446"
+        },
+        {
+            "Text": " that it doesn't make sense anymore to make a distinction between humanitarian aid and development aid or development processes. Because you are talking about children in school, you are talking about health, you are talking about infrastructure that is overcrowded.",
+            "Title": "Refugees have the right...",
+            "VideoId": "potB0voQzNg",
+            "Controls": "start=744"
+        },
+        {
+            "Text": " as far as looking at building emergency health centers and creating these spaces at this time and as we're seeing that hospitals are overcrowded throughout the country the world you know I guess how how long before we get to a point where",
+            "Title": "How health workers are...",
+            "VideoId": "qWwEoD68gwQ",
+            "Controls": "start=1758"
+        },
+        {
+            "Text": " poor if you happen to exist in an overcrowded school alright and if you are a boy you're four times as likely to be diagnosed with ADHD attention deficit hyperactivity disorder now there is another side to this and it is important",
+            "Title": "Gaming to re-engage boys...",
+            "VideoId": "A3ZC9OyHWO4",
+            "Controls": "start=110"
+        },
+        {
+            "Text": " that's be billion dollars on incarcerated people in state and local jails and prisons that's usually the second highest item in state budgets so we spend an absolute fortune on this and all of our jails are overcrowded 2/3 of",
+            "Title": "Who occupies US prisons?...",
+            "VideoId": "RWcVVSNfV6E",
+            "Controls": "start=149"
+        },
+        {
+            "Text": " or tenements they were small and rarely had windows so there was no light or ventilation houses are overcrowded they're working in factories that breathing on one another that contaminating one another with their",
+            "Title": "When Cities Were...",
+            "VideoId": "hKKzUcqZgMY",
+            "Controls": "start=105"
+        },
+        {
+            "Text": " And then he said, right, get in there. And you're going to sleep on that floor there. There's people everywhere. It was overcrowded. It was like, it's inhumane living conditions.",
+            "Title": "A Belly Full of Cocaine...",
+            "VideoId": "tESd_GkKd6c",
+            "Controls": "start=194"
+        },
+        {
+            "Text": " overcrowded hospitals are flooded with patients suffering from diseases rarely seen here for a century cholera typhoid fever all caused by polluted water",
+            "Title": "Raw Sewage Ooze PIPE...",
+            "VideoId": "hKFo-heYfWA",
+            "Controls": "start=121"
+        },
+        {
+            "Text": " Maybe the fates got clumsy. Maybe Poseidon had one of his angry days. However it happened, the underworld is overcrowded,",
+            "Title": "Can you solve the riddle...",
+            "VideoId": "tbkiYideS-4",
+            "Controls": "start=5"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-hass.webp",
+            "Text": "You begin to see that all of these things are connected: The kind of cuts that mean less environmental protection are also the kind of cuts that mean less musical education for the schools and that also mean more overcrowded schools.",
+            "Title": "American Poet",
+            "Name": "Robert Hass"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joseph-morgan.webp",
+            "Text": "The Vampire Diaries' is a great show, but it's on the verge of being overcrowded. The amount of characters, a lot of them don't get screen time because there's so much to put in, and it has to center around the love triangle.",
+            "Title": "English Actor",
+            "Name": "Joseph Morgan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zach-wamp.webp",
+            "Text": "Failure to properly control our borders costs citizens in many ways: schools become overcrowded, medical resources are stretched too thin, other government services are overtaxed, and taxes increase further.",
+            "Title": "American Politician",
+            "Name": "Zach Wamp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "We are in danger of destroying ourselves by our greed and stupidity. We cannot remain looking inwards at ourselves on a small and increasingly polluted and overcrowded planet.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fannie-hurst.webp",
+            "Text": "Few enjoy noisy overcrowded functions. But they are a gesture of goodwill on the part of host or hostess, and also on the part of guests who submit to them.",
+            "Title": "American Writer",
+            "Name": "Fannie Hurst"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/owen-jones.webp",
+            "Text": "Poverty damages the educational potential of children, whether through stress or poor diet, while overcrowded, poor-quality housing has the same impact too.",
+            "Title": "British Journalist",
+            "Name": "Owen Jones"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/david-lidington.webp",
+            "Text": "Prison conditions in some parts of the world can be very poor, overcrowded and, in some cases, dangerous and sentences can be much tougher than in the U.K.",
+            "Title": "British Politician",
+            "Name": "David Lidington"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/noel-gallagher.webp",
+            "Text": "Why is the rest of the world so overcrowded? Nobody lives in America! We're all squashed up on top of each other in London.",
+            "Title": "English Musician",
+            "Name": "Noel Gallagher"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pim-fortuyn.webp",
+            "Text": "We are already overcrowded. There's no more room, and we must shut the borders.",
+            "Title": "Dutch Politician",
+            "Name": "Pim Fortuyn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anthony-lewis.webp",
+            "Text": "Desperation is a fact of life in many poor, overcrowded countries.",
+            "Title": "American Journalist",
+            "Name": "Anthony Lewis"
+        }
+    ]
+}

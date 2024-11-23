@@ -1,0 +1,336 @@
+{
+    "currentWord": {
+        "wordRoot": "goal",
+        "id": 17138,
+        "phonemic": "ɡəʊl|ɡəʊl\r",
+        "bigId": "ab84e0a1-951d-4015-9f89-43a54f86c736",
+        "wordForms": [
+            "goals",
+            "goal"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ab84e0a1-951d-4015-9f89-43a54f86c736",
+            "de": "A target or result that someone tries to achieve.",
+            "ty": "noun",
+            "ex": "Her goal is to become a lawyer.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "achieve a goal",
+                " set a goal",
+                " reach a goal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ab84e0a1-951d-4015-9f89-43a54f86c736.webp",
+            "Tips": [
+                {
+                    "title": "Personal Aspiration",
+                    "description": "Refers to someone's personal ambitions or desires in life or career.",
+                    "example": "My goal is to master English within two years.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kWfiFO8lztwNBtGBlyRNyodeVU.webp"
+                },
+                {
+                    "title": "Planning Required",
+                    "description": "Achieving a goal usually involves planning and effort.",
+                    "example": "She set a goal to read 50 books this year.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MxnPf9rwGcURLSD1wyn3Iryfjo.webp"
+                },
+                {
+                    "title": "Long or Short-term",
+                    "description": "Goals can be immediate or require a long-term strategy.",
+                    "example": "His short-term goal is to improve his presentation skills.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1r5FrMOQTrJnvXP9GPQIIl8lls8.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "684cbdeb-4d0f-41f8-a2ed-23a570049131",
+            "de": "In sports, a point scored when a player sends the ball or puck into a net or meets some other criteria.",
+            "do": "Sports",
+            "ty": "noun",
+            "ex": "He scored a goal in the last minute of the game.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "score a goal",
+                " shoot a goal",
+                " goal post"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/684cbdeb-4d0f-41f8-a2ed-23a570049131.webp",
+            "Tips": [
+                {
+                    "title": "Sports Scoring",
+                    "description": "A successful shot in games like soccer or hockey.",
+                    "example": "The striker hit the ball into the net, scoring a goal.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Game Changer",
+                    "description": "Scoring a goal can change the outcome of the game.",
+                    "example": "Their goal in the final seconds won them the match.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Celebration Trigger",
+                    "description": "Scoring a goal often leads to team and fan celebrations.",
+                    "example": "After scoring the goal, the whole team celebrated.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6016b953-0022-4e76-a96f-8ad98e76c1f4",
+            "de": "The area or net into which players must send the ball or puck in order to score a point.",
+            "do": "Sports",
+            "ty": "noun",
+            "ex": "The goalkeeper prevented the ball from entering the goal.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "goal line",
+                " goal post",
+                " goal keeper"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6016b953-0022-4e76-a96f-8ad98e76c1f4.webp",
+            "Tips": [
+                {
+                    "title": "Physical Space",
+                    "description": "A designated area in sports where points are scored.",
+                    "example": "The hockey puck slid across the goal line.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Defense Zone",
+                    "description": "Defenders and goalkeepers primarily protect this zone.",
+                    "example": "The goalkeeper leaped to defend the goal.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Boundary Marker",
+                    "description": "The goal area is marked by lines or posts.",
+                    "example": "The ball must cross the goal line to count as a goal.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "effdce83-e1c1-4914-88ad-33a952a4fffb",
+            "de": "In business, a desired result a company plans and commits to achieve.",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "Our main goal for the next fiscal year is to increase sales by 15%.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "business goal",
+                " financial goal",
+                " strategic goal"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/effdce83-e1c1-4914-88ad-33a952a4fffb.webp",
+            "Tips": [
+                {
+                    "title": "Company Objective",
+                    "description": "A strategic aim that guides business decision-making.",
+                    "example": "The company's goal is to enhance customer satisfaction.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Guided Progress",
+                    "description": "Goals help track progress in a corporate environment.",
+                    "example": "Meeting our quarterly goals will lead to a bonus for everyone.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Motivation Source",
+                    "description": "Setting goals can motivate teams to perform better.",
+                    "example": "The sales team is motivated by the goal of beating last year's records.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Aim": {
+            "wordRoot": "Aim",
+            "wordDefinition": "Aim refers to a desired outcome or intention that someone wants to achieve by directing their efforts toward a specific target.\n\nIt is usually short-term and specific in nature. For example, a student might aim to get an A on their math test next week.\n\nIt is usually broader and more open-ended than an aim. For example, a person might have a goal to become a doctor someday.\n\nIn practical use, aim is more appropriate when you are talking about a specific and immediate task, while goal is better for talking about future plans and aspirations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/891d8ab4-bc85-4fb0-ae8d-381a53c78695.webp"
+        },
+        "Ambition": {
+            "wordRoot": "Ambition",
+            "wordDefinition": "Ambition refers to a strong desire or drive to achieve something, often related to success or power. It is a personal quality that motivates individuals to strive for success and achieve their dreams.\n\nAmbition often involves a willingness to work hard and take risks in order to achieve one's desired outcome.\n\nAmbition is a personal trait that drives individuals to aim high, while a goal is a specific objective that one wishes to achieve.\n\nAmbition is applicable to a person's character, while a goal is applicable to a person's plan or strategy.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/91338c42-9cfd-44b3-b00c-16579eebc03f.webp"
+        },
+        "Aspiration": {
+            "wordRoot": "Aspiration",
+            "wordDefinition": "An aspiration is a desire or ambition to achieve something, while a goal is a specific object or aim that you actively work towards achieving.\n\nIn simpler terms, an aspiration is a dream or a hope, whereas a goal is a plan with actionable steps.\n\nAspirations can be applicable in situations where you have a long-term vision for your future, but you may not have a set plan for how to get there.\n\nIn summary, aspirations are broader, long-term goals, while goals are specific and measurable tasks that help you achieve your aspirations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e2b77474-dc14-4d64-8808-e8e78771ae0e.webp"
+        },
+        "Destination": {
+            "wordRoot": "Destination",
+            "wordDefinition": "Destination refers to the place you are going or the end point of a journey. For example, if you are planning a trip to Hawaii, then Hawaii is your destination.\n\nTo summarize, destination and goal have different meanings and applications. Destination refers to a physical place while goal refers to something that you want to achieve.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ad3212a0-071d-4c87-998b-753ed93d30c8.webp"
+        },
+        "Intention": {
+            "wordRoot": "Intention",
+            "wordDefinition": "An intention is something you set for yourself that you plan to do in the present or the near future. It is a short-term plan that is often more specific than a goal.\n\nFor example, your intention may be to study for an hour every day, to learn a new skill or to save money for a trip.\n\nA goal is a long-term plan that is based on your overall aspirations, while an intention is a short-term plan that is specific and often related to your daily activities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/20a8cdb5-100f-495b-8e63-35a896a5607e.webp"
+        },
+        "Mission": {
+            "wordRoot": "Mission",
+            "wordDefinition": "A mission describes a broader and more purposeful objective. It often involves a sense of duty or responsibility and implies an ongoing commitment towards a greater purpose, such as serving the needs of a community or advocating for social justice.\n\nBoth words are applicable in various contexts, but goals are typically more short-term, while missions are more long-term and relate to an organization, cause, or personal values.\n\nFor example, a business may have a mission statement that guides its overall purpose and values, while setting specific goals to increase revenue or expand its customer base.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1057bac8-95d0-458c-a42c-8521d2e58b6e.webp"
+        },
+        "Objective": {
+            "wordRoot": "Objective",
+            "wordDefinition": "An objective is a specific, measurable target that helps you achieve your goal. It is a clear and concise statement of what you want to achieve within a certain timeframe.\n\nObjectives help you to focus your efforts, monitor your progress, and determine whether you are on track to achieve your goal.\n\nFor example, if your goal is to get good grades in school, your objective may be to study for two hours every day or to complete all of your assignments before the due date.\n\nIn summary, goals are broad aims while objectives are specific, measurable targets that contribute to achieving the goal.\n\nGoals provide direction and purpose, while objectives provide a roadmap to achieve the desired outcome.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/78825159-4234-453b-a9f4-31dbd1aebe44.webp"
+        },
+        "Purpose": {
+            "wordRoot": "Purpose",
+            "wordDefinition": "Purpose: A purpose is the reason why you do something. It is more abstract and long-term than a goal. For example, your purpose might be to be happy, help others, or make a difference in the world.\n\nBoth words can be used in different situations, but goals are usually used for shorter-term plans (like for school projects), while purposes are used for longer-term plans (like for career or life goals).",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d14dda9b-9f3a-4545-bd11-8a9b348d08bb.webp"
+        },
+        "Target": {
+            "wordRoot": "Target",
+            "wordDefinition": "A target is more specific and measurable. It is a precise and quantifiable aim that breaks down a goal into smaller achievable steps.\n\nFor example, a target for that same student might be to study for three hours every day to achieve those good grades.\n\nA goal is a broad, overarching objective that you want to attain, whereas a target is a specific, measurable step towards achieving that goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a204fb43-2e7d-4607-8c95-e1f5bebddcb2.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " because the way you treat them on a daily basis determines whether they will wither or grow. Say you're standing in front of a door, ready to pull it open. Your brain and muscles are perfectly poised to help you achieve this goal. First, your brain sends a signal to motor neurons inside your arm. When they receive this message, they fire,",
+            "Title": "What makes muscles grow?...",
+            "VideoId": "2tM1LFFxeKg",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " The goal of the two-month process is to preserve Ani's body as an ideal form with which his spirit can eventually reunite. But first, that spirit must pass through the duat, or underworld. This is a realm of vast caverns, lakes of fire, and magical gates, all guarded by fearsome beasts -",
+            "Title": "The Egyptian Book of the...",
+            "VideoId": "1yv_MXNYbAo",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " Some of the most significant are psychological benefits, both in the short and long term. Some of those come from the communal experience of being on a team, for instance, learning to trust and depend on others, to accept help, to give help, and to work together towards a common goal.",
+            "Title": "How playing sports...",
+            "VideoId": "hmFQqjMF_f0",
+            "Controls": "start=96"
+        },
+        {
+            "Text": " takes practice. Practice is the repetition of an action with the goal of improvement, and it helps us perform with more ease, speed, and confidence. So what does practice do in our brains to make us better at things? Our brains have two kinds of neural grey matter and white matter.",
+            "Title": "How to practice...",
+            "VideoId": "f2O6mQkFiiw",
+            "Controls": "start=12"
+        },
+        {
+            "Text": " If you're trying to decide on a diet to improve your nutrition, you may ask an expert for their advice, or seek other people's testimonies. Information gathering helps you weigh different options, moving you closer to a decision that meets your goal. apply the information,",
+            "Title": "5 tips to improve your...",
+            "VideoId": "dItUGF8GdTw",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " later and you're almost at your goal i learned that i had to keep track of everything so i used iphone apps like lose it and i use my up band to track how much sleep i was getting and how much exercise i was getting along the way and this really helped me to keep the",
+            "Title": "The psychological weight...",
+            "VideoId": "DLYb3IgQ1Qk",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " Life is never about the goals themselves. Life is about the journey. Yes, you should enjoy the goals themselves, but people think that you have dreams, and whenever you get to reaching one of those dreams, it's a magical place where happiness will be all around.",
+            "Title": "5 ways to kill your...",
+            "VideoId": "sR6P5Qdvlnk",
+            "Controls": "start=286"
+        },
+        {
+            "Text": " 'Cause we always thought that we would have each other, and she always saw the best in everyone, no matter who it was, she just like brought out their light. And her lifelong goal was to be a healer. And she got her dream job as a transplant nurse,",
+            "Title": "Surf Sisters - Ep. 2 PIPE...",
+            "VideoId": "F3LS8CQJW4A",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " take control of the world and stick electrodes into the facial muscles of humans to cause constant, beaming grins. Another example, suppose we give A.I. the goal to solve a difficult mathematical problem. When the A.I. becomes superintelligent,",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=592"
+        },
+        {
+            "Text": " or a maternal age vulnerable orphan has gone through the trauma of losing his or her mother the long-term goal is to release them into protected forests and",
+            "Title": "CUTE Orphan Orangutans...",
+            "VideoId": "yyU8Qrt_XdI",
+            "Controls": "start=15"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-collier.webp",
+            "Text": "Most of us, swimming against the tides of trouble the world knows nothing about, need only a bit of praise or encouragement - and we will make the goal.",
+            "Title": "American Author",
+            "Name": "Robert Collier"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-jefferson.webp",
+            "Text": "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.",
+            "Title": "American President",
+            "Name": "Thomas Jefferson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/future.webp",
+            "Text": "I want my money to be different. I'm not trying to have rapper money. My goal is to be able to get everything from the world that I can get.",
+            "Title": "American Musician",
+            "Name": "Future"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lou-holtz.webp",
+            "Text": "If you're bored with life - you don't get up every morning with a burning desire to do things - you don't have enough goals.",
+            "Title": "American Coach",
+            "Name": "Lou Holtz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zig-ziglar.webp",
+            "Text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+            "Title": "American Author",
+            "Name": "Zig Ziglar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/les-brown.webp",
+            "Text": "Your goals are the road maps that guide you and show you what is possible for your life.",
+            "Title": "American Speaker",
+            "Name": "Les Brown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chuck-palahniuk.webp",
+            "Text": "We all die. The goal isn't to live forever, the goal is to create something that will.",
+            "Title": "American Novelist",
+            "Name": "Chuck Palahniuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viktor-e-frankl.webp",
+            "Text": "Life can be pulled by goals just as surely as it can be pushed by drives.",
+            "Title": "Austrian Psychologist",
+            "Name": "Viktor E. Frankl"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sigmund-freud.webp",
+            "Text": "The goal of all life is death.",
+            "Title": "Austrian Psychologist",
+            "Name": "Sigmund Freud"
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "currentWord": {
+        "wordRoot": "research",
+        "id": 1703,
+        "phonemic": "ˈriːsɜːtʃ|ˈriːsɜːrtʃ,rɪˈsɜːrtʃ\r",
+        "bigId": "abb3a46c-4106-47f5-9b58-f448204018e8",
+        "wordForms": [
+            "researches",
+            "researching",
+            "researched",
+            "research"
+        ]
+    },
+    "senses": [
+        {
+            "id": "abb3a46c-4106-47f5-9b58-f448204018e8",
+            "de": "The process of studying materials and sources to learn new facts or to understand a new subject",
+            "ty": "noun",
+            "ex": "He has devoted his life to scientific research.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "scientific research",
+                " medical research",
+                " conduct research"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/abb3a46c-4106-47f5-9b58-f448204018e8.webp",
+            "Tips": [
+                {
+                    "title": "Academic Context",
+                    "description": "Often used in school or college situations when describing projects or assignments involving in-depth study.",
+                    "example": "Her research project won the university's academic achievement award.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6kH9pccjbSHte2tzPPjNGn46NE.webp"
+                },
+                {
+                    "title": "Beyond Reading",
+                    "description": "'Research' implies actively seeking out information, not just reading what's easily available.",
+                    "example": "He spent months researching primary sources for his history paper.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/328if8mD5sladYv9nSSk51yGAo.webp"
+                },
+                {
+                    "title": "Not Just Facts",
+                    "description": "Research involves analyzing information to draw conclusions, not just collecting data.",
+                    "example": "Her research led her to a new theory on climate change.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/5DvAk9kasg7aom9wsdt3byElk6c.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "65b199cd-069d-474e-9869-f7cef4ce9bea",
+            "de": "The act of studying something deeply and thoroughly to learn new facts or understand a subject better",
+            "ty": "verb",
+            "ex": "She researched the effects of smoking on health for her thesis.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "research a subject",
+                " research a topic",
+                " research online"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/65b199cd-069d-474e-9869-f7cef4ce9bea.webp",
+            "Tips": [
+                {
+                    "title": "Verb Application",
+                    "description": "As a verb, 'research' describes the action of doing the study, often used in proposals and plans.",
+                    "example": "I will research the effects of urban development on local ecosystems next semester.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Process-Oriented",
+                    "description": "The verb focuses on the process of discovering or verifying information.",
+                    "example": "She is researching whether the diet has an impact on energy levels.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6bce139f-b735-4801-80bb-b701f65dc2b6",
+            "de": "A detailed study of something in order to find new facts",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "His research on cancer is well known in the medical world.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "cancer research",
+                " research findings",
+                " innovative research"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6bce139f-b735-4801-80bb-b701f65dc2b6.webp",
+            "Tips": [
+                {
+                    "title": "Medical Significance",
+                    "description": "Medical research is typically aimed at finding treatments or understanding diseases better.",
+                    "example": "The team's research into Alzheimer's disease has been groundbreaking.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Potential Impact",
+                    "description": "Research in the medical domain often discusses the potential to save lives or improve health.",
+                    "example": "Her groundbreaking research could change the way we treat heart disease.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Analysis": {
+            "wordRoot": "Analysis",
+            "wordDefinition": "Analysis refers to the process of breaking down something into smaller pieces to understand it better, while research refers to the process of gathering information and knowledge through investigation and discovery.\n\nBoth analysis and research are applicable in various fields such as science, literature, and social sciences.\n\nHowever, analysis is more commonly used in areas such as literature and art, while research is often used in fields such as science and social sciences.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/700e831c-1eea-46da-8ea6-370a42f046b9.webp"
+        },
+        "Enquiry": {
+            "wordRoot": "Enquiry",
+            "wordDefinition": "Enquiry refers to the process of seeking information or clarification about a particular topic or situation through questioning or investigation.\n\nEnquiry is usually more informal and can be done by anyone to gain a better understanding of something. Research requires specialized knowledge and skills and is typically conducted by professionals or academics in a particular field.\n\nEnquiry is applicable in situations where one wants to gain general knowledge or understanding about something, whereas research is more applicable in situations where one wants to investigate a specific issue or problem in a systematic and rigorous manner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/37d51d8d-3523-4552-ad87-08b0213d64c1.webp"
+        },
+        "Examination": {
+            "wordRoot": "Examination",
+            "wordDefinition": "Examination refers to the process of closely looking at or analyzing something to gain a deeper understanding.\n\nIt is often used in the context of testing or assessing knowledge or abilities, such as taking an exam or undergoing a medical examination.\n\nBoth examination and research can be applicable in various fields, such as education, science, and medicine.\n\nHowever, examination focuses on analyzing existing knowledge, while research focuses on discovering new knowledge.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e65a64dc-c6ac-4d7d-a3e5-85970c3f0776.webp"
+        },
+        "Exploration": {
+            "wordRoot": "Exploration",
+            "wordDefinition": "Exploration is the act of going to a new place or trying out new things to learn more about it. It refers to the process of discovering or investigating something new.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2990f0a6-4ed9-4114-9b52-acb5cd86115b.webp"
+        },
+        "Investigate": {
+            "wordRoot": "Investigate",
+            "wordDefinition": "The words investigate and research are similar but have different connotations.\n\nInvestigate refers to a more specific notion of seeking out facts through inquiry or examination.\n\nInvestigating is more focused on examining and interpreting evidence.\n\nIn simpler terms, research is like studying a topic in-depth to learn more about it, while investigating is like looking for clues to solve a mystery or uncover the truth about something.\n\nResearch is applicable in academic settings or scientific studies, while investigating is used more commonly in legal or criminal situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5e835359-0865-4d86-ac05-e053e13feb1a.webp"
+        },
+        "Probe": {
+            "wordRoot": "Probe",
+            "wordDefinition": "Probe typically refers to a specific investigation or inquiry to find out information or uncover something hidden.\n\nIn simpler terms, probe is a targeted effort to find something specific while research is a more broad and ongoing effort to gain knowledge on a particular topic.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf8038f1-c3ab-4b5b-85f2-0893fd584e71.webp"
+        },
+        "Scrutiny": {
+            "wordRoot": "Scrutiny",
+            "wordDefinition": "Scrutiny refers to the careful examination of something with great attention to detail.\n\nScrutiny is useful in situations where one needs to pay close attention to details to assess or evaluate something. This can be used in contexts such as legal or financial matters, where careful examination is required to reach an informed decision.\n\nResearch is about gathering information while scrutiny is about examining information or objects closely.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4c078715-a98d-4d5c-87e1-3dac427911c3.webp"
+        },
+        "Study": {
+            "wordRoot": "Study",
+            "wordDefinition": "Study generally refers to the process of learning about a subject through reading, memorization, and practice.\n\nIt can involve reviewing materials, taking quizzes and exams, completing assignments, and working with tutors or study groups to master the material.\n\nStudy is often associated with academic pursuits, such as preparing for exams or advancing in a particular field.\n\nResearch involves original investigation and discovery, while study involves learning and practicing existing knowledge.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/033e8ac6-c19b-46dc-8157-2a309125faee.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " going on with their ecosystem supports their livelihood and so they're very eager to help for our part we get to get samples from a huge geographic area that would cost us thousands of dollars to run our own research program I think the best chance we have to mitigate some of the impacts of lionfish is to encourage fishery removals whether that's through",
+            "Title": "Divers Fight the...",
+            "VideoId": "GzaeYzAC8Ro",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " found that those who were exposed to a period of music learning showed enhancement in multiple brain areas, compared to the others. This recent research about the mental benefits of playing music has advanced our understanding of mental function, revealing the inner rhythms and complex interplay",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=247"
+        },
+        {
+            "Text": " more important than ever. For example, driver-less cars may have to handle choices like causing a small accident to prevent a larger one. Meanwhile, governments are researching autonomous military drones that could wind up making decisions of whether they'll risk civilian casualties",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " be less likely to be offered the job, and be paid less than Johns. The unconscious bias is there, but we just have to look at how we can move past it. And, you know, it's interesting, there's some research that talks about why this is the case and it's called the merit paradox.",
+            "Title": "What does my headscarf...",
+            "VideoId": "18zvlz5CxPE",
+            "Controls": "start=333"
+        },
+        {
+            "Text": " eat less move more sleep and smile and our research for the dakota company we were encouraged to see a whole new wave of innovation companies taking inspiration from the consumer landscape and pulling it into the workplace collectively what all these companies",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=279"
+        },
+        {
+            "Text": " Knowing that your own brain is lying to you while not being able to resist its commands can be agonizing. But with knowledge and understanding comes the power to seek help, and future research into the brain may finally provide the answers we're looking for.",
+            "Title": "Debunking the myths of...",
+            "VideoId": "DhlRgwdDc-E",
+            "Controls": "start=257"
+        },
+        {
+            "Text": " For example, research shows that asking someone about suicidal thoughts actually reduces their suicide risk. Open conversations about mental illness help erode stigma and make it easier for people to ask for help. And the more patients seek treatment,",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=230"
+        },
+        {
+            "Text": " animals, minerals, fossils, and artifacts present windows into times and places around the world and across billions of years of history. When a research problem emerges, scientists peer through these windows and test hypotheses about the past.",
+            "Title": "The hidden worlds within...",
+            "VideoId": "B-vYGcl_nA8",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " listing over a hundred common dreams and their meanings. And in the years since, we haven't paused in our quest to understand why we dream. So, after a great deal of scientific research, technological advancement, and persistence,",
+            "Title": "Why do we dream? - Amy...",
+            "VideoId": "2W85Dwxx218",
+            "Controls": "start=15"
+        },
+        {
+            "Text": " 1 year and 15 days later, I was out on my boat doing my research and a fisherman radioed me and said there was a whale off the harbor. So I came up to the harbor and sure enough, there was a whale and he dove and when he dove,",
+            "Title": "A whale saved my life PIPE...",
+            "VideoId": "OXNCCdcBhcY",
+            "Controls": "start=359"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "If you look at the history of our country over the last 100 years, there have been periods where science and research have been celebrated. They were really kind of held up as heroes in society, which encouraged a generation of people to go into these fields.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jaime-hernandez.webp",
+            "Text": "Every time I copy something, I can draw it for the rest of my life. But research is so painful - I mean just opening up a magazine looking for a picture of a car or looking out the window looking for a car is just hard!",
+            "Title": "American Artist",
+            "Name": "Jaime Hernandez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "In energy, you have to plan and do research way in advance, sometimes decades in advance to get a new system that's safer, doesn't require us to go around the world to get all our oil.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ava-duvernay.webp",
+            "Text": "I didn't have to learn Selma to make 'Selma.' I didn't have to research what kind of place this is. The people I love most in the world live in that part of the country.",
+            "Title": "American Director",
+            "Name": "Ava DuVernay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-hawking.webp",
+            "Text": "In Britain, like most of the developed world, stem-cell research is regarded as a great opportunity. America will be left behind if it doesn't change policy.",
+            "Title": "English Physicist",
+            "Name": "Stephen Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/garth-davis.webp",
+            "Text": "I'm just trying to approach what I make with as much respect and research as I can, and just make it with a good heart.",
+            "Title": "Australian Director",
+            "Name": "Garth Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sidney-sheldon.webp",
+            "Text": "I will not write about anyplace in the world unless I've been there to personally research it.",
+            "Title": "American Novelist",
+            "Name": "Sidney Sheldon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-momoa.webp",
+            "Text": "I love life and if there's something that I'm playing that I love, I'll research it.",
+            "Title": "American Actor",
+            "Name": "Jason Momoa"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/felicity-jones.webp",
+            "Text": "I love spending time researching a character and reading about them.",
+            "Title": "English Actress",
+            "Name": "Felicity Jones"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/adriana-trigiani.webp",
+            "Text": "I live in the greatest city in the world for research.",
+            "Title": "American Novelist",
+            "Name": "Adriana Trigiani"
+        }
+    ]
+}

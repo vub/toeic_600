@@ -1,0 +1,368 @@
+{
+    "currentWord": {
+        "wordRoot": "chain",
+        "id": 409,
+        "phonemic": "tʃeɪn|tʃeɪn\r",
+        "bigId": "788e39d5-d704-4a8c-9086-8ebfbabd1fac",
+        "wordForms": [
+            "chains",
+            "chaining",
+            "chained",
+            "unchain",
+            "chain"
+        ]
+    },
+    "senses": [
+        {
+            "id": "788e39d5-d704-4a8c-9086-8ebfbabd1fac",
+            "de": "A series of linked metal rings used for fastening or securing objects and pulling or supporting loads.",
+            "ty": "noun",
+            "ex": "He locked his bicycle to the post with a chain.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "chain link",
+                " chain fence",
+                " chain reaction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/788e39d5-d704-4a8c-9086-8ebfbabd1fac.webp",
+            "Tips": [
+                {
+                    "title": "Physical Restriction",
+                    "description": "Indicates literal tying or locking for safety or theft prevention.",
+                    "example": "Chain your luggage to the rack to avoid theft.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QJinEjxU7kihywPXY3ZzaMwz1sk.webp"
+                },
+                {
+                    "title": "Strength Implication",
+                    "description": "Suggests durability and ability to withstand pressure or force.",
+                    "example": "The chain can hold up the weight without breaking.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7nHsa4SipRiHGkQfIlSfm6LRCZc.webp"
+                }
+            ]
+        },
+        {
+            "id": "a3f6da97-f0b9-4191-9632-784db5324792",
+            "de": "A sequence of things or people that are connected or follow each other.",
+            "ty": "noun",
+            "ex": "The chain of events led him to believe that he was being set up.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "chain of command",
+                " chain of thought",
+                " chain of events"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a3f6da97-f0b9-4191-9632-784db5324792.webp",
+            "Tips": [
+                {
+                    "title": "Causality Hint",
+                    "description": "Used to express a connection where one event leads to another.",
+                    "example": "A missed call started a chain of misunderstandings.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Order of Actions",
+                    "description": "Refers to steps in a process or hierarchy in systems.",
+                    "example": "Follow the chain of command to file a complaint.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1b5f9814-2c70-42db-acf4-66bc3881e1d0",
+            "de": "A group of establishments, such as stores, theaters, or hotels, under common ownership or management.",
+            "do": "business",
+            "ty": "noun",
+            "ex": "He owns a chain of restaurants across the country.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "chain store",
+                " hotel chain",
+                " chain of restaurants"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1b5f9814-2c70-42db-acf4-66bc3881e1d0.webp",
+            "Tips": [
+                {
+                    "title": "Common Branding",
+                    "description": "Describes businesses sharing a brand, style, or management.",
+                    "example": "She prefers coffee from that popular chain over local shops.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ubiquity Implication",
+                    "description": "Implies widespread presence of the business establishments.",
+                    "example": "There’s a chain hotel at almost every major tourist destination.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1d8de87e-b0dd-44c6-a9bc-10909b1f5c5f",
+            "de": "To fasten or secure with a chain.",
+            "ty": "verb",
+            "ex": "The dog was chained to the tree.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "chain up",
+                " chain down",
+                " chain together"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1d8de87e-b0dd-44c6-a9bc-10909b1f5c5f.webp",
+            "Tips": [
+                {
+                    "title": "Securing Effect",
+                    "description": "To restrict movement or access, typically for protection or control.",
+                    "example": "Chain the gates to prevent entry after hours.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0f34f4cc-548a-4250-bbb3-848de8662d68",
+            "de": "A unit of linear measure equal to 22 yards (20.12 meters).",
+            "do": "measurements",
+            "ty": "noun",
+            "ex": "The field is about ten chains in length.",
+            "use": "",
+            "co": "Specialized",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "two chains",
+                " five chains",
+                " full chain"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0f34f4cc-548a-4250-bbb3-848de8662d68.webp",
+            "Tips": [
+                {
+                    "title": "Historic Measurement",
+                    "description": "An old unit of length, mostly used in surveying land historically.",
+                    "example": "The old map noted the farm’s width as four chains.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cricket Field Marker",
+                    "description": "In cricket, 'chain' can refer to field dimensions.",
+                    "example": "The distance to the boundary is measured in chains.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "477f43bc-f94e-4d8d-a8ec-cf17befcaf5f",
+            "de": "A structure of atoms or molecules connected in a continuous network, characteristic of many crystalline materials.",
+            "do": "chemistry",
+            "ty": "noun",
+            "ex": "The polymer chains allow the plastic to be flexible.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "polymer chain",
+                " carbon chain",
+                " dna chain"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/477f43bc-f94e-4d8d-a8ec-cf17befcaf5f.webp",
+            "Tips": [
+                {
+                    "title": "Molecular Structure",
+                    "description": "Refers to how atoms or molecules are arranged in a material.",
+                    "example": "The molecular chains determine the properties of this polymer.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Biological Significance",
+                    "description": "In biology, it depicts the structure of DNA or proteins.",
+                    "example": "The protein chain is crucial for muscle function.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Bond": {
+            "wordRoot": "Bond",
+            "wordDefinition": "A bond refers to a connection between two things or people. It could be a connection based on emotions, trust, or a shared experience.\n\nFor example, a bond can exist between two friends who have known each other for a long time.\n\nA bond is a connection between two things or people based on a shared experience, while a chain is a physical connection between objects made up of links or rings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8badbbb4-0c2b-4f0e-bcd1-20ed270ef85c.webp"
+        },
+        "Connection": {
+            "wordRoot": "Connection",
+            "wordDefinition": "Connection means a relationship between two things, people, or ideas.\n\nIt can refer to the way two things are related or linked together. For example, a connection between two cities or a connection between two people who share a common interest.\n\nChain refers to a physical or metaphorical series of linked items, while connection refers to a relationship or link between two things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14ffe5ed-b0c3-4d57-9700-40b30db152c0.webp"
+        },
+        "Link": {
+            "wordRoot": "Link",
+            "wordDefinition": "A chain is a series of connected links that are often used for support or to transmit mechanical power. Chains are commonly found in machines, bicycles, and as a security measure for locking something up.\n\nA link is a single component of a chain, usually made of metal, that is used to connect the chain's components. Links are often used in jewelry, keychains, and as connectors.\n\nA chain is made up of links, and these links are the individual components that make up a chain.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0c7c1e0d-4ca1-40ca-bca9-92fce4b1a509.webp"
+        },
+        "Network": {
+            "wordRoot": "Network",
+            "wordDefinition": "A network is a group or system of interconnected things or people that are connected in multiple directions.\n\nAn example of a network would be a social network or a computer network.\n\nA network combines multiple connections in different directions and allows for communication or exchange of information between the connected components.\n\nA chain is a linear connection while a network is a complex and more elaborate system of connections in multiple directions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/da78fbaf-b114-430e-a3dc-277903122bdb.webp"
+        },
+        "Rope": {
+            "wordRoot": "Rope",
+            "wordDefinition": "A chain is made up of metal links that are connected together, while a rope is made up of fibers that are twisted or braided together.\n\nChains are typically stronger and more durable than ropes, but ropes are more flexible and easier to handle. Chains are often used for heavy-duty tasks like towing or securing heavy loads, while ropes are often used for activities like climbing, sailing, or tying down lighter objects.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e1bebe1c-abff-4088-a793-14b73f04a5eb.webp"
+        },
+        "Series": {
+            "wordRoot": "Series",
+            "wordDefinition": "Chain typically refers to a linked or connected set of objects or events, whereas the word series refers to a sequence of related things.\n\nFor example, a chain can refer to a series of metal links that are connected to each other, while a series might refer to a set of books or a TV show that follows a particular storyline.\n\nThe word chain describes physical objects that are connected or linked together, while the word series describes abstract concepts or ideas that are connected in a particular order or sequence.\n\nHowever, there can be overlap between the two words depending on the context. For instance, a chain of events could be described as a series of incidents that are linked together in a particular way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d50c2717-e2a2-4da9-a5dd-92c52c86ac9e.webp"
+        },
+        "String": {
+            "wordRoot": "String",
+            "wordDefinition": "A chain is a series of connected links or rings made of metal, while a string is a thin, flexible piece of material (such as thread or cord) made of various materials like cotton, nylon, or silk.\n\nStrings are usually used for lighter tasks, such as tying packages, threading beads, or sewing fabric. They are also used for decoration, musical instruments, and as clothing accessories.\n\nStrings are flexible and bendable, which makes them easier to knot and drape.\n\nBoth chains and strings have their own unique features and are used for different purposes. So, depending on the specific use, either a chain or a string can be more applicable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cabfbeaa-8753-4b62-a85d-0c3a94de65e3.webp"
+        },
+        "Tie": {
+            "wordRoot": "Tie",
+            "wordDefinition": "Tie, on the other hand, refers to a piece of material, such as a rope, cord, or string, that is used to bind or fasten something together.\n\nTies are often used to hold pieces of clothing or accessories together, or to secure something loosely in place.\n\nA chain is used to provide a strong, unyielding hold whereas a tie is used to provide a more flexible and adjustable hold.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b4df0528-e328-4e48-a632-1a2eddda800b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Caring for reptiles? Yeah. The care requirements are pretty vast. Most of the time when you get a reptile, it's basically up to you to do that research. And then one of the biggest issues is that a lot of especially like chain pet stores, they'll give out little pamphlets with little booklets of care, and that care is super outdated.",
+            "Title": "The Reality Behind...",
+            "VideoId": "r-Do3cRZCWM",
+            "Controls": "start=256"
+        },
+        {
+            "Text": " that holds the rest of the molecule together. The three long chains on the right are called fatty acids, and it's subtle differences in the structures of these chains that determine whether a fat is, let's say, solid or liquid; whether or not it goes rancid quickly; and, most importantly, how good or how bad it is for you.",
+            "Title": "What is fat? - George...",
+            "VideoId": "QhUrc4BnPgg",
+            "Controls": "start=55"
+        },
+        {
+            "Text": " spiraling around the chain, and the bond between carbon and fluorine is incredibly tight. Like a couple that ignores everyone except each other, carbon and fluorine interact so strongly that the normal, intermolecular forces that help substances stick to each other don't stand a chance.",
+            "Title": "Why doesn’t anything...",
+            "VideoId": "uXaP43Zbz7U",
+            "Controls": "start=113"
+        },
+        {
+            "Text": " to scatter and slow down neutrons just enough to increase their capture by uranium and raise the rate of fission. Modern reactors commonly use purified water as a moderator, but the scattered neutrons are still a little too fast. To compensate and keep up the chain reaction,",
+            "Title": "How do nuclear power...",
+            "VideoId": "R7WPEYGr1Vs",
+            "Controls": "start=199"
+        },
+        {
+            "Text": " When bacteria digest fiber, they produce short chain fatty acids that nourish the gut barrier, improve immune function, and can help prevent inflammation, which reduces the risk of cancer. And the more fiber you ingest, the more fiber-digesting bacteria colonize your gut.",
+            "Title": "How the food you eat...",
+            "VideoId": "1sISguPDlhY",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " with no knowledge of the outside world. They are chained, facing a wall, unable to turn their heads, while a fire behind them gives off a faint light. Occasionally, people pass by the fire, carrying figures of animals and other objects that cast shadows on the wall.",
+            "Title": "Plato’s Allegory of the...",
+            "VideoId": "1RWOpQXTltA",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " where we ended up watching helplessly from the water as bears ravaged our camp site. They walked off with our food and bits of our tent, clearly letting us know that we were at the bottom of the food chain and that this was their spot, not ours. But to me, that trip",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=372"
+        },
+        {
+            "Text": " cycle of fire for the circle of life but we got a lot - we got small guts and big heads because we could cook food we went to the top of the food chain because we could cook landscapes and now we've become a geologic force because we've",
+            "Title": "How fire shapes...",
+            "VideoId": "LPC7UQyQQhQ",
+            "Controls": "start=157"
+        },
+        {
+            "Text": " which are built out of both amino acids and sugars. In mucin, long chains of sugars are attached to specific amino acids in the protein backbone. The hydrophilic sugar chains help mucin dissolve in your body's watery fluids.",
+            "Title": "How mucus keeps us...",
+            "VideoId": "WW4skW6gucU",
+            "Controls": "start=84"
+        },
+        {
+            "Text": " well you only got three chords ah we'll make them sound like a million bucks chain change in recognition of all you've done the people of the world hereby crown you queen also",
+            "Title": "Genius: Aretha Chain of...",
+            "VideoId": "ryGpdVuuq_Y",
+            "Controls": "start=27"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brian-michael-smith.webp",
+            "Text": "I wanted to play characters that were going to make me better and really challenge me to raise my skill level up or that were just interesting to me personally. I want to be the best actor I can be, and I want to be the most creative actor I can be. I want to take on roles that will move the chain to where I finally want to go.",
+            "Title": "",
+            "Name": "Brian Michael Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-pollan.webp",
+            "Text": "I probably spend more on food than a lot of people, and I feel good about the whole food chain I'm supporting when I'm doing it. But even I have to remind myself. I'm always complaining about the prices at the farmer's market.",
+            "Title": "American Educator",
+            "Name": "Michael Pollan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kelela.webp",
+            "Text": "It is very rare that I am just coming up with melodies off the top of my head. I usually am responding to something - it could be chains dragging on the floor - but I am usually responding to something.",
+            "Title": "American Musician",
+            "Name": "Kelela"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/andrew-ng.webp",
+            "Text": "The most trusted way to keep moving up that value chain is to keep investing in individuals - to help them grow in knowledge and skills. Education is hard. It takes individuals to do the hard work.",
+            "Title": "Chinese Scientist",
+            "Name": "Andrew Ng"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jocko-willink.webp",
+            "Text": "Your success, or lack of success, is your responsibility. Even when you have a chain of command that you don't like as well, its your responsibility to work with the up chain of command.",
+            "Title": "American",
+            "Name": "Jocko Willink"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-rollins.webp",
+            "Text": "Rarely do I do film press because I'm so low on the food chain of the movie, and for me it's just this thing I did for four weeks before the next tour started.",
+            "Title": "American Musician",
+            "Name": "Henry Rollins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/paolo-bacigalupi.webp",
+            "Text": "A wise human would have an understanding of the supply chain and how the pieces fit together. But it's against our nature to think about it.",
+            "Title": "American Writer",
+            "Name": "Paolo Bacigalupi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-james.webp",
+            "Text": "A chain is no stronger than its weakest link, and life is after all a chain.",
+            "Title": "American Philosopher",
+            "Name": "William James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/truman-capote.webp",
+            "Text": "Love is a chain of love as nature is a chain of life.",
+            "Title": "American Novelist",
+            "Name": "Truman Capote"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zara-larsson.webp",
+            "Text": "I think life is a chain of events.",
+            "Title": "Swedish Musician",
+            "Name": "Zara Larsson"
+        }
+    ]
+}

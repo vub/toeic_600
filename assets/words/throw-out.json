@@ -1,0 +1,173 @@
+{
+    "currentWord": {
+        "wordRoot": "throw out",
+        "id": 50986,
+        "phonemic": "|\r",
+        "bigId": "a8b5a2be-38c4-4f88-97f2-c144c6c8358a",
+        "wordForms": [
+            "throw out"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a8b5a2be-38c4-4f88-97f2-c144c6c8358a",
+            "de": "To remove or dispose of something.",
+            "ty": "verb",
+            "ex": "If the milk smells bad, then throw it out.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "throw out trash",
+                " throw out food",
+                " throw out old clothes"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a8b5a2be-38c4-4f88-97f2-c144c6c8358a.webp",
+            "Tips": [
+                {
+                    "title": "Physical Disposal",
+                    "description": "Use 'throw out' when talking about physically putting something in the trash.",
+                    "example": "I need to throw out these wilted flowers.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/iD4pyWklxZgacEOrmvwOEsJ6R2I.webp"
+                },
+                {
+                    "title": "Metaphorically Remove",
+                    "description": "It can be used metaphorically to suggest ending or discarding an idea.",
+                    "example": "Let's throw out our current plans and make new ones.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9lnevtWj6Y5gdDT5iBwjVeyz44.webp"
+                }
+            ]
+        },
+        {
+            "id": "80394776-8214-44cc-844a-48a4fcfee60e",
+            "de": "To remove someone from a place or event.",
+            "ty": "verb",
+            "ex": "He was thrown out of the club for bad behavior.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "throw out of school",
+                " throw out of the house",
+                " throw out of the party"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/80394776-8214-44cc-844a-48a4fcfee60e.webp",
+            "Tips": [
+                {
+                    "title": "Forceful Removal",
+                    "description": "Implies someone was removed against their will, often due to a rule violation.",
+                    "example": "She was thrown out for sneaking in snacks.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Location Specific",
+                    "description": "Often used with locations, indicating where the person is removed from.",
+                    "example": "He got thrown out of class for talking too much.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "14808e96-32b7-4234-995d-fffb95c83bd1",
+            "de": "To propose or suggest an idea or plan for consideration.",
+            "ty": "verb",
+            "ex": "Let's throw out our old strategy and start afresh.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "throw out proposal",
+                " throw out strategy",
+                " throw out suggestion"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/14808e96-32b7-4234-995d-fffb95c83bd1.webp",
+            "Tips": [
+                {
+                    "title": "Idea Introduction",
+                    "description": "Suggests offering an idea casually, not always formally prepared.",
+                    "example": "I'll throw out a couple of names for our project.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Start Discussion",
+                    "description": "Can indicate the start of a discussion or brainstorming session.",
+                    "example": "She threw out a few ideas to discuss.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ed9501c7-3b6f-42a6-b10e-1fbee76aa907",
+            "de": "To cause a fact or calculation to be inaccurate.",
+            "do": "Scientific",
+            "ty": "verb",
+            "ex": "Those outliers are throwing out our statistical data.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "throw out data",
+                " throw out result",
+                " throw out calculation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ed9501c7-3b6f-42a6-b10e-1fbee76aa907.webp",
+            "Tips": [
+                {
+                    "title": "Accuracy Impact",
+                    "description": "Indicates something that causes data or results to be incorrect or unreliable.",
+                    "example": "An error in the experiment threw out the results.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scientific Context",
+                    "description": "Most commonly used in scientific or statistical settings for this meaning.",
+                    "example": "The outlier measurements were throwing out our averages.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "9fb196fd-6ed9-4c6a-a5fa-ff488070399c",
+            "de": "To physically move body parts in an exaggerated or careless manner.",
+            "ty": "verb",
+            "ex": "She threw out her arms in surprise.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "throw out arms",
+                " throw out legs",
+                " throw out hand"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9fb196fd-6ed9-4c6a-a5fa-ff488070399c.webp",
+            "Tips": [
+                {
+                    "title": "Expressive Gestures",
+                    "description": "Describes a sudden and often impulsive bodily movement to show feeling.",
+                    "example": "He threw out his hands in frustration.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Unintentional Action",
+                    "description": "Sometimes implies an unintentional or reflexive movement.",
+                    "example": "In fright, she threw out her arms to protect herself.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {},
+    "videos": [],
+    "quotes": []
+}

@@ -1,0 +1,310 @@
+{
+    "currentWord": {
+        "wordRoot": "tier",
+        "id": 18542,
+        "phonemic": "tɪə(r)|tɪr\r",
+        "bigId": "af3c03d1-2663-41a0-aaa7-4178b9e98da8",
+        "wordForms": [
+            "tiers",
+            "tier"
+        ]
+    },
+    "senses": [
+        {
+            "id": "af3c03d1-2663-41a0-aaa7-4178b9e98da8",
+            "de": "A level or rank in a system, organization, or hierarchy.",
+            "ty": "noun",
+            "ex": "He's on the highest tier of management in the company.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "top tier",
+                " lower tier",
+                " next tier"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/af3c03d1-2663-41a0-aaa7-4178b9e98da8.webp",
+            "Tips": [
+                {
+                    "title": "Hierarchy Significance",
+                    "description": "Indicates a person or thing's position within a group or structure that often has different levels of importance.",
+                    "example": "She reached the upper tier of the company quickly due to her exceptional skills.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/UjArvtfe4z2DQ492e0yG89jCbI.webp"
+                },
+                {
+                    "title": "Power and Prestige",
+                    "description": "A tier often implies status, with higher tiers typically suggesting more power or prestige.",
+                    "example": "The VIP tier comes with exclusive benefits.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Z06AMaTaurHqzD5QtujAxAPWC54.webp"
+                },
+                {
+                    "title": "Relative Position",
+                    "description": "Emphasizes a comparative ranking, used to discuss how one entity relates to others in the hierarchy.",
+                    "example": "Our team is in the second tier of the league standings.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/t93bbsFkg6t8GEicz8lolIbTg8.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "05447ab2-7ae7-4c73-b4d3-5eb84d8ff2be",
+            "de": "Each in a series of rows, levels, or layers.",
+            "ty": "noun",
+            "ex": "The choir stood in five tiers on the concert stage.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "top tier",
+                " second tier",
+                " tier of seats"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/05447ab2-7ae7-4c73-b4d3-5eb84d8ff2be.webp",
+            "Tips": [
+                {
+                    "title": "Physical Arrangement",
+                    "description": "Refers to actual, physical layers or rows of objects, often suggesting a visually recognisable stepped structure.",
+                    "example": "The wedding cake had three tiers, each decorated differently.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Visibility and Access",
+                    "description": "In seating or standing arrangements, higher tiers offer a better view or signify greater importance.",
+                    "example": "The tiers at the theater allowed everyone to see the stage clearly.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "33a71147-e515-4f07-9ca8-7d2cb90e62f4",
+            "de": "A category of seats in a theater, or a section of a stadium.",
+            "ty": "noun",
+            "ex": "We booked tickets for the upper tier.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "upper tier",
+                " lower tier",
+                " grandstand tier"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/33a71147-e515-4f07-9ca8-7d2cb90e62f4.webp",
+            "Tips": [
+                {
+                    "title": "Seating Categories",
+                    "description": "Describes different pricing or access levels for seats, based on location in a venue.",
+                    "example": "Tickets in the lower tier are more expensive due to better views.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Event Hierarchy",
+                    "description": "Reflects a hierarchy of desirability; top tier seats are often considered the best.",
+                    "example": "He booked a top tier box to impress his clients.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e9962c58-8845-4782-8613-664b31498358",
+            "de": "Arrange in tiers.",
+            "ty": "verb",
+            "ex": "The audience were tiered in rows facing the stage.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "tiered seating",
+                " tiered garden",
+                " tiered structure"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e9962c58-8845-4782-8613-664b31498358.webp",
+            "Tips": [
+                {
+                    "title": "Organizational Clarity",
+                    "description": "Tiering can help clarify levels or priority in organizing people, things, or ideas.",
+                    "example": "The documents were tiered according to their confidentiality level.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Visual Appeal",
+                    "description": "A tiered design can create an attractive and practical form, such as in gardens or displays.",
+                    "example": "The tiered water fountain became the garden's centerpiece.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Category": {
+            "wordRoot": "Category",
+            "wordDefinition": "Category refers to grouping things together based on shared characteristics or qualities. For example, cars can be categorized into different types such as sedans, SUVs, or sports cars based on their features.\n\nIn summary, categories group things together based on similar characteristics, while tiers rank things within a system based on levels of performance or skill.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70c91c7a-32b9-4256-af81-912baef0aa5c.webp"
+        },
+        "Class": {
+            "wordRoot": "Class",
+            "wordDefinition": "Class refers to a group of people or things that share common qualities or characteristics. For example, in school, students are divided into different classes based on their age or subjects they are studying.\n\nClass is used to group similar things together while tier is used to arrange things based on their ranking or importance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2bd498c8-cf93-4921-b01e-802bbc33e8ee.webp"
+        },
+        "Grade": {
+            "wordRoot": "Grade",
+            "wordDefinition": "Grade typically refers to the level of a student's education or the level of quality or performance of a product or service.\n\nFor example, a student in the 9th grade is in their first year of high school and a product with a \"grade A\" rating is of superior quality.\n\nGrade tends to be used more for measuring quality or performance, while tier tends to be used more for organizing and categorizing levels or ranks.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3c899a73-a62d-43ca-b83e-e15080e2e301.webp"
+        },
+        "Level": {
+            "wordRoot": "Level",
+            "wordDefinition": "Level typically refers to a position or degree of difficulty achieved in a particular subject or activity. For example, you might be at a high level in math, indicating that you have advanced knowledge and abilities in that subject.\n\nTier often refers to a ranking system that places things or people into different levels of importance or quality. For example, a company might have different tiers of products based on their price and features, with the top tier being the most expensive and advanced.\n\nLevel refers to a degree of proficiency or difficulty, while tier refers to a ranking system based on importance or quality.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6cd33925-0b1e-48b4-89b5-71a84e599bc7.webp"
+        },
+        "Rank": {
+            "wordRoot": "Rank",
+            "wordDefinition": "Rank describes a position in a hierarchy or arrangement based on achievement, authority or social status. For example, when soldiers are assigned to a job based on their level of experience, they are assigned a rank such as private, sergeant, or captain.\n\nRank is focused on individual achievement and status, while tier is focused on the structure or arrangement of a system or object.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f2d84053-f3cd-458d-812c-013273def8c0.webp"
+        },
+        "Row": {
+            "wordRoot": "Row",
+            "wordDefinition": "Row refers to a series of things arranged side by side horizontally, like a row of chairs or a row of houses on a street.\n\nYou use the word row when you talk about things that are arranged side by side in a straight line, and you use the word tier when you talk about things that are stacked, one above the other, like a tower.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b25bca5d-0de4-49ed-a0ab-75fa58d5a52f.webp"
+        },
+        "Stage": {
+            "wordRoot": "Stage",
+            "wordDefinition": "Stage refers to a specific point in a process or development. For example, the stages of human life are infancy, childhood, adolescence, and adulthood.\n\nSo, while both words refer to levels or steps of some sort, stage specifically refers to a point in a process, while tier refers to a layer in a hierarchical arrangement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cdab5339-b066-4140-9c20-1923103fcda3.webp"
+        },
+        "Stratum": {
+            "wordRoot": "Stratum",
+            "wordDefinition": "Stratum refers to a layer or level of something that is stacked on top of each other.\n\nStratum refers to physical layers while tier refers to organized levels or groups.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/41b5cbf7-f297-486c-bf8c-0eeb80a49ddb.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " calving goose mbz transplant tier Conservation Area the largest such conservation area in the world home to more than half of the elephants remaining on the planet it's an incredibly important landscape but I'm the kind of person that is so focused on what I'm doing my brain starts to open up on these expeditions it was one of",
+            "Title": "Tracking Plastic Sea to...",
+            "VideoId": "VaOcntBrjWg",
+            "Controls": "start=1008"
+        },
+        {
+            "Text": " and listing things like I was looking for somebody who was really smart, who would challenge and stimulate me, and balancing that with a second tier and a second set of points. These things were also important to me but not necessarily deal-breakers. So once I had all this done, I then built a scoring system,",
+            "Title": "How I hacked online...",
+            "VideoId": "d6wG_sAdP0U",
+            "Controls": "start=586"
+        },
+        {
+            "Text": " services in tier two tissue and then the group together secretes the poisons the toxins that make us sick so that's quorum sensing and so we want to be able to interfere with that conversation and so we know what the molecule is that Pseudomonas talks with it's the one that's on the left side of",
+            "Title": "Quorum sensing: Bacteria...",
+            "VideoId": "q2nWNZ-gixI",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " So as you can see, this is a frustrating topic for me, and I really try to Why the reluctance to protect and support indigenous health systems and security systems? I usually tier two concerns, two arguments. The first concern is about corruption,",
+            "Title": "Why civilians suffer...",
+            "VideoId": "I1cGiNnJZgU",
+            "Controls": "start=507"
+        },
+        {
+            "Text": " We have confused Maslow's hierarchy of needs, just a little bit. On the bottom tier, we have basic shelter, clothing, food, water, mating and so forth. security. relationships. status, self-esteem -- that is, vanity --",
+            "Title": "Dan Phillips: Creative...",
+            "VideoId": "gVLu99Ja2mA",
+            "Controls": "start=905"
+        },
+        {
+            "Text": " the missing bones then he'll have to choose poses that reflect the latest scientific thinking on how these animals stood and moved and with three tier X's on a single platform he'll even be considering how",
+            "Title": "Dinosaurs: The Facts and...",
+            "VideoId": "Z7FXf77pqis",
+            "Controls": "start=211"
+        },
+        {
+            "Text": " an architectural revolution. Djoser's six tier giant wasn't just the first pyramid. It was the world's first monumental structure built in stone. Over the next century, Egypt's kings develop the concept,",
+            "Title": "The Evolution of Ancient...",
+            "VideoId": "TMkoX1kfyDs",
+            "Controls": "start=153"
+        },
+        {
+            "Text": " The world is now one big small town. But within that virtual town square, there are tiers of relationships, degrees of intimacy, and everyone deserves a different amount of you, a different side.",
+            "Title": "Bryce Dallas Howard: How...",
+            "VideoId": "G-lWWxJPfFo",
+            "Controls": "start=396"
+        },
+        {
+            "Text": " needs just a little bit on the bottom tier we have basic needs shelter clothing food water mating so forth second security third relationships fourth status self-esteem that is vanity and we're",
+            "Title": "Creative houses from...",
+            "VideoId": "owbfNJMumEs",
+            "Controls": "start=909"
+        },
+        {
+            "Text": " on the yard and on the tiers the games are a visible presence and for those who choose it a way of life many are doing what's called flat time a tough group to",
+            "Title": "Gangsters in Lockup PIPE...",
+            "VideoId": "f9Q8sEW5lBk",
+            "Controls": "start=0"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-platt.webp",
+            "Text": "Unsurprisingly, an uninterruptible power supply (UPS) - once a luxury for room-sized computer installations - is now a standard item both in home offices and all the networked tiers above, protecting servers and online service providers, Internet backbones, phone companies, and even cable TV networks.",
+            "Title": "English Author",
+            "Name": "Charles Platt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-holbrooke.webp",
+            "Text": "There are certain kinds of second-tier confrontations which the U.S. does not need to get directly involved in. However, even in the second tier of problems, our intervention as a friend to both sides is important.",
+            "Title": "American Public Servant",
+            "Name": "Richard Holbrooke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmy-iovine.webp",
+            "Text": "A chart that weighs some ad-supported streams the same as a pay stream... encourages artists to promote free tiers to have a No. 1 record. That's great for the tech companies, but not for artists.",
+            "Title": "American Producer",
+            "Name": "Jimmy Iovine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ivan-glasenberg.webp",
+            "Text": "What are we focused on? Return on equity. We don't need these great big tier one assets. I'm very happy with getting tier two, tier three assets; that's what Glencore has been good at.",
+            "Title": "South African Businessman",
+            "Name": "Ivan Glasenberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sellapan-ramanathan.webp",
+            "Text": "My own perception is that there are two tiers of countries, one, the original ASEAN, and then the new members. The new members are in various stages of development.",
+            "Title": "Statesman",
+            "Name": "Sellapan Ramanathan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/graham-potter.webp",
+            "Text": "My situation, and my opportunity, was the fourth tier in Swedish football and a place that nobody really wanted to go to. Of course it's turned out well for me.",
+            "Title": "English Businessman",
+            "Name": "Graham Potter"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chuka-umunna.webp",
+            "Text": "People may not know what tier of government has competence over which policy area but they do draw a distinction between the local and the national.",
+            "Title": "British Politician",
+            "Name": "Chuka Umunna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/travis-scott.webp",
+            "Text": "Cudi should be a top tier artist... I think he fathered a lot of the style of music. He's a good influence and a good help.",
+            "Title": "American Rapper",
+            "Name": "Travis Scott"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-shatner.webp",
+            "Text": "When there are tiers of meaning in an ad it intrigues the audience and they look for it again and again.",
+            "Title": "Canadian Actor",
+            "Name": "William Shatner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jason-jordan.webp",
+            "Text": "I think NXT can definitely carry the burden of producing top tier talent.",
+            "Title": "American Wrestler",
+            "Name": "Jason Jordan"
+        }
+    ]
+}

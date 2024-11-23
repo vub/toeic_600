@@ -1,0 +1,281 @@
+{
+    "currentWord": {
+        "wordRoot": "priority",
+        "id": 17001,
+        "phonemic": "praɪˈɒrəti|praɪˈɔːrəti\r",
+        "bigId": "044ca1a9-3804-49cd-8bd7-51e57fe92bcf",
+        "wordForms": [
+            "priorities",
+            "priority"
+        ]
+    },
+    "senses": [
+        {
+            "id": "044ca1a9-3804-49cd-8bd7-51e57fe92bcf",
+            "de": "Something that is considered more important than other matters",
+            "ty": "noun",
+            "ex": "Safety is our top priority.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "top priority",
+                " give priority",
+                " high priority"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/044ca1a9-3804-49cd-8bd7-51e57fe92bcf.webp",
+            "Tips": [
+                {
+                    "title": "Setting Priorities",
+                    "description": "The word 'priority' can express the importance of doing one task before others.",
+                    "example": "Finishing my homework is my priority tonight.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/4woRMgozR4EPTre7zVhZZOxHcwU.webp"
+                },
+                {
+                    "title": "Value Judgment",
+                    "description": "'Priority' often implies a decision based on what's valued more.",
+                    "example": "In our team, clear communication is a higher priority than speed.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/piufiMSQ9f94hgxQMeSHkh08Jo.webp"
+                },
+                {
+                    "title": "Urgency Indication",
+                    "description": "Using 'priority' suggests a sense of urgency or necessity for something.",
+                    "example": "Getting to the airport on time is our priority.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JmQSV4wFA4PVwzYhutcp6UuPkE.webp"
+                }
+            ]
+        },
+        {
+            "id": "2abab917-5514-4c8d-a80b-fddc73db1925",
+            "de": "The right to precede others in order, rank, privilege, etc.",
+            "ty": "noun",
+            "ex": "The ambulance was given priority over other vehicles.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "give priority",
+                " priority over",
+                " priority seating"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2abab917-5514-4c8d-a80b-fddc73db1925.webp",
+            "Tips": [
+                {
+                    "title": "Rank Signifier",
+                    "description": "'Priority' can indicate that one person or group is ranked above another in a specific context.",
+                    "example": "Members have priority seating at the event.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Special Entitlement",
+                    "description": "The term suggests having special rights or services that others might not have.",
+                    "example": "First-class passengers have boarding priority.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3c007c9b-930f-494f-8e4f-8472b94f9eb3",
+            "de": "Importance given to a process that affects the order in which processors are allocated",
+            "do": "computing",
+            "ty": "noun",
+            "ex": "The system assigns priority to processes according to their importance.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "assign priority",
+                " priority scheduling",
+                " priority queue"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3c007c9b-930f-494f-8e4f-8472b94f9eb3.webp",
+            "Tips": [
+                {
+                    "title": "Task Importance",
+                    "description": "In computing, 'priority' shows the level of importance given to a task by the system.",
+                    "example": "Priority determines which process the CPU handles first.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Order of Execution",
+                    "description": "'Priority' in computing often deals with the sequence in which tasks are performed.",
+                    "example": "Priority queues ensure critical tasks are completed first.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Emphasis": {
+            "wordRoot": "Emphasis",
+            "wordDefinition": "Emphasis is a way of showing importance or significance. We use emphasis to put more attention on a specific thing or idea, often by stressing or repeating it.\n\nEmphasis is used to draw attention to something specific, while priority is used to determine the order in which things need to be done.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14114692-e5a2-4dbe-92d2-fb659990c9b4.webp"
+        },
+        "Important": {
+            "wordRoot": "Important",
+            "wordDefinition": "Important refers to something that holds significant value or relevance. It concerns the significance an action or person holds.\n\nFor example, health is important, education is important.\n\nPriority refers to the task that requires immediate attention or considered most important. It concerns the actions taken on important things, and how you organize them.\n\nIn general, something can be important to you or to a project, but a priority are the immediate actions you take on important matters.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b7874512-abf0-477a-93be-7fb406dab70e.webp"
+        },
+        "Precedence": {
+            "wordRoot": "Precedence",
+            "wordDefinition": "Precedence refers to a situation where something is considered to be more important or valuable than something else based on its order or rank.\n\nFor example, in a line of people waiting to enter a concert, those who arrived first would have precedence over those who arrived later.\n\nPrecedence is applicable when there is a clear order or ranking of importance, while priority is applicable when the urgency or importance of something needs to be assessed in a more flexible manner.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6a5f681a-14aa-4353-9665-129ec9e7e73c.webp"
+        },
+        "Preference": {
+            "wordRoot": "Preference",
+            "wordDefinition": "Preference refers to something that we like or enjoy more than something else. For example, we might have a preference for pizza over burgers.\n\nPreference is about what we like more, while priority is about what needs to be done first.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9bb7795-be23-400e-a11e-a15a9b219e7b.webp"
+        },
+        "Primacy": {
+            "wordRoot": "Primacy",
+            "wordDefinition": "Primacy refers to being first in importance, rank, or degree. For example, a country may have primacy in a certain field or a person may have primacy in a relationship.\n\nSo, basically, primacy refers to the position of being the most important, while priority refers to the act of treating something as the most important.\n\nBoth words can be applicable in different scenarios, but primacy emphasizes a position or status, while priority emphasizes an action or decision.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/53bfdeab-84ed-45d5-ab2a-649bacb66315.webp"
+        },
+        "Significance": {
+            "wordRoot": "Significance",
+            "wordDefinition": "Significance refers to the level of importance or impact something holds in the grand scheme of things. For example, discovering a cure for cancer would have significant impact on the world.\n\nBoth words are applicable in different contexts. Priority is applicable in situations where time is a constraint and actions need to be taken quickly, while significance is applicable in situations where the impact of something is being evaluated.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/24a5484c-1df8-4085-99cb-2bbaba1e6dda.webp"
+        },
+        "Urgency": {
+            "wordRoot": "Urgency",
+            "wordDefinition": "Urgency refers to how quickly a task needs to be completed. Urgent tasks are usually time-sensitive and require immediate attention.\n\nIn simpler terms, priority is about deciding which task is more important while urgency is about deciding which task needs to be done first because of a deadline or time constraint.\n\nBoth priority and urgency are important concepts when managing tasks and deciding how to allocate time and resources. Identifying the priority and urgency of a task can help you decide which tasks are most important to tackle first.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70edf438-785d-4e62-83f3-f81bb4051521.webp"
+        },
+        "Weight": {
+            "wordRoot": "Weight",
+            "wordDefinition": "Weight typically describes the heaviness of an object or the force of something pushing down on a surface. For example, if you are lifting weights at the gym, you might use heavier weights to challenge your muscles.\n\nBoth words can be used in different contexts, but priority is more commonly associated with decision making and time management, while weight is more commonly associated with physical objects and physics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/19ead3f8-e96a-4169-883b-8c02fc670a50.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " but if you don't restrain the hands of the violent bullies from taking it all away, you're going to be very disappointed in the long-term impact of your efforts. So you would think that the disintegration of basic law enforcement in the developing world would be a huge priority for the global fight against poverty.",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=816"
+        },
+        {
+            "Text": " now and putting it into a global fund, and we've got the best prostate cancer scientific minds in the world that look after that fund, and they come together each year and identify the number one priority, and that, last year, was getting a better screening test. So they identified that as a priority, and then",
+            "Title": "Adam Garone: Healthier...",
+            "VideoId": "sFNmulAb4wM",
+            "Controls": "start=903"
+        },
+        {
+            "Text": " It can help us determine when a work was written, whether an ancient text is a forgery, whether a student has committed plagiarism, or if that email you just received is of a high priority or spam. And does the timeless poetry of Shakespeare's lines just boil down to numbers and statistics? Not quite.",
+            "Title": "Did Shakespeare write...",
+            "VideoId": "K-aAUwAFZlQ",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " on doing very little good? Or half the amount on doing an amazing amount of good? And that is really why it becomes a bad project. It's not to say that if we had all the money in the world, we wouldn't want to do it. But it's to say, when we don't, it's just simply not our first priority.",
+            "Title": "Bjorn Lomborg: Global...",
+            "VideoId": "Dtbn9zBfJSs",
+            "Controls": "start=476"
+        },
+        {
+            "Text": " it's hoped that one day even the orphaned orangutans raised in forest school can make a similar journey but loner's priority is to get adult orangutans like mustapha out first he's had minimal human contact so a better chance of survival",
+            "Title": "Incredible Orangutan...",
+            "VideoId": "lG491lUjDDQ",
+            "Controls": "start=666"
+        },
+        {
+            "Text": " would go out to bars and party nightly and having bad hair and working out was literally a priority for me at the time as long as we could party chase girls and goof off which we definitely did a lot of things seemed good life seemed",
+            "Title": "How math saved my life PIPE...",
+            "VideoId": "GDU7lEmiiD8",
+            "Controls": "start=140"
+        },
+        {
+            "Text": " and make the world more just as well as more safe. So I think this should absolutely be a priority. There's no need to panic. We don't have to hoard cans of spaghetti or go down into the basement.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=469"
+        },
+        {
+            "Text": " top priority i have i would have is is eliminating the the spammings and scam bots and the bot armies that are on twitter you know i think i think these these fun influence that",
+            "Title": "Elon Musk talks Twitter,...",
+            "VideoId": "cdZZpaB2kDM",
+            "Controls": "start=1416"
+        },
+        {
+            "Text": " cat safety is our our most important priority as the cat walks through here it's gonna stuff here here here and it's",
+            "Title": "See Why the Mysterious...",
+            "VideoId": "5gguoyHTEoU",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " this could mean trouble breeze is now hamatan's priority and she's determined to protect her",
+            "Title": "Elephant Calf Jealous Of...",
+            "VideoId": "RyeFOBpj1Zg",
+            "Controls": "start=163"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-obama.webp",
+            "Text": "When I get up and work out, I'm working out just as much for my girls as I am for me, because I want them to see a mother who loves them dearly, who invests in them, but who also invests in herself. It's just as much about letting them know as young women that it is okay to put yourself a little higher on your priority list.",
+            "Title": "American First Lady",
+            "Name": "Michelle Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yoko-ono.webp",
+            "Text": "The whole world is starting to realize that it was the most unwise thing for our society to have ignored women power, to run the society with male priorities.",
+            "Title": "American Artist",
+            "Name": "Yoko Ono"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/angela-merkel.webp",
+            "Text": "Whoever decides to dedicate their life to politics knows that earning money isn't the top priority.",
+            "Title": "German Statesman",
+            "Name": "Angela Merkel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-arthur-ward.webp",
+            "Text": "Wise are those who learn that the bottom line doesn't always have to be their top priority.",
+            "Title": "American Writer",
+            "Name": "William Arthur Ward"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/helen-skelton.webp",
+            "Text": "My kids are my priority, then my husband, then my life, then work.",
+            "Title": "English Entertainer",
+            "Name": "Helen Skelton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zoe-foster-blake.webp",
+            "Text": "It's important to show each other your marriage is a priority.",
+            "Title": "Australian Author",
+            "Name": "Zoe Foster Blake"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rick-warren.webp",
+            "Text": "Living in the light of eternity changes your priorities.",
+            "Title": "American Writer",
+            "Name": "Rick Warren"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/omarosa-manigault-newman.webp",
+            "Text": "I believe that we should keep the truth as a priority.",
+            "Title": "American Celebrity",
+            "Name": "Omarosa Manigault Newman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/orlando-bloom.webp",
+            "Text": "My first priority is trying to protect my family.",
+            "Title": "English Actor",
+            "Name": "Orlando Bloom"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ryan-kwanten.webp",
+            "Text": "Sleep has never been a priority in my life.",
+            "Title": "Australian Actor",
+            "Name": "Ryan Kwanten"
+        }
+    ]
+}

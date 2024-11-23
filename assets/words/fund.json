@@ -1,0 +1,307 @@
+{
+    "currentWord": {
+        "wordRoot": "fund",
+        "id": 9494,
+        "phonemic": "fʌnd|fʌnd\r",
+        "bigId": "76ee58cc-682d-4ab3-ae9d-8fbb4f6713db",
+        "wordForms": [
+            "funds",
+            "funding",
+            "funded",
+            "funder",
+            "unfunded",
+            "funders",
+            "defund",
+            "defunding",
+            "fund"
+        ]
+    },
+    "senses": [
+        {
+            "id": "76ee58cc-682d-4ab3-ae9d-8fbb4f6713db",
+            "de": "An amount of money saved or collected for a specific purpose",
+            "ty": "noun",
+            "ex": "The money from the fundraiser was added to the school's science fund.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "investment fund",
+                " mutual fund",
+                " trust fund"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/76ee58cc-682d-4ab3-ae9d-8fbb4f6713db.webp",
+            "Tips": [
+                {
+                    "title": "Purpose Highlighting",
+                    "description": "Emphasize that the fund is set aside for a specific goal.",
+                    "example": "The marathon raised £10,000 for the city's beautification fund.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Y4ntCgq702f373p9mTDJP1Amkg.webp"
+                },
+                {
+                    "title": "Large Scale Use",
+                    "description": "Often used for significant sums and major projects or needs.",
+                    "example": "John donated part of his inheritance to the university's endowment fund.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JamwPHqahssKQchV2W55EN6i5tY.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "a6d76278-b7d0-4caf-acfd-09cb3670dfc3",
+            "de": "To provide money for something, typically a project or business",
+            "ty": "verb",
+            "ex": "The government funds the research into renewable energy sources.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fund a project",
+                " fund research",
+                " fund development"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a6d76278-b7d0-4caf-acfd-09cb3670dfc3.webp",
+            "Tips": [
+                {
+                    "title": "Backend Process",
+                    "description": "Understand that to fund is usually an ongoing support, not a one-time event.",
+                    "example": "Her company was funded by a group of angel investors over several years.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7c888c9a-dad6-433e-8837-7b3d34cc83a5",
+            "de": "A specific type of investment",
+            "ty": "noun",
+            "ex": "My brother works for a hedge fund.",
+            "use": "",
+            "co": "Financial",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "hedge fund",
+                " mutual fund",
+                " investment fund"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7c888c9a-dad6-433e-8837-7b3d34cc83a5.webp",
+            "Tips": [
+                {
+                    "title": "Profit Driven",
+                    "description": "Investment funds are focused on growing capital and may involve risk.",
+                    "example": "He invested in a mutual fund to save for retirement.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specialist Knowledge",
+                    "description": "Understanding investment funds might require financial expertise.",
+                    "example": "The financial advisor explained how the bond fund works.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "2784fa03-cec8-457c-84ea-d2e8f5f3f8f8",
+            "de": "An organization that collects money to give to those who need it",
+            "ty": "noun",
+            "ex": "The Red Cross is an international fund that helps in disaster relief.",
+            "use": "",
+            "co": "Charity",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "international fund",
+                " charitable fund",
+                " relief fund"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2784fa03-cec8-457c-84ea-d2e8f5f3f8f8.webp",
+            "Tips": [
+                {
+                    "title": "Philanthropic Connection",
+                    "description": "A fund in a charitable context often reflects compassion and support for a cause.",
+                    "example": "She set up a fund to provide scholarships for underprivileged children.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Charity Transparency",
+                    "description": "When discussing charitable funds, the focus is often on trust and how money is used.",
+                    "example": "The wildlife fund publishes detailed reports on their spending.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Asset": {
+            "wordRoot": "Asset",
+            "wordDefinition": "An asset is something that has value and can be owned or controlled to produce a positive economic benefit. It could be physical, like a house or car, or financial, like stocks and bonds.\n\nAssets can be owned by individuals or organizations.\n\nFunds may contain assets, but they are not the same thing.\n\nA fund is a financial tool used to manage and distribute money, while an asset is an item of value.\n\nApplying them depends on the context. Assets are commonly used in personal finance and business to refer to physical or financial resources that can generate income or provide value.\n\nFunds are often used in finance to refer to a collection of assets that have been pooled, such as mutual funds or hedge funds.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/73590cc4-a025-4748-bfb8-4f0d0c582013.webp"
+        },
+        "Capital": {
+            "wordRoot": "Capital",
+            "wordDefinition": "Capital is money or other assets used to start or grow a business, while a fund is a pool of money set aside for a specific purpose or goal, such as investing or charitable causes.\n\nCapital is often used in reference to the initial investment needed to start a business, while a fund is used to refer to money that is being collected or raised over time.\n\nCapital is applicable in the context of starting or growing a business, while a fund can be used for a variety of purposes, including investing, philanthropy, and more.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e9fecac4-60fc-4ffa-92dd-0b2377214b17.webp"
+        },
+        "Endow": {
+            "wordRoot": "Endow",
+            "wordDefinition": "Endow means to give someone or something a permanent source of income or resources. For example, if a wealthy person donates money to a university to create a scholarship, they are endowing that scholarship to provide for future students.\n\nTo summarize, endow refers to creating a permanent source of money or resources, while fund refers to providing money or resources for a specific purpose or project.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d2fe25ba-c8d8-4766-9ee0-42aed8180ae5.webp"
+        },
+        "Finance": {
+            "wordRoot": "Finance",
+            "wordDefinition": "Finance refers to the management of money, such as budgeting, investing, and accounting. It is applicable in both personal and business contexts.\n\nIn simpler terms, finance is about managing money in general, while funding is about providing money for a specific purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c96db670-6025-4a31-ad81-31e1558cc5ce.webp"
+        },
+        "Investment": {
+            "wordRoot": "Investment",
+            "wordDefinition": "An investment is the act of putting money into something in the hope of making a profit. It typically involves the purchase of assets such as stocks, bonds, real estate, or commodities.\n\nA fund is a pool of money contributed for a particular purpose, while an investment is an individual's decision to place money into an asset in the hope of generating a return.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e661f24a-635e-4fbc-abc9-249ad780bc77.webp"
+        },
+        "Reserve": {
+            "wordRoot": "Reserve",
+            "wordDefinition": "A reserve is money that is kept aside for emergency purposes, to cover unexpected expenses or losses.\n\nA fund is used to invest or save for a specific purpose, while a reserve is used to ensure financial stability in case of unexpected events.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b08ab217-57c0-4016-b277-0569c844a318.webp"
+        },
+        "Resource": {
+            "wordRoot": "Resource",
+            "wordDefinition": "A resource refers to any asset or material that can be used to achieve a particular objective.\n\nResources can be physical (like land or raw materials) or non-physical (like knowledge or expertise).\n\nThey are generally seen as more broad than funds - a resource might include something like a pool of skilled workers or a library of research materials.\n\nIn summary, funds refer specifically to financial assets, while resources are a more general term that can refer to a wide range of assets used to achieve an objective.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0514343-9551-4fe5-b8af-31d8624da6ca.webp"
+        },
+        "Treasury": {
+            "wordRoot": "Treasury",
+            "wordDefinition": "Treasury usually refers to the government department responsible for managing a country's finances, including collecting taxes, issuing bonds, and managing the national debt.\n\nThe Treasury also manages the country's reserve of foreign currency and gold.\n\nA fund generally refers to a collection of money for a specific purpose, while the treasury refers to the department responsible for managing a country's overall financial assets and liabilities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/12b40ce2-9e4f-4d66-877f-14c5a6da837b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " In spite of these limitations, it actually would be possible to power the entire world with today's solar technology. We'd need the funding to build the infrastructure and a good deal of space. Estimates range from tens to hundreds of thousands of square miles, which seems like a lot,",
+            "Title": "How do solar panels...",
+            "VideoId": "xKxrkht7CpY",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " important one specific example I went to grad school at Stanford a few years before me there was this guy who was on he was funded through a NASA fellowship doing something with computer knowledge etc and and autonomy and whatever and he then dropped out of grad school to start",
+            "Title": "Solar System Exploration:...",
+            "VideoId": "htOtW0pD92Y",
+            "Controls": "start=1548"
+        },
+        {
+            "Text": " it's being funded by the local hospital to this day it's booked out three to four months in advance to this day we have scratch cooking in every school in that district to this day okay what's beautiful it's the town is fixing itself it's not me I'm not a superhero right",
+            "Title": "Launching a Food...",
+            "VideoId": "QwCCBsANmCY",
+            "Controls": "start=68"
+        },
+        {
+            "Text": " working with a researcher in a wheelchair doesn't actually cost the production any more money thanks to access to work which is a government scheme which provides funding to enable disabled people to carry out their work and this can be in the form of a support",
+            "Title": "Can you make a wildlife...",
+            "VideoId": "y1_m7sDvsFY",
+            "Controls": "start=79"
+        },
+        {
+            "Text": " in how we do science. Researchers, the institutions that employ them, and the scientific journals that publish findings are expected to produce big results frequently. Important papers can advance careers, generate media interest, and secure essential funding,",
+            "Title": "Is there a reproducibilit...",
+            "VideoId": "FpCrY7x5nEE",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " processed it, and put that plasma back in people to protect them. But that was never tried. So there was a lot that was missing. And these things are really a global failure. The WHO is funded to monitor epidemics, but not to do these things I talked about.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=163"
+        },
+        {
+            "Text": " and are fully dependent on humanitarian aid. In addition, far too many refugee children are out of school due to lack of funding for education programs. If you go back in your own family history, chances are you will discover that at a certain point,",
+            "Title": "What does it mean to be...",
+            "VideoId": "25bwiSikRsI",
+            "Controls": "start=292"
+        },
+        {
+            "Text": " Well, let's think about Venus for a moment. Now for decades, my wife and I have been moved by common compassion to sponsor kids, to fund microloans, to support generous levels of foreign aid. But until I had actually talked to Venus,",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=334"
+        },
+        {
+            "Text": " Congress had no power to make the states comply with their laws. When the national government proved unable to raise funds, enforce foreign treaties, or suppress rebellions, it was clear reform was needed.",
+            "Title": "Why wasn’t the Bill of...",
+            "VideoId": "aMCDikASE4o",
+            "Controls": "start=61"
+        },
+        {
+            "Text": " but ultimately that's going to allow us to generate funds and support for tiger conservation giles can tell spot and striper relaxed and invites the media to get their exclusive",
+            "Title": "Best Tiger Cub Moments...",
+            "VideoId": "qg35FMoOwb0",
+            "Controls": "start=1249"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barack-obama.webp",
+            "Text": "When BP was not moving fast enough on claims, we told BP to set aside $20 billion in a fund - managed by an independent third party - to help all those whose lives have been turned upside down by the spill.",
+            "Title": "American President",
+            "Name": "Barack Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-j-orourke.webp",
+            "Text": "Call a man 'ignorant,' and you have license to show the world your vast fund of knowledge and wise him up.",
+            "Title": "American Comedian",
+            "Name": "P. J. O'Rourke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lisa-murkowski.webp",
+            "Text": "I believe it is important that Title X organizations continue to receive funding.",
+            "Title": "American Politician",
+            "Name": "Lisa Murkowski"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cal-cunningham.webp",
+            "Text": "I've, in fact, very specifically said I don't support defunding the police.",
+            "Title": "American Politician",
+            "Name": "Cal Cunningham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kay-bailey-hutchison.webp",
+            "Text": "We cannot afford to lose the Medicaid funding for low-income women.",
+            "Title": "American Politician",
+            "Name": "Kay Bailey Hutchison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-bishop.webp",
+            "Text": "Comic Relief funds projects that help lift people out of poverty.",
+            "Title": "British Comedian",
+            "Name": "John Bishop"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/daniel-boone.webp",
+            "Text": "Nature was here a series of wonders, and a fund of delight.",
+            "Title": "American Explorer",
+            "Name": "Daniel Boone"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bart-stupak.webp",
+            "Text": "Right-to-life groups won't fund us because we're Democrats.",
+            "Title": "American Politician",
+            "Name": "Bart Stupak"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/patty-jenkins.webp",
+            "Text": "It's rare that a character film is easy to fund.",
+            "Title": "American Director",
+            "Name": "Patty Jenkins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/conor-lamb.webp",
+            "Text": "I don't support defunding the police.",
+            "Title": "American Politician",
+            "Name": "Conor Lamb"
+        }
+    ]
+}

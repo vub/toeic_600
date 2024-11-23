@@ -1,0 +1,318 @@
+{
+    "currentWord": {
+        "wordRoot": "specific",
+        "id": 4081,
+        "phonemic": "spəˈsɪfɪk|spəˈsɪfɪk\r",
+        "bigId": "a367fd9b-75fc-4111-af54-8df77a989f6e",
+        "wordForms": [
+            "specifics",
+            "specifically",
+            "specific"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a367fd9b-75fc-4111-af54-8df77a989f6e",
+            "de": "Clearly and exactly presented or stated",
+            "ty": "adjective",
+            "ex": "She gave me specific instructions",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "specific instructions",
+                " specific requirements",
+                " specific details"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a367fd9b-75fc-4111-af54-8df77a989f6e.webp",
+            "Tips": [
+                {
+                    "title": "Precision Required",
+                    "description": "Use 'specific' when accuracy is crucial, like in instructions or information.",
+                    "example": "Can you provide specific times for the events?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/IiNT3SyYcrt23PymfB0slO5Ad0.webp"
+                },
+                {
+                    "title": "Avoid Vagueness",
+                    "description": "When clarity is key, 'specific' indicates that no ambiguity is acceptable.",
+                    "example": "I need a specific list of ingredients for the recipe.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qiRKqNji8UxbgJR8dVYa2O0Hk.webp"
+                }
+            ]
+        },
+        {
+            "id": "ec366425-c6bd-4312-b7e3-0da48d7789f5",
+            "de": "Connected with one particular thing only",
+            "ty": "adjective",
+            "ex": "The money is intended for specific projects",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "specific projects",
+                " specific problems",
+                " specific tasks"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ec366425-c6bd-4312-b7e3-0da48d7789f5.webp",
+            "Tips": [
+                {
+                    "title": "One Thing Only",
+                    "description": "'Specific' highlights a focus on a single item or issue among many others.",
+                    "example": "The grant was used for one specific purpose.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Exclusion Implied",
+                    "description": "Saying 'specific' can imply that everything else is excluded from the discussion.",
+                    "example": "He's got experience in specific fields, but not this one.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a724792e-22f4-429f-a9aa-55688fa08b08",
+            "de": "Special, individual, or distinct",
+            "ty": "adjective",
+            "ex": "Each of the exercises targets a specific muscle group",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "specific muscle",
+                " specific population",
+                " specific method"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a724792e-22f4-429f-a9aa-55688fa08b08.webp",
+            "Tips": [
+                {
+                    "title": "Pinpoint Uniqueness",
+                    "description": "Use 'specific' to draw attention to what makes something stand out.",
+                    "example": "The painter is known for a specific style of brushstroke.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Unique Characteristic",
+                    "description": "'Specific' can refer to something that's particularly characteristic of an individual or group.",
+                    "example": "She has a specific way of smiling.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Always Visible",
+                    "description": "Specific qualities may not be immediately observable but are identifiable upon close examination.",
+                    "example": "This bird has specific markings on its feathers.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bdf6d418-55ba-4a07-a9d2-c70610fed79f",
+            "de": "Relate to a substance's weight compared to the weight of an equal volume of water",
+            "do": "Physics",
+            "ty": "adjective",
+            "ex": "This process uses the difference in specific gravity to separate the lighter soil particles from the heavier mineral grains",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "specific gravity",
+                " specific heat",
+                " specific volume"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bdf6d418-55ba-4a07-a9d2-c70610fed79f.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Context",
+                    "description": "In subjects like physics, 'specific' takes on a technical meaning related to precise measurements.",
+                    "example": "We discussed the specific energy of different materials.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Measure Quantities",
+                    "description": "Use 'specific' for discussing proportions in scientific terms without ambiguity.",
+                    "example": "Specific volume is a property we have to calculate.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Clear": {
+            "wordRoot": "Clear",
+            "wordDefinition": "Clear means something that is easy to understand and free from confusion. It is applicable when the information or message is not complicated and can be understood easily.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3b806c66-f176-45f6-b8f8-1c8d6c8288d0.webp"
+        },
+        "Define": {
+            "wordRoot": "Define",
+            "wordDefinition": "Define means to give a clear and concise explanation or description of something.\n\nFor example, if you are asked to define the word \"apple,\" you would give a brief description of what an apple is.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a05d3748-812d-4c66-bb7b-8fc3fc0eca2d.webp"
+        },
+        "Detail": {
+            "wordRoot": "Detail",
+            "wordDefinition": "Detail refers to providing more information about a subject than what is generally known or expected. It usually involves breaking down something into smaller parts and describing each part.\n\nFor example, a detailed description of a book may include its plot, characters, and themes.\n\nSpecific refers to giving clear and precise information about a particular aspect of a subject. It focuses on one particular detail or characteristic of the subject.\n\nBoth words are applicable in different situations. Detail is generally used when you want to provide a comprehensive overview of something, while specific is used when you want to focus on one particular aspect of it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/375d984f-78ca-426f-99d0-e07c343b7623.webp"
+        },
+        "Distinct": {
+            "wordRoot": "Distinct",
+            "wordDefinition": "Distinct means different or separate from something else. For example, two people have distinct personalities. It emphasizes difference or uniqueness.\n\nTo apply these words in a simple context, imagine you are looking for a book in the library. You might ask the librarian for a distinct book on cats because you want one that stands out or is different from other books.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d4e5888d-3f86-4c3f-9102-c5eaa3f808d0.webp"
+        },
+        "Explicit": {
+            "wordRoot": "Explicit",
+            "wordDefinition": "Explicit means something that is very clear and direct, with no confusion or ambiguity. It often refers to something that is spoken or written in a blunt or straightforward manner.\n\nFor example, an explicit movie may contain scenes of violence or sexual content.\n\nBoth words can describe communication, but explicit focuses on the clarity of the message while specific focuses on the details of the message.\n\nExplicit is more applicable to situations where there may be potential misinterpretation or confusion, while specific is more applicable to situations where a narrow focus is needed to achieve a desired result.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fd453b7e-304a-4a42-a0ae-08bec3ac3eab.webp"
+        },
+        "Particular": {
+            "wordRoot": "Particular",
+            "wordDefinition": "Particular means belonging to a specified individual or group, while specific means relating to a particular thing or situation.\n\nEssentially, particular refers to a person or thing being unique or distinct, while specific refers to a particular detail or characteristic of something.\n\nFor example, if someone says \"I am looking for a particular book,\" they mean that they are searching for a specific book that they have in mind, possibly because it has certain characteristics they are looking for or because they have a personal connection to it.\n\nIf someone says \"I need you to be specific,\" they are asking the other person to provide more details or clarification about a particular topic or issue.\n\nParticular is more commonly used to describe people or things, while specific is more commonly used to describe details or characteristics of those people or things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3c8c2e33-cf9c-4a15-91f5-68bd21f2dfa5.webp"
+        },
+        "Precise": {
+            "wordRoot": "Precise",
+            "wordDefinition": "Precise refers to something that is accurate and exact. For example, if someone uses a ruler to measure a piece of paper and says it is exactly 8.5 inches long, that measurement is precise.\n\nSo, while both words relate to something being clear or accurate, precise refers to the exactness of a measurement or detail, while specific refers to the clarity of a description or request.\n\nPrecise is used more in scientific or technical contexts, while specific is used more in everyday communication.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf78f6a1-4d2b-4525-9b2a-037b7f6e424b.webp"
+        },
+        "Special": {
+            "wordRoot": "Special",
+            "wordDefinition": "Special means something that is unique or different from others, while specific means something that is detailed or precise to a certain thing.\n\nFor instance, if you have a special talent or ability, it means that you have a unique skill that sets you apart from others.\n\nSpecial describes things that are distinctive or exceptional, while specific describes things that are detailed or precise.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8d81bdaf-1344-40b7-9a92-651926370201.webp"
+        },
+        "Unique": {
+            "wordRoot": "Unique",
+            "wordDefinition": "The word ‘unique’ means that something is one-of-a-kind and unlike anything else. For example, a fingerprint is unique to each person and no two fingerprints are the same.\n\nTo summarize, ‘specific’ refers to something that is clearly defined and ‘unique’ refers to something that is one-of-a-kind.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/be16dbe0-ebff-4434-85e2-694893fb3d54.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " So, is mathematics an invention or a discovery? Artificial construct or universal truth? Human product or natural, possibly divine, creation? These questions are so deep the debate often becomes spiritual in nature. The answer might depend on the specific concept being looked at, but it can all feel like a distorted zen koan.",
+            "Title": "Is math discovered or...",
+            "VideoId": "X_xR5Kes4Rs",
+            "Controls": "start=262"
+        },
+        {
+            "Text": " Finally, in the fourth stage of remodeling, the wound matures as the newly deposited collagen is rearranged and converted into specific types. Through this process, which can take over a year, the tensile strength of the new skin is improved, and blood vessels and other connections are strengthened.",
+            "Title": "How a wound heals itself...",
+            "VideoId": "TLVwELDMDWs",
+            "Controls": "start=158"
+        },
+        {
+            "Text": " Whether or not you believe in them, you're probably familiar with a few of these superstitions. So how did it happen that people all over the world knock on wood, or avoid stepping on sidewalk cracks? Well, although they have no basis in science, many of these weirdly specific beliefs and practices",
+            "Title": "Where do superstitions...",
+            "VideoId": "quOdF1CAPXs",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " but before long, this technology could change your life, or maybe even save it. Imagine if your doctor could move things around in your body without surgery and without scalpels Say, delivering a capsule of medicine to a specific spot, breaking up kidney stones, maybe even removing tumors,",
+            "Title": "How To Levitate PIPE The...",
+            "VideoId": "xDyJkFehDk0",
+            "Controls": "start=599"
+        },
+        {
+            "Text": " having said all that what in the world is the way out of it well there are three possible rays of hope that I can offer you tonight that may unfold if we're lucky over the next few years the first is the big demographic change that's going on in this country specifically with regard",
+            "Title": "Why political...",
+            "VideoId": "JkwF5FeGXvU",
+            "Controls": "start=328"
+        },
+        {
+            "Text": " is also very helpful. Other promising treatments, like transcranial magnetic stimulation, are being investigated, too. So, if you know someone struggling with depression, encourage them, gently, to seek out some of these options. You might even offer to help with specific tasks,",
+            "Title": "What is depression? -...",
+            "VideoId": "z-IR48Mb3W0",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " each electron on the far side is detected at a single place at a specific instant, like a particle. But if you repeat this experiment many times, keeping track of all the individual detections, you'll see them trace out a pattern that's characteristic of wave",
+            "Title": "Schrödinger's cat: A...",
+            "VideoId": "UjaAxUO6-Uw",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " regardless of accent or pronunciation, the difference may not be apparent to a casual observer. But recent advances in brain imaging technology have given neurolinguists a glimpse into how specific aspects of language learning affect the bilingual brain.",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=108"
+        },
+        {
+            "Text": " in deep it had only taken 8 minutes for me to sink down to my waist while this signs around this specific area here saying you know danger quick Sam don't walk here well I work today tomorrow or",
+            "Title": "Can You Survive...",
+            "VideoId": "a2VJqud3Ls8",
+            "Controls": "start=133"
+        },
+        {
+            "Text": " and make way for an entirely new kind of truth. So when an affair is exposed, what are some of the specific things that couples can do? We know from trauma that healing begins",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=982"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yara-shahidi.webp",
+            "Text": "There have been moments when I was on a modeling job, and it was the most fantastic thing in the world. And there have been moments where I've realized, 'Okay, I'm ten years old, and I've spent the past six hours outside in the rain.' It taught me how to be specific about what kinds of projects I wanted to do and what kind of work I wanted to do.",
+            "Title": "American Actress",
+            "Name": "Yara Shahidi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oprah-winfrey.webp",
+            "Text": "I remember a specific moment, watching my grandmother hang the clothes on the line, and her saying to me, 'you are going to have to learn to do this,' and me being in that space of awareness and knowing that my life would not be the same as my grandmother's life.",
+            "Title": "American Entertainer",
+            "Name": "Oprah Winfrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-obama.webp",
+            "Text": "I specifically did not read other First Ladies' books, because I didn't want to be influenced by how they defined the role. I knew that I would have to find this role - very uniquely and specifically to me and who I was.",
+            "Title": "American First Lady",
+            "Name": "Michelle Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yolanda-adams.webp",
+            "Text": "When I write a song, it comes from the heart and is based on a specific experience. You can't really say that one experience is greater than another, because all of your experiences take you through life on this journey.",
+            "Title": "American Musician",
+            "Name": "Yolanda Adams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "My favorite thing in life is writing about life, specifically the parts of life concerning love. Because, as far as I'm concerned, love is absolutely everything.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erica-jong.webp",
+            "Text": "I have accepted fear as a part of life - specifically the fear of change... I have gone ahead despite the pounding in the heart that says: turn back.",
+            "Title": "American Novelist",
+            "Name": "Erica Jong"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-lawrence.webp",
+            "Text": "I love television; I specifically love having a dumb character on a TV show.",
+            "Title": "American Producer",
+            "Name": "Bill Lawrence"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/cal-cunningham.webp",
+            "Text": "I've, in fact, very specifically said I don't support defunding the police.",
+            "Title": "American Politician",
+            "Name": "Cal Cunningham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/syd.webp",
+            "Text": "I think I'm influenced a lot by Drake in specific ways in my writing.",
+            "Title": "American Musician",
+            "Name": "Syd"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/carine-roitfeld.webp",
+            "Text": "Vogue' is a very specific world. You are 'Vogue,' or not 'Vogue.",
+            "Title": "Editor",
+            "Name": "Carine Roitfeld"
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "currentWord": {
+        "wordRoot": "rehearse",
+        "id": 4786,
+        "phonemic": "rɪˈhɜːs|rɪˈhɜːrs\r",
+        "bigId": "f171b982-1629-4fde-a7f9-4b337b254f74",
+        "wordForms": [
+            "rehearses",
+            "rehearsing",
+            "rehearsed",
+            "unrehearsed",
+            "rehearse"
+        ]
+    },
+    "senses": [
+        {
+            "id": "f171b982-1629-4fde-a7f9-4b337b254f74",
+            "de": "practice a play, piece of music, etc., before performing it publicly",
+            "ty": "verb",
+            "ex": "The actors rehearsed the play before the first performance.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "rehearse a play",
+                " rehearse for a performance",
+                " rehearse a scene"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f171b982-1629-4fde-a7f9-4b337b254f74.webp",
+            "Tips": [
+                {
+                    "title": "Planned Event",
+                    "description": "Use 'rehearse' when preparing for a specific planned event or performance.",
+                    "example": "The choir will rehearse the final song today.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9DA3k0uup4iuawDCejf1n2ZU3X4.webp"
+                },
+                {
+                    "title": "Group Activity",
+                    "description": "Rehearsing often involves multiple people working together, not just solo practice.",
+                    "example": "We all need to rehearse our dance moves in unison.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/9JimqOBtbOFTUP7rteDZ6cdo8.webp"
+                },
+                {
+                    "title": "Not Just Theater",
+                    "description": "'Rehearse' isn't limited to theater and can refer to any performance, like music or dance.",
+                    "example": "Tomorrow we'll rehearse the guitar duet.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MqRb43nz4LwxynotBjhX3P0Qouo.webp"
+                }
+            ]
+        },
+        {
+            "id": "44bcf3e4-9e44-4db7-9a78-abfd4a3a39d8",
+            "de": "to say or do again what has been said or done before",
+            "ty": "verb",
+            "ex": "I rehearsed my excuse in my mind before I spoke to my teacher.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "rehearse an excuse",
+                " rehearse a story",
+                " rehearse an explanation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/44bcf3e4-9e44-4db7-9a78-abfd4a3a39d8.webp",
+            "Tips": [
+                {
+                    "title": "Mental Preparation",
+                    "description": "Use 'rehearse' to describe going over what you plan to say or do in your mind.",
+                    "example": "He rehearsed his speech mentally before presenting.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Seeking Perfection",
+                    "description": "Rehearsing suggests trying to perfect something by repeatedly going through it.",
+                    "example": "I rehearsed my apology many times.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3a7b02f3-36d8-4194-b327-4edc31f8a716",
+            "de": "to tell or list events in the order they happened",
+            "ty": "verb",
+            "ex": "She rehearsed the events of the evening to the police officer.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "rehearse events",
+                " rehearse the facts",
+                " rehearse the circumstances"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3a7b02f3-36d8-4194-b327-4edc31f8a716.webp",
+            "Tips": [
+                {
+                    "title": "Chronological Order",
+                    "description": "When rehearsing events, maintain the sequence in which they originally happened.",
+                    "example": "She carefully rehearsed the day's events to the detective.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Detail Oriented",
+                    "description": "Rehearsing events often means giving a detailed and accurate account.",
+                    "example": "Each witness had to rehearse their version of the story carefully.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Drill": {
+            "wordRoot": "Drill",
+            "wordDefinition": "Drill usually refers to practicing a specific set of skills over and over until they become automatic, like a soldier drilling with a weapon.\n\nIn other words, drill is more about mastering a skill for its own sake, while rehearse is about preparing for a specific goal or event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b09e307f-9676-4c97-8c8d-727643c28201.webp"
+        },
+        "Exercise": {
+            "wordRoot": "Exercise",
+            "wordDefinition": "Exercise refers to physical activity undertaken to improve or maintain health and fitness. This can include activities like running, weightlifting, or yoga.\n\nExercise is about improving physical health, while rehearsing is about preparing for a specific performance or event.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7488d343-a9f8-4fb7-8636-4aa04a912982.webp"
+        },
+        "Go over": {
+            "wordRoot": "Go over",
+            "wordDefinition": "Go over means to review or examine something in a general way or to check for errors. It is applicable for tasks that involve checking for accuracy, such as reviewing text for errors, going over homework answers, or checking a report for typos.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6378bfd9-d5be-4760-bf59-c9f3b1f090c6.webp"
+        },
+        "Practice": {
+            "wordRoot": "Practice",
+            "wordDefinition": "Practice refers to the act of doing something repeatedly in order to become better or proficient at it. For example, a musician might practice playing their instrument or a sports player might practice their techniques.\n\nPractice is more general and refers to improvement of skills, while rehearse is more specific and refers to preparing for a specific event or performance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a8eadba3-4e7e-43ec-9056-d6eba5224153.webp"
+        },
+        "Prepare": {
+            "wordRoot": "Prepare",
+            "wordDefinition": "Prepare means to make something ready for a particular purpose or situation. It involves getting everything ready and organized.\n\nFor example, you can prepare for a party by buying snacks, cleaning the house, and setting up decorations.\n\nTo summarize, prepare is used to get ready for something while rehearse is used to practice for something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9bea9045-7f45-4fe2-9cad-dacebe3836b8.webp"
+        },
+        "Repeat": {
+            "wordRoot": "Repeat",
+            "wordDefinition": "Repeat means to do something again.\n\nIt is used in various contexts such as repeating a song or a movie or repeating a process while working.\n\nRehearse is used for practicing before a performance, while repeat is used for doing something again.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bc5dc06b-a091-4e18-ac48-729c4a97e8a6.webp"
+        },
+        "Run through": {
+            "wordRoot": "Run through",
+            "wordDefinition": "Run through means to quickly go through something, like a presentation or a piece of music, in order to get a general idea of how it goes.\n\nRehearse is for practicing repeatedly with the goal of improvement, while run through is for quickly reviewing or getting familiar with something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a096dc3-e6e3-4959-a214-107009ceba6f.webp"
+        },
+        "Train": {
+            "wordRoot": "Train",
+            "wordDefinition": "Train primarily means to teach or prepare someone for a specific task or occupation. For instance, athletes train to develop their skills, doctors go through extensive training to become knowledgeable and competent, and employees attend training sessions to learn new skills for their jobs.\n\nIn summary, while both rehearse and train involve preparation and practice, rehearse is mostly used in the context of the arts, and train is used more generally for teaching and preparing someone for any task or occupation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/70a9fbd1-2eb5-4be8-bb2e-93de5ca24dd6.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " But this photo shows my preferred method of rehearsing the moves. I'm on the summit, about to rappel down the face with over a thousand feet of rope to spend the day practicing. Once I found sequences that felt secure and repeatable, I had to memorize them. I had to make sure that they were so deeply ingrained within me that there was no possibility of error.",
+            "Title": "How I climbed a...",
+            "VideoId": "6iM6M_7wBMc",
+            "Controls": "start=414"
+        },
+        {
+            "Text": " is they come in and in very subtle ways over the course of several hours, they will ask that person to tell that story backwards, and then they'll watch them squirm, and track which questions produce the highest volume of deceptive tells. Why do they do that? Well, we all do the same thing. We rehearse our words, but we rarely rehearse our gestures.",
+            "Title": "How to spot a liar PIPE...",
+            "VideoId": "P_6vDLq64gE",
+            "Controls": "start=684"
+        },
+        {
+            "Text": " These aren't just people who find a costume and put it on -- they mash them up. They bend them to their will. They change them to be the characters they want to be in those productions. They're super clever and genius. They let their freak flag fly and it's beautiful. But more than that, they rehearse their costumes.",
+            "Title": "My love letter to...",
+            "VideoId": "cXbXNV9-ZAg",
+            "Controls": "start=559"
+        },
+        {
+            "Text": " Practicing any task increases your familiarity and reduces anxiety, so when it's time to speak in public, you're confident in yourself and the task at hand. Steve Jobs rehearsed his epic speeches for hundreds of hours, starting weeks in advance. If you know what you're saying, you'll feed off the crowd's energy",
+            "Title": "The science of stage...",
+            "VideoId": "K93fMnFKwfI",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " You guys know the show, we use take one; we don't do take two. There's no writing, there's no scripting, there's no nonsense. We don't fool around, we don't rehearse -- we shoot what we get! I said, \"Stop. This is nuts.\" I mean -- \"This is crazy.",
+            "Title": "Learning from dirty jobs...",
+            "VideoId": "IRVdiHu1VCc",
+            "Controls": "start=225"
+        },
+        {
+            "Text": " and then you have your inner voice. And I like to see this one as the puppeteer that holds the strings of the whole system. Your inner voice is the one you hear when you read a text silently, when you rehearse for an important conversation.",
+            "Title": "Why you don’t like the...",
+            "VideoId": "g3vSYbT1Aco",
+            "Controls": "start=649"
+        },
+        {
+            "Text": " Ted technical team is unbelievable and yet I've never had a chance to rehearse this we've never done it so you're going to watch it for the first time with all of us and just old man cross your fingers all my life I want it to be",
+            "Title": "Mind-blowing illusions PIPE...",
+            "VideoId": "I0PnyZlaRFo",
+            "Controls": "start=648"
+        },
+        {
+            "Text": " and you can't rehearse performance, because you can't do many of these types of things twice -- ever. Which is very important, the performance is -- you know, all human beings are always afraid of very simple things.",
+            "Title": "An Art Made of Trust,...",
+            "VideoId": "M4so_Z9a_u0",
+            "Controls": "start=253"
+        },
+        {
+            "Text": " secrecy the army builds a life-sized replica of the terminal they handpick commandos for the mission who rehearse the assault over and over they must get",
+            "Title": "Operation Thunderbolt PIPE...",
+            "VideoId": "p4Bou72k2fY",
+            "Controls": "start=188"
+        },
+        {
+            "Text": " back on the beach the crew are rehearsing their camera moves in an uninhabited wilderness like Fernandina the wildlife hasn't yet learned to fear",
+            "Title": "Iguana vs Snakes 360° PIPE...",
+            "VideoId": "Zah5lZrdVcc",
+            "Controls": "start=148"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kenny-leon.webp",
+            "Text": "When I'm working in television, I've learned you've got to work fast. You don't have time to rehearse; you don't have time to just mess around. You've got to move quickly. So I pick that up from that world, and I also pick up the idea of development of character and development of situations.",
+            "Title": "American Director",
+            "Name": "Kenny Leon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jean-louisa-kelly.webp",
+            "Text": "In TV, it is important to get everything on film as fast as possible. You rehearse every day of the week, and each day, the performance may be changed. The process is more result-oriented than in the movies. It's more about working quickly.",
+            "Title": "American Actress",
+            "Name": "Jean Louisa Kelly"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erland-josephson.webp",
+            "Text": "Stage acting is for me the basic form of acting. If you make films all the time, you have so few possibilities to rehearse. And it's important to rehearse, because it gives you the possibility to try things which are not good!",
+            "Title": "Swedish Actor",
+            "Name": "Erland Josephson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/florenz-ziegfeld.webp",
+            "Text": "It is the task of several months and it is a fact that a girl, either while rehearsing or actually playing, may be training for some character or feature in some future production not yet definitely fixed even in my own mind.",
+            "Title": "American Producer",
+            "Name": "Florenz Ziegfeld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-jarmusch.webp",
+            "Text": "I like to rehearse with the actors scenes that are not in the script and will not be in the film because what we're really doing is trying to establish their character, and good acting to me is about reacting.",
+            "Title": "American Director",
+            "Name": "Jim Jarmusch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/keeth-smart.webp",
+            "Text": "In my job, whenever I delivered a presentation I would rehearse several times before the actual event. In sport, it is important to be equally prepared about my opponents.",
+            "Title": "American Athlete",
+            "Name": "Keeth Smart"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/isa-briones.webp",
+            "Text": "I definitely feel, as a theatre actor, that when you're rehearsing in your street clothes in a rehearsal room, it can be a little hard to find the character.",
+            "Title": "American Actor",
+            "Name": "Isa Briones"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kirti-kulhari.webp",
+            "Text": "In theatre, you rehearse for months and then perform. That way, you're totally in-sync with your character, the other characters, and the story.",
+            "Title": "Indian Actress",
+            "Name": "Kirti Kulhari"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/donald-sinden.webp",
+            "Text": "I'm really not livable with when I'm rehearsing because I'm living the character.",
+            "Title": "English Actor",
+            "Name": "Donald Sinden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sean-ocasey.webp",
+            "Text": "All the world's a stage and most of us are desperately unrehearsed.",
+            "Title": "Irish Playwright",
+            "Name": "Sean O'Casey"
+        }
+    ]
+}

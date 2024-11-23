@@ -1,0 +1,341 @@
+{
+    "currentWord": {
+        "wordRoot": "service",
+        "id": 12322,
+        "phonemic": "ˈsɜːvɪs|ˈsɜːrvɪs\r",
+        "bigId": "5c572f75-6232-43ab-8c87-0a550cdec231",
+        "wordForms": [
+            "services",
+            "servicing",
+            "serviced",
+            "service"
+        ]
+    },
+    "senses": [
+        {
+            "id": "5c572f75-6232-43ab-8c87-0a550cdec231",
+            "de": "The act of helping or doing work for someone",
+            "ty": "noun",
+            "ex": "He has been of great service to the community.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "customer service",
+                " service provider",
+                " service charge"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5c572f75-6232-43ab-8c87-0a550cdec231.webp",
+            "Tips": [
+                {
+                    "title": "Act of Support",
+                    "description": "Use 'service' to talk about providing help or support, typically in a professional setting.",
+                    "example": "I appreciate your service in resolving my issue.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/VPdXjYFZLydXmBntiTa7I2JZA.webp"
+                },
+                {
+                    "title": "Non-Tangible Contribution",
+                    "description": "'Service' often refers to non-physical help, like advice or support, rather than just giving items.",
+                    "example": "Her financial advice was a valuable service to our company.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jrI9xHbdGymzltBQKLjVlRnurk.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d6efc63f-4e41-475a-b3d7-6bbcd49a86a1",
+            "de": "A system supplying a public need such as transport, communications, or utilities like electricity and water",
+            "do": "General",
+            "ty": "noun",
+            "ex": "Public services are very important for society.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "public service",
+                " service industry",
+                " service sector"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d6efc63f-4e41-475a-b3d7-6bbcd49a86a1.webp",
+            "Tips": [
+                {
+                    "title": "Essential Systems",
+                    "description": "'Service' can describe essential systems provided by organizations, often related to infrastructure.",
+                    "example": "The city's waste management service is very efficient.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Community Impact",
+                    "description": "When used for public service, it implies something that benefits the entire community.",
+                    "example": "Improving education is an important public service.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8d7d66a2-0e5e-44a6-aab2-1a9ce7d0fac7",
+            "de": "A ceremony of religious worship",
+            "do": "Religion",
+            "ty": "noun",
+            "ex": "We attend the church service every Sunday.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "church service",
+                " prayer service",
+                " worship service"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8d7d66a2-0e5e-44a6-aab2-1a9ce7d0fac7.webp",
+            "Tips": [
+                {
+                    "title": "Religious Context",
+                    "description": "In religious context, 'service' refers to formal ceremonies with structured activities and rituals.",
+                    "example": "The funeral service was solemn and respectful.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Worship Gathering",
+                    "description": "Use 'service' to talk about a group gathering for collective worship or religious observances.",
+                    "example": "The weekly service brings our community together.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "20578a9b-4018-4d43-bf10-1346adeb3c4b",
+            "de": "The action of serving food and drinks to people",
+            "do": "Catering",
+            "ty": "noun",
+            "ex": "The service in this restaurant is excellent.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "table service",
+                " self-service",
+                " service station"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/20578a9b-4018-4d43-bf10-1346adeb3c4b.webp",
+            "Tips": [
+                {
+                    "title": "Food Presentation",
+                    "description": "In dining, 'service' can refer to the manner in which food and drinks are presented to guests.",
+                    "example": "Room service at the hotel includes a full breakfast menu.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Dining Experience",
+                    "description": "Good 'service' in restaurants implies attentive and courteous treatment by staff.",
+                    "example": "We left a big tip because the service was outstanding.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c5c9b685-739d-404d-a6ff-815b12ae8958",
+            "de": "The armed forces of a country",
+            "do": "Military",
+            "ty": "noun",
+            "ex": "He is doing his national service in the army.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "military service",
+                " national service",
+                " service record"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c5c9b685-739d-404d-a6ff-815b12ae8958.webp",
+            "Tips": [
+                {
+                    "title": "Duty to Country",
+                    "description": "'Service' can mean serving in the military, a patriotic act of duty to one's country.",
+                    "example": "Her years of service in the Navy are commendable.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Commitment",
+                    "description": "Military 'service' is a career or a period of time committed to military life.",
+                    "example": "His service record shows participation in multiple peacekeeping missions.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Aid": {
+            "wordRoot": "Aid",
+            "wordDefinition": "Aid generally refers to help or assistance provided to someone in need, often in the form of material or financial support.\n\nBoth aid and service can be provided in a variety of contexts, from personal relationships to business transactions to international aid efforts.\n\nThe main difference is that aid is typically offered without an expectation of payment or exchange, while service is provided as part of a formal agreement or arrangement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/102e746f-6968-4611-87cf-9ade8290b2fc.webp"
+        },
+        "Assistance": {
+            "wordRoot": "Assistance",
+            "wordDefinition": "Assistance is helping someone with something they are struggling with or cannot do on their own, while service refers to a job or task that is done to benefit someone else.\n\nFor example, assistance would be helping an elderly person with their groceries or tutoring a classmate in math. Service might be working at a restaurant or providing repair work on a car.\n\nAssistance is typically more personal, while service is more transactional. Both words are applicable in different situations depending on what type of help or work is needed.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f98102e1-b499-4b6a-8f82-4c6b38119616.webp"
+        },
+        "Care": {
+            "wordRoot": "Care",
+            "wordDefinition": "Care refers to the attention, protection, and nurturing provided to someone or something. It is applicable in contexts where one is looking after the physical or emotional well-being of another person, animal, or thing.\n\nCare is about providing love and attention, while service is about completing a task or meeting a need.\n\nExamples of care could include taking care of a pet, providing emotional support to a friend, or caring for a sick family member.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6f992041-403d-4000-8c1a-c3b2f9f7477f.webp"
+        },
+        "Help": {
+            "wordRoot": "Help",
+            "wordDefinition": "Help and service are both words that have a similar meaning in that they both involve assisting or aiding someone or something.\n\nHelp is used more often in personal interactions, and is typically used when someone is asking for assistance. For example, if someone needs help carrying a heavy object, you would offer to help them.\n\nHelp implies a more personal connection and a willingness to lend a hand.\n\nIn summary, while both words can refer to assisting or aiding, help is used in personal interactions while service is typically used in a business or professional setting.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed47492b-ab40-499c-afad-4c170ce95dbe.webp"
+        },
+        "Maintenance": {
+            "wordRoot": "Maintenance",
+            "wordDefinition": "Maintenance refers to the work of keeping something in good condition, such as fixing or replacing parts to prevent problems from happening.\n\nMaintenance is needed to prevent damage and keep things running smoothly.\n\nService is a broader term that refers to tasks performed to keep something functioning properly. Service may involve maintenance tasks or provide a one-time repair or replacement.\n\nFor example, maintenance of a car might involve changing the oil and checking the brakes, while a service appointment might include these tasks as well as diagnosing and repairing a problem with the transmission.\n\nMaintenance is a routine task that helps prevent problems, while service may be needed when something goes wrong or for more in-depth work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/450d5a35-1536-4763-9462-d092efd50a8d.webp"
+        },
+        "Repair": {
+            "wordRoot": "Repair",
+            "wordDefinition": "Repair means fixing an object, device or machine that is not working or is broken, to restore it to its original condition.\n\nRepair is done after something breaks, while service is done to prevent something from breaking.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9881b1cf-04ed-4bcc-a19b-e250867e8f28.webp"
+        },
+        "Support": {
+            "wordRoot": "Support",
+            "wordDefinition": "Support refers to assistance or aid provided to customers who have a problem with a product or service. Support could be provided through after-sales service, technical assistance, or consulting services.\n\nService is about providing what the customer wants, while support is about helping the customer after they have purchased a product or service.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f630745-f3a5-4454-92eb-c75d98a5f411.webp"
+        },
+        "Tune": {
+            "wordRoot": "Tune",
+            "wordDefinition": "Tune refers to adjusting or fine-tuning something to improve its performance. It's most commonly used in relation to musical instruments or engines.\n\nFor example, someone might tune a guitar to make sure it sounds good, or a mechanic might tune a car engine to improve its fuel efficiency.\n\nService is about maintenance and care, whereas tune is about enhancing performance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/937b669a-38e3-4ecc-9471-7d8c314749dc.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " messaging service to say I'm a male squirrel I'm here keep away or I'm a female squirrel and I would like to meet a male squirrel so it's a bit like our equivalent of a social media platform so smell is very important to them when there's a glut of food especially nuts they'll run off and they'll bury them now people will tell you that they",
+            "Title": "Meet The Adorable Red...",
+            "VideoId": "oPahC6WJQFM",
+            "Controls": "start=148"
+        },
+        {
+            "Text": " while more goods and services are produced, each dollar's value would increase in a process known as deflation. So which is worse? Too much inflation means that the money in your wallet today will be worth less tomorrow, making you want to spend it right away. While this would stimulate business, it would also encourage overconsumption,",
+            "Title": "What gives a dollar bill...",
+            "VideoId": "XNu5ppFZbHo",
+            "Controls": "start=136"
+        },
+        {
+            "Text": " it starts out with the police, they're the front end of the pipeline of justice, but they hand if off to the prosecutors, and the prosecutors hand it off to the courts, and the survivors of violence have to be supported by social services all the way through that. So you have to do an approach that pulls that all together.",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=1267"
+        },
+        {
+            "Text": " It was in front of the whole class and I felt dreadful. But it's what I wanted, and as soon as I left school, I applied to the fire service and I was accepted. You know, I was thinking about that guy recently, just a few minutes ago when you were speaking, about this teacher, because six months ago, I saved his life.\"",
+            "Title": "Bring on the learning...",
+            "VideoId": "r9LelXa3U_I",
+            "Controls": "start=610"
+        },
+        {
+            "Text": " he was able to gather to hear the word was a reflection of that when I experienced your service I don't really remember what you said because it was exhausting emotion only takes you so far when I connect with you and you give me knowledge then it takes me a lot further in lunch because knowledge gives power",
+            "Title": "A Sermon Seminar PIPE...",
+            "VideoId": "slwRItuZBRg",
+            "Controls": "start=2"
+        },
+        {
+            "Text": " and monitoring vitals continuously. If this is not possible, dousing in ice water and applying wet towels over the entire body can help. But before you start anything, emergency services should be called. As you wait, it's important to keep the victim calm while cooling as much surface area as possible",
+            "Title": "What happens when you...",
+            "VideoId": "PpHM4DfPZQU",
+            "Controls": "start=160"
+        },
+        {
+            "Text": " If you think that someone might be having a heart attack, the most important thing is to respond quickly. If you have access to emergency medical services, call them. They're the fastest way to get to a hospital. Taking aspirin, which thins the blood, and nitroglycerin, which opens up the artery,",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=119"
+        },
+        {
+            "Text": " neural enhancement comes a condition of military service in a possible future neural tech not narrow technologies could enable people across society to overcome depression to boost our physical health to learn complex",
+            "Title": "How DARPA is creating...",
+            "VideoId": "zuC2WzMLzzs",
+            "Controls": "start=534"
+        },
+        {
+            "Text": " in the service of his ego, Icarus was also carried away by his own hubris. In the end, both men paid for their departure from the path of moderation dearly, Icarus with his life",
+            "Title": "The myth of Icarus and...",
+            "VideoId": "3s2QPQnuaGk",
+            "Controls": "start=274"
+        },
+        {
+            "Text": " Disposable diapers made life easy for parents, but they killed off diaper delivery services. And do we want landfills overwhelmed by dirty diapers?",
+            "Title": "How inventions change...",
+            "VideoId": "0SMNYivhGsc",
+            "Controls": "start=282"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michelle-obama.webp",
+            "Text": "I want a president with a record of public service: someone whose life's work shows our children that we don't chase form and fortune for ourselves; we fight to give everyone a chance to succeed.",
+            "Title": "American First Lady",
+            "Name": "Michelle Obama"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/leo-tolstoy.webp",
+            "Text": "Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.",
+            "Title": "Russian Novelist",
+            "Name": "Leo Tolstoy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/donald-rumsfeld.webp",
+            "Text": "Enjoy your time in public service. It may well be one of the most interesting and challenging times of your life.",
+            "Title": "American Politician",
+            "Name": "Donald Rumsfeld"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mark-zuckerberg.webp",
+            "Text": "Our mission is to connect every person in the world. You don't do that by having a service people pay for.",
+            "Title": "American Businessman",
+            "Name": "Mark Zuckerberg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/audre-lorde.webp",
+            "Text": "When I use my strength in the service of my vision it makes no difference whether or not I am afraid.",
+            "Title": "American Poet",
+            "Name": "Audre Lorde"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lucy-mcbath.webp",
+            "Text": "Protecting the USPS means protecting the essential services it provides our nation.",
+            "Title": "American Politician",
+            "Name": "Lucy McBath"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tim-obrien.webp",
+            "Text": "Fiction is a lie that is told in the service of truth.",
+            "Title": "American Author",
+            "Name": "Tim O'Brien"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sting.webp",
+            "Text": "I've only paid lip service to a spiritual life.",
+            "Title": "British Musician",
+            "Name": "Sting"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/tones-and-i.webp",
+            "Text": "Streaming services are very important.",
+            "Title": "Australian Musician",
+            "Name": "Tones and I"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jorge-masvidal.webp",
+            "Text": "I want to get paid for my services.",
+            "Title": "American Athlete",
+            "Name": "Jorge Masvidal"
+        }
+    ]
+}

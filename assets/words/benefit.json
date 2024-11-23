@@ -1,0 +1,326 @@
+{
+    "currentWord": {
+        "wordRoot": "benefit",
+        "id": 9801,
+        "phonemic": "ˈbenɪfɪt|ˈbenɪfɪt\r",
+        "bigId": "f97464b3-84a6-4dae-aab6-db5804f59c6c",
+        "wordForms": [
+            "benefits",
+            "benefiting",
+            "benefited",
+            "benefitted",
+            "benefitting",
+            "benefit"
+        ]
+    },
+    "senses": [
+        {
+            "id": "f97464b3-84a6-4dae-aab6-db5804f59c6c",
+            "de": "An advantage or good things someone gets from something",
+            "ty": "noun",
+            "ex": "Exercise has many health benefits.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "receive benefits",
+                " provide benefits",
+                " gain benefits"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f97464b3-84a6-4dae-aab6-db5804f59c6c.webp",
+            "Tips": [
+                {
+                    "title": "Positive Outcome",
+                    "description": "Use 'benefit' when describing something that improves a situation or provides a positive outcome.",
+                    "example": "Studying hard has the benefit of better grades.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/WMF2bXhy5Dst9qQvBrSaLfzsz2k.webp"
+                },
+                {
+                    "title": "Abstract Advantage",
+                    "description": "'Benefit' is often used to talk about abstract advantages like happiness, not just material gains.",
+                    "example": "Volunteering offers the benefit of personal fulfillment.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lNx0TUSokjNpx2fhaTm1dwF9aT0.webp"
+                },
+                {
+                    "title": "Widespread Gain",
+                    "description": "'Benefit' can describe advantages that affect a group of people, not just individuals.",
+                    "example": "Community gardens bring the benefit of fresh produce to many.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/hls5smn9Mm4p5rVMsmvk8IE4piM.webp"
+                }
+            ]
+        },
+        {
+            "id": "e7608be3-d7b4-4289-ad36-166838eca11c",
+            "de": "A payment or gift made by an employer, the state, or an insurance company",
+            "do": "Financial",
+            "ty": "noun",
+            "ex": "Recipients of unemployment benefits will need to meet certain eligibility requirements.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "unemployment benefits",
+                " health benefits",
+                " retirement benefits"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e7608be3-d7b4-4289-ad36-166838eca11c.webp",
+            "Tips": [
+                {
+                    "title": "Financial Support",
+                    "description": "When 'benefit' means financial aid, it's usually something you're entitled to by law or policy.",
+                    "example": "The new policy extends benefits to all part-time employees.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Structured Assistance",
+                    "description": "Financial 'benefits' often come with rules; knowing the eligibility criteria is crucial.",
+                    "example": "She must apply quarterly to continue receiving her benefits.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0cae0e80-df87-4941-a435-4d0a094d68a2",
+            "de": "To get help or advantage from something",
+            "ty": "verb",
+            "ex": "You could really benefit from a vacation.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "benefit from",
+                " directly benefit",
+                " greatly benefit"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0cae0e80-df87-4941-a435-4d0a094d68a2.webp",
+            "Tips": [
+                {
+                    "title": "Personal Improvement",
+                    "description": "'Benefit' as a verb suggests personal improvement or growth from an action or decision.",
+                    "example": "Children benefit from consistent routines.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Active Advantage",
+                    "description": "Use 'benefit from' to actively receive good results from something that is done or exists.",
+                    "example": "I benefited from her wise advice.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b21657f7-aa9c-4d2c-b6da-4504c1de6ece",
+            "de": "A public performance or other entertainment to raise money for a charitable cause",
+            "do": "Entertainment",
+            "ty": "noun",
+            "ex": "She is performing at a benefit for AIDS research.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "charity benefit",
+                " benefit concert",
+                " benefit performance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b21657f7-aa9c-4d2c-b6da-4504c1de6ece.webp",
+            "Tips": [
+                {
+                    "title": "Charitable Events",
+                    "description": "'Benefit' in the context of events implies that the event supports a good cause or charity.",
+                    "example": "The gala was a benefit for the local hospital.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Supportive Performance",
+                    "description": "A 'benefit' can be a performance or show intended to gather support and raise funds for a cause.",
+                    "example": "Famous musicians played at the benefit to help raise awareness.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Advantage": {
+            "wordRoot": "Advantage",
+            "wordDefinition": "Advantage refers to something that gives one person or group a better position or opportunity compared to another.\n\nFor example, having experience in a specific field gives you an advantage over someone who is just starting out.\n\nIn summary, advantages pertain to gaining an edge over someone else, while benefits relate to positive outcomes for an individual or society.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a4104053-7e5e-4240-a9c2-939aecc24043.webp"
+        },
+        "Aid": {
+            "wordRoot": "Aid",
+            "wordDefinition": "Aid refers to the assistance or help given to a person or group in need, often in the form of money or supplies.\n\nFor example, a government might provide aid to a country affected by a natural disaster.\n\nAid is about providing help, while benefit is about improving a situation. Aid is applicable in situations where someone requires assistance due to circumstances beyond their control, while benefits are applicable in situations where someone seeks to gain an advantage or improve their position.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/102e746f-6968-4611-87cf-9ade8290b2fc.webp"
+        },
+        "Asset": {
+            "wordRoot": "Asset",
+            "wordDefinition": "An asset is something that you own or possess that has value and can be used to make money or improve your life in some way.\n\nThis can include things like property, investments, and skills. Assets are usually considered as something that provides long-term value.\n\nAn asset is a valuable possession that can be used to create benefits while the benefit is the advantage or gain from that possession.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/73590cc4-a025-4748-bfb8-4f0d0c582013.webp"
+        },
+        "Blessing": {
+            "wordRoot": "Blessing",
+            "wordDefinition": "A blessing is often seen as a positive or good thing that is received outside of material gain. For example, having loving and supporting family or friends, or being in good health.\n\nBoth words imply a positive outcome, but a benefit is usually more tangible or practical while a blessing is more abstract and emotional in nature.\n\nIn general, we use the term benefit to refer to specific gains while we use the word blessing to describe goodness or positive energy that cannot always be measured in material terms.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4510df87-12af-47c1-8e1d-9cdf2944b54c.webp"
+        },
+        "Boon": {
+            "wordRoot": "Boon",
+            "wordDefinition": "Boon also means something that brings advantages, but it carries a connotation of being a gift or blessing. For example, winning the lottery would be considered a boon as it brings a sudden and unexpected benefit.\n\nBoth words can be used in various contexts, but benefit is more commonly used in general while boon is often used in situations where something is received as a gift or a stroke of luck.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/902e4a54-caa9-4862-a6b2-8cae68788a01.webp"
+        },
+        "Gain": {
+            "wordRoot": "Gain",
+            "wordDefinition": "Gain refers to an increase in something, such as wealth, knowledge, or status.\n\nGain can be achieved through hard work, investment, or negotiation.\n\nBenefit is about receiving something that is helpful or advantageous, while gain is about achieving an increase or acquiring something of value.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7cb93623-b435-4750-91ba-fbfb0635b803.webp"
+        },
+        "Help": {
+            "wordRoot": "Help",
+            "wordDefinition": "Help means to assist someone in doing something or to make something easier for them. For example, if you help someone with their homework, you are giving them assistance with their work.\n\nBenefit is something that gives you positive results, while help is something that assists you with achieving those results.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ed47492b-ab40-499c-afad-4c170ce95dbe.webp"
+        },
+        "Perk": {
+            "wordRoot": "Perk",
+            "wordDefinition": "Perk refers to an extra advantage or privilege that comes with a job or status, often something that is not essential but is a nice bonus, such as a company car or free snacks in the break room.\n\nTo summarize, benefits are often essential and expected parts of a job, while perks are usually extra bonuses that can make a job more enjoyable or desirable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/41b6dfe2-354c-4679-82d2-ef30e6451129.webp"
+        },
+        "Profit": {
+            "wordRoot": "Profit",
+            "wordDefinition": "Profit refers to a financial gain or benefit earned through business or investment. For example, a company may make a profit by selling products or services for more than they cost to produce.\n\nBenefit is broader and can refer to any positive outcome, while profit specifically refers to financial gain. Benefit is applicable in contexts where the aim is to improve well-being or achieve a positive outcome, while profit is applicable in business and investing contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6375776d-70c9-4dc0-a6b0-196a9cd2238e.webp"
+        },
+        "Value": {
+            "wordRoot": "Value",
+            "wordDefinition": "Value refers to the usefulness or importance of something. For example, if you want to buy a new phone, you would consider the value of the phone in terms of its features, durability, and price.\n\nIn general, benefits are more specific and measurable, while value is more general and subjective. Benefits apply to individual instances or situations, while value can apply to a broad range of things.\n\nBoth words are applicable in many contexts, from personal decisions to business strategies. In making decisions, it is important to consider both the benefits and the value of different options.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3308a6e0-5f7b-47f5-8dee-72991f65f2e7.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " who showed the same levels of cognitive function and neural processing at the start, found that those who were exposed to a period of music learning showed enhancement in multiple brain areas, compared to the others. This recent research about the mental benefits of playing music has advanced our understanding of mental function,",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=242"
+        },
+        {
+            "Text": " and more activity in certain regions when engaging a second language. The heightened workout a bilingual brain receives throughout its life can also help delay the onset of diseases, like Alzheimer's and dementia by as much as five years. The idea of major cognitive benefits to bilingualism may seem intuitive now,",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=197"
+        },
+        {
+            "Text": " and amino acids have to compete for limited access. A diet with a range of foods helps maintain a balanced combination of brain messengers, and keeps your mood from getting skewed in one direction or the other. Like the other organs in our bodies, our brains also benefit from a steady supply of micronutrients.",
+            "Title": "How the food you eat...",
+            "VideoId": "xyQY8a-ng6g",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " and can supplement liquid intake while providing valuable nutrients and fiber. Drinking well might also have various long-term benefits. Studies have shown that optimal hydration can lower the chance of stroke, help manage diabetes, and potentially reduce the risk of certain types of cancer.",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=246"
+        },
+        {
+            "Text": " Nudibranchs, which are sea slugs covered in protective slime, can actually steal the jelly's defenses by eating the cnidocytes and transferring them to specialized sacks for later use, as weapons against their own predators. Even humans might benefit from the sting of a jellyfish one day.",
+            "Title": "How does a jellyfish...",
+            "VideoId": "Pu_ijC8HFRU",
+            "Controls": "start=204"
+        },
+        {
+            "Text": " We have the benefits of all the science and technology that we talk about here. We've got cell phones to get information from the public and get information out to them. We have satellite maps where we can see where people are and where they're moving. We have advances in biology",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=306"
+        },
+        {
+            "Text": " hsbc to help the bank expand globally real words like uber and slack are ripped right out of a dictionary and suggest attributes or benefits uber literally means an outstanding example so it works well for a company with big broad bold ambitions beyond",
+            "Title": "How to create a great...",
+            "VideoId": "rzbXht7MJVM",
+            "Controls": "start=82"
+        },
+        {
+            "Text": " If you sit a lot, get up and move around on occassion, and be sure to exercise. Using your muscles will keep them strong enough to support you effectively, on top of all the other benefits to your joints, bones, brain and heart.",
+            "Title": "The benefits of good...",
+            "VideoId": "OyK0oE5rwFY",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " if len was going to save these turtles he needed to win over the whole community we had to find a way to get the villagers to benefit from the presence of these animals he began to encourage tourists to visit",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "leDm_-nfr2w",
+            "Controls": "start=656"
+        },
+        {
+            "Text": " which are mostly used for rearing cows and sheep our national parks were created to conserve and enhance their wildlife beauty heritage and use there for all of us to enjoy care for and benefit from",
+            "Title": "UK National Parks in 100...",
+            "VideoId": "-zDNMgeeQrc",
+            "Controls": "start=105"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-bernard-shaw.webp",
+            "Text": "If you're not producing as much as you consume, or perhaps a little more, then clearly we cannot use the big organization of our society for the purpose of keeping you alive, because your life does not benefit us, and it can't be of very much use to yourself.",
+            "Title": "Irish Playwright",
+            "Name": "George Bernard Shaw"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gisele-bundchen.webp",
+            "Text": "If I honour my needs first, I will be the best wife, the best mum, the best sister, the best friend. I have to come first, because then everyone benefits.",
+            "Title": "Brazilian Model",
+            "Name": "Gisele Bundchen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thich-nhat-hanh.webp",
+            "Text": "If we are peaceful, if we are happy, we can smile, and everyone in our family, our entire society, will benefit from our peace.",
+            "Title": "Vietnamese Clergyman",
+            "Name": "Thich Nhat Hanh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/napoleon-hill.webp",
+            "Text": "Wise men, when in doubt whether to speak or to keep quiet, give themselves the benefit of the doubt, and remain silent.",
+            "Title": "American Author",
+            "Name": "Napoleon Hill"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/terry-gou.webp",
+            "Text": "I always tell employees: 'The group's benefit is more important than your personal benefit.",
+            "Title": "Taiwanese Businessman",
+            "Name": "Terry Gou"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-b-larson.webp",
+            "Text": "Americans count on the guaranteed benefits they paid for under Medicare.",
+            "Title": "American Politician",
+            "Name": "John B. Larson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/p-j-orourke.webp",
+            "Text": "Wealth brings great benefits to the world. Rich people are heros.",
+            "Title": "American Comedian",
+            "Name": "P. J. O'Rourke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ruth-bader-ginsburg.webp",
+            "Text": "In truth, I did enjoy the benefits of a Harvard connection.",
+            "Title": "American Judge",
+            "Name": "Ruth Bader Ginsburg"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frans-de-waal.webp",
+            "Text": "Future benefits rarely figure in the minds of animals.",
+            "Title": "Dutch Scientist",
+            "Name": "Frans de Waal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karrueche-tran.webp",
+            "Text": "It benefits us all to motivate others.",
+            "Title": "American Actress",
+            "Name": "Karrueche Tran"
+        }
+    ]
+}

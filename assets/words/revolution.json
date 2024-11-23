@@ -1,0 +1,280 @@
+{
+    "currentWord": {
+        "wordRoot": "revolution",
+        "id": 23051,
+        "phonemic": "ˌrevəˈluːʃn|ˌrevəˈluːʃn\r",
+        "bigId": "8584f7d2-fed3-4d99-9f12-c54e624475af",
+        "wordForms": [
+            "revolutions",
+            "revolution"
+        ]
+    },
+    "senses": [
+        {
+            "id": "8584f7d2-fed3-4d99-9f12-c54e624475af",
+            "de": "A huge change in something, like a government or way of doing things",
+            "ty": "noun",
+            "ex": "The American Revolution began in 1775.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "american revolution",
+                " french revolution",
+                " industrial revolution"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8584f7d2-fed3-4d99-9f12-c54e624475af.webp",
+            "Tips": [
+                {
+                    "title": "Historical Events",
+                    "description": "Used when discussing historical events that resulted in significant changes.",
+                    "example": "Textbooks often feature chapters on the French Revolution.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/xMjJLADtMwjSFKgjGxthYo1F5w.webp"
+                },
+                {
+                    "title": "Political Change",
+                    "description": "References dramatic political transformation, often involving conflict.",
+                    "example": "The revolution overthrew the old dictatorship.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/QAapIzwJ6TcnPRBnQ5eqI7HKI7E.webp"
+                },
+                {
+                    "title": "Social Movements",
+                    "description": "Can describe major shifts in societal attitudes and behaviors.",
+                    "example": "The sexual revolution changed many traditional norms.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/t5FAW0DZd0nQpDgOmmDP4blY.webp"
+                }
+            ]
+        },
+        {
+            "id": "d7f93206-451c-4dda-8c4c-9d0bba2284c2",
+            "de": "One full cycle of something turning around in a circle",
+            "ty": "noun",
+            "ex": "The Earth makes one revolution around the sun every year.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "revolution of the earth",
+                " revolution of a wheel",
+                " revolution of a clock's hand"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d7f93206-451c-4dda-8c4c-9d0bba2284c2.webp",
+            "Tips": [
+                {
+                    "title": "Scientific Context",
+                    "description": "Often found in scientific texts, explaining astronomical or mechanical motion.",
+                    "example": "Mercury completes a revolution around the sun very quickly.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Repeated Action",
+                    "description": "Implies a single, complete turn in a series of similar actions.",
+                    "example": "The motor completed 10,000 revolutions per minute.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5b5c64c2-0580-4578-a3c5-6faab4fad9e5",
+            "de": "A new and better way of doing something",
+            "do": "Technology",
+            "ty": "noun",
+            "ex": "The digital revolution changed the way we use technology.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "digital revolution",
+                " technological revolution",
+                " green revolution"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5b5c64c2-0580-4578-a3c5-6faab4fad9e5.webp",
+            "Tips": [
+                {
+                    "title": "Technological Advancements",
+                    "description": "Speaks to groundbreaking changes in technology that alter daily life.",
+                    "example": "The smartphone sparked a revolution in communication.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Innovation Periods",
+                    "description": "Marks periods of rapid advancements in fields like science or industry.",
+                    "example": "The biotech revolution led to new medical treatments.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Coup": {
+            "wordRoot": "Coup",
+            "wordDefinition": "A coup is a sudden and often violent overthrow of a government by a small group of people, typically within the existing power structure or military.\n\nA coup is applicable when a small group of people within the government or military seek to take over the existing power structure, while a revolution is applicable when large groups of people mobilize to bring about significant change.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6755d35c-f317-43b8-80a2-14ed28817005.webp"
+        },
+        "Insubordinate": {
+            "wordRoot": "Insubordinate",
+            "wordDefinition": "Insubordinate refers to someone who disobeys or refuses to follow orders given by a higher authority such as a boss, teacher or parent.\n\nSo, while insubordinate refers to someone not following an authority figure's instructions, revolution is a more sweeping change in a country or social group.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/acf9c561-910b-4d6a-b210-6ce9889d8bc9.webp"
+        },
+        "Insurrection": {
+            "wordRoot": "Insurrection",
+            "wordDefinition": "Insurrection refers to a violent uprising against an existing government or authority, often for the purpose of overthrowing it.\n\nInsurrection involves violent actions aimed at overthrowing a specific government or authority, while revolution involves deep and sometimes peaceful changes to an entire society.\n\nInsurrection is usually considered more extreme and dangerous, while revolution can be seen as a more gradual and sustainable path to change.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e41c9841-0521-445a-b12a-71967819ff7f.webp"
+        },
+        "Mutiny": {
+            "wordRoot": "Mutiny",
+            "wordDefinition": "Mutiny refers to a rebellion or uprising against the authority of a particular group or organization, such as a military unit or a ship's crew.\n\nSo, in short, mutiny is an act of rebellion against a particular authority as a way of protesting against specific decisions or actions that affect a smaller group of people.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/da42f1b2-3be4-4b2c-9a53-a3d3bf0e1f5d.webp"
+        },
+        "Overthrow": {
+            "wordRoot": "Overthrow",
+            "wordDefinition": "Overthrow means to forcefully remove a government or ruler from power.\n\nUnlike overthrow, revolution seeks to build a better world by dismantling the current system from within. It is enacted through peaceful protests, civil disobedience, and the creation of new institutions that better govern the people.\n\nTo summarize, while an overthrow is a sudden, violent removal of a leader, a revolution is a transformative, albeit gradual, reimagining of a society.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fb49d9c6-6a79-44bd-b9d1-d3538edc173b.webp"
+        },
+        "Rebellion": {
+            "wordRoot": "Rebellion",
+            "wordDefinition": "Rebellion refers to an attempt by a group of people to overthrow or resist the authority that currently exists, while still maintaining the overall structure or system in place.\n\nIn simpler terms, rebellion is like fighting against the rules made by the authorities in a specific system, while revolution is more like changing the entire system itself.\n\nRebellion can happen within a system, while revolution changes the system as a whole.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9dfc5ad9-b53e-4c23-a42f-336b8e234ddb.webp"
+        },
+        "Riot": {
+            "wordRoot": "Riot",
+            "wordDefinition": "A riot refers to a violent and disorderly disturbance in public order. It involves the use of force, destruction of property, and often results in injuries or deaths.\n\nRiots are usually unplanned and are fueled by anger, frustration, and distrust towards the government or authority. For example, the Minneapolis riots in 2020 were a result of the killing of George Floyd by police officers.\n\nA revolution is a peaceful and planned change for a better future while a riot is an unplanned and violent disturbance in public order.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7b70f4aa-6acf-4788-a3d8-d84dca2549a8.webp"
+        },
+        "Uprising": {
+            "wordRoot": "Uprising",
+            "wordDefinition": "Uprising refers to a spontaneous or unplanned rebellion, often led by the people against the government or ruling power.\n\nThink of it as a sudden, grassroots movement that gains momentum and often leads to violence. Examples of uprisings include the Arab Spring and the Rose Revolution in Georgia.\n\nBoth words involve a significant change in political power, but a revolution is planned and organized, while an uprising is spontaneous and often violent.\n\nRevolutions typically result in systemic change over the long term, while uprisings often have short-term impacts and may result in a change of government, but not necessarily systemic change.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e18b15ec-a627-406f-b7f6-0ad266820274.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " And this can be achieved. Same with planning. Somebody has lied to you about the successful and spontaneous nonviolent revolution. That thing doesn't exist in the world. Whenever you see young people in front of the row trying to fraternize with the police or military, somebody was thinking about it before.",
+            "Title": "Srdja Popovic: How to...",
+            "VideoId": "uo7w3g24DWo",
+            "Controls": "start=292"
+        },
+        {
+            "Text": " whose study of microorganisms led to the development of the first vaccines. By challenging assumptions with data-driven research, these scientists discredited an age-old theory and sparked a revolution that was incredibly beneficial to public health. But all of this raises the question,",
+            "Title": "How a few scientists...",
+            "VideoId": "N9LC-3ZKiok",
+            "Controls": "start=230"
+        },
+        {
+            "Text": " These biological clocks allow organisms to keep track of time and pick up on environmental cues that help them adapt. That's important, because the planet's rotations and revolutions put us in a state of constant flux, although it plays out in a repetitive, predictable way.",
+            "Title": "How plants tell time -...",
+            "VideoId": "3jIW5wW2WC0",
+            "Controls": "start=60"
+        },
+        {
+            "Text": " Despite six months of double checking, the bizarre discovery refused to yield. But rather than celebrating a physics revolution, the researchers published a cautious paper arguing for continued research in an effort to explain the observed anomaly.",
+            "Title": "Is there a reproducibilit...",
+            "VideoId": "FpCrY7x5nEE",
+            "Controls": "start=18"
+        },
+        {
+            "Text": " has unleashed a firestorm of innovation. In fact, many of you navigated here today with the help of your TomTom or your smartphone. Paper maps are becoming obsolete. But we now stand on the verge of another revolution in geolocation accuracy.",
+            "Title": "Todd Humphreys: How to...",
+            "VideoId": "gzthxdm7XNs",
+            "Controls": "start=89"
+        },
+        {
+            "Text": " A revolution, in a political sense, is a sudden and seismic shift from one form of government to another. While revolutions come in many forms, they often share four characteristcis in varying degrees. Dissident elites, mass frustration,",
+            "Title": "Revolutions 101 PIPE...",
+            "VideoId": "856kcVieUgU",
+            "Controls": "start=11"
+        },
+        {
+            "Text": " us I'm not acting for this to be a sad story I'm actually you to see someone standing here and they're paying and their truth and actors that what can you do and when you say what can I do it's joining the revolution of loving",
+            "Title": "Walking in your truth as...",
+            "VideoId": "EDaR9zAiKbc",
+            "Controls": "start=386"
+        },
+        {
+            "Text": " are we alone in the solar system? Where are we coming from? Do we have family in the neighborhood? Is there life beyond our solar system? And we can ask all those questions because there has been a revolution",
+            "Title": "Nathalie Cabrol: How...",
+            "VideoId": "wxCtIdI3xL0",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " that it's hard to appreciate what a major accomplishment for humanity they've been. And just as it arose from a political revolution, the metric system remains crucial for the scientific revolutions to come.",
+            "Title": "Why the metric system...",
+            "VideoId": "7bUVjJWA6Vw",
+            "Controls": "start=275"
+        },
+        {
+            "Text": " life without drinking my water is now 87 years old and he sees how did great didn't see because revolution what's happened this reindeer herding happened",
+            "Title": "Saami Reindeer Herder...",
+            "VideoId": "JFSt5TJC1DQ",
+            "Controls": "start=144"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/glennon-doyle-melton.webp",
+            "Text": "It blows my mind when I actually consider that men are as human as I am. How can you possibly be as human and have all of the thoughts and feelings that I have and never be able to talk about it, ever? Guys are in desperate need of truth telling. They are in desperate need of a revolution.",
+            "Title": "American Author",
+            "Name": "Glennon Doyle Melton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/victor-hugo.webp",
+            "Text": "The brutalities of progress are called revolutions. When they are over we realize this: that the human race has been roughly handled, but that it has advanced.",
+            "Title": "French Author",
+            "Name": "Victor Hugo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sergey-brin.webp",
+            "Text": "The revolution in deep nets has been very profound. It definitely surprised me, even though I was sitting right there.",
+            "Title": "American Businessman",
+            "Name": "Sergey Brin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/friedrich-durrenmatt.webp",
+            "Text": "Revolutions demand enormous sacrifices and, at the same time, create a new need to change the world again.",
+            "Title": "Swiss Author",
+            "Name": "Friedrich Durrenmatt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/che-guevara.webp",
+            "Text": "Remember that the revolution is what is important, and each one of us, alone, is worth nothing.",
+            "Title": "Argentinian Revolutionary",
+            "Name": "Che Guevara"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anthony-j-dangelo.webp",
+            "Text": "Promise yourself to live your life as a revolution and not just a process of evolution.",
+            "Title": "American Writer",
+            "Name": "Anthony J. D'Angelo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-f-kennedy.webp",
+            "Text": "Those who make peaceful revolution impossible will make violent revolution inevitable.",
+            "Title": "American President",
+            "Name": "John F. Kennedy"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mahmoud-ahmadinejad.webp",
+            "Text": "The wave of the Islamic revolution will soon reach the entire world.",
+            "Title": "Iranian Statesman",
+            "Name": "Mahmoud Ahmadinejad"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samora-machel.webp",
+            "Text": "Your life continues in those who continue the revolution.",
+            "Title": "Leader",
+            "Name": "Samora Machel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/abbie-hoffman.webp",
+            "Text": "The only way to support a revolution is to make your own.",
+            "Title": "American Activist",
+            "Name": "Abbie Hoffman"
+        }
+    ]
+}

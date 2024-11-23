@@ -1,0 +1,345 @@
+{
+    "currentWord": {
+        "wordRoot": "restore",
+        "id": 11178,
+        "phonemic": "rɪˈstɔː(r)|rɪˈstɔːr\r",
+        "bigId": "52ded751-c315-4883-a91f-4f02aee837e2",
+        "wordForms": [
+            "restores",
+            "restoring",
+            "restored",
+            "restore"
+        ]
+    },
+    "senses": [
+        {
+            "id": "52ded751-c315-4883-a91f-4f02aee837e2",
+            "de": "To bring back to the original condition",
+            "ty": "verb",
+            "ex": "The museum restored the ancient statue.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "restore peace",
+                " restore order",
+                " restore health"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/52ded751-c315-4883-a91f-4f02aee837e2.webp",
+            "Tips": [
+                {
+                    "title": "Physical Objects",
+                    "description": "Usually involves material things like art, buildings, or machines.",
+                    "example": "They plan to restore the vintage car to its former glory.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/q2vHhgDSq25kXrkrxn9ztaro.webp"
+                },
+                {
+                    "title": "Not Quick Fix",
+                    "description": "Restoration takes time and care, it's not a quick process.",
+                    "example": "The technicians will restore the old painting over several months.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qM9DoaS1lOl2gbQSXyGCMLxlws.webp"
+                },
+                {
+                    "title": "Original Beauty",
+                    "description": "Focus is often on aesthetics; making something look as it once did.",
+                    "example": "The team worked hard to restore the mural's original beauty.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/P5Y75w6DVcGVB5Gqy8JI11SvY1s.webp"
+                }
+            ]
+        },
+        {
+            "id": "36a5abf4-dccd-44b9-b77c-d9987a7284cb",
+            "de": "To give back something lost or taken",
+            "ty": "verb",
+            "ex": "He restored the lost wallet to its owner.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "restore sight",
+                " restore confidence",
+                " restore balance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/36a5abf4-dccd-44b9-b77c-d9987a7284cb.webp",
+            "Tips": [
+                {
+                    "title": "Lost and Found",
+                    "description": "Something lost or taken is returned willingly, often with a positive connotation.",
+                    "example": "The honest stranger restored my lost phone to me.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Rightful Owner",
+                    "description": "Emphasizing return of items or status to their legitimate owner or state.",
+                    "example": "The jewels were finally restored to the rightful owner after years.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "73560def-44f9-4200-96d4-8f9820935978",
+            "de": "To put back into a former position or place",
+            "ty": "verb",
+            "ex": "The queen was restored to the throne.",
+            "use": "",
+            "co": "Historical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "restore monarchy",
+                " restore status",
+                " restore position"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/73560def-44f9-4200-96d4-8f9820935978.webp",
+            "Tips": [
+                {
+                    "title": "Historical Context",
+                    "description": "Often used in history or politics when talking about power or titles.",
+                    "example": "The exiled leader was restored to power after the revolution.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Status Regained",
+                    "description": "Used when someone or something gets back a lost status or condition.",
+                    "example": "After the scandal, the politician worked to restore her reputation.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d64c9b9a-e86f-4e97-a2ce-c7c4887babf1",
+            "de": "To refresh or rejuvenate after feeling tired or weak",
+            "ty": "verb",
+            "ex": "A good night's sleep will restore your energy.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "restore vitality",
+                " restore strength",
+                " restore energy"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d64c9b9a-e86f-4e97-a2ce-c7c4887babf1.webp",
+            "Tips": [
+                {
+                    "title": "Health and Wellbeing",
+                    "description": "Commonly used when someone recovers their health or energy.",
+                    "example": "The spa weekend restored my sense of well-being.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mental Refreshment",
+                    "description": "Also refers to mental or emotional states, not just physical.",
+                    "example": "A walk in nature can restore your peace of mind.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "57bdea26-75f7-431b-881b-a14e097bc91e",
+            "de": "To make active or bring into existence again",
+            "ty": "verb",
+            "ex": "The government is working to restore the economy.",
+            "use": "",
+            "co": "Economic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "restore economy",
+                " restore function",
+                " restore service"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/57bdea26-75f7-431b-881b-a14e097bc91e.webp",
+            "Tips": [
+                {
+                    "title": "System Recovery",
+                    "description": "Often relates to economics or services being brought back to function.",
+                    "example": "Efforts are being made to restore electricity after the outage.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Revival Efforts",
+                    "description": "Focuses on bringing back activity or usage that had diminished or halted.",
+                    "example": "The city aims to restore the old train station to active use.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Establish": {
+            "wordRoot": "Establish",
+            "wordDefinition": "Establish means to create or start something new, while restore means to bring something back to its original state.\n\nEstablish is applicable when there is a need to make or create something new. For example, a new business might be established, or a new law might be established to deal with a particular problem.\n\nEstablish is about creating something new, while restore is about bringing something back to its original state.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49b0e5d3-7211-4c60-98ff-c034701baeab.webp"
+        },
+        "Gain": {
+            "wordRoot": "Gain",
+            "wordDefinition": "Gain means to acquire, obtain or increase something that was not previously there. For example, you can gain muscle by exercising regularly or gain knowledge by reading books.\n\nGain is applicable when you want to obtain something new or increase what you already have, while restore is applicable when you want to bring back something to its previous state or condition.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7cb93623-b435-4750-91ba-fbfb0635b803.webp"
+        },
+        "Recover": {
+            "wordRoot": "Recover",
+            "wordDefinition": "Recover means to get back something that was lost or taken away. For example, you can recover from an illness, you can recover a stolen item, or you can recover from a financial loss.\n\nRecover is applicable when something needs to be retrieved or regained, while restore is applicable when something needs to be returned to its original state or condition.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e282333e-dc2c-4b1c-b930-0fed15d00665.webp"
+        },
+        "Reinstate": {
+            "wordRoot": "Reinstate",
+            "wordDefinition": "Reinstate means to bring something back to its previous position or state, especially after it has been temporarily removed or stopped.\n\nThis can refer to reinstating an employee in their job after being fired, or reinstating a rule or law that was previously canceled.\n\nReinstate is more focused on returning something to a previous position or condition, while restore is more focused on bringing something back to its original state.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ccb769a1-2de9-4b5a-896e-e915d548027a.webp"
+        },
+        "Renew": {
+            "wordRoot": "Renew",
+            "wordDefinition": "Renew means to make something new or fresh again, like renewing a subscription or renewing a passport. It is applicable when something needs to be updated or restarted to its original state.\n\nRenew means to make something new again while restore means to bring something back to its original state.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8300e292-f9df-40a9-bd3b-2bd79bb8ca91.webp"
+        },
+        "Repair": {
+            "wordRoot": "Repair",
+            "wordDefinition": "Repair means fixing something that is broken or damaged so that it can function properly again. For example, you might repair a hole in your shirt or a leaky faucet.\n\nRepair is for fixing something that is currently not functioning, while restoration is for bringing something back to its original state or appearance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9881b1cf-04ed-4bcc-a19b-e250867e8f28.webp"
+        },
+        "Return": {
+            "wordRoot": "Return",
+            "wordDefinition": "Return means to bring something back to the place where it came from. For example, if you borrow a book from a library, you must return it to the library.\n\nThe difference between the two words is that restore is used when something needs to be fixed or repaired to its former state, while return is used when something needs to be brought back to the place where it came from.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e2a954d7-5bb5-42c7-88bb-921405699b24.webp"
+        },
+        "Revive": {
+            "wordRoot": "Revive",
+            "wordDefinition": "Revive means to bring something back to life or to give it new energy or vitality. For example, reviving a dying plant means bringing it back to health by watering and nurturing it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b5afd47b-24b9-4e11-a436-31fbb2c92e5b.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " with restrictions on certain boats and equipment. Harmful practices, such as bottom trawling, can be banned altogether, and we can establish marine reserves closed to all fishing to help ecosystems restore themselves. There's also a role for consumer awareness and boycotts to reduce wasteful practices, like shark finning,",
+            "Title": "Will the ocean ever run...",
+            "VideoId": "WNdR808jMSA",
+            "Controls": "start=191"
+        },
+        {
+            "Text": " They must pass three trials of wisdom, and only then can the day vanquish the night. Helped by the flute's magic power, the two youths overcome these trials and the Queen's attempts to sabotage them. They're finally initiated into the temple having restored balance to the kingdom.",
+            "Title": "The secrets of Mozart’s...",
+            "VideoId": "8iKd-P4Bcac",
+            "Controls": "start=108"
+        },
+        {
+            "Text": " and the dearth of functional white blood cells impairs the immune system, increasing the risk of infections. To restore the normal function of the blood, leukemic cells have to be eliminated. But because leukemias are not solid tumors, they can't be removed surgically.",
+            "Title": "What is leukemia? -...",
+            "VideoId": "Z3B-AaqjyjE",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " These procedures reestablish circulation to the cardiac muscle, restoring heart function. Heart attack treatment is advancing, but prevention is vital. Genetics and lifestyle factors both affect your risk. And the good news is that you can change your lifestyle.",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=183"
+        },
+        {
+            "Text": " in an attempt to restore the neutral charge equilibrium. And this quick movement of electrons, called static discharge, is what we recognize as that sudden spark. This process doesn't happen with just any objects. Otherwise you'd be getting zapped all the time.",
+            "Title": "The science of static...",
+            "VideoId": "yc2-363MIQs",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " It's his responsibility to bring it up, because if he thinks about it, he can relieve Heather from the obsession, and from having to make sure that the affair isn't forgotten, and that in itself begins to restore trust. But for Heather,",
+            "Title": "Rethinking infidelity...",
+            "VideoId": "P2AUat93a8Q",
+            "Controls": "start=1042"
+        },
+        {
+            "Text": " that individual rights and freedoms were fundamental to human nature and government existed only to protect them. Their privileges gone, many nobles fled abroad, begging foreign rulers to invade France and restore order.",
+            "Title": "What caused the French...",
+            "VideoId": "PBn7iWzrKoI",
+            "Controls": "start=188"
+        },
+        {
+            "Text": " and government schemes are now encouraging farmers to restore intensively farmed land for wildlife farmland that encourages butterflies is a place of flowering meadows and field margins buzzing with life",
+            "Title": "Beautiful Butterfly...",
+            "VideoId": "BxQ06YuP-Vw",
+            "Controls": "start=488"
+        },
+        {
+            "Text": " at your disposal to ignite public support for a global network of marine protected areas hope spots large enough to save and restore the ocean the blue heart of the planet my wish is a big",
+            "Title": "Taking care of the ocean...",
+            "VideoId": "4l3-uT9wZ_I",
+            "Controls": "start=326"
+        },
+        {
+            "Text": " father had forbidden. It's more evidence Tutankhamun had abandoned his father's revolution. He had restored belief in the afterlife and the power of all Egypt's gods.",
+            "Title": "Tutankhamun's True...",
+            "VideoId": "kI2XQ67chqE",
+            "Controls": "start=115"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-van-zandt.webp",
+            "Text": "As most of the population suffers through life, barely surviving, disappointed and confused day after day, hopeless, wondering what happened to their strong and beautiful country, it is in the media's power to restore, if not some of our quality of life, at least a bit of our peace of mind.",
+            "Title": "American Musician",
+            "Name": "Steven Van Zandt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frances-mayes.webp",
+            "Text": "I got the idea that to write books would be the best way to spend a life. I never thought of anything else that seemed like half as much fun, although in my next life I would like to be an architect, too, so I can have an easier time restoring houses.",
+            "Title": "American Educator",
+            "Name": "Frances Mayes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sofia-helin.webp",
+            "Text": "I arrange it by working four days away from home, and three days at home with the family, so I work four long days rather than five shorter. But it's hard because everything is on hold. We have to restore the family life during the weekends.",
+            "Title": "Swedish Actress",
+            "Name": "Sofia Helin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rand-paul.webp",
+            "Text": "The most important thing you will do is yet to be seen. For me, I found my important thing to do when I learned to do surgery on the eye, when I learned to restore a person's vision.",
+            "Title": "American Politician",
+            "Name": "Rand Paul"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sally-yates.webp",
+            "Text": "Restoring a person's ability to achieve success when they leave the prison walls promotes public safety, builds our economy and, most importantly, is the right thing to do.",
+            "Title": "American Lawyer",
+            "Name": "Sally Yates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ken-cuccinelli.webp",
+            "Text": "Ethics reform is about restoring the public trust. When that is in doubt, nothing is more important than restoring it.",
+            "Title": "American Politician",
+            "Name": "Ken Cuccinelli"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gerrit-smith.webp",
+            "Text": "True, permanent peace can never be restored, until slavery, the occasion of the war, has ceased.",
+            "Title": "American Politician",
+            "Name": "Gerrit Smith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-campbell.webp",
+            "Text": "Canadians want to see real hope restored, not false hopes raised.",
+            "Title": "Canadian Statesman",
+            "Name": "Kim Campbell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeremy-camp.webp",
+            "Text": "Restored' has been about how God has restored my life.",
+            "Title": "American Musician",
+            "Name": "Jeremy Camp"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hillary-clinton.webp",
+            "Text": "I helped to restore America's leadership.",
+            "Title": "American Politician",
+            "Name": "Hillary Clinton"
+        }
+    ]
+}

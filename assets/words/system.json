@@ -1,0 +1,310 @@
+{
+    "currentWord": {
+        "wordRoot": "system",
+        "id": 19583,
+        "phonemic": "ˈsɪstəm|ˈsɪstəm\r",
+        "bigId": "0fed490c-54ab-46a8-b982-e55967c45ba0",
+        "wordForms": [
+            "systems",
+            "system"
+        ]
+    },
+    "senses": [
+        {
+            "id": "0fed490c-54ab-46a8-b982-e55967c45ba0",
+            "de": "A set of things working together as parts of a mechanism or network.",
+            "ty": "noun",
+            "ex": "The computer has a system of cooling fans to prevent overheating.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "system of governance",
+                "system of education",
+                "system of measurement"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0fed490c-54ab-46a8-b982-e55967c45ba0.webp",
+            "Tips": [
+                {
+                    "title": "Mechanical Context",
+                    "description": "Used when referring to physical systems or networks that perform specific functions.",
+                    "example": "The card payment system processes transactions efficiently.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/5yYtKTT2B2TrqBkrgh7cuLrqD4.webp"
+                },
+                {
+                    "title": "Interconnected Parts",
+                    "description": "Emphasizes how different components work together within a system.",
+                    "example": "The jury system relies on judges, lawyers, and jurors.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/gnmZa6KMjmzonXaYeAujd2u2q0o.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4fb08456-6ab8-43e6-8d3c-b2779ed5f91f",
+            "de": "A way of organizing something according to a plan or set rules.",
+            "ty": "noun",
+            "ex": "The school has a new system for scheduling classes.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "system of management",
+                " system of rules",
+                " system of operations"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4fb08456-6ab8-43e6-8d3c-b2779ed5f91f.webp",
+            "Tips": [
+                {
+                    "title": "Organizational Use",
+                    "description": "Refers to structured procedures or rules designed to manage activities.",
+                    "example": "The library uses a categorization system for all books.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Planned Efficiency",
+                    "description": "Often implies an effort to improve efficiency through systematic planning.",
+                    "example": "The company implemented a tracking system for deliveries.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5bec40ed-cbd5-4ec8-ac70-1a285d1d5296",
+            "de": "A natural set of events or reactions, such as in the body or environment.",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "Breathing is controlled by the respiratory system.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "system of digestion",
+                " system of circulation",
+                " nervous system"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5bec40ed-cbd5-4ec8-ac70-1a285d1d5296.webp",
+            "Tips": [
+                {
+                    "title": "Biological Networks",
+                    "description": "Refers to complex biological networks within living organisms.",
+                    "example": "Humans rely on their immune system to fight infections.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Natural Processes",
+                    "description": "Highlights natural and often involuntary processes in the context of biology or ecology.",
+                    "example": "Ecosystems are systems with many interacting life forms and chemicals.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "d4e07d5e-06ee-4535-9f08-5ee6b26c7616",
+            "de": "A set of principles or procedures for achieving something.",
+            "ty": "noun",
+            "ex": "They have established a system to deal with customer complaints.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "system of enforcement",
+                " grading system",
+                " judicial system"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d4e07d5e-06ee-4535-9f08-5ee6b26c7616.webp",
+            "Tips": [
+                {
+                    "title": "Goal-Oriented",
+                    "description": "Focuses on achieving specific outcomes, particularly in professional or formal contexts.",
+                    "example": "The government created a pension system for retirees.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Systematic Approach",
+                    "description": "Indicates a carefully designed approach towards a complex task or challenge.",
+                    "example": "Researchers developed a system to study climate change effects.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Framework": {
+            "wordRoot": "Framework",
+            "wordDefinition": "A framework is a pre-designed structure that helps to organize and simplify complex information or tasks. It is like the outline of a book that helps to guide the author's writing.\n\nFrameworks provide a general structure that can be customized to fit specific needs.\n\nBoth framework and system are applicable in different ways. Frameworks are useful when dealing with complex information or tasks that need to be organized in a structured manner.\n\nFor example, a software development framework like React or Angular provides developers with a pre-existing structure to build web applications.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/74afab75-387b-4c36-b9bb-1dc35743608d.webp"
+        },
+        "Mechanism": {
+            "wordRoot": "Mechanism",
+            "wordDefinition": "A mechanism is a device or a set of moving parts that performs a particular function.\n\nA mechanism is a specific part or device that performs a task, while a system is a group of parts that work together to achieve a larger goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5acd6d3c-0fb2-47e9-b4c9-605861940cc3.webp"
+        },
+        "Method": {
+            "wordRoot": "Method",
+            "wordDefinition": "Both method and system refer to a particular way of doing something, but there is a subtle difference between them.\n\nA method is a particular way of doing something that follows a specific set of steps or procedures to achieve a particular outcome.\n\nFor example, a recipe is a method for cooking a particular dish.\n\nA method is more specific and focused on achieving a particular outcome, while a system is broader and encompasses many different elements that work together to achieve a larger goal.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc357a41-70fc-422c-a299-6eaf9554a1a1.webp"
+        },
+        "Network": {
+            "wordRoot": "Network",
+            "wordDefinition": "A network is a collection of devices like computers, printers, and servers that are all connected together. The purpose of a network is to allow these devices to communicate with each other and share resources like files and internet access.\n\nA network is a type of system that focuses on connecting devices together, while a system is a broader concept that can include many different types of components working together.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/da78fbaf-b114-430e-a3dc-277903122bdb.webp"
+        },
+        "Order": {
+            "wordRoot": "Order",
+            "wordDefinition": "Order refers to a sequence or arrangement of things or events that make sense and are organized. It's usually applied to a specific situation or task.\n\nFor example, a teacher may ask her students to put their class notes in alphabetical order, meaning they should arrange them in a sequence based on the letters of the alphabet.\n\nThe main difference between order and system is that order is specific to a particular situation, while system is a more general idea that's applicable to many situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fc50fd79-d055-4244-a872-8cdade011ffc.webp"
+        },
+        "Organization": {
+            "wordRoot": "Organization",
+            "wordDefinition": "An organization refers to a group of people who work together towards a common goal or objective. It involves human interaction and management of those individuals to achieve a specific goal.\n\nIn simpler terms, organizations involve people working together while systems involve machines or processes working together.\n\nOrganizations are applicable in any domain where people work together towards a common goal while systems are applicable in engineering, technology, and other technical fields where automated processes are involved.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2366d93d-1c4c-4dde-9278-1078efab1c64.webp"
+        },
+        "Process": {
+            "wordRoot": "Process",
+            "wordDefinition": "Process refers to a series of steps or actions taken to achieve a particular result. For instance, making a cake involves a process of mixing ingredients, baking the mixture, and decorating the cake.\n\nThe process emphasizes the order and flow of steps needed to achieve a goal.\n\nThe word system refers to a collection of parts that work together to achieve a particular purpose. For instance, a computer system involves hardware, software, and human operators working together to process information.\n\nTo summarize, a process refers to a series of steps taken to achieve a goal, whereas a system refers to a collection of parts working together to achieve a purpose.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/214c3479-b2b3-46be-8d7c-976cb7fa0b51.webp"
+        },
+        "Scheme": {
+            "wordRoot": "Scheme",
+            "wordDefinition": "Scheme typically refers to a plan or a project that has been designed to achieve a particular goal or objective.\n\nScheme is often used to describe a more specific and focused plan, while system describes larger, more encompassing structures or processes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a92fdea-8c91-4a85-90f2-b61d2ba82dff.webp"
+        },
+        "Structure": {
+            "wordRoot": "Structure",
+            "wordDefinition": "Structure refers to the arrangement or organization of something, including its physical components. For example, a building has a structure that includes its walls, floors, and roof.\n\nStructure is more applicable when referring to physical objects, while system is more applicable when referring to processes, procedures, or complex organizations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/88ca46b7-bdd3-429f-9601-295f33ad9599.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " command of everything and controlling it and that's what we're seeing around the world command and control mentalities and education is not an industrial system it's an organic system it's a human system and we make much more progress if we apply principles of Agriculture an actually of organic farming you might compare organic farming with industrial farming and say",
+            "Title": "Expanding our definition...",
+            "VideoId": "8awctnozMdo",
+            "Controls": "start=561"
+        },
+        {
+            "Text": " that life is ultimately just complex patterns of information interacting with each other in a beautiful way, and that that can happen more efficiently at a small scale. So, just as on Earth, clunky stereo systems have shrunk to beautiful, tiny iPods, maybe intelligent life itself, in order to reduce its footprint on the environment,",
+            "Title": "Questions No One Knows...",
+            "VideoId": "7SWvDHvWXok",
+            "Controls": "start=593"
+        },
+        {
+            "Text": " But that's a pretty extreme situation. On a normal, day-to-day basis, maintaining a well-hydrated system is easy to manage for those of us fortunate enough to have access to clean drinking water. For a long time, conventional wisdom said that we should drink eight glasses a day. That estimate has since been fine-tuned.",
+            "Title": "What would happen if you...",
+            "VideoId": "9iMGFqMmUFs",
+            "Controls": "start=186"
+        },
+        {
+            "Text": " At this point, your arm muscles alone won't be able to generate enough tension to pull it open, so your brain appeals to other muscles for help. You plant your feet, tighten your belly, and tense your back, generating enough force to yank it open. Your nervous system has just leveraged the resources you already have,",
+            "Title": "What makes muscles grow?...",
+            "VideoId": "2tM1LFFxeKg",
+            "Controls": "start=62"
+        },
+        {
+            "Text": " Another critical property of the Sun is its magnetic field which encapsulates the entire solar system Called the heliosphere this force field protects the planets from harmful cosmic radiation It's caused by the sun's plasma pushing electrically charged particles toward the Stars poles",
+            "Title": "Sun 101 PIPE National...",
+            "VideoId": "2HoTK_Gqi2Q",
+            "Controls": "start=181"
+        },
+        {
+            "Text": " From here, the signal activates the brain's reward system. This reward system is a series of electrical and chemical pathways across several different regions of the brain. It's a complicated network, but it helps answer a single, subconscious should I do that again?",
+            "Title": "How sugar affects the...",
+            "VideoId": "lEXBxijQREo",
+            "Controls": "start=87"
+        },
+        {
+            "Text": " We have advances in biology that should dramatically change the turnaround time to look at a pathogen and be able to make drugs and vaccines that fit for that pathogen. So we can have tools, but those tools need to be put into an overall global health system.",
+            "Title": "Bill Gates: The next...",
+            "VideoId": "6Af6b_wyiwI",
+            "Controls": "start=320"
+        },
+        {
+            "Text": " because they could transform our relationship with energy. For example, if you could build a perpetual motion machine that included humans as part of its perfectly efficient system, it could sustain life indefinitely. There's just one problem.",
+            "Title": "Why don't perpetual...",
+            "VideoId": "A-QgGXbDyR0",
+            "Controls": "start=59"
+        },
+        {
+            "Text": " This law says take an isolated system defined by a boundary that matter and energy cannot cross. Inside this system, mass, a.k.a. matter and energy, can neither be created nor destroyed. The universe, to the best of our knowledge,",
+            "Title": "The law of conservation...",
+            "VideoId": "2S6e11NBwiw",
+            "Controls": "start=20"
+        },
+        {
+            "Text": " A digestive system processing piles of food deep inside. Even a coordinated system for dealing with all the waste.",
+            "Title": "Army Ants Rampage...",
+            "VideoId": "JsfiUR0ZzLw",
+            "Controls": "start=39"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ben-carson.webp",
+            "Text": "It's very important for people to know themselves and understand what their value system is, because if you don't know what your value system is, then you don't know what risks are worth taking and which ones are worth avoiding.",
+            "Title": "American Scientist",
+            "Name": "Ben Carson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kim-kardashian.webp",
+            "Text": "At the end of the day, life is about being happy being who you are, and I feel like we are so blessed to have the support system and the best family to really just support each other no matter what we're going through.",
+            "Title": "American Celebrity",
+            "Name": "Kim Kardashian"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-james.webp",
+            "Text": "Truth lives, in fact, for the most part on a credit system. Our thoughts and beliefs pass, so long as nothing challenges them, just as bank-notes pass so long as nobody refuses them.",
+            "Title": "American Philosopher",
+            "Name": "William James"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-harrison.webp",
+            "Text": "They gave their money, and they gave their screams. But the Beatles kind of gave their nervous systems. They used us as an excuse to go mad, the world did, and then blamed it on us.",
+            "Title": "British Musician",
+            "Name": "George Harrison"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/drew-barrymore.webp",
+            "Text": "I'm glad I lived such a full life before I settled down into a family because I got to enjoy it and get it out of my system.",
+            "Title": "American Actress",
+            "Name": "Drew Barrymore"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/terry-pratchett.webp",
+            "Text": "I think it does Discworld good if I don't write about it all the time: sometimes you have to get it out of your system.",
+            "Title": "English Author",
+            "Name": "Terry Pratchett"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jack-kingston.webp",
+            "Text": "You have to respect the system. If you have a problem with the system, change the system.",
+            "Title": "American Politician",
+            "Name": "Jack Kingston"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zawe-ashton.webp",
+            "Text": "I've always acted, it's my passion and belief system.",
+            "Title": "English Actress",
+            "Name": "Zawe Ashton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/penny-marshall.webp",
+            "Text": "I have a good support system of friends and family.",
+            "Title": "American Actress",
+            "Name": "Penny Marshall"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-winget.webp",
+            "Text": "I have a great support system.",
+            "Title": "Indian Actress",
+            "Name": "Jennifer Winget"
+        }
+    ]
+}

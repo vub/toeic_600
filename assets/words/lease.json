@@ -1,0 +1,314 @@
+{
+    "currentWord": {
+        "wordRoot": "lease",
+        "id": 16871,
+        "phonemic": "liːs|liːs\r",
+        "bigId": "661c03fe-9bde-44d1-bec7-588ff4bec134",
+        "wordForms": [
+            "leases",
+            "leasing",
+            "leased",
+            "lease"
+        ]
+    },
+    "senses": [
+        {
+            "id": "661c03fe-9bde-44d1-bec7-588ff4bec134",
+            "de": "A contract for renting something.",
+            "ty": "noun",
+            "ex": "She signed a two-year lease on the apartment.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sign a lease",
+                " break a lease",
+                " renew a lease"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/661c03fe-9bde-44d1-bec7-588ff4bec134.webp",
+            "Tips": [
+                {
+                    "title": "Legal Binding",
+                    "description": "A lease is a legal document, breaking it can have consequences.",
+                    "example": "Before breaking your lease, check the penalty clause.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/kj6GHT6BnMYj2IjEJKIu9fIKKrg.webp"
+                },
+                {
+                    "title": "Negotiable Terms",
+                    "description": "Terms in a lease can often be negotiated before signing.",
+                    "example": "You can negotiate the monthly payments before you sign the lease.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GLQY9FXGgP4TKppfpdkrFDIg4fM.webp"
+                },
+                {
+                    "title": "Specific Conditions",
+                    "description": "Leases include specific conditions like maintenance responsibilities.",
+                    "example": "The lease specifies who pays for apartment repairs.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/PnvHbAJIkCsXE7LFCx5ex4Btr8.webp"
+                }
+            ]
+        },
+        {
+            "id": "71b18a58-fc47-4aa3-a6ad-18329d86f174",
+            "de": "To rent out something.",
+            "do": "General",
+            "ty": "verb",
+            "ex": "The company leases out its properties to tenants.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "lease out property",
+                " lease to someone",
+                " lease for a term"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/71b18a58-fc47-4aa3-a6ad-18329d86f174.webp",
+            "Tips": [
+                {
+                    "title": "Passive Income",
+                    "description": "Leasing as a verb can be a way to earn income from owned properties.",
+                    "example": "They lease out their farmland to local farmers.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Flexibility for Business",
+                    "description": "Businesses may lease equipment to adapt to changing technology.",
+                    "example": "The company leases the latest printers every year.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "c0485cdb-5c3d-4394-bde6-9da0396a695c",
+            "de": "To rent something from someone.",
+            "do": "General",
+            "ty": "verb",
+            "ex": "She decided to lease a car instead of buying one.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "lease a car",
+                " lease a house",
+                " lease a property"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c0485cdb-5c3d-4394-bde6-9da0396a695c.webp",
+            "Tips": [
+                {
+                    "title": "Short-Term Commitment",
+                    "description": "Leasing lets you use an asset for a while without buying it.",
+                    "example": "Leasing a car can be better if you relocate frequently.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Immediate Use",
+                    "description": "Leasing allows immediate use of an item while paying over time.",
+                    "example": "She leased the latest phone model right away.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "04f550f7-2ba6-41ad-9aec-7e0c6547767d",
+            "de": "The period of time for which a contract is valid.",
+            "ty": "noun",
+            "ex": "The lease on this property is about to expire.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "five-year lease",
+                " short-term lease",
+                " long-term lease"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/04f550f7-2ba6-41ad-9aec-7e0c6547767d.webp",
+            "Tips": [
+                {
+                    "title": "Renewal Consideration",
+                    "description": "Near the end of a lease, decide whether to renew or vacate.",
+                    "example": "As his lease's end approached, he considered renewing it.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Market Fluctuations",
+                    "description": "Lease duration can affect rent price; market rates can change.",
+                    "example": "After his five-year lease, the rent went up due to market changes.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Agreement": {
+            "wordRoot": "Agreement",
+            "wordDefinition": "An agreement is a general term that means a mutual understanding between two or more people or parties.\n\nA lease is a specific type of agreement that refers to a contract between two parties in which one party (the landlord) allows another party (the tenant) to use their property for a specific period of time in exchange for rent.\n\nSo, while an agreement can refer to any kind of understanding between parties, a lease specifically refers to a contract for renting property.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fb58f305-e166-422a-87a3-28f4bf1160c7.webp"
+        },
+        "Contract": {
+            "wordRoot": "Contract",
+            "wordDefinition": "A contract is a legally binding agreement between two parties, where they agree to do something for each other.\n\nIt can be for goods or services, and it can be for a short or long period of time. For example, if you hire a tutor for a month, you would sign a contract that lays out the details of your agreement.\n\nA lease is a type of contract that is specifically used for renting property. It is an agreement between the landlord (owner of the property) and the tenant (person renting the property) for a set amount of time.\n\nA contract can be used for any type of agreement, while a lease specifically refers to a rental agreement for property.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/16e3c77a-4f67-49c3-9516-58b201dd0037.webp"
+        },
+        "Hire": {
+            "wordRoot": "Hire",
+            "wordDefinition": "Hire means to temporarily use or employ something or someone, often in exchange for payment. For example, you can hire a car or hire a person for a job.\n\nLease means to rent something for a period of time, usually for a longer duration than hiring. For example, you can lease an apartment or lease a car.\n\nYou hire something or someone for a short-term use or employment, while you lease something for a longer-term rental agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d2c4a2f9-483f-4a1a-8526-e5d7a3161b5e.webp"
+        },
+        "Let": {
+            "wordRoot": "Let",
+            "wordDefinition": "Let means to allow someone to use something that is yours.\n\nIt can be used in various contexts such as letting someone borrow a book or letting a friend live in your spare room.\n\nLease is used when talking about renting property or equipment for a specified period of time while let is used in a broader sense to refer to allowing someone to use something that is yours.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cedf50e6-3638-4014-950f-4a159a0385a5.webp"
+        },
+        "Occupancy": {
+            "wordRoot": "Occupancy",
+            "wordDefinition": "Occupancy refers to the act of physically living or dwelling in the leased property. It does not necessarily have to be part of a lease agreement and can refer to any situation where a person is living in a particular location, such as a home or apartment.\n\nLease is a document that outlines the terms of a rental agreement, while occupancy refers to actually living in the rental property.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9a755e5b-91ef-4bc8-b8e7-f4df8785b3e2.webp"
+        },
+        "Rent": {
+            "wordRoot": "Rent",
+            "wordDefinition": "Rent usually refers to a short-term agreement, it is the money paid regularly to the landlord by someone who is occupying a property.\n\nIt is generally for a short-term solution, such as renting a room or an apartment for a few months or so.\n\nIn summary, leasing is a contract for a more extended period, and renting is a short-term agreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/28846e2b-c63c-44c8-b96b-56f4ab6763a5.webp"
+        },
+        "Sublet": {
+            "wordRoot": "Sublet",
+            "wordDefinition": "On the other hand, subletting is when a tenant rents a property to someone else while they are still under lease with the landlord.\n\nSubletting is usually done when the tenant needs to move out before the lease is up but still wants to avoid breaking their lease or paying extra fees.\n\n- Sublet: when a tenant rents out a property they are already renting to someone else for part of their lease period.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5d688007-e561-4dc3-b46e-f16dfb695f9d.webp"
+        },
+        "Tenancy": {
+            "wordRoot": "Tenancy",
+            "wordDefinition": "It typically includes provisions on rent, utilities, maintenance, and other conditions of the tenancy.\n\nTenancy refers to the right of a person to occupy a property as a tenant. It is a broader term that encompasses the relationship between the tenant and the landlord, including both the legal and practical aspects of the tenancy.\n\nIn simpler terms, a lease is an agreement that sets out the rules of renting a property, while tenancy refers to the fact of living in and occupying that property.\n\nLease is applicable when you are renting a property and entering into a formal contract with a landlord, while tenancy is a more general term that applies to any situation where you are living in someone else's property as a tenant.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/557642a0-e1aa-477b-8ee9-5cbfd072891f.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " from utilitarian rafts to the Doge's own ostentatious gilded barge. Like a modern day taxi system, gondolas were leased to boatmen who made the rounds of the city's ferry stations. Passengers paid a fare to be carried from one side of the Grand Canal to the other, as well as to other points around the city.",
+            "Title": "Corruption, wealth and...",
+            "VideoId": "B5x5CnwQZD4",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " You're going to get a lot more cars moving on streets. There will be more congestion. Because they're so appealing -- you can drive while reading or sleeping. Well, a couple of reasons. One is, if they're privately owned, people will travel greater distances. It'll be a new lease on life to sprawl.",
+            "Title": "7 principles for...",
+            "VideoId": "IFjD3NMv6Kw",
+            "Controls": "start=758"
+        },
+        {
+            "Text": " areas are actually found in leases where deep-sea mining may occur in the future it's the first deep-sea species to be added to the red list the IUCN's list of endangered animals as a result of deep-sea mining now that scientists know they're down there they can monitor them",
+            "Title": "Diving 1000m Below The...",
+            "VideoId": "dEcDcbBRB04",
+            "Controls": "start=221"
+        },
+        {
+            "Text": " The idea is that, as part of human nature, from the beginning of our species' time, men have sort of leased women's reproductive potential by providing them with certain goods and services. Generally we're talking about meat, shelter, status, protection, things like that.",
+            "Title": "Are we sexual omnivores?...",
+            "VideoId": "LJhklPJz9U8",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " will beat everything, hands down, including natural gas. How? It must, actually. If it doesn't, we're in deep trouble. But you're not selling solar panels to consumers. What are you doing? No, we actually are. You can buy a solar system or you can lease a solar system.",
+            "Title": "The mind behind Tesla,...",
+            "VideoId": "IgKWPdJWuBQ",
+            "Controls": "start=510"
+        },
+        {
+            "Text": " could mr. Chen vowed to devote his life to bringing bee sting therapy to others after six months of beasting therapy show wrong Chen has seen a dramatic change she insists the therapy has relieved her multiple sclerosis and given her a new lease on life",
+            "Title": "Bee Therapy PIPE National...",
+            "VideoId": "Xe2h0vkp1mA",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " So, I decided it was time to end and go back home. This time I said let's try something different. I need to be reborn again. And I thought the best way, as most of you know who have children, the best way to have a new lease on life,",
+            "Title": "My 5 lives as an artist...",
+            "VideoId": "I_4IK8CiLg8",
+            "Controls": "start=884"
+        },
+        {
+            "Text": " I mean, these people had nothing, and they were so petrified, they wanted to give up, but the woman in the center rallied for them to persevere, and abolitionists on the ground helped them get a quarry lease of their own,",
+            "Title": "Lisa Kristine: Photos...",
+            "VideoId": "9TPFLHvn024",
+            "Controls": "start=453"
+        },
+        {
+            "Text": " close business but the increased water from the lease help them reopen sooner and get revenues flowing again traveling down through the middle of town enjoying a day on the river you will also pass",
+            "Title": "Hope for Rivers During...",
+            "VideoId": "3EshDJOVSk4",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " have to forgive those who drew the long straw otherwise I'll be stuck forever forgetting allows you to move forward it can give you a new lease on life so that",
+            "Title": "What forgiveness can...",
+            "VideoId": "TEfxPpnMuNQ",
+            "Controls": "start=472"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jessica-andrade.webp",
+            "Text": "I did it all, man. My father worked with planting, leasing the land and planting corn and beans, things like that. My brother and I helped to harvest. At the time of planting, we would go along too. I think that made me become the woman I am today, strong and focused.",
+            "Title": "Brazilian Mixed Martial Artist",
+            "Name": "Jessica Andrade"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/trevor-noah.webp",
+            "Text": "My mom, through my dad, rented the apartment next door to his... he had the lease on both places. But then, she would dress up and act like his maid... a practical maid. No fantasies.",
+            "Title": "South African Comedian",
+            "Name": "Trevor Noah"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-l-flannery.webp",
+            "Text": "We have invested in many of our customers in the health care business by lending or leasing money for equipment purchases or investing in some customers to help them grow business.",
+            "Title": "American Businessman",
+            "Name": "John L. Flannery"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steve-vai.webp",
+            "Text": "It just happens in life, where you resonate with a particular artist. Or it can be a kind of food or a fashion - you discover it and it gives you a whole new lease on life.",
+            "Title": "American Musician",
+            "Name": "Steve Vai"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-redford.webp",
+            "Text": "When you get older, you learn certain life lessons. You apply that wisdom, and suddenly you say, 'Hey, I've got a new lease on this thing. So let's go.",
+            "Title": "American Actor",
+            "Name": "Robert Redford"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/samuel-butler.webp",
+            "Text": "Those who have never had a father can at any rate never know the sweets of losing one. To most men the death of his father is a new lease of life.",
+            "Title": "British Poet",
+            "Name": "Samuel Butler"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kriti-kharbanda.webp",
+            "Text": "Pawan Wadeya's 'Googly' gave me a new lease of life in Kannada cinema. I feel blessed that way. There's been no looking back since.",
+            "Title": "Indian Model",
+            "Name": "Kriti Kharbanda"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-bewkes.webp",
+            "Text": "Tablets generally have made it pretty obvious that magazines have a new lease on life.",
+            "Title": "American Businessman",
+            "Name": "Jeff Bewkes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/mollie-king.webp",
+            "Text": "Being single has definitely given me a new lease of life.",
+            "Title": "English Musician",
+            "Name": "Mollie King"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/craig-david.webp",
+            "Text": "It does feel that TS5 gave me such a new lease of life.",
+            "Title": "English Musician",
+            "Name": "Craig David"
+        }
+    ]
+}

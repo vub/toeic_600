@@ -1,0 +1,286 @@
+{
+    "currentWord": {
+        "wordRoot": "disperse",
+        "id": 7188,
+        "phonemic": "dɪˈspɜːs|dɪˈspɜːrs\r",
+        "bigId": "e5243e20-960b-4e8e-8bd6-b26891c1731a",
+        "wordForms": [
+            "disperses",
+            "dispersing",
+            "dispersed",
+            "disperse"
+        ]
+    },
+    "senses": [
+        {
+            "id": "e5243e20-960b-4e8e-8bd6-b26891c1731a",
+            "de": "To scatter or spread things over a wide area",
+            "ty": "verb",
+            "ex": "The crowd dispersed when the police arrived.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "disperse the crowd",
+                " disperse seeds",
+                " disperse light"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e5243e20-960b-4e8e-8bd6-b26891c1731a.webp",
+            "Tips": [
+                {
+                    "title": "Physical Action",
+                    "description": "Used when objects or people are physically moving apart.",
+                    "example": "The demonstrators dispersed peacefully after the rally.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8IKeMzWNxXWiBPNRkMIIa0Dn7M.webp"
+                },
+                {
+                    "title": "Not Disassemble",
+                    "description": "'Disperse' implies spreading widely, not taking something apart.",
+                    "example": "The wind helped to disperse the pollen across the field.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/rwefbWD5PJQPme0TYfO4OIeMQ.webp"
+                },
+                {
+                    "title": "Wide Area",
+                    "description": "The result often covers a large area, not just a slight expansion.",
+                    "example": "The farmer used a machine to disperse the fertilizer evenly over the crop.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/mZfJs0DDXGtIFHq3F5aO9jbQ48g.webp"
+                }
+            ]
+        },
+        {
+            "id": "5307976d-e7a3-4e77-ae32-c93826d9ce42",
+            "de": "To go or cause to go in different directions",
+            "ty": "verb",
+            "ex": "After the meeting, we all dispersed to our homes.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "disperse the team",
+                " disperse the group",
+                " disperse quickly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5307976d-e7a3-4e77-ae32-c93826d9ce42.webp",
+            "Tips": [
+                {
+                    "title": "Different Directions",
+                    "description": "Focuses on the movement of going away from a common point.",
+                    "example": "The participants dispersed into the city to complete the scavenger hunt.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "After an Event",
+                    "description": "Often used at the end of an event or gathering.",
+                    "example": "Guests started to disperse once the wedding reception ended.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c026f504-2220-4478-9b96-eaf5eff6d613",
+            "de": "To disappear or cause to disappear",
+            "ty": "verb",
+            "ex": "The morning fog will disperse as the day goes on.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "disperse the smoke",
+                " disperse the fog",
+                " dispersions quickly"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c026f504-2220-4478-9b96-eaf5eff6d613.webp",
+            "Tips": [
+                {
+                    "title": "Gradual Disappearance",
+                    "description": "Implies a slow fading away until no longer visible or present.",
+                    "example": "The sun emerged as the clouds began to disperse.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Instant",
+                    "description": "Disappearing through dispersal takes time, not immediate.",
+                    "example": "Smoke from the fireworks dispersed slowly into the night sky.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Diffuse": {
+            "wordRoot": "Diffuse",
+            "wordDefinition": "The words diffuse and disperse are both related to spreading out. Diffuse means to spread something out over a large area or to make something less concentrated.\n\nIt is applicable when you want to describe something spreading evenly in different directions, like the fragrance of perfume, which can be diffused evenly throughout a room.\n\nDiffuse is about spreading something evenly, while disperse is about scattering something in different directions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ac144681-6dd1-4e5e-b5c1-d8fa4b64f4e7.webp"
+        },
+        "Dispel": {
+            "wordRoot": "Dispel",
+            "wordDefinition": "\"Dispelling\" refers to making something go away, especially a notion or a myth. It means to dissuade a concern or misunderstanding, generally through clarification and confirmation of the true facts.\n\n\"Dispelling\" refers to getting rid of something negative or harmful, while disperse refers to spreading out something that is usually beneficial.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ad96749-c047-4002-ad63-eb19be897103.webp"
+        },
+        "Disseminate": {
+            "wordRoot": "Disseminate",
+            "wordDefinition": "Disseminate means to spread information or knowledge widely.\n\nThis word is commonly used when referring to spreading ideas, such as disseminating news or disseminating scientific research.\n\nDisperse is used when talking about physical objects spreading out, while disseminate is used to talk about ideas or information spreading out.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3b0044d-dbad-4f37-8956-027bc7a829d2.webp"
+        },
+        "Dissipate": {
+            "wordRoot": "Dissipate",
+            "wordDefinition": "Disperse means to scatter or spread out in different directions, while dissipate means to gradually disappear or disperse entirely.\n\nDissipate is often used when referring to things like energy or heat that gradually fade away, like the steam dissipating from a cup of hot tea.\n\nBoth words can be used interchangeably in certain contexts, but generally disperse is more commonly used when referring to physical dispersion, while dissipate is used when referring to the gradual disappearance of something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f6aa4291-fa5c-4aa2-9806-8be583593059.webp"
+        },
+        "Distribute": {
+            "wordRoot": "Distribute",
+            "wordDefinition": "Distribute means to give out or deliver something, usually in an organized or deliberate way. It's often used when talking about giving things like food, supplies, or information to people who need them.\n\nFor example, a charity might distribute food to people who are hungry.\n\nThe difference between the two is that disperse is about things moving away from each other while distribute is about things being given out to others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1adbd09e-46a8-4b40-95b4-6fb08e6e09d1.webp"
+        },
+        "Scatter": {
+            "wordRoot": "Scatter",
+            "wordDefinition": "Disperse and scatter are two verbs that are often used interchangeably to describe objects or people moving away from a central location.\n\nScatter generally means to throw or spread objects or people in different directions. It implies a forceful or chaotic movement, as if something is being thrown in every direction without any specific order.\n\nFor example, a teacher might scatter some candies around the classroom to reward their students.\n\nScatter is used when objects or people are thrown in different directions suddenly, while disperse is used when things gradually move away from each other in a controlled way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/fe115cd8-931f-41c0-b62b-9ba78a005878.webp"
+        },
+        "Sow": {
+            "wordRoot": "Sow",
+            "wordDefinition": "Disperse means to spread out or scatter in different directions, while the word sow means to plant seeds in or on the ground.\n\nSow is usually applicable when talking about planting seeds in soil.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/22115f92-34a2-4a2c-8efb-9b13747b3fba.webp"
+        },
+        "Spread": {
+            "wordRoot": "Spread",
+            "wordDefinition": "Spread means to extend or distribute over an area or surface. For example, butter being spread on toast or a wildfire spreading across a forest.\n\nSpread is applicable when referring to objects or substances extending over a surface or area.\n\nDisperse is used when referring to the scattering of objects or people, while spread is used when referring to objects or substances extending over a surface or area.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cc2a8c6e-aa80-4a47-ad06-f0b26b41c6b1.webp"
+        },
+        "Strew": {
+            "wordRoot": "Strew",
+            "wordDefinition": "Strew means to scatter or spread out in a random or haphazard way, as in strewing flower petals on a path or strewing toys around a room.\n\nDisperse is used when you want to describe something being spread out over a wide area or group, while strew is used when you want to describe something being scattered or spread out in a more random or haphazard way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e435ef9a-5f52-4bfb-a95a-8c328d40e648.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " pre-release pens for quite some time so they can get a feel for being in the wild so most of the fox clubs you know in that stage of their life they tend to come in at sort of february march time and they'll be with us until late summer early autumn and we'd then release them when they would naturally disperse from",
+            "Title": "Baby Orphan Fox Rescue PIPE...",
+            "VideoId": "Bn0Vxjd79g8",
+            "Controls": "start=172"
+        },
+        {
+            "Text": " and growing thick wooden stems that support these towering trees. Helped along by the vines, trees provide the seeds, fruits and leaves to herbivores, such as the tapir and the agouti, which disperse their seeds throughout the forest so they can grow. Leftovers are consumed by the millions of insects",
+            "Title": "Why is biodiversity so...",
+            "VideoId": "GK_vRtHJZu4",
+            "Controls": "start=65"
+        },
+        {
+            "Text": " that was actually really helpful for filming the kangaroos because they actually disperse quite a lot at night and then during the day they come back into these quite contained areas and they're kind of forced to do that a little bit by the environment the area where we're in is mostly females and",
+            "Title": "Filming The Kangaroo...",
+            "VideoId": "i3iYr7FzaaQ",
+            "Controls": "start=107"
+        },
+        {
+            "Text": " So, how did they accomplish this feat? Until recently, marine biologists thought of larval fish as largely passive drifters, dispersed by ocean currents to distant locales. But in the last 20 years, new research has suggested that larvae may not be as helpless as they seem,",
+            "Title": "The secret lives of baby...",
+            "VideoId": "iCM6CawGBRk",
+            "Controls": "start=98"
+        },
+        {
+            "Text": " disperse them these are deep patterns what happens is I bought one material system that tightened composite that that beetle is made of has all the functionality it needs what it does is it adds information to matter it has",
+            "Title": "Creating a Bio-Industrial...",
+            "VideoId": "YSOFd0YgpQQ",
+            "Controls": "start=343"
+        },
+        {
+            "Text": " reproduce very early in life so they reach maturity they grow very rapidly that are capable of dispersing large distances during their egg and marble phase which ride ocean currents a species that has venomous spines they",
+            "Title": "Divers Fight the...",
+            "VideoId": "GzaeYzAC8Ro",
+            "Controls": "start=29"
+        },
+        {
+            "Text": " important role in the forest, don't they? Yes, they do. They are also called engineers of the forest because they have this ability to disperse a large amount of seeds, especially large ones, because they travel a lot",
+            "Title": "The Spider Monkeys of...",
+            "VideoId": "JZdBZIqYFL4",
+            "Controls": "start=185"
+        },
+        {
+            "Text": " Now as I said before, bats are essential for our ecosystems to function correctly. And why is this? Bats in the tropics are major pollinators of many plants. They also feed on fruit, and they disperse the seeds",
+            "Title": "Emma Teeling: The secret...",
+            "VideoId": "GROCkg810R0",
+            "Controls": "start=376"
+        },
+        {
+            "Text": " but other specific instruments that disperse light. When we look at the scattered light from our sun, we see something dark lines in our rainbow. These lines are the characteristic fingerprints of atoms.",
+            "Title": "How do we study the...",
+            "VideoId": "i7930fj3T54",
+            "Controls": "start=141"
+        },
+        {
+            "Text": " Anything that the bear eats, especially fruits, The seeds that the bear is moving from one tree to the other, it's helping to disperse through the forest.",
+            "Title": "How Can Bees Save Bears?...",
+            "VideoId": "8tyasmWo3dM",
+            "Controls": "start=51"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aravind-adiga.webp",
+            "Text": "An honest politician has no goodies to toss around. This limits his effectiveness profoundly, because political power in India is dispersed throughout a multi-tiered federal structure; a local official who has not been paid off can sometimes stop a billion-dollar project.",
+            "Title": "Indian Writer",
+            "Name": "Aravind Adiga"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/carlos-fuentes.webp",
+            "Text": "Diplomacy in a sense is the opposite of writing. You have to disperse yourself so much: the lady who comes in crying because she's had a fight with the secretary; exports and imports; students in trouble; thumbtacks for the embassy.",
+            "Title": "Mexican Novelist",
+            "Name": "Carlos Fuentes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-watkins.webp",
+            "Text": "It is clearly a political move to remove 8chan from Cloudflare. It has forced a lot of people to find other places to talk. It has dispersed a peacefully assembled group of people talking. This silenced them effectively.",
+            "Title": "American Businessman",
+            "Name": "Jim Watkins"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pierre-teilhard-de-chardin.webp",
+            "Text": "For me, the real earth is that chosen part of the universe, still almost universally dispersed and in course of gradual segregation, but which is little by little taking on body and form in Christ.",
+            "Title": "French Philosopher",
+            "Name": "Pierre Teilhard de Chardin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bainbridge-colby.webp",
+            "Text": "But we must not, if we are loyal, disperse our energies in a partisan warfare that is waged without regard to its consequences to the well being, security, or honor of the country.",
+            "Title": "American Public Servant",
+            "Name": "Bainbridge Colby"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-coles.webp",
+            "Text": "I don't think of myself as a maverick at all. Quite the opposite - I really think of myself as quite conventional but dispersed over unusual territory.",
+            "Title": "English Musician",
+            "Name": "Richard Coles"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-maris.webp",
+            "Text": "All the information in the world has been pretty dispersed, but Google's mission has been to organize it and make it universally accessible.",
+            "Title": "American Businessman",
+            "Name": "Bill Maris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/r-buckminster-fuller.webp",
+            "Text": "Pollution is nothing but the resources we are not harvesting. We allow them to disperse because we've been ignorant of their value.",
+            "Title": "American Inventor",
+            "Name": "R. Buckminster Fuller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-edelman.webp",
+            "Text": "In a world of dispersed authority, the battle for the truth will be won or lost with the employees.",
+            "Title": "American Businessman",
+            "Name": "Richard Edelman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hans-ulrich-obrist.webp",
+            "Text": "Exhibitions usually are not collected; they disperse after they take place.",
+            "Title": "Swiss Critic",
+            "Name": "Hans-Ulrich Obrist"
+        }
+    ]
+}

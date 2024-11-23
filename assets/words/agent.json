@@ -1,0 +1,376 @@
+{
+    "currentWord": {
+        "wordRoot": "agent",
+        "id": 7818,
+        "phonemic": "ˈeɪdʒənt|ˈeɪdʒənt\r",
+        "bigId": "b270c1f5-fb45-4b2f-8f73-a99d8287d91f",
+        "wordForms": [
+            "agents",
+            "agent"
+        ]
+    },
+    "senses": [
+        {
+            "id": "b270c1f5-fb45-4b2f-8f73-a99d8287d91f",
+            "de": "A person who acts on behalf of another person or group",
+            "ty": "noun",
+            "ex": "She is acting as the agent for the company's Asian clients",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "estate agent",
+                " travel agent",
+                " insurance agent"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b270c1f5-fb45-4b2f-8f73-a99d8287d91f.webp",
+            "Tips": [
+                {
+                    "title": "Agent's Authority",
+                    "description": "Understand that an agent has authority from someone else to act on their behalf in specific situations.",
+                    "example": "As my agent, you can sign the contract for me.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/mXnzZC4e9wFGIwBiZAVdpc5yc.webp"
+                },
+                {
+                    "title": "Not Always Physical",
+                    "description": "An agent can represent someone without being physically present.",
+                    "example": "She will be my agent at the negotiations via video call.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/MFC4MBkjsQYUxHiimIZtfYFmdcA.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "4b3153a3-be17-418e-87f4-8ae3b0234571",
+            "de": "A person or thing that takes an active role or produces a specified effect",
+            "ty": "noun",
+            "ex": "Chemicals used as bleaching agents",
+            "use": "",
+            "co": "Scientific,Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "bleaching agent",
+                " active agent",
+                " chemical agent"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/4b3153a3-be17-418e-87f4-8ae3b0234571.webp",
+            "Tips": [
+                {
+                    "title": "Causation",
+                    "description": "When 'agent' refers to a thing, it usually implies that it is the direct cause of an effect.",
+                    "example": "Sunlight is the main agent of color fading in fabrics.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scientific Implications",
+                    "description": "In science, 'agent' often describes substances with specific effects in reactions or processes.",
+                    "example": "This compound acts as a reducing agent in the reaction.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b480c156-bc97-4677-a6fe-b1c11bd2c31c",
+            "de": "A person who manages business, financial, or contract matters for an actor, performer, writer, or other public figure",
+            "ty": "noun",
+            "ex": "Her literary agent got her a book deal",
+            "use": "",
+            "co": "Professional,Entertainment",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "literary agent",
+                " talent agent",
+                " booking agent"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/b480c156-bc97-4677-a6fe-b1c11bd2c31c.webp",
+            "Tips": [
+                {
+                    "title": "Career Facilitator",
+                    "description": "Agents in entertainment or literature are specialists who help creatives find work and negotiate deals.",
+                    "example": "My agent will handle all auditions and casting calls for me.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Not Just Promoters",
+                    "description": "Agents do more than promote; they manage financial and contractual details.",
+                    "example": "Her agent reviews all contracts to ensure fair terms.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fcde2526-33e6-492e-81fe-7ca7238c37e5",
+            "de": "A spy",
+            "ty": "noun",
+            "ex": "He was a secret agent for the government",
+            "use": "",
+            "co": "Governmental,Military",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "secret agent",
+                " double agent",
+                " undercover agent"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fcde2526-33e6-492e-81fe-7ca7238c37e5.webp",
+            "Tips": [
+                {
+                    "title": "Hidden Identity",
+                    "description": "In a governmental or military context, an agent often works undercover or keeps their role secret.",
+                    "example": "The agent gathered intelligence without revealing his true identity.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Espionage Context",
+                    "description": "Understand that 'agent' implies the spy's affiliation with an organization or country.",
+                    "example": "The double agent provided false information to the enemy.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0ca03e9d-4736-4ee5-a85d-3550f7bb0113",
+            "de": "A person capable of exerting power or influence",
+            "ty": "noun",
+            "ex": "The principal agent of society and culture",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "Formal",
+            "tp": "",
+            "cl": [
+                "agent of change",
+                " agent of influence",
+                " agent of destruction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/0ca03e9d-4736-4ee5-a85d-3550f7bb0113.webp",
+            "Tips": [
+                {
+                    "title": "Metaphorical Usage",
+                    "description": "'Agent' can be used metaphorically to describe someone driving change, not just physically doing things.",
+                    "example": "Gandhi was a significant agent of change in India.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Influence and Power",
+                    "description": "An 'agent' in this context usually has the power or influence to affect large-scale change.",
+                    "example": "Innovators can be powerful agents of technological advancement.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fbd5bc29-6928-4277-8a15-8882ec8c0b0d",
+            "de": "A person or company that provides a particular service, especially the mediation of business transactions",
+            "ty": "noun",
+            "ex": "A news agency",
+            "use": "",
+            "co": "Business",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "news agency",
+                " aid agency",
+                " modeling agency"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fbd5bc29-6928-4277-8a15-8882ec8c0b0d.webp",
+            "Tips": [
+                {
+                    "title": "Business Intermediary",
+                    "description": "Agents facilitate business deals, acting as the middleman between two parties.",
+                    "example": "The shipping agent arranged the transport of our goods.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Wide Range of Services",
+                    "description": "The word 'agent' can refer to various types of services, not just those related to property or travel.",
+                    "example": "The aid agency provided relief to the disaster-stricken area.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Broker": {
+            "wordRoot": "Broker",
+            "wordDefinition": "Both agent and broker refer to a person who acts as a middleman in a transaction or negotiation between two parties.\n\nA broker acts as an intermediary between two parties and helps them negotiate a deal or transaction. Unlike an agent, a broker does not represent either party in the transaction, but instead, facilitates the negotiation process.\n\nFor example, a stockbroker helps investors to buy and sell stocks and earns a commission on each transaction.\n\nAn agent can represent and act on behalf of one party, while a broker helps both parties to come to an agreement. While both of these terms are used in multiple industries, they have slightly different meanings and applications.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/aad71c00-04c3-4442-bba5-86fdddf1e4c0.webp"
+        },
+        "Delegate": {
+            "wordRoot": "Delegate",
+            "wordDefinition": "Delegate typically refers to a person who is chosen or elected to represent a group or organization. For example, a delegate to a political convention represents their state's political party and is able to vote on behalf of their state.\n\nAn agent is authorized to act on someone's behalf, while a delegate is chosen to represent a group or organization.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/55aeed0f-22ea-4077-b614-3cbcc923b1b7.webp"
+        },
+        "Executor": {
+            "wordRoot": "Executor",
+            "wordDefinition": "An executor is a person assigned to manage the estate of a person who has died. The executor's role is to ensure that the deceased person's wishes are carried out in accordance with their will.\n\nAn agent is hired by someone to act on their behalf, while an executor is appointed to manage the affairs of someone who has died.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a7808f42-c1d6-44ac-bb79-040082d7c53c.webp"
+        },
+        "Intermediary": {
+            "wordRoot": "Intermediary",
+            "wordDefinition": "An intermediary is someone who acts as a go-between or middleman in a transaction or negotiation between two parties. For example, a travel intermediary might help match travelers with hotels and transportation.\n\nBoth terms refer to individuals or entities that help facilitate transactions or negotiations, but the key difference is that an agent is specifically working on behalf of one of the parties involved, while an intermediary is positioned between the two parties and doesn't necessarily represent either one exclusively.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/990a753d-8b06-415c-87ec-3a8738876512.webp"
+        },
+        "Manage": {
+            "wordRoot": "Manage",
+            "wordDefinition": "Manage means to be in charge of something, such as a team or a project. A manager is responsible for making decisions, assigning tasks, and overseeing the work of others.\n\nIn summary, while both words involve handling tasks and responsibilities, an agent represents someone else while a manager is in charge of a team or project.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ad91e78-9546-410a-83ae-0d6f673c381b.webp"
+        },
+        "Negotiator": {
+            "wordRoot": "Negotiator",
+            "wordDefinition": "A negotiator is someone who helps facilitate a deal or agreement between two parties by discussing, compromising and finding a mutually beneficial solution.\n\nThey may represent one or both parties but their main goal is to reach a favorable outcome for everyone involved. For example, a union negotiator represents workers in collective bargaining discussions with their company’s management team.\n\nAn agent represents a single party’s interests while a negotiator seeks to find a mutually satisfactory agreement between two opposing parties.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ac09bda4-e0bc-4698-a466-9bfc4fa193b2.webp"
+        },
+        "Operator": {
+            "wordRoot": "Operator",
+            "wordDefinition": "An agent is a person or company that acts on behalf of someone else, while an operator is a person or entity that manages or operates a system or piece of equipment.\n\nFor example, a travel agent books travel arrangements for clients, while a telephone operator helps connect phone calls.\n\nIn the context of technology, a computer software agent may automate tasks for a user, while a computer operator manages the computer system.\n\nAn agent is focused on representing a person or company, while an operator is focused on managing a system or equipment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/50bd8557-7142-40e4-9609-2e99208c7b33.webp"
+        },
+        "Proxy": {
+            "wordRoot": "Proxy",
+            "wordDefinition": "Proxy is used to refer to a person or thing that is authorized to act on behalf of someone else.\n\nA proxy can be a representative who is authorized to vote on behalf of a shareholder in a company.\n\nIt can also refer to a server that is used to access the internet on behalf of a user, like a proxy server that masks a user's IP address.\n\nIn summary, while both words refer to representing someone or something else, an agent tends to be more of an active participant in that representation, while a proxy is more of a passive stand-in.\n\nAn agent might actively negotiate for a client, while a proxy simply carries out the orders of the person they represent.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5db64639-7d9d-4ab3-bee8-12eeb9288c5d.webp"
+        },
+        "Representative": {
+            "wordRoot": "Representative",
+            "wordDefinition": "A representative is someone who speaks or acts on behalf of someone else, but does not have the same level of authority as an agent.\n\nAn agent is used in situations where a higher level of trust and authority is needed, while a representative is used in situations where communication or advocacy is the priority.\n\nFor example, a real estate agent would have the authority to make an offer on a property, while a political representative would speak on behalf of their constituents, but would still need to seek approval from their constituents before taking action.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b75c333b-24d4-4f9f-a165-0638de3ed2b1.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Because we've made leadership about changing the world, and there is no world. There's only six billion understandings of it. And if you change one person's understanding of it, understanding of what they're capable of, understanding of how much people care about them, understanding of how powerful an agent for change they can be in this world,",
+            "Title": "Drew Dudley: Everyday...",
+            "VideoId": "0ITHly-bhJE",
+            "Controls": "start=335"
+        },
+        {
+            "Text": " mistake I wanted to give a character reference for the family's good family but it was out of their hands it was in the courts but of course after that phone call an hour later I was sitting across the table from an intelligence agent intelligence officer who of course recruited me to become an undercover",
+            "Title": "An inside look at...",
+            "VideoId": "RK8zb8dA4G4",
+            "Controls": "start=356"
+        },
+        {
+            "Text": " will be important for Karina's research thank you perfect thanks very good okay that was a good sample and what is it that you're specifically looking for with these micro bacteria for example the agent that can cause tuberculosis him often that's a very common germ that",
+            "Title": "Getting a Whale Breath...",
+            "VideoId": "-iaFAPybD0M",
+            "Controls": "start=222"
+        },
+        {
+            "Text": " high fence so they needed some help you see him scouting you're getting stretched from the guy below this officer who asked not to be identified believe socks the suspected fence coyote is trying to catch agents off guard I still waiting for the instructions",
+            "Title": "Fence Jumpers PIPE National...",
+            "VideoId": "c2lGJpTa1HU",
+            "Controls": "start=53"
+        },
+        {
+            "Text": " sleep loss and your immune system. And here, I'll introduce these delightful blue elements in the image. They are called natural killer cells, and you can think of natural killer cells almost like the secret service agents of your immune system.",
+            "Title": "Sleep is your superpower...",
+            "VideoId": "5MuIMqhT8DM",
+            "Controls": "start=589"
+        },
+        {
+            "Text": " and source of all creation. Numbers were active agents in nature. Plato argued mathematical concepts were concrete and as real as the universe itself, regardless of our knowledge of them. Euclid, the father of geometry, believed nature itself",
+            "Title": "Is math discovered or...",
+            "VideoId": "X_xR5Kes4Rs",
+            "Controls": "start=55"
+        },
+        {
+            "Text": " who looked at me up and down and said I don't look like I have any experience to be working in this business. And I said to him, \"Listen, punk fool, you're a failed actor who became an agent, and you know why you failed as an actor?",
+            "Title": "Lemon Andersen performs...",
+            "VideoId": "WT7VMrxTPPA",
+            "Controls": "start=382"
+        },
+        {
+            "Text": " And if I look at it as an intelligence, then it's something that you cultivate. What are the ingredients? Imagination, playfulness, novelty, curiosity, mystery. But the central agent is really that piece called the imagination.",
+            "Title": "The secret to desire in...",
+            "VideoId": "sa0RUmGTCYY",
+            "Controls": "start=622"
+        },
+        {
+            "Text": " which can lead to cell death unless the damage is repaired. Because cancer cells multiply rapidly, they take in a high concentration of alkylating agents, and their DNA is frequently exposed and rarely repaired.",
+            "Title": "How does chemotherapy...",
+            "VideoId": "RgWQCGX3MOk",
+            "Controls": "start=127"
+        },
+        {
+            "Text": " before their number was called, and I watched the gate agent treat this man like he had broken the law, like a criminal. He was yelled at for attempting to board one group too soon. So I said something.",
+            "Title": "Why good leaders make...",
+            "VideoId": "lmyZMtPVodo",
+            "Controls": "start=319"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/felicity-jones.webp",
+            "Text": "My agent called me up and said, 'There is a tremendous female lead in the new 'Star Wars' film, and I think you're really going to like it.' The opportunity to play someone determined, who's trying to find her skills as a leader; to be in a fantasy movie; to be able to do a leading female role in a film of that scale - that's very, very rare.",
+            "Title": "English Actress",
+            "Name": "Felicity Jones"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/charles-barkley.webp",
+            "Text": "I got some cash from agents. I've talked to the NCAA. I think that should be legal. I want some money, too; everybody else is making money. I want to go on dates. I want to go buy myself some new suits. I want to buy myself some new sneakers, and I paid the agents back.",
+            "Title": "American Baseball Player",
+            "Name": "Charles Barkley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/felicity-kendal.webp",
+            "Text": "I'm sure people in the business have said: She's too old for that part. I don't hear about it because your agent protects you from those negative things.",
+            "Title": "English Actress",
+            "Name": "Felicity Kendal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alan-rickman.webp",
+            "Text": "Actors are agents of change. A film, a piece of theater, a piece of music, or a book can make a difference. It can change the world.",
+            "Title": "British Actor",
+            "Name": "Alan Rickman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pierce-brosnan.webp",
+            "Text": "I have said to my agents, 'I want to work. I want to play character roles.",
+            "Title": "Irish Actor",
+            "Name": "Pierce Brosnan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sally-field.webp",
+            "Text": "My agent said, 'You aren't good enough for movies.' I said, 'You're fired.",
+            "Title": "American Actress",
+            "Name": "Sally Field"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ken-berry.webp",
+            "Text": "It's hard to get someone, particularly agents, to tell you the truth.",
+            "Title": "",
+            "Name": "Ken Berry"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jane-hawking.webp",
+            "Text": "I couldn't let him die; I was the agent of life for Stephen.",
+            "Title": "English Author",
+            "Name": "Jane Hawking"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/james-l-dolan.webp",
+            "Text": "Free agents want to go to a winner and get paid.",
+            "Title": "American Businessman",
+            "Name": "James L. Dolan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-fieri.webp",
+            "Text": "I have the best agents in the world.",
+            "Title": "American Businessman",
+            "Name": "Guy Fieri"
+        }
+    ]
+}

@@ -1,0 +1,322 @@
+{
+    "currentWord": {
+        "wordRoot": "location",
+        "id": 3663,
+        "phonemic": "ləʊˈkeɪʃn|ləʊˈkeɪʃn\r",
+        "bigId": "ef4275b3-d954-4f62-b2a7-175fae8547b7",
+        "wordForms": [
+            "locations",
+            "locational",
+            "location"
+        ]
+    },
+    "senses": [
+        {
+            "id": "ef4275b3-d954-4f62-b2a7-175fae8547b7",
+            "de": "The place or position where something is",
+            "ty": "noun",
+            "ex": "The location of the meeting has changed to the conference room on the tenth floor.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "exact location",
+                " location change",
+                " determine location"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/ef4275b3-d954-4f62-b2a7-175fae8547b7.webp",
+            "Tips": [
+                {
+                    "title": "Not Just Geography",
+                    "description": "Location can refer to abstract positions, like in arguments or plans, not only physical places.",
+                    "example": "Our location in this debate is clear, we support more environmental protection.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/jaqTUbNcZOcKYEGq25VkdZYRAk.webp"
+                },
+                {
+                    "title": "Collocation Cue",
+                    "description": "Pay attention to 'location' with words like 'change,' 'exact,' and 'determine' to clarify context.",
+                    "example": "His exact location was finally determined after hours of searching.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1wndYgmm3AtGznDOrEsas8McuDY.webp"
+                },
+                {
+                    "title": "Dynamic or Static",
+                    "description": "'Location' can imply movement or permanence depending on the context it's used in.",
+                    "example": "I'll send you my current location every hour during the trip.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/NhigieOYBRYIwHN9y3u7XUZmL0.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6b213020-53d1-4c02-902d-a8e4b40a5c9d",
+            "de": "In film making, a place out of studio where scenes are shot",
+            "do": "Cinematic",
+            "ty": "noun",
+            "ex": "The movie was shot on location in Paris.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "shoot on location",
+                " location scouting",
+                " film location"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6b213020-53d1-4c02-902d-a8e4b40a5c9d.webp",
+            "Tips": [
+                {
+                    "title": "Beyond Studios",
+                    "description": "On-location filming adds authenticity, showing the film is shot in a real-world setting.",
+                    "example": "They're shooting on location to give the film a realistic New York City vibe.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scouting Process",
+                    "description": "Location scouting involves finding the perfect place to match a film's artistic vision.",
+                    "example": "The director went location scouting in Spain for the perfect beach scene backdrop.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "324e901a-ab55-4ad0-966c-9615ba889b5c",
+            "de": "In computing, a position defined within a system like memory or on a disk",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "The program saves the file to a specific location on the hard drive.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "memory location",
+                " disk location",
+                " location path"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/324e901a-ab55-4ad0-966c-9615ba889b5c.webp",
+            "Tips": [
+                {
+                    "title": "Accuracy Needed",
+                    "description": "In computing, specifying a location must be exact, like an address, for the system to work properly.",
+                    "example": "Make sure the file's location path is correct, or the program won't find it.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Different System Levels",
+                    "description": "Location in computing can mean different things at various system levels – from files to memory cells.",
+                    "example": "The program crashed because it tried to access a location in memory that doesn't exist.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6f744d7d-b483-4abd-8d31-4314bf19f4e2",
+            "de": "In real estate, the place where a property is situated",
+            "do": "Real Estate",
+            "ty": "noun",
+            "ex": "The location of a property can greatly affect its value.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "prime location",
+                " residential location",
+                " property location"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6f744d7d-b483-4abd-8d31-4314bf19f4e2.webp",
+            "Tips": [
+                {
+                    "title": "Value Indicator",
+                    "description": "In real estate, 'location' often refers to desirability and can determine property value.",
+                    "example": "Despite its size, its excellent location makes it a valuable property.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Specificity Matters",
+                    "description": "Be specific about property location, like 'beachfront' or 'suburban,' to provide clear context.",
+                    "example": "They were looking for a house in a quiet, suburban location away from the city bustle.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Area": {
+            "wordRoot": "Area",
+            "wordDefinition": "Area refers to a space or region, such as a specific part of a city, a park, or a room. It usually refers to a larger space.\n\nLocation refers to a particular place, such as an exact street address or a specific spot within an area. It usually refers to a smaller space.\n\nFor example, you could say \"I live in the downtown area,\" referring to a larger region of the city, or \"My house is located on Main Street,\" referring to a specific address within that area.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/895716fa-f090-4b05-ae4b-73b2e08a4b7a.webp"
+        },
+        "Locale": {
+            "wordRoot": "Locale",
+            "wordDefinition": "Locale refers to a specific area or region with particular characteristics, such as cultural or linguistic aspects.\n\nIt can also refer to a specific setting or environment, such as the locale of a movie scene or a fictional book.\n\nSo, while locale implies a specific cultural or environmental context, location simply refers to a physical position. For example, you could say \"The locale of this story is a small town in the Midwest,\" but you would say \"The location of the grocery store is on Main Street.\".",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/89d95581-1482-48b8-9bd1-72adb05a9de8.webp"
+        },
+        "Place": {
+            "wordRoot": "Place",
+            "wordDefinition": "Location refers to a specific point or geographical coordinates on a map, while a place refers to a specific area or region with distinctive characteristics.\n\nIf someone were to ask you for a good place to eat in the city, you would mention an area or region known for its restaurants.\n\nLocation is often used when referring to precise points on a map, such as in geography or navigation, while place is used when referring to more general regions or areas with distinct characteristics, such as in social and cultural contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/86c3e8bf-587e-43b4-b921-30968e9699bd.webp"
+        },
+        "Position": {
+            "wordRoot": "Position",
+            "wordDefinition": "Location refers to a specific place, area or site where something or someone is situated. It conveys a general sense of the area where something or someone is positioned, but not the exact spot.\n\nPosition refers to the exact spot or placement of something or someone. It conveys a specific sense of the location of an object or person in relation to a fixed point or surroundings.\n\nFor example, the position of a chair in a room could be next to a window.\n\nLocation is used when we talk about a general area where something or someone is situated, and position is used when we talk about the specific spot where something or someone is located.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/873c534c-f216-4662-b281-643a092d10bc.webp"
+        },
+        "Region": {
+            "wordRoot": "Region",
+            "wordDefinition": "Region refers to a larger area that is defined by common characteristics such as climate, culture, or geography.\n\nA region can be a group of states, countries, or even continents.\n\nFor example, New York City is a location within the region of the Northeastern United States. A forest can be a location within the region of the Pacific Northwest.\n\nLocation refers to a singular point while a region refers to a larger area with shared characteristics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ae13a7ac-bdd7-4208-b1d7-e8dc8f8cac19.webp"
+        },
+        "Site": {
+            "wordRoot": "Site",
+            "wordDefinition": "Site refers to a specific place where something is located or planned to be located, usually referring to a specific area of land.\n\nFor example, the site of the Eiffel Tower is on the Champ de Mars in Paris, France.\n\nIn simpler terms, location is a more general term that refers to an area, whereas site is a more specific term that refers to a particular place within that area.\n\nLocation can be applicable to anything from a city to a single room in a house, while site is usually used when talking about construction or excavation projects.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1f15f5ba-0a7b-48e1-bdc4-c8bb02a4a6cc.webp"
+        },
+        "Spot": {
+            "wordRoot": "Spot",
+            "wordDefinition": "Spot generally refers to a specific point or place within a location.\n\nIt describes a particular area or landmark within a larger area. For example, \"My favorite spot in Central Park is the Bethesda Fountain.\".\n\nLocation refers to a broader area, while spot refers to a specific point within that area.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/84dabbc9-a305-46f4-8f61-e8928b50dae6.webp"
+        },
+        "Territory": {
+            "wordRoot": "Territory",
+            "wordDefinition": "Territory refers to an area of land that is under the control of a particular government, kingdom, or organization.\n\nIn simpler terms, location is about where something is, while territory is about who has control over a specific area.\n\nFor example, a store's location can be identified by its address or GPS coordinates, while a country's territory includes all the land it governs.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5844a004-e93c-43fe-a3cf-5faadc4f8f08.webp"
+        },
+        "Venue": {
+            "wordRoot": "Venue",
+            "wordDefinition": "Venue refers to a specific place where an event or activity takes place. For example, a concert or a wedding would have a venue or location.\n\nLocation is the general area where something is situated, while a venue is a specific place where an event or activity takes place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49b3af1d-f4cd-40ba-8bf1-2aef3418fd47.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " and proposed that the site of metastasis was determined by the location of the vascular and lymphatic channels which drain the primary tumor. Patients with primary tumors that were drained by vessels leading to the lung would eventually develop lung metastases. Today, we know that both theories contain valuable truths.",
+            "Title": "How does cancer spread...",
+            "VideoId": "OcigJn8UJNQ",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " When ibuprofen molecules encounter a location where the body's pain response is in full swing, they bind to specific target molecules that are a part of that reaction. Painkillers, like ibuprofen, block the production of compounds that help the body transmit pain signals. As more drug molecules accumulate,",
+            "Title": "How does your body...",
+            "VideoId": "uOcpsXMJcJk",
+            "Controls": "start=102"
+        },
+        {
+            "Text": " blue skies, warm tropical beaches, and a tan that lasts all year long. I mean, to me, this was it. Life could not get any better. Sweating it out, shooting surfers in these exotic tourist destinations. But there was just this one problem. You see, the more time I spent traveling to these exotic locations,",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=179"
+        },
+        {
+            "Text": " It says that traveling from any location to any other location should take an infinite amount of time. In other words, it says that all motion is impossible. This conclusion is clearly absurd, but where is the flaw in the logic? To resolve the paradox, it helps to turn the story into a math problem.",
+            "Title": "What is Zeno's Dichotomy...",
+            "VideoId": "EfqVnj-sgcc",
+            "Controls": "start=100"
+        },
+        {
+            "Text": " Within the first three months of being at this location, we were able to say, one, Gale Crater was wet. Number two, it can sustain life. Now we can't say that there was life there but we can say that if there was, it would have been able to be sustained. There are all of the chemical compositions",
+            "Title": "The Curious Life of a...",
+            "VideoId": "7zpojhD4hpI",
+            "Controls": "start=1069"
+        },
+        {
+            "Text": " does things that you you might not expect we went to one of the most beautiful locations the oldest forest in the world in the dane tree in australia i've done a lot of work in jungles and forests and to me that's the most magical place because it's it's full of plants that are almost",
+            "Title": "Filming The World's...",
+            "VideoId": "SuVjOqtcHxE",
+            "Controls": "start=57"
+        },
+        {
+            "Text": " Luckily, this rarely happens. That's why QuickSort is one of the most efficient strategies used by programmers today. They use it for things like sorting items in an online store by price, or creating a list of all the gas stations close to a given location sorted by distance.",
+            "Title": "What's the fastest way...",
+            "VideoId": "WaNLJf8xzC4",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " contacts are our risk of flu infection drops when we leave our childhood and enter our twenties but it increases again when people become parents this approach was powerful because it wasn't limited to one location once we knew which kinds of behavior were important",
+            "Title": "How data can predict the...",
+            "VideoId": "tsr2nXInMpU",
+            "Controls": "start=101"
+        },
+        {
+            "Text": " They also remember and distinguish particular cues that signal danger and can recall important locations long after their last visit. But it's the memories unrelated to survival that are the most fascinating. Elephants remember not only their herd companions",
+            "Title": "Why elephants never...",
+            "VideoId": "lSXNqsOoURg",
+            "Controls": "start=43"
+        },
+        {
+            "Text": " enabling life to flourish thanks to its location just south of the equator the sedan getty sun rises high in the",
+            "Title": "Fire and Feast PIPE A...",
+            "VideoId": "FYkZOhIzSH4",
+            "Controls": "start=23"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/kirsten-dunst.webp",
+            "Text": "I've always had a process that I do before I even get to set or go to the location. I work privately, and it almost feels like therapy between me and who I'm playing. So I have this inner life that's there and it gives me a confidence, too, that when I'm playing the role I know every question.",
+            "Title": "Actress",
+            "Name": "Kirsten Dunst"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicolas-winding-refn.webp",
+            "Text": "I love to be on location. I love to be in other parts of the world. I love to be where I'm reminded about real, you know, emotions. I love to touch things and design things, and I think that, for the actor, it certainly - it certainly helps their performance.",
+            "Title": "Danish Director",
+            "Name": "Nicolas Winding Refn"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/greg-davies.webp",
+            "Text": "It's a strange thing when someone passes away. It's always when you're not expecting it that you're affected by it. When we first started filming, we were filming with existing characters in a location that we'd never been before.",
+            "Title": "British Comedian",
+            "Name": "Greg Davies"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ray-stevenson.webp",
+            "Text": "Working at night helps people focus in on this crazy little bubble you've created, wherever you are filming. It doesn't matter where the location is, the world doesn't exist outside this bubble. And everyone is trapped inside.",
+            "Title": "British Actor",
+            "Name": "Ray Stevenson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/guy-pearce.webp",
+            "Text": "Every time you say yes to a film there's a certain percentage of your yes that has to do with the director, a certain percentage to do with the story, a certain percentage with the character, the location, etc.",
+            "Title": "English Actor",
+            "Name": "Guy Pearce"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/philip-anschutz.webp",
+            "Text": "We will continue to set the standards in the industries in which AEG operates, bringing our unique vision and development model to entertainment locations throughout the world.",
+            "Title": "",
+            "Name": "Philip Anschutz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ramin-djawadi.webp",
+            "Text": "What's so great with 'Game of Thrones' is that there are so many characters and they're so many locations and that it's just very inspiring.",
+            "Title": "German Composer",
+            "Name": "Ramin Djawadi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jhumpa-lahiri.webp",
+            "Text": "It interests me to imagine characters shifting from one situation and one location to another for whatever the circumstances may be.",
+            "Title": "American Author",
+            "Name": "Jhumpa Lahiri"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jon-tenney.webp",
+            "Text": "It's always difficult to work out on location, away from home, but that's the actor's life. You go where the work is.",
+            "Title": "American Actor",
+            "Name": "Jon Tenney"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ken-hill.webp",
+            "Text": "Location is a very important aspect to songwriting.",
+            "Title": "British Playwright",
+            "Name": "Ken Hill"
+        }
+    ]
+}

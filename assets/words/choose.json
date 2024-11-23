@@ -1,0 +1,308 @@
+{
+    "currentWord": {
+        "wordRoot": "choose",
+        "id": 2892,
+        "phonemic": "tʃuːz|tʃuːz\r",
+        "bigId": "2873ec52-68d0-4aab-acaa-6276c06c97a0",
+        "wordForms": [
+            "chooses",
+            "choosing",
+            "chose",
+            "chosen",
+            "choose"
+        ]
+    },
+    "senses": [
+        {
+            "id": "2873ec52-68d0-4aab-acaa-6276c06c97a0",
+            "de": "To make a decision from two or more options",
+            "ty": "verb",
+            "ex": "I cannot choose between the red dress and the blue one.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "choose between",
+                " choose from",
+                " can't choose"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/2873ec52-68d0-4aab-acaa-6276c06c97a0.webp",
+            "Tips": [
+                {
+                    "title": "Decision Making",
+                    "description": "Use when weighing and deciding between different options or choices.",
+                    "example": "She had to choose the best answer on the test.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/isz7e59F3L6Lh28oNj6AX74do.webp"
+                },
+                {
+                    "title": "Emotional Impact",
+                    "description": "Reflects the difficulty or stress of making a hard choice.",
+                    "example": "I find it hard to choose between my two favorite subjects.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/loqVgLwHh89Sj2Xz0AL37vu3YA.webp"
+                }
+            ]
+        },
+        {
+            "id": "f90ebce9-b202-45b2-87de-36dea2785d51",
+            "de": "To select as an alternative over another",
+            "ty": "verb",
+            "ex": "If it were up to me, I'd choose a quiet evening at home over a night out.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "choose over",
+                " choose instead",
+                " would choose"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f90ebce9-b202-45b2-87de-36dea2785d51.webp",
+            "Tips": [
+                {
+                    "title": "Preference Indication",
+                    "description": "Indicates a stronger liking for one thing over another.",
+                    "example": "Given the options, I would choose tea over coffee.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Alternative Selection",
+                    "description": "Shows that you are not just picking, but actively rejecting other options.",
+                    "example": "Even though it's cheaper, I choose organic food instead.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c3d06918-f180-4021-8db2-20af927ea702",
+            "de": "To see as the best or most suitable from various options",
+            "ty": "verb",
+            "ex": "He chose a path in medicine after high school.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "choose a path",
+                " choose a career",
+                " choose a direction"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/c3d06918-f180-4021-8db2-20af927ea702.webp",
+            "Tips": [
+                {
+                    "title": "Future Planning",
+                    "description": "Used when selecting something that has long-term implications.",
+                    "example": "She chose to study abroad to broaden her horizons.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Suitability Emphasis",
+                    "description": "Stresses fit or appropriateness in a personal or situational context.",
+                    "example": "He chose a small college because it suited his learning style.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "bf696389-873b-48bc-9acd-90023d2191d3",
+            "de": "To decide on or elect in a vote",
+            "do": "Political",
+            "ty": "verb",
+            "ex": "The people will choose the next president in the election.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "choose a president",
+                " choose a leader",
+                " choose by vote"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bf696389-873b-48bc-9acd-90023d2191d3.webp",
+            "Tips": [
+                {
+                    "title": "Formal Process",
+                    "description": "Signals a formal decision-making process, often governed by rules or laws.",
+                    "example": "Citizens choose their representatives every four years.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Democratic Action",
+                    "description": "Describes a collective choosing, primarily used in a political context.",
+                    "example": "The members will choose a new chairman during the meeting.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Decide": {
+            "wordRoot": "Decide",
+            "wordDefinition": "Choose and decide are two verbs that are used to indicate the act of making a decision.\n\nDecide is broader and more general. It implies that we are making a choice between two or more possibilities in any situation.\n\nFor example, we might decide to go for a walk, or decide to study for an exam. This verb is often used in more serious, formal situations, such as making an important life decision.\n\nSo, in summary, we use choose when we are selecting from a limited range of options, while decide is used in more general situations where we need to make a choice between possibilities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f3f7374-fce6-448c-8219-697394ecb66f.webp"
+        },
+        "Determine": {
+            "wordRoot": "Determine",
+            "wordDefinition": "Both words involve making a decision or making a choice, but choose typically refers to selecting one option from a number of choices that are available, while determine refers to making a decision or settling a question based on evidence or careful consideration.\n\nFor example, you might choose which restaurant to eat at based on a few different options, but you would determine which career to pursue by considering your skills, interests, and job prospects.\n\nEssentially, you choose when presented with options, but determine after evaluating and making a decision based on certain criteria.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bb3c1d7-4dc7-4a4a-9a95-c1c82766d7be.webp"
+        },
+        "Elect": {
+            "wordRoot": "Elect",
+            "wordDefinition": "Both words refer to making a choice, but elect is more formal and is generally used when someone is being chosen for an important position or to represent a group.\n\nFor example, a president is elected by the citizens of a country to lead the country. Choose is a more general term that can be used in any situation when a decision needs to be made between two or more options.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1ff151d9-a432-4a71-b1c0-e730c13548ca.webp"
+        },
+        "Opt": {
+            "wordRoot": "Opt",
+            "wordDefinition": "Choose and opt both mean to make a decision, but choose is used more often in everyday language, while opt is more formal.\n\nFor example, you might choose your favorite flavor of ice cream, but you might opt for a healthier dessert instead.\n\nChoose can be used in most situations, while opt is usually used when referring to making a choice from several options presented to you.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/340884d3-27da-43ab-bb40-90e0bc80cb33.webp"
+        },
+        "Pick": {
+            "wordRoot": "Pick",
+            "wordDefinition": "The words choose and pick have similar meanings, but choose is more formal and suggests more careful consideration, whereas pick is more casual and implies a more impulsive decision.\n\nHowever, if you're at a restaurant deciding what to order, you might say \"I think I'll just pick this one\" because the decision isn't as significant and requires less thought.\n\nIn a nutshell, choose is used for more significant, thoughtful decisions, while pick is used for more casual decisions that require less thought.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c6662624-fead-4c71-89d6-c1de343a966e.webp"
+        },
+        "Prefer": {
+            "wordRoot": "Prefer",
+            "wordDefinition": "The words choose and prefer both refer to making a decision between two or more options, but they have slightly different meanings.\n\nChoose is a more general term that simply means to pick one option over another. For example, if you are asked to choose between two desserts, you can simply pick the one you like better without any specific reason or preference.\n\nPrefer, on the other hand, implies a stronger liking or desire for one option over another. For example, if you prefer ice cream to cake, it means you have a stronger preference for the taste, texture, or other qualities of ice cream.\n\nYou can use either word depending on how strong your liking is for one option over another. If you have a strong preference or a specific reason for choosing one thing over another, you can use \"prefer.\" If you simply need to make a decision without any strong liking or reason, you can use \"choose.\".",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4859f1cc-c2c5-4216-adca-62d33d40fe37.webp"
+        },
+        "Select": {
+            "wordRoot": "Select",
+            "wordDefinition": "Both choose and select mean to make a decision between different options.\n\nHowever, choose generally implies a more personal or emotional decision, whereas select implies a more methodical or logical decision.\n\nYou might select a car or a computer based on specific features or criteria that you have researched and considered.\n\nChoose is applicable in more personal, subjective situations, whereas select is more appropriate in objective, logical situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bec7c491-2533-4f4d-8e48-cc704d433714.webp"
+        },
+        "Single out": {
+            "wordRoot": "Single out",
+            "wordDefinition": "Single out means to specifically identify or separate one thing or person from a group. For example, singling out a student in class for a special award.\n\nHowever, choose is typically used when there are multiple options to select from, while single out implies there is only one choice or selection to be made.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9d08c98a-7361-4596-a860-95c329437ffc.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " you'd be choosing an option that sharply decreases your net pleasure. Perhaps, then, you believe that there are things in life with greater intrinsic value than pleasure. Truth, knowledge, authentic connection with other human beings. These are all things that might make the list. By never learning the truth,",
+            "Title": "Would you opt for a life...",
+            "VideoId": "XNP1x11Z2Ig",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " It's popular because it forces us to think about how to choose when there are no good choices. Do we pick the action with the best outcome or stick to a moral code that prohibits causing someone's death? In one survey, about 90% of respondents said that it's okay to flip the switch,",
+            "Title": "Would you sacrifice one...",
+            "VideoId": "yg16u_bzjPE",
+            "Controls": "start=40"
+        },
+        {
+            "Text": " a revolutionary concept in the polytheistic world of that time, they would have land and many descendants. From this promise came the land of Israel and the chosen people, but staying in that land and keeping those people together was going to be very difficult.",
+            "Title": "The five major world...",
+            "VideoId": "m6dCxo7t_aE",
+            "Controls": "start=156"
+        },
+        {
+            "Text": " And why does it nearly always choose to do so in exactly the same place? Whatever the reason, it must be very important, for a sloth on the ground is almost helpless. Any predator could attack it and it doesn't have the speed to escape.",
+            "Title": "The 'Busy' Life of the...",
+            "VideoId": "ndMKTnSRsKM",
+            "Controls": "start=83"
+        },
+        {
+            "Text": " I know you're seeing me here and you're saying well something had to get better at some point in your life you chose not only not to give up but to thrive to be the best person you can be",
+            "Title": "Walking in your truth as...",
+            "VideoId": "EDaR9zAiKbc",
+            "Controls": "start=255"
+        },
+        {
+            "Text": " the fish we eat, the quality of our oceans, the languages we speak in the future, the jobs we have, the political systems we choose, and, of course, the great questions of war and peace.",
+            "Title": "Are China and the US...",
+            "VideoId": "8XQ1onjXJK0",
+            "Controls": "start=49"
+        },
+        {
+            "Text": " She manages to hit her chosen target almost instantly every time. Luna is a young dolphin and as such a little bit more motivated. She she likes to play, to investigate things,",
+            "Title": "Super Smart Dolphin...",
+            "VideoId": "KMZ7oOCXfP8",
+            "Controls": "start=93"
+        },
+        {
+            "Text": " The guano from thousands of terns which have chosen to nest here enriches the sandy soil, which then can support more plants.",
+            "Title": "Feeding Humphead...",
+            "VideoId": "o-blz2ghKOU",
+            "Controls": "start=122"
+        },
+        {
+            "Text": " or C choose wisely so what would you do",
+            "Title": "Sticky Octopus PIPE Do or...",
+            "VideoId": "oL9clZQqISs",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " puffins must choose their moment wisely",
+            "Title": "Puffin Hunts Fish To...",
+            "VideoId": "EIUJfXk3_3w",
+            "Controls": "start=318"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ben-carson.webp",
+            "Text": "You have the ability to choose which way you want to go. You have to believe great things are going to happen in your life. Do everything you can - prepare, pray and achieve - to make it happen.",
+            "Title": "American Scientist",
+            "Name": "Ben Carson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-david-thoreau.webp",
+            "Text": "There is no value in life except what you choose to place upon it and no happiness in any place except what you bring to it yourself.",
+            "Title": "American Author",
+            "Name": "Henry David Thoreau"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/chuck-palahniuk.webp",
+            "Text": "Find joy in everything you choose to do. Every job, relationship, home... it's your responsibility to love it, or change it.",
+            "Title": "American Novelist",
+            "Name": "Chuck Palahniuk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/langston-hughes.webp",
+            "Text": "An artist must be free to choose what he does, certainly, but he must also never be afraid to do what he might choose.",
+            "Title": "American Poet",
+            "Name": "Langston Hughes"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-swift.webp",
+            "Text": "I'm very aware and very conscious of the path I chose in life, and very aware of the path I didn't choose.",
+            "Title": "American Singer",
+            "Name": "Taylor Swift"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oprah-winfrey.webp",
+            "Text": "I believe that every single event in life happens in an opportunity to choose love over fear.",
+            "Title": "American Entertainer",
+            "Name": "Oprah Winfrey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-bach.webp",
+            "Text": "Allow the world to live as it chooses, and allow yourself to live as you choose.",
+            "Title": "American Novelist",
+            "Name": "Richard Bach"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/unknown.webp",
+            "Text": "Choose a job you love, and you will never have to work a day in your life.",
+            "Title": "",
+            "Name": "Unknown"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ronald-reagan.webp",
+            "Text": "A people free to choose will always choose peace.",
+            "Title": "American President",
+            "Name": "Ronald Reagan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wayne-dyer.webp",
+            "Text": "You can't choose up sides on a round world.",
+            "Title": "American Psychologist",
+            "Name": "Wayne Dyer"
+        }
+    ]
+}

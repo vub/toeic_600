@@ -1,0 +1,291 @@
+{
+    "currentWord": {
+        "wordRoot": "require",
+        "id": 21565,
+        "phonemic": "rɪˈkwaɪə(r)|rɪˈkwaɪər\r",
+        "bigId": "fbc7cac8-a671-467a-867d-38e8536b7768",
+        "wordForms": [
+            "requires",
+            "requiring",
+            "required",
+            "require"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fbc7cac8-a671-467a-867d-38e8536b7768",
+            "de": "To need something",
+            "ty": "verb",
+            "ex": "I require a glass of water.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "require assistance",
+                " require attention",
+                " require approval"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fbc7cac8-a671-467a-867d-38e8536b7768.webp",
+            "Tips": [
+                {
+                    "title": "Essential Need",
+                    "description": "Use 'require' when something is a necessity, not just a desire.",
+                    "example": "Surviving the desert requires carrying ample water.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/bck2WikGwMkMpHnVV0DDXhfGgSE.webp"
+                },
+                {
+                    "title": "Non-negotiable",
+                    "description": "'Require' suggests you can't do without it; stronger than just needing.",
+                    "example": "This recipe requires fresh herbs.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6NuG5rbdmhEYV9mbZtUs52pA9fI.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3821746c-53e1-4874-b856-aea78ee5da92",
+            "de": "To make it necessary for someone to do something",
+            "ty": "verb",
+            "ex": "The law requires that you must wear a seatbelt when driving.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "require compliance",
+                " require submission",
+                " require verification"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3821746c-53e1-4874-b856-aea78ee5da92.webp",
+            "Tips": [
+                {
+                    "title": "Legal Obligation",
+                    "description": "Used when there's an obligation by law or rules. It's about must-dos.",
+                    "example": "Visitors require a pass to enter the building.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Imposed Condition",
+                    "description": "When 'require' means to impose, it leaves no room for choice.",
+                    "example": "The contract requires your signature before Friday.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "23b8b0ba-98a1-46b8-8260-b06ac089aa2b",
+            "de": "To ask someone to do something",
+            "ty": "verb",
+            "ex": "I require you to clean your room.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "require action",
+                " require response",
+                " require explanation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/23b8b0ba-98a1-46b8-8260-b06ac089aa2b.webp",
+            "Tips": [
+                {
+                    "title": "Formal Request",
+                    "description": "A formal request or order, usually from a position of authority.",
+                    "example": "My boss requires me to submit a report by tomorrow.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Personal Requirement",
+                    "description": "Even in personal contexts, 'require' can express strong needs.",
+                    "example": "The plants require regular trimming to flourish.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "bd27fa94-c96f-4e76-9aca-c037145f39cc",
+            "de": "To depend on something for success or to happen",
+            "ty": "verb",
+            "ex": "Hiking this trail requires a good level of fitness.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "require strength",
+                " require intelligence",
+                " require patience"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/bd27fa94-c96f-4e76-9aca-c037145f39cc.webp",
+            "Tips": [
+                {
+                    "title": "Precondition",
+                    "description": "'Require' suggests conditions that must be met for success.",
+                    "example": "Joining the team requires passing a fitness test.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Implicit Consequence",
+                    "description": "Failing to meet a 'requirement' could lead to negative outcomes.",
+                    "example": "Neglecting the required safety measures could result in accidents.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Call for": {
+            "wordRoot": "Call for",
+            "wordDefinition": "Call for implies a need or a demand for something, while require implies a necessity or an obligation for something.\n\nFor example, if a situation 'calls for' urgent action, it means that action is needed immediately to resolve the problem.\n\nIf someone requires medical attention, it means that they need medical treatment because it is necessary for their health.\n\nCall for describes situations that demand attention or action, whereas require describes conditions that must be met or fulfilled.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cdd8ec2c-6f74-4d9a-a347-09d2b7de1b3e.webp"
+        },
+        "Demand": {
+            "wordRoot": "Demand",
+            "wordDefinition": "Demand means to forcefully ask for something, while require simply means to need something.\n\nFor example, if someone demands that you give them your phone, they are telling you that you have to give it to them or else there will be consequences.\n\nDemand implies that there may be some kind of pressure or threat behind the request, while require is a more neutral term that simply states what is necessary for something to happen.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d691c841-3470-43d0-92e1-24d5a54d5da3.webp"
+        },
+        "Necessitate": {
+            "wordRoot": "Necessitate",
+            "wordDefinition": "Both necessitate and require indicate the need for something.\n\nHowever, necessitate means something is essential or indispensable for a particular purpose or outcome, while require simply means something is needed or demanded.\n\nFor example, a medical emergency may necessitate immediate attention, meaning it is absolutely necessary for the person's survival.\n\nNecessitate implies a higher level of urgency or importance, while require is more neutral and can be used in a wider range of situations.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2817202b-792f-4851-85c2-d5b0e1307e03.webp"
+        },
+        "Need": {
+            "wordRoot": "Need",
+            "wordDefinition": "Need implies a necessity or something that is necessary for survival. For example, you need food, water, and air to survive.\n\nNeed is more commonly used in everyday situations whereas require is typically used in more formal or professional settings.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/718e1e33-2799-4f30-ab5f-cc99be670b87.webp"
+        },
+        "Oblige": {
+            "wordRoot": "Oblige",
+            "wordDefinition": "Oblige means to do something because it is polite, necessary, or expected. For example, if someone invites you to their party, it is polite to bring a gift or some food to share.\n\nYou feel obliged to bring something to the party to show your appreciation for being invited.\n\nOblige is used when there is a social expectation or customary behavior while require is used when there is a demand or specific need.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/61f2e56f-b434-421e-b890-d82fe73b6c89.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " strengthens those brain functions, allowing us to apply that strength to other activities. The most obvious difference between listening to music and playing it is that the latter requires fine motor skills, which are controlled in both hemispheres of the brain. It also combines the linguistic and mathematical precision,",
+            "Title": "How playing an...",
+            "VideoId": "R0JKCYZ8hng",
+            "Controls": "start=125"
+        },
+        {
+            "Text": " ideas are universal we hope that you think about your tools but more importantly think about your thinking because Einstein said that today's problems cannot be of the same thinking that created them well the technology of management got us this far but it's going to require progressive and empathetic leaders",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=381"
+        },
+        {
+            "Text": " but in very rare cases, such as when as a person can't sense the need to urinate, the pouch can rupture painfully requiring surgery to fix. But under normal circumstances, your decision to urinate stops the brain's signal to the external urethral sphincter, causing it to relax and the bladder to empty.",
+            "Title": "Is it bad to hold your...",
+            "VideoId": "Ze4Qmpq48AQ",
+            "Controls": "start=154"
+        },
+        {
+            "Text": " and riders and their supporters say that reaching the spring is what they want unfortunately reaching the spring requires crossing this main road so it's a very main road that we cannot allow for it to be closed this is for you how close are we gonna get to the protesters",
+            "Title": "Part 2: Israel Defense...",
+            "VideoId": "Fi4qczkqyWI",
+            "Controls": "start=240"
+        },
+        {
+            "Text": " or even require invasive treatment. Masses less than five millimeters in diameter will usually pass out of the body on their own. A doctor will often simply recommend drinking large amounts of water to help speed the process along, and maybe taking some pain killers.",
+            "Title": "What causes kidney...",
+            "VideoId": "W0GpIMNTPYg",
+            "Controls": "start=142"
+        },
+        {
+            "Text": " it was clear there would be no new election. Disturbingly, many of Hitler's early measures didn't require mass repression. His speeches exploited people's fear and ire to drive their support behind him and the Nazi party. Meanwhile, businessmen and intellectuals,",
+            "Title": "How did Hitler rise to...",
+            "VideoId": "jFICRFKtAc4",
+            "Controls": "start=276"
+        },
+        {
+            "Text": " through its doctrine, along with the required recipe for change that shapes a new member into a true believer. And most importantly, it uses both formal and informal systems of influence and control to keep members obedient,",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=130"
+        },
+        {
+            "Text": " So I want to start by offering you a free no-tech life hack, and all it requires of you is that you change your posture for two minutes. But before I give it away, I want to ask you to right now",
+            "Title": "Your body language may...",
+            "VideoId": "Ks-_Mh1QhMc",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " But this can't go on forever. As summer continues, temperatures are rising. Each hunt requires more energy draining the bears of their reserves.",
+            "Title": "Hungry Polar Bear...",
+            "VideoId": "zNO0kxTClYo",
+            "Controls": "start=195"
+        },
+        {
+            "Text": " but this can't go on forever as summer continues temperatures are rising each hunt requires more energy draining the bears of their reserves",
+            "Title": "ONE HOUR of Amazing...",
+            "VideoId": "eEaZvEZye84",
+            "Controls": "start=879"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bill-gates.webp",
+            "Text": "In energy, you have to plan and do research way in advance, sometimes decades in advance to get a new system that's safer, doesn't require us to go around the world to get all our oil.",
+            "Title": "American Businessman",
+            "Name": "Bill Gates"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joyce-meyer.webp",
+            "Text": "Loving others always costs us something and requires effort. And you have to decide to do it on purpose. You can't wait for a feeling to motivate you.",
+            "Title": "American Author",
+            "Name": "Joyce Meyer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henry-david-thoreau.webp",
+            "Text": "The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.",
+            "Title": "American Author",
+            "Name": "Henry David Thoreau"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jim-bunning.webp",
+            "Text": "Difficult times require difficult decisions. But supporting this bill shouldn't be a difficult decision.",
+            "Title": "American Politician",
+            "Name": "Jim Bunning"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aretha-franklin.webp",
+            "Text": "We all require and want respect, man or woman, black or white. It's our basic human right.",
+            "Title": "American Musician",
+            "Name": "Aretha Franklin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/albert-camus.webp",
+            "Text": "What the world requires of the Christians is that they should continue to be Christians.",
+            "Title": "French Philosopher",
+            "Name": "Albert Camus"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/h-jackson-brown-jr.webp",
+            "Text": "Life doesn't require that we be the best, only that we try our best.",
+            "Title": "American Author",
+            "Name": "H. Jackson Brown, Jr."
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/napoleon-bonaparte.webp",
+            "Text": "It requires more courage to suffer than to die.",
+            "Title": "French Statesman",
+            "Name": "Napoleon Bonaparte"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/oscar-levant.webp",
+            "Text": "I am no more humble than my talents require.",
+            "Title": "American Composer",
+            "Name": "Oscar Levant"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeff-foxworthy.webp",
+            "Text": "I really don't require a whole lot in life.",
+            "Title": "American Comedian",
+            "Name": "Jeff Foxworthy"
+        }
+    ]
+}

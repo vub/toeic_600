@@ -1,0 +1,296 @@
+{
+    "currentWord": {
+        "wordRoot": "typical",
+        "id": 22403,
+        "phonemic": "ˈtɪpɪkl|ˈtɪpɪkl\r",
+        "bigId": "49c0ea1b-4a8c-48a5-9918-a66102ff5436",
+        "wordForms": [
+            "typically",
+            "typical"
+        ]
+    },
+    "senses": [
+        {
+            "id": "49c0ea1b-4a8c-48a5-9918-a66102ff5436",
+            "de": "Usually found in a certain situation, normal or common",
+            "ty": "adjective",
+            "ex": "She responded with her typical charm.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "typical response",
+                " typical behaviour",
+                " typical example"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/49c0ea1b-4a8c-48a5-9918-a66102ff5436.webp",
+            "Tips": [
+                {
+                    "title": "Expectation setting",
+                    "description": "Used when discussing what is considered usual or anticipated in situations.",
+                    "example": "He arrived late, which is typical for him.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8unfmkM6QEqtXTi2ycNu071M5MA.webp"
+                },
+                {
+                    "title": "Negative undertone",
+                    "description": "Sometimes has a negative connotation, implying dissatisfaction with the norm.",
+                    "example": "She gave a typical excuse for her absence.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/3B9V0Kl4LeOGv1FUbAlpdF3f1w.webp"
+                },
+                {
+                    "title": "Cultural implications",
+                    "description": "Can refer to behaviors or patterns commonly associated with particular cultures.",
+                    "example": "The fiesta was filled with typical Spanish festivities.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/dgwNw2E1hRooPGSQ07ErjWpjs.webp"
+                }
+            ]
+        },
+        {
+            "id": "7460b853-39d4-4133-a711-6243b5d6dbb2",
+            "de": "Showing the characteristics expected or common for something or someone",
+            "ty": "adjective",
+            "ex": "A typical day for me begins at 7am.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "typical day",
+                " typical features",
+                " typical symptoms"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7460b853-39d4-4133-a711-6243b5d6dbb2.webp",
+            "Tips": [
+                {
+                    "title": "Daily routines",
+                    "description": "Often relates to everyday habits or schedules for individuals or groups.",
+                    "example": "A typical morning in our house is very hectic.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Characteristic emphasis",
+                    "description": "Emphasizes common traits that define a person, group, or object.",
+                    "example": "Wearing bold colors is typical of his fashion sense.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Comparison",
+                    "description": "Useful when comparing specific subjects to the general standards or norms.",
+                    "example": "Compared to her earlier work, this painting is not at all typical.\r",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e7f8165b-5978-4974-a66d-fe3e92cc985e",
+            "de": "Serving as a representative example of a class or group",
+            "ty": "adjective",
+            "ex": "The car is a typical example of luxury.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "typical example",
+                " typical results",
+                " typical case"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e7f8165b-5978-4974-a66d-fe3e92cc985e.webp",
+            "Tips": [
+                {
+                    "title": "Exemplification",
+                    "description": "Highlights something as a model which perfectly represents a larger group or category.",
+                    "example": "That speech was a typical example of his eloquence.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Scientific contexts",
+                    "description": "In research, denotes a sample or result that reflects the average or expected outcome.",
+                    "example": "The experiment yielded typical results for this chemical reaction.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Avoid stereotypes",
+                    "description": "Be mindful not to use 'typical' in a way that unfairly stereotypes groups of people.",
+                    "example": "Saying she's good at math because she's Asian is using a typical stereotype.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Average": {
+            "wordRoot": "Average",
+            "wordDefinition": "Average refers to the calculated sum of data divided by the number of items. For example, if you have a class of 20 students and their ages are 10, 11, 12, 13 and so on up to 29, then the average age of the class can be calculated as (10+11+12+...+29)/20, which is 19.5.\n\nIn essence, average is a mathematical term used to describe the mean of a set of data, while typical is a more general word used to describe what is commonly expected or experienced.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/37b86109-cdee-4f13-980b-d196466c93b1.webp"
+        },
+        "Common": {
+            "wordRoot": "Common",
+            "wordDefinition": "Common refers to something that is frequent or widely known or used.\n\nIt can describe things that are ordinary or general, like a common cold.\n\nIn simpler terms, common means it happens a lot or is well known, while typical means it's normal or expected based on what we already know.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af247a1c-4ca1-4fff-983e-d20bda0907d4.webp"
+        },
+        "Conventional": {
+            "wordRoot": "Conventional",
+            "wordDefinition": "Conventional refers to something that is accepted or done in a traditional way, often based on social norms or expectations.\n\nFor example, a conventional wedding might include a white dress, a church ceremony, and exchanging rings.\n\nConventional refers to something that is traditional or based on social norms, while typical refers to something that is common or expected in a given situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b8b97770-0bfe-4aba-8cc1-6814a895f652.webp"
+        },
+        "Expect": {
+            "wordRoot": "Expect",
+            "wordDefinition": "Expect means to anticipate or to have a belief that something will happen or be true. For example, \"I expect my package to arrive tomorrow.\".\n\nIn simpler terms, expect is used when someone thinks something will happen, while typical is used when something is common or usual for a particular situation or group.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1bfd0899-956b-40e7-a206-d38e9f9c80ef.webp"
+        },
+        "Normal": {
+            "wordRoot": "Normal",
+            "wordDefinition": "Normal refers to something that is usual or expected in a particular situation. For example, it's normal for people to wear clothes when they go out in public.\n\nNormal is used when talking about expected behavior or events, while typical is used when talking about things that are characteristic of a group or situation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e5a9718d-381c-4e10-ad20-f7439076df89.webp"
+        },
+        "Ordinary": {
+            "wordRoot": "Ordinary",
+            "wordDefinition": "Ordinary means something that is common, everyday or usual. For example, an ordinary day would be a regular day that is nothing special.\n\nTypical means something that is representative or characteristic of a particular group or category. For example, a typical day would be a day that is similar to most other days, with nothing out of the ordinary happening.\n\nOrdinary is a more general term and can describe anything that is plain or unremarkable.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6613882e-4ec1-4fae-91ea-a6bc9fef452e.webp"
+        },
+        "Regular": {
+            "wordRoot": "Regular",
+            "wordDefinition": "Regular refers to something that is done or happens on a consistent basis, such as a routine or schedule.\n\nRegular describes the frequency or pattern of something while typical describes the general expectation or norm.\n\nSo, for example, a person's regular exercise routine might involve running three times a week, while it is typical for students to take exams at the end of each semester.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/ec5b5991-1fd9-4b30-b9f8-04e4455e947d.webp"
+        },
+        "Standard": {
+            "wordRoot": "Standard",
+            "wordDefinition": "Standard refers to a set of rules or guidelines that are generally accepted and followed by a group of people.\n\nFor example, standard measurements like inches or meters are used around the world to ensure consistency and accuracy.\n\nStandard relates to a rule or measure, while typical relates to a common situation or behavior.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b586dd57-f4f9-48f6-a898-11ad2218a97a.webp"
+        },
+        "Usual": {
+            "wordRoot": "Usual",
+            "wordDefinition": "Typical and usual are similar words that mean similar things, but there is a slight difference between them.\n\nUsual means something that is normal or expected. It refers to something that happens regularly or frequently. For example, if you say \"It's usual for me to have cereal for breakfast,\" you are saying that you typically eat cereal for breakfast.\n\nTypical describes something that is common or representative of a group, while usual describes something that is normal or expected.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c4de0cda-d32a-467d-b356-947e5392f32d.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " that can perceive the world slightly differently than us. Bats are usually synonymous with some type of evil events. They are the perpetrators in horror movies, such as this famous \"Nightwing.\" Also, if you think about it, demons always have bat wings, whereas birds, they typically --",
+            "Title": "Emma Teeling: The secret...",
+            "VideoId": "GROCkg810R0",
+            "Controls": "start=297"
+        },
+        {
+            "Text": " Language ability is typically measured in two active parts, speaking and writing, and two passive parts, listening and reading. While a balanced bilingual has near equal abilities across the board in two languages, most bilinguals around the world know and use their languages",
+            "Title": "The benefits of a...",
+            "VideoId": "MMmOLN5zBLY",
+            "Controls": "start=36"
+        },
+        {
+            "Text": " going with her and I talked about typical things that guys do like pie and relativity and drawing and somehow managed to get her interested in talking to me and as we talked she said what a lot of people had told me she said when you show me the drawings and you say",
+            "Title": "How math saved my life PIPE...",
+            "VideoId": "GDU7lEmiiD8",
+            "Controls": "start=730"
+        },
+        {
+            "Text": " canoe builders, priests, chanters, and hula dancers. Navigators were keen observers of the natural world. They were abundantly familiar with trade wind-generated ocean swells, which typically flow northeast or southeast. By day, navigators could identify direction",
+            "Title": "How did Polynesian...",
+            "VideoId": "m8bDCaPhOek",
+            "Controls": "start=106"
+        },
+        {
+            "Text": " with the external world. Every sight, sound, and touch create new maps and representations in the brain that eventually become responsible for regulating our experience of self. And we have other senses, besides the typical five, such as the sense of balance",
+            "Title": "Are you a body with a...",
+            "VideoId": "ILDy6kYU-xQ",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " Even humans might benefit from the sting of a jellyfish one day. Scientists are working on manipulating cnidocytes to deliver medicine, with nematocysts rarely 3% of the size of a typical syringe needle. So, the next time you're out in the ocean, be careful.",
+            "Title": "How does a jellyfish...",
+            "VideoId": "Pu_ijC8HFRU",
+            "Controls": "start=218"
+        },
+        {
+            "Text": " the virus replicates within helper T cells, destroying many of them in the process. During this stage, patients often experience flu-like symptoms, but are typically not yet in mortal danger. However, for a period ranging from a few months to several years,",
+            "Title": "Why it’s so hard to cure...",
+            "VideoId": "0TipTogQT3E",
+            "Controls": "start=73"
+        },
+        {
+            "Text": " there have now been several studies that have looked for signs of personality in different cephalopods and typically find that there are individual personalities bringing the octopus into an area of study normally reserved for animals like",
+            "Title": "Can Octopuses Recognise...",
+            "VideoId": "UdAwpXdc48s",
+            "Controls": "start=226"
+        },
+        {
+            "Text": " most cults share some basic characteristics. A typical cult requires a high level of commitment from its members and maintains a strict hierarchy, separating unsuspecting supporters and recruits from the inner workings.",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=111"
+        },
+        {
+            "Text": " In a world of 7 billion people who is most typical?",
+            "Title": "7 Billion: Are You...",
+            "VideoId": "4B2xOvKFFz4",
+            "Controls": "start=4"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/florence-welch.webp",
+            "Text": "I can't wait to get on stage, because there you don't worry about whether you'll ever get married because your life is insane, or whether you'll ever have another boyfriend again, you don't worry about the typical boundaries of how your life has to be.",
+            "Title": "English Musician",
+            "Name": "Florence Welch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/j-christopher-burch.webp",
+            "Text": "I would never suggest anyone to stay at a company more than six or seven years. We grow as individuals and the world is moving so fast. Typically, I'll always sell a piece of each of my companies along the way.",
+            "Title": "American Businessman",
+            "Name": "J. Christopher Burch"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/zig-ziglar.webp",
+            "Text": "If my life has had a theme, I suppose it has been a typical American theme in that, for most of it, I have been looking for happiness and success.",
+            "Title": "American Author",
+            "Name": "Zig Ziglar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/janet-varney.webp",
+            "Text": "Typically, I'm put in high heels and a tight top, which is not my personality at all.",
+            "Title": "American Actress",
+            "Name": "Janet Varney"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/n-k-jemisin.webp",
+            "Text": "I tend to like writing characters that are not typical heroes.",
+            "Title": "American Writer",
+            "Name": "N. K. Jemisin"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicola-formichetti.webp",
+            "Text": "I'm not a typical couturier, although I really respect them.",
+            "Title": "Japanese Designer",
+            "Name": "Nicola Formichetti"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nora-roberts.webp",
+            "Text": "I long for typical days, but rarely get them any more.",
+            "Title": "American Author",
+            "Name": "Nora Roberts"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jennifer-yuh-nelson.webp",
+            "Text": "I like action. It's not typical, but it's a passion.",
+            "Title": "South Korean Director",
+            "Name": "Jennifer Yuh Nelson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/aviva.webp",
+            "Text": "I typically take life one day at a time.",
+            "Title": "",
+            "Name": "Aviva"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/margaret-cho.webp",
+            "Text": "My life is anything but typical.",
+            "Title": "American Comedian",
+            "Name": "Margaret Cho"
+        }
+    ]
+}

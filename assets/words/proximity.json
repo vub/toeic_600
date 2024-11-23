@@ -1,0 +1,280 @@
+{
+    "currentWord": {
+        "wordRoot": "proximity",
+        "id": 18144,
+        "phonemic": "prɒkˈsɪməti|prɑːkˈsɪməti\r",
+        "bigId": "55bb269f-4939-4570-ac13-8c5f602433b2",
+        "wordForms": [
+            "proximity"
+        ]
+    },
+    "senses": [
+        {
+            "id": "55bb269f-4939-4570-ac13-8c5f602433b2",
+            "de": "The state of being near in space or time.",
+            "ty": "noun",
+            "ex": "The proximity of the park to the city center makes it a popular place for families to visit.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "close proximity",
+                " in proximity to",
+                " proximity sensor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/55bb269f-4939-4570-ac13-8c5f602433b2.webp",
+            "Tips": [
+                {
+                    "title": "Physical Space",
+                    "description": "Often describes literal, physical closeness between objects or places.",
+                    "example": "Due to the proximity of the houses, we share a driveway.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EQ8IVgY3ZMZzL9doPBL9Q8ZnBPI.webp"
+                },
+                {
+                    "title": "Time Relevance",
+                    "description": "Can refer to events or opportunities that are soon to occur or recently happened.",
+                    "example": "He couldn't hide his excitement in proximity to his birthday.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/3LAlBhvHFL8k3k7KBvUYRCG0UeI.webp"
+                },
+                {
+                    "title": "Not Always Positive",
+                    "description": "Proximity doesn't imply positivity; it can indicate risk or discomfort.",
+                    "example": "The proximity to the noisy construction site made working difficult.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/GuEqLeqBAYZj2AgNbhbUwiFDcg.webp"
+                }
+            ]
+        },
+        {
+            "id": "1ca16733-bde6-49cb-8f26-559491945fc3",
+            "de": "The degree of closeness or nearness.",
+            "ty": "noun",
+            "ex": "The proximity of the two buildings was a cause for concern during the fire.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "proximity to danger",
+                " physical proximity",
+                " emotional proximity"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1ca16733-bde6-49cb-8f26-559491945fc3.webp",
+            "Tips": [
+                {
+                    "title": "Relationship Closeness",
+                    "description": "Can describe the emotional closeness between people, not just physical nearness.",
+                    "example": "Their emotional proximity grew as they shared more personal stories.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Metaphorical Use",
+                    "description": "Used metaphorically to express similarity or connection in abstract terms.",
+                    "example": "There's a strong proximity in the ideologies of the two political parties.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "be4521b2-e6b1-47a8-b948-34ea25e0105e",
+            "de": "In technology, a sensor that detects the presence of an object nearby without any physical contact.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "Many modern smartphones have a proximity sensor to turn off the screen when the phone is held close to the face during a call.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "proximity sensor technology",
+                " activate proximity sensor",
+                " disable proximity sensor"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/be4521b2-e6b1-47a8-b948-34ea25e0105e.webp",
+            "Tips": [
+                {
+                    "title": "Technical Specificity",
+                    "description": "In a tech context, it represents a specific functionality, not just nearness.",
+                    "example": "My phone's screen dims by itself, thanks to the proximity sensor.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "User Experience",
+                    "description": "These sensors enhance user experience by adapting device behavior.",
+                    "example": "The proximity sensor pauses the video when you look away.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Accessibility": {
+            "wordRoot": "Accessibility",
+            "wordDefinition": "Accessibility refers to how easy it is to get to a certain place or thing, such as a building or a website. If something is easily accessible, it means that people can reach it without too much trouble, for example, a wheelchair ramp that provides accessibility for people with disabilities.\n\nAccessibility focuses on how easy it is to access something, while proximity focuses on how close something is to another object or place.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e569aa75-3838-4e07-bc33-70db18d35d13.webp"
+        },
+        "Close": {
+            "wordRoot": "Close",
+            "wordDefinition": "Close generally refers to a short distance between two objects or people. It could be used in a sentence like, \"Can you please move closer to the window so I can see?\" or \"The grocery store is close to our house.\".\n\nProximity refers to the state of being near or close to something or someone. It could be used in a sentence like, \"The proximity of the park to our house is convenient for walking our dog\" or \"Due to their proximity, the two businesses are often mistaken for one another.\".\n\nSo, while close refers specifically to distance, proximity is more abstract and refers to the concept of being close or near something or someone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/80d2c5c2-3879-4040-b1df-040c1f579e8b.webp"
+        },
+        "Connection": {
+            "wordRoot": "Connection",
+            "wordDefinition": "Connection refers to a relationship or link between two or more things or people. It suggests a bond or association between two things that may be linked in some way.\n\nFor example, we can talk about our connection to our family, friends, or colleagues. Or we can speak of a connection between two ideas or concepts.\n\nConnection and proximity are different concepts. Connection refers more to a relationship or link between two or more things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14ffe5ed-b0c3-4d57-9700-40b30db152c0.webp"
+        },
+        "Contiguity": {
+            "wordRoot": "Contiguity",
+            "wordDefinition": "Contiguity refers to things that are touching or directly adjacent to each other.\n\nIt is typically used when discussing physical space or geography. For example, two states are in contiguity if they share a border.\n\nBoth words describe situations where things are near each other, but contiguity is a more precise term that refers specifically to physical adjacency, while proximity is a broader term that can refer to a variety of types of nearness.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e2f4b4b3-95e6-46e4-bee8-31cd902a8159.webp"
+        },
+        "Immediacy": {
+            "wordRoot": "Immediacy",
+            "wordDefinition": "Immediacy refers to something that is happening right now or without a delay. It is related to time and urgency. For example, if someone is experiencing a medical emergency, getting immediate medical attention is crucial.\n\nImmediacy is applicable in situations that require urgent action.\n\nImmediacy refers to time and urgency, while proximity refers to distance and location. Both words are applicable in different situations and have their own importance.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e76415b7-da14-4395-a1c3-63c087af5bf8.webp"
+        },
+        "Near": {
+            "wordRoot": "Near",
+            "wordDefinition": "Near refers to something that is close in distance or time. It implies a physical closeness or a short amount of time that has passed, such as \"The store is near the park\" or \"The exam is near\".\n\nProximity refers to the state of being near or close in space, time, or relationship. It is a more general term that can refer to both physical and abstract concepts, such as \"The company's office is in close proximity to the airport\" or \"Their close proximity led to a strong friendship\".\n\nIn simpler terms, near refers to a specific distance or time, while proximity refers to a general state of closeness or relationship.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f663250b-d9cf-414f-920e-868ba390975b.webp"
+        },
+        "Propinquity": {
+            "wordRoot": "Propinquity",
+            "wordDefinition": "Propinquity and proximity are both words used to describe closeness or nearness.\n\nPropinquity refers to the physical, social or emotional closeness between people or things.\n\nIt can describe a close relationship between family members or friends who spend a lot of time together. For instance, you might say that you have a propinquity with your best friend because you have a close relationship and spend a lot of time together.\n\nPropinquity describes a close relationship between people or things, while proximity describes the physical distance or nearness between two objects or places.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f867411f-7f10-4dde-9e2d-c0def4df2089.webp"
+        },
+        "Touch": {
+            "wordRoot": "Touch",
+            "wordDefinition": "Proximity refers to being near or close to something or someone, without necessarily making contact with them. It's like standing near a person without actually touching them.\n\nTouch refers to making physical contact with something or someone. It's like placing your hand on someone or something.\n\nFor example, a person can be in close proximity to a building without actually touching it.\n\nTouch is applicable when we want to describe physical interaction with something or someone. For example, a person can touch a painting to feel its texture.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bf8dfef-f45d-40c1-9a1d-c59762c0f9d9.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " there's little temperature difference between surface and deeper waters. It's all pretty cold. But salinity differs, and in this scenario, that's what triggers the action. Here, the sun's rays melt surface ice, depositing a new load of water molecules into the sea. That not only increases the proximity",
+            "Title": "Making waves: The power...",
+            "VideoId": "5xtgtJTC2go",
+            "Controls": "start=193"
+        },
+        {
+            "Text": " world large parts of the major economies of the world which have literally just stopped functioning the basic principle of economic exchange is not happening because human beings are not in proximity with one another and therefore cannot engage in that so you are seeing",
+            "Title": "How the coronavirus...",
+            "VideoId": "ldKtWp7jlHI",
+            "Controls": "start=78"
+        },
+        {
+            "Text": " the scene is set for a startling transformation. Increased moisture supports more vegetation for newly hatched hoppers to eat, leading large groups to feed in close proximity. The frequent contact stimulates their leg hairs, triggering the release of a hormone",
+            "Title": "Just add water: The...",
+            "VideoId": "6iAfUomyCjo",
+            "Controls": "start=75"
+        },
+        {
+            "Text": " that still has consequences for us today. And the social consequences, as we know, are incredibly profound. We live in a world where we have lightly and darkly pigmented people living next to one another, but often brought into proximity initially",
+            "Title": "Nina Jablonski breaks...",
+            "VideoId": "QOSPNVunyFQ",
+            "Controls": "start=691"
+        },
+        {
+            "Text": " exasperate it don't you ever do anything else but as soon as I said it I realized they were doing something else they were sitting in close proximity and doing the human equivalent of grooming laughing and talking and strengthening their bond",
+            "Title": "The science of...",
+            "VideoId": "8DbP34U3buY",
+            "Controls": "start=338"
+        },
+        {
+            "Text": " While it does seem that entanglement between two particles helps transfer a qubit instantaneously across the space between them, there's a catch. This interaction must begin locally. The two electrons must be entangled in close proximity",
+            "Title": "Will we ever be able to...",
+            "VideoId": "JMdO5KyjwAw",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " Once navigators neared their destination, other clues, such as the flight patterns of birds, floating debris or vegetation, and types of fish in the area helped determine the proximity of land.",
+            "Title": "How did Polynesian...",
+            "VideoId": "m8bDCaPhOek",
+            "Controls": "start=236"
+        },
+        {
+            "Text": " It will create a huge macroeconomic shift. First, our factories will be relocated into our home markets. In the world of scale customization, consumer proximity is the new norm.",
+            "Title": "The next manufacturing...",
+            "VideoId": "AyWtIwwEgS0",
+            "Controls": "start=550"
+        },
+        {
+            "Text": " what makes were so unique is that you will never see people in close proximity with animals I mean in with them touching them every day was life and",
+            "Title": "Roar: The Most Dangerous...",
+            "VideoId": "txOdP7DYqKA",
+            "Controls": "start=0"
+        },
+        {
+            "Text": " the proximity is amazing to be this safe and this close is kind of very rare i think",
+            "Title": "Filming an Impenetrable...",
+            "VideoId": "GXx1bxRPmPM",
+            "Controls": "start=98"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/martin-cooper.webp",
+            "Text": "WattUp is one of those rare breakthroughs that recognizes that the so-called 'battery' problem in wireless devices is solved with a charging solution that is transparent to the user. The cell phone with a dead battery can become a relic of the past. The days of wired, mat-based and proximity charging are over.",
+            "Title": "American Scientist",
+            "Name": "Martin Cooper"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sonia-gandhi.webp",
+            "Text": "It was through the private world of family that the public world of politics came alive for me: living in intimate proximity with people for whom larger questions of ideology and belief, as well as issues relating to politics and governance, were vivid daily realities.",
+            "Title": "Indian Politician",
+            "Name": "Sonia Gandhi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/phil-klay.webp",
+            "Text": "In war, it feels like everything you're doing is more important because you're in the proximity of violence and death, and that proximity changes your relationship to America because it changes the way you see the world.",
+            "Title": "American Writer",
+            "Name": "Phil Klay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/michael-sandel.webp",
+            "Text": "I almost became a political journalist, having worked as a reporter at the time of Watergate. The proximity to those events motivated me, when I wound up doing philosophy, to try to use it to move the public debate.",
+            "Title": "American Philosopher",
+            "Name": "Michael Sandel"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-benton.webp",
+            "Text": "In America, people rarely stay in the town where they grew up, rarely stay in close proximity to their parents throughout their lives. You rarely find parents in their old age being taken care of by their children.",
+            "Title": "American Director",
+            "Name": "Robert Benton"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/howard-jacobson.webp",
+            "Text": "The queue and the fan are, of course, closely related in that fans will queue any length of time in any weather to see, touch, watch, hear, read, wear, or simply enjoy proximity to the object of their devotion.",
+            "Title": "British Novelist",
+            "Name": "Howard Jacobson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/valerie-cruz.webp",
+            "Text": "I think that Europeans in general have a more global view of the world because they are in such proximity to other countries that it enables them to travel and see other parts of the world.",
+            "Title": "American Actress",
+            "Name": "Valerie Cruz"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joan-armatrading.webp",
+            "Text": "When you're on tour you definitely don't want lots of arguments. It's very important that everybody gets on because you're in close proximity a great deal of the time.",
+            "Title": "St. Kittsian Musician",
+            "Name": "Joan Armatrading"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ellie-goulding.webp",
+            "Text": "It's so important to take vitamins. People always get ill on tour because of the close proximity in the bus with everyone.",
+            "Title": "English Musician",
+            "Name": "Ellie Goulding"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-herbert.webp",
+            "Text": "The proximity of a desirable thing tempts one to overindulgence. On that path lies danger.",
+            "Title": "American Writer",
+            "Name": "Frank Herbert"
+        }
+    ]
+}

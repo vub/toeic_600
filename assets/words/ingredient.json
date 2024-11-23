@@ -1,0 +1,287 @@
+{
+    "currentWord": {
+        "wordRoot": "ingredient",
+        "id": 1944,
+        "phonemic": "ɪnˈɡriːdiənt|ɪnˈɡriːdiənt\r",
+        "bigId": "f0de625e-59a8-4618-8392-e7f5cdd23278",
+        "wordForms": [
+            "ingredients",
+            "ingredient"
+        ]
+    },
+    "senses": [
+        {
+            "id": "f0de625e-59a8-4618-8392-e7f5cdd23278",
+            "de": "One part or element of a bigger thing, sometimes used in cooking a recipe.",
+            "ty": "noun",
+            "ex": "Flour, eggs, and sugar are the main ingredients in this cake recipe.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "key ingredient",
+                " active ingredient",
+                " main ingredient"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f0de625e-59a8-4618-8392-e7f5cdd23278.webp",
+            "Tips": [
+                {
+                    "title": "Recipe Context",
+                    "description": "In cooking, 'ingredient' refers to items combined to prepare dishes.",
+                    "example": "Make sure you have all the ingredients before you start baking.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/tv1Qyi4N3A4pYPU2W6bKzx20k.webp"
+                },
+                {
+                    "title": "Quantity Precision",
+                    "description": "Exact amounts of each ingredient are often crucial in recipes.",
+                    "example": "The recipe calls for three main ingredients: two cups of flour, one cup of sugar, and one egg.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/7VDnJz4tQCPrKjXyLJ0tj7SFc0k.webp"
+                },
+                {
+                    "title": "Substitutions Possible",
+                    "description": "You can sometimes replace ingredients with alternatives if needed.",
+                    "example": "If you don't have butter, you can use oil as an ingredient instead.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/edN68VzMuQHhm6dT0Xg8WBpSZg.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "cb41a09f-de50-4dcf-8507-38142f0cd6f6",
+            "de": "Something that is needed to achieve a result or effect.",
+            "do": "Non culinary",
+            "ty": "noun",
+            "ex": "Trust is a key ingredient in a successful relationship.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "Approving",
+            "tp": "",
+            "cl": [
+                "key ingredient",
+                " essential ingredient",
+                " vital ingredient"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cb41a09f-de50-4dcf-8507-38142f0cd6f6.webp",
+            "Tips": [
+                {
+                    "title": "Abstract Applications",
+                    "description": "'Ingredient' also applies to abstract concepts like success.",
+                    "example": "Patience is an essential ingredient for mastering a language.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Metaphorical Use",
+                    "description": "The word can be used metaphorically to mean 'an important part'.",
+                    "example": "Humor is a key ingredient in his public speaking success.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "81a48d09-44ec-45f8-9f71-087ee454b919",
+            "de": "One of the substances in a medicine or a cosmetic product.",
+            "do": "Medical",
+            "ty": "noun",
+            "ex": "This sunscreen's active ingredient is zinc oxide.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "active ingredient",
+                " listed ingredient",
+                " natural ingredient"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/81a48d09-44ec-45f8-9f71-087ee454b919.webp",
+            "Tips": [
+                {
+                    "title": "Medicinal Context",
+                    "description": "In medicine, 'ingredient' refers to each chemical in a formulation.",
+                    "example": "Always check the active ingredients of your medication for allergies.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Cosmetic Products",
+                    "description": "In cosmetics, 'ingredient' means any substance used in products.",
+                    "example": "This cream has all-natural ingredients like aloe vera and coconut oil.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Ingredient Labels",
+                    "description": "Products list ingredients to inform consumers of contents.",
+                    "example": "Check the ingredient label for food allergies.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Aspect": {
+            "wordRoot": "Aspect",
+            "wordDefinition": "Aspect refers to a particular feature or part of something, while ingredient refers to a component that is combined with others to make a whole.\n\nFor example, in the context of a meal, an aspect could be the presentation or appearance of the food, while an ingredient refers to the individual components that are used to make the recipe.\n\nIn broader terms, aspect can refer to any characteristic or facet of something, while ingredient is more specific to something that is used to create or contribute to a larger whole.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3300ecfe-1deb-4656-8643-42709f891009.webp"
+        },
+        "Attribute": {
+            "wordRoot": "Attribute",
+            "wordDefinition": "Attribute refers to a characteristic or quality that is inherent in something or someone. For example, honesty, intelligence, and kindness are attributes of a person.\n\nIn the context of a product, attributes can refer to features or specifications.\n\nAttribute refers to the properties or characteristics of something while ingredient refers to the components that make up something.\n\nAttributes are applicable in describing people or products while ingredients are applicable in describing recipes or mixtures.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6ede8620-8b2c-489d-aea5-6686448f9eca.webp"
+        },
+        "Component": {
+            "wordRoot": "Component",
+            "wordDefinition": "Component refers to a part or element of something larger. For example, a car has many components such as an engine, wheels, a steering wheel, and brakes.\n\nSo, in summary, components are parts of a whole, while ingredients are substances used to make something. Both words are applicable in different situations - components are used when referring to machines or structures, while ingredients are used when referring to food or products.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/12249d61-881b-408a-bdda-2273a370f660.webp"
+        },
+        "Constituent": {
+            "wordRoot": "Constituent",
+            "wordDefinition": "Constituent refers to a part or component that makes up a whole, such as the individual voters who make up a larger group, like a constituency.\n\nConstituent is used for abstract or intangible parts, while ingredient is used for tangible or concrete parts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a067687d-59a1-437a-801f-af7dea13babf.webp"
+        },
+        "Element": {
+            "wordRoot": "Element",
+            "wordDefinition": "An element is a basic building block of matter that cannot be broken down any further. Examples include oxygen, gold, and carbon.\n\nIn terms of chemistry, elements are represented by symbols on the periodic table.\n\nThe difference between the two terms is that an element is a fundamental substance that is not made up of anything else, whereas an ingredient is a component of a larger substance or mixture.\n\nElements are typically discussed in the context of chemistry, while ingredients are more commonly used when discussing cooking or food.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0ea94ed-afca-4058-8180-39880e6a6b68.webp"
+        },
+        "Factor": {
+            "wordRoot": "Factor",
+            "wordDefinition": "However, factor usually refers to something that influences or contributes to a result or outcome. For example, in a math equation, a factor is a number that is multiplied by another number to get a product.\n\nIn a scientific experiment, different factors might be tested to see how they affect the outcome.\n\nFactor is used when discussing something that affects or contributes to a result, while ingredient is used when describing a specific substance that is combined with others to make something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d03ff319-f9d6-4bd4-8958-a7f7dd751229.webp"
+        },
+        "Part": {
+            "wordRoot": "Part",
+            "wordDefinition": "A part refers to a component that makes up a larger thing, such as a machine or structure. For example, the wheels, engine, and seats are all parts of a car.\n\nAn ingredient is used in the creation of a recipe or product, while a part is a component of a larger object.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/969bc1be-d44e-499a-940e-4d4baec9cb19.webp"
+        },
+        "Piece": {
+            "wordRoot": "Piece",
+            "wordDefinition": "Piece refers to a part of a whole or something that is separate from the rest.\n\nA piece can be a section of something or a single item.\n\nFor example, a puzzle consists of many pieces that fit together to form a complete picture.\n\nIngredient pertains to the components that make up a whole, while piece refers to a part of a whole or a single item that is separate from the rest.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7a097931-773d-4303-b79e-617a50b0d9ae.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " You just mix up some pollen, sugar and water, and whatever active ingredient you want to put in, and you just give it right to the bees. No chemicals involved, just immune boosters. Humans think about our own health in a prospective way. We exercise, we eat healthy, we take vitamins. Why don't we think about honeybees in that same type of way?",
+            "Title": "Noah Wilson-Rich: Every...",
+            "VideoId": "R2kOgSVF2Uk",
+            "Controls": "start=514"
+        },
+        {
+            "Text": " that would make you live forever. In these early days, the Chinese hadn't yet figured out how to make the powder explode; it was simply very flammable, and their armies used it to make flaming arrows and even a flamethrower. But once they figured out the right proportions of ingredients to create a blast,",
+            "Title": "The deadly irony of...",
+            "VideoId": "mqHVRgCkCDE",
+            "Controls": "start=49"
+        },
+        {
+            "Text": " humanity one out of every two or three people you know is introverted so we're dreaming really big and I want to just give you in the interest of time the quickest look at three of the many big projects on our drawing board okay first transforming office architecture solitude is a crucial ingredient of",
+            "Title": "Blueprint for a quiet...",
+            "VideoId": "l1SM9NxxmJo",
+            "Controls": "start=214"
+        },
+        {
+            "Text": " and ate it, their pain disappeared. Little did they know that why they'd found was destined to influence the future course of medicine. What the Sumerians had discovered was a precursor to the medicine known today as aspirin. Aspirin's active ingredient is found commonly in willow trees",
+            "Title": "How aspirin was...",
+            "VideoId": "uRhkDN2WjzI",
+            "Controls": "start=13"
+        },
+        {
+            "Text": " that repeatedly reuse and rebuild ingredients crafting as much as possible out of the planet's available resources. Such as that sugar, built using raw sunlight and carbon converted in plant factories to become the energy that powers you and keeps the cycles revolving in your own life.",
+            "Title": "Nature's smallest...",
+            "VideoId": "0UzMaoaXKaM",
+            "Controls": "start=301"
+        },
+        {
+            "Text": " One with eight petals is part of the fourfold category, and so on. There's another secret ingredient in these an underlying grid. Invisible, but essential to every pattern, the grid helps determine the scale of the composition before work begins, keeps the pattern accurate,",
+            "Title": "The complex geometry of...",
+            "VideoId": "pg1NpMmPv48",
+            "Controls": "start=121"
+        },
+        {
+            "Text": " or thickeners or humectants which help retain water the gel is also easy usually if you see the word polymer in the ingredients list of a gel that polymer is what makes the gel the gel okay so we're left with isopropyl alcohol amino methyl propanol and",
+            "Title": "What's in Hand...",
+            "VideoId": "8JrevHbZyD8",
+            "Controls": "start=148"
+        },
+        {
+            "Text": " an ingredient that strengthens bones and lets us absorb vital minerals, like calcium, iron, magnesium, phosphate, and zinc. Without it, humans experience serious fatigue and weakened bones that can cause a condition known as rickets.",
+            "Title": "The science of skin...",
+            "VideoId": "_r4c2NT4naQ",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " bones, lungs, blood, and heart work together to sustain your life by delivering oxygen to tissues throughout your body. Most of our cells need oxygen because it's one of the key ingredients of aerobic respiration.",
+            "Title": "Oxygen’s surprisingly...",
+            "VideoId": "GVU_zANtroE",
+            "Controls": "start=21"
+        },
+        {
+            "Text": " you have all of the ingredients that you need, that we know of, to develop life as we know it. I love this picture and it's about as much meaning as you can get out of the",
+            "Title": "Water Discovered In...",
+            "VideoId": "xxjSfuF6Cvo",
+            "Controls": "start=279"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/neil-degrasse-tyson.webp",
+            "Text": "The universe is large and old, and the ingredients for life as we know it are everywhere, so there's no reason to think that Earth would be unique in that regard. Whether of not the life became intelligent is a different question, and we'll see if we find that.",
+            "Title": "American Scientist",
+            "Name": "Neil deGrasse Tyson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/i-m-pei.webp",
+            "Text": "One thing I learn - I've been in practice now for half a century or more, and the most important ingredient for an architect to do a good building is to have a good client. I think a client counts for as much as fifty per cent.",
+            "Title": "American Architect",
+            "Name": "I. M. Pei"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/phil-knight.webp",
+            "Text": "Running is a basic ingredient for your health, just as much as eating and sleeping, but going out for a run by yourself and taking a moment to think also creates a certain peace.",
+            "Title": "American Businessman",
+            "Name": "Phil Knight"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-covey.webp",
+            "Text": "Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships.",
+            "Title": "American Educator",
+            "Name": "Stephen Covey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yotam-ottolenghi.webp",
+            "Text": "I've been accused of having very long ingredient lists, and I guess there's some truth in that.",
+            "Title": "Israeli Chef",
+            "Name": "Yotam Ottolenghi"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wolfgang-puck.webp",
+            "Text": "The most important thing for me is to really buy the best ingredient.",
+            "Title": "Austrian Chef",
+            "Name": "Wolfgang Puck"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barbara-bush.webp",
+            "Text": "I think togetherness is a very important ingredient to family life.",
+            "Title": "American First Lady",
+            "Name": "Barbara Bush"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/denis-waitley.webp",
+            "Text": "Personal satisfaction is the most important ingredient of success.",
+            "Title": "American Writer",
+            "Name": "Denis Waitley"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/gino-dacampo.webp",
+            "Text": "We Italians respect food and ingredients more than anyone else.",
+            "Title": "Italian Chef",
+            "Name": "Gino D'Acampo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edward-herrmann.webp",
+            "Text": "I thought cars were essential ingredients of life itself.",
+            "Title": "American Actor",
+            "Name": "Edward Herrmann"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "currentWord": {
+        "wordRoot": "open to",
+        "id": 0,
+        "phonemic": "ˈoʊpən tuː",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "a4f9863b-928d-4593-a671-8c6645d33a12",
+            "de": "Receptive to; willing to consider or accept.",
+            "ty": "Adjective",
+            "ex": "I'm open to suggestions for our next vacation.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "be open to suggestions",
+                "open to new experiences",
+                "remain open to possibilities",
+                "open to negotiation",
+                "open to interpretation"
+            ],
+            "ImageSrc": "./senses/e7baec5a-5095-415e-8d68-f3cc0af898cb.webp",
+            "Tips": [
+                {
+                    "title": "Expressing willingness",
+                    "description": "Use 'open to' to show you are willing to consider something, even if you're not sure about it yet.",
+                    "example": "I'm open to trying that new restaurant you mentioned.",
+                    "imageUrl": "./tips/5d860928-f5c7-4a0b-a4d0-6292ab304a75.webp"
+                },
+                {
+                    "title": "Negotiations and discussions",
+                    "description": "Use 'open to' to signal flexibility and willingness to compromise.",
+                    "example": "We are open to discussing the terms of the contract further.",
+                    "imageUrl": "./tips/4b10ba19-1aa0-4661-ad1e-6479153e8964.webp"
+                }
+            ]
+        },
+        {
+            "id": "5e26f2c7-d91a-495c-b8a9-021f57b68c34",
+            "de": "Vulnerable or susceptible to.",
+            "ty": "Adjective",
+            "ex": "Leaving the window open made the house open to burglars.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "open to attack",
+                "open to criticism",
+                "open to abuse",
+                "open to misinterpretation",
+                "open to damage"
+            ],
+            "ImageSrc": "./senses/a63d0e23-6cc3-4c3a-b8c6-82c47fa3e389.webp",
+            "Tips": [
+                {
+                    "title": "Describing vulnerability",
+                    "description": "Use 'open to' to describe something that is susceptible to negative influences or actions.",
+                    "example": "The system is open to hacking if the password isn't strong enough.",
+                    "imageUrl": "./tips/80d4d3d5-c1f5-40e1-bc31-5f022bb39f97.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Receptive": {
+            "wordRoot": "Receptive",
+            "wordDefinition": "'Receptive' emphasizes a willingness to receive and consider new ideas, while 'open to' suggests a broader willingness to accept different possibilities or experiences, including potentially negative ones.",
+            "wordImage": ""
+        },
+        "Amenable": {
+            "wordRoot": "Amenable",
+            "wordDefinition": "'Amenable' often implies a willingness to cooperate or comply, while 'open to' focuses more on a willingness to consider or accept.",
+            "wordImage": ""
+        }
+    }
+}

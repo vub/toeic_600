@@ -1,0 +1,352 @@
+{
+    "currentWord": {
+        "wordRoot": "train",
+        "id": 10653,
+        "phonemic": "treɪn|treɪn\r",
+        "bigId": "70a9fbd1-2eb5-4be8-bb2e-93de5ca24dd6",
+        "wordForms": [
+            "trains",
+            "training",
+            "trained",
+            "trainor",
+            "train"
+        ]
+    },
+    "senses": [
+        {
+            "id": "70a9fbd1-2eb5-4be8-bb2e-93de5ca24dd6",
+            "de": "A sequence of railroad cars moved as a unit by a locomotive or by integral motors",
+            "ty": "noun",
+            "ex": "He took a train from New York to Chicago",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "catch a train",
+                " miss a train",
+                " train station"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/70a9fbd1-2eb5-4be8-bb2e-93de5ca24dd6.webp",
+            "Tips": [
+                {
+                    "title": "Transport Context",
+                    "description": "Used when discussing travel by rail or the vehicles themselves.",
+                    "example": "I commute daily by train.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/d6TPYK3irIhbndvuvA21O6fvlc.webp"
+                },
+                {
+                    "title": "Station Vocabulary",
+                    "description": "Train is associated with specific terms like 'station', 'platform', and 'track'.",
+                    "example": "Meet me at the train station.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/z57kU9ccbrBHnXa5eujrkvmw.webp"
+                },
+                {
+                    "title": "Schedule Importance",
+                    "description": "Trains often run on a tight schedule, punctuality is key.",
+                    "example": "The train leaves sharp at 6 PM.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/yoiGMFPdc22GiG7MprWi3fqFFc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3c641d02-3eac-40b6-a4fe-08d2e4a395e5",
+            "de": "Teach or refine to be discriminative in taste or judgment",
+            "ty": "verb",
+            "ex": "She is training to be a teacher",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "train for a job",
+                " train hard",
+                " train someone"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3c641d02-3eac-40b6-a4fe-08d2e4a395e5.webp",
+            "Tips": [
+                {
+                    "title": "Skill Development",
+                    "description": "Refers to practicing a skill or studying.",
+                    "example": "She trains in martial arts.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Preparation",
+                    "description": "Often refers to formal education or job preparations.",
+                    "example": "I'm training to become a pilot.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Routine Emphasis",
+                    "description": "Training usually involves a consistent, regular routine or program.",
+                    "example": "Her training schedule is very strict.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fdb0fdfe-ad1e-44e8-b3de-9c8254c8b7c1",
+            "de": "Direct something at; aim",
+            "ty": "verb",
+            "ex": "He trained his binoculars on the bird",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "train a lens",
+                " train a gun",
+                " train a spotlight"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fdb0fdfe-ad1e-44e8-b3de-9c8254c8b7c1.webp",
+            "Tips": [
+                {
+                    "title": "Focus Precision",
+                    "description": "To direct attentively towards a specific object or target.",
+                    "example": "The hunter trained his rifle on the deer.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Careful Aim",
+                    "description": "Involves careful positioning to ensure accuracy.",
+                    "example": "He trained the spotlight on the sign.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "64afc659-3948-49b4-b516-4b30b5b8badc",
+            "de": "A procession (of wagons or mules or camels) traveling together in single file",
+            "ty": "noun",
+            "ex": "We were part of a caravan train for security purposes",
+            "use": "",
+            "co": "Historical",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "join a train",
+                " train route",
+                " long train"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/64afc659-3948-49b4-b516-4b30b5b8badc.webp",
+            "Tips": [
+                {
+                    "title": "Group Movement",
+                    "description": "Used historically to describe a line of travelers or vehicles moving together.",
+                    "example": "The camel train crossed the desert.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Security Implication",
+                    "description": "Implies safety in numbers during travel, commonly in historical texts.",
+                    "example": "The trade train was guarded by soldiers.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "92d1eb88-3256-445a-a7e0-9d88e6ba3b59",
+            "de": "A long piece of fabric attached to the back of a formal dress or robe that spreads out behind the wearer",
+            "ty": "noun",
+            "ex": "Her wedding dress had a long train",
+            "use": "",
+            "co": "Fashion",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "long train",
+                " short train",
+                " train of a gown"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/92d1eb88-3256-445a-a7e0-9d88e6ba3b59.webp",
+            "Tips": [
+                {
+                    "title": "Ceremonial Elegance",
+                    "description": "Describes the formal and graceful aspect of long attire, often seen in weddings.",
+                    "example": "The bride's train was adorned with lace.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Fashion Statement",
+                    "description": "Often associated with fashion and formality.",
+                    "example": "The actor wore a gown with an elegant train.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Caboose": {
+            "wordRoot": "Caboose",
+            "wordDefinition": "A caboose is a small car attached to the end of a freight train, traditionally used as a shelter for the train crew.\n\nA train is applicable in transportation of goods or people, while a caboose is typically used in a freight train to provide a shelter for the crew at the end of the train.\n\nHowever, nowadays, many new train models have developed and caboose has become less common.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bbc95cc2-40f7-4813-bf40-5564a20a868d.webp"
+        },
+        "Carriage": {
+            "wordRoot": "Carriage",
+            "wordDefinition": "A carriage is a part of a train that carries passengers or goods. It is an individual compartment or car that is connected to other carriages to form a train.\n\nTrain is a term used to describe the entire transportation system, including the locomotive, carriages, tracks, and stations.\n\nA carriage is a smaller part of a train that carries passengers or goods, while a train refers to the entire system of transportation.\n\nPeople would use the word carriage when referring to the specific area of the train where they are seated or where their luggage is stored.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5b1afa1d-51c6-4177-a9a1-ba1168118f7e.webp"
+        },
+        "Coach": {
+            "wordRoot": "Coach",
+            "wordDefinition": "The words coach and train both refer to helping someone improve in a certain area, but they are used in different ways.\n\nCoach usually refers to a person who helps guide and support someone in achieving their goals. For example, a sports coach helps players improve their skills and achieve their best on the field.\n\nA life coach helps people improve their overall well-being and achieve their personal and professional goals.\n\nSo, in short, a coach helps guide and support someone in achieving their goals, while a train teaches and practices a specific skill or behavior.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/44fb10b5-a940-420a-8eb5-2a1c5ee3de12.webp"
+        },
+        "Engine": {
+            "wordRoot": "Engine",
+            "wordDefinition": "An engine is a machine used for power generation or production of mechanical energy, while a train is a group of connected vehicles or carriages that are pulled or pushed by a locomotive engine.\n\nThe term engine is used more broadly and can refer to any machine that converts energy into mechanical power, such as a car engine or a generator.\n\nThe term train is specifically used for a group of interconnected carriages or wagons that are attached to an engine or locomotive and is used for transportation of people or goods.\n\nSo, while an engine can be used for various purposes like power generation, transportation, or production of mechanical energy, a train refers only to a vehicle that is meant for transportation of people or goods and is invariably pulled or pushed by an engine.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/667c03cb-4aaa-43f3-897a-3281456b248d.webp"
+        },
+        "Express": {
+            "wordRoot": "Express",
+            "wordDefinition": "In general, both words express and train refer to a mode of transportation that operates on a fixed schedule and follows a designated route to transport passengers from one place to another.\n\nAn express train usually refers to a faster and more limited-stop train service that passes fewer stations than a local or regional train.\n\nExpress trains typically make stops only at major cities or important destinations along their route, so they are faster but may have fewer stops along the way.\n\nA train can refer to any type of railway service – including express trains, but also local, regional, or commuter trains that make several stops along their route.\n\nExpress is specifically used when referring to a fast, non-stop train service, while the word train can have a broader meaning that includes express services as well as any other type of railway service.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8ee82501-7993-42c4-9ccb-0e1dd3eb25bb.webp"
+        },
+        "Locomotive": {
+            "wordRoot": "Locomotive",
+            "wordDefinition": "A locomotive is the engine that pulls the train, while a train is a collection of railroad cars that are connected to each other and are pulled by a locomotive.\n\nThe locomotive provides the power to move the train along tracks. To understand it better, think of a car and a car's engine.\n\nThe car is like the train, and the engine is like the locomotive. The engine powers the car and makes it move.\n\nSimilarly, the locomotive powers the train and makes it move.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6c8cb383-00a3-4d76-9058-6213373a06e9.webp"
+        },
+        "Railroad": {
+            "wordRoot": "Railroad",
+            "wordDefinition": "Railroad refers to the infrastructure, tracks, and systems used for transportation on rails. This includes things like the rails themselves, the stations, and the maintenance equipment.\n\nTrain refers to the specific vehicles that run on the railroad tracks and transport people or cargo from one place to another.\n\nIn simpler terms, the railroad is the pathway for trains to travel on, while the train is the vehicle that travels on the railroad.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d0f74087-ecb0-4ab4-9d81-e4a46394ec63.webp"
+        },
+        "Wagon": {
+            "wordRoot": "Wagon",
+            "wordDefinition": "Wagon is a four-wheeled vehicle used for transporting goods on land.\n\nWagons can be pulled by animals or vehicles and are usually used for short distances.\n\nIn short, trains are larger and used for long-distance travel while wagons are smaller and used for shorter distances.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/39db6e04-d93e-4ef5-84d6-8d7399f17080.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " conditioning they have to be a tough individual because that is the type of club we are again we're not just a political organization so that's very important and also you know sacrifice they have to show that they're willing to sacrifice for the club the men attend regular training sessions and wait a year before becoming full-fledged",
+            "Title": "Camp Skinhead? PIPE...",
+            "VideoId": "7pxhx4d-w0k",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " -can't they? Yeah. - Exactly. Any kind of magnetic levitation, like the maglev trains -That's good. -...that feels good to me. So if we want you to levitate, -we need some rules, don't we? -Yeah. What we're looking for is raised up, off the ground, without any moving parts,",
+            "Title": "How To Levitate PIPE The...",
+            "VideoId": "xDyJkFehDk0",
+            "Controls": "start=169"
+        },
+        {
+            "Text": " And the good news is that you can change your lifestyle. Exercise, a healthy diet, and weight loss all lower the risk of heart attacks, whether you've had one before or not. Doctors recommend exercising a few times a week, doing both aerobic activity and strength training.",
+            "Title": "What happens during a...",
+            "VideoId": "3_PYnWVoUzM",
+            "Controls": "start=197"
+        },
+        {
+            "Text": " and the kind of bang you can get for your buck in terms of leveraging a criminal justice system that could function if it were properly trained and motivated and led, and these countries, especially a middle class that is seeing that there's really no future",
+            "Title": "Gary Haugen: The hidden...",
+            "VideoId": "ofsncCF9O_U",
+            "Controls": "start=1234"
+        },
+        {
+            "Text": " put the world on a path that could have led to nuclear armageddon. So now, given the complexities of language and cultural exchange, how does this sort of thing not happen all the time? Much of the answer lies with the skill and training of interpreters",
+            "Title": "How interpreters juggle...",
+            "VideoId": "cXNTArhA0Jg",
+            "Controls": "start=58"
+        },
+        {
+            "Text": " When her sister's name is called from the lottery. How about assistance? Is anyone going to help her on her adventure? Haymitch. What about departure? Does she leave her ordinary world? She gets on a train to the capital. OK, so you get the idea.",
+            "Title": "What makes a hero? -...",
+            "VideoId": "Hhk4N9A0oCA",
+            "Controls": "start=175"
+        },
+        {
+            "Text": " the first time that I sang peace train again after 20 years off twenty-eight well I mean I probably sang it in the bath or whatever but but you know this was the moment where I did it publicly",
+            "Title": "A message of peace, hope...",
+            "VideoId": "Ec2lto9dPo4",
+            "Controls": "start=465"
+        },
+        {
+            "Text": " for a male there's only really one key lesson to learn in his life to get to the top he must become a fighter the battles are so brutal that males need years of training to prepare",
+            "Title": "ONE HOUR of Amazing...",
+            "VideoId": "eEaZvEZye84",
+            "Controls": "start=909"
+        },
+        {
+            "Text": " learn in his life they get to the top he must become a fighter the battles are so brutal that males need years of training to prepare the effort is worth it because a champion",
+            "Title": "BBC Earth 50 Top Natural...",
+            "VideoId": "0aKIeVr0n_E",
+            "Controls": "start=1913"
+        },
+        {
+            "Text": " from the presence of these animals he began to encourage tourists to visit the beach and train some villagers to be their guides",
+            "Title": "Sir David Attenborough...",
+            "VideoId": "leDm_-nfr2w",
+            "Controls": "start=669"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pele.webp",
+            "Text": "You must respect people and work hard to be in shape. And I used to train very hard. When the others players went to the beach after training, I was there kicking the ball.",
+            "Title": "Brazilian Athlete",
+            "Name": "Pele"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viola-davis.webp",
+            "Text": "Your job as an actor is to piece together whatever you've learned in your training, or whatever you have experienced in your life, to piece together a person.",
+            "Title": "American Actress",
+            "Name": "Viola Davis"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dwight-d-eisenhower.webp",
+            "Text": "Neither a wise man nor a brave man lies down on the tracks of history to wait for the train of the future to run over him.",
+            "Title": "American President",
+            "Name": "Dwight D. Eisenhower"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/robert-baden-powell.webp",
+            "Text": "An individual step in character training is to put responsibility on the individual.",
+            "Title": "English Soldier",
+            "Name": "Robert Baden-Powell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/venus-williams.webp",
+            "Text": "I spent my whole life playing sports and training and pushing myself to the limits.",
+            "Title": "American Tennis Player",
+            "Name": "Venus Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/johan-cruyff.webp",
+            "Text": "Footballers from the street are more important than trained coaches.",
+            "Title": "Dutch Athlete",
+            "Name": "Johan Cruyff"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/katarina-johnson-thompson.webp",
+            "Text": "I'm training once a day, four days a week, and just loving life.",
+            "Title": "English Athlete",
+            "Name": "Katarina Johnson-Thompson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/genzebe-dibaba.webp",
+            "Text": "I train mainly with guys, and they help to push me.",
+            "Title": "Ethiopian Athlete",
+            "Name": "Genzebe Dibaba"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/joanna-jedrzejczyk.webp",
+            "Text": "I train with the best coaches in the world.",
+            "Title": "Polish Athlete",
+            "Name": "Joanna Jedrzejczyk"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/fabricio-werdum.webp",
+            "Text": "My training is very important.",
+            "Title": "Brazilian Mixed Martial Artist",
+            "Name": "Fabricio Werdum"
+        }
+    ]
+}

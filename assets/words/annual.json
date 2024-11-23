@@ -1,0 +1,325 @@
+{
+    "currentWord": {
+        "wordRoot": "annual",
+        "id": 7805,
+        "phonemic": "ˈænjuəl|ˈænjuəl\r",
+        "bigId": "a149ba52-4bff-4902-8c60-4cca61df0490",
+        "wordForms": [
+            "annuals",
+            "annually",
+            "annual"
+        ]
+    },
+    "senses": [
+        {
+            "id": "a149ba52-4bff-4902-8c60-4cca61df0490",
+            "de": "happening once every year",
+            "ty": "adjective",
+            "ex": "They hold an annual conference in December.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "annual meeting",
+                " annual report",
+                " annual event"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/a149ba52-4bff-4902-8c60-4cca61df0490.webp",
+            "Tips": [
+                {
+                    "title": "Frequency Clue",
+                    "description": "Use 'annual' to stress the regularity of an event that occurs once each year.",
+                    "example": "The annual fundraiser is our main source of donations.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/EsMweHincmqYskt5S9pwEaSfGA.webp"
+                },
+                {
+                    "title": "Planned Events",
+                    "description": "'Annual' is often used for scheduled events with some level of importance or tradition.",
+                    "example": "The annual shareholders' meeting is in June.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/cmYfptTQesSLWNWOUGjxbxLZ3cw.webp"
+                },
+                {
+                    "title": "Expectation Setting",
+                    "description": "'Annual' can imply expectation of continuation in subsequent years.",
+                    "example": "We enjoyed the annual picnic, looking forward to the next.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/Xpc2Em8n0VLkyglhSWZPPTnwGgc.webp"
+                }
+            ]
+        },
+        {
+            "id": "f921b851-4e0c-4907-bdf8-d3d80f5b4a84",
+            "de": "a book or magazine that is published once a year under the same title but with different contents",
+            "ty": "noun",
+            "ex": "The school publishes an annual with highlights of the year.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stargazing annual",
+                " yearbook annual",
+                " sports annual"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/f921b851-4e0c-4907-bdf8-d3d80f5b4a84.webp",
+            "Tips": [
+                {
+                    "title": "Publication Regularity",
+                    "description": "'Annual' indicates the regular publishing cycle of a book or magazine.",
+                    "example": "The writer contributed to the annual again this year.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Content Variation",
+                    "description": "Each edition of an annual publication has different content from past editions.",
+                    "example": "Fans eagerly await the sports annual for the latest stats.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Collector's Item",
+                    "description": "Annual publications may become collectibles due to their unique yearly content.",
+                    "example": "I have every comic book annual from the past decade.\r",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "cba9da5d-c528-4fc8-b8e4-ff77f2d75d66",
+            "de": "relating to a period of one year",
+            "ty": "adjective",
+            "ex": "The annual budget is set in January every year.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "annual budget",
+                " annual profit",
+                " annual performance"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/cba9da5d-c528-4fc8-b8e4-ff77f2d75d66.webp",
+            "Tips": [
+                {
+                    "title": "Time Frame Specific",
+                    "description": "When 'annual' is used as an adjective, it specifies a precise one-year period.",
+                    "example": "The company showed good annual growth.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Professional Context",
+                    "description": "'Annual' is commonly used in business to discuss yearly financial or strategic activities.",
+                    "example": "Our annual report highlights the fiscal achievements.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "35097df9-1e42-489e-aefb-76f67c607018",
+            "de": "a plant that survives for only one growing season",
+            "do": "Botany",
+            "ty": "noun",
+            "ex": "Petunias and marigolds are examples of annuals.",
+            "use": "",
+            "co": "Technical",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "flowering annual",
+                " vegetable annual",
+                " seed annual"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/35097df9-1e42-489e-aefb-76f67c607018.webp",
+            "Tips": [
+                {
+                    "title": "Botanical Lifespan",
+                    "description": "In botany, 'annual' describes a plant that completes its life cycle in one year.",
+                    "example": "Plant annuals in spring for summer blooming.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Gardening Planning",
+                    "description": "Gardeners plant annuals for one season of flowers or vegetables.",
+                    "example": "Annuals like zinnias add color all summer.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Seed to Seed",
+                    "description": "Annual plants go from germination to producing seeds within a single year.",
+                    "example": "Sunflowers are annuals that grow quickly from seed to seed.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Anniversary": {
+            "wordRoot": "Anniversary",
+            "wordDefinition": "Anniversary refers to the date on which a particular event occurred in a previous year, such as a wedding anniversary or the anniversary of a historical event.\n\nAnniversary is used to celebrate a specific event that happened on a particular date in the past, while annual describes something that happens once a year or is done every year.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4fe7da2d-ec12-4cb1-ada4-44b58746ccd7.webp"
+        },
+        "Cyclic": {
+            "wordRoot": "Cyclic",
+            "wordDefinition": "Annual means occurring once a year, while cyclic means occurring in repetitive cycles. Annual is applicable when referring to events that happen every year, such as birthdays or holidays.\n\nCyclic is applicable when referring to events that happen in regular intervals, such as the seasons or the phases of the moon.\n\nFor example, the changing of the seasons is cyclic because it happens in predictable cycles every year, while Christmas is annual because it happens once a year.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f833852e-0cfd-4174-a981-317d8662d5dd.webp"
+        },
+        "Habitual": {
+            "wordRoot": "Habitual",
+            "wordDefinition": "Habitual refers to something that is done consistently or repeatedly, such as a habitual smoker or habitual exercise routine.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eb48d5e3-baff-4aed-aebc-ac01a1d9e9f1.webp"
+        },
+        "Perennial": {
+            "wordRoot": "Perennial",
+            "wordDefinition": "Perennial refers to a plant that lasts for more than two years. These plants can bloom and produce seeds for many years.\n\nUnlike annual plants, perennial plants do not need to be replanted every year.\n\nAnnual plants only last for one year, while perennial plants last for multiple years. Annual plants need to be replanted every year, while perennial plants do not.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/89702ed8-d421-4afc-85a2-27c732ca6630.webp"
+        },
+        "Periodical": {
+            "wordRoot": "Periodical",
+            "wordDefinition": "Annual means something that happens once a year. For example, an 'annual exam' means it takes place once every year. Periodical refers to something that happens regularly but not necessarily once a year.\n\nFor example, a magazine that comes out monthly or quarterly is considered a 'periodical.' An annual event happens once a year, while a periodical event happens regularly but not necessarily once a year.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e8413010-154a-4370-8a23-a049de2e7bcb.webp"
+        },
+        "Recur": {
+            "wordRoot": "Recur",
+            "wordDefinition": "Recur refers to something that happens repeatedly, regardless of the time interval. For example, if someone gets a headache every month, it could be said that the headache recurs on a monthly basis.\n\nAnnual is applicable when referring to something that happens once a year, while recur is applicable when referring to something that happens repeatedly, regardless of the time interval.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bc4ba307-b892-4cfe-ae73-29bc22fd1ca7.webp"
+        },
+        "Successive": {
+            "wordRoot": "Successive",
+            "wordDefinition": "Annual refers to something that happens once a year or every year, while the word successive means something that happens one after another without any gaps in between.\n\nFor example, an annual event could be a yearly festival or celebration that occurs at the same time each year, while successive events could be a series of concerts or performances that happen on consecutive nights.\n\nAnnual refers to the frequency of an event, while successive refers to the sequence of events.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bf71888f-5cbb-45e9-a6c1-af4dd1d7a02b.webp"
+        },
+        "Year": {
+            "wordRoot": "Year",
+            "wordDefinition": "Annual refers to something that happens every year, such as an annual event or an annual report.\n\nIt describes something that occurs on a regular basis, but only once per year.\n\nYear refers to the period of time it takes for the Earth to make one orbit around the sun, which is approximately 365.24 days.\n\nIt is a unit of time that can be used to measure anything that lasts for that amount of time, such as a school year or a fiscal year.\n\nAnnual describes something that happens once a year, while year is a period of time that lasts for approximately 365.24 days.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f8dc0ea0-80be-4a06-a7fa-c2ce4f0fbdd6.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " important thing the most important thing that indescribable feeling that sense of accomplishment that comes from having spent a day in the state of flow that we all love these processes they leave sparse time for people to experience the state of flow and they interrupt us all too frequently consider for example annual performance",
+            "Title": "Upgrading management...",
+            "VideoId": "suywTZi4FOQ",
+            "Controls": "start=158"
+        },
+        {
+            "Text": " This has to be in the top five places for abundant wildlife on this planet, and it's home to the usual top Lions, cheetah. Leopard. You may also know of the Mara because of the annual wildebeest migration; tens of thousands of animals follow the rains as the seasons swing north and south over the year, and this rain brings",
+            "Title": "Fatal Encounter with...",
+            "VideoId": "wR27BeVvU-w",
+            "Controls": "start=41"
+        },
+        {
+            "Text": " While orangutans are able to pass cognitive tests with flying colors, there are certain problems that they need our help to solve. Indonesia has the world's highest rate of deforestation, and millions of acres of rain forest are burned annually to support the logging and palm oil industries.",
+            "Title": "How smart are...",
+            "VideoId": "gFzqqaBA9wQ",
+            "Controls": "start=187"
+        },
+        {
+            "Text": " so that they could learn to deal with different temperatures. Spartan boys were encouraged to steal in order to survive, but if they were caught, they would be disciplined, not because they stole, but because they were caught in the act. During the annual contest of endurance",
+            "Title": "This is Sparta: Fierce...",
+            "VideoId": "M7V1a1I5BL0",
+            "Controls": "start=150"
+        },
+        {
+            "Text": " The Global Goals are all about getting to an A, and that's why we're going to be updating the People's Report Card annually, for the world and for all the countries of the world, so we can hold our leaders to account to achieve this target and fulfill this promise.",
+            "Title": "How We Can Make the...",
+            "VideoId": "o08ykAqLOxk",
+            "Controls": "start=765"
+        },
+        {
+            "Text": " And remember that banana? If you could absorb all the banana's radiation, you'd need around 170 a day to hit your annual dosage. We live in a world of radiation. However, much of that radiation is non-ionizing. For the remainder that is ionizing,",
+            "Title": "Is radiation dangerous?...",
+            "VideoId": "zI2vRwFKnHQ",
+            "Controls": "start=260"
+        },
+        {
+            "Text": " has helped us feed people efficiently. But it's also left our food vulnerable to extensive attack by pests. In turn, we've become more dependent on pesticides. Today, we annually shower over 5 billion pounds of pesticides across the Earth",
+            "Title": "Do we really need...",
+            "VideoId": "GLllZ-qiXJA",
+            "Controls": "start=47"
+        },
+        {
+            "Text": " production is actually not normal at all annual plants are very rare in nature and yet most of our agricultural fields are full of annual plants it's not normal what normal is a more forested or semi forested system forest gardens in a",
+            "Title": "A Forest Garden With 500...",
+            "VideoId": "Q_m_0UPOzuI",
+            "Controls": "start=47"
+        },
+        {
+            "Text": " Consider the classic white t-shirt. Annually, we sell and buy two billion t-shirts globally, making it one of the most common garments in the world. But how and where is the average t-shirt made,",
+            "Title": "The life cycle of a...",
+            "VideoId": "BiSYoeqb_VY",
+            "Controls": "start=5"
+        },
+        {
+            "Text": " annual weather patterns have been stable for thousands of years and it's this reliability on which life depends",
+            "Title": "A Perfect Planet:...",
+            "VideoId": "635uup08DLU",
+            "Controls": "start=183"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/casey-affleck.webp",
+            "Text": "All cultures are different. Some commit genocide. Some are uniquely peaceful. Some frequent bathhouses in groups. Some don't show each other the soles of their shoes or like pictures taken of them. Some have enormous hunting festivals or annual stretches when nobody speaks. Some don't use electricity.",
+            "Title": "American Actor",
+            "Name": "Casey Affleck"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hunter-s-thompson.webp",
+            "Text": "I have warned many times about the guaranteed dangers of betting with your heart instead of your head - big darkness, soon come - but every once in a while you get a fair chance to have it both ways, and the annual NCAA basketball Tournament is one of them.",
+            "Title": "American Journalist",
+            "Name": "Hunter S. Thompson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/alex-berenson.webp",
+            "Text": "Big companies, which spend tens of billions of dollars annually on 'call centers' to take orders and provide customer support, increasingly rely on speech recognition not just to handle requests for information but to process customer orders.",
+            "Title": "American Author",
+            "Name": "Alex Berenson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ntozake-shange.webp",
+            "Text": "My family moved around a lot, so I don't have any friends that I had all my life, but I did have annual trips back to Queens.",
+            "Title": "American Playwright",
+            "Name": "Ntozake Shange"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nicolas-cage.webp",
+            "Text": "The movies I cannot go without and that I watch annually are 'A Clockwork Orange,' 'Scarface' and 'Fantasia.",
+            "Title": "Actor",
+            "Name": "Nicolas Cage"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/boris-spassky.webp",
+            "Text": "Nowadays it would be reasonable to have an annual world championship.",
+            "Title": "Russian Celebrity",
+            "Name": "Boris Spassky"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/wallace-stevens.webp",
+            "Text": "Poor, dear, silly Spring, preparing her annual surprise!",
+            "Title": "American Poet",
+            "Name": "Wallace Stevens"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-quincy-adams.webp",
+            "Text": "Where annual elections end where slavery begins.",
+            "Title": "American President",
+            "Name": "John Quincy Adams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/george-noory.webp",
+            "Text": "You do something annual every year, don't you?",
+            "Title": "American Journalist",
+            "Name": "George Noory"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nick-hanauer.webp",
+            "Text": "I make an eight-figure income annually.",
+            "Title": "American Businessman",
+            "Name": "Nick Hanauer"
+        }
+    ]
+}

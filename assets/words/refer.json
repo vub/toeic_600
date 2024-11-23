@@ -1,0 +1,332 @@
+{
+    "currentWord": {
+        "wordRoot": "refer",
+        "id": 31772,
+        "phonemic": "rɪˈfɜː(r)|rɪˈfɜːr\r",
+        "bigId": "12ed159a-bf8a-4e25-b67a-ddfd14ab0635",
+        "wordForms": [
+            "referable",
+            "refer"
+        ]
+    },
+    "senses": [
+        {
+            "id": "12ed159a-bf8a-4e25-b67a-ddfd14ab0635",
+            "de": "To point towards something or direct someone's attention to something.",
+            "ty": "verb",
+            "ex": "The manual refers you to page 20 for more information.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "refer someone to",
+                " refer to a previous instance",
+                " refer the matter to"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/12ed159a-bf8a-4e25-b67a-ddfd14ab0635.webp",
+            "Tips": [
+                {
+                    "title": "Guidance Purpose",
+                    "description": "Used when guiding someone to a specific resource or part for information.",
+                    "example": "Refer to the user guide for installation steps.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/0AIZUWiRnFK51MpDKzM88Ark.webp"
+                },
+                {
+                    "title": "Physical Documents",
+                    "description": "Commonly used to instruct where to look in physical texts like books or manuals.",
+                    "example": "Please refer to the footnotes for citations.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ykCBEulMCEd5CIyKoc6bIfBZc.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "3a1dad65-7656-4892-a5ea-9cbd7d325935",
+            "de": "To mention or allude to.",
+            "ty": "verb",
+            "ex": "She referred to the incident as a misunderstanding.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "refer to something as",
+                " refer to an incident",
+                " refer to a person"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/3a1dad65-7656-4892-a5ea-9cbd7d325935.webp",
+            "Tips": [
+                {
+                    "title": "Indirect Mention",
+                    "description": "Indicates bringing up a topic without detailed explanation, often assuming shared knowledge.",
+                    "example": "He referred to our conversation last week.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subtle Reminder",
+                    "description": "Can be used to remind or subtly prompt about a previous topic or event.",
+                    "example": "In her speech, she referred to the community's resilience.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "eec42df7-6d40-4667-9f54-68b4eb13e0f9",
+            "de": "To send or direct someone to a professional for services or help.",
+            "do": "Medical",
+            "ty": "verb",
+            "ex": "The doctor referred him to a specialist for his heart condition.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "refer to a specialist",
+                " doctor refers",
+                " refer a patient"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/eec42df7-6d40-4667-9f54-68b4eb13e0f9.webp",
+            "Tips": [
+                {
+                    "title": "Professional Context",
+                    "description": "Used when suggesting or ensuring a person gets expert advice or treatment, most often in medical or legal fields.",
+                    "example": "The therapist referred him to a support group.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Expertise Required",
+                    "description": "Implies that the referred individual needs specialized knowledge beyond what the referrer can provide.",
+                    "example": "She was referred to a tax consultant.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7f0e320f-3fa1-481e-8148-2f8de9b23106",
+            "de": "To check information in a book or online resource.",
+            "ty": "verb",
+            "ex": "I had to refer to the glossary to understand some of the terms.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "refer to a book",
+                " refer to a dictionary",
+                " refer to the internet"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7f0e320f-3fa1-481e-8148-2f8de9b23106.webp",
+            "Tips": [
+                {
+                    "title": "Academic Research",
+                    "description": "Often used in educational and academic context for looking up scholarly work or definitions.",
+                    "example": "You can refer to the bibliography for sources.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "6e3194bf-a9ea-49ae-b95d-28033eb4a0d9",
+            "de": "To pass a matter to a higher authority or expert for decision.",
+            "do": "Legal",
+            "ty": "verb",
+            "ex": "We had to refer the dispute to a mediator.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "refer a matter",
+                " refer a dispute",
+                " refer a decision"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/6e3194bf-a9ea-49ae-b95d-28033eb4a0d9.webp",
+            "Tips": [
+                {
+                    "title": "Authority Handover",
+                    "description": "The process of moving a complex issue up to someone with more authority or specialization.",
+                    "example": "The manager referred the complaint to HR.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Conflict Resolution",
+                    "description": "Used when an unresolved matter is taken to a third party for a final decision.",
+                    "example": "We referred our dispute to arbitration.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Allude": {
+            "wordRoot": "Allude",
+            "wordDefinition": "Allude means to make a reference to something without explicitly mentioning it. It's like hinting at something or implying it indirectly.\n\nExample: During his speech, the politician alluded to the corruption scandals that had plagued the government.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/af12fde8-605b-4535-a81b-8f648960cdaf.webp"
+        },
+        "Cite": {
+            "wordRoot": "Cite",
+            "wordDefinition": "Both cite and refer are used to acknowledge the source of information used in writing, research or speech.\n\nCite means to quote something directly from a source and provide a reference to the source at the same time.\n\nCite is used when you take information directly from a source and refer is used when you direct someone to a source for more information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/4c008413-01b8-4381-b8b6-fee31be545c6.webp"
+        },
+        "Direct": {
+            "wordRoot": "Direct",
+            "wordDefinition": "Direct means to guide or point someone towards a specific thing or place. For example, if you give someone directions to a specific location, you are directing them.\n\nDirect is used when you are guiding someone towards a specific thing or place, while refer is used when you are mentioning something or someone as a source of information or recommendation.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/3a8ea371-6aa0-47e7-96f6-08d121dfc9de.webp"
+        },
+        "Indicate": {
+            "wordRoot": "Indicate",
+            "wordDefinition": "Indicate means to show or point out something.\n\nIt describes the act of giving a sign or signal that shows something exists or is true. For example, if you see a sign that says \"Exit\" on a highway, it indicates that there is an exit coming up.\n\nIndicate is used to show or point out something while refer is used to direct someone or something to something else.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cf1e3b4d-6eae-44fe-b4dc-294ea0263e68.webp"
+        },
+        "Mention": {
+            "wordRoot": "Mention",
+            "wordDefinition": "Mention means to briefly bring up or talk about something without going into detail or providing a lot of information about it.\n\nFor example, \"I mentioned to my friend that I'm thinking about going on vacation next month.\"\n\nBoth words are applicable in different situations depending on what you want to communicate. Mention is useful when you want to quickly bring something up or give a passing comment about something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/f33db7fa-6887-44aa-ad26-f2d4b27e5d8d.webp"
+        },
+        "Name": {
+            "wordRoot": "Name",
+            "wordDefinition": "Name means to give something or someone a specific label or title. For example, when you introduce yourself, you say, \"My name is...\".\n\nName is used to identify something or someone, while refer is used to suggest someone or something else who may be more knowledgeable or appropriate to help with a particular issue.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e3efd8f3-cd84-4cb7-8084-0c737275cd87.webp"
+        },
+        "Point out": {
+            "wordRoot": "Point out",
+            "wordDefinition": "Point out means to indicate or draw attention to something, usually physically or verbally.\n\nExample: \"Can you please point out where the closest restroom is?\"\n\nRefer means to mention something in order to direct attention to it or to provide information about it.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d63325a5-b427-4862-b131-fadee26c1d5a.webp"
+        },
+        "Quote": {
+            "wordRoot": "Quote",
+            "wordDefinition": "Quote means to use someone else's exact words or sentences in your writing or speech. For instance, \"He always says, 'I never give up,' and that's his motto in life.\".\n\nIn short, we use quote when we want to include someone's exact words, while we use refer when we want to acknowledge the source of information.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/79095899-da97-4e1b-995a-b8252b2ae852.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " difference is that sharks have a long thin body like a sausage and rays are flattened like a pancake does that make anybody else want breakfast food just me well both sharks and rays are in a group called elasmobranks i like to refer to reyes as our flat flat friends because their superpower is place",
+            "Title": "Seven Superpowered...",
+            "VideoId": "WKduBKUuIxg",
+            "Controls": "start=509"
+        },
+        {
+            "Text": " And then, they said to the physicians, \"You decided a few weeks ago that nothing is working for this patient. All these medications, nothing seems to be working. So you refer the patient for hip replacement therapy. Hip replacement. Okay?\" So the patient is on a path to have his hip replaced.",
+            "Title": "Are we in control of our...",
+            "VideoId": "9X68dm92HVI",
+            "Controls": "start=576"
+        },
+        {
+            "Text": " to better constrain the problem and better understand the system, but from what the data is telling us now, it looks to be the result of a large hydrothermal system. Basically, it works like So, the deeper you go into the earth, the hotter it gets. We refer to this as the geothermal gradient.",
+            "Title": "How I found a mythical...",
+            "VideoId": "k4N2SxUZwiU",
+            "Controls": "start=733"
+        },
+        {
+            "Text": " in one simulation it destabilized the entire inner solar system. This was no error; the astonishing variety in results reveals the truth that our solar system may be much less stable than it seems. Astrophysicists refer to this astonishing property of gravitational systems",
+            "Title": "Newton’s three-body...",
+            "VideoId": "D89ngRr4uZg",
+            "Controls": "start=47"
+        },
+        {
+            "Text": " and continuing forever! That's why, instead of trying to write out an infinite number of digits every time, we just refer to it using the Greek letter pi. Nowadays, we test the speed of computers by having them calculate pi, and quantum computers have been able",
+            "Title": "The infinite life of pi...",
+            "VideoId": "9a5vHXsUvUw",
+            "Controls": "start=104"
+        },
+        {
+            "Text": " deal with challenging terminology, and handle a multitude of foreign accents. They may resort to acronyms to shorten long names, choose generic terms over specific, or refer to slides and other visual aides. They can even leave a term in the original language,",
+            "Title": "How interpreters juggle...",
+            "VideoId": "cXNTArhA0Jg",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " Another important visual device used to increase the prominence of certain portions of text was to set them off with large, ornate, and colorful capital letters, often surrounded by tiny, detailed paintings. The Italians began to refer",
+            "Title": "Mysteries of vernacular:...",
+            "VideoId": "1_JqwvvEpRM",
+            "Controls": "start=55"
+        },
+        {
+            "Text": " work a person only needs to know how to read but upon closer inspection one simple word or in this case the absence of it can contain a world of meaning I'm particularly interested in the way we use language to regard and refer to the",
+            "Title": "Using language and time...",
+            "VideoId": "FVkWvT-WvaQ",
+            "Controls": "start=32"
+        },
+        {
+            "Text": " Each stage is magical because it creates the impression of something utterly new appearing almost out of nowhere in the universe. We refer in big history to these moments as threshold moments.",
+            "Title": "The history of our world...",
+            "VideoId": "yqc9zX04DXs",
+            "Controls": "start=174"
+        },
+        {
+            "Text": " he's far from alone he's just one of up to a million people worldwide who belonged to the furry fandom you think to refer you feel like you're free you're a furry like any other subculture",
+            "Title": "Furries PIPE National...",
+            "VideoId": "kzBGTAvKfPg",
+            "Controls": "start=106"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/yuri-lowenthal.webp",
+            "Text": "I love when I go to conventions, and often it'll be the younger kids who will refer to us by our character names - how can you not find that absolutely charming? I remember when I used to go to conventions when I was a kid when I would stand in long lines to get people's autograph.",
+            "Title": "American Actor",
+            "Name": "Yuri Lowenthal"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/li-keqiang.webp",
+            "Text": "The term 'Xiaokang' is used today to refer to a society where people can receive education, get paid through work, have access to medical services and old-age support, have a shelter and more than enough food and clothing, and lead a well-off life.",
+            "Title": "Chinese Politician",
+            "Name": "Li Keqiang"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-m-devos.webp",
+            "Text": "I still refer to myself as a 'cheerleader' because I keep encouraging others to have confidence and to use their talents to follow their dreams. It's been one of the most important reasons for my success and my helping others succeed.",
+            "Title": "American Businessman",
+            "Name": "Richard M. DeVos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/richard-griffiths.webp",
+            "Text": "Every time I've talked about my family in the past, people have ended up getting upset. So I said to my friends and family: 'I shan't refer to you at all, and there's nothing for you to get upset about. There's the deal.",
+            "Title": "English Actor",
+            "Name": "Richard Griffiths"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/william-least-heat-moon.webp",
+            "Text": "It's difficult to write a book where a character is on virtually every page of the book but you cannot refer to his or her gender. It gets rid of every his, her, she and he.",
+            "Title": "American Writer",
+            "Name": "William Least Heat-Moon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/farrah-abraham.webp",
+            "Text": "Children already ignore others and take time on their own, and I think that is something adults should refer back to as they deal with the everyday hustle of the world.",
+            "Title": "American Entertainer",
+            "Name": "Farrah Abraham"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jeffrey-gitomer.webp",
+            "Text": "When you hear bosses talk about their best salespeople, they often refer to them as rock stars. It's the highest praise your boss can give someone on your team.",
+            "Title": "American Author",
+            "Name": "Jeffrey Gitomer"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/luis-suarez.webp",
+            "Text": "Negro' can refer to anyone with dark hair as well as dark skin, and I've been used to the word being used in Spanish in this way all my life.",
+            "Title": "Uruguayan Athlete",
+            "Name": "Luis Suarez"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/giancarlo-esposito.webp",
+            "Text": "I never like to refer back to anything I've done when I'm working on a character, even if that character has the same occupation.",
+            "Title": "American Actor",
+            "Name": "Giancarlo Esposito"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amelia-atwater-rhodes.webp",
+            "Text": "I prefer to write about what we refer to as 'the supernatural' versus everyday life. Humans, by themselves, bore me.",
+            "Title": "American Author",
+            "Name": "Amelia Atwater-Rhodes"
+        }
+    ]
+}

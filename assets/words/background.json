@@ -1,0 +1,332 @@
+{
+    "currentWord": {
+        "wordRoot": "background",
+        "id": 20637,
+        "phonemic": "ˈbækɡraʊnd|ˈbækɡraʊnd\r",
+        "bigId": "fd989ebb-08fa-4acb-b395-d9879e72f751",
+        "wordForms": [
+            "backgrounds",
+            "background"
+        ]
+    },
+    "senses": [
+        {
+            "id": "fd989ebb-08fa-4acb-b395-d9879e72f751",
+            "de": "The part of a scene or picture that is farthest from the viewer.",
+            "ty": "n.",
+            "ex": "The mountains in the background of the painting gave it depth.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "background scene",
+                " faded into the background",
+                " against the background"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fd989ebb-08fa-4acb-b395-d9879e72f751.webp",
+            "Tips": [
+                {
+                    "title": "Visual Depth",
+                    "description": "Use 'background' to describe elements that add depth and layers to a visual scene.",
+                    "example": "The distant trees created a serene background for the portrait.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lzHgimbNYXfLE2Qu0KsiNktiYg.webp"
+                },
+                {
+                    "title": "Not Center Stage",
+                    "description": "'Background' implies something not in the main focus but still contributing to the overall image.",
+                    "example": "In group photos, shy people often stand in the background.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/AMM0ro6DD8eHNq4aDQ8HbDTotLo.webp"
+                }
+            ]
+        },
+        {
+            "id": "40450f53-a174-437b-a073-3e766ccab3f1",
+            "de": "The experiences, knowledge, education, etc., in a person's past.",
+            "ty": "n.",
+            "ex": "The job requires a background in computer science.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "background check",
+                " educational background",
+                " family background"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/40450f53-a174-437b-a073-3e766ccab3f1.webp",
+            "Tips": [
+                {
+                    "title": "Personal History",
+                    "description": "Employers often conduct a 'background check' to verify a candidate's personal and professional history.",
+                    "example": "Candidates with a diverse cultural background are often valued for their unique perspectives.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Academic Relevance",
+                    "description": "Relate 'background' to the necessary knowledge or experience needed for a task or job.",
+                    "example": "She has a strong background in biochemistry, making her ideal for this research.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "64089d8a-fc13-4b16-b661-c86b1d3166a4",
+            "de": "A procedure on a computer that continues to operate after the user has finished working with it.",
+            "do": "computing",
+            "ty": "n.",
+            "ex": "The program runs in the background while you're working on other tasks.",
+            "use": "",
+            "co": "Technical",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "background process",
+                " run in the background",
+                " background task"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/64089d8a-fc13-4b16-b661-c86b1d3166a4.webp",
+            "Tips": [
+                {
+                    "title": "Technical Processes",
+                    "description": "In tech, 'background' refers to processes on a computer or device that runs without user interaction.",
+                    "example": "The software update will download in the background.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "31f0271f-3b4f-4210-b63a-de77ebf55bc6",
+            "de": "The conditions that form the setting of an event, fact, or character is created or considered.",
+            "ty": "n.",
+            "ex": "The decision was made against a background of declining sales.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "background information",
+                " background knowledge",
+                " political background"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/31f0271f-3b4f-4210-b63a-de77ebf55bc6.webp",
+            "Tips": [
+                {
+                    "title": "Setting Context",
+                    "description": "Use 'background' to set the scene or explain the circumstances surrounding an event or decision.",
+                    "example": "The author provided a detailed historical background to the story.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Understanding Motives",
+                    "description": "A person's actions may be better understood against their personal or cultural background.",
+                    "example": "His decisions are often influenced by his military background.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "e5264651-b42d-4b2d-b7ad-2785426d1211",
+            "de": "Quiet music played to provide mood or atmosphere.",
+            "ty": "n.",
+            "ex": "I put on some background music while I study.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "background noise",
+                " background sound",
+                " background music"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/e5264651-b42d-4b2d-b7ad-2785426d1211.webp",
+            "Tips": [
+                {
+                    "title": "Atmospheric Ambience",
+                    "description": "'Background' music or noise is meant to enhance the environment without being the main focus.",
+                    "example": "The cafe had soft background jazz playing, adding to the cozy vibe.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Subtle Presence",
+                    "description": "Background sounds or music should not overpower conversation or the primary action.",
+                    "example": "The background hum of the air conditioner was barely noticeable.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Context": {
+            "wordRoot": "Context",
+            "wordDefinition": "Context refers to the circumstances and conditions surrounding a particular event or situation. It helps us understand what is happening in the present moment and why it is important.\n\nFor example, if you are watching a news report about a protest, the context might include details about the history of oppression or discrimination that led to the protest.\n\nBackground is about the past and context is about the present. Background helps us understand why someone or something is the way they are, while context helps us understand what is happening right now and why it matters.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/cefd90df-72a7-4c7f-b8ae-934da30c8892.webp"
+        },
+        "Environment": {
+            "wordRoot": "Environment",
+            "wordDefinition": "Environment refers to the physical, social, and cultural surroundings in which a person, animal, or plant lives.\n\nIt includes everything from the air we breathe to the people we interact with. For example, a person's environment may include their home, workplace, and community.\n\nBackground refers to an individual's personal history and experiences, whereas environment refers to the external factors that shape their life.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/981d5db9-4e60-4225-9935-97fc59fb09d0.webp"
+        },
+        "Experience": {
+            "wordRoot": "Experience",
+            "wordDefinition": "Background refers to a person's history, including their education, family, and cultural upbringing. Experience refers to the knowledge and learning that a person has gained through various activities and events.\n\nWhereas, experience is used to measure a person's skills and competencies in a particular field of work or activity. It is applicable in assessing job readiness or in evaluating an individual's expertise in a certain area.\n\nBackground refers to a person's personal history while experience refers to their skills and knowledge gained from activities they have engaged in.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e81d6d88-3fbb-4358-a81c-8fcfe99e40d0.webp"
+        },
+        "Heritage": {
+            "wordRoot": "Heritage",
+            "wordDefinition": "Heritage refers to a person's cultural or ethnic identity. This includes things like their language, customs, beliefs, and traditions that have been passed down through generations.\n\nWhile both words refer to different aspects of a person's identity, they can overlap in some cases. For example, a person's heritage may influence their background if they were raised in a household that emphasized their cultural traditions.\n\nBackground is applicable to a person's personal history and experiences, while heritage is applicable to a person's cultural and ethnic identity.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bcb7f626-5dc4-46b0-934e-4329bb7221cc.webp"
+        },
+        "History": {
+            "wordRoot": "History",
+            "wordDefinition": "History, on the other hand, refers to the past events, particularly related to a country, person, or group. It involves the recording, narrating, and analyzing of past events or happenings.\n\nFor example, the history of the United States can be traced back to the American Revolution.\n\nThe background is the information one needs to know about a specific situation or event, whereas history is the record of past events that have occurred over a long period of time.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5117c048-8839-47ed-b805-875abd7ebfec.webp"
+        },
+        "Past": {
+            "wordRoot": "Past",
+            "wordDefinition": "Past refers to the time that has elapsed before the present moment. It includes all of the events, experiences, and actions that have happened in a person's life up until now.\n\nPast is often used to describe a person's personal history or the historical events that have shaped the world.\n\nBackground is more about the context in which something occurs, while past is more about the events that have occurred before the present moment.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a3ba95da-2d50-44c4-b116-182ecd760af9.webp"
+        },
+        "Set": {
+            "wordRoot": "Set",
+            "wordDefinition": "Background refers to the area or environment behind the main focus of a picture, story, or event. It is the setting that helps to create the mood or atmosphere of what is happening.\n\nSet can refer to a collection of objects or scenery used on a stage or movie set to create a specific setting or environment.\n\nIt is typically the physical props and decorations that are used to create the background. For example, a movie set might include a fake house or street that creates the background for the actors to perform in front of.\n\nBackground refers to the visual or contextual elements behind the main focus, while set refers to the physical objects and decorations used to create that background.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/359e6671-e56c-4dfc-a31d-264f4f6cb948.webp"
+        },
+        "Tradition": {
+            "wordRoot": "Tradition",
+            "wordDefinition": "Background refers to the circumstances, events or conditions that lead up to something happening, while tradition refers to customs or practices that have been passed down through generations.\n\nIf someone is talking about a tradition, they might be referring to a holiday or celebrations that are unique to their culture or religion.\n\nBackground is applicable to personal experiences, while tradition is applicable to cultural or societal practices.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6695a21f-f4cd-47af-83cc-01db91e90bc8.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " you play the same sports, there's a high chance that you're going to want to help that person out. But for the person in the room who has no shared experiences with you it becomes extremely difficult to find that connection. The idea of finding someone different to mentor, someone who doesn't come from the same background as you, whatever that background is,",
+            "Title": "What does my headscarf...",
+            "VideoId": "18zvlz5CxPE",
+            "Controls": "start=612"
+        },
+        {
+            "Text": " toe the line between visual art and poetry. Meanwhile, E.E. Cummings wrote poems whose shapes were as important as the words themselves, in this case amplifying the sad loneliness of a single leaf falling through space. If the visual nature of poetry faded into the background, perhaps we'd be left with music,",
+            "Title": "What makes a poem … a...",
+            "VideoId": "JwhouCNq-Fc",
+            "Controls": "start=104"
+        },
+        {
+            "Text": " about the most common established patterns at a given point in time. This is important, not only for formal contexts, but it also makes communication easier between non-native speakers from different backgrounds. Descriptivism, on the other hand, gives us insight into how our minds work",
+            "Title": "Does grammar matter? -...",
+            "VideoId": "Wn_eBrIDUuc",
+            "Controls": "start=215"
+        },
+        {
+            "Text": " habituated wolf you can see that she's pretty well camouflaged against her background if you're looking from a long way away against a big landscape you find this wolf pretty hard to spot but that's not how of caribou see the world and to get an idea of what they see I'm",
+            "Title": "Caribou Spot Wolves...",
+            "VideoId": "nke5c7Nml_8",
+            "Controls": "start=86"
+        },
+        {
+            "Text": " A well-dressed child princess refuses a glass of water from a handmaid, while a dwarf teases a dog. A second dwarf stands next to them, while the artist himself pauses at his canvas. Two more people whisper in the background, while a third appears to be exiting the room,",
+            "Title": "Why is this painting so...",
+            "VideoId": "loMy3sbW64g",
+            "Controls": "start=25"
+        },
+        {
+            "Text": " the rules that can restrict the amount of carbon dioxide emitted from power plants, and make energy companies around the world wary of what they put into the air. Until then, every time you turn on a screen or flick a light switch, coal is lurking in the background,",
+            "Title": "How to create cleaner...",
+            "VideoId": "rO6S93FKIUM",
+            "Controls": "start=316"
+        },
+        {
+            "Text": " At some point, the order became set in stone and the story was locked into place as the one we read today. But since the world has changed a bit in the last several thousand years, it helps to have some background before jumping in.",
+            "Title": "Everything you need to...",
+            "VideoId": "8Z9FQxcCAZ0",
+            "Controls": "start=118"
+        },
+        {
+            "Text": " people of all different colors and backgrounds and you know what the main ingredient that day was mutual respect we sat down with southern white folks as cousins rather than combatants you know what the ancestors who lived in those",
+            "Title": "Gastronomy and the...",
+            "VideoId": "8MElzoJ2L6U",
+            "Controls": "start=322"
+        },
+        {
+            "Text": " Stage and screen engage some of our senses directly. We see and hear the interactions of the characters and the setting. But with prose fiction, all you have is static symbols on a contrasting background.",
+            "Title": "How to write descriptivel...",
+            "VideoId": "RSoRzTtwgP4",
+            "Controls": "start=91"
+        },
+        {
+            "Text": " you know, these mountains in the background, that are so… it looks like a watercolour. Wow. Endless, it feels like just water that goes on forever.",
+            "Title": "Exploring the Bay of...",
+            "VideoId": "cA5cX1YuuGA",
+            "Controls": "start=326"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/brad-pitt.webp",
+            "Text": "My father came from a very poor background, but I was very fortunate in the sense that we were never in need. My dad was determined to make sure that we didn't want for things. He wanted to give us more opportunity than he had, a better shot at a better life.",
+            "Title": "Actor",
+            "Name": "Brad Pitt"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/venus-williams.webp",
+            "Text": "I have a lot of good role models in my family for things off the court - like my older sister, who's a lawyer. I don't like writing papers, but she's helped me a lot. It's nice to have an art and business background because they tie together perfectly.",
+            "Title": "American Tennis Player",
+            "Name": "Venus Williams"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sonia-sotomayor.webp",
+            "Text": "When you come from a background like mine, where you're entering worlds that are so different than your own, you have to be afraid.",
+            "Title": "American Judge",
+            "Name": "Sonia Sotomayor"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jerome-k-jerome.webp",
+            "Text": "Time is but the shadow of the world upon the background of Eternity.",
+            "Title": "English Author",
+            "Name": "Jerome K. Jerome"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/d-imman.webp",
+            "Text": "The background score plays an important role in black comedies.",
+            "Title": "Indian Musician",
+            "Name": "D. Imman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jonathan-franzen.webp",
+            "Text": "The Mekons were kind of like the background music of my life.",
+            "Title": "American Novelist",
+            "Name": "Jonathan Franzen"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/coco-lee.webp",
+            "Text": "I was bred and raised in a multi-cultural music background.",
+            "Title": "Chinese Musician",
+            "Name": "Coco Lee"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-locke.webp",
+            "Text": "The discipline of desire is the background of character.",
+            "Title": "English Philosopher",
+            "Name": "John Locke"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/randy-meisner.webp",
+            "Text": "A background person is all I've been all my life.",
+            "Title": "",
+            "Name": "Randy Meisner"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nyjah-huston.webp",
+            "Text": "I do come from a very humble background.",
+            "Title": "American Athlete",
+            "Name": "Nyjah Huston"
+        }
+    ]
+}

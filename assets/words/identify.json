@@ -1,0 +1,345 @@
+{
+    "currentWord": {
+        "wordRoot": "identify",
+        "id": 14647,
+        "phonemic": "aɪˈdentɪfaɪ|aɪˈdentɪfaɪ\r",
+        "bigId": "d9232bce-3681-4269-a981-ea83ff23904c",
+        "wordForms": [
+            "identifies",
+            "identifying",
+            "identified",
+            "identify"
+        ]
+    },
+    "senses": [
+        {
+            "id": "d9232bce-3681-4269-a981-ea83ff23904c",
+            "de": "Recognize or be able to name someone or something",
+            "ty": "verb",
+            "ex": "She was able to identify the thief by his distinctive tattoo.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "identify a problem",
+                " identify a need",
+                " identify a target"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/d9232bce-3681-4269-a981-ea83ff23904c.webp",
+            "Tips": [
+                {
+                    "title": "Visual Recognition",
+                    "description": "Used when you recognize someone or something by seeing.",
+                    "example": "Can you identify your bag among these?\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/RrrLIQXrW7qUlJGsBqQxS3rt1c.webp"
+                },
+                {
+                    "title": "Specific Feature",
+                    "description": "Emphasize identifying by a unique trait or feature.",
+                    "example": "The bird was identified by its colorful feathers.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/zhX1KLxsEXAI1VdfbOPaGrpj2hw.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "98e22db9-b90c-4a34-8fd2-77d0fbbcf3d7",
+            "de": "Associate or establish (someone) as being a particular person or thing",
+            "ty": "verb",
+            "ex": "She was able to identify herself as the owner of the car.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "identify oneself",
+                " identify as something",
+                " positively identify"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/98e22db9-b90c-4a34-8fd2-77d0fbbcf3d7.webp",
+            "Tips": [
+                {
+                    "title": "Self-Association",
+                    "description": "About proving or clarifying one's own identity, often officially.",
+                    "example": "Please identify yourself before entering.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Official Verification",
+                    "description": "Used in situations where you need to prove something definitely.",
+                    "example": "Investigators worked to identify the cause of the fire.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "fe05116d-eac1-437a-922a-054944cae614",
+            "de": "Find out or establish exactly who or what someone or something is",
+            "ty": "verb",
+            "ex": "Researchers have identified a number of factors contributing to obesity.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "identify factors",
+                " identify a cause",
+                " identify a link"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fe05116d-eac1-437a-922a-054944cae614.webp",
+            "Tips": [
+                {
+                    "title": "Research Precision",
+                    "description": "In academic or professional contexts for precise identification.",
+                    "example": "The scientist identified a new species.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Analytical Context",
+                    "description": "When analyzing to draw specific conclusions or insights.",
+                    "example": "The survey helped to identify key market trends.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "5553410f-878b-4f67-ac9f-e8bf7edbe738",
+            "de": "Regard oneself as sharing the same beliefs or nature as someone else",
+            "ty": "verb",
+            "ex": "He identifies strongly with his grandmother's struggle.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "identify with a group",
+                " identify with a cause",
+                " identify with someone"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/5553410f-878b-4f67-ac9f-e8bf7edbe738.webp",
+            "Tips": [
+                {
+                    "title": "Emotional Connection",
+                    "description": "Denotes a strong emotional or personal connection to something.",
+                    "example": "She identifies closely with her cultural heritage.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Shared Beliefs",
+                    "description": "When you feel you share common beliefs or feelings with others.",
+                    "example": "He identifies with the environmental movement.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "66e96eb3-1fdd-4e84-ba3f-81bc3aabe056",
+            "de": "Associate someone or something closely with; regard as having strong links with",
+            "do": "Psychology",
+            "ty": "verb",
+            "ex": "Many people identify love with happiness.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "identify success with hard work",
+                " identify profits with growth",
+                " identify risk with potential loss"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/66e96eb3-1fdd-4e84-ba3f-81bc3aabe056.webp",
+            "Tips": [
+                {
+                    "title": "Conceptual Link",
+                    "description": "Shows a strong conceptual or symbolic connection between ideas.",
+                    "example": "The novel identifies fate with the sea's ebb and flow.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Psychological Association",
+                    "description": "Used in psychology to discuss how people connect ideas or feelings.",
+                    "example": "Patients often identify stress with physical symptoms.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Classify": {
+            "wordRoot": "Classify",
+            "wordDefinition": "Classify means to group things or objects based on their similarities or differences. For example, we can classify animals into different groups like mammals, birds, reptiles, etc.\n\nIn simpler terms, classify is used when we want to group similar things together, while identify is used when we want to recognize or distinguish one thing from others.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49e78b5b-0f9a-4557-be54-3e73d88df7ac.webp"
+        },
+        "Determine": {
+            "wordRoot": "Determine",
+            "wordDefinition": "Determine means to come to a decision about something or make a final choice after examining all the evidence presented.\n\nBoth words are applicable in different contexts. You can determine the cause of a problem or determine the best course of action.\n\nBoth words involve reasoning, but determine is more about making a choice, and identify is more about recognizing or defining something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bb3c1d7-4dc7-4a4a-9a95-c1c82766d7be.webp"
+        },
+        "Diagnose": {
+            "wordRoot": "Diagnose",
+            "wordDefinition": "Diagnose is used to refer to the process of examining a patient's symptoms in order to determine what illness or medical condition they have.\n\nDiagnose is used when talking about determining a medical condition, while identify is used when talking about recognizing or naming something in general.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9f960733-37ea-497e-83db-e87f22803852.webp"
+        },
+        "Discern": {
+            "wordRoot": "Discern",
+            "wordDefinition": "Discern means to perceive or recognize something through close observation or scrutiny.\n\nFor example, you might discern a hidden meaning in a poem or discern the true intentions of a politician.\n\nDiscern means to understand something through careful observation, while identify means to label or recognize something based on its characteristics.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2f30f09a-4b06-4ca1-ba7f-094276291042.webp"
+        },
+        "Distinguish": {
+            "wordRoot": "Distinguish",
+            "wordDefinition": "Distinguish means to recognize or perceive the difference between two or more things. For example, if you are distinguishing between two similar-looking items, you are able to tell them apart.\n\nIn simpler terms, distinguishing is about telling apart things that are similar, while identifying is about recognizing or naming something.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bae6d370-8693-4ea5-a478-8b87618e053a.webp"
+        },
+        "Establish": {
+            "wordRoot": "Establish",
+            "wordDefinition": "Establish means to create or set up something that didn't exist before.\n\nThis word is used when starting something new, like establishing a new business, organization, or a relationship.\n\nEstablish means to create, while identify means to recognize.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/49b0e5d3-7211-4c60-98ff-c034701baeab.webp"
+        },
+        "Pinpoint": {
+            "wordRoot": "Pinpoint",
+            "wordDefinition": "Pinpoint means to locate or determine the exact position of something or someone.\n\nThis word is usually used when you need to find something precisely, such as a location or a specific item in a store. For example, if you're trying to find a particular store in a busy shopping center, you might ask for directions to help you pinpoint its exact location.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7bed460f-d387-439a-9318-5b68d3877342.webp"
+        },
+        "Recognize": {
+            "wordRoot": "Recognize",
+            "wordDefinition": "The words identify and recognize are often used interchangeably, but there is a subtle difference.\n\nRecognize means to remember or acknowledge something that you have experienced or encountered before. For example, you might recognize a friend's face when you see them in a crowd, or you might recognize a song that you heard on the radio earlier in the day.\n\nIdentify is about determining something's characteristics or features, while recognize is about remembering or acknowledging something you've encountered before.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/782e53b6-e1b3-4bc2-bc0f-c2ef081f0db2.webp"
+        },
+        "Verify": {
+            "wordRoot": "Verify",
+            "wordDefinition": "Verify means to check if something or someone is genuine or true. This involves examining evidence or facts to make sure that it is accurate.\n\nFor instance, you can verify a person's identity by checking their ID card.\n\nThe word identify is used when you are recognizing something, while verify is used when you are making sure that something is true or real.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7ace7617-c006-447b-ade7-4680f89ecc15.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " people are really identified with this story the kind of david and goliath of it when a manta is first born it really is microscopic it can stand on your finger on the end of your finger it's that small and so you really don't give a bit much chance of survival and it's born into a big world you know the jungle is full of danger and even",
+            "Title": "Filming the Kung Fu...",
+            "VideoId": "H0TNj8NhkCU",
+            "Controls": "start=466"
+        },
+        {
+            "Text": " identified and showed it other the other students as a matter of fact we decide to start a little impostor support group we started meeting and talking about big intellectual frauds and how we're fooling all of our professors and everything went great for about three weeks and that's about the time I",
+            "Title": "Thinking your way out of...",
+            "VideoId": "h7v-GG3SEWQ",
+            "Controls": "start=69"
+        },
+        {
+            "Text": " allowing the cells to transport it throughout the body. But they also have another kind of complex protein on the outside of the cell membrane. These proteins, known as antigens, communicate with white blood cells, immune cells that protect against infection. Antigens serve as identifying markers,",
+            "Title": "Why do blood types...",
+            "VideoId": "xfZhb6lmxjk",
+            "Controls": "start=25"
+        },
+        {
+            "Text": " are qualitatively different from those based on real experiences. This suggests that creating a false story about a personal topic takes work and results in a different pattern of language use. A technology known as linguistic text analysis has helped to identify four such common patterns",
+            "Title": "The language of lying —...",
+            "VideoId": "H0-WkpmTPrM",
+            "Controls": "start=92"
+        },
+        {
+            "Text": " Nevertheless, many cult members eventually find a way out, whether through their own realizations, the help of family and friends, or when the cult falls apart due to external pressure or scandals. Many cults may be hard to identify, and for some, their beliefs, no matter how strange,",
+            "Title": "Why do people join...",
+            "VideoId": "kB-dJaCXAxA",
+            "Controls": "start=318"
+        },
+        {
+            "Text": " We can clearly identify features of the wave pattern as a whole, most importantly, its wavelength, which is the distance between two neighboring peaks, or two neighboring valleys. But we can't assign it a single position. It has a good probability of being in lots of different places.",
+            "Title": "What is the Heisenberg...",
+            "VideoId": "TQKELOE9eY4",
+            "Controls": "start=78"
+        },
+        {
+            "Text": " or ageist lurking within, waiting to get out. That's not what I'm saying. We all have our biases. They're the filters through which we see the world around us. I'm not accusing anyone, bias is not an accusation. Rather, it's something that has to be identified,",
+            "Title": "What does my headscarf...",
+            "VideoId": "18zvlz5CxPE",
+            "Controls": "start=120"
+        },
+        {
+            "Text": " so he got the phone call. And he called me and couldn't get words out, couldn't speak. And I knew it was something important. And I thought something happened to somebody. I said, just spit it out, just tell me. And then he said, Uncle Ed's been identified.",
+            "Title": "Identifying Unknown...",
+            "VideoId": "peoD3kFGQfQ",
+            "Controls": "start=43"
+        },
+        {
+            "Text": " the searing pain of a stubbed toe, and the throbbing of a toothache. We can identify many types of pain and have multiple ways of treating it. But what about other species? How do the animals all around us experience pain? It's important that we find out.",
+            "Title": "How do animals...",
+            "VideoId": "5j9Syov0AAw",
+            "Controls": "start=8"
+        },
+        {
+            "Text": " Now that you know whether its answers are true or false, ask the same alien whether the center overlord is Arr. The process of elimination will identify the remaining one. The satisfied overlords help you repair your ship and you prepare for takeoff.",
+            "Title": "Can you solve the three...",
+            "VideoId": "LKvjIsyYng8",
+            "Controls": "start=249"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/stephen-covey.webp",
+            "Text": "Studies have identified a significant 'skills gap' between what students are currently being taught and the skills employers are seeking in today's global economy. Our children must be better prepared than they are now to meet the future challenges of our ever-changing world.",
+            "Title": "American Educator",
+            "Name": "Stephen Covey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/rihanna.webp",
+            "Text": "I think women want freedom. They want to be empowered. They want hope. They want love; they want all the things that I want, and I'm not afraid to say those things and act on them, and I think that's why they identify with me.",
+            "Title": "American Musician",
+            "Name": "Rihanna"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eckhart-tolle.webp",
+            "Text": "Many people in this world are still so identified with every thought that arises in their head. There is not the slightest space of awareness there.",
+            "Title": "German Speaker",
+            "Name": "Eckhart Tolle"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/erica-jong.webp",
+            "Text": "I have a very sensitive nose. I identify with dogs. I understand the world through my nose.",
+            "Title": "American Novelist",
+            "Name": "Erica Jong"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/lilly-singh.webp",
+            "Text": "I will forever and always identify with Scarborough - no matter where I move.",
+            "Title": "Canadian Comedian",
+            "Name": "Lilly Singh"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/pat-nixon.webp",
+            "Text": "I don't have time to worry about who I admire or who I identify with.",
+            "Title": "American First Lady",
+            "Name": "Pat Nixon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sidney-sheldon.webp",
+            "Text": "I think people throughout the world identify with my characters.",
+            "Title": "American Novelist",
+            "Name": "Sidney Sheldon"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sriti-jha.webp",
+            "Text": "It's fun to play a character that you can identify with.",
+            "Title": "Indian Actress",
+            "Name": "Sriti Jha"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/amitava-kumar.webp",
+            "Text": "I identify in some measure with each of my characters.",
+            "Title": "Indian Writer",
+            "Name": "Amitava Kumar"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/ekta-kapoor.webp",
+            "Text": "Television is about identifying with the characters.",
+            "Title": "Indian Producer",
+            "Name": "Ekta Kapoor"
+        }
+    ]
+}

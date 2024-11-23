@@ -1,0 +1,61 @@
+{
+    "currentWord": {
+        "wordRoot": "time-consuming",
+        "id": 0,
+        "phonemic": "ˈtaɪm kənˌsjuːmɪŋ",
+        "bigId": "",
+        "wordForms": []
+    },
+    "senses": [
+        {
+            "id": "UUID2",
+            "de": "Taking up a lot of time; lengthy.",
+            "ty": "adjective",
+            "ex": "Applying for a visa can be a time-consuming process.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "a time-consuming task",
+                "extremely time-consuming",
+                "time-consuming paperwork",
+                "a time-consuming project",
+                "prove time-consuming"
+            ],
+            "ImageSrc": "./senses/5a735069-1934-4067-ba94-a1ee97229f2b.webp",
+            "Tips": [
+                {
+                    "title": "Describing a lengthy task",
+                    "description": "Use 'time-consuming' to emphasize the duration and effort required for a particular activity.",
+                    "example": "Preparing a Thanksgiving dinner is always time-consuming.",
+                    "imageUrl": "./tips/3b38e056-0dd4-48d9-8d50-440fb7bb7aa2.webp"
+                },
+                {
+                    "title": "Explaining delays",
+                    "description": "Use 'time-consuming' to justify a delay or explain why something took longer than expected.",
+                    "example": "Sorry I'm late, the traffic was unexpectedly time-consuming.",
+                    "imageUrl": "./tips/a611e028-b433-4e8e-b8db-bebd8a64e6d6.webp"
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "lengthy": {
+            "wordRoot": "lengthy",
+            "wordDefinition": "Similar to time-consuming, but emphasizes the duration itself rather than the consumption of time. 'Lengthy' often describes something that seems excessively long.",
+            "wordImage": ""
+        },
+        "laborious": {
+            "wordRoot": "laborious",
+            "wordDefinition": "Implies that something requires a lot of effort and hard work, which often makes it time-consuming.  'Laborious' focuses more on the effort involved.",
+            "wordImage": ""
+        },
+        "tedious": {
+            "wordRoot": "tedious",
+            "wordDefinition": "Focuses on the monotony and boredom associated with a time-consuming task, rather than just the duration itself.",
+            "wordImage": ""
+        }
+    }
+}

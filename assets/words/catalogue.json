@@ -1,0 +1,294 @@
+{
+    "currentWord": {
+        "wordRoot": "catalogue",
+        "id": 18549,
+        "phonemic": "ˈkætəlɒɡ|ˈkætəlɔːɡ\r",
+        "bigId": "941a39ec-5b31-4254-987a-eb9b3c6a2311",
+        "wordForms": [
+            "catalogues",
+            "cataloguing",
+            "catalogued",
+            "catalog",
+            "catalogs",
+            "catalogue"
+        ]
+    },
+    "senses": [
+        {
+            "id": "941a39ec-5b31-4254-987a-eb9b3c6a2311",
+            "de": "A listed collection of items or things, usually in a systematic order.",
+            "ty": "noun",
+            "ex": "The library has a catalogue of all the books they have.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "library catalogue",
+                " product catalogue",
+                " music catalogue"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/941a39ec-5b31-4254-987a-eb9b3c6a2311.webp",
+            "Tips": [
+                {
+                    "title": "Systematic Order",
+                    "description": "Items in a catalogue are organized in a structured way, which can be by category, alphabetically, or by date.",
+                    "example": "The museum’s catalogue listed the artifacts chronologically.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/8hgKz7iI0xFRYNWEPunCWskwLs.webp"
+                },
+                {
+                    "title": "Comprehensive Detail",
+                    "description": "Catalogues often include details like descriptions, prices, or characteristics to inform readers.",
+                    "example": "The seed catalogue includes pictures and growing conditions for each plant.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/ujPLB5WObTg3e1O9RkPmOmrI01w.webp"
+                },
+                {
+                    "title": "Library Context",
+                    "description": "A 'library catalogue' is a common usage, referring to a database of books and resources found in the library.",
+                    "example": "Check the library catalogue to see if they have the newest novel.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/JhvUYOshbZNgnBlGjp5NWxZdU.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "9807e29d-87e4-492b-bef7-48259be7ed41",
+            "de": "To make a systematic list of items or things.",
+            "ty": "verb",
+            "ex": "She spent her time cataloguing all the items in her antique collection.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "catalogue items",
+                " catalogue collections",
+                " catalogue data"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/9807e29d-87e4-492b-bef7-48259be7ed41.webp",
+            "Tips": [
+                {
+                    "title": "Record Keeping",
+                    "description": "'To catalogue' means to record items systematically for easy retrieval and organization.",
+                    "example": "The archivist has to catalogue the letters by subject and date.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Research Importance",
+                    "description": "Cataloguing is crucial in research for maintaining an organized collection of data or specimens.",
+                    "example": "Researchers catalogued the soil samples before analysis.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "8b4d8e19-1f69-4618-87c1-dec339cf1460",
+            "de": "A printed booklet advertising a selection of products that can be purchased.",
+            "ty": "noun",
+            "ex": "I received a catalogue from the clothing store in the mail.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "product catalogue",
+                " mail-order catalogue",
+                " shopping catalogue"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/8b4d8e19-1f69-4618-87c1-dec339cf1460.webp",
+            "Tips": [
+                {
+                    "title": "Marketing Tool",
+                    "description": "Catalogues as booklets are used by companies to showcase products and encourage sales.",
+                    "example": "The winter clothing catalogue features the latest sweater designs.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Mail Distribution",
+                    "description": "'Mail-order catalogue' suggests the catalogue is sent to customers through the postal service.",
+                    "example": "I used to order clothes from a mail-order catalogue.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Product Information",
+                    "description": "Product catalogues are more detailed, often listing specifications, which help consumers make informed decisions.",
+                    "example": "Before buying the camera, I looked through the product catalogue for its features.",
+                    "imageUrl": ""
+                }
+            ],
+            "op": ""
+        }
+    ],
+    "comparisons": {
+        "Directory": {
+            "wordRoot": "Directory",
+            "wordDefinition": "A directory is a list of information about people or places.\n\nA catalogue is used to list items for sale or borrowing, while a directory is used to list information about people or places.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c2f74637-d2a1-41cf-a704-520aded0835c.webp"
+        },
+        "Index": {
+            "wordRoot": "Index",
+            "wordDefinition": "Index refers to a list of words or topics found in a book or document, along with page numbers indicating where they can be found.\n\nAn index is used to help readers easily locate specific information within a larger work, such as a textbook or novel.\n\nCatalogue is used to list items to purchase, while index is used to search for specific information in a larger work.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e29bada7-0430-47b1-bde9-33ced15d8331.webp"
+        },
+        "Inventory": {
+            "wordRoot": "Inventory",
+            "wordDefinition": "A catalogue is a list of items that a business offers for sale, while an inventory is a record of all the items a business has in stock at a given time.\n\nCatalogues are used mainly for advertising and marketing purposes to showcase a business's products to potential customers, while inventories are used for internal management and tracking purposes to ensure that a business has enough stock to meet customer demand.\n\nThe store will also keep an inventory of all the clothing items they have in stock at any given time, to make sure they have enough to fulfill customer orders and keep their shelves stocked.\n\nA catalogue is a list of items that a business is offering for sale and is mainly used for advertising and marketing, while an inventory is a record of all the items a business has in stock at any given time and is mainly used for internal management and tracking.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e6f7da11-a586-4fb8-9c5e-5f9eeac60dd1.webp"
+        },
+        "List": {
+            "wordRoot": "List",
+            "wordDefinition": "A list is a simple and straightforward collection of items without much detail.\n\nIt can be used for various purposes such as making a grocery list, to-do list or a guest list for a party. Lists are usually shorter than catalogues and are meant to be easily understood without any unnecessary information.\n\nA catalogue is more detailed and used by businesses to showcase their products, while a list is simpler and can be used for various purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/b2715178-90a7-45be-8be3-37a2033682e7.webp"
+        },
+        "Menu": {
+            "wordRoot": "Menu",
+            "wordDefinition": "A menu is a list of food and drink items offered by a restaurant that customers can order from. Menus often include descriptions of dishes, prices, and dietary information.\n\nA menu is a tool for the customer to choose what food they will eat at a restaurant.\n\nA catalogue is a list of products for sale, while a menu is a list of food and drink items available for ordering at a restaurant.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2c723dcf-87dd-4471-a59b-c44ff6dd7459.webp"
+        },
+        "Record": {
+            "wordRoot": "Record",
+            "wordDefinition": "Both catalogue and record can refer to a list or collection of items, but they have slightly different meanings and connotations.\n\nRecord often suggests a more detailed and permanent documentation of something, such as a historical event or a person's accomplishments.\n\nFor example, a museum might keep records of all the artifacts in its collection, including information about where they came from, their age, and their significance.\n\nCatalogue is more commonly used in a commercial or retail context, while record is more often used in academic or archival contexts.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/39d86227-3e4d-4457-95c0-d2441a2bfb8d.webp"
+        },
+        "Register": {
+            "wordRoot": "Register",
+            "wordDefinition": "A catalogue refers to a comprehensive list or collection of items, while a register refers to an official record of names, details, or events.\n\nA register is used for recording and keeping track of specific information in a more formal and official manner. For example, a school might maintain a register of students, recording their names, ages, grades, and attendance records.\n\nA catalogue is a collection of information organized for presentation, while a register is an official record for documentation purposes.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/c3d315ee-352d-4337-a592-7a5c9a8f9a0f.webp"
+        },
+        "Roster": {
+            "wordRoot": "Roster",
+            "wordDefinition": "A roster is a list of people or things in a particular order, usually for organizational purposes or to keep track of schedules.\n\nFor example, a sports team may have a roster of players, or a school may have a roster of teachers.\n\nA catalogue is a list of items for sale, while a roster is a list of people or things in a particular order or for organizational purposes.\n\nCatalogues are typically used by businesses to promote products, while rosters are used for scheduling and organizing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/14082716-7b9e-4fd6-b100-62d984b76dd7.webp"
+        },
+        "Schedule": {
+            "wordRoot": "Schedule",
+            "wordDefinition": "Catalogue refers to a list of items or products that are available for purchase, while schedule refers to a plan for events or activities to take place at specific times.\n\nCatalogues are used in retail or e-commerce settings to showcase available products, while schedules are used in planning events, meetings or classes.\n\nA 15-year-old would commonly encounter catalogues in shopping, while schedules might be applicable in school or extracurricular activities.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d83185bc-c648-42d4-9464-9bdc1e310654.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " is all out of my own personal catalogue, you know what I mean? So if you want to know more about that, you know what I'm saying, we could talk about the anti-piracy and all that, but as far as I'm concerned, you know, I believe in creative commons, and I think it's really important that, you know, that needs to be sustainable and everything,",
+            "Title": "Sarah Jones: What does...",
+            "VideoId": "YlmZkY1uqXM",
+            "Controls": "start=390"
+        },
+        {
+            "Text": " Yet there's something fascinating happening right now. Artists are breaking anatomy out of the confines of the medical world and are thrusting it into the public space. For the past nine years, I have been cataloguing and sharing this rise in anatomical art with the public -- all from my perspective as a medical illustrator.",
+            "Title": "The spellbinding art of...",
+            "VideoId": "M_X0uwAG2Jc",
+            "Controls": "start=116"
+        },
+        {
+            "Text": " all his discoveries were of the utmost importance. He penned treatises on everything from anatomy to nutrition to bedside manner, meticulously cataloguing his writings to ensure their preservation. Over the next 13 centuries, Galen’s prolific collection dominated all other schools of medical thought.",
+            "Title": "Ancient Rome’s most...",
+            "VideoId": "r1BhsWsmjco",
+            "Controls": "start=200"
+        },
+        {
+            "Text": " the answers to all of fashion's materials problems are available today, out there in nature, and it's our job, as scientists, to go find the best inventions from nature's four-billion-year catalog of greatest hits and bring them to the world of design.",
+            "Title": "The Future of Fashion –...",
+            "VideoId": "OcdumFcGdfU",
+            "Controls": "start=117"
+        },
+        {
+            "Text": " cataloguing every speaking character on-screen for gender, race, ethnicity, LGBT and characters with a disability. Let's take a look at really some problematic trends. First, females are still noticeably absent on-screen in film.",
+            "Title": "The data behind...",
+            "VideoId": "7kkRkhAXZGg",
+            "Controls": "start=160"
+        },
+        {
+            "Text": " is so important because this is the first real museum collection ever made in in the Maya area at least and it's it's still there all catalogued and everything and this is a visit that highlighting Schliemann the the famous",
+            "Title": "Palenque and the Ancient...",
+            "VideoId": "BCs86ZrxX9k",
+            "Controls": "start=593"
+        },
+        {
+            "Text": " And we have a lot of problems to choose from. We've got the bad-smelling clothes or bland food. And we've got the disease, pollution, war. And so this is my to not just catalog the microscopic life around us,",
+            "Title": "Meet the microscopic...",
+            "VideoId": "ultonpeO0ZA",
+            "Controls": "start=394"
+        },
+        {
+            "Text": " This would place the exoplanet count in our local galaxy to about one trillion. The search for exoplanets continues, not just to create a catalog of known worlds, but also to see if life may exist elsewhere",
+            "Title": "Exoplanets 101 PIPE...",
+            "VideoId": "EUU0-ZpFoK4",
+            "Controls": "start=171"
+        },
+        {
+            "Text": " this brings me to what I've been doing for the last ten years one project is called psycho geographies and I like to think of it as a catalogue of humanity as a composite of infinite interactions",
+            "Title": "Why I think inside the...",
+            "VideoId": "C4JGP44jAZk",
+            "Controls": "start=340"
+        },
+        {
+            "Text": " that didn't jibe with my aesthetic. And when I looked up in the catalog to see how much this three-foot-high mouse cost, here's how it was described \"Life-sized.\"",
+            "Title": "How I made friends with...",
+            "VideoId": "ARb2UfDgSHQ",
+            "Controls": "start=232"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sebastian-thrun.webp",
+            "Text": "When you raise a child, you don't sit down and take all the rules of life, write them into a big catalog, and start reading the child all these individual rules from A to Z. When we raise a child, a lot of what we do is let the child experiment and guide the experimentation. The child basically has to process his own data and learn from experience.",
+            "Title": "German Scientist",
+            "Name": "Sebastian Thrun"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/whitney-cummings.webp",
+            "Text": "I did some pretty embarrassing modeling, like catalogs and QVC. I know there's probably a stereotype where all pretty girls think they're unattractive, but modeling is the worst thing for your self-esteem, because you're never pretty enough, you're never thin enough.",
+            "Title": "American Comedian",
+            "Name": "Whitney Cummings"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/palmer-luckey.webp",
+            "Text": "Games take years to make, and it's important that when we launch, it can't just be a great launch catalog and then a desert for a really long time. To be honest, for a lot of developers, they'd rather not be competing at launch with all this other software.",
+            "Title": "American Businessman",
+            "Name": "Palmer Luckey"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/justin-hayward.webp",
+            "Text": "The problem with the Moodies is not what to play, it's what to leave out! That's always difficult. We stopped having support acts many years ago just because of that. We needed getting on to two hours; there's such a big catalog to call on.",
+            "Title": "British Musician",
+            "Name": "Justin Hayward"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frances-mcdormand.webp",
+            "Text": "I went to my school careers counselors and said I wanted to be an actor, and they didn't know what to do. They showed me catalogues with pretty campuses and said, 'Oh, look, there's a theater building. Why don't you go there?",
+            "Title": "American Actress",
+            "Name": "Frances McDormand"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/taylor-goldsmith.webp",
+            "Text": "All of the people we admire have extensive catalogs, so what's most exciting about people responding well to the band is allowing us to continue making as many records as we can.",
+            "Title": "American Musician",
+            "Name": "Taylor Goldsmith"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/steven-wilson.webp",
+            "Text": "Ultimately, I'd like to create a body of work where every album has its own personality and a reason to exist within the catalog, not just 'more of the same.",
+            "Title": "English Musician",
+            "Name": "Steven Wilson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/frank-shamrock.webp",
+            "Text": "It's part of being successful, just planning your life, catalogue successes, keep track of things that are important to you and make them a reality.",
+            "Title": "American Mixed Martial Artist",
+            "Name": "Frank Shamrock"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/barbara-w-tuchman.webp",
+            "Text": "For me, the card catalog has been a companion all my working life. To leave it is like leaving the house one was brought up in.",
+            "Title": "American Historian",
+            "Name": "Barbara W. Tuchman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/nick-cave.webp",
+            "Text": "I just want to leave this world with a massive catalog of songs.",
+            "Title": "Australian Musician",
+            "Name": "Nick Cave"
+        }
+    ]
+}

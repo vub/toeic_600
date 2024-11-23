@@ -1,0 +1,293 @@
+{
+    "currentWord": {
+        "wordRoot": "competition",
+        "id": 12541,
+        "phonemic": "ˌkɒmpəˈtɪʃn|ˌkɑːmpəˈtɪʃn\r",
+        "bigId": "de0e35a5-cef3-4b81-b739-9f9a971d115c",
+        "wordForms": [
+            "competitions",
+            "competition"
+        ]
+    },
+    "senses": [
+        {
+            "id": "de0e35a5-cef3-4b81-b739-9f9a971d115c",
+            "de": "A situation in which people or organizations try to do better than others",
+            "ty": "noun",
+            "ex": "There's a lot of competition between computer companies.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "stiff competition",
+                " business competition",
+                " market competition"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/de0e35a5-cef3-4b81-b739-9f9a971d115c.webp",
+            "Tips": [
+                {
+                    "title": "Beyond Business",
+                    "description": "Not limited to companies; it also occurs in sports, academics, and art.",
+                    "example": "The competition for the best science project was intense among students.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6ulJxKRSf8pRJn1YDZCNJWujH4w.webp"
+                },
+                {
+                    "title": "Emotional Impact",
+                    "description": "Often implies stress or challenge, as participants strive to outdo each other.",
+                    "example": "As the competition heated up, the athletes felt more pressure.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/lxxIZae2jL1LWoQvsx6mmpbOMWI.webp"
+                },
+                {
+                    "title": "Common Confusion",
+                    "description": "Don't confuse 'competition' (the situation) with 'competitor' (a person or entity involved).",
+                    "example": "She respected the competition but was not friends with her competitors.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/WA4tEtFbo1FSMZ4F6CWneeIyto.webp"
+                }
+            ]
+        },
+        {
+            "id": "887da79c-f2d6-45e1-b3ca-40cca07b2fc4",
+            "de": "An event or contest in which people compete",
+            "ty": "noun",
+            "ex": "She has entered several competitions this year.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "sport competition",
+                " international competition",
+                " cooking competition"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/887da79c-f2d6-45e1-b3ca-40cca07b2fc4.webp",
+            "Tips": [
+                {
+                    "title": "Wide Usage",
+                    "description": "Refers to diverse events, from official tournaments to casual workplace contests.",
+                    "example": "The annual baking competition attracts amateur chefs from around the country.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Evolving Definition",
+                    "description": "In tech and gaming, it can refer to online contests not confined to a single location.",
+                    "example": "He won the coding competition that was held entirely online.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Informal Expressions",
+                    "description": "In casual contexts, people use 'competition' to describe rivalry in playful scenarios.",
+                    "example": "Among friends, the competition to finish eating a pizza the fastest was in good fun.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "648f1210-fd44-45a1-9f59-580b6dc04e09",
+            "de": "The activity of striving to gain or win something by defeating others",
+            "do": "Business",
+            "ty": "noun",
+            "ex": "They thrive under conditions of competition.",
+            "use": "",
+            "co": "Academic",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "fair competition",
+                " predatory competition",
+                " intense competition"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/648f1210-fd44-45a1-9f59-580b6dc04e09.webp",
+            "Tips": [
+                {
+                    "title": "Degree of Intensity",
+                    "description": "Adjectives describe the intensity, such as 'fierce' or 'friendly', changing the tone.",
+                    "example": "The small shops faced fierce competition from the new mall.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Larger Context",
+                    "description": "Always consider the context to understand if 'competition' is beneficial or harmful.",
+                    "example": "Healthy competition can drive innovation, but can also lead to unethical practices.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Market Forces",
+                    "description": "In business, it influences prices, quality, and availability of products and services.",
+                    "example": "Competition among streaming services has drastically increased original content.",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Battle": {
+            "wordRoot": "Battle",
+            "wordDefinition": "A battle involves fighting or struggling against an enemy or opponent, usually in a physical or violent manner.\n\nTherefore, battles are applicable in situations where there is a need to fight, either in war or in self-defense. Competitions are applicable in situations where there is a need to showcase one's abilities or skills, such as in sports, academic, or talent competitions.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/9672370c-e559-45ab-a2cf-63796c723e78.webp"
+        },
+        "Conflict": {
+            "wordRoot": "Conflict",
+            "wordDefinition": "Conflict refers to a situation where two or more individuals or groups have opposing views, interests or beliefs and are actively working against each other.\n\nIt can be negative and destructive, leading to hostility and sometimes violence. For example, a political conflict where two parties are fighting over a policy decision.\n\nCompetition is seen as healthy and positive while conflict is negative and destructive. Competition involves striving for excellence while conflict involves power struggles and opposition.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/551a6081-e14f-4cd5-858f-46bcd18d41a7.webp"
+        },
+        "Contest": {
+            "wordRoot": "Contest",
+            "wordDefinition": "Contest is a situation where people are competing to win a prize or award, usually based on a specific skill or talent.\n\nExamples include singing contests, art contests, or essay contests.\n\nCompetition is a broader term that can refer to any situation where people are vying against each other, while a contest typically involves a specific activity or skill set.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/19d394a1-89ce-4099-b75a-c48be080b817.webp"
+        },
+        "Duel": {
+            "wordRoot": "Duel",
+            "wordDefinition": "Competition and duel are both related to a contest or contesting, but there is a difference in their nature and application.\n\nA duel is a one-on-one contest between two individuals that often involves weapons and is fought to prove one's honor or settle a dispute.\n\nDuels were more common in the past and are now illegal in most countries.\n\nA competition can be any contest where individuals or teams compete against each other, while a duel is a specific type of contest involving two individuals fighting to prove their worth or settle a disagreement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/a9c79bb4-e8c3-484c-a24f-32be368e95cc.webp"
+        },
+        "Match": {
+            "wordRoot": "Match",
+            "wordDefinition": "Competition and match are two words that are used in relation to sports or games, but they have slightly different meanings.\n\nIt can include multiple matches or games within it.\n\nA match is a specific instance of competition, often between two individuals or teams playing a particular game. It usually involves a set of rules, a specific location, and a defined time.\n\nIn sports, a match often involves two teams or players competing against each other directly, and the winner is determined by who scores more points or achieves victory according to the rules of the game.\n\nFor example, in football, a match refers to a game between two teams where each team tries to score more goals than the other.\n\nA competition is a series of events where individuals or teams compete against each other, while a match is a specific game or event within that competition.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/db5a0515-be0d-4606-9d6b-296e05d956af.webp"
+        },
+        "Race": {
+            "wordRoot": "Race",
+            "wordDefinition": "Race is specifically an event in which individuals compete against each other in a disorderly manner. It's often focused on speed and time, such as running races or car races.\n\nCompetition refers to a broader range of activities, while a race is typically a more specific type of competition focused on speed or timing.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/5f21cbe2-3673-453d-a115-609452733f78.webp"
+        },
+        "Rivalry": {
+            "wordRoot": "Rivalry",
+            "wordDefinition": "Rivalry refers to a situation where two or more individuals or groups engage in intense competition marked by a deep-seated animosity, bitterness, and resentment towards each other.\n\nIn simpler terms, competition is a healthy form of challenging oneself to do better, while rivalry involves an intense and negative desire to beat the other person.\n\nRivalry is applicable when two opposing groups or individuals have a long-standing history of conflict or when there is a strong personal dislike between them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/1b2fe866-c837-4419-9fed-d7e354d8f6dd.webp"
+        },
+        "Tussle": {
+            "wordRoot": "Tussle",
+            "wordDefinition": "Tussle implies a physical or metaphorical struggle, often with no clear goal or rules.\n\nTussle is often used in more informal, personal contexts, where conflict or confrontation may occur.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0b0cbc4c-8ca3-4ee3-852c-9f96afee4396.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " Most importantly, curbing the excessive and unnecessary use of antibiotics, such as for minor infections that can resolve on their own, as well as changing medical practice to prevent hospital infections, can have a major impact by keeping more non-resistant bacteria alive as competition for resistant strains.",
+            "Title": "What causes antibiotic...",
+            "VideoId": "znnp-Ivj2ek",
+            "Controls": "start=233"
+        },
+        {
+            "Text": " It's vital that the crabs have the best possible protection from the heavy teeth of the waiting sharks and rays. For that, they need the shell with a perfect fit. Today, there is new real estate on offer and competition in this housing market is fierce.",
+            "Title": "Giant Horse Conch &...",
+            "VideoId": "P_hBp1sEwfs",
+            "Controls": "start=95"
+        },
+        {
+            "Text": " all I ever wanted to do was transcend poetry to the world. See, it wasn't enough for me to write a book. It wasn't enough for me to join a slam competition, and while those things hold weight, it wasn't the driving force that pushes the pen to the pad.",
+            "Title": "Lemon Andersen performs...",
+            "VideoId": "WT7VMrxTPPA",
+            "Controls": "start=187"
+        },
+        {
+            "Text": " until there were so many of them, that it was no longer a rare asset. So in a purely competitive world, 50% of the population would be left-handed. But human evolution has been shaped by cooperation, as well as competition. And cooperative pressure",
+            "Title": "Why are some people...",
+            "VideoId": "TGLYcYCm2FM",
+            "Controls": "start=192"
+        },
+        {
+            "Text": " African kingdoms prospered from the slave trade, but meeting the European's massive demand created intense competition. Slavery replaced other criminal sentences, and capturing slaves became a motivation for war, rather than its result.",
+            "Title": "The Atlantic slave...",
+            "VideoId": "3NXC4Q_4JVg",
+            "Controls": "start=119"
+        },
+        {
+            "Text": " baby's crying and he's very hot so full package i had a technology where i could make synthetic chemicals but with the sun this is a world-changing idea this is a competition where people can come from difficult backgrounds",
+            "Title": "Own the Room PIPE Official...",
+            "VideoId": "BS1n2UDqYzU",
+            "Controls": "start=44"
+        },
+        {
+            "Text": " Klinky wants to make sure the group raises just one set of offspring her own. They're all fighting for limited resources. Any competition would put Klinky's pups under threat. She won't let that happen.",
+            "Title": "Meerkat Mother Exiles...",
+            "VideoId": "Dnx9T_PUMno",
+            "Controls": "start=164"
+        },
+        {
+            "Text": " The combined running, jumping, wrestling, javelin throwing, and hurling the discus events known as the pentathlon inspired world-class competition, and the pankration,",
+            "Title": "The ancient origins of...",
+            "VideoId": "VdHHus8IgYA",
+            "Controls": "start=85"
+        },
+        {
+            "Text": " finding food and somewhere to live are further trials fish must face the californian coast a wide range of species live here but all this life means competition for",
+            "Title": "Greatest Fights In The...",
+            "VideoId": "sf7LVPIZMR8",
+            "Controls": "start=796"
+        },
+        {
+            "Text": " the world number one in ultimate competition and I have to say no I did but I did challenge all the top grandmasters I planed it in the world",
+            "Title": "Giving checkmate is...",
+            "VideoId": "z-ttu7dyBCU",
+            "Controls": "start=567"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/walt-disney.webp",
+            "Text": "I have been up against tough competition all my life. I wouldn't know how to get along without it.",
+            "Title": "American Businessman",
+            "Name": "Walt Disney"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/keith-thurman.webp",
+            "Text": "I'm not afraid to lose. I'm here for the competition. I'm here to make greatness.",
+            "Title": "American Boxer",
+            "Name": "Keith Thurman"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bertrand-russell.webp",
+            "Text": "Life is nothing but a competition to be the criminal rather than the victim.",
+            "Title": "British Philosopher",
+            "Name": "Bertrand Russell"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hugo-lloris.webp",
+            "Text": "It's important to take every game seriously, whatever the competition is.",
+            "Title": "French Athlete",
+            "Name": "Hugo Lloris"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/karla-crome.webp",
+            "Text": "It's really important that people don't view success as a competition.",
+            "Title": "English Actress",
+            "Name": "Karla Crome"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/randeep-hooda.webp",
+            "Text": "There is no life without sport and no sport without competition.",
+            "Title": "Indian Actor",
+            "Name": "Randeep Hooda"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/eve-torres.webp",
+            "Text": "I have always had a passion for competition and performance.",
+            "Title": "American Actress",
+            "Name": "Eve Torres"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henrikh-mkhitaryan.webp",
+            "Text": "The most important competition is always the next match.",
+            "Title": "Armenian Athlete",
+            "Name": "Henrikh Mkhitaryan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jimmie-johnson.webp",
+            "Text": "The competition in today's world of racing is so tough.",
+            "Title": "American Driver",
+            "Name": "Jimmie Johnson"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/hope-solo.webp",
+            "Text": "I live for competition. It makes my life complete.",
+            "Title": "American Athlete",
+            "Name": "Hope Solo"
+        }
+    ]
+}

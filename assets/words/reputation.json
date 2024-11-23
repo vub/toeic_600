@@ -1,0 +1,255 @@
+{
+    "currentWord": {
+        "wordRoot": "reputation",
+        "id": 20499,
+        "phonemic": "ˌrepjuˈteɪʃn|ˌrepjuˈteɪʃn\r",
+        "bigId": "07a9b338-d216-4969-b401-2a09b31e7ee7",
+        "wordForms": [
+            "reputations",
+            "reputation"
+        ]
+    },
+    "senses": [
+        {
+            "id": "07a9b338-d216-4969-b401-2a09b31e7ee7",
+            "de": "What people think of someone or something",
+            "ty": "noun",
+            "ex": "He has a reputation for being very reliable.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "build a reputation",
+                " damage one's reputation",
+                " lose one's reputation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/07a9b338-d216-4969-b401-2a09b31e7ee7.webp",
+            "Tips": [
+                {
+                    "title": "Subjectivity",
+                    "description": "Reputation can be subjective, based on individual opinions rather than facts.",
+                    "example": "Despite the rumors, her reputation among her friends remained positive.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/6WicHzDaRlfbSGXgwFC7F8Ua32U.webp"
+                },
+                {
+                    "title": "Cultural Variation",
+                    "description": "Different cultures may value certain traits differently, affecting reputation.",
+                    "example": "His reputation for punctuality improved after he moved to Japan.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/hJiX8YbWAgLKB1krocMj5Jt4g8.webp"
+                },
+                {
+                    "title": "Temporal Change",
+                    "description": "Reputation can change over time with new actions or information.",
+                    "example": "The chef's reputation improved after the restaurant won an award.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/rjtYXt0Gwc2CwrIWjIjh5CCmSQ.webp"
+                }
+            ]
+        },
+        {
+            "id": "dbda61d7-efb2-4b6b-a111-e44853dd8628",
+            "de": "The opinion that people have about what someone or something is like, based on what has happened in the past",
+            "ty": "noun",
+            "ex": "The organization has a reputation for professionalism in its approach.",
+            "use": "",
+            "co": "Business",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "earn a reputation",
+                " uphold one's reputation",
+                " ruin one's reputation"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/dbda61d7-efb2-4b6b-a111-e44853dd8628.webp",
+            "Tips": [
+                {
+                    "title": "Professional Context",
+                    "description": "In business, reputation is crucial and can impact career opportunities.",
+                    "example": "The firm's reputation for excellence attracted top-tier clients.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Collective Reputation",
+                    "description": "Organizations, like individuals, have reputations that affect public trust.",
+                    "example": "The charity's good reputation helped increase donations.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Long-term Effects",
+                    "description": "A strong reputation, once established, can benefit someone for a long time.",
+                    "example": "His reputation as a negotiator opened many doors in his career.\r",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Character": {
+            "wordRoot": "Character",
+            "wordDefinition": "Character refers to a person's true nature, values, and behavior when no one is watching. It is who they really are as a person.\n\nCharacter matters in personal relationships, while reputation matters in public perception, such as in career or social situations.\n\nIt is important to have a good character because it influences one's reputation and how others perceive them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/0725e4ce-336a-409e-989f-390b96dd1802.webp"
+        },
+        "Credibility": {
+            "wordRoot": "Credibility",
+            "wordDefinition": "Credibility refers to how believable or trustworthy something or someone is. For example, if a news source has a history of reporting accurate information, they have good credibility.\n\nIf someone has been caught lying or exaggerating in the past, their credibility may be questioned.\n\nBoth credibility and reputation are important in different ways. Credibility is necessary for establishing trust and being considered a reliable source or person.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/2d4905f2-49e5-4b00-80bf-121072bde995.webp"
+        },
+        "Esteem": {
+            "wordRoot": "Esteem",
+            "wordDefinition": "Esteem refers to the way you feel about yourself, and how others respect and value you. It's about the value you place on yourself, and the opinions you have about your own worth.\n\nEsteem is applicable in personal growth, and self-confidence while reputation is applicable in public perception and social standing.\n\nEsteem is about how you see yourself, while reputation is about how others see you.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/caec7e06-36eb-4ff0-bf04-af2991b969b0.webp"
+        },
+        "Fame": {
+            "wordRoot": "Fame",
+            "wordDefinition": "Fame is the state of being widely known or recognized for one's achievements, actions, or personality.\n\nFame can be positive or negative, depending on the individual's actions and public perception.\n\nFame is about being known while reputation is about the impression people have of you. Fame is usually applied more to public figures and celebrities, while reputation can apply to anyone.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/6206db25-caf7-4a98-885e-7d28f5c62899.webp"
+        },
+        "Honour": {
+            "wordRoot": "Honour",
+            "wordDefinition": "Honour refers to a person's inner sense of moral and ethical values, principles, and actions. It is the quality of being honest, fair, and trustworthy.\n\nHonour is applicable in personal contexts such as how an individual behaves, treats others, and conducts themselves in their personal and professional life.\n\nHonour is about an individual's personal values, while reputation is about how others perceive and judge them.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/dfacdcdf-7111-41ce-bfc1-2d66e994f438.webp"
+        },
+        "Image": {
+            "wordRoot": "Image",
+            "wordDefinition": "Image refers to the visual representation of a person or organization, whereas reputation refers to what people think or say about that person or organization based on their actions or behavior.\n\nFor example, a company might have a sleek and modern logo, which is part of its image.\n\nSimilarly, a celebrity might have a glamorous image due to their appearance and social media presence, but a negative reputation due to scandals or controversy.\n\nImage is how something looks on the surface, while reputation is what people actually think or feel about it based on its actions and behavior.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/e93a6194-0188-4340-95c0-a587b125cf83.webp"
+        },
+        "Prestige": {
+            "wordRoot": "Prestige",
+            "wordDefinition": "Prestige refers to the level of respect and admiration that a person, place, or thing has earned through their accomplishments, awards or associations.\n\nSo, while prestige is earned through success and achievement, reputation is earned or lost through the way one conducts themselves, day-in and day-out.\n\nA celebrity with high prestige might be known for his/her award-winning performances, business empire or philanthropic work, but their reputation may depend on how they handle controversy, media attention, or public scrutiny.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/eaa64405-1179-46c0-a24c-4bd887b7970d.webp"
+        },
+        "Stand": {
+            "wordRoot": "Stand",
+            "wordDefinition": "Stand refers to a person's position or viewpoint on a specific issue or situation. It is the stance that they take on something.\n\nFor example, a person may take a stand against animal cruelty or stand up for their beliefs even when it is difficult to do so.\n\nReputation refers to how others view a person or company based on their past actions, while stand refers to a person's viewpoint or position on a specific issue.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/98432450-a371-4b79-b643-c3593e1277df.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " trying to improve the situation that exists for you, I think that's success, and I don't think others can judge that; it's like character and reputation -- your reputation is what you're perceived to be; your character is what you really are. And I think that character is much more important than what you are perceived to be.",
+            "Title": "The difference between...",
+            "VideoId": "0MM-psvqiG8",
+            "Controls": "start=196"
+        },
+        {
+            "Text": " Now, I knew this place had a reputation for sinking ships and grounding planes, and while I was out there floating, I started to get a little bit nervous. Actually, I was totally freaking out -- -- and I was borderline hypothermic, and my friends eventually had to help me out of the water.",
+            "Title": "Chris Burkard: The joy...",
+            "VideoId": "8VwTZFY-fvw",
+            "Controls": "start=470"
+        },
+        {
+            "Text": " and they look a lot like these microbial tubules we also study impact craters these are observed on every planetary body in the solar system and they're created when an asteroid or comet hits the planet or a moon they have a very destructive reputation but they actually",
+            "Title": "What does an alien look...",
+            "VideoId": "BEjjft5UILo",
+            "Controls": "start=177"
+        },
+        {
+            "Text": " respect for african buffaloes the very same personality traits that earned them that reputation of being ill-tempered bad-natured dangerous animals are the same traits that mean they are also unbelievably resilient animals the number of times i've either seen",
+            "Title": "How Tough is the African...",
+            "VideoId": "-r0QjwhCr0I",
+            "Controls": "start=271"
+        },
+        {
+            "Text": " and he's ready to welcome this guests among them are the leaders of Taiwan's premier keulen Area associations men and women who can make or break a chef's reputation even for these experts this meal will be a rare treat most of them",
+            "Title": "Would You Eat Bull...",
+            "VideoId": "xwxdI1XSQDU",
+            "Controls": "start=154"
+        },
+        {
+            "Text": " in this episode i discover why snow leopards have earned the reputation of being the phantom of the mountains and i learned how camera traps and skilled wildlife rangers have become the eyes and ears of snow leopard",
+            "Title": "Snow Leopards: Ghosts in...",
+            "VideoId": "0zNm8-KNlqs",
+            "Controls": "start=23"
+        },
+        {
+            "Text": " to a publicly humiliated one, worldwide. I was patient zero of losing a personal reputation on a global scale almost instantaneously. This rush to judgment, enabled by technology,",
+            "Title": "The price of shame PIPE...",
+            "VideoId": "H_8y0WLm78U",
+            "Controls": "start=238"
+        },
+        {
+            "Text": " Chemical pesticides may never shake their controversial reputation, but with their help, we can ensure that agricultural catastrophes stay firmly in our past.",
+            "Title": "Do we really need...",
+            "VideoId": "GLllZ-qiXJA",
+            "Controls": "start=284"
+        },
+        {
+            "Text": " to one hundred thousand insects in a single raid despite the ant's formidable reputation most farmers value their role as pest",
+            "Title": "Killer Ant Swarm...",
+            "VideoId": "OnooyOZRzkM",
+            "Controls": "start=237"
+        },
+        {
+            "Text": " only one hunting three by a palace's cat is successful no wonder he has the reputation of being the grumpiest cat in the world",
+            "Title": "World’s Grumpiest Cat I...",
+            "VideoId": "rlSTBvViflc",
+            "Controls": "start=154"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/norman-schwarzkopf.webp",
+            "Text": "I may have made my reputation as a general in the Army, and I'm very proud of that. But I've always felt that I was more than one-dimensional. I'd like to think I'm a caring human being.",
+            "Title": "American General",
+            "Name": "Norman Schwarzkopf"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/jocko-willink.webp",
+            "Text": "I remember, when I was a young guy in the SEAL teams, I was very afraid of making mistakes and looking stupid or doing dumb things and getting a bad reputation.",
+            "Title": "American",
+            "Name": "Jocko Willink"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/abraham-lincoln.webp",
+            "Text": "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
+            "Title": "American President",
+            "Name": "Abraham Lincoln"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-d-rockefeller.webp",
+            "Text": "The most important thing for a young man is to establish a credit... a reputation, character.",
+            "Title": "American Businessman",
+            "Name": "John D. Rockefeller"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/thomas-paine.webp",
+            "Text": "Reputation is what men and women think of us; character is what God and angels know of us.",
+            "Title": "English Activist",
+            "Name": "Thomas Paine"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/elbert-hubbard.webp",
+            "Text": "Many a man's reputation would not know his character if they met on the street.",
+            "Title": "American Writer",
+            "Name": "Elbert Hubbard"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/dwight-l-moody.webp",
+            "Text": "If I take care of my character, my reputation will take care of me.",
+            "Title": "American Clergyman",
+            "Name": "Dwight L. Moody"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/john-wooden.webp",
+            "Text": "Be more concerned with your character than your reputation.",
+            "Title": "American Coach",
+            "Name": "John Wooden"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/anthony-j-dangelo.webp",
+            "Text": "Build your reputation by helping other people build theirs.",
+            "Title": "American Writer",
+            "Name": "Anthony J. D'Angelo"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/euripides.webp",
+            "Text": "Along with success comes a reputation for wisdom.",
+            "Title": "Greek Poet",
+            "Name": "Euripides"
+        }
+    ]
+}

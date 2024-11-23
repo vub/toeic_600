@@ -1,0 +1,373 @@
+{
+    "currentWord": {
+        "wordRoot": "match",
+        "id": 18050,
+        "phonemic": "mætʃ|mætʃ\r",
+        "bigId": "db5a0515-be0d-4606-9d6b-296e05d956af",
+        "wordForms": [
+            "matches",
+            "matching",
+            "matched",
+            "match"
+        ]
+    },
+    "senses": [
+        {
+            "id": "db5a0515-be0d-4606-9d6b-296e05d956af",
+            "de": "A stick that produces flame when you rub it on a rough surface",
+            "ty": "noun",
+            "ex": "He struck a match to light the candle.",
+            "use": "",
+            "sy": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "strike a match",
+                " light a match",
+                " box of matches"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/db5a0515-be0d-4606-9d6b-296e05d956af.webp",
+            "Tips": [
+                {
+                    "title": "Physical Object",
+                    "description": "Refers specifically to an object used for ignition.",
+                    "example": "Pack extra matches for our camping trip.\r",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/qenQlud1P2yVCNxilaOM8Tiir8U.webp"
+                },
+                {
+                    "title": "Not a Lighter",
+                    "description": "Different from a lighter, a match is a single-use tool.",
+                    "example": "After the match burned out, he lit another.",
+                    "imageUrl": "https://word-images.cdn-wordup.com/tips/1pxvteXPOH27vFFylmj0kXLQRvw.webp"
+                }
+            ],
+            "op": ""
+        },
+        {
+            "id": "7c65604b-0305-492c-ae99-5004ac7b0f60",
+            "de": "A competition where people play against each other",
+            "ty": "noun",
+            "ex": "I'm going to watch the football match tonight.",
+            "use": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "football match",
+                " tennis match",
+                " play a match"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/7c65604b-0305-492c-ae99-5004ac7b0f60.webp",
+            "Tips": [
+                {
+                    "title": "Sporting Events",
+                    "description": "Commonly used to talk about sports competitions.",
+                    "example": "She scored the winning goal in the match.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Competitive Context",
+                    "description": "Implies a challenge or contest between individuals or teams.",
+                    "example": "The chess match lasted for hours.",
+                    "imageUrl": ""
+                }
+            ],
+            "sy": "",
+            "op": ""
+        },
+        {
+            "id": "fc1acb45-8c6f-4eb7-b07e-586c9ea75079",
+            "de": "A person who is good to marry or start a romantic relationship with",
+            "ty": "noun",
+            "ex": "He seems like a good match for her.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "perfect match",
+                " romantic match",
+                " match in heaven"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/fc1acb45-8c6f-4eb7-b07e-586c9ea75079.webp",
+            "Tips": [
+                {
+                    "title": "Relationship Potential",
+                    "description": "Indicates suitability or compatibility in romantic contexts.",
+                    "example": "They met through a dating app and are a great match.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Evaluate Compatibility",
+                    "description": "Used when considering how well two people suit each other.",
+                    "example": "My friend set me up on a date, saying we're a good match.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "656e6b4a-283f-4a03-a5ff-479be7ff6c75",
+            "de": "When two things are the same or similar",
+            "ty": "verb",
+            "ex": "Your shirt doesn't match your pants.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "match colors",
+                " match the description",
+                " match up"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/656e6b4a-283f-4a03-a5ff-479be7ff6c75.webp",
+            "Tips": [
+                {
+                    "title": "Similarity",
+                    "description": "Describes when two or more items look alike or complement each other.",
+                    "example": "Find socks that match in color and pattern.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Harmony",
+                    "description": "Highlights the importance of consistency in design or arrangement.",
+                    "example": "The curtains and sofa match beautifully.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1c1facf6-459e-4f29-a1c5-598ed247d857",
+            "de": "To place people or things together because they are similar or compatible",
+            "ty": "verb",
+            "ex": "They matched the right candidate to the job opening.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "match with",
+                " match against",
+                " match up"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/1c1facf6-459e-4f29-a1c5-598ed247d857.webp",
+            "Tips": [
+                {
+                    "title": "Right Pairing",
+                    "description": "Concerned with finding a correct or suitable counterpart.",
+                    "example": "The mentor program matches students with experienced professionals.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Tailored Connections",
+                    "description": "Connects the concept of customization to personal or professional pairing.",
+                    "example": "We matched the donation to the charity’s needs.",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "994bf159-67df-4d05-82b6-3615895e1a56",
+            "de": "To compete against someone",
+            "ty": "verb",
+            "ex": "He will match against the world champion in the final.",
+            "use": "",
+            "sy": "",
+            "op": "",
+            "re": "",
+            "tp": "",
+            "cl": [
+                "match against",
+                " match up",
+                " evenly matched"
+            ],
+            "ImageSrc": "https://word-images.cdn-wordup.com/senses/994bf159-67df-4d05-82b6-3615895e1a56.webp",
+            "Tips": [
+                {
+                    "title": "Confrontation",
+                    "description": "Used when someone is faced with an opponent or rival.",
+                    "example": "Tomorrow, I'll match wits with the debate team leader.\r",
+                    "imageUrl": ""
+                },
+                {
+                    "title": "Measure Up",
+                    "description": "Implies comparing to assess if one is at the same level as another.",
+                    "example": "Can any other team match their skill level?",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "comparisons": {
+        "Adapt": {
+            "wordRoot": "Adapt",
+            "wordDefinition": "Adapt means to adjust or modify something to fit a particular situation or circumstance. For example, a person may need to adapt to a new school or job by changing their daily routine or behavior.\n\nAdapt is more commonly used when it comes to making changes to oneself or something else to fit a new situation, while match is used when describing two things that are similar or identical.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/06cfbb70-76c8-4980-b861-cfb459ba6679.webp"
+        },
+        "Combine": {
+            "wordRoot": "Combine",
+            "wordDefinition": "Combine means to bring two or more things together to make a single entity. For example, combining flour, eggs, and sugar to make a cake.\n\nCombine is often used when talking about mixing or blending ingredients in cooking or chemistry.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/344ceaa8-b8c4-4983-b0cb-841e8c66de83.webp"
+        },
+        "Complement": {
+            "wordRoot": "Complement",
+            "wordDefinition": "Complement means something that enhances or completes another thing. For example, if you are wearing a blue shirt, a pair of brown shoes would complement the shirt.\n\nComplement means something that goes well with another thing, while match means the two things are similar or the same.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/788b1669-d096-41b8-a242-55b36a95c479.webp"
+        },
+        "Congruent": {
+            "wordRoot": "Congruent",
+            "wordDefinition": "Congruent describes two objects that have the same shape and size, while the word match describes two objects that are similar or complementary in some way.\n\nFor example, two triangles are congruent if they have the same angle measurements and side lengths. On the other hand, two socks can match if they have the same color or pattern.\n\nCongruent describes objects that are identical in shape and size, while match describes objects that go well together or are similar in some way.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/7d70a0e0-5938-4c79-aed6-cb9055c5d6ae.webp"
+        },
+        "Correspond": {
+            "wordRoot": "Correspond",
+            "wordDefinition": "The words correspond and match are similar but there are slight differences.\n\nCorrespond means to have a similarity or connection with something else. For example, if two things have similar features or characteristics, they can be said to correspond with each other.\n\nCorrespond describes similarities or connections between two things, while match is used to find something that fits a certain requirement.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/862dff42-ec45-4dbb-9f13-8b31e1d72e39.webp"
+        },
+        "Equal": {
+            "wordRoot": "Equal",
+            "wordDefinition": "Equal means two or more things are the same in value, size, quantity or quality. For example, 4 + 4 is equal to 8, because both sides have the same value.\n\nEqual is used to compare the value of two or more things, while match describes the similarity of two or more things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/690cd2ad-2e94-4761-a9ad-cfd1a03f7938.webp"
+        },
+        "Harmonize": {
+            "wordRoot": "Harmonize",
+            "wordDefinition": "To harmonize means to make things blend well together, like different notes in a song. This can be applied in music, but also in decorating a room or creating a menu with complementary flavors.\n\nIn essence, harmonize is about finding components that go well together, while match is about finding components that are the same or similar.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/8de9ccee-1a44-4ef6-b325-2fb09f8aeb84.webp"
+        },
+        "Homogeneous": {
+            "wordRoot": "Homogeneous",
+            "wordDefinition": "Homogeneous means that something is made up of the same kind of things or parts. For example, milk is homogeneous because it is made up of the same kind of molecules throughout.\n\nHomogeneous describes the composition of something, while match describes the similarity or compatibility of two things.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/bf8af8d2-22a9-4716-9dde-6ac39b215391.webp"
+        },
+        "Pair": {
+            "wordRoot": "Pair",
+            "wordDefinition": "Match means two things that are the same or similar to each other. For example, a pair of shoes that are the same color and size can be called a match.\n\nPair means two things that are meant to go together, but not necessarily the same. For example, a pair of socks can be different colors or patterns, but they are still meant to be worn together.\n\nMatch describes things that are the same, while pair describes things that go together even if they are not the same.",
+            "wordImage": "https://word-images.cdn-wordup.com/senses/d7394ce6-dd75-4089-8039-72b9e329eb0a.webp"
+        }
+    },
+    "videos": [
+        {
+            "Text": " even though I don't know how many there are of either. So, what we really mean when we say that two sets are the same size is that the elements in those sets can be matched up one by one in some way. My fourth grade teacher showed us the whole numbers laid out in a row, and below each we have its double. As you can see, the bottom row contains all the even numbers,",
+            "Title": "How big is infinity? -...",
+            "VideoId": "UPA3bwVVzGI",
+            "Controls": "start=81"
+        },
+        {
+            "Text": " memories so no flashbacks no nightmares I think we should all share this tip as widely as possible as soon as possible after you see or experience something traumatic play a visually absorbing pattern matching game like Tetris candy crush saga should work too and this can help you avoid the most painful symptoms",
+            "Title": "Heal your brain with...",
+            "VideoId": "9zyNcov087U",
+            "Controls": "start=154"
+        },
+        {
+            "Text": " some cancer cells can effectively switch on protective shields against whatever's attacking them by changing their gene expression. Malignant cancers are complex systems that constantly evolve and adapt. To defeat them, we need to find experimental systems that match their complexity,",
+            "Title": "Why is it so hard to...",
+            "VideoId": "h2rR77VsF5c",
+            "Controls": "start=246"
+        },
+        {
+            "Text": " that we don't yet know how to match in machines. So the question is, how far are we from being able to match those tricks? A couple of years ago, we did a survey of some of the world's leading A.I. experts, to see what they think, and one of the questions we asked was,",
+            "Title": "What happens when our...",
+            "VideoId": "MnT1xgZgkpk",
+            "Controls": "start=254"
+        },
+        {
+            "Text": " they would be less successful in a purely cooperative world, eventually disappearing from the population. So by correctly predicting the distribution of left-handed people in the general population, as well as matching data from various sports, the model indicates",
+            "Title": "Why are some people...",
+            "VideoId": "TGLYcYCm2FM",
+            "Controls": "start=239"
+        },
+        {
+            "Text": " up to the point where the lizard can actually shoot blood out of a tie with a precision aim of a sharpshooter and yes it's nothing more than plain old blood the coyote wisely retreats to find a less feisty meal game set match victory",
+            "Title": "Blood Squirting Lizard PIPE...",
+            "VideoId": "hE_fZNZjJcQ",
+            "Controls": "start=85"
+        },
+        {
+            "Text": " but unfortunately, our teeth aren't. While each human tooth is coated in a hardy, protective layer of enamel, it's no match for acid. That degrades the armor over time, leaching away its calcium minerals.",
+            "Title": "What causes cavities? -...",
+            "VideoId": "zGoBFU1q4g0",
+            "Controls": "start=71"
+        },
+        {
+            "Text": " he tests the banner but it stands firm it appears that the world's largest land carnivore has met his match there must be a in the armor",
+            "Title": "ONE HOUR of Amazing...",
+            "VideoId": "eEaZvEZye84",
+            "Controls": "start=3542"
+        },
+        {
+            "Text": " He tests the barrier, but it stands firm. It appears that the world's largest land carnivore has met his match.",
+            "Title": "Polar Bear vs Walrus PIPE...",
+            "VideoId": "PvWLbK_mNw0",
+            "Controls": "start=58"
+        },
+        {
+            "Text": " it appears that the world's largest land carnivore has met his match there must be a in the armor somewhere",
+            "Title": "Top 5 David Attenborough...",
+            "VideoId": "-tvA3Ezqjl8",
+            "Controls": "start=1006"
+        }
+    ],
+    "quotes": [
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/sergio-ramos.webp",
+            "Text": "We need the right attitude and the right motivation - that can decide the match above everything else.",
+            "Title": "Spanish Athlete",
+            "Name": "Sergio Ramos"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/arjen-robben.webp",
+            "Text": "I always want to play. It is important to gain match rhythm.",
+            "Title": "Dutch Athlete",
+            "Name": "Arjen Robben"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/bruno-dumont.webp",
+            "Text": "Matching character and actor is what a good director does.",
+            "Title": "French Director",
+            "Name": "Bruno Dumont"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/memphis-depay.webp",
+            "Text": "It's important for me to play every match the best I can.",
+            "Title": "Dutch Athlete",
+            "Name": "Memphis Depay"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/henrikh-mkhitaryan.webp",
+            "Text": "The most important competition is always the next match.",
+            "Title": "Armenian Athlete",
+            "Name": "Henrikh Mkhitaryan"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/garbine-muguruza.webp",
+            "Text": "I take every match as a final. It's very important.",
+            "Title": "Spanish Athlete",
+            "Name": "Garbine Muguruza"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/isco.webp",
+            "Text": "The matches with the national team give me life.",
+            "Title": "Spanish Athlete",
+            "Name": "Isco"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/viswanathan-anand.webp",
+            "Text": "Each match I play is the most important one yet.",
+            "Title": "Indian Celebrity",
+            "Name": "Viswanathan Anand"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/raul.webp",
+            "Text": "It's important to get match rhythm.",
+            "Title": "Spanish Athlete",
+            "Name": "Raul"
+        },
+        {
+            "ImageSrc": "https://author.cdn-wordup.com/img-webp/edinson-cavani.webp",
+            "Text": "To me, every match is important.",
+            "Title": "Uruguayan Athlete",
+            "Name": "Edinson Cavani"
+        }
+    ]
+}
