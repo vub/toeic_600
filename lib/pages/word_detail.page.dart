@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
-import 'package:flutter/services.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
+import 'package:toeic_600/data/learning_repository.dart';
+import 'package:toeic_600/model/learning_status.model.dart';
 import 'package:toeic_600/model/word.model.dart';
 import 'package:toeic_600/widgets/load_image.widget.dart';
 
 class WordDetailPage extends StatefulWidget {
   final Word wordDefinition;
 
-  const WordDetailPage({Key? key, required this.wordDefinition})
-      : super(key: key);
+  const WordDetailPage({Key? key, required this.wordDefinition}) : super(key: key);
 
   @override
   _WordDetailPageState createState() => _WordDetailPageState();
@@ -18,13 +18,15 @@ class WordDetailPage extends StatefulWidget {
 class _WordDetailPageState extends State<WordDetailPage> {
   late FlutterTts _flutterTts;
   late PageController _pageController;
-  double maxHeight = 0;
+  final LearningRepository _learningRepository = LearningRepository();
+  LearningStatus? _currentStatus;
 
   @override
   void initState() {
     super.initState();
     _flutterTts = FlutterTts();
     _pageController = PageController(viewportFraction: 0.9, keepPage: true);
+    _loadLearningStatus();
   }
 
   @override
@@ -32,6 +34,22 @@ class _WordDetailPageState extends State<WordDetailPage> {
     _flutterTts.stop();
     _pageController.dispose();
     super.dispose();
+  }
+
+  /// Load the current learning status for the word
+  Future<void> _loadLearningStatus() async {
+    final status = await _learningRepository.findStatusByWordId(1); // widget.wordDefinition.id
+    setState(() {
+      _currentStatus = status ?? LearningStatus.toLearn;
+    });
+  }
+
+  /// Update the learning status for the word
+  Future<void> _updateLearningStatus(LearningStatus status) async {
+    await _learningRepository.updateWordStatusById(1, status); // widget.wordDefinition.id
+    setState(() {
+      _currentStatus = status;
+    });
   }
 
   Future<void> _speakPhonemic(String text) async {
@@ -57,11 +75,14 @@ class _WordDetailPageState extends State<WordDetailPage> {
                   children: [
                     Row(
                       children: [
-                        Text(widget.wordDefinition.currentWord.wordRoot,
-                            style: const TextStyle(
-                                fontSize: 20,
-                                fontWeight: FontWeight.w700,
-                                color: Colors.blue)),
+                        Text(
+                          widget.wordDefinition.currentWord.wordRoot,
+                          style: const TextStyle(
+                            fontSize: 20,
+                            fontWeight: FontWeight.w700,
+                            color: Colors.blue,
+                          ),
+                        ),
                       ],
                     ),
                     Row(
@@ -70,12 +91,13 @@ class _WordDetailPageState extends State<WordDetailPage> {
                         Text(
                           '/${widget.wordDefinition.currentWord.phonemic.split('|').first}/',
                           style: const TextStyle(
-                              fontSize: 18, color: Colors.blueAccent),
+                            fontSize: 18,
+                            color: Colors.blueAccent,
+                          ),
                         ),
                         IconButton(
                           icon: const Icon(Icons.volume_up),
-                          onPressed: () => _speakPhonemic(
-                              widget.wordDefinition.currentWord.wordRoot),
+                          onPressed: () => _speakPhonemic(widget.wordDefinition.currentWord.wordRoot),
                         ),
                       ],
                     ),
@@ -100,32 +122,27 @@ class _WordDetailPageState extends State<WordDetailPage> {
                         itemBuilder: (context, index) {
                           final sense = widget.wordDefinition.senses[index];
                           return Container(
-                            margin: const EdgeInsets.symmetric(
-                                horizontal: 6, vertical: 10),
+                            margin: const EdgeInsets.symmetric(horizontal: 6, vertical: 10),
                             child: Card(
                               child: Column(
                                 children: [
                                   Padding(
                                     padding: const EdgeInsets.all(12.0),
                                     child: Column(
-                                      crossAxisAlignment:
-                                          CrossAxisAlignment.start,
+                                      crossAxisAlignment: CrossAxisAlignment.start,
                                       children: [
                                         Text(
                                           sense.ty,
-                                          style: const TextStyle(
-                                              fontSize: 16,
-                                              color: Colors.green),
+                                          style: const TextStyle(fontSize: 16, color: Colors.green),
                                         ),
-                                        Text(sense.de,
-                                            style: const TextStyle(
-                                                fontWeight: FontWeight.bold)),
+                                        Text(
+                                          sense.de,
+                                          style: const TextStyle(fontWeight: FontWeight.bold),
+                                        ),
                                         const SizedBox(height: 8),
                                         Text(
                                           sense.ex,
-                                          style: const TextStyle(
-                                              fontSize: 14,
-                                              fontStyle: FontStyle.italic),
+                                          style: const TextStyle(fontSize: 14, fontStyle: FontStyle.italic),
                                         ),
                                       ],
                                     ),
@@ -133,9 +150,8 @@ class _WordDetailPageState extends State<WordDetailPage> {
                                   if (sense.imageSrc.isNotEmpty)
                                     Flexible(
                                       flex: 1,
-                                      child:
-                                          LoadImageWidget(url: sense.imageSrc),
-                                    )
+                                      child: LoadImageWidget(url: sense.imageSrc),
+                                    ),
                                 ],
                               ),
                             ),
@@ -152,67 +168,79 @@ class _WordDetailPageState extends State<WordDetailPage> {
           Padding(
             padding: const EdgeInsets.all(16.0),
             child: SizedBox(
-                width: double.infinity,
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceAround,
-                  // Distribute buttons evenly
-                  children: [
-                    Column(
-                      mainAxisSize: MainAxisSize.min,
-                      // To avoid column taking full height
-                      children: [
-                        IconButton(
-                          onPressed: () {
-                            // Your button action here
-                          },
-                          icon: const Icon(Icons.arrow_back_outlined),
+              width: double.infinity,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: [
+                  Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      IconButton(
+                        onPressed: () {},
+                        icon: const Icon(Icons.arrow_back_outlined),
+                      ),
+                      const Text('Back', style: TextStyle(fontSize: 12)),
+                    ],
+                  ),
+                  Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      IconButton(
+                        onPressed: () => _updateLearningStatus(LearningStatus.learning),
+                        icon: Icon(
+                          Icons.book,
+                          color: _currentStatus == LearningStatus.learning
+                              ? Colors.blue // Highlight color
+                              : Colors.grey, // Default color
                         ),
-                        const Text('Back', style: TextStyle(fontSize: 12)),
-                        // Description text
-                      ],
-                    ),
-                    Column(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        IconButton(
-                          onPressed: () {
-                            // Your button action here
-                          },
-                          icon: const Icon(Icons
-                              .book), // You might want a more relevant icon
+                      ),
+                      Text(
+                        'Should Learn',
+                        style: TextStyle(
+                          fontSize: 12,
+                          color: _currentStatus == LearningStatus.learning
+                              ? Colors.blue // Highlight color
+                              : Colors.black, // Default color
                         ),
-                        const Text('Should Learn',
-                            style: TextStyle(fontSize: 12)),
-                      ],
-                    ),
-                    Column(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        IconButton(
-                          onPressed: () {
-                            // Your button action here
-                          },
-                          icon: const Icon(Icons
-                              .check_circle), // You might want a more relevant icon
+                      ),
+                    ],
+                  ),
+                  Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      IconButton(
+                        onPressed: () => _updateLearningStatus(LearningStatus.known),
+                        icon: Icon(
+                          Icons.check_circle,
+                          color: _currentStatus == LearningStatus.known
+                              ? Colors.blue // Highlight color
+                              : Colors.grey, // Default color
                         ),
-                        const Text('Already Knew',
-                            style: TextStyle(fontSize: 12)),
-                      ],
-                    ),
-                    Column(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        IconButton(
-                          onPressed: () {
-                            // Your button action here
-                          },
-                          icon: const Icon(Icons.arrow_forward_outlined),
+                      ),
+                      Text(
+                        'Already Knew',
+                        style: TextStyle(
+                          fontSize: 12,
+                          color: _currentStatus == LearningStatus.known
+                              ? Colors.blue // Highlight color
+                              : Colors.black, // Default color
                         ),
-                        const Text('Next', style: TextStyle(fontSize: 12)),
-                      ],
-                    ),
-                  ],
-                )),
+                      ),
+                    ],
+                  ),
+                  Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      IconButton(
+                        onPressed: () {},
+                        icon: const Icon(Icons.arrow_forward_outlined),
+                      ),
+                      const Text('Next', style: TextStyle(fontSize: 12)),
+                    ],
+                  ),
+                ],
+              ),
+            ),
           ),
         ],
       ),

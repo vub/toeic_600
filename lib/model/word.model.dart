@@ -1,4 +1,5 @@
 class Word {
+  // final int id;
   final CurrentWord currentWord;
   final List<Sense> senses;
   final Map<String, Comparison> comparisons;
@@ -6,6 +7,7 @@ class Word {
   final List<Quote> quotes;
 
   Word({
+    // required this.id,
     required this.currentWord,
     required this.senses,
     required this.comparisons,
@@ -15,6 +17,7 @@ class Word {
 
   factory Word.fromJson(Map<String, dynamic> json) {
     return Word(
+      // id: int.parse(json['id']),
       currentWord: CurrentWord.fromJson(json['currentWord']), // Default empty instance if null
       senses: (json['senses'] as List?)
           ?.map((i) => Sense.fromJson(i))

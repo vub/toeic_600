@@ -20,6 +20,11 @@ flutter pub add google_fonts
 flutter pub get
 
 
-+ Fetch all data
-+ Seed to db
-+ 
+✅ Fetch all data
+✅ Seed to db
++ Find 5 words is duplicating, suggest 5 different words
++ Add id for those words
++ Next, prev word
++ View all words by color, and filter
++ Learning progress chart
++ Filter word

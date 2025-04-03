@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:toeic_600/data/learning_repository.dart';
 import 'package:toeic_600/data/seed_topic.dart';
+import 'package:toeic_600/data/seed_word.dart';
 import 'package:toeic_600/pages/topic_list.page.dart';
 import 'package:toeic_600/pages/word_list.page.dart';
 import 'package:hive_flutter/hive_flutter.dart';
@@ -9,6 +11,9 @@ import 'package:hive_flutter/hive_flutter.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await seedData();
+  await seedWord();
+  await LearningRepository.initBox();
+
   runApp(const MyApp());
 }
 
